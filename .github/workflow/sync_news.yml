@@ -1,0 +1,42 @@
+name: Sync AI News Every 6 Hours
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  sync-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install Dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run News Pipeline
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          INGEST_TO_DB: "false"
+          PYTHONUNBUFFERED: "1"
+        run: |
+          python main.py --news 50
+
+      - name: Commit Updated Logo Cache & SQLite Dedupe
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/publisher_logos.json output/.dedupe.sqlite3 output/.source_health.sqlite3
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: persist logo cache and dedupe logs [skip ci]" && git push)
