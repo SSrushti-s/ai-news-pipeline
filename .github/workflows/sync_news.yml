@@ -9,9 +9,15 @@ jobs:
   sync-news:
     runs-on: ubuntu-latest
 
+    # 🌟 Added explicit write permissions so the runner can push changes back to your repository
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout Code
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true # Keeps the authentication token alive for the push operation
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -34,9 +40,13 @@ jobs:
         run: |
           python main.py --news 50
 
-      - name: Commit Updated Logo Cache & SQLite Dedupe
+      # 🌟 Updated to include the newly generated timestamped news JSON files
+      - name: Commit Updated Logo Cache, SQLite Dedupe & Scraped News JSON
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add output/publisher_logos.json output/.dedupe.sqlite3 output/.source_health.sqlite3
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: persist logo cache and dedupe logs [skip ci]" && git push)
+          
+          # Added output/news_*.json to track the fresh timestamped outputs
+          git add output/publisher_logos.json output/.dedupe.sqlite3 output/.source_health.sqlite3 output/news_*.json
+          
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: persist logo cache, dedupe logs, and news JSON [skip ci]" && git push origin HEAD:${{ github.ref }})
