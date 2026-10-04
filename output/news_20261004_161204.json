@@ -1,0 +1,888 @@
+{
+  "news": [
+    {
+      "slug": "ai-stocks-drive-an-increasingly-divided-market",
+      "title": "AI Stocks Drive an Increasingly Divided Market",
+      "dek": "Schwab Head of Macro Research and Strategy Kevin Gordon tells Bloomberg This Weekend that AI-related technology stocks are supporting the broader market even as many individual companies have suffered significantly larger declines, highlighting increasingly narrow market leadersh",
+      "aiSummary": "Kevin Gordon, Schwab's Head of Macro Research and Strategy, explains that AI-related technology stocks are currently propping up the broader market. However, this support comes at the cost of many other individual companies experiencing significant declines, resulting in a market with increasingly narrow leadership.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-04/ai-stocks-drive-an-increasingly-divided-market-video",
+      "category": "Finance",
+      "filterTags": [
+        "Schwab",
+        "Kevin Gordon",
+        "Bloomberg",
+        "AI stocks"
+      ],
+      "publishedAt": "2026-10-04T16:05:33+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Markets"
+        }
+      ]
+    },
+    {
+      "slug": "apple-says-it-s-tightening-macos-privacy-controls-amid-the-rise-of-ai-agents",
+      "title": "Apple says it's tightening macOS privacy controls amid the rise of AI agents",
+      "dek": "Apple is making macOS privacy settings stricter because AI agents are becoming more common.",
+      "aiSummary": "Apple has announced that it is implementing stricter privacy controls on macOS. This move is a direct response to the increasing prevalence and capabilities of AI agents.",
+      "articleUrl": "https://9to5mac.com/2026/10/02/apple-says-its-tightening-macos-privacy-controls-amid-the-rise-of-ai-agents/",
+      "category": "AI",
+      "filterTags": [
+        "Apple",
+        "macOS",
+        "AI agents",
+        "Privacy"
+      ],
+      "publishedAt": "2026-10-04T16:02:07+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Consumer Tech"
+        }
+      ]
+    },
+    {
+      "slug": "b11393",
+      "title": "b11393",
+      "dek": "chat-peg-parser : clear current_tool when pending_tool_call is reset …",
+      "aiSummary": "The update modifies the chat-peg-parser to ensure that the current_tool variable is cleared whenever the pending_tool_call is reset. This change likely addresses state management issues within the parsing logic.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11393",
+      "category": "Software Engineering",
+      "filterTags": [
+        "chat-peg-parser",
+        "current_tool",
+        "pending_tool_call"
+      ],
+      "publishedAt": "2026-10-04T15:59:21+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "last-3-days-ai-evals-october-cohort",
+      "title": "Last 3 days: AI Evals, October cohort",
+      "dek": "Secure your spot in AI Evals in Practice. Enrollment closes in just 3 days! If you’ve been thinking about joining, now’s the time.",
+      "aiSummary": "The AI Evals in Practice program is accepting enrollments for its October cohort, with registration closing in three days. Prospective participants are encouraged to sign up quickly to secure a spot.",
+      "articleUrl": "https://blog.bytebytego.com/p/new-course-ai-evals-in-practice-starts",
+      "category": "Education",
+      "filterTags": [
+        "AI Evals",
+        "AI"
+      ],
+      "publishedAt": "2026-10-04T15:57:40+00:00",
+      "publisher": {
+        "name": "ByteByteGo",
+        "domain": "bytebytego.com",
+        "website": "https://bytebytego.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bytebytego.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bytebytego.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Education"
+        },
+        {
+          "name": "Artificial Intelligence"
+        }
+      ]
+    },
+    {
+      "slug": "design-systems-for-ai-agents",
+      "title": "Design Systems for AI Agents",
+      "dek": "Creating design systems specifically for AI agents",
+      "aiSummary": "The provided text does not contain an article body, only the title 'Design Systems for AI Agents'. Therefore, no factual summary can be generated from the description.",
+      "articleUrl": "https://www.lukew.com/ff/2164/design-systems-for-ai-agents",
+      "category": "AI",
+      "filterTags": [
+        "AI Agents",
+        "Design Systems"
+      ],
+      "publishedAt": "2026-10-04T15:55:03+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Design"
+        }
+      ]
+    },
+    {
+      "slug": "v0-40-0-rc2",
+      "title": "v0.40.0-rc2",
+      "dek": "Merge remote-tracking branch 'upstream/main' into release_v0.40.0",
+      "aiSummary": "The release candidate v0.40.0-rc2 involves merging the upstream main branch into the release_v0.40.0 branch. This action integrates recent changes from the main development line into the specific release track.",
+      "articleUrl": "https://github.com/ollama/ollama/releases/tag/v0.40.0-rc2",
+      "category": "Software Development",
+      "filterTags": [
+        "v0.40.0-rc2",
+        "upstream/main",
+        "release_v0.40.0"
+      ],
+      "publishedAt": "2026-10-04T15:48:45+00:00",
+      "publisher": {
+        "name": "ollama",
+        "domain": "github.com",
+        "website": "https://github.com/ollama/ollama",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Version Control"
+        }
+      ]
+    },
+    {
+      "slug": "give-your-ai-agent-its-own-identity",
+      "title": "Give Your AI Agent Its Own Identity",
+      "dek": "Assign a unique identity to your AI agent.",
+      "aiSummary": "",
+      "articleUrl": "https://www.agentid.com/blog/give-your-ai-agent-its-own-identity",
+      "category": "AI",
+      "filterTags": [],
+      "publishedAt": "2026-10-04T15:48:13+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "trump-unveils-his-new-super-intelligence-force",
+      "title": "Trump unveils his new Super Intelligence Force",
+      "dek": "This new task force is Trump's latest response to the debate over AI safety.",
+      "aiSummary": "Donald Trump has established a new task force dedicated to super intelligence. This initiative serves as his latest move in the ongoing discussion regarding AI safety.",
+      "articleUrl": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "category": "AI",
+      "filterTags": [
+        "Trump",
+        "AI Safety",
+        "Super Intelligence"
+      ],
+      "publishedAt": "2026-10-04T15:15:10+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Policy"
+        }
+      ]
+    },
+    {
+      "slug": "design-is-a-jobsian-level-focus-for-john-ternus",
+      "title": "Design is a Jobsian-level focus for John Ternus",
+      "dek": "John Ternus  is putting his stamp on Apple by focusing on the company's design work, with the CEO taking an almost Jobsian approach to make design great again. Apple CEO John Ternus - Image Credit: Apple The era of  Tim Cook  as Apple CEO was one of growth, with sales and manufac",
+      "aiSummary": "Apple CEO John Ternus is putting his stamp on the company by prioritizing design, adopting a Jobsian approach to make design great again. He is focusing on the company's design work to elevate its products. The previous era under Tim Cook saw growth in sales and manufacturing.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/04/design-is-a-jobsian-level-focus-for-john-ternus?utm_source=rss",
+      "category": "Hardware",
+      "filterTags": [
+        "Apple",
+        "John Ternus",
+        "Tim Cook"
+      ],
+      "publishedAt": "2026-10-04T15:05:05+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Design"
+        },
+        {
+          "name": "Leadership"
+        }
+      ]
+    },
+    {
+      "slug": "v0-40-0-rc1-mlx-match-publisher-tokenizer-semantics-18779",
+      "title": "v0.40.0-rc1: mlx: match publisher tokenizer semantics (#18779)",
+      "dek": "mlx: match publisher tokenizer semantics \n \n Honor pretokenizer stage order, split behavior, Unicode boundaries, \nadded-token normalization, and ranked BPE merges. Handle empty added \ntokens and empty Metaspace input consistently. \n Add shared Go/Python reference cases using publ",
+      "aiSummary": "The v0.40.0-rc1 release candidate introduces changes to the mlx module to match the publisher's tokenizer semantics, including handling of pretokenizer stages, Unicode boundaries, and BPE merges. It also ensures consistent handling of empty added tokens and Metaspace input, supported by shared Go and Python reference test cases.",
+      "articleUrl": "https://github.com/ollama/ollama/releases/tag/v0.40.0-rc1",
+      "category": "Software Development",
+      "filterTags": [
+        "mlx",
+        "tokenizer",
+        "BPE",
+        "Go",
+        "Python",
+        "Unicode"
+      ],
+      "publishedAt": "2026-10-04T14:45:15+00:00",
+      "publisher": {
+        "name": "ollama",
+        "domain": "github.com",
+        "website": "https://github.com/ollama/ollama",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Natural Language Processing"
+        }
+      ]
+    },
+    {
+      "slug": "b11392",
+      "title": "b11392",
+      "dek": "ci : set default permissions ( #29945 ) \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/52595372 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silicon (arm64, KleidiAI enabled)  DISABLED \n macOS Intel (x64",
+      "aiSummary": "The article discusses a continuous integration change that sets default permissions for the project, referencing issue #29945. It provides links to the project's website and attestations, and lists supported macOS and iOS builds, including Apple Silicon and Intel architectures.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11392",
+      "category": "Software Development",
+      "filterTags": [
+        "CI",
+        "llama.cpp",
+        "ggml-org",
+        "macOS",
+        "Apple Silicon",
+        "Intel"
+      ],
+      "publishedAt": "2026-10-04T14:43:34+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Operating Systems"
+        }
+      ]
+    },
+    {
+      "slug": "touch-screen-macbook-pro-will-be-significantly-lighter",
+      "title": "Touch-screen MacBook Pro will be significantly lighter",
+      "dek": "The forthcoming new  MacBook Pro  is expected to bring an OLED touch-screen, but it's also now predicted to be at least a little closer to the MacBook Air's lower weight. Apple's MacBook Pro. Every detail of the expected MacBook Pro refresh has been rumored, sometimes for years, ",
+      "aiSummary": "The next generation of the MacBook Pro is anticipated to feature an OLED touch-screen. Additionally, it is predicted to be lighter, bringing its weight closer to that of the MacBook Air.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/04/touch-screen-macbook-pro-will-be-significantly-lighter?utm_source=rss",
+      "category": "Hardware",
+      "filterTags": [
+        "MacBook Pro",
+        "OLED",
+        "Apple",
+        "MacBook Air"
+      ],
+      "publishedAt": "2026-10-04T14:35:20+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "initial-basic-m4-support-coming-to-linux-7-4",
+      "title": "Initial basic M4 support coming to Linux 7.4",
+      "dek": "While it won't be practically usable initially, Asahi Linux developer Sven Peter sent out the pull requests for very basic support for the M4 \"device tree,\" and for the MacBook Neo. Upon release, the support will be good enough to install the kernel on those devices, and that's a",
+      "aiSummary": "Asahi Linux developer Sven Peter has submitted pull requests to add basic support for the Apple M4 device tree and the MacBook Neo to Linux 7.4. This initial support is not practically usable but is sufficient to allow the kernel to be installed on these devices.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/04/initial-basic-m4-support-coming-to-linux-74?utm_source=rss",
+      "category": "Operating Systems",
+      "filterTags": [
+        "Linux",
+        "Asahi Linux",
+        "Apple M4",
+        "MacBook Neo",
+        "Sven Peter"
+      ],
+      "publishedAt": "2026-10-04T14:22:35+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Operating Systems"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "b11391",
+      "title": "b11391",
+      "dek": "cuda : move blocks_per_col to where it is used ( #29939 ) \n Signed-off-by: Adrien Gallouët  angt@huggingface.co \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/52591217 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n ma",
+      "aiSummary": "A commit in the llama.cpp repository moves the 'blocks_per_col' variable to the point of use within the CUDA implementation. The change was signed off by Adrien Gallouët from Hugging Face.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11391",
+      "category": "Open Source",
+      "filterTags": [
+        "llama.cpp",
+        "CUDA",
+        "Hugging Face"
+      ],
+      "publishedAt": "2026-10-04T14:12:42+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "rural-queenslanders-have-seen-gas-projects-come-and-go-but-a-725-hectare-datacentre-poses-a-whole-new-level-of-stupidity",
+      "title": "Rural Queenslanders have seen gas projects come and go – but a 725-hectare datacentre poses a whole new level of ‘stupidity’",
+      "dek": "Residents of Dalby may soon live beside a $31bn datacentre. The premier sees ‘opportunity’ for the state – but others fear AI’s global creep From the veranda on his bush block, Denver Kanowski has watched resources companies come and go from rural Queensland for 70 years. The hom",
+      "aiSummary": "Residents of Dalby in rural Queensland are expressing strong opposition to a proposed $31 billion data center, describing the 725-hectare project as a new level of 'stupidity' compared to previous resource industries. While the state premier views the development as an economic opportunity, local communities fear the expanding influence of AI infrastructure in their region.",
+      "articleUrl": "https://www.theguardian.com/australia-news/2026/oct/05/queensland-data-centre-anthropic-western-downs-dalby",
+      "category": "Infrastructure",
+      "filterTags": [
+        "Dalby",
+        "Queensland",
+        "Data Centre",
+        "AI"
+      ],
+      "publishedAt": "2026-10-04T14:00:29+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Regional Development"
+        }
+      ]
+    },
+    {
+      "slug": "apple-s-john-ternus-leads-design-touch-screen-oled-macbook-pro-gets-lighter",
+      "title": "Apple’s John Ternus Leads Design; Touch-Screen OLED MacBook Pro Gets Lighter",
+      "dek": "Also: A big update on the touch-screen MacBook Pro.",
+      "aiSummary": "Apple's John Ternus leads the company's design efforts. Additionally, the touch-screen OLED MacBook Pro has received a significant update that makes the device lighter.",
+      "articleUrl": "https://www.bloomberg.com/news/newsletters/2026-10-04/apple-s-john-ternus-leads-design-touch-screen-oled-macbook-pro-gets-lighter",
+      "category": "Hardware",
+      "filterTags": [
+        "Apple",
+        "John Ternus",
+        "MacBook Pro",
+        "OLED"
+      ],
+      "publishedAt": "2026-10-04T14:00:01+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "how-to-govern-ai-agents",
+      "title": "How to Govern AI Agents",
+      "dek": "From guarding one agent to steering a fleet \n The post  How to Govern AI Agents  appeared first on  Towards Data Science .",
+      "aiSummary": "The article discusses strategies for governing AI agents, ranging from securing individual agents to managing large fleets. It appeared on the Towards Data Science platform.",
+      "articleUrl": "https://towardsdatascience.com/how-to-govern-ai-agents/",
+      "category": "AI",
+      "filterTags": [
+        "AI Agents",
+        "Towards Data Science"
+      ],
+      "publishedAt": "2026-10-04T14:00:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Data Science"
+        }
+      ]
+    },
+    {
+      "slug": "trump-names-intelligence-chief-jay-clayton-as-new-white-house-ai-czar",
+      "title": "Trump names intelligence chief Jay Clayton as new White House AI czar",
+      "dek": "Calyton said AI was a ‘gamechanger’ but it also posed ‘a threat’ during his DNI Senate confirmation hearing  Donald Trump on Sunday named  Jay Clayton, the director of national intelligence , to serve also as the new White House AI czar. Clayton,  who leads the US’s 18 intelligen",
+      "aiSummary": "During his Senate confirmation hearing, Jay Clayton, the director of national intelligence, said AI is a gamechanger but also a threat. President Trump named him the new White House AI czar.",
+      "articleUrl": "https://www.theguardian.com/us-news/2026/oct/04/trump-jay-clayton-white-house-ai-czar",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "National Intelligence",
+        "White House"
+      ],
+      "publishedAt": "2026-10-04T13:44:50+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Government"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "48-hours-in-the-singapore-with-no-smartphone",
+      "title": "48 Hours in the Singapore With No Smartphone",
+      "dek": "Bloomberg Pursuits Senior Features Writer Thu-Huong Ha tells Bloomberg This Weekend about spending 48 hours in Singapore without relying on a smartphone, navigating a city where transportation, payments, dining and government services are deeply integrated with digital technology",
+      "aiSummary": "Bloomberg Pursuits writer Thu-Huong Ha recounts her experience spending 48 hours in Singapore without a smartphone. She navigates a city where transportation, payments, dining, and government services are heavily integrated with digital technology.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-04/48-hours-in-the-singapore-with-no-smartphone-video",
+      "category": "Technology",
+      "filterTags": [
+        "Bloomberg",
+        "Singapore",
+        "Smartphone",
+        "Digital Technology"
+      ],
+      "publishedAt": "2026-10-04T13:28:53+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Travel"
+        },
+        {
+          "name": "Lifestyle"
+        }
+      ]
+    },
+    {
+      "slug": "a-weird-ipo-pull-a-tainted-reputation-and-the-stalled-breakout-moment-for-ai-wearables",
+      "title": "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables",
+      "dek": "Apple, Google and Meta are pushing new AI devices and assistants amid growing privacy concerns around wearables.",
+      "aiSummary": "Apple, Google, and Meta are launching new AI devices and assistants. The push comes as privacy concerns about wearables increase.",
+      "articleUrl": "https://www.cnbc.com/2026/10/04/ai-wearables-oura-ipo-privacy.html",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Apple",
+        "Google",
+        "Meta",
+        "AI devices",
+        "wearables"
+      ],
+      "publishedAt": "2026-10-04T13:22:39+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Privacy"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "the-ai-industry-is-booming-women-are-getting-left-behind",
+      "title": "The AI industry is booming. Women are getting left behind",
+      "dek": "Women hold just a fraction of new AI jobs but are overrepresented in roles with high risk of AI disruption There’s a common fear among people who work in Silicon Valley: snag one of the fast-growing, high-paying jobs in artificial intelligence, or get trapped in the “permanent un",
+      "aiSummary": "Women currently occupy only a small portion of new artificial intelligence positions while being overrepresented in roles that face a high risk of automation. This disparity creates a scenario where women are less likely to secure the high-paying, fast-growing AI jobs and more likely to be trapped in roles vulnerable to AI disruption.",
+      "articleUrl": "https://www.theguardian.com/technology/2026/oct/04/women-ai-jobs-inequality",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Silicon Valley",
+        "Workforce",
+        "Gender Gap"
+      ],
+      "publishedAt": "2026-10-04T13:00:29+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Labor Market"
+        },
+        {
+          "name": "Diversity & Inclusion"
+        }
+      ]
+    },
+    {
+      "slug": "openai-s-head-of-chatgpt-we-re-entering-a-new-era-of-ai-again-tibo-sottiaux",
+      "title": "OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) | Tibo Sottiaux",
+      "dek": "Listen now (37 mins) | Tibo Sottiaux on why Dots is OpenAI’s biggest bet, why agents will dominate internet traffic, and what builders are still getting wrong",
+      "aiSummary": "In a 37‑minute interview, Tibo Sottiaux explains that Dots is OpenAI’s biggest bet. He also discusses how agents are set to dominate internet traffic and points out common mistakes that builders still make.",
+      "articleUrl": "https://www.lennysnewsletter.com/p/openais-head-of-chatgpt-were-entering",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "Dots",
+        "agents"
+      ],
+      "publishedAt": "2026-10-04T12:32:47+00:00",
+      "publisher": {
+        "name": "Lenny's Newsletter",
+        "domain": "lennysnewsletter.com",
+        "website": "https://www.lennysnewsletter.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=lennysnewsletter.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=lennysnewsletter.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Internet"
+        }
+      ]
+    },
+    {
+      "slug": "investors-look-to-shelter-portfolios-from-rising-ai-concentration-risks",
+      "title": "Investors look to shelter portfolios from rising AI concentration risks",
+      "dek": "Fund managers see hedge funds and emerging markets assets as bulwarks against sudden shift in sentiment on artificial intelligence",
+      "aiSummary": "Fund managers are identifying hedge funds and emerging market assets as key defensive strategies to mitigate risks associated with high portfolio concentration in artificial intelligence. These assets are viewed as bulwarks against potential sudden shifts in market sentiment regarding the AI sector.",
+      "articleUrl": "https://www.ft.com/content/3302fd5c-8b92-425b-9523-673b2565bb10?syn-25a6b1a6=1",
+      "category": "Finance",
+      "filterTags": [
+        "AI",
+        "Hedge Funds",
+        "Emerging Markets",
+        "Portfolio Management"
+      ],
+      "publishedAt": "2026-10-04T12:00:08+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Investment Strategy"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "the-reversal-curse-why-a-language-model-that-knows-a-is-b-can-t-tell-you-b-is-a",
+      "title": "The Reversal Curse: Why a Language Model That Knows “A Is B” Can’t Tell You “B Is A”",
+      "dek": "A model can recall a fact in the direction it learned it and fail in the other. Here's a toy version of why \n The post  The Reversal Curse: Why a Language Model That Knows “A Is B” Can’t Tell You “B Is A”  appeared first on  Towards Data Science .",
+      "aiSummary": "The article explains that language models remember facts only in the direction they were trained, so they can answer ‘A is B’ but not ‘B is A’. It presents a toy example illustrating this limitation.",
+      "articleUrl": "https://towardsdatascience.com/the-reversal-curse-why-a-language-model-that-knows-a-is-b-cant-tell-you-b-is-a/",
+      "category": "AI",
+      "filterTags": [
+        "Language Model",
+        "Towards Data Science"
+      ],
+      "publishedAt": "2026-10-04T12:00:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "NLP"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "legal-risks-pile-up-for-altman-as-openai-uncovers-dozens-of-hacks",
+      "title": "Legal risks pile up for Altman as OpenAI uncovers dozens of hacks",
+      "dek": "Cyber security incidents involving company’s AI tools leave ChatGPT maker vulnerable to wave of lawsuits",
+      "aiSummary": "OpenAI has identified dozens of security breaches in its AI systems, raising concerns about data privacy and compliance. These incidents expose the company to potential lawsuits from affected users and regulators. The company is reviewing its security protocols to mitigate further legal risks.",
+      "articleUrl": "https://www.ft.com/content/2c24ece3-ac99-43a8-b0e6-4a3867e37ebf?syn-25a6b1a6=1",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "OpenAI",
+        "ChatGPT",
+        "cybersecurity",
+        "AI tools"
+      ],
+      "publishedAt": "2026-10-04T11:00:08+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "Legal & Regulatory"
+        }
+      ]
+    },
+    {
+      "slug": "ai-weekly-issue-534-universities-cannot-grade-their-way-out-of-ai",
+      "title": "AI Weekly Issue #534: Universities cannot grade their way out of AI",
+      "dek": "This week, campus IT leaders voted AI their top priority for the first time, Cambridge refused Turnitin's new terms over AI training on student work, Dartmouth opened an investigation into its own provost's writing, and Ken Griffin gave Carnegie Mellon $3 billion. Student AI use ",
+      "aiSummary": "Campus IT leaders have identified AI as their top priority for the first time, while Cambridge University rejected Turnitin's new terms regarding AI training on student work. Additionally, Dartmouth launched an investigation into its provost's writing, and Ken Griffin donated $3 billion to Carnegie Mellon.",
+      "articleUrl": "https://aiweekly.co/issues/universities-cannot-grade-their-way-out-of-ai",
+      "category": "Higher Education",
+      "filterTags": [
+        "Turnitin",
+        "Cambridge",
+        "Dartmouth",
+        "Carnegie Mellon",
+        "Ken Griffin"
+      ],
+      "publishedAt": "2026-10-04T00:00:00+00:00",
+      "publisher": {
+        "name": "AI Weekly",
+        "domain": "aiweekly.co",
+        "website": "https://aiweekly.co/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=aiweekly.co&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=aiweekly.co&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Higher Education"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Academic Integrity"
+        }
+      ]
+    }
+  ]
+}
