@@ -1,0 +1,1725 @@
+{
+  "news": [
+    {
+      "slug": "mbti-for-ai-coding-agents-complete-with-a-self-awareness-score",
+      "title": "MBTI for AI coding agents, complete with a self-awareness score",
+      "dek": "Applying MBTI personality categories to AI programmers, with an added self-awareness metric.",
+      "aiSummary": "The article explores the idea of assigning MBTI personality types to AI coding agents. It also introduces a self-awareness score to gauge how conscious the agents are. This approach could help developers understand and manage AI behavior.",
+      "articleUrl": "https://github.com/joonfjp/16agents",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "MBTI",
+        "AI",
+        "Self-Awareness Score"
+      ],
+      "publishedAt": "2026-10-04T05:52:05+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Human-Computer Interaction"
+        }
+      ]
+    },
+    {
+      "slug": "korea-orders-security-checks-after-finance-sector-data-breaches",
+      "title": "Korea Orders Security Checks After Finance-Sector Data Breaches",
+      "dek": "South Korean regulators urged financial institutions to promptly complete internal security inspections and report the results to authorities after a series of cyberattacks led to personal data breaches across the industry.",
+      "aiSummary": "South Korean regulators have instructed financial institutions to conduct immediate internal security inspections and report the findings to authorities. This directive follows a series of cyberattacks that resulted in personal data breaches across the financial sector.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-04/korea-orders-security-checks-after-finance-sector-data-breaches",
+      "category": "Security",
+      "filterTags": [
+        "South Korea",
+        "Financial Sector",
+        "Data Breach",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-04T05:43:28+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Regulation"
+        }
+      ]
+    },
+    {
+      "slug": "ai-just-changed-mathematics-forever-brian-greene-tristan-buckmaster",
+      "title": "AI Just Changed Mathematics Forever – Brian Greene & Tristan Buckmaster",
+      "dek": "Artificial intelligence has permanently altered the field of mathematics, according to Brian Greene and Tristan Buckmaster.",
+      "aiSummary": "The provided text contains only a title and no descriptive content. Therefore, no factual summary can be generated based on the article body.",
+      "articleUrl": "https://www.youtube.com/watch?v=PQYFRuZ5phs",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Mathematics",
+        "Brian Greene",
+        "Tristan Buckmaster"
+      ],
+      "publishedAt": "2026-10-04T05:40:51+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Science"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-9a3eac3b8ffba6e54e61df7ebecfb0afcc5e5a74-torchtitan-hash-update-update-the-pinned-torchtitan-hash-199668",
+      "title": "trunk/9a3eac3b8ffba6e54e61df7ebecfb0afcc5e5a74: [torchtitan hash update] update the pinned torchtitan hash (#199668)",
+      "dek": "This PR is auto-generated nightly by  this action . \nUpdate the pinned torchtitan hash. \nPull Request resolved:  #199668 \nApproved by:  https://github.com/pytorchbot",
+      "aiSummary": "A nightly automated action created a pull request to update the pinned torchtitan hash in the trunk branch. The PR was resolved and approved by the PyTorch bot. No additional changes were made.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F9a3eac3b8ffba6e54e61df7ebecfb0afcc5e5a74",
+      "category": "Open Source",
+      "filterTags": [
+        "torchtitan",
+        "PyTorch",
+        "GitHub Actions"
+      ],
+      "publishedAt": "2026-10-04T05:26:56+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Automation"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "singapore-debuts-a-state-backed-dating-app-for-young-government-workers-as-it-works-to-slow-a-demographic-crisis",
+      "title": "Singapore debuts a state-backed dating app for young government workers as it works to slow a demographic crisis",
+      "dek": "Singapore's government is playing matchmaker for young public officials against a backdrop of ultra-low fertility.",
+      "aiSummary": "The Singaporean government has introduced a state-backed dating application specifically designed for young public sector employees. This initiative is part of broader efforts to combat the country's demographic crisis and ultra-low fertility rates.",
+      "articleUrl": "https://www.cnbc.com/2026/10/04/government-dating-app-fertility-singapore-asia.html",
+      "category": "Public Policy",
+      "filterTags": [
+        "Singapore",
+        "Government",
+        "Dating App",
+        "Demographics"
+      ],
+      "publishedAt": "2026-10-04T05:09:49+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Public Policy"
+        },
+        {
+          "name": "Social Issues"
+        }
+      ]
+    },
+    {
+      "slug": "versionstory-comparison-and-redlining-for-ai-native-legal-teams",
+      "title": "VersionStory: Comparison and Redlining for AI native legal teams",
+      "dek": "A tool for comparing and marking up documents for legal teams using AI.",
+      "aiSummary": "VersionStory is a platform designed for AI-native legal teams that provides document comparison and redlining capabilities. The tool focuses on streamlining the review process for legal professionals leveraging artificial intelligence.",
+      "articleUrl": "https://www.versionstory.com",
+      "category": "Legal Tech",
+      "filterTags": [
+        "VersionStory",
+        "Legal Tech",
+        "Redlining",
+        "AI"
+      ],
+      "publishedAt": "2026-10-04T04:55:00+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Legal Tech"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "deepseek-harness-v0-2-brings-official-desktop-apps-to-its-open-source-agent-harness",
+      "title": "DeepSeek Harness v0.2 Brings Official Desktop Apps to Its Open-Source Agent Harness",
+      "dek": "DeepSeek has released official macOS and Windows desktop apps for DeepSeek Harness v0.2, its MIT-licensed agent harness. The preview adds a plugin manager, file and code-change review, and scheduled Automation Tasks. It also supports non-DeepSeek models through OpenAI-compatible ",
+      "aiSummary": "DeepSeek has released official macOS and Windows desktop apps for its MIT-licensed DeepSeek Harness v0.2. The update introduces a plugin manager, file and code-change review capabilities, and scheduled Automation Tasks, while also supporting non-DeepSeek models via OpenAI-compatible interfaces.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/03/deepseek-harness-v0-2-brings-official-desktop-apps-to-its-open-source-agent-harness/",
+      "category": "AI",
+      "filterTags": [
+        "DeepSeek",
+        "Harness",
+        "macOS",
+        "Windows",
+        "OpenAI",
+        "MIT License"
+      ],
+      "publishedAt": "2026-10-04T04:49:42+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-e91899ca45f99811049ac7d539820f92a9acddde",
+      "title": "trunk/e91899ca45f99811049ac7d539820f92a9acddde",
+      "dek": "[py3.14] Fix  partial  class attribute in inductor dynamic shapes tes…",
+      "aiSummary": "This commit fixes a partial class attribute bug in the inductor dynamic shapes test for Python 3.14. The change ensures proper handling of class attributes during dynamic shape testing.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2Fe91899ca45f99811049ac7d539820f92a9acddde",
+      "category": "Programming Languages",
+      "filterTags": [
+        "Python 3.14",
+        "Inductor",
+        "Dynamic Shapes"
+      ],
+      "publishedAt": "2026-10-04T04:28:54+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Programming Languages"
+        },
+        {
+          "name": "Software Testing"
+        }
+      ]
+    },
+    {
+      "slug": "early-october-prime-day-deals-save-up-to-600-on-mac-apple-watch-jackery-ugreen",
+      "title": "Early October Prime Day deals: Save up to $600 on Mac, Apple Watch, Jackery, Ugreen",
+      "dek": "Early fall Prime Day deals are in effect now, with savings of up to $600 off current Apple hardware, plus up to 30% off Ugreen docks and up to $150 off Jackery power stations. Save up to $600 on Apple ahead of fall Prime Day - Image credit: Apple, Amazon Early Prime Big Deal Days",
+      "aiSummary": "Early fall Prime Day deals are currently active, offering savings of up to $600 on Apple hardware such as Macs and Apple Watches. Additionally, customers can find discounts of up to 30% on Ugreen docks and up to $150 off Jackery power stations.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/02/early-october-prime-day-deals-save-up-to-600-on-mac-apple-watch-jackery-ugreen?utm_source=rss",
+      "category": "E-Commerce",
+      "filterTags": [
+        "Amazon",
+        "Apple",
+        "Mac",
+        "Apple Watch",
+        "Jackery",
+        "Ugreen",
+        "Prime Day"
+      ],
+      "publishedAt": "2026-10-04T04:20:37+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "E-Commerce"
+        },
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Retail"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-bfa43032b8c29cc05099a0893b9a9fb76813b9fb",
+      "title": "trunk/bfa43032b8c29cc05099a0893b9a9fb76813b9fb",
+      "dek": "[inductor][test] Require SM90 for the AOTI CUTLASS profiler test ( #19 …",
+      "aiSummary": "The provided text indicates a code change in the inductor test suite. It specifies that the AOTI CUTLASS profiler test now requires the SM90 architecture.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2Fbfa43032b8c29cc05099a0893b9a9fb76813b9fb",
+      "category": "Machine Learning",
+      "filterTags": [
+        "inductor",
+        "AOTI",
+        "CUTLASS",
+        "SM90"
+      ],
+      "publishedAt": "2026-10-04T04:14:35+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "amazon-s-1-099-m5-macbook-air-deal-offers-200-october-prime-day-savings",
+      "title": "Amazon's $1,099 M5 MacBook Air deal offers $200 October Prime Day savings",
+      "dek": "Numerous M5 MacBook Air models are $200 off as Amazon launches early Prime Big Deal Days markdowns on both 13-inch and 15-inch models. Save $200 across the M5 MacBook Air line - Image credit: Apple Amazon has slashed Apple's M5 MacBook Air  by $200 , with a number of retail confi",
+      "aiSummary": "Amazon has cut the price of the M5 MacBook Air by $200, lowering the 13‑inch and 15‑inch models to $1,099. The discount is part of early Prime Big Deal Days markdowns for October Prime Day. The offer applies to several M5 MacBook Air variants.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/04/amazons-1099-m5-macbook-air-deal-offers-200-october-prime-day-savings?utm_source=rss",
+      "category": "Hardware",
+      "filterTags": [
+        "Amazon",
+        "Apple",
+        "M5 MacBook Air",
+        "Prime Day",
+        "Prime Big Deal Days"
+      ],
+      "publishedAt": "2026-10-04T04:02:17+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Retail"
+        },
+        {
+          "name": "E-commerce"
+        }
+      ]
+    },
+    {
+      "slug": "masayoshi-son-s-ai-ambitions-outgrow-softbank-s-balance-sheet",
+      "title": "Masayoshi Son’s AI ambitions outgrow SoftBank’s balance sheet",
+      "dek": "DigitalBridge CEO Marc Ganzi says his data centre investment group will be SoftBank’s ‘third-party infrastructure arm’ after $4bn takeover",
+      "aiSummary": "DigitalBridge CEO Marc Ganzi stated that his data center investment group will serve as SoftBank's 'third-party infrastructure arm' following a $4 billion acquisition. This move addresses the fact that Masayoshi Son's AI ambitions have outgrown SoftBank's balance sheet.",
+      "articleUrl": "https://www.ft.com/content/9b3a355e-5975-445f-9004-b95513e3856a?syn-25a6b1a6=1",
+      "category": "AI",
+      "filterTags": [
+        "SoftBank",
+        "DigitalBridge",
+        "Masayoshi Son",
+        "Marc Ganzi",
+        "Data Centers"
+      ],
+      "publishedAt": "2026-10-04T04:00:07+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "Corporate Strategy"
+        }
+      ]
+    },
+    {
+      "slug": "what-can-we-learn-from-the-office-ai-superusers",
+      "title": "What can we learn from the office AI superusers?",
+      "dek": "Leaders who have gone all-in on new tech tools describe how they are reimagining their working lives",
+      "aiSummary": "Leaders who have fully adopted new technology tools explain how they are reimagining their professional lives. The article focuses on the experiences of these 'office AI superusers' and the insights gained from their approach to integrating AI into their workflows.",
+      "articleUrl": "https://www.ft.com/content/7a556b32-0511-42ae-a596-d0aedbcdb1a3?syn-25a6b1a6=1",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Productivity",
+        "Leadership"
+      ],
+      "publishedAt": "2026-10-04T04:00:07+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Workplace Trends"
+        }
+      ]
+    },
+    {
+      "slug": "v1-13-0-dev32",
+      "title": "v1.13.0.dev32",
+      "dek": "Langflow nightly v1.13.0.dev32",
+      "aiSummary": "Langflow has released version 1.13.0.dev32. This update is identified as a nightly build of the platform.",
+      "articleUrl": "https://github.com/langflow-ai/langflow/releases/tag/v1.13.0.dev32",
+      "category": "AI",
+      "filterTags": [
+        "Langflow"
+      ],
+      "publishedAt": "2026-10-04T03:21:57+00:00",
+      "publisher": {
+        "name": "langflow-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langflow-ai/langflow",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "v1-105-0-rc-1",
+      "title": "v1.105.0-rc.1",
+      "dek": "Verify Docker Image Signature \n All LiteLLM Docker images are signed with  cosign . Every release is signed with the same key introduced in  commit  0112e53 . \n Verify using the pinned commit hash (recommended): \n A commit hash is cryptographically immutable, so this is the stron",
+      "aiSummary": "LiteLLM has released version 1.105.0-rc.1, which includes signed Docker images using cosign. The release documentation recommends verifying image signatures using a pinned commit hash to ensure cryptographic immutability.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.105.0-rc.1",
+      "category": "DevOps",
+      "filterTags": [
+        "LiteLLM",
+        "Docker",
+        "cosign"
+      ],
+      "publishedAt": "2026-10-04T01:41:07+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "japanese-and-korean-shipbuilders-deploy-robots-to-take-on-china",
+      "title": "Japanese and Korean shipbuilders deploy robots to take on China",
+      "dek": "US allies invest in ‘smart shipyards’ as Beijing’s dominance of industry alarms Washington",
+      "aiSummary": "Japan and South Korea are investing in smart shipyards that use robotics to improve shipbuilding efficiency and compete with China. The move is part of a broader U.S. effort to counter China's growing dominance in the maritime industry. Washington is concerned that China’s advanced shipbuilding capabilities could threaten U.S. strategic interests.",
+      "articleUrl": "https://www.ft.com/content/ea32c53d-4de7-4b34-af44-cc148b23433f?syn-25a6b1a6=1",
+      "category": "Defense",
+      "filterTags": [
+        "Robotics",
+        "Smart Shipyards",
+        "Japan",
+        "South Korea",
+        "China",
+        "United States"
+      ],
+      "publishedAt": "2026-10-04T01:00:04+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Defense"
+        },
+        {
+          "name": "Maritime"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "b11382",
+      "title": "b11382",
+      "dek": "webgpu: add f16 support to fill/set_rows ( #29897 ) \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/52497832 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silicon (arm64, KleidiAI enabled)  DISABLED \n macO",
+      "aiSummary": "The llama.cpp project has introduced support for f16 (half-precision floating-point) data types in the fill and set_rows operations for its WebGPU backend. This change, identified as pull request #29897, is part of the b11382 release and includes build configurations for macOS and iOS Apple Silicon devices.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11382",
+      "category": "AI",
+      "filterTags": [
+        "llama.cpp",
+        "WebGPU",
+        "f16",
+        "ggml"
+      ],
+      "publishedAt": "2026-10-04T00:37:56+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "inside-nvidia-s-isaacteleop-from-hand-and-controller-tracking-to-robot-actions-with-the-graph-based-retargeting-engine",
+      "title": "Inside NVIDIA’s IsaacTeleop: From Hand and Controller Tracking to Robot Actions with the Graph-Based Retargeting Engine",
+      "dek": "Learn how NVIDIA IsaacTeleop turns XR hand tracking and motion controller input into robot commands using a pure Python retargeting engine and NumPy. \n The post  Inside NVIDIA’s IsaacTeleop: From Hand and Controller Tracking to Robot Actions with the Graph-Based Retargeting Engin",
+      "aiSummary": "NVIDIA’s IsaacTeleop converts XR hand tracking and motion controller input into robot commands. It uses a pure Python retargeting engine built on NumPy to map human movements to robot actions.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/03/inside-nvidias-isaacteleop-from-hand-and-controller-tracking-to-robot-actions-with-the-graph-based-retargeting-engine/",
+      "category": "Robotics",
+      "filterTags": [
+        "NVIDIA",
+        "IsaacTeleop",
+        "Python",
+        "NumPy",
+        "Graph-Based Retargeting Engine"
+      ],
+      "publishedAt": "2026-10-04T00:19:38+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Robotics"
+        },
+        {
+          "name": "Software"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "a-library-for-learning-neural-operators",
+      "title": "A Library for Learning Neural Operators",
+      "dek": "We present NeuralOperator, an open-source Python library for operator learning. Neural operators generalize neural networks to maps between function spaces instead of finite-dimensional Euclidean spaces. They can be trained and inferenced on input and output functions given at va",
+      "aiSummary": "NeuralOperator is an open-source Python library designed for operator learning, which generalizes neural networks to map between function spaces rather than finite-dimensional Euclidean spaces. The library allows users to train and run inference on input and output functions provided at various points.",
+      "articleUrl": "http://jmlr.org/papers/v27/26-0434.html",
+      "category": "AI",
+      "filterTags": [
+        "NeuralOperator",
+        "Python",
+        "Operator Learning",
+        "Neural Networks"
+      ],
+      "publishedAt": "2026-10-04T00:00:00+00:00",
+      "publisher": {
+        "name": "Journal of Machine Learning Research",
+        "domain": "jmlr.org",
+        "website": "https://www.jmlr.org/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=jmlr.org&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=jmlr.org&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "markdiffusion-an-open-source-toolkit-for-generative-watermarking-of-latent-diffusion-models",
+      "title": "MarkDiffusion: An Open-Source Toolkit for Generative Watermarking of Latent Diffusion Models",
+      "dek": "We introduce MarkDiffusion, an open-source Python toolkit for generative watermarking of latent diffusion models. It comprises three key components: a unified implementation framework for streamlined watermarking algorithm integration and user-friendly interfaces; a mechanism vis",
+      "aiSummary": "MarkDiffusion is an open-source Python toolkit designed for generative watermarking of latent diffusion models. It features a unified implementation framework that simplifies the integration of watermarking algorithms and provides user-friendly interfaces.",
+      "articleUrl": "http://jmlr.org/papers/v27/25-2553.html",
+      "category": "AI",
+      "filterTags": [
+        "MarkDiffusion",
+        "Python",
+        "Latent Diffusion Models",
+        "Watermarking"
+      ],
+      "publishedAt": "2026-10-04T00:00:00+00:00",
+      "publisher": {
+        "name": "Journal of Machine Learning Research",
+        "domain": "jmlr.org",
+        "website": "https://www.jmlr.org/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=jmlr.org&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=jmlr.org&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "optunahub-a-platform-for-black-box-optimization",
+      "title": "OptunaHub: A Platform for Black-Box Optimization",
+      "dek": "Black-box optimization (BBO) underpins advances in domains such as AutoML and Materials Informatics, yet implementations of algorithms and benchmarks remain fragmented across research communities. We introduce OptunaHub (https://hub.optuna.org/), a community-oriented, decentraliz",
+      "aiSummary": "Black-box optimization drives progress in areas like AutoML and materials informatics, but existing tools and benchmarks are scattered across research communities. OptunaHub provides a community‑driven, decentralized platform that unifies algorithms and benchmarks for BBO. The site aims to streamline collaboration and accelerate research in these fields.",
+      "articleUrl": "http://jmlr.org/papers/v27/25-2424.html",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "OptunaHub",
+        "Black-box optimization",
+        "AutoML",
+        "Materials Informatics"
+      ],
+      "publishedAt": "2026-10-04T00:00:00+00:00",
+      "publisher": {
+        "name": "Journal of Machine Learning Research",
+        "domain": "jmlr.org",
+        "website": "https://www.jmlr.org/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=jmlr.org&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=jmlr.org&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Materials Science"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "us-ai-task-force-to-report-on-technology-s-risks-wsj-says",
+      "title": "US AI Task Force to Report on Technology’s Risks, WSJ Says",
+      "dek": "A new White House task force will produce a report assessing risks posed by artificial intelligence and what responsibility the US federal government should have over the technology.",
+      "aiSummary": "A newly established White House task force is set to release a report evaluating the risks associated with artificial intelligence. The document will also address the appropriate level of responsibility the US federal government should hold regarding the technology.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
+      "category": "AI",
+      "filterTags": [
+        "White House",
+        "US AI Task Force",
+        "WSJ"
+      ],
+      "publishedAt": "2026-10-03T23:38:35+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Government Policy"
+        }
+      ]
+    },
+    {
+      "slug": "we-re-going-to-need-default-hard-budget-caps-on-pretty-much-everything",
+      "title": "We're going to need default hard budget caps on pretty much everything",
+      "dek": "Here's a product feature which the world is going to need a whole lot more of over the coming months and years:  default hard budget caps . I'm talking about the feature of pay-by-usage services and APIs that lets you say \"after $X/month, cut this thing off and return errors\". Th",
+      "aiSummary": "The article discusses the growing need for default hard budget caps in pay‑by‑usage services and APIs. It explains that this feature automatically stops a service after a set monthly spend and returns errors. The author argues that this capability will become increasingly important in the near future.",
+      "articleUrl": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+      "category": "Product Management",
+      "filterTags": [
+        "pay-by-usage",
+        "budget caps",
+        "APIs"
+      ],
+      "publishedAt": "2026-10-03T23:34:02+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Product Management"
+        },
+        {
+          "name": "Billing"
+        },
+        {
+          "name": "API Management"
+        }
+      ]
+    },
+    {
+      "slug": "v1-103-3",
+      "title": "v1.103.3",
+      "dek": "Verify Docker Image Signature \n All LiteLLM Docker images are signed with  cosign . Every release is signed with the same key introduced in  commit  0112e53 . \n Verify using the pinned commit hash (recommended): \n A commit hash is cryptographically immutable, so this is the stron",
+      "aiSummary": "LiteLLM Docker images are signed with cosign, using the same key introduced in commit 0112e53. Each release can be verified by checking the signature against the pinned commit hash, which is cryptographically immutable.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.103.3",
+      "category": "Security",
+      "filterTags": [
+        "LiteLLM",
+        "cosign",
+        "Docker"
+      ],
+      "publishedAt": "2026-10-03T23:33:58+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Containerization"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "the-agent-said-it-was-done-the-database-disagreed",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "dek": "An AI agent claimed a task was finished, but the database showed otherwise.",
+      "aiSummary": "The provided text does not contain an article body, only a title. Therefore, no factual summary can be generated based on the content.",
+      "articleUrl": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "category": "AI",
+      "filterTags": [],
+      "publishedAt": "2026-10-03T22:56:48+00:00",
+      "publisher": {
+        "name": "Hugging Face",
+        "domain": "huggingface.co",
+        "website": "https://huggingface.co/",
+        "logoUrl": "https://huggingface.co/front/thumbnails/v2-2.png",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Data Management"
+        }
+      ]
+    },
+    {
+      "slug": "v1-104-0",
+      "title": "v1.104.0",
+      "dek": "Verify Docker Image Signature \n All LiteLLM Docker images are signed with  cosign . Every release is signed with the same key introduced in  commit  0112e53 . \n Verify using the pinned commit hash (recommended): \n A commit hash is cryptographically immutable, so this is the stron",
+      "aiSummary": "The v1.104.0 release of LiteLLM includes Docker images that are signed with cosign using a key introduced in commit 0112e53. Users are advised to verify the images with the pinned commit hash, which provides cryptographic immutability.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.104.0",
+      "category": "Open Source",
+      "filterTags": [
+        "LiteLLM",
+        "cosign",
+        "Docker"
+      ],
+      "publishedAt": "2026-10-03T22:50:14+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Containerization"
+        }
+      ]
+    },
+    {
+      "slug": "september-sponsors-only-newsletter",
+      "title": "September sponsors-only newsletter",
+      "dek": "I just sent the September edition of my  sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can  access it here . \n This month: \n \n More Fable class models \n A pricing war \n 3D graphics, Blender, and pixel art \n LLMs come for mathematics \n So",
+      "aiSummary": "The author has distributed the September edition of their monthly newsletter, which is accessible only to current sponsors. The issue covers topics including Fable class models, a pricing war, 3D graphics tools like Blender, and the application of LLMs to mathematics.",
+      "articleUrl": "https://simonwillison.net/2026/Oct/3/newsletter/",
+      "category": "AI",
+      "filterTags": [
+        "Fable",
+        "Blender",
+        "LLMs",
+        "3D graphics"
+      ],
+      "publishedAt": "2026-10-03T22:00:31+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Graphics"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "b11381",
+      "title": "b11381",
+      "dek": "mtmd : fix deprecated strdup warning on Windows ( #29863 ) \n Signed-off-by: Adrien Gallouët  angt@huggingface.co \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/52479259 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n m",
+      "aiSummary": "The commit \"mtmd: fix deprecated strdup warning on Windows (#29863)\" addresses a warning in the llama.cpp project on Windows. It was signed off by Adrien Gallouët and includes attestations from the ggml-org repository. The release also notes support for macOS Apple Silicon (arm64).",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11381",
+      "category": "Open Source",
+      "filterTags": [
+        "llama.cpp",
+        "Hugging Face",
+        "Windows",
+        "macOS",
+        "Apple Silicon",
+        "strdup"
+      ],
+      "publishedAt": "2026-10-03T21:35:50+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Operating Systems"
+        }
+      ]
+    },
+    {
+      "slug": "b11380",
+      "title": "b11380",
+      "dek": "vendor : update cpp-httplib to 0.59.0 ( #29886 ) \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/52476117 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silicon (arm64, KleidiAI enabled)  DISABLED \n macOS I",
+      "aiSummary": "The vendor has released an update to the cpp-httplib library, bumping it to version 0.59.0. The update is documented in issue #29886 and includes attestations hosted on GitHub. It supports macOS and iOS on Apple Silicon, with a KleidiAI-enabled variant that is currently disabled.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11380",
+      "category": "Open Source",
+      "filterTags": [
+        "cpp-httplib",
+        "llama.cpp",
+        "KleidiAI",
+        "Apple Silicon"
+      ],
+      "publishedAt": "2026-10-03T21:09:19+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Updates"
+        },
+        {
+          "name": "Operating Systems"
+        }
+      ]
+    },
+    {
+      "slug": "tesla-s-cybercab-had-a-rocky-first-month-in-austin-now-comes-the-hard-part-expanding",
+      "title": "Tesla’s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding",
+      "dek": "Elon Musk's effort to move beyond auto sales largely relies on the success of his company's Cybercab, which launched in Austin a month ago.",
+      "aiSummary": "Tesla's Cybercab experienced a difficult first month of operations in Austin. Elon Musk's strategy to shift focus away from traditional auto sales depends heavily on the vehicle's success as it prepares for expansion.",
+      "articleUrl": "https://www.cnbc.com/2026/10/03/tesla-cybercab-pressure-to-expand-after-rocky-first-month-in-austin.html",
+      "category": "Automotive",
+      "filterTags": [
+        "Tesla",
+        "Cybercab",
+        "Elon Musk",
+        "Robotaxi"
+      ],
+      "publishedAt": "2026-10-03T20:29:07+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Automotive"
+        },
+        {
+          "name": "Transportation"
+        },
+        {
+          "name": "Electric Vehicles"
+        }
+      ]
+    },
+    {
+      "slug": "black-box-the-chatbots-life-raft-ep-4-podcast",
+      "title": "Black Box: The Chatbots | Life Raft | Ep 4 – podcast",
+      "dek": "More than a billion people are suddenly talking to AI chatbots designed to connect with us. We are sharing with them our deepest secrets, trusting them with our wellbeing and acting on their advice. Across two powerful stories – a woman who was struggling to leave a relationship ",
+      "aiSummary": "The podcast discusses how over a billion people are interacting with AI chatbots that aim to connect with users. Listeners learn how people share personal secrets, trust the bots with their wellbeing, and follow their advice. The episode features two stories, including one about a woman trying to leave a relationship.",
+      "articleUrl": "https://www.theguardian.com/australia-news/audio/2026/oct/04/black-box-the-chatbots-life-raft-episode-4-podcast",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AI chatbots"
+      ],
+      "publishedAt": "2026-10-03T20:00:07+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Mental Health"
+        },
+        {
+          "name": "Podcast"
+        }
+      ]
+    },
+    {
+      "slug": "openai-safety-leader-quits-warning-ai-company-s-culture-is-broken",
+      "title": "OpenAI safety leader quits, warning AI company’s culture is ‘broken’",
+      "dek": "David Robinson joins other insiders in urging industry to take more care over rapidly developing technology A safety leader at OpenAI has quit the company, warning that its culture was broken and that AI firms were not “being nearly careful enough” about developing the technology",
+      "aiSummary": "David Robinson, a former safety leader at OpenAI, resigned and warned that the company's culture was broken. He joined other insiders in urging the industry to exercise more caution as AI technology develops rapidly. The resignation underscores concerns that AI firms are not being careful enough in their work.",
+      "articleUrl": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "OpenAI",
+        "AI"
+      ],
+      "publishedAt": "2026-10-03T19:41:21+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Technology Ethics"
+        },
+        {
+          "name": "Corporate Culture"
+        }
+      ]
+    },
+    {
+      "slug": "amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas",
+      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "dek": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+      "aiSummary": "The CEO of Amazon Web Services attempted to counter widespread skepticism regarding data centers. In response to the backlash, Amazon stated that it no longer utilizes non-disclosure agreements (NDAs).",
+      "articleUrl": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+      "category": "Cloud Computing",
+      "filterTags": [
+        "Amazon",
+        "Amazon Web Services",
+        "NDAs",
+        "Data Centers"
+      ],
+      "publishedAt": "2026-10-03T18:43:57+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Corporate Governance"
+        },
+        {
+          "name": "Data Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "the-nvidia-shield-tv-is-7-years-old-it-just-got-a-100-price-hike",
+      "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
+      "dek": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
+      "aiSummary": "The cost of memory-based products has surged due to AI demand, and the Nvidia Shield TV, a seven‑year‑old streaming device, has experienced a $100 price increase.",
+      "articleUrl": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
+      "category": "Hardware",
+      "filterTags": [
+        "Nvidia",
+        "Shield TV",
+        "AI",
+        "memory"
+      ],
+      "publishedAt": "2026-10-03T18:00:00+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "bessent-says-ai-industry-must-own-its-risks-and-find-solutions",
+      "title": "Bessent Says AI Industry Must Own Its Risks and Find Solutions",
+      "dek": "US Treasury Secretary Scott Bessent criticized prominent artificial-intelligence figures’ warnings about existential risks posed by the technology as alarmist and unhelpful, calling on the industry to police itself and produce solutions.",
+      "aiSummary": "US Treasury Secretary Scott Bessent dismissed AI experts’ warnings about existential risks as alarmist. He urged the AI industry to self-regulate and create solutions to its own risks.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-03/bessent-says-ai-industry-must-own-its-risks-and-find-solutions",
+      "category": "AI",
+      "filterTags": [
+        "Artificial Intelligence",
+        "AI"
+      ],
+      "publishedAt": "2026-10-03T17:12:02+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Policy"
+        }
+      ]
+    },
+    {
+      "slug": "community-wisdom-getting-value-from-personal-ai-agents-without-handing-over-your-inbox-the-ego-threat-of-going-from-ic-t",
+      "title": "🧠 Community Wisdom: Getting value from personal AI agents without handing over your inbox, the ego threat of going from IC to manager, uncommon perks to negotiate for, and more",
+      "dek": "Community Wisdom 301",
+      "aiSummary": "The article discusses how to derive value from personal AI agents without compromising privacy by sharing your inbox. It also addresses the psychological challenges of moving from an individual contributor role to a management position and highlights uncommon perks that employees can negotiate for.",
+      "articleUrl": "https://www.lennysnewsletter.com/p/community-wisdom-getting-value-from",
+      "category": "AI",
+      "filterTags": [
+        "AI agents",
+        "Career transition",
+        "Negotiation"
+      ],
+      "publishedAt": "2026-10-03T17:00:49+00:00",
+      "publisher": {
+        "name": "Lenny's Newsletter",
+        "domain": "lennysnewsletter.com",
+        "website": "https://www.lennysnewsletter.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=lennysnewsletter.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=lennysnewsletter.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Career Development"
+        },
+        {
+          "name": "Productivity"
+        }
+      ]
+    },
+    {
+      "slug": "capcom-is-preparing-for-a-future-where-we-create-games-together-with-ai",
+      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+      "dek": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The Outlook and Future of the REX Project, ",
+      "aiSummary": "Capcom’s Pragmata studio is exploring AI, despite concerns about its darker aspects. At the Capcom Open Conference RE: 2026, programmer Satoshi Ishida presented the outlook and future of the REX Project, highlighting the company’s interest in integrating AI into game creation.",
+      "articleUrl": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+      "category": "Gaming",
+      "filterTags": [
+        "Capcom",
+        "Pragmata",
+        "AI",
+        "REX Project",
+        "Capcom Open Conference",
+        "Satoshi Ishida"
+      ],
+      "publishedAt": "2026-10-03T16:49:10+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Game Development"
+        }
+      ]
+    },
+    {
+      "slug": "openai-safety-employee-resigns-claiming-the-company-s-culture-is-broken",
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "dek": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+      "aiSummary": "David Robinson, a safety employee at OpenAI, resigned and said the company's culture is broken. He described himself as a cliché and warned about the state of the organization. His departure highlights concerns about internal culture at the AI firm.",
+      "articleUrl": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "AI safety"
+      ],
+      "publishedAt": "2026-10-03T16:30:01+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Corporate Culture"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "apple-southgate-reopening-on-october-23",
+      "title": "Apple SouthGate reopening on October 23",
+      "dek": "Apple SouthGate in Bath, England closed for renovations on July 4. Three months later, on the day the iPhone Duo is available, it will reopen to customers. Prior to its closure, it was a smaller store, with the updated wood design. The renovation is expected to bring a redesigned",
+      "aiSummary": "Apple SouthGate in Bath, England, is scheduled to reopen on October 23 after closing for renovations on July 4. The store, which previously featured a smaller wood design, will resume operations on the same day the iPhone Duo becomes available.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/03/apple-southgate-reopening-on-october-23?utm_source=rss",
+      "category": "Retail",
+      "filterTags": [
+        "Apple",
+        "iPhone Duo",
+        "Apple SouthGate"
+      ],
+      "publishedAt": "2026-10-03T15:41:23+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Retail"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "ep228-how-ssh-works",
+      "title": "EP228: How SSH Works",
+      "dek": "Secure shell is a method to access a remote machine securely over an unsecured network. It starts with a TCP connection from the SSH client to the remote machine (SSH server).",
+      "aiSummary": "Secure Shell (SSH) lets users connect to a remote computer securely over an insecure network. The process begins with a TCP connection from the SSH client to the SSH server.",
+      "articleUrl": "https://blog.bytebytego.com/p/ep228-how-ssh-works",
+      "category": "Security",
+      "filterTags": [
+        "SSH",
+        "TCP",
+        "Secure Shell"
+      ],
+      "publishedAt": "2026-10-03T15:30:39+00:00",
+      "publisher": {
+        "name": "ByteByteGo",
+        "domain": "bytebytego.com",
+        "website": "https://bytebytego.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bytebytego.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bytebytego.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Networking"
+        }
+      ]
+    },
+    {
+      "slug": "how-nvidia-micron-and-a-surprising-jobs-report-drove-last-week-s-stock-action",
+      "title": "How Nvidia, Micron and a surprising jobs report drove last week's stock action",
+      "dek": "Here's a closer look at the three developments that drove the action in our portfolio last week.",
+      "aiSummary": "The article examines how Nvidia, Micron, and an unexpected jobs report influenced the portfolio's performance last week. It provides a detailed analysis of each factor's impact on stock movements.",
+      "articleUrl": "https://www.cnbc.com/2026/10/03/how-nvidia-micron-and-a-surprising-jobs-report-drove-last-weeks-stock-action.html",
+      "category": "Equities",
+      "filterTags": [
+        "Nvidia",
+        "Micron",
+        "jobs report"
+      ],
+      "publishedAt": "2026-10-03T15:06:10+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Equities"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Market Analysis"
+        }
+      ]
+    },
+    {
+      "slug": "splice-ceo-kakul-srivastava-thinks-ai-emails-are-killing-conversations",
+      "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+      "dek": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina Carpenter. (The original samples are here a",
+      "aiSummary": "Kakul Srivastava, CEO of the sample platform Splice, argues that AI emails are negatively impacting conversations. Splice is a service used by producers for samples that have appeared in major hits like Sabrina Carpenter's 'Espresso'.",
+      "articleUrl": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+      "category": "AI",
+      "filterTags": [
+        "Splice",
+        "Kakul Srivastava",
+        "AI",
+        "Sabrina Carpenter",
+        "Lisa"
+      ],
+      "publishedAt": "2026-10-03T15:00:00+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Music Technology"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "who-s-to-blame-when-a-i-goes-rogue",
+      "title": "Who’s to Blame When A.I. Goes Rogue?",
+      "dek": "Many think artificial intelligence companies should be held liable for their runaway technology. But legal scholars say applying existing law could be messy.",
+      "aiSummary": "Some believe AI firms should be held responsible for runaway AI. Legal experts argue that using current laws would be complicated.",
+      "articleUrl": "https://www.nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html",
+      "category": "AI",
+      "filterTags": [
+        "AI"
+      ],
+      "publishedAt": "2026-10-03T14:51:40+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Law"
+        }
+      ]
+    },
+    {
+      "slug": "an-openai-safety-employee-has-quit-and-is-sounding-the-alarm",
+      "title": "An OpenAI safety employee has quit and is sounding the alarm",
+      "dek": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about everyone suddenly comi",
+      "aiSummary": "David Robinson, who previously authored safety reports for OpenAI's major model releases, has resigned from his position. He is now raising alarms in an editorial published in The Atlantic.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "David Robinson",
+        "The Atlantic"
+      ],
+      "publishedAt": "2026-10-03T14:31:56+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Corporate Governance"
+        }
+      ]
+    },
+    {
+      "slug": "measuring-the-creativity-potential-of-llm-agents",
+      "title": "Measuring the Creativity Potential of LLM Agents",
+      "dek": "Trying to answer the question of \"Can LLM agents discover?\" through the lens of creativity \n The post  Measuring the Creativity Potential of LLM Agents  appeared first on  Towards Data Science .",
+      "aiSummary": "The article investigates whether large language model agents can discover new ideas by measuring their creative potential. It examines creativity as a metric for discovery. The piece was published on Towards Data Science.",
+      "articleUrl": "https://towardsdatascience.com/measuring-the-creativity-potential-of-llm-agents/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "LLM",
+        "Creativity",
+        "Discovery",
+        "Towards Data Science"
+      ],
+      "publishedAt": "2026-10-03T14:00:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Data Science"
+        }
+      ]
+    },
+    {
+      "slug": "all-the-ai-agents-that-can-live-in-your-text-messages",
+      "title": "All the AI agents that can live in your text messages",
+      "dek": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "aiSummary": "The article presents a curated list of AI agents that can operate within text messaging platforms. It covers a range of agents, including general assistants and specialized ones for families, travel, and work.",
+      "articleUrl": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "category": "Artificial Intelligence",
+      "filterTags": [],
+      "publishedAt": "2026-10-03T14:00:00+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Messaging"
+        },
+        {
+          "name": "Productivity"
+        }
+      ]
+    },
+    {
+      "slug": "california-s-new-laws-target-workers-biggest-fear-of-ai-taking-their-jobs",
+      "title": "California’s new laws target workers’ biggest fear of AI taking their jobs",
+      "dek": "The state, which is home to many AI companies, is one of the first to roll out workplace regulations targeting the technology  California’s laws aimed at protecting workers from the impacts of  artificial intelligence  could pave the way for broader workplace safeguards across th",
+      "aiSummary": "California has introduced new workplace regulations specifically targeting the impact of artificial intelligence on employment. As a hub for AI companies, the state is among the first to implement these measures, which may establish a precedent for broader worker protections nationwide.",
+      "articleUrl": "https://www.theguardian.com/technology/2026/oct/03/california-ai-laws-worker-protection",
+      "category": "Policy",
+      "filterTags": [
+        "California",
+        "Artificial Intelligence",
+        "Workplace Regulations"
+      ],
+      "publishedAt": "2026-10-03T14:00:00+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Policy"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Labor"
+        }
+      ]
+    },
+    {
+      "slug": "an-a-i-songwriting-experiment-humans-against-the-machine",
+      "title": "An A.I. Songwriting Experiment: Humans Against the Machine",
+      "dek": "Five humans convened for a weekend to create new music from scratch. Could they do better than A.I.? Could you even tell the difference?",
+      "aiSummary": "Five humans gathered for a weekend to create original music from scratch. The experiment aimed to determine if their compositions could surpass those generated by A.I. and whether listeners could distinguish between the two.",
+      "articleUrl": "https://www.nytimes.com/2026/10/03/arts/music/human-songwriting-ai-songwriting.html",
+      "category": "AI",
+      "filterTags": [
+        "A.I.",
+        "Music",
+        "Songwriting"
+      ],
+      "publishedAt": "2026-10-03T12:46:44+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Entertainment"
+        }
+      ]
+    },
+    {
+      "slug": "how-to-use-a-pinn-for-a-navier-stokes-inverse-problem",
+      "title": "How to Use a PINN for a Navier-Stokes Inverse Problem",
+      "dek": "A from-scratch PyTorch build that recovers blood flow, viscosity, and wall shear stress in a narrowed artery from 40 noisy velocity readings \n The post  How to Use a PINN for a Navier-Stokes Inverse Problem  appeared first on  Towards Data Science .",
+      "aiSummary": "The article presents a PyTorch implementation that uses a Physics‑Informed Neural Network (PINN) to infer blood flow characteristics in a narrowed artery. By training on 40 noisy velocity measurements, the model estimates flow velocity, viscosity, and wall shear stress. The approach demonstrates how PINNs can recover detailed fluid dynamics from limited data.",
+      "articleUrl": "https://towardsdatascience.com/how-to-use-a-pinn-for-a-navier-stokes-inverse-problem/",
+      "category": "Machine Learning",
+      "filterTags": [
+        "PyTorch",
+        "PINN",
+        "Navier-Stokes",
+        "Physics‑Informed Neural Network",
+        "blood flow"
+      ],
+      "publishedAt": "2026-10-03T12:00:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Computational Fluid Dynamics"
+        },
+        {
+          "name": "Biomedical Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "muse-creates-detailed-profiles-of-all-your-friends-and-family",
+      "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
+      "dek": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
+      "aiSummary": "Meta's AI agent, Muse, has been downloaded by millions of users. However, utilizing the tool to perform tasks requires it to create detailed profiles of friends and family, which raises significant privacy concerns.",
+      "articleUrl": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
+      "category": "AI",
+      "filterTags": [
+        "Meta",
+        "Muse",
+        "AI agent",
+        "privacy"
+      ],
+      "publishedAt": "2026-10-03T12:00:00+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Privacy"
+        },
+        {
+          "name": "Consumer Tech"
+        }
+      ]
+    }
+  ]
+}
