@@ -33,7 +33,7 @@ jobs:
       - name: Run News Pipeline
         env:
           DATABASE_URL: ${{ secrets.DATABASE_URL }}
-          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEYS }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           INGEST_TO_DB: "false"
           PYTHONUNBUFFERED: "1"
