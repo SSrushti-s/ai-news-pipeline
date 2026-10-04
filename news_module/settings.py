@@ -39,9 +39,9 @@ class ScraperConfig:
 class LLMConfig:
     fallback_chain: list[str] = field(
         default_factory=lambda: [
-            "groq_primary",
+            "groq",
             "gemini",
-            "groq_secondary",
+            "groq",
         ]
     )
     max_input_tokens: int = 6000
@@ -53,13 +53,12 @@ class LLMConfig:
     max_backoff_s: float = 90.0
 
     gemini_api_key: str = field(default_factory=lambda: os.getenv("GEMINI_API_KEY", ""))
-    groq_primary_api_key: str = field(
-        default_factory=lambda: os.getenv("GROQ_API_KEY", "")
-    )
-    
-    groq_secondary_api_key: str = field(
-        default_factory=lambda: os.getenv("GROQ_API_KEY_2", "")
-    )
+    groq_models: list[str] = field(default_factory=lambda: [
+    "qwen/qwen3.8-27b",
+    "llama-3.3-70b-versatile",
+    "openai/gpt-oss-20b",
+    "llama-3.1-8b-instant",
+    ])
     
     deepseek_api_key: str = field(default_factory=lambda: os.getenv("DEEPSEEK_API_KEY", ""))
 
