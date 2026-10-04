@@ -1,0 +1,639 @@
+{
+  "news": [
+    {
+      "slug": "crime-blotter-two-arrested-for-stealing-from-apple-store-yoga-store",
+      "title": "Crime blotter: Two arrested for stealing from Apple Store, yoga store",
+      "dek": "A cab driver is arrested for his part in a Miami Beach iPhone theft ring, one of the first iPhone 18 Pro thefts, and an AirTag recovers a stolen food trailer, all in this week's Apple Crime Blotter. The Apple Store in Garden State Plaza in New Jersey.  The latest in an occasional",
+      "aiSummary": "A cab driver was arrested for involvement in a Miami Beach iPhone theft ring, which included one of the first reported thefts of the iPhone 18 Pro. Additionally, an AirTag was used to recover a stolen food trailer.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/04/crime-blotter-two-arrested-for-stealing-from-apple-store-yoga-store?utm_source=rss",
+      "category": "Security",
+      "filterTags": [
+        "Apple",
+        "iPhone 18 Pro",
+        "AirTag",
+        "Apple Store"
+      ],
+      "publishedAt": "2026-10-04T11:21:31+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Crime"
+        }
+      ]
+    },
+    {
+      "slug": "mentaagent-a-self-hosted-ai-analyst-for-a-company-s-own-files",
+      "title": "MentaAgent – a self-hosted AI analyst for a company's own files",
+      "dek": "MentaAgent is a tool that lets companies run their own AI analyst on internal documents.",
+      "aiSummary": "MentaAgent is a self-hosted AI analyst designed to process a company's own files. It allows organizations to maintain control over their data by running the analysis locally rather than relying on external cloud services.",
+      "articleUrl": "https://github.com/DanielKim03/mentaagent",
+      "category": "AI",
+      "filterTags": [
+        "MentaAgent",
+        "AI",
+        "Self-hosted"
+      ],
+      "publishedAt": "2026-10-04T11:06:39+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Enterprise Software"
+        }
+      ]
+    },
+    {
+      "slug": "the-ml4good-technical-ai-safety-bootcamp-what-to-expect",
+      "title": "The ML4Good Technical AI Safety Bootcamp: What to Expect",
+      "dek": "An overview of what participants can anticipate from the ML4Good Technical AI Safety Bootcamp.",
+      "aiSummary": "The provided text does not contain any article body or description to summarize. Only the title is available, which indicates the content is an informational guide regarding the ML4Good Technical AI Safety Bootcamp.",
+      "articleUrl": "https://www.lesswrong.com/posts/a7Lds5i5rfEE2doFa/inside-the-ml4good-technical-ai-safety-bootcamp-what-to-1",
+      "category": "AI",
+      "filterTags": [
+        "ML4Good",
+        "AI Safety"
+      ],
+      "publishedAt": "2026-10-04T11:04:14+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Education"
+        }
+      ]
+    },
+    {
+      "slug": "ai-policy-enforcement-report",
+      "title": "AI Policy Enforcement Report",
+      "dek": "A report on how AI rules are being applied.",
+      "aiSummary": "The provided text contains only the title 'AI Policy Enforcement Report' and no additional description or body content. Therefore, no specific facts, details, or context regarding the report's findings or scope can be extracted.",
+      "articleUrl": "https://delinea.com/resources/ai-policy-enforcement-report",
+      "category": "AI",
+      "filterTags": [
+        "AI Policy"
+      ],
+      "publishedAt": "2026-10-04T10:55:01+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Policy"
+        }
+      ]
+    },
+    {
+      "slug": "b11388",
+      "title": "b11388",
+      "dek": "imatrix: calculate activation-based statistics for new format (GGUF) imatrices ( #14891 ) \n \n Use activations to calculate the stats \n Determine calculation mode \n Compute entropy for activations \n Compute cosine similarity based on activations \n Compute l2 norm \n Add compute_lay",
+      "aiSummary": "The update introduces a method to calculate activation-based statistics for the new GGUF imatrix format. It includes determining the calculation mode, computing entropy, cosine similarity, and L2 norm based on activations.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11388",
+      "category": "Machine Learning",
+      "filterTags": [
+        "imatrix",
+        "GGUF",
+        "entropy",
+        "cosine similarity",
+        "L2 norm"
+      ],
+      "publishedAt": "2026-10-04T10:42:13+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Data Formats"
+        }
+      ]
+    },
+    {
+      "slug": "b11387",
+      "title": "b11387",
+      "dek": "spec : fix n-gram drafts rejected at temp > 0 after truncation ( #29924 ) \n Co-authored-by: Pranesh Gonegandla  pgonegandla@nvidia.com \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/52563003 \n \n macOS/iOS: \n \n macOS App",
+      "aiSummary": "The commit addresses a specification issue where n‑gram drafts were rejected when the temperature was greater than zero after truncation. This fix resolves the problem referenced in issue #29924. The change was co‑authored by Pranesh Gonegandla from NVIDIA.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11387",
+      "category": "Software Development",
+      "filterTags": [
+        "n-gram",
+        "temperature",
+        "truncation",
+        "spec",
+        "issue #29924",
+        "Pranesh Gonegandla",
+        "NVIDIA",
+        "llama.cpp",
+        "ggml-org",
+        "llama.app",
+        "macOS",
+        "iOS"
+      ],
+      "publishedAt": "2026-10-04T10:22:45+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "b11386",
+      "title": "b11386",
+      "dek": "common : prepare load_from_models_dir() for path conversion ( #29674 ) \n This is part of the fs::path modernization series. \nThat was also the opportunity to remove fs_list(). \n Signed-off-by: Adrien Gallouët  angt@huggingface.co \n \n Website: \n \n https://llama.app \n \n Attestation",
+      "aiSummary": "The change prepares the load_from_models_dir() function for path conversion as part of the fs::path modernization effort, and it also removes the fs_list() function. The update was signed off by Adrien Gallouët of Hugging Face.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11386",
+      "category": "Software Engineering",
+      "filterTags": [
+        "load_from_models_dir()",
+        "fs::path",
+        "fs_list()",
+        "Hugging Face",
+        "llama.app"
+      ],
+      "publishedAt": "2026-10-04T10:03:29+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "rural-data-centers-are-in-for-a-big-federal-tax-break",
+      "title": "Rural Data Centers Are in for a Big Federal Tax Break",
+      "dek": "Under the One Big Beautiful Bill Act,  data center projects in rural areas could be eligible for major tax benefits starting next year. Some hyperscalers do not seem eager to take the free cash.",
+      "aiSummary": "The One Big Beautiful Bill Act introduces major tax benefits for data center projects in rural areas starting next year. Despite these incentives, some hyperscalers appear reluctant to utilize the available financial advantages.",
+      "articleUrl": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
+      "category": "Data Infrastructure",
+      "filterTags": [
+        "One Big Beautiful Bill Act",
+        "Data Centers",
+        "Hyperscalers",
+        "Tax Benefits"
+      ],
+      "publishedAt": "2026-10-04T10:00:00+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Data Infrastructure"
+        },
+        {
+          "name": "Public Policy"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "softbank-s-masayoshi-son-has-rare-cautionary-note-on-ai-safety",
+      "title": "SoftBank’s Masayoshi Son Has Rare Cautionary Note on AI Safety",
+      "dek": "SoftBank Group Corp. chief Masayoshi Son — one of AI’s fervent believers — said that even he’s worried about safety risks as machines quickly gain more abilities.",
+      "aiSummary": "Masayoshi Son, the chief of SoftBank Group, has issued a rare warning regarding AI safety. Despite being a strong advocate for artificial intelligence, he expressed concern about the safety risks associated with machines rapidly acquiring new capabilities.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-04/softbank-s-masayoshi-son-has-rare-cautionary-note-on-ai-safety",
+      "category": "AI",
+      "filterTags": [
+        "SoftBank",
+        "Masayoshi Son",
+        "AI Safety"
+      ],
+      "publishedAt": "2026-10-04T09:32:29+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "airpods-pro-plunge-to-as-low-as-89-99-for-fall-prime-day",
+      "title": "AirPods Pro plunge to as low as $89.99 for fall Prime Day",
+      "dek": "Amazon's Prime Big Deal Days event starts October 6, but AirPods Pro 3 are already $70 off at $179 and the closeout first-gen model is discounted to $89.99. Pick up AirPods Pro for as low as $89.99 during Prime Big Deal Days Amazon's  $70 discount  on AirPods Pro 3 is live now as",
+      "aiSummary": "Amazon has launched early discounts for its Prime Big Deal Days event, which officially begins on October 6. The AirPods Pro 3 are currently available for $179, representing a $70 reduction, while the first-generation model is marked down to $89.99.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/04/airpods-pro-plunge-to-as-low-as-8999-for-fall-prime-day?utm_source=rss",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Amazon",
+        "AirPods Pro",
+        "Apple",
+        "Prime Big Deal Days"
+      ],
+      "publishedAt": "2026-10-04T07:38:54+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "E-commerce"
+        }
+      ]
+    },
+    {
+      "slug": "google-research-moves-federated-learning-into-tees-gboard-now-trains-with-externally-verifiable-differential-privacy",
+      "title": "Google Research Moves Federated Learning Into TEEs: Gboard Now Trains With Externally Verifiable Differential Privacy",
+      "dek": "Google Research has unveiled a federated learning system that moves gradient computation from phones into attested server-side TEEs. Access policies are published to Sigstore's Rekor log and the binaries are reproducibly buildable, so central differential privacy can be checked e",
+      "aiSummary": "Google Research introduced a federated learning system that moves gradient computation from phones into attested server‑side TEEs. The system publishes access policies to Sigstore's Rekor log and builds binaries reproducibly, enabling verification of central differential privacy.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/04/google-research-moves-federated-learning-into-tees-gboard-now-trains-with-externally-verifiable-differential-privacy/",
+      "category": "AI",
+      "filterTags": [
+        "Google Research",
+        "Federated Learning",
+        "TEE",
+        "Sigstore",
+        "Rekor",
+        "Differential Privacy",
+        "Gboard"
+      ],
+      "publishedAt": "2026-10-04T07:29:59+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Privacy"
+        }
+      ]
+    },
+    {
+      "slug": "amazon-s-199-apple-watch-deal-is-back-for-prime-big-deal-days",
+      "title": "Amazon's $199 Apple Watch deal is back for Prime Big Deal Days",
+      "dek": "Amazon's October Prime Day Apple Watch deals deliver prices as low as $199, with even the new Apple Watch Series 12 and Ultra 4 marked down. Grab Apple Watch deals from $199 for Prime Big Deal Days - Image credit: Apple Amazon's  $199 Apple Watch SE 3 deal  has returned for Prime",
+      "aiSummary": "Amazon is offering Apple Watch deals starting at $199 during Prime Big Deal Days, including the Apple Watch SE 3, Series 12, and Ultra 4. These discounts are part of Amazon's October Prime Day promotion.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/04/amazons-199-apple-watch-deal-is-back-for-prime-big-deal-days?utm_source=rss",
+      "category": "Retail",
+      "filterTags": [
+        "Amazon",
+        "Apple",
+        "Apple Watch",
+        "Apple Watch SE 3",
+        "Apple Watch Series 12",
+        "Apple Watch Ultra 4"
+      ],
+      "publishedAt": "2026-10-04T07:16:57+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Retail"
+        },
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "E-commerce"
+        }
+      ]
+    },
+    {
+      "slug": "aleph-alpha-releases-kolibri-a-78-1b-open-weight-english-german-moe-model-with-only-3-46b-active-parameters",
+      "title": "Aleph Alpha Releases Kolibri: A 78.1B Open-Weight English-German MoE Model With Only 3.46B Active Parameters",
+      "dek": "Aleph Alpha has released Kolibri, a 78.1B-parameter English-German Mixture-of-Experts model that activates only 3.46B parameters per token. It has a 1M-token context and per-request reasoning effort, and its Apache 2.0 FP8 weights run on a single B200 or H200. \n The post  Aleph A",
+      "aiSummary": "Aleph Alpha released Kolibri, a 78.1B‑parameter English‑German Mixture‑of‑Experts model that activates only 3.46B parameters per token. The model supports a 1 million‑token context and includes per‑request reasoning. Its FP8 weights, licensed under Apache 2.0, can run on a single NVIDIA B200 or H200 GPU.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/04/aleph-alpha-releases-kolibri-a-78-1b-open-weight-english-german-moe-model-with-only-3-46b-active-parameters/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Aleph Alpha",
+        "Kolibri",
+        "Mixture-of-Experts",
+        "FP8",
+        "Apache 2.0",
+        "NVIDIA B200",
+        "NVIDIA H200"
+      ],
+      "publishedAt": "2026-10-04T07:01:04+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "britain-s-reliance-on-us-cloud-giants-alarms-its-politicians",
+      "title": "Britain’s Reliance on US Cloud Giants Alarms Its Politicians",
+      "dek": "The UK’s dependence on big American cloud providers poses “a strategic and economic vulnerability” to the country, politicians warned, as US authorities have the power to switch off Britain’s public services or demand personal information under federal law.",
+      "aiSummary": "British politicians have warned that the nation's reliance on large US cloud providers creates a strategic and economic vulnerability. They argue that US authorities possess the legal power to disrupt British public services or access personal data under federal law.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-04/britain-s-reliance-on-us-cloud-giants-alarms-its-politicians",
+      "category": "Cloud Infrastructure",
+      "filterTags": [
+        "Cloud Computing",
+        "US",
+        "UK",
+        "Data Privacy"
+      ],
+      "publishedAt": "2026-10-04T07:00:00+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cloud Infrastructure"
+        },
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "Geopolitics"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1791103779",
+      "title": "viable/strict/1791103779",
+      "dek": "[py3.14] Fix  partial  class attribute in inductor dynamic shapes tes…",
+      "aiSummary": "A patch has been applied to fix a problem with a partial class attribute in the inductor dynamic shapes tests for Python 3.14. The update ensures the attribute is correctly handled during dynamic shape inference in the inductor backend.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1791103779",
+      "category": "Machine Learning",
+      "filterTags": [
+        "Python 3.14",
+        "PyTorch",
+        "Inductor",
+        "Dynamic Shapes"
+      ],
+      "publishedAt": "2026-10-04T04:28:54+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1791095657",
+      "title": "viable/strict/1791095657",
+      "dek": "[aoti] Use the proxy executor for _quantized ops without a C shim ( #1 …",
+      "aiSummary": "The update modifies the AOTI system to utilize the proxy executor for quantized operations that lack a C shim. This change is part of a pull request aimed at improving handling of specific quantized ops.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1791095657",
+      "category": "Machine Learning",
+      "filterTags": [
+        "AOTI",
+        "proxy executor",
+        "quantized ops",
+        "C shim"
+      ],
+      "publishedAt": "2026-10-04T01:52:04+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Compiler Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "cramer-says-frozen-conditions-are-holding-many-stocks-back-here-s-what-could-change-that",
+      "title": "Cramer says 'frozen' conditions are holding many stocks back. Here's what could change that",
+      "dek": "CNBC's Jim Cramer said Wednesday that several key parts of the U.S. economy have effectively frozen.",
+      "aiSummary": "Jim Cramer said Wednesday that several key parts of the U.S. economy are effectively frozen, which is holding many stocks back. He indicated that changes could potentially alter these conditions.",
+      "articleUrl": "https://www.cnbc.com/2026/09/30/jim-cramer-frozen-markets-stocks.html",
+      "category": "Finance",
+      "filterTags": [
+        "CNBC",
+        "Jim Cramer"
+      ],
+      "publishedAt": "2026-09-30T23:00:52+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Economy"
+        },
+        {
+          "name": "Stock Market"
+        }
+      ]
+    },
+    {
+      "slug": "tech-life",
+      "title": "Tech Life",
+      "dek": "How a Chinese AI model was persuaded to ignore its rules and give dangerous advice.",
+      "aiSummary": "A Chinese AI model was coaxed into violating its safety protocols and providing harmful guidance. The incident highlights vulnerabilities in AI governance and the potential for malicious exploitation. It underscores the need for stronger safeguards and oversight.",
+      "articleUrl": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AI model",
+        "Chinese AI",
+        "safety protocols"
+      ],
+      "publishedAt": "2026-09-29T19:30:00+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Ethics"
+        }
+      ]
+    }
+  ]
+}
