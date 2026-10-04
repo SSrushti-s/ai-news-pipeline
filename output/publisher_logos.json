@@ -1,0 +1,402 @@
+{
+  "github.blog": {
+    "logoUrl": "https://github.blog/wp-content/uploads/2019/01/cropped-github-favicon-512.png?fit=180%2C180",
+    "faviconUrl": "https://github.githubassets.com/favicon.ico"
+  },
+  "timestech.in": {
+    "logoUrl": "https://timestech.in/wp-content/uploads/2022/09/cropped-cropped-cropped-TimesTech-150x150-1-192x192-1-180x180.png",
+    "faviconUrl": "https://timestech.in/wp-content/uploads/2022/09/cropped-cropped-cropped-TimesTech-150x150-1-192x192-1-32x32.png"
+  },
+  "aws.amazon.com": {
+    "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+    "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico"
+  },
+  "huggingface.co": {
+    "logoUrl": "https://huggingface.co/front/thumbnails/v2-2.png",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=128"
+  },
+  "arxiv.org": {
+    "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+    "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png"
+  },
+  "stackoverflow.blog": {
+    "logoUrl": "https://stackoverflow.blog/apple-touch-icon.png",
+    "faviconUrl": "https://stackoverflow.blog/favicon.ico"
+  },
+  "9to5mac.com": {
+    "logoUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2019/10/cropped-cropped-mac1-1.png?w=180",
+    "faviconUrl": "https://9to5mac.com/wp-content/themes/ninetofive/dist/svg/9to5-clock.svg"
+  },
+  "machinelearning.apple.com": {
+    "logoUrl": "https://machinelearning.apple.com/favicon.ico",
+    "faviconUrl": "https://machinelearning.apple.com/favicon.ico"
+  },
+  "deepmind.google": {
+    "logoUrl": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/icons/google_deepmind_2x_96dp.png",
+    "faviconUrl": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/icons/google_deepmind_2x_96dp.png"
+  },
+  "wsj.com": {
+    "logoUrl": "https://images.wsj.net/im-00057899",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=wsj.com&sz=128"
+  },
+  "research.google": {
+    "logoUrl": "https://www.gstatic.com/images/branding/googleg_gradient/1x/googleg_gradient_standard_20dp.png",
+    "faviconUrl": "https://www.gstatic.com/images/branding/googleg_gradient/1x/googleg_gradient_standard_20dp.png"
+  },
+  "simonwillison.net": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128"
+  },
+  "technologyreview.com": {
+    "logoUrl": "https://www.technologyreview.com/static/media/favicon.1cfcdb44759a0f93ddf5feb5405dd4cc.ico",
+    "faviconUrl": "https://www.technologyreview.com/static/media/favicon.1cfcdb44759a0f93ddf5feb5405dd4cc.ico"
+  },
+  "ijcttjournal.org": {
+    "logoUrl": "https://ijcttjournal.org/public/images/IJCTT/meta/ssrg-ijctt.webp",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=ijcttjournal.org&sz=128"
+  },
+  "theverge.com": {
+    "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+    "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico"
+  },
+  "fsfe.org": {
+    "logoUrl": "https://fsfe.org/graphics/touch-icon.png",
+    "faviconUrl": "https://fsfe.org/graphics/fsfe.ico"
+  },
+  "ft.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128"
+  },
+  "microsoft.com": {
+    "logoUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2024/07/About-page-promo_1066x600.jpg",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=128"
+  },
+  "venturebeat.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=venturebeat.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=venturebeat.com&sz=128"
+  },
+  "wired.com": {
+    "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+    "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico"
+  },
+  "science.org": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=science.org&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=science.org&sz=128"
+  },
+  "smh.com.au": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=smh.com.au&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=smh.com.au&sz=128"
+  },
+  "theijst.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=theijst.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=theijst.com&sz=128"
+  },
+  "eleuther.ai": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=eleuther.ai&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=eleuther.ai&sz=128"
+  },
+  "techcrunch.com": {
+    "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+    "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32"
+  },
+  "arstechnica.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128"
+  },
+  "towardsdatascience.com": {
+    "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+    "faviconUrl": "https://towardsdatascience.com/favicon.ico"
+  },
+  "substack.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=substack.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=substack.com&sz=128"
+  },
+  "cmu.edu": {
+    "logoUrl": "https://www.cmu.edu/themes/custom/cmu_base/favicon.ico",
+    "faviconUrl": "https://www.cmu.edu/themes/custom/cmu_base/favicon.ico"
+  },
+  "theguardian.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128"
+  },
+  "newsletter.pragmaticengineer.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=newsletter.pragmaticengineer.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=newsletter.pragmaticengineer.com&sz=128"
+  },
+  "tldr.tech": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=tldr.tech&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=tldr.tech&sz=128"
+  },
+  "hyperdigest.beehiiv.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=hyperdigest.beehiiv.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=hyperdigest.beehiiv.com&sz=128"
+  },
+  "anthropic.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=anthropic.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=anthropic.com&sz=128"
+  },
+  "github.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128"
+  },
+  "reddit.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=reddit.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=reddit.com&sz=128"
+  },
+  "deeplearning.ai": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=deeplearning.ai&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=deeplearning.ai&sz=128"
+  },
+  "ainowinstitute.org": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=ainowinstitute.org&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=ainowinstitute.org&sz=128"
+  },
+  "sebastianraschka.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=sebastianraschka.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=sebastianraschka.com&sz=128"
+  },
+  "mit.edu": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=mit.edu&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=mit.edu&sz=128"
+  },
+  "interconnects.ai": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=interconnects.ai&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=interconnects.ai&sz=128"
+  },
+  "lilianweng.github.io": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=lilianweng.github.io&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=lilianweng.github.io&sz=128"
+  },
+  "nvidia.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=128"
+  },
+  "jalammar.github.io": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=jalammar.github.io&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=jalammar.github.io&sz=128"
+  },
+  "kdnuggets.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=kdnuggets.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=kdnuggets.com&sz=128"
+  },
+  "marktechpost.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128"
+  },
+  "axios.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=axios.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=axios.com&sz=128"
+  },
+  "bytebytego.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=bytebytego.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=bytebytego.com&sz=128"
+  },
+  "aiweekly.co": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=aiweekly.co&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=aiweekly.co&sz=128"
+  },
+  "analyticsvidhya.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=analyticsvidhya.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=analyticsvidhya.com&sz=128"
+  },
+  "huyenchip.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=huyenchip.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=huyenchip.com&sz=128"
+  },
+  "dataelixir.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=dataelixir.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=dataelixir.com&sz=128"
+  },
+  "idg.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=idg.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=idg.com&sz=128"
+  },
+  "zdnet.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128"
+  },
+  "appleinsider.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128"
+  },
+  "theprohuman.ai": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=theprohuman.ai&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=theprohuman.ai&sz=128"
+  },
+  "openai.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128"
+  },
+  "bbc.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128"
+  },
+  "jmlr.org": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=jmlr.org&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=jmlr.org&sz=128"
+  },
+  "news.ycombinator.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128"
+  },
+  "bloomberg.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128"
+  },
+  "cnbc.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128"
+  },
+  "proceedings.mlr.press": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=proceedings.mlr.press&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=proceedings.mlr.press&sz=128"
+  },
+  "boxofamazing.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=boxofamazing.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=boxofamazing.com&sz=128"
+  },
+  "team-cymru.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=team-cymru.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=team-cymru.com&sz=128"
+  },
+  "sans.org": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=sans.org&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=sans.org&sz=128"
+  },
+  "berkeley.edu": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=berkeley.edu&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=berkeley.edu&sz=128"
+  },
+  "stanford.edu": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=stanford.edu&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=stanford.edu&sz=128"
+  },
+  "turingpost.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=turingpost.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=turingpost.com&sz=128"
+  },
+  "cncf.io": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=cncf.io&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=cncf.io&sz=128"
+  },
+  "engadget.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128"
+  },
+  "react.statuscode.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=react.statuscode.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=react.statuscode.com&sz=128"
+  },
+  "lennysnewsletter.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=lennysnewsletter.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=lennysnewsletter.com&sz=128"
+  },
+  "thegradient.pub": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=thegradient.pub&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=thegradient.pub&sz=128"
+  },
+  "theregister.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=theregister.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=theregister.com&sz=128"
+  },
+  "sdtimes.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=sdtimes.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=sdtimes.com&sz=128"
+  },
+  "ben-evans.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=ben-evans.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=ben-evans.com&sz=128"
+  },
+  "nytimes.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128"
+  },
+  "importai.substack.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=importai.substack.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=importai.substack.com&sz=128"
+  },
+  "frontendfoc.us": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=frontendfoc.us&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=frontendfoc.us&sz=128"
+  },
+  "powerelectronicsnews.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128"
+  },
+  "vaibhavsmartlead.beehiiv.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=vaibhavsmartlead.beehiiv.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=vaibhavsmartlead.beehiiv.com&sz=128"
+  },
+  "theblueprintbyie.beehiiv.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=theblueprintbyie.beehiiv.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=theblueprintbyie.beehiiv.com&sz=128"
+  },
+  "theaivalley.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=theaivalley.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=theaivalley.com&sz=128"
+  },
+  "syncedreview.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=syncedreview.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=syncedreview.com&sz=128"
+  },
+  "machinelearningmastery.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=machinelearningmastery.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=machinelearningmastery.com&sz=128"
+  },
+  "newsletter.towardsai.net": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=newsletter.towardsai.net&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=newsletter.towardsai.net&sz=128"
+  },
+  "scalatimes.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=scalatimes.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=scalatimes.com&sz=128"
+  },
+  "gatesnotes.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=gatesnotes.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=gatesnotes.com&sz=128"
+  },
+  "foundingjourney.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=foundingjourney.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=foundingjourney.com&sz=128"
+  },
+  "kyndryl.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=kyndryl.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=kyndryl.com&sz=128"
+  },
+  "danielmiessler.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=danielmiessler.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=danielmiessler.com&sz=128"
+  },
+  "hackernewsletter.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=hackernewsletter.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=hackernewsletter.com&sz=128"
+  },
+  "softwaremill.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=softwaremill.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=softwaremill.com&sz=128"
+  },
+  "javascriptweekly.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=javascriptweekly.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=javascriptweekly.com&sz=128"
+  },
+  "latent.space": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128"
+  },
+  "lastweekinaws.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=lastweekinaws.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=lastweekinaws.com&sz=128"
+  },
+  "newsletter.flocus.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=newsletter.flocus.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=newsletter.flocus.com&sz=128"
+  },
+  "softwareengineeringdaily.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=softwareengineeringdaily.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=softwareengineeringdaily.com&sz=128"
+  },
+  "smashingmagazine.com": {
+    "logoUrl": "https://www.google.com/s2/favicons?domain=smashingmagazine.com&sz=128",
+    "faviconUrl": "https://www.google.com/s2/favicons?domain=smashingmagazine.com&sz=128"
+  }
+}

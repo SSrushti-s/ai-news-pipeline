@@ -1,0 +1,1399 @@
+{
+  "news": [
+    {
+      "slug": "evaluating-multi-task-morphological-concept-learning-for-pulmonary-nodule-malignancy-assessment-in-3d-ct",
+      "title": "Evaluating Multi-Task Morphological Concept Learning for Pulmonary Nodule Malignancy Assessment in 3D CT",
+      "dek": "arXiv:2609.38271v1 Announce Type: new \nAbstract: Morphological characteristics such as spiculation and lobulation play an important role in assessing pulmonary nodules on computed tomography (CT), particularly in relation to malignancy risk. This study examines whether learning r",
+      "aiSummary": "This study investigates the use of multi-task morphological concept learning to assess the malignancy of pulmonary nodules in 3D CT scans. The research focuses on how specific morphological characteristics, such as spiculation and lobulation, contribute to determining malignancy risk.",
+      "articleUrl": "https://arxiv.org/abs/2609.38271",
+      "category": "Medical Imaging",
+      "filterTags": [
+        "Pulmonary Nodule",
+        "Malignancy Assessment",
+        "3D CT",
+        "Morphological Concept Learning",
+        "Multi-Task Learning"
+      ],
+      "publishedAt": "2026-10-01T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.CV",
+        "logoUrl": null,
+        "faviconUrl": null,
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Medical Imaging"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Healthcare"
+        }
+      ]
+    },
+    {
+      "slug": "masked-swingers-harnessing-data-augmentation-to-advance-autoencoders-for-self-supervised-learning",
+      "title": "Masked Swingers: Harnessing Data Augmentation to Advance Autoencoders for Self-Supervised Learning",
+      "dek": "arXiv:2609.38278v1 Announce Type: new \nAbstract: Self-supervised learning (SSL) removes the need for annotations and makes models that are capable across more domains than supervised learning. The autoencoder SSL framework learns by reconstructing its own input after information ",
+      "aiSummary": "The paper introduces a technique called Masked Swingers that leverages data augmentation to enhance autoencoders in self-supervised learning. This approach aims to reduce the reliance on annotated data, allowing models to achieve broader domain capabilities compared to supervised learning methods.",
+      "articleUrl": "https://arxiv.org/abs/2609.38278",
+      "category": "Machine Learning",
+      "filterTags": [
+        "Self-supervised learning",
+        "Autoencoders",
+        "Data Augmentation",
+        "arXiv"
+      ],
+      "publishedAt": "2026-10-01T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.CV",
+        "logoUrl": null,
+        "faviconUrl": null,
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "AI Research"
+        }
+      ]
+    },
+    {
+      "slug": "gaugevlm-structuring-spatial-supervision-with-measured-geometric-interventions",
+      "title": "GaugeVLM: Structuring Spatial Supervision with Measured Geometric Interventions",
+      "dek": "arXiv:2609.38285v1 Announce Type: new \nAbstract: Vision-language models (VLMs) can contradict themselves across views of the same spatial relation and fail to respond when that relation changes. Addressing these failures requires supervision that captures error magnitude and geom",
+      "aiSummary": "Vision-language models often provide inconsistent responses to spatial relations and fail to detect changes in those relations. The proposed GaugeVLM addresses these issues by using supervision that captures error magnitude and geometric details.",
+      "articleUrl": "https://arxiv.org/abs/2609.38285",
+      "category": "AI",
+      "filterTags": [
+        "GaugeVLM",
+        "Vision-language models",
+        "arXiv"
+      ],
+      "publishedAt": "2026-10-01T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.CV",
+        "logoUrl": null,
+        "faviconUrl": null,
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Computer Vision"
+        }
+      ]
+    },
+    {
+      "slug": "robust-lassonet-enhancing-feature-selection-in-neural-networks-via-robust-loss-functions",
+      "title": "Robust LassoNet: Enhancing Feature Selection in Neural Networks via Robust Loss Functions",
+      "dek": "arXiv:2609.38263v1 Announce Type: new \nAbstract: Feature selection in neural networks remains a challenging problem, particularly in the presence of noisy or contaminated data. LassoNet is a recent approach that addresses this issue by combining neural networks with hierarchical ",
+      "aiSummary": "The paper introduces Robust LassoNet, a method designed to improve feature selection in neural networks when dealing with noisy or contaminated data. It builds upon the existing LassoNet approach by incorporating robust loss functions to enhance performance.",
+      "articleUrl": "https://arxiv.org/abs/2609.38263",
+      "category": "Machine Learning",
+      "filterTags": [
+        "LassoNet",
+        "Neural Networks",
+        "Feature Selection",
+        "Robust Loss Functions"
+      ],
+      "publishedAt": "2026-10-01T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/stat.ML",
+        "logoUrl": null,
+        "faviconUrl": null,
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Data Science"
+        }
+      ]
+    },
+    {
+      "slug": "acceleration-of-diffusion-language-model-through-discrete-average-generator",
+      "title": "Acceleration of Diffusion Language Model through Discrete Average Generator",
+      "dek": "arXiv:2609.38364v1 Announce Type: new \nAbstract: Discrete diffusion models and flow matching have emerged as powerful frameworks for generative modeling over discrete state spaces, yet efficient few-step generation remains a fundamental challenge. In this work, we introduce the D",
+      "aiSummary": "The paper introduces a method to accelerate discrete diffusion models and flow matching for generative modeling over discrete state spaces. It addresses the challenge of efficient few-step generation by proposing a new approach involving a discrete average generator.",
+      "articleUrl": "https://arxiv.org/abs/2609.38364",
+      "category": "AI",
+      "filterTags": [
+        "Discrete Diffusion Models",
+        "Flow Matching",
+        "Generative Modeling",
+        "arXiv"
+      ],
+      "publishedAt": "2026-10-01T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/stat.ML",
+        "logoUrl": null,
+        "faviconUrl": null,
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Research"
+        }
+      ]
+    },
+    {
+      "slug": "lower-bounds-for-linear-oracle-online-learning",
+      "title": "Lower Bounds for Linear-Oracle Online Learning",
+      "dek": "arXiv:2609.38375v1 Announce Type: new \nAbstract: Can a constant number of linear minimizations per round improve on the $T^{3/4}$ regret rate of online Frank-Wolfe on general convex sets? Weibel et al. conjectured that fixed-coefficient methods cannot. We prove their conjecture a",
+      "aiSummary": "The paper proves a conjecture by Weibel et al. regarding the limitations of fixed-coefficient methods in online learning. It demonstrates that using a constant number of linear minimizations per round cannot improve upon the T^{3/4} regret rate of online Frank-Wolfe on general convex sets.",
+      "articleUrl": "https://arxiv.org/abs/2609.38375",
+      "category": "Machine Learning",
+      "filterTags": [
+        "Online Learning",
+        "Frank-Wolfe",
+        "Linear Oracle",
+        "Regret Bounds",
+        "Convex Optimization"
+      ],
+      "publishedAt": "2026-10-01T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/stat.ML",
+        "logoUrl": null,
+        "faviconUrl": null,
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Algorithms"
+        },
+        {
+          "name": "Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "simulating-synchrony-loop-networks-in-the-open-source-risp-neuroprocessor",
+      "title": "Simulating Synchrony Loop Networks in the Open Source RISP Neuroprocessor",
+      "dek": "arXiv:2609.38432v1 Announce Type: new \nAbstract: Neuromorphic spiking neural networks (SNNs) offer a promising alternative to conventional deep neural networks for tasks with computational resource or data constraints. However, their practical applications have been limited by co",
+      "aiSummary": "The paper presents a method for simulating synchrony loop networks using the open-source RISP neuroprocessor. This approach aims to address the practical limitations of neuromorphic spiking neural networks (SNNs) in resource-constrained environments.",
+      "articleUrl": "https://arxiv.org/abs/2609.38432",
+      "category": "AI",
+      "filterTags": [
+        "RISP",
+        "SNNs",
+        "Neuromorphic",
+        "arXiv"
+      ],
+      "publishedAt": "2026-10-01T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.NE",
+        "logoUrl": null,
+        "faviconUrl": null,
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "how-much-of-fly-walking-is-written-in-the-wiring",
+      "title": "How much of fly walking is written in the wiring?",
+      "dek": "arXiv:2609.38665v1 Announce Type: new \nAbstract: Connectome models of the fly nerve cord generate walking-like motor rhythms, but oscillation alone does not show that the specific wiring matters. Here we provide, to our knowledge, the first test of which features of motor output ",
+      "aiSummary": "Researchers present the first test to determine which specific features of motor output in fly walking are dictated by neural wiring. While connectome models can generate walking-like rhythms, this study aims to verify if the specific wiring is responsible for the observed motor patterns.",
+      "articleUrl": "https://arxiv.org/abs/2609.38665",
+      "category": "Neuroscience",
+      "filterTags": [
+        "Connectome",
+        "Fly",
+        "Neural Wiring",
+        "Motor Rhythms",
+        "arXiv"
+      ],
+      "publishedAt": "2026-10-01T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.NE",
+        "logoUrl": null,
+        "faviconUrl": null,
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Neuroscience"
+        },
+        {
+          "name": "Biology"
+        },
+        {
+          "name": "Computational Modeling"
+        }
+      ]
+    },
+    {
+      "slug": "null-model-treatment-of-the-sensory-motor-boundary-changes-an-evolutionary-connectome-comparison",
+      "title": "Null-model treatment of the sensory-motor boundary changes an evolutionary connectome comparison",
+      "dek": "arXiv:2609.39248v1 Announce Type: new \nAbstract: Randomised copies of a connectome are the usual baseline for asking whether measured wiring matters, and the answer depends on what the randomisation preserves. We evolved embodied foraging agents whose brains are a compressed adul",
+      "aiSummary": "The study investigates how the choice of randomization baseline impacts the analysis of evolutionary connectomes. It demonstrates that the treatment of the sensory-motor boundary in null models significantly alters the conclusions drawn from comparing measured wiring in evolved embodied foraging agents.",
+      "articleUrl": "https://arxiv.org/abs/2609.39248",
+      "category": "Neuroscience",
+      "filterTags": [
+        "connectome",
+        "null-model",
+        "evolutionary",
+        "sensory-motor boundary",
+        "embodied agents"
+      ],
+      "publishedAt": "2026-10-01T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.NE",
+        "logoUrl": null,
+        "faviconUrl": null,
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Neuroscience"
+        },
+        {
+          "name": "Computational Biology"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "taggraph-tag-augmented-graphs-for-graph-retrieval-of-agent-persistent-histories",
+      "title": "TAGGRAPH: Tag-Augmented Graphs for Graph Retrieval of Agent Persistent Histories",
+      "dek": "arXiv:2609.38353v1 Announce Type: new \nAbstract: Long-term memory lets LLM agents recall past interactions and remain consistent across sessions, but memory systems are hard to compare because they often vary in representation, indexing, retrieval, and evaluation. We present a co",
+      "aiSummary": "The paper introduces TAGGRAPH, a system designed to improve the retrieval of persistent histories for LLM agents with long-term memory. It addresses the difficulty of comparing different memory systems by standardizing aspects of representation, indexing, and evaluation.",
+      "articleUrl": "https://arxiv.org/abs/2609.38353",
+      "category": "AI",
+      "filterTags": [
+        "TAGGRAPH",
+        "LLM agents",
+        "Graph Retrieval",
+        "Long-term memory",
+        "arXiv"
+      ],
+      "publishedAt": "2026-10-01T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.IR",
+        "logoUrl": null,
+        "faviconUrl": null,
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Research"
+        }
+      ]
+    },
+    {
+      "slug": "adam-rec-adaptive-modality-routing-for-multimodal-recommendation",
+      "title": "AdaM-Rec: Adaptive Modality Routing for Multimodal Recommendation",
+      "dek": "arXiv:2609.38455v1 Announce Type: new \nAbstract: While recent multimodal recommender systems have demonstrated the effectiveness of incorporating visual and textual information to improve downstream performance, most existing methods rely on static modality fusion, assuming that ",
+      "aiSummary": "AdaM-Rec proposes adaptive modality routing for multimodal recommendation, moving beyond static fusion of visual and textual data. The approach aims to improve recommendation performance by dynamically selecting modalities.",
+      "articleUrl": "https://arxiv.org/abs/2609.38455",
+      "category": "AI",
+      "filterTags": [
+        "multimodal recommendation",
+        "visual",
+        "textual",
+        "modality fusion"
+      ],
+      "publishedAt": "2026-10-01T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.IR",
+        "logoUrl": null,
+        "faviconUrl": null,
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Recommendation Systems"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "re-ranking-and-late-interaction-drive-retrieval-quality-a-controlled-comparison-of-rag-strategies-for-scientific-questio",
+      "title": "Re-ranking and Late Interaction Drive Retrieval Quality: A Controlled Comparison of RAG Strategies for Scientific Question Answering",
+      "dek": "arXiv:2609.38473v1 Announce Type: new \nAbstract: Retrieval-Augmented Generation (RAG) is now the standard way to ground Large Language Models (LLMs) in external knowledge, yet the design space of retrieval pipelines is large and the trade-offs between variants are not well unders",
+      "aiSummary": "The study compares Retrieval-Augmented Generation strategies for scientific question answering, showing that re-ranking and late interaction techniques markedly improve retrieval quality. Retrieval-Augmented Generation is the standard approach to embed external knowledge into large language models, but the many possible retrieval pipeline designs and their trade-offs remain poorly understood.",
+      "articleUrl": "https://arxiv.org/abs/2609.38473",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "RAG",
+        "LLM",
+        "retrieval",
+        "re-ranking",
+        "late interaction",
+        "scientific question answering"
+      ],
+      "publishedAt": "2026-10-01T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.IR",
+        "logoUrl": null,
+        "faviconUrl": null,
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Natural Language Processing"
+        },
+        {
+          "name": "Information Retrieval"
+        }
+      ]
+    },
+    {
+      "slug": "how-should-diffusion-language-models-edit-code",
+      "title": "How Should Diffusion Language Models Edit Code?",
+      "dek": "arXiv:2609.38257v1 Announce Type: new \nAbstract: Code editing requires a model to decide where to make changes, generate the new content, and preserve everything else. We study how masked diffusion language models divide these responsibilities across four editing interfaces: whol",
+      "aiSummary": "The paper investigates how masked diffusion language models handle the specific tasks of locating changes, generating new content, and preserving existing code. It analyzes how these models distribute these responsibilities across four different editing interfaces.",
+      "articleUrl": "https://arxiv.org/abs/2609.38257",
+      "category": "AI",
+      "filterTags": [
+        "Diffusion Language Models",
+        "Code Editing",
+        "arXiv"
+      ],
+      "publishedAt": "2026-10-01T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.SE",
+        "logoUrl": null,
+        "faviconUrl": null,
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "zero2repo-can-coding-agents-build-repositories-from-scratch",
+      "title": "Zero2Repo: Can Coding Agents Build Repositories from Scratch?",
+      "dek": "arXiv:2609.38269v1 Announce Type: new \nAbstract: Coding agents are increasingly asked to build software rather than patch it, yet benchmarks for from-scratch repository construction are mostly limited to a single language and depend on manually curated tasks. We introduce Zero2Re",
+      "aiSummary": "The paper discusses the growing role of coding agents in building new software instead of just patching existing code. Current benchmarks for from‑scratch repository construction are limited to a single language and rely on manually curated tasks. The authors introduce Zero2Repo, a new benchmark that expands the scope and automates task generation.",
+      "articleUrl": "https://arxiv.org/abs/2609.38269",
+      "category": "AI",
+      "filterTags": [
+        "Zero2Repo",
+        "coding agents",
+        "repository construction"
+      ],
+      "publishedAt": "2026-10-01T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.SE",
+        "logoUrl": null,
+        "faviconUrl": null,
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "e2e-swe-benchmarking-llms-on-building-working-codebases-from-scratch",
+      "title": "E2E-SWE: Benchmarking LLMs on Building Working Codebases from Scratch",
+      "dek": "arXiv:2609.38335v1 Announce Type: new \nAbstract: Coding agents powered by large language models (LLMs) are evolving from making localized code changes to developing complete software repositories. However, evaluating repository-scale generation remains challenging: tasks must dem",
+      "aiSummary": "The paper introduces E2E-SWE, a benchmark designed to evaluate large language models on their ability to generate complete, working software repositories from scratch. This addresses the growing capability of coding agents to move beyond localized edits to full-scale repository generation, where previous evaluation methods have been insufficient.",
+      "articleUrl": "https://arxiv.org/abs/2609.38335",
+      "category": "AI",
+      "filterTags": [
+        "E2E-SWE",
+        "LLMs",
+        "Coding Agents",
+        "arXiv"
+      ],
+      "publishedAt": "2026-10-01T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.SE",
+        "logoUrl": null,
+        "faviconUrl": null,
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Benchmarks"
+        }
+      ]
+    },
+    {
+      "slug": "when-correct-memory-goes-wrong-fuzzing-persistent-memory-use-in-llm-agents",
+      "title": "When Correct Memory Goes Wrong: Fuzzing Persistent Memory Use in LLM Agents",
+      "dek": "arXiv:2609.38275v1 Announce Type: new \nAbstract: Persistent memory helps LLM agents carry information across long interactions, but correct memory can still be used incorrectly when queries change or memory states evolve. Existing work mainly studies memory content errors or eval",
+      "aiSummary": "The paper examines how LLM agents may misuse correct persistent memory when queries change or memory states evolve. It highlights that current research focuses mainly on memory content errors or evaluation, leaving this misuse scenario underexplored.",
+      "articleUrl": "https://arxiv.org/abs/2609.38275",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Persistent memory",
+        "LLM agents",
+        "fuzzing"
+      ],
+      "publishedAt": "2026-10-01T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.DC",
+        "logoUrl": null,
+        "faviconUrl": null,
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Software Testing"
+        },
+        {
+          "name": "Memory Management"
+        }
+      ]
+    },
+    {
+      "slug": "cascadia-a-control-plane-free-alternative-to-hyperconverged-ai-infrastructure",
+      "title": "Cascadia: A Control-Plane-Free Alternative to Hyperconverged AI Infrastructure",
+      "dek": "arXiv:2609.38697v1 Announce Type: new \nAbstract: We present Cascadia, a system for serving large language models on fleets of commodity Intel AIPCs using their CPU, integrated-GPU, and NPU resources. Every node embeds ingress, scheduling, and execution; inference requests require",
+      "aiSummary": "Cascadia is a system that serves large language models on fleets of commodity Intel AI processors, using their CPU, integrated GPU, and NPU resources. Each node includes ingress, scheduling, and execution, eliminating the need for a separate control plane. It offers a control‑plane‑free alternative to hyperconverged AI infrastructure.",
+      "articleUrl": "https://arxiv.org/abs/2609.38697",
+      "category": "AI",
+      "filterTags": [
+        "Cascadia",
+        "Intel AIPCs",
+        "CPU",
+        "integrated GPU",
+        "NPU",
+        "Large Language Models"
+      ],
+      "publishedAt": "2026-10-01T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.DC",
+        "logoUrl": null,
+        "faviconUrl": null,
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "preserving-provenance-in-shared-kv-caches-for-llm-serving",
+      "title": "Preserving Provenance in Shared KV Caches for LLM Serving",
+      "dek": "arXiv:2609.38706v1 Announce Type: new \nAbstract: Production LLM serving stacks combine an inference engine's local prefix cache with a shared KV-cache tier for fleet-wide reuse. The local cache distinguishes requests by adapter, weight configuration and sharing domain, but the sh",
+      "aiSummary": "Production LLM serving systems integrate local prefix caches with shared KV-cache tiers to enable fleet-wide reuse. While local caches differentiate requests based on adapters and weight configurations, the shared tier requires specific mechanisms to maintain provenance.",
+      "articleUrl": "https://arxiv.org/abs/2609.38706",
+      "category": "AI",
+      "filterTags": [
+        "LLM",
+        "KV Cache",
+        "Inference Engine",
+        "arXiv"
+      ],
+      "publishedAt": "2026-10-01T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.DC",
+        "logoUrl": null,
+        "faviconUrl": null,
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Systems"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "catp-design-and-evaluation-of-local-agent-authorization-and-audit-evidence",
+      "title": "CATP: Design and Evaluation of Local Agent Authorization and Audit Evidence",
+      "dek": "arXiv:2609.38223v1 Announce Type: new \nAbstract: A signed authorization record authenticates what a signer asserted, but does not by itself establish that the assertion agrees with the policy and action used for a runtime decision. CATP specifies the bindings needed to carry a lo",
+      "aiSummary": "The paper explains that signed authorization records confirm a signer's claim but do not guarantee that the claim aligns with policy and runtime actions. CATP introduces bindings that link authorization evidence to policy and action for local agents.",
+      "articleUrl": "https://arxiv.org/abs/2609.38223",
+      "category": "Security",
+      "filterTags": [
+        "CATP",
+        "signed authorization record",
+        "policy",
+        "runtime decision",
+        "local agent"
+      ],
+      "publishedAt": "2026-10-01T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.CR",
+        "logoUrl": null,
+        "faviconUrl": null,
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Authorization"
+        },
+        {
+          "name": "Audit"
+        }
+      ]
+    },
+    {
+      "slug": "separation-of-duties-for-privileged-llm-agents-a-governed-execution-architecture-with-measured-security-utility-trade-of",
+      "title": "Separation of Duties for Privileged LLM Agents: A Governed Execution Architecture with Measured Security-Utility Trade-offs",
+      "dek": "arXiv:2609.38224v1 Announce Type: new \nAbstract: Large language model agents are increasingly granted real privileges (executing commands, modifying files, calling APIs), so an agent that errs has already acted. Existing defences concentrate on the agent's inputs, while the path ",
+      "aiSummary": "The paper introduces a governed execution architecture that applies separation of duties to privileged LLM agents, which are increasingly granted real-world capabilities like command execution and API calls. This approach addresses the risk that an errant agent has already acted by focusing on the execution path rather than just inputs, while measuring the resulting security-utility trade-offs.",
+      "articleUrl": "https://arxiv.org/abs/2609.38224",
+      "category": "AI",
+      "filterTags": [
+        "LLM Agents",
+        "Separation of Duties",
+        "Security",
+        "arXiv"
+      ],
+      "publishedAt": "2026-10-01T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.CR",
+        "logoUrl": null,
+        "faviconUrl": null,
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "inference-layer-security-defending-against-adversarial-inference-and-infrastructure-abuse",
+      "title": "Inference-Layer Security: Defending Against Adversarial Inference and Infrastructure Abuse",
+      "dek": "arXiv:2609.38239v1 Announce Type: new \nAbstract: A Technical Report: Operating a large language model (LLM) as a service requires more than inference infrastructure: the provider must also defend against adversarial interactions that seek to exploit the service, including jailbre",
+      "aiSummary": "This technical report explains that running an LLM as a service requires more than just inference infrastructure; providers must also guard against adversarial interactions that exploit the service, such as jailbreak attempts. The report outlines the types of attacks and suggests defensive strategies for securing the inference layer. It emphasizes the importance of robust security measures to prevent misuse and infrastructure abuse.",
+      "articleUrl": "https://arxiv.org/abs/2609.38239",
+      "category": "AI",
+      "filterTags": [
+        "LLM",
+        "inference infrastructure",
+        "adversarial inference",
+        "jailbreak"
+      ],
+      "publishedAt": "2026-10-01T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.CR",
+        "logoUrl": null,
+        "faviconUrl": null,
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "small-study-effects-on-the-hierarchical-summary-roc-curve-latent-accuracy-and-threshold-trends-in-meta-analysis-of-diagn",
+      "title": "Small-study effects on the hierarchical summary ROC curve: latent accuracy and threshold trends in meta-analysis of diagnostic test accuracy",
+      "dek": "arXiv:2609.38297v1 Announce Type: new \nAbstract: Diagnostic meta-analyses commonly assess small-study effects using the Deeks test, which tests for a study-size trend in the log diagnostic odds ratio. Under the hierarchical summary receiver operating characteristic (HSROC) model,",
+      "aiSummary": "The paper discusses how diagnostic meta-analyses assess small-study effects, typically using the Deeks test to detect a trend in the log diagnostic odds ratio. It also explores the application of the hierarchical summary receiver operating characteristic (HSROC) model in this context.",
+      "articleUrl": "https://arxiv.org/abs/2609.38297",
+      "category": "Healthcare",
+      "filterTags": [
+        "Deeks test",
+        "log diagnostic odds ratio",
+        "HSROC",
+        "diagnostic meta-analysis",
+        "ROC curve"
+      ],
+      "publishedAt": "2026-10-01T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/stat.ME",
+        "logoUrl": null,
+        "faviconUrl": null,
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Healthcare"
+        },
+        {
+          "name": "Statistics"
+        },
+        {
+          "name": "Research Methods"
+        }
+      ]
+    },
+    {
+      "slug": "inference-for-standard-trial-estimands-after-data-driven-subgroup-discovery",
+      "title": "Inference for Standard Trial Estimands after Data-Driven Subgroup Discovery",
+      "dek": "arXiv:2609.38361v1 Announce Type: new \nAbstract: Data-driven subgroup identification is increasingly used in clinical trials, yet the effect reported for a discovered subgroup is typically the standard analysis: a Cox or generalized-linear-model treatment coefficient fitted withi",
+      "aiSummary": "The paper addresses the statistical challenges of reporting treatment effects for subgroups identified through data-driven methods in clinical trials. It notes that standard analyses, such as Cox or generalized linear models, are typically used to fit treatment coefficients for these discovered subgroups.",
+      "articleUrl": "https://arxiv.org/abs/2609.38361",
+      "category": "Biostatistics",
+      "filterTags": [
+        "Clinical Trials",
+        "Cox Model",
+        "Generalized Linear Model",
+        "Subgroup Analysis",
+        "arXiv"
+      ],
+      "publishedAt": "2026-10-01T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/stat.ME",
+        "logoUrl": null,
+        "faviconUrl": null,
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Biostatistics"
+        },
+        {
+          "name": "Clinical Research"
+        },
+        {
+          "name": "Data Science"
+        }
+      ]
+    },
+    {
+      "slug": "a-tree-based-scan-statistic-for-database-studies-with-time-to-event-outcomes",
+      "title": "A tree-based scan statistic for database studies with time-to-event outcomes",
+      "dek": "arXiv:2609.38582v1 Announce Type: new \nAbstract: Tree-based scan statistics (TBSSs) are machine learning methods for disproportionality analyses. They simultaneously scan for thousands of hierarchically related health outcomes to detect potential signals of harm from drugs and va",
+      "aiSummary": "Tree-based scan statistics (TBSSs) are machine learning methods designed for disproportionality analyses. They scan thousands of hierarchically related health outcomes simultaneously to identify potential signals of harm from drugs and other exposures.",
+      "articleUrl": "https://arxiv.org/abs/2609.38582",
+      "category": "Machine Learning",
+      "filterTags": [
+        "Tree-based scan statistics",
+        "TBSS",
+        "machine learning",
+        "disproportionality analysis",
+        "time-to-event outcomes",
+        "arXiv"
+      ],
+      "publishedAt": "2026-10-01T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/stat.ME",
+        "logoUrl": null,
+        "faviconUrl": null,
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Healthcare"
+        },
+        {
+          "name": "Drug Safety"
+        }
+      ]
+    },
+    {
+      "slug": "perplexity-releases-pplx-embed-v2-context-9b-preview-a-contextual-embedding-model-that-retrieves-answers-and-their-suppo",
+      "title": "Perplexity Releases pplx-embed-v2-context-9b-preview: A Contextual Embedding Model That Retrieves Answers and Their Supporting Evidence",
+      "dek": "Perplexity Research and turbopuffer have released pplx-embed-v2-context-9b-preview, a contextual embedding model for RAG pipelines. Each chunk is embedded with the full document in view. The real change is the training signal. The model learns to retrieve the answer along with th",
+      "aiSummary": "Perplexity Research and turbopuffer released the pplx-embed-v2-context-9b-preview, a contextual embedding model designed for RAG pipelines. The model embeds each chunk with the full document in view and uses a new training signal to learn how to retrieve both the answer and its supporting evidence.",
+      "articleUrl": "https://www.marktechpost.com/2026/09/30/perplexity-releases-pplx-embed-v2-context-9b-preview-a-contextual-embedding-model-that-retrieves-answers-and-their-supporting-evidence/",
+      "category": "AI",
+      "filterTags": [
+        "Perplexity Research",
+        "turbopuffer",
+        "embedding",
+        "RAG",
+        "contextual embedding"
+      ],
+      "publishedAt": "2026-10-01T03:23:39+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": null,
+        "faviconUrl": null,
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "NLP"
+        },
+        {
+          "name": "Retrieval"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "d2b-spreadsheets-for-ai-agents",
+      "title": "D2B – Spreadsheets for AI Agents",
+      "dek": "A tool called D2B provides spreadsheet functionality specifically for AI agents.",
+      "aiSummary": "The provided text contains only the title 'D2B – Spreadsheets for AI Agents' and no descriptive body content. Therefore, no further factual details about the product's features, usage, or context can be extracted.",
+      "articleUrl": "https://d2b.dev/developers",
+      "category": "AI",
+      "filterTags": [
+        "D2B",
+        "AI Agents",
+        "Spreadsheets"
+      ],
+      "publishedAt": "2026-10-01T02:08:01+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": null,
+        "faviconUrl": null,
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Productivity"
+        }
+      ]
+    },
+    {
+      "slug": "giddy-up-it-s-botober-2026",
+      "title": "Giddy up, it's Botober 2026",
+      "dek": "They're racehorse names generated by a very tiny neural net trained only on 42,000 horses from the Jockey Club.",
+      "aiSummary": "A tiny neural network was trained on 42,000 Jockey Club horse names. It then generates new racehorse names for the Botober 2026 event.",
+      "articleUrl": "https://www.aiweirdness.com/botober-2026/",
+      "category": "AI",
+      "filterTags": [
+        "neural network",
+        "Jockey Club",
+        "Botober"
+      ],
+      "publishedAt": "2026-10-01T00:52:30+00:00",
+      "publisher": {
+        "name": "Janelle Shane",
+        "domain": "aiweirdness.com",
+        "website": "https://www.aiweirdness.com/",
+        "logoUrl": null,
+        "faviconUrl": null,
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Sports"
+        }
+      ]
+    },
+    {
+      "slug": "bonus-rejected-racehorses",
+      "title": "Bonus: Rejected Racehorses",
+      "dek": "For AI Weirdness supporters - a list of rejected racehorse names, generated by a very small neural network.",
+      "aiSummary": "This resource provides a list of rejected racehorse names generated by a very small neural network. It is intended as a bonus feature for supporters of the AI Weirdness project.",
+      "articleUrl": "https://www.aiweirdness.com/bonus-rejected-racehorses/",
+      "category": "AI",
+      "filterTags": [
+        "neural network",
+        "AI Weirdness"
+      ],
+      "publishedAt": "2026-10-01T00:52:07+00:00",
+      "publisher": {
+        "name": "Janelle Shane",
+        "domain": "aiweirdness.com",
+        "website": "https://www.aiweirdness.com/",
+        "logoUrl": null,
+        "faviconUrl": null,
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Generative Art"
+        }
+      ]
+    },
+    {
+      "slug": "ai-agents-tasked-with-making-money-commit-fraud-on-the-inernet",
+      "title": "AI Agents tasked with making money commit fraud on the inernet",
+      "dek": "AI agents designed to earn money are involved in online fraud",
+      "aiSummary": "No article body was provided. Therefore, no summary can be generated.",
+      "articleUrl": "https://twitter.com/andonlabs/status/2105391380973617644",
+      "category": "AI",
+      "filterTags": [],
+      "publishedAt": "2026-10-01T00:25:22+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": null,
+        "faviconUrl": null,
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "tobi-l-tke-on-ai-agents-at-shopify-and-the-future-of-work-video",
+      "title": "Tobi Lütke on AI agents at Shopify and the future of work [video]",
+      "dek": "Tobi Lütke discusses AI agents at Shopify and the future of work",
+      "aiSummary": "",
+      "articleUrl": "https://www.youtube.com/watch?v=G9P9D9hptq8",
+      "category": "AI",
+      "filterTags": [
+        "Shopify",
+        "AI agents"
+      ],
+      "publishedAt": "2026-10-01T00:24:20+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": null,
+        "faviconUrl": null,
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Future of Work"
+        }
+      ]
+    },
+    {
+      "slug": "elon-musk-s-grokipedia-has-a-newly-refreshed-design",
+      "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
+      "dek": "Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again, and today, it got some design tweaks as part of a v0.3 update, including a new logo and refreshes to its homepage and live edits page. SpaceXAI head of design Benji Taylor calls",
+      "aiSummary": "Grokipedia, an AI-powered competitor to Wikipedia developed by SpaceXAI, has released a v0.3 update featuring a newly refreshed design. This update includes a new logo and visual improvements to the homepage and live edits page, following the platform's recent resumption of incorporating user edits.",
+      "articleUrl": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+      "category": "AI",
+      "filterTags": [
+        "Grokipedia",
+        "SpaceXAI",
+        "Elon Musk",
+        "Wikipedia",
+        "Benji Taylor"
+      ],
+      "publishedAt": "2026-10-01T00:23:45+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com",
+        "logoUrl": null,
+        "faviconUrl": null,
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Web Development"
+        }
+      ]
+    },
+    {
+      "slug": "google-releases-gemini-4-argon-called-its-most-powerful-model-yet",
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+      "dek": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+      "aiSummary": "",
+      "articleUrl": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AI",
+        "gemini",
+        "Google"
+      ],
+      "publishedAt": "2026-09-30T23:43:07+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com",
+        "logoUrl": null,
+        "faviconUrl": null,
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": []
+    },
+    {
+      "slug": "llm-library-that-builds-itself-a-converter-for-nearly-every-file",
+      "title": "LLM library that builds itself, a converter for nearly every file",
+      "dek": "A large language model library that constructs itself and a tool that converts almost any file type.",
+      "aiSummary": "The article describes a large language model library capable of building itself. It also mentions a converter tool designed to handle nearly every file format.",
+      "articleUrl": "https://medium.com/@vektormemory/vektor-v1-9-8-b023b9b8a654",
+      "category": "AI",
+      "filterTags": [
+        "LLM",
+        "File Converter"
+      ],
+      "publishedAt": "2026-09-30T23:07:25+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": null,
+        "faviconUrl": null,
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "why-dwarkesh-is-wrong-about-computer-use-how-openai-shipped-its-jev-competitor-in-1-week",
+      "title": "Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week",
+      "dek": "Our DevDay coverage - the first pod on the DevDay lineup - dives in with the leaders of OpenAI’s CUA team and API platform.",
+      "aiSummary": "The article presents coverage from OpenAI's DevDay, featuring discussions with leaders from the Computer-Using Agent (CUA) team and the API platform. It addresses criticisms of Dwarkesh's views on computer use and details the rapid development and release of a competitor to Jev by OpenAI.",
+      "articleUrl": "https://www.latent.space/p/devday-2026",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "CUA",
+        "Jev",
+        "DevDay",
+        "API"
+      ],
+      "publishedAt": "2026-09-30T22:23:40+00:00",
+      "publisher": {
+        "name": "Latent Space",
+        "domain": "latent.space",
+        "website": "https://www.latent.space/",
+        "logoUrl": null,
+        "faviconUrl": null,
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "he-built-this-city",
+      "title": "He Built This City",
+      "dek": "I visited the Museum of the City of New York today and got to see  He Built This City: Joe Macken’s Model , the 50 x27 feet model of the city built over a 21 year period from balsa wood and cardboard. \n It exceeded my already high expectations. The exhibition closes on 12th Octob",
+      "aiSummary": "The Museum of the City of New York is currently exhibiting 'He Built This City: Joe Macken’s Model,' a 50 by 27-foot representation of the city. The model was constructed over a 21-year period using balsa wood and cardboard, and the exhibition is scheduled to close on October 12th.",
+      "articleUrl": "https://simonwillison.net/2026/Sep/30/he-built-this-city/",
+      "category": "Culture",
+      "filterTags": [
+        "Museum of the City of New York",
+        "Joe Macken",
+        "Balsa Wood",
+        "Cardboard"
+      ],
+      "publishedAt": "2026-09-30T21:54:19+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net/",
+        "logoUrl": null,
+        "faviconUrl": null,
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Culture"
+        },
+        {
+          "name": "Art"
+        },
+        {
+          "name": "Urban Planning"
+        }
+      ]
+    },
+    {
+      "slug": "google-deepmind-unveils-gemini-4-argon-with-1m-output-tokens-for-coding-knowledge-work-and-cyber-defense",
+      "title": "Google DeepMind Unveils Gemini 4 Argon with 1M Output Tokens for Coding, Knowledge Work and Cyber Defense",
+      "dek": "Gemini 4 Argon tops GPT-6 Astra and Claude Opus 5.5 on most benchmarks, but access remains gated today. \n The post  Google DeepMind Unveils Gemini 4 Argon with 1M Output Tokens for Coding, Knowledge Work and Cyber Defense  appeared first on  MarkTechPost .",
+      "aiSummary": "Gemini 4 Argon outperforms GPT-6 Astra and Claude Opus 5.5 on most benchmarks. However, the model is still behind a gate and not publicly available.",
+      "articleUrl": "https://www.marktechpost.com/2026/09/30/google-deepmind-unveils-gemini-4-argon-with-1m-output-tokens-for-coding-knowledge-work-and-cyber-defense/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Google DeepMind",
+        "Gemini 4 Argon",
+        "GPT-6 Astra",
+        "Claude Opus 5.5"
+      ],
+      "publishedAt": "2026-09-30T21:30:08+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": null,
+        "faviconUrl": null,
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astra-s-token-price",
+      "title": "OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
+      "dek": "OpenAI released GPT-6.1 Sol on September 29, 2026, an upgrade to GPT-6 Sol. It reaches near-Astra results on agentic coding, computer use and professional work at one-fifth of Astra's token prices. It costs $2 input and $10 output per million tokens, and cached input drops to $0.",
+      "aiSummary": "",
+      "articleUrl": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Agentic AI",
+        "AI Agents",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence",
+        "Editors Pick",
+        "Language Model",
+        "Large Language Model",
+        "Machine Learning",
+        "New Releases",
+        "Staff",
+        "Tech News",
+        "Technology"
+      ],
+      "publishedAt": "2026-09-30T21:09:24+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": null,
+        "faviconUrl": null,
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": []
+    },
+    {
+      "slug": "valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation",
+      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "dek": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+      "aiSummary": "Flow Engineering, a startup focused on integrating AI agents into hardware design, has secured funding from Valor, Atreides, and Sequoia at a $750 million valuation. The company also brought on Roelof Botha as an angel investor and board member.",
+      "articleUrl": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+      "category": "AI",
+      "filterTags": [
+        "Flow Engineering",
+        "Valor",
+        "Atreides",
+        "Sequoia",
+        "Roelof Botha",
+        "AI agents",
+        "hardware design"
+      ],
+      "publishedAt": "2026-09-30T21:07:40+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com",
+        "logoUrl": null,
+        "faviconUrl": null,
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Venture Capital"
+        }
+      ]
+    },
+    {
+      "slug": "google-announces-gemini-4-and-says-it-8217-s-so-capable-that-only-8216-trusted-cyber-defenders-8217-can-have-it-right-no",
+      "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+      "dek": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,\" according t",
+      "aiSummary": "Google announced its new AI model, Gemini 4 Argon, which offers frontier performance in complex workflows for software engineering, enterprise knowledge work such as legal and finance, and cybersecurity defense. The model is currently available only to trusted cyber defenders.",
+      "articleUrl": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Google",
+        "Gemini 4",
+        "AI",
+        "cybersecurity"
+      ],
+      "publishedAt": "2026-09-30T20:41:41+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com",
+        "logoUrl": null,
+        "faviconUrl": null,
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "Enterprise Software"
+        }
+      ]
+    },
+    {
+      "slug": "talkscribe-on-device-dictation-and-local-llm-rewrite-for-macos",
+      "title": "TalkScribe – On-device dictation and local LLM rewrite for macOS",
+      "dek": "TalkScribe is a macOS app that lets you dictate text and rewrite it using a local AI model.",
+      "aiSummary": "TalkScribe is a macOS application designed for on-device dictation. It utilizes a local Large Language Model (LLM) to rewrite dictated text without sending data to external servers.",
+      "articleUrl": "https://talkscribe.app",
+      "category": "AI",
+      "filterTags": [
+        "TalkScribe",
+        "macOS",
+        "LLM",
+        "Dictation"
+      ],
+      "publishedAt": "2026-09-30T20:29:36+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": null,
+        "faviconUrl": null,
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Productivity"
+        },
+        {
+          "name": "Privacy"
+        }
+      ]
+    }
+  ]
+}

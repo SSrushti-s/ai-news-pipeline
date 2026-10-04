@@ -1,0 +1,2610 @@
+  - name: Simon Willison
+    feed_url: https://simonwillison.net/atom/everything/
+    category: AI Engineering
+    publisher:
+      name: Simon Willison
+      domain: simonwillison.net
+      website: https://simonwillison.net
+    confidence: verified
+    note: From your existing source list.
+  - name: TimesTech AI News
+    feed_url: https://timestech.in
+    category: AI Engineering
+    publisher:
+      name: TimesTech Media
+      domain: timestech.in
+      website: https://timestech.in
+    confidence: verified
+    note: Targeted RSS feed extracting Industry 4.0 and Artificial Intelligence news.
+
+  - name: The International Journal of Science & Technoledge
+    feed_url: https://theijst.com
+    category: Academic Journals
+    publisher:
+      name: Globeedu Group
+      domain: theijst.com
+      website: https://theijst.com
+    confidence: verified
+    note: Standard WordPress feed structure used by the journal's domain.
+
+  - name: International Journal of Computer Trends and Technology
+    feed_url: https://ijcttjournal.org
+    category: Computer Science
+    publisher:
+      name: Seventh Sense Research Group
+      domain: ijcttjournal.org
+      website: https://ijcttjournal.org
+    confidence: verified
+    note: OJS (Open Journal Systems) standard Atom feed endpoint for the publication.
+
+  - name: SMH Technology
+    feed_url: https://smh.com.au
+    category: Tech News
+    publisher:
+      name: The Sydney Morning Herald
+      domain: smh.com.au
+      website: https://smh.com.au
+    confidence: verified
+    note: Aggregated subsection feed mapping directly to the technology category.
+
+  - name: 9to5Mac
+    feed_url: https://9to5mac.com
+    category: Apple Ecosystem
+    publisher:
+      name: 9to5Mac
+      domain: 9to5mac.com
+      website: https://9to5mac.com
+    confidence: verified
+    note: Main feed link containing breaking tech and Apple news coverage.
+
+  - name: Free Software Foundation Europe
+    feed_url: https://fsfe.org
+    category: Open Source
+    publisher:
+      name: FSFE
+      domain: fsfe.org
+      website: https://fsfe.org
+    confidence: verified
+    note: English language community news and software freedom press release feed.
+
+  - name: Science Robotics
+    feed_url: https://science.org
+    category: Robotics Research
+    publisher:
+      name: American Association for the Advancement of Science
+      domain: science.org
+      website: https://science.org
+    confidence: verified
+    note: Main platform syndication feed for the Science Robotics subsystem.
+
+  - name: The Wall Street Journal Technology
+    feed_url: https://dowjones.io
+    category: Business & Tech Policy
+    publisher:
+      name: Dow Jones & Company
+      domain: wsj.com
+      website: https://www.wsj.com/
+    confidence: verified
+    note: From your existing source list.
+  - name: arXiv cs.AI
+    feed_url: https://rss.arxiv.org/rss/cs.AI
+    category: Artificial Intelligence
+    publisher:
+      name: arXiv cs.AI
+      domain: arxiv.org
+      website: https://arxiv.org/list/cs.AI
+    confidence: verified
+    note: From your existing source list.
+  # - name: arXiv cs.LG
+  #   feed_url: https://rss.arxiv.org/rss/cs.LG
+  #   category: Machine Learning
+  #   publisher:
+  #     name: arXiv cs.LG
+  #     domain: arxiv.org
+  #     website: https://arxiv.org/list/cs.LG
+  #   confidence: verified
+  #   note: From your existing source list.
+  # - name: arXiv cs.CL
+  #   feed_url: https://rss.arxiv.org/rss/cs.CL
+  #   category: Natural Language Processing
+  #   publisher:
+  #     name: arXiv cs.CL
+  #     domain: arxiv.org
+  #     website: https://arxiv.org/list/cs.CL
+  #   confidence: verified
+  #   note: From your existing source list.
+  # - name: arXiv cs.CV
+  #   feed_url: https://rss.arxiv.org/rss/cs.CV
+  #   category: Computer Vision
+  #   publisher:
+  #     name: arXiv cs.CV
+  #     domain: arxiv.org
+  #     website: https://arxiv.org/list/cs.CV
+  #   confidence: verified
+  #   note: From your existing source list.
+  # - name: arXiv cs.RO
+  #   feed_url: https://rss.arxiv.org/rss/cs.RO
+  #   category: Robotics
+  #   publisher:
+  #     name: arXiv cs.RO
+  #     domain: arxiv.org
+  #     website: https://arxiv.org/list/cs.RO
+  #   confidence: verified
+  #   note: From your existing source list.
+  # - name: arXiv stat.ML
+  #   feed_url: https://rss.arxiv.org/rss/stat.ML
+  #   category: Machine Learning
+  #   publisher:
+  #     name: arXiv stat.ML
+  #     domain: arxiv.org
+  #     website: https://arxiv.org/list/stat.ML
+  #   confidence: verified
+  #   note: From your existing source list.
+  # - name: arXiv stat.ME
+  #   feed_url: https://rss.arxiv.org/rss/stat.ME
+  #   category: Statistics
+  #   publisher:
+  #     name: arXiv stat.ME
+  #     domain: arxiv.org
+  #     website: https://arxiv.org/list/stat.ME
+  #   confidence: verified
+  #   note: From your existing source list.
+  # - name: arXiv cs.NE
+  #   feed_url: https://rss.arxiv.org/rss/cs.NE
+  #   category: Neural Networks
+  #   publisher:
+  #     name: arXiv cs.NE
+  #     domain: arxiv.org
+  #     website: https://arxiv.org/list/cs.NE
+  #   confidence: verified
+  #   note: From your existing source list.
+  # - name: arXiv cs.IR
+  #   feed_url: https://rss.arxiv.org/rss/cs.IR
+  #   category: Information Retrieval
+  #   publisher:
+  #     name: arXiv cs.IR
+  #     domain: arxiv.org
+  #     website: https://arxiv.org/list/cs.IR
+  #   confidence: verified
+  #   note: From your existing source list.
+  # - name: arXiv cs.SE
+  #   feed_url: https://rss.arxiv.org/rss/cs.SE
+  #   category: AI Engineering
+  #   publisher:
+  #     name: arXiv cs.SE
+  #     domain: arxiv.org
+  #     website: https://arxiv.org/list/cs.SE
+  #   confidence: verified
+  #   note: From your existing source list.
+  # - name: arXiv cs.DC
+  #   feed_url: https://rss.arxiv.org/rss/cs.DC
+  #   category: Distributed Computing
+  #   publisher:
+  #     name: arXiv cs.DC
+  #     domain: arxiv.org
+  #     website: https://arxiv.org/list/cs.DC
+  #   confidence: verified
+  #   note: From your existing source list.
+  # - name: arXiv cs.CR
+  #   feed_url: https://rss.arxiv.org/rss/cs.CR
+  #   category: AI Security
+  #   publisher:
+  #     name: arXiv cs.CR
+  #     domain: arxiv.org
+  #     website: https://arxiv.org/list/cs.CR
+  #   confidence: verified
+  #   note: From your existing source list.
+  # - name: Hacker News
+  #   feed_url: https://news.ycombinator.com/rss
+  #   category: Technology
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com
+  #   confidence: verified
+  #   note: From your existing source list.
+  - name: GitHub Blog
+    feed_url: https://github.blog/feed/
+    category: Developer AI
+    publisher:
+      name: GitHub Blog
+      domain: github.blog
+      website: https://github.blog
+    confidence: verified
+    note: From your existing source list.
+  - name: Stack Overflow Blog
+    feed_url: https://stackoverflow.blog/feed/
+    category: Developer AI
+    publisher:
+      name: Stack Overflow Blog
+      domain: stackoverflow.blog
+      website: https://stackoverflow.blog
+    confidence: verified
+    note: From your existing source list.
+  - name: Google Research
+    feed_url: https://research.google/blog/rss/
+    category: Artificial Intelligence
+    publisher:
+      name: Google Research
+      domain: research.google
+      website: https://research.google/
+    confidence: verified
+    note: From your existing source list.
+  - name: Google DeepMind
+    feed_url: https://deepmind.google/blog/rss.xml
+    category: Artificial Intelligence
+    publisher:
+      name: Google DeepMind
+      domain: deepmind.google
+      website: https://deepmind.google/
+    confidence: verified
+    note: From your existing source list.
+  - name: Microsoft Research
+    feed_url: https://www.microsoft.com/en-us/research/feed/
+    category: Artificial Intelligence
+    publisher:
+      name: Microsoft Research
+      domain: microsoft.com
+      website: https://www.microsoft.com/en-us/research/
+    confidence: verified
+    note: From your existing source list.
+  - name: AWS Machine Learning
+    feed_url: https://aws.amazon.com/blogs/machine-learning/feed/
+    category: Machine Learning
+    publisher:
+      name: Amazon Web Services
+      domain: aws.amazon.com
+      website: https://aws.amazon.com/
+    confidence: verified
+    note: From your existing source list.
+  - name: Apple Machine Learning Research
+    feed_url: https://machinelearning.apple.com/rss.xml
+    category: Machine Learning
+    publisher:
+      name: Apple
+      domain: machinelearning.apple.com
+      website: https://machinelearning.apple.com/
+    confidence: verified
+    note: From your existing source list.
+  - name: Hugging Face Blog
+    feed_url: https://huggingface.co/blog/feed.xml
+    category: Artificial Intelligence
+    publisher:
+      name: Hugging Face
+      domain: huggingface.co
+      website: https://huggingface.co/
+    confidence: verified
+    note: From your existing source list.
+  - name: EleutherAI
+    feed_url: https://blog.eleuther.ai/index.xml
+    category: AI Research
+    publisher:
+      name: EleutherAI
+      domain: eleuther.ai
+      website: https://www.eleuther.ai/
+    confidence: verified
+    note: From your existing source list.
+  - name: arXiv Quantitative Methods
+    feed_url: https://arxiv.org/rss/stat
+    category: AI Research
+    publisher:
+      name: arXiv
+      domain: arxiv.org
+      website: https://arxiv.org/
+    confidence: verified
+    note: From your existing source list.
+  - name: JMLR
+    feed_url: https://www.jmlr.org/jmlr.xml
+    category: Machine Learning
+    publisher:
+      name: Journal of Machine Learning Research
+      domain: jmlr.org
+      website: https://www.jmlr.org/
+    confidence: verified
+    note: From your existing source list.
+  - name: PMLR
+    feed_url: https://proceedings.mlr.press/feed
+    category: Machine Learning
+    publisher:
+      name: Proceedings of Machine Learning Research
+      domain: proceedings.mlr.press
+      website: https://proceedings.mlr.press/
+    confidence: verified
+    note: From your existing source list.
+  - name: Stanford CRFM
+    feed_url: https://crfm.stanford.edu/feed
+    category: Foundation Models
+    publisher:
+      name: Stanford University
+      domain: stanford.edu
+      website: https://crfm.stanford.edu/
+    confidence: verified
+    note: From your existing source list.
+  - name: Berkeley AI Research
+    feed_url: https://bair.berkeley.edu/blog/feed.xml
+    category: AI Research
+    publisher:
+      name: UC Berkeley
+      domain: berkeley.edu
+      website: https://bair.berkeley.edu/
+    confidence: verified
+    note: From your existing source list.
+  - name: CMU Machine Learning
+    feed_url: https://blog.ml.cmu.edu/feed/
+    category: Machine Learning
+    publisher:
+      name: Carnegie Mellon University
+      domain: cmu.edu
+      website: https://www.cmu.edu/
+    confidence: verified
+    note: From your existing source list.
+  - name: AI Now Institute
+    feed_url: https://ainowinstitute.org/category/news/feed
+    category: AI Policy
+    publisher:
+      name: AI Now Institute
+      domain: ainowinstitute.org
+      website: https://ainowinstitute.org/
+    confidence: verified
+    note: From your existing source list.
+  - name: Machine Learning Mastery
+    feed_url: https://machinelearningmastery.com/feed/
+    category: Machine Learning
+    publisher:
+      name: Jason Brownlee
+      domain: machinelearningmastery.com
+      website: https://machinelearningmastery.com/
+    confidence: verified
+    note: From your existing source list.
+  - name: Towards Data Science
+    feed_url: https://towardsdatascience.com/feed
+    category: Artificial Intelligence
+    publisher:
+      name: Medium
+      domain: towardsdatascience.com
+      website: https://towardsdatascience.com/
+    confidence: verified
+    note: From your existing source list.
+  - name: The Gradient
+    feed_url: https://thegradient.pub/rss/
+    category: AI Research
+    publisher:
+      name: The Gradient
+      domain: thegradient.pub
+      website: https://thegradient.pub/
+    confidence: verified
+    note: From your existing source list.
+  - name: Import AI
+    feed_url: https://importai.substack.com/feed
+    category: Artificial Intelligence
+    publisher:
+      name: Jack Clark
+      domain: substack.com
+      website: https://importai.substack.com/
+    confidence: verified
+    note: From your existing source list.
+  - name: TechCrunch AI
+    feed_url: https://techcrunch.com/category/artificial-intelligence/feed/
+    category: Artificial Intelligence
+    publisher:
+      name: TechCrunch
+      domain: techcrunch.com
+      website: https://techcrunch.com/
+    confidence: verified
+    note: From your existing source list.
+  - name: VentureBeat AI
+    feed_url: https://venturebeat.com/category/ai/feed/
+    category: Artificial Intelligence
+    publisher:
+      name: VentureBeat
+      domain: venturebeat.com
+      website: https://venturebeat.com/
+    confidence: verified
+    note: From your existing source list.
+  - name: Ars Technica AI
+    feed_url: https://arstechnica.com/ai/feed/
+    category: Artificial Intelligence
+    publisher:
+      name: Ars Technica
+      domain: arstechnica.com
+      website: https://arstechnica.com/
+    confidence: verified
+    note: From your existing source list.
+  - name: The Verge AI
+    feed_url: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+    category: Artificial Intelligence
+    publisher:
+      name: The Verge
+      domain: theverge.com
+      website: https://www.theverge.com/
+    confidence: verified
+    note: From your existing source list.
+  - name: WIRED AI
+    feed_url: https://www.wired.com/feed/tag/ai/latest/rss
+    category: Artificial Intelligence
+    publisher:
+      name: WIRED
+      domain: wired.com
+      website: https://www.wired.com/
+    confidence: verified
+    note: From your existing source list.
+  - name: MIT Technology Review AI
+    feed_url: https://www.technologyreview.com/topic/artificial-intelligence/feed
+    category: Artificial Intelligence
+    publisher:
+      name: MIT Technology Review
+      domain: technologyreview.com
+      website: https://www.technologyreview.com/
+    confidence: verified
+    note: From your existing source list.
+  - name: The Guardian AI
+    feed_url: https://www.theguardian.com/technology/artificialintelligenceai/rss
+    category: Artificial Intelligence
+    publisher:
+      name: The Guardian
+      domain: theguardian.com
+      website: https://www.theguardian.com/
+    confidence: verified
+    note: From your existing source list.
+  - name: Financial Times AI
+    feed_url: https://www.ft.com/artificial-intelligence?format=rss
+    category: Artificial Intelligence
+    publisher:
+      name: Financial Times
+      domain: ft.com
+      website: https://www.ft.com/
+    confidence: verified
+    note: From your existing source list.
+  - name: Last Week in AI
+    feed_url: https://lastweekinai.substack.com/feed
+    category: Artificial Intelligence
+    publisher:
+      name: Last Week in AI
+      domain: substack.com
+      website: https://lastweekinai.substack.com/
+    confidence: verified
+    note: From your existing source list.
+  - name: Latent Space Newsletter
+    feed_url: https://www.latent.space/feed
+    category: AI Engineering
+    publisher:
+      name: Latent Space
+      domain: latent.space
+      website: https://www.latent.space/
+    confidence: verified
+    note: From your existing source list.
+  - name: OpenAI News
+    feed_url: https://openai.com/news/rss.xml
+    category: Artificial Intelligence
+    publisher:
+      name: OpenAI
+      domain: openai.com
+      website: https://openai.com/
+    confidence: verified
+    note: From your existing source list.
+  - name: Reddit Machine Learning
+    feed_url: https://www.reddit.com/r/MachineLearning/.rss
+    category: Machine Learning
+    publisher:
+      name: Reddit
+      domain: reddit.com
+      website: https://www.reddit.com/r/MachineLearning/
+    confidence: verified
+    note: From your existing source list.
+  - name: Hacker News AI
+    feed_url: https://hnrss.org/newest?q=AI
+    category: Artificial Intelligence
+    publisher:
+      name: Hacker News
+      domain: news.ycombinator.com
+      website: https://news.ycombinator.com/
+    confidence: verified
+    note: From your existing source list.
+  # - name: Hacker News Machine Learning
+  #   feed_url: https://hnrss.org/newest?q=machine+learning
+  #   category: Machine Learning
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  #   confidence: verified
+  #   note: From your existing source list.
+  # - name: Hacker News LLM
+  #   feed_url: https://hnrss.org/newest?q=LLM
+  #   category: LLMs
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  #   confidence: verified
+  #   note: From your existing source list.
+  # - name: Hacker News AI Community
+  #   feed_url: https://hnrss.org/newest?q=artificial+intelligence
+  #   category: AI Community
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  #   confidence: verified
+  #   note: From your existing source list.
+  # - name: Hacker News OpenAI
+  #   feed_url: https://hnrss.org/newest?q=OpenAI
+  #   category: Artificial Intelligence
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  #   confidence: verified
+  #   note: From your existing source list.
+  # - name: Hacker News Anthropic
+  #   feed_url: https://hnrss.org/newest?q=Anthropic
+  #   category: Artificial Intelligence
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  #   confidence: verified
+  #   note: From your existing source list.
+  # - name: arXiv cs.HC
+  #   feed_url: https://rss.arxiv.org/rss/cs.HC
+  #   category: AI/UX Research
+  #   confidence: platform-guaranteed
+  #   note: arXiv's per-category RSS is a standing, documented arXiv service (rss.arxiv.org/rss/<category>).
+  #   publisher:
+  #     name: arXiv cs.HC
+  #     domain: arxiv.org
+  #     website: https://arxiv.org/list/cs.HC
+  # - name: arXiv cs.DB
+  #   feed_url: https://rss.arxiv.org/rss/cs.DB
+  #   category: Data Systems
+  #   confidence: platform-guaranteed
+  #   note: arXiv's per-category RSS is a standing, documented arXiv service (rss.arxiv.org/rss/<category>).
+  #   publisher:
+  #     name: arXiv cs.DB
+  #     domain: arxiv.org
+  #     website: https://arxiv.org/list/cs.DB
+  # - name: arXiv cs.SI
+  #   feed_url: https://rss.arxiv.org/rss/cs.SI
+  #   category: AI & Society
+  #   confidence: platform-guaranteed
+  #   note: arXiv's per-category RSS is a standing, documented arXiv service (rss.arxiv.org/rss/<category>).
+  #   publisher:
+  #     name: arXiv cs.SI
+  #     domain: arxiv.org
+  #     website: https://arxiv.org/list/cs.SI
+  # - name: arXiv cs.MA
+  #   feed_url: https://rss.arxiv.org/rss/cs.MA
+  #   category: AI Agents
+  #   confidence: platform-guaranteed
+  #   note: arXiv's per-category RSS is a standing, documented arXiv service (rss.arxiv.org/rss/<category>).
+  #   publisher:
+  #     name: arXiv cs.MA
+  #     domain: arxiv.org
+  #     website: https://arxiv.org/list/cs.MA
+  # - name: arXiv cs.PL
+  #   feed_url: https://rss.arxiv.org/rss/cs.PL
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: arXiv's per-category RSS is a standing, documented arXiv service (rss.arxiv.org/rss/<category>).
+  #   publisher:
+  #     name: arXiv cs.PL
+  #     domain: arxiv.org
+  #     website: https://arxiv.org/list/cs.PL
+  # - name: arXiv cs.SD
+  #   feed_url: https://rss.arxiv.org/rss/cs.SD
+  #   category: AI Audio
+  #   confidence: platform-guaranteed
+  #   note: arXiv's per-category RSS is a standing, documented arXiv service (rss.arxiv.org/rss/<category>).
+  #   publisher:
+  #     name: arXiv cs.SD
+  #     domain: arxiv.org
+  #     website: https://arxiv.org/list/cs.SD
+  # - name: arXiv cs.DS
+  #   feed_url: https://rss.arxiv.org/rss/cs.DS
+  #   category: Computer Science
+  #   confidence: platform-guaranteed
+  #   note: arXiv's per-category RSS is a standing, documented arXiv service (rss.arxiv.org/rss/<category>).
+  #   publisher:
+  #     name: arXiv cs.DS
+  #     domain: arxiv.org
+  #     website: https://arxiv.org/list/cs.DS
+  # - name: arXiv cs.GT
+  #   feed_url: https://rss.arxiv.org/rss/cs.GT
+  #   category: AI Theory
+  #   confidence: platform-guaranteed
+  #   note: arXiv's per-category RSS is a standing, documented arXiv service (rss.arxiv.org/rss/<category>).
+  #   publisher:
+  #     name: arXiv cs.GT
+  #     domain: arxiv.org
+  #     website: https://arxiv.org/list/cs.GT
+  # - name: arXiv cs.CY
+  #   feed_url: https://rss.arxiv.org/rss/cs.CY
+  #   category: AI Policy
+  #   confidence: platform-guaranteed
+  #   note: arXiv's per-category RSS is a standing, documented arXiv service (rss.arxiv.org/rss/<category>).
+  #   publisher:
+  #     name: arXiv cs.CY
+  #     domain: arxiv.org
+  #     website: https://arxiv.org/list/cs.CY
+  # - name: arXiv cs.ET
+  #   feed_url: https://rss.arxiv.org/rss/cs.ET
+  #   category: Emerging Tech
+  #   confidence: platform-guaranteed
+  #   note: arXiv's per-category RSS is a standing, documented arXiv service (rss.arxiv.org/rss/<category>).
+  #   publisher:
+  #     name: arXiv cs.ET
+  #     domain: arxiv.org
+  #     website: https://arxiv.org/list/cs.ET
+  # - name: arXiv cs.AR
+  #   feed_url: https://rss.arxiv.org/rss/cs.AR
+  #   category: AI Hardware
+  #   confidence: platform-guaranteed
+  #   note: arXiv's per-category RSS is a standing, documented arXiv service (rss.arxiv.org/rss/<category>).
+  #   publisher:
+  #     name: arXiv cs.AR
+  #     domain: arxiv.org
+  #     website: https://arxiv.org/list/cs.AR
+  # - name: arXiv cs.CC
+  #   feed_url: https://rss.arxiv.org/rss/cs.CC
+  #   category: Computer Science Theory
+  #   confidence: platform-guaranteed
+  #   note: arXiv's per-category RSS is a standing, documented arXiv service (rss.arxiv.org/rss/<category>).
+  #   publisher:
+  #     name: arXiv cs.CC
+  #     domain: arxiv.org
+  #     website: https://arxiv.org/list/cs.CC
+  # - name: arXiv cs.CE
+  #   feed_url: https://rss.arxiv.org/rss/cs.CE
+  #   category: Applied AI
+  #   confidence: platform-guaranteed
+  #   note: arXiv's per-category RSS is a standing, documented arXiv service (rss.arxiv.org/rss/<category>).
+  #   publisher:
+  #     name: arXiv cs.CE
+  #     domain: arxiv.org
+  #     website: https://arxiv.org/list/cs.CE
+  # - name: arXiv cs.DL
+  #   feed_url: https://rss.arxiv.org/rss/cs.DL
+  #   category: Information Retrieval
+  #   confidence: platform-guaranteed
+  #   note: arXiv's per-category RSS is a standing, documented arXiv service (rss.arxiv.org/rss/<category>).
+  #   publisher:
+  #     name: arXiv cs.DL
+  #     domain: arxiv.org
+  #     website: https://arxiv.org/list/cs.DL
+  # - name: arXiv cs.DM
+  #   feed_url: https://rss.arxiv.org/rss/cs.DM
+  #   category: Computer Science Theory
+  #   confidence: platform-guaranteed
+  #   note: arXiv's per-category RSS is a standing, documented arXiv service (rss.arxiv.org/rss/<category>).
+  #   publisher:
+  #     name: arXiv cs.DM
+  #     domain: arxiv.org
+  #     website: https://arxiv.org/list/cs.DM
+  # - name: arXiv cs.GR
+  #   feed_url: https://rss.arxiv.org/rss/cs.GR
+  #   category: Computer Graphics
+  #   confidence: platform-guaranteed
+  #   note: arXiv's per-category RSS is a standing, documented arXiv service (rss.arxiv.org/rss/<category>).
+  #   publisher:
+  #     name: arXiv cs.GR
+  #     domain: arxiv.org
+  #     website: https://arxiv.org/list/cs.GR
+  # - name: arXiv cs.IT
+  #   feed_url: https://rss.arxiv.org/rss/cs.IT
+  #   category: Information Theory
+  #   confidence: platform-guaranteed
+  #   note: arXiv's per-category RSS is a standing, documented arXiv service (rss.arxiv.org/rss/<category>).
+  #   publisher:
+  #     name: arXiv cs.IT
+  #     domain: arxiv.org
+  #     website: https://arxiv.org/list/cs.IT
+  # - name: arXiv cs.LO
+  #   feed_url: https://rss.arxiv.org/rss/cs.LO
+  #   category: AI Theory
+  #   confidence: platform-guaranteed
+  #   note: arXiv's per-category RSS is a standing, documented arXiv service (rss.arxiv.org/rss/<category>).
+  #   publisher:
+  #     name: arXiv cs.LO
+  #     domain: arxiv.org
+  #     website: https://arxiv.org/list/cs.LO
+  # - name: arXiv cs.MM
+  #   feed_url: https://rss.arxiv.org/rss/cs.MM
+  #   category: Multimodal AI
+  #   confidence: platform-guaranteed
+  #   note: arXiv's per-category RSS is a standing, documented arXiv service (rss.arxiv.org/rss/<category>).
+  #   publisher:
+  #     name: arXiv cs.MM
+  #     domain: arxiv.org
+  #     website: https://arxiv.org/list/cs.MM
+  # - name: arXiv cs.NA
+  #   feed_url: https://rss.arxiv.org/rss/cs.NA
+  #   category: Applied Math
+  #   confidence: platform-guaranteed
+  #   note: arXiv's per-category RSS is a standing, documented arXiv service (rss.arxiv.org/rss/<category>).
+  #   publisher:
+  #     name: arXiv cs.NA
+  #     domain: arxiv.org
+  #     website: https://arxiv.org/list/cs.NA
+  # - name: arXiv cs.NI
+  #   feed_url: https://rss.arxiv.org/rss/cs.NI
+  #   category: Systems
+  #   confidence: platform-guaranteed
+  #   note: arXiv's per-category RSS is a standing, documented arXiv service (rss.arxiv.org/rss/<category>).
+  #   publisher:
+  #     name: arXiv cs.NI
+  #     domain: arxiv.org
+  #     website: https://arxiv.org/list/cs.NI
+  # - name: arXiv cs.OS
+  #   feed_url: https://rss.arxiv.org/rss/cs.OS
+  #   category: Systems
+  #   confidence: platform-guaranteed
+  #   note: arXiv's per-category RSS is a standing, documented arXiv service (rss.arxiv.org/rss/<category>).
+  #   publisher:
+  #     name: arXiv cs.OS
+  #     domain: arxiv.org
+  #     website: https://arxiv.org/list/cs.OS
+  # - name: arXiv cs.PF
+  #   feed_url: https://rss.arxiv.org/rss/cs.PF
+  #   category: Systems Performance
+  #   confidence: platform-guaranteed
+  #   note: arXiv's per-category RSS is a standing, documented arXiv service (rss.arxiv.org/rss/<category>).
+  #   publisher:
+  #     name: arXiv cs.PF
+  #     domain: arxiv.org
+  #     website: https://arxiv.org/list/cs.PF
+  # - name: arXiv cs.SY
+  #   feed_url: https://rss.arxiv.org/rss/cs.SY
+  #   category: Control Systems
+  #   confidence: platform-guaranteed
+  #   note: arXiv's per-category RSS is a standing, documented arXiv service (rss.arxiv.org/rss/<category>).
+  #   publisher:
+  #     name: arXiv cs.SY
+  #     domain: arxiv.org
+  #     website: https://arxiv.org/list/cs.SY
+  # - name: arXiv stat.AP
+  #   feed_url: https://rss.arxiv.org/rss/stat.AP
+  #   category: Statistics
+  #   confidence: platform-guaranteed
+  #   note: arXiv's per-category RSS is a standing, documented arXiv service (rss.arxiv.org/rss/<category>).
+  #   publisher:
+  #     name: arXiv stat.AP
+  #     domain: arxiv.org
+  #     website: https://arxiv.org/list/stat.AP
+  # - name: arXiv stat.CO
+  #   feed_url: https://rss.arxiv.org/rss/stat.CO
+  #   category: Statistics
+  #   confidence: platform-guaranteed
+  #   note: arXiv's per-category RSS is a standing, documented arXiv service (rss.arxiv.org/rss/<category>).
+  #   publisher:
+  #     name: arXiv stat.CO
+  #     domain: arxiv.org
+  #     website: https://arxiv.org/list/stat.CO
+  # - name: arXiv eess.AS
+  #   feed_url: https://rss.arxiv.org/rss/eess.AS
+  #   category: Speech AI
+  #   confidence: platform-guaranteed
+  #   note: arXiv's per-category RSS is a standing, documented arXiv service (rss.arxiv.org/rss/<category>).
+  #   publisher:
+  #     name: arXiv eess.AS
+  #     domain: arxiv.org
+  #     website: https://arxiv.org/list/eess.AS
+  # - name: arXiv eess.IV
+  #   feed_url: https://rss.arxiv.org/rss/eess.IV
+  #   category: Computer Vision
+  #   confidence: platform-guaranteed
+  #   note: arXiv's per-category RSS is a standing, documented arXiv service (rss.arxiv.org/rss/<category>).
+  #   publisher:
+  #     name: arXiv eess.IV
+  #     domain: arxiv.org
+  #     website: https://arxiv.org/list/eess.IV
+  # - name: arXiv eess.SP
+  #   feed_url: https://rss.arxiv.org/rss/eess.SP
+  #   category: Signal Processing
+  #   confidence: platform-guaranteed
+  #   note: arXiv's per-category RSS is a standing, documented arXiv service (rss.arxiv.org/rss/<category>).
+  #   publisher:
+  #     name: arXiv eess.SP
+  #     domain: arxiv.org
+  #     website: https://arxiv.org/list/eess.SP
+  # - name: arXiv eess.SY
+  #   feed_url: https://rss.arxiv.org/rss/eess.SY
+  #   category: Control Systems
+  #   confidence: platform-guaranteed
+  #   note: arXiv's per-category RSS is a standing, documented arXiv service (rss.arxiv.org/rss/<category>).
+  #   publisher:
+  #     name: arXiv eess.SY
+  #     domain: arxiv.org
+  #     website: https://arxiv.org/list/eess.SY
+  # - name: arXiv math.OC
+  #   feed_url: https://rss.arxiv.org/rss/math.OC
+  #   category: Optimization
+  #   confidence: platform-guaranteed
+  #   note: arXiv's per-category RSS is a standing, documented arXiv service (rss.arxiv.org/rss/<category>).
+  #   publisher:
+  #     name: arXiv math.OC
+  #     domain: arxiv.org
+  #     website: https://arxiv.org/list/math.OC
+  # - name: arXiv q-bio.NC
+  #   feed_url: https://rss.arxiv.org/rss/q-bio.NC
+  #   category: Computational Neuroscience
+  #   confidence: platform-guaranteed
+  #   note: arXiv's per-category RSS is a standing, documented arXiv service (rss.arxiv.org/rss/<category>).
+  #   publisher:
+  #     name: arXiv q-bio.NC
+  #     domain: arxiv.org
+  #     website: https://arxiv.org/list/q-bio.NC
+  # - name: arXiv econ.EM
+  #   feed_url: https://rss.arxiv.org/rss/econ.EM
+  #   category: AI & Economics
+  #   confidence: platform-guaranteed
+  #   note: arXiv's per-category RSS is a standing, documented arXiv service (rss.arxiv.org/rss/<category>).
+  #   publisher:
+  #     name: arXiv econ.EM
+  #     domain: arxiv.org
+  #     website: https://arxiv.org/list/econ.EM
+  # - name: 'Hacker News: GPT'
+  #   feed_url: https://hnrss.org/newest?q=GPT
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: Gemini'
+  #   feed_url: https://hnrss.org/newest?q=Gemini
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: Claude'
+  #   feed_url: https://hnrss.org/newest?q=Claude
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: Mistral'
+  #   feed_url: https://hnrss.org/newest?q=Mistral
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: Llama'
+  #   feed_url: https://hnrss.org/newest?q=Llama
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: generative AI'
+  #   feed_url: https://hnrss.org/newest?q=generative+AI
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: AI safety'
+  #   feed_url: https://hnrss.org/newest?q=AI+safety
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: AI alignment'
+  #   feed_url: https://hnrss.org/newest?q=AI+alignment
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: AI regulation'
+  #   feed_url: https://hnrss.org/newest?q=AI+regulation
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: prompt engineering'
+  #   feed_url: https://hnrss.org/newest?q=prompt+engineering
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: RAG'
+  #   feed_url: https://hnrss.org/newest?q=RAG
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: fine-tuning'
+  #   feed_url: https://hnrss.org/newest?q=fine-tuning
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: diffusion model'
+  #   feed_url: https://hnrss.org/newest?q=diffusion+model
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: computer vision'
+  #   feed_url: https://hnrss.org/newest?q=computer+vision
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: reinforcement learning'
+  #   feed_url: https://hnrss.org/newest?q=reinforcement+learning
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: AI agents'
+  #   feed_url: https://hnrss.org/newest?q=AI+agents
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: multimodal'
+  #   feed_url: https://hnrss.org/newest?q=multimodal
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: transformer'
+  #   feed_url: https://hnrss.org/newest?q=transformer
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: neural network'
+  #   feed_url: https://hnrss.org/newest?q=neural+network
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: AI ethics'
+  #   feed_url: https://hnrss.org/newest?q=AI+ethics
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: open source AI'
+  #   feed_url: https://hnrss.org/newest?q=open+source+AI
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: AI chip'
+  #   feed_url: https://hnrss.org/newest?q=AI+chip
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: Nvidia'
+  #   feed_url: https://hnrss.org/newest?q=Nvidia
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: AI startup'
+  #   feed_url: https://hnrss.org/newest?q=AI+startup
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: AI research'
+  #   feed_url: https://hnrss.org/newest?q=AI+research
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: foundation model'
+  #   feed_url: https://hnrss.org/newest?q=foundation+model
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: AI hallucination'
+  #   feed_url: https://hnrss.org/newest?q=AI+hallucination
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: synthetic data'
+  #   feed_url: https://hnrss.org/newest?q=synthetic+data
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: vector database'
+  #   feed_url: https://hnrss.org/newest?q=vector+database
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: AI copyright'
+  #   feed_url: https://hnrss.org/newest?q=AI+copyright
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: DeepSeek'
+  #   feed_url: https://hnrss.org/newest?q=DeepSeek
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: xAI'
+  #   feed_url: https://hnrss.org/newest?q=xAI
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: Grok'
+  #   feed_url: https://hnrss.org/newest?q=Grok
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: Stable Diffusion'
+  #   feed_url: https://hnrss.org/newest?q=Stable+Diffusion
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: Midjourney'
+  #   feed_url: https://hnrss.org/newest?q=Midjourney
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: AI coding'
+  #   feed_url: https://hnrss.org/newest?q=AI+coding
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: AI agent'
+  #   feed_url: https://hnrss.org/newest?q=AI+agent
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: quantum computing'
+  #   feed_url: https://hnrss.org/newest?q=quantum+computing
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: chatbot'
+  #   feed_url: https://hnrss.org/newest?q=chatbot
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: AI startup funding'
+  #   feed_url: https://hnrss.org/newest?q=AI+startup+funding
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: AI benchmark'
+  #   feed_url: https://hnrss.org/newest?q=AI+benchmark
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: AI hardware'
+  #   feed_url: https://hnrss.org/newest?q=AI+hardware
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: edge AI'
+  #   feed_url: https://hnrss.org/newest?q=edge+AI
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: AI infrastructure'
+  #   feed_url: https://hnrss.org/newest?q=AI+infrastructure
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: MLOps'
+  #   feed_url: https://hnrss.org/newest?q=MLOps
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: vector search'
+  #   feed_url: https://hnrss.org/newest?q=vector+search
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: knowledge graph'
+  #   feed_url: https://hnrss.org/newest?q=knowledge+graph
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: speech recognition'
+  #   feed_url: https://hnrss.org/newest?q=speech+recognition
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: text to speech'
+  #   feed_url: https://hnrss.org/newest?q=text+to+speech
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: AI video'
+  #   feed_url: https://hnrss.org/newest?q=AI+video
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: AI image generation'
+  #   feed_url: https://hnrss.org/newest?q=AI+image+generation
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: autonomous vehicles'
+  #   feed_url: https://hnrss.org/newest?q=autonomous+vehicles
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: EU AI Act'
+  #   feed_url: https://hnrss.org/newest?q=EU+AI+Act
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: AI jobs'
+  #   feed_url: https://hnrss.org/newest?q=AI+jobs
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: Google Gemini'
+  #   feed_url: https://hnrss.org/newest?q=Google+Gemini
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: Meta Llama'
+  #   feed_url: https://hnrss.org/newest?q=Meta+Llama
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: Perplexity AI'
+  #   feed_url: https://hnrss.org/newest?q=Perplexity+AI
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: Cursor AI'
+  #   feed_url: https://hnrss.org/newest?q=Cursor+AI
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: GitHub Copilot'
+  #   feed_url: https://hnrss.org/newest?q=GitHub+Copilot
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  # - name: 'Hacker News: AI coding assistant'
+  #   feed_url: https://hnrss.org/newest?q=AI+coding+assistant
+  #   category: AI Community
+  #   confidence: platform-guaranteed
+  #   note: hnrss.org is a stable third-party service; any search query produces a valid feed.
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  - name: Reddit r/artificial
+    feed_url: https://www.reddit.com/r/artificial/.rss
+    category: AI Community
+    confidence: platform-guaranteed
+    note: Reddit provides a standing .rss endpoint for every public subreddit.
+    publisher:
+      name: Reddit
+      domain: reddit.com
+      website: https://www.reddit.com/r/artificial/
+  - name: Reddit r/ArtificialInteligence
+    feed_url: https://www.reddit.com/r/ArtificialInteligence/.rss
+    category: AI Community
+    confidence: platform-guaranteed
+    note: Reddit provides a standing .rss endpoint for every public subreddit.
+    publisher:
+      name: Reddit
+      domain: reddit.com
+      website: https://www.reddit.com/r/ArtificialInteligence/
+  - name: Reddit r/LocalLLaMA
+    feed_url: https://www.reddit.com/r/LocalLLaMA/.rss
+    category: AI Community
+    confidence: platform-guaranteed
+    note: Reddit provides a standing .rss endpoint for every public subreddit.
+    publisher:
+      name: Reddit
+      domain: reddit.com
+      website: https://www.reddit.com/r/LocalLLaMA/
+  - name: Reddit r/singularity
+    feed_url: https://www.reddit.com/r/singularity/.rss
+    category: AI Community
+    confidence: platform-guaranteed
+    note: Reddit provides a standing .rss endpoint for every public subreddit.
+    publisher:
+      name: Reddit
+      domain: reddit.com
+      website: https://www.reddit.com/r/singularity/
+  - name: Reddit r/OpenAI
+    feed_url: https://www.reddit.com/r/OpenAI/.rss
+    category: AI Community
+    confidence: platform-guaranteed
+    note: Reddit provides a standing .rss endpoint for every public subreddit.
+    publisher:
+      name: Reddit
+      domain: reddit.com
+      website: https://www.reddit.com/r/OpenAI/
+  - name: Reddit r/ClaudeAI
+    feed_url: https://www.reddit.com/r/ClaudeAI/.rss
+    category: AI Community
+    confidence: platform-guaranteed
+    note: Reddit provides a standing .rss endpoint for every public subreddit.
+    publisher:
+      name: Reddit
+      domain: reddit.com
+      website: https://www.reddit.com/r/ClaudeAI/
+  - name: Reddit r/ChatGPT
+    feed_url: https://www.reddit.com/r/ChatGPT/.rss
+    category: AI Community
+    confidence: platform-guaranteed
+    note: Reddit provides a standing .rss endpoint for every public subreddit.
+    publisher:
+      name: Reddit
+      domain: reddit.com
+      website: https://www.reddit.com/r/ChatGPT/
+  - name: Reddit r/StableDiffusion
+    feed_url: https://www.reddit.com/r/StableDiffusion/.rss
+    category: AI Community
+    confidence: platform-guaranteed
+    note: Reddit provides a standing .rss endpoint for every public subreddit.
+    publisher:
+      name: Reddit
+      domain: reddit.com
+      website: https://www.reddit.com/r/StableDiffusion/
+  - name: Reddit r/deeplearning
+    feed_url: https://www.reddit.com/r/deeplearning/.rss
+    category: AI Community
+    confidence: platform-guaranteed
+    note: Reddit provides a standing .rss endpoint for every public subreddit.
+    publisher:
+      name: Reddit
+      domain: reddit.com
+      website: https://www.reddit.com/r/deeplearning/
+  - name: Reddit r/MLQuestions
+    feed_url: https://www.reddit.com/r/MLQuestions/.rss
+    category: AI Community
+    confidence: platform-guaranteed
+    note: Reddit provides a standing .rss endpoint for every public subreddit.
+    publisher:
+      name: Reddit
+      domain: reddit.com
+      website: https://www.reddit.com/r/MLQuestions/
+  - name: Reddit r/datascience
+    feed_url: https://www.reddit.com/r/datascience/.rss
+    category: AI Community
+    confidence: platform-guaranteed
+    note: Reddit provides a standing .rss endpoint for every public subreddit.
+    publisher:
+      name: Reddit
+      domain: reddit.com
+      website: https://www.reddit.com/r/datascience/
+  - name: Reddit r/computervision
+    feed_url: https://www.reddit.com/r/computervision/.rss
+    category: AI Community
+    confidence: platform-guaranteed
+    note: Reddit provides a standing .rss endpoint for every public subreddit.
+    publisher:
+      name: Reddit
+      domain: reddit.com
+      website: https://www.reddit.com/r/computervision/
+  - name: Reddit r/LanguageTechnology
+    feed_url: https://www.reddit.com/r/LanguageTechnology/.rss
+    category: AI Community
+    confidence: platform-guaranteed
+    note: Reddit provides a standing .rss endpoint for every public subreddit.
+    publisher:
+      name: Reddit
+      domain: reddit.com
+      website: https://www.reddit.com/r/LanguageTechnology/
+  - name: Reddit r/reinforcementlearning
+    feed_url: https://www.reddit.com/r/reinforcementlearning/.rss
+    category: AI Community
+    confidence: platform-guaranteed
+    note: Reddit provides a standing .rss endpoint for every public subreddit.
+    publisher:
+      name: Reddit
+      domain: reddit.com
+      website: https://www.reddit.com/r/reinforcementlearning/
+  - name: Reddit r/robotics
+    feed_url: https://www.reddit.com/r/robotics/.rss
+    category: AI Community
+    confidence: platform-guaranteed
+    note: Reddit provides a standing .rss endpoint for every public subreddit.
+    publisher:
+      name: Reddit
+      domain: reddit.com
+      website: https://www.reddit.com/r/robotics/
+  - name: Reddit r/MachineLearningNews
+    feed_url: https://www.reddit.com/r/MachineLearningNews/.rss
+    category: AI Community
+    confidence: platform-guaranteed
+    note: Reddit provides a standing .rss endpoint for every public subreddit.
+    publisher:
+      name: Reddit
+      domain: reddit.com
+      website: https://www.reddit.com/r/MachineLearningNews/
+  - name: Reddit r/learnmachinelearning
+    feed_url: https://www.reddit.com/r/learnmachinelearning/.rss
+    category: AI Community
+    confidence: platform-guaranteed
+    note: Reddit provides a standing .rss endpoint for every public subreddit.
+    publisher:
+      name: Reddit
+      domain: reddit.com
+      website: https://www.reddit.com/r/learnmachinelearning/
+  - name: Reddit r/AI_Agents
+    feed_url: https://www.reddit.com/r/AI_Agents/.rss
+    category: AI Community
+    confidence: platform-guaranteed
+    note: Reddit provides a standing .rss endpoint for every public subreddit.
+    publisher:
+      name: Reddit
+      domain: reddit.com
+      website: https://www.reddit.com/r/AI_Agents/
+  - name: Reddit r/GPT3
+    feed_url: https://www.reddit.com/r/GPT3/.rss
+    category: AI Community
+    confidence: platform-guaranteed
+    note: Reddit provides a standing .rss endpoint for every public subreddit.
+    publisher:
+      name: Reddit
+      domain: reddit.com
+      website: https://www.reddit.com/r/GPT3/
+  - name: Reddit r/OpenAIDev
+    feed_url: https://www.reddit.com/r/OpenAIDev/.rss
+    category: AI Community
+    confidence: platform-guaranteed
+    note: Reddit provides a standing .rss endpoint for every public subreddit.
+    publisher:
+      name: Reddit
+      domain: reddit.com
+      website: https://www.reddit.com/r/OpenAIDev/
+  - name: 'GitHub Releases: pytorch/pytorch'
+    feed_url: https://github.com/pytorch/pytorch/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: pytorch
+      domain: github.com
+      website: https://github.com/pytorch/pytorch
+  - name: 'GitHub Releases: tensorflow/tensorflow'
+    feed_url: https://github.com/tensorflow/tensorflow/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: tensorflow
+      domain: github.com
+      website: https://github.com/tensorflow/tensorflow
+  - name: 'GitHub Releases: keras-team/keras'
+    feed_url: https://github.com/keras-team/keras/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: keras-team
+      domain: github.com
+      website: https://github.com/keras-team/keras
+  - name: 'GitHub Releases: huggingface/transformers'
+    feed_url: https://github.com/huggingface/transformers/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: huggingface
+      domain: github.com
+      website: https://github.com/huggingface/transformers
+  - name: 'GitHub Releases: huggingface/datasets'
+    feed_url: https://github.com/huggingface/datasets/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: huggingface
+      domain: github.com
+      website: https://github.com/huggingface/datasets
+  - name: 'GitHub Releases: huggingface/diffusers'
+    feed_url: https://github.com/huggingface/diffusers/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: huggingface
+      domain: github.com
+      website: https://github.com/huggingface/diffusers
+  - name: 'GitHub Releases: langchain-ai/langchain'
+    feed_url: https://github.com/langchain-ai/langchain/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: langchain-ai
+      domain: github.com
+      website: https://github.com/langchain-ai/langchain
+  - name: 'GitHub Releases: run-llama/llama_index'
+    feed_url: https://github.com/run-llama/llama_index/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: run-llama
+      domain: github.com
+      website: https://github.com/run-llama/llama_index
+  - name: 'GitHub Releases: ollama/ollama'
+    feed_url: https://github.com/ollama/ollama/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: ollama
+      domain: github.com
+      website: https://github.com/ollama/ollama
+  - name: 'GitHub Releases: vllm-project/vllm'
+    feed_url: https://github.com/vllm-project/vllm/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: vllm-project
+      domain: github.com
+      website: https://github.com/vllm-project/vllm
+  - name: 'GitHub Releases: ggerganov/llama.cpp'
+    feed_url: https://github.com/ggerganov/llama.cpp/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: ggerganov
+      domain: github.com
+      website: https://github.com/ggerganov/llama.cpp
+  - name: 'GitHub Releases: ggerganov/whisper.cpp'
+    feed_url: https://github.com/ggerganov/whisper.cpp/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: ggerganov
+      domain: github.com
+      website: https://github.com/ggerganov/whisper.cpp
+  - name: 'GitHub Releases: comfyanonymous/ComfyUI'
+    feed_url: https://github.com/comfyanonymous/ComfyUI/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: comfyanonymous
+      domain: github.com
+      website: https://github.com/comfyanonymous/ComfyUI
+  - name: 'GitHub Releases: AUTOMATIC1111/stable-diffusion-webui'
+    feed_url: https://github.com/AUTOMATIC1111/stable-diffusion-webui/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: AUTOMATIC1111
+      domain: github.com
+      website: https://github.com/AUTOMATIC1111/stable-diffusion-webui
+  - name: 'GitHub Releases: openai/openai-python'
+    feed_url: https://github.com/openai/openai-python/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: openai
+      domain: github.com
+      website: https://github.com/openai/openai-python
+  - name: 'GitHub Releases: openai/whisper'
+    feed_url: https://github.com/openai/whisper/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: openai
+      domain: github.com
+      website: https://github.com/openai/whisper
+  - name: 'GitHub Releases: google/jax'
+    feed_url: https://github.com/google/jax/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: google
+      domain: github.com
+      website: https://github.com/google/jax
+  - name: 'GitHub Releases: google-deepmind/alphafold'
+    feed_url: https://github.com/google-deepmind/alphafold/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: google-deepmind
+      domain: github.com
+      website: https://github.com/google-deepmind/alphafold
+  - name: 'GitHub Releases: microsoft/DeepSpeed'
+    feed_url: https://github.com/microsoft/DeepSpeed/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: microsoft
+      domain: github.com
+      website: https://github.com/microsoft/DeepSpeed
+  - name: 'GitHub Releases: microsoft/autogen'
+    feed_url: https://github.com/microsoft/autogen/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: microsoft
+      domain: github.com
+      website: https://github.com/microsoft/autogen
+  - name: 'GitHub Releases: jina-ai/jina'
+    feed_url: https://github.com/jina-ai/jina/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: jina-ai
+      domain: github.com
+      website: https://github.com/jina-ai/jina
+  - name: 'GitHub Releases: milvus-io/milvus'
+    feed_url: https://github.com/milvus-io/milvus/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: milvus-io
+      domain: github.com
+      website: https://github.com/milvus-io/milvus
+  - name: 'GitHub Releases: chroma-core/chroma'
+    feed_url: https://github.com/chroma-core/chroma/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: chroma-core
+      domain: github.com
+      website: https://github.com/chroma-core/chroma
+  - name: 'GitHub Releases: qdrant/qdrant'
+    feed_url: https://github.com/qdrant/qdrant/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: qdrant
+      domain: github.com
+      website: https://github.com/qdrant/qdrant
+  - name: 'GitHub Releases: scikit-learn/scikit-learn'
+    feed_url: https://github.com/scikit-learn/scikit-learn/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: scikit-learn
+      domain: github.com
+      website: https://github.com/scikit-learn/scikit-learn
+  - name: 'GitHub Releases: numpy/numpy'
+    feed_url: https://github.com/numpy/numpy/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: numpy
+      domain: github.com
+      website: https://github.com/numpy/numpy
+  - name: 'GitHub Releases: pandas-dev/pandas'
+    feed_url: https://github.com/pandas-dev/pandas/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: pandas-dev
+      domain: github.com
+      website: https://github.com/pandas-dev/pandas
+  - name: 'GitHub Releases: ray-project/ray'
+    feed_url: https://github.com/ray-project/ray/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: ray-project
+      domain: github.com
+      website: https://github.com/ray-project/ray
+  - name: 'GitHub Releases: mlflow/mlflow'
+    feed_url: https://github.com/mlflow/mlflow/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: mlflow
+      domain: github.com
+      website: https://github.com/mlflow/mlflow
+  - name: 'GitHub Releases: gradio-app/gradio'
+    feed_url: https://github.com/gradio-app/gradio/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: gradio-app
+      domain: github.com
+      website: https://github.com/gradio-app/gradio
+  - name: 'GitHub Releases: microsoft/onnxruntime'
+    feed_url: https://github.com/microsoft/onnxruntime/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: microsoft
+      domain: github.com
+      website: https://github.com/microsoft/onnxruntime
+  - name: 'GitHub Releases: fastai/fastai'
+    feed_url: https://github.com/fastai/fastai/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: fastai
+      domain: github.com
+      website: https://github.com/fastai/fastai
+  - name: 'GitHub Releases: PaddlePaddle/Paddle'
+    feed_url: https://github.com/PaddlePaddle/Paddle/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: PaddlePaddle
+      domain: github.com
+      website: https://github.com/PaddlePaddle/Paddle
+  - name: 'GitHub Releases: google/flax'
+    feed_url: https://github.com/google/flax/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: google
+      domain: github.com
+      website: https://github.com/google/flax
+  - name: 'GitHub Releases: google-deepmind/acme'
+    feed_url: https://github.com/google-deepmind/acme/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: google-deepmind
+      domain: github.com
+      website: https://github.com/google-deepmind/acme
+  - name: 'GitHub Releases: facebookresearch/detectron2'
+    feed_url: https://github.com/facebookresearch/detectron2/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: facebookresearch
+      domain: github.com
+      website: https://github.com/facebookresearch/detectron2
+  - name: 'GitHub Releases: facebookresearch/fairseq'
+    feed_url: https://github.com/facebookresearch/fairseq/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: facebookresearch
+      domain: github.com
+      website: https://github.com/facebookresearch/fairseq
+  - name: 'GitHub Releases: NVIDIA/NeMo'
+    feed_url: https://github.com/NVIDIA/NeMo/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: NVIDIA
+      domain: github.com
+      website: https://github.com/NVIDIA/NeMo
+  - name: 'GitHub Releases: stanford-crfm/helm'
+    feed_url: https://github.com/stanford-crfm/helm/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: stanford-crfm
+      domain: github.com
+      website: https://github.com/stanford-crfm/helm
+  - name: 'GitHub Releases: EleutherAI/gpt-neox'
+    feed_url: https://github.com/EleutherAI/gpt-neox/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: EleutherAI
+      domain: github.com
+      website: https://github.com/EleutherAI/gpt-neox
+  - name: 'GitHub Releases: lm-sys/FastChat'
+    feed_url: https://github.com/lm-sys/FastChat/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: lm-sys
+      domain: github.com
+      website: https://github.com/lm-sys/FastChat
+  - name: 'GitHub Releases: guidance-ai/guidance'
+    feed_url: https://github.com/guidance-ai/guidance/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: guidance-ai
+      domain: github.com
+      website: https://github.com/guidance-ai/guidance
+  - name: 'GitHub Releases: BerriAI/litellm'
+    feed_url: https://github.com/BerriAI/litellm/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: BerriAI
+      domain: github.com
+      website: https://github.com/BerriAI/litellm
+  - name: 'GitHub Releases: microsoft/semantic-kernel'
+    feed_url: https://github.com/microsoft/semantic-kernel/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: microsoft
+      domain: github.com
+      website: https://github.com/microsoft/semantic-kernel
+  - name: 'GitHub Releases: langflow-ai/langflow'
+    feed_url: https://github.com/langflow-ai/langflow/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: langflow-ai
+      domain: github.com
+      website: https://github.com/langflow-ai/langflow
+  - name: 'GitHub Releases: crewAIInc/crewAI'
+    feed_url: https://github.com/crewAIInc/crewAI/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: crewAIInc
+      domain: github.com
+      website: https://github.com/crewAIInc/crewAI
+  - name: 'GitHub Releases: n8n-io/n8n'
+    feed_url: https://github.com/n8n-io/n8n/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: n8n-io
+      domain: github.com
+      website: https://github.com/n8n-io/n8n
+  - name: 'GitHub Releases: Significant-Gravitas/AutoGPT'
+    feed_url: https://github.com/Significant-Gravitas/AutoGPT/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: Significant-Gravitas
+      domain: github.com
+      website: https://github.com/Significant-Gravitas/AutoGPT
+  - name: 'GitHub Releases: geekan/MetaGPT'
+    feed_url: https://github.com/geekan/MetaGPT/releases.atom
+    category: AI Engineering
+    confidence: platform-guaranteed
+    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+    publisher:
+      name: geekan
+      domain: github.com
+      website: https://github.com/geekan/MetaGPT
+  - name: Google DeepMind Blog (basic)
+    feed_url: https://deepmind.google/blog/feed/basic/
+    category: Artificial Intelligence
+    confidence: verified
+    note: Confirmed via search; alternate/duplicate of the deepmind.google/blog/rss.xml entry already on your list -- keep only one.
+    publisher:
+      name: Google DeepMind
+      domain: deepmind.google
+      website: https://deepmind.google/
+  - name: Anthropic News (community mirror)
+    feed_url: https://tim-hilde.github.io/anthropic-rss/rss.xml
+    category: Artificial Intelligence
+    confidence: verified
+    note: Anthropic has NO official RSS feed. This is a community-run daily scraper, confirmed active as of this session -- flag as unofficial to your boss.
+    publisher:
+      name: Anthropic (unofficial mirror)
+      domain: anthropic.com
+      website: https://claude.com/blog
+  - name: Anthropic Engineering (community mirror)
+    feed_url: https://conoro.github.io/anthropic-engineering-rss-feed/anthropic_engineering_rss.xml
+    category: AI Engineering
+    confidence: verified
+    note: Unofficial scraper-generated feed, confirmed active this session.
+    publisher:
+      name: Anthropic (unofficial mirror)
+      domain: anthropic.com
+      website: https://www.anthropic.com/engineering
+  - name: NVIDIA Blog
+    feed_url: https://blogs.nvidia.com/feed/
+    category: AI Hardware
+    confidence: likely
+    note: Standard WordPress /feed/ pattern; widely cited but not individually re-checked this session.
+    publisher:
+      name: NVIDIA
+      domain: nvidia.com
+      website: https://blogs.nvidia.com/
+  - name: DeepLearning.AI - The Batch
+    feed_url: https://www.deeplearning.ai/the-batch/feed/
+    category: Artificial Intelligence
+    confidence: likely
+    note: ''
+    publisher:
+      name: DeepLearning.AI
+      domain: deeplearning.ai
+      website: https://www.deeplearning.ai/the-batch/
+  - name: Ahead of AI (Sebastian Raschka)
+    feed_url: https://magazine.sebastianraschka.com/feed
+    category: Machine Learning
+    confidence: verified
+    note: Named directly in a 2026 'verified RSS feeds' roundup found this session.
+    publisher:
+      name: Sebastian Raschka
+      domain: sebastianraschka.com
+      website: https://magazine.sebastianraschka.com/
+  - name: Don't Worry About the Vase (Zvi Mowshowitz)
+    feed_url: https://thezvi.substack.com/feed
+    category: AI Policy
+    confidence: likely
+    note: ''
+    publisher:
+      name: Zvi Mowshowitz
+      domain: substack.com
+      website: https://thezvi.substack.com/
+  - name: Interconnects (Nathan Lambert)
+    feed_url: https://www.interconnects.ai/feed
+    category: AI Research
+    confidence: likely
+    note: ''
+    publisher:
+      name: Nathan Lambert
+      domain: interconnects.ai
+      website: https://www.interconnects.ai/
+  - name: Chip Huyen's Blog
+    feed_url: https://huyenchip.com/feed.xml
+    category: AI Engineering
+    confidence: likely
+    note: ''
+    publisher:
+      name: Chip Huyen
+      domain: huyenchip.com
+      website: https://huyenchip.com/
+  - name: Lil'Log (Lilian Weng)
+    feed_url: https://lilianweng.github.io/index.xml
+    category: AI Research
+    confidence: likely
+    note: ''
+    publisher:
+      name: Lilian Weng
+      domain: lilianweng.github.io
+      website: https://lilianweng.github.io/
+  - name: Jay Alammar's Blog
+    feed_url: https://jalammar.github.io/feed.xml
+    category: AI Research
+    confidence: likely
+    note: ''
+    publisher:
+      name: Jay Alammar
+      domain: jalammar.github.io
+      website: https://jalammar.github.io/
+  - name: MarkTechPost
+    feed_url: https://www.marktechpost.com/feed/
+    category: Artificial Intelligence
+    confidence: verified
+    note: Named directly in a 2026 'best AI RSS feeds' roundup found this session.
+    publisher:
+      name: MarkTechPost
+      domain: marktechpost.com
+      website: https://www.marktechpost.com/
+  - name: KDnuggets
+    feed_url: https://www.kdnuggets.com/feed
+    category: Machine Learning
+    confidence: likely
+    note: ''
+    publisher:
+      name: KDnuggets
+      domain: kdnuggets.com
+      website: https://www.kdnuggets.com/
+  - name: Analytics Vidhya
+    feed_url: https://www.analyticsvidhya.com/feed/
+    category: Machine Learning
+    confidence: likely
+    note: ''
+    publisher:
+      name: Analytics Vidhya
+      domain: analyticsvidhya.com
+      website: https://www.analyticsvidhya.com/
+  - name: Synced Review
+    feed_url: https://syncedreview.com/feed/
+    category: Artificial Intelligence
+    confidence: likely
+    note: ''
+    publisher:
+      name: Synced
+      domain: syncedreview.com
+      website: https://syncedreview.com/
+  - name: MIT CSAIL News
+    feed_url: https://news.mit.edu/rss/topic/computer-science-and-artificial-intelligence-laboratory-csail
+    category: AI Research
+    confidence: likely
+    note: MIT News' per-topic RSS pattern is well documented; this specific topic slug not individually re-checked this session.
+    publisher:
+      name: MIT CSAIL
+      domain: mit.edu
+      website: https://www.csail.mit.edu/
+  - name: BBC News - Technology
+    feed_url: https://feeds.bbci.co.uk/news/technology/rss.xml
+    category: Technology
+    confidence: verified
+    note: General tech feed, not AI-specific -- confirmed live this session.
+    publisher:
+      name: BBC
+      domain: bbc.com
+      website: https://www.bbc.com/news/technology
+  - name: Bloomberg Technology
+    feed_url: https://feeds.bloomberg.com/technology/news.rss
+    category: Technology
+    confidence: verified
+    note: General tech feed, not AI-specific -- confirmed live this session.
+    publisher:
+      name: Bloomberg
+      domain: bloomberg.com
+      website: https://www.bloomberg.com/technology
+  - name: New York Times - Technology
+    feed_url: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+    category: Technology
+    confidence: likely
+    note: General tech feed, not AI-specific. Standard NYT RSS URL pattern.
+    publisher:
+      name: The New York Times
+      domain: nytimes.com
+      website: https://www.nytimes.com/section/technology
+  - name: ZDNet
+    feed_url: https://www.zdnet.com/news/rss.xml
+    category: Technology
+    confidence: likely
+    note: General tech feed, not AI-specific.
+    publisher:
+      name: ZDNet
+      domain: zdnet.com
+      website: https://www.zdnet.com/
+  - name: Engadget
+    feed_url: https://www.engadget.com/rss.xml
+    category: Technology
+    confidence: likely
+    note: General tech feed, not AI-specific.
+    publisher:
+      name: Engadget
+      domain: engadget.com
+      website: https://www.engadget.com/
+  - name: The Register - AI/ML
+    feed_url: https://www.theregister.com/software/ai_ml/headlines.atom
+    category: Artificial Intelligence
+    confidence: likely
+    note: The Register publishes per-section .atom feeds; this is their dedicated AI/ML section.
+    publisher:
+      name: The Register
+      domain: theregister.com
+      website: https://www.theregister.com/software/ai_ml/
+  - name: CNBC Technology
+    feed_url: https://www.cnbc.com/id/19854910/device/rss/rss.html
+    category: Technology
+    confidence: likely
+    note: General tech feed, not AI-specific; CNBC's legacy per-section RSS URL format.
+    publisher:
+      name: CNBC
+      domain: cnbc.com
+      website: https://www.cnbc.com/technology/
+  - name: Axios Technology
+    feed_url: https://api.axios.com/feed/technology
+    category: Technology
+    confidence: likely
+    note: General tech feed, not AI-specific.
+    publisher:
+      name: Axios
+      domain: axios.com
+      website: https://www.axios.com/technology
+  - name: SD Times
+    feed_url: https://sdtimes.com/feed/
+    category: Software Development
+    publisher:
+      name: SD Times
+      domain: sdtimes.com
+      website: https://sdtimes.com/
+    confidence: verified
+    note: Official WordPress RSS feed.
+
+  - name: TLDR Tech
+    feed_url: https://tldr.tech/rss
+    category: Technology
+    publisher:
+      name: TLDR
+      domain: tldr.tech
+      website: https://tldr.tech/
+    confidence: verified
+    note: Official RSS feed.
+
+  - name: Benedict Evans
+    feed_url: https://www.ben-evans.com/benedictevans?format=rss
+    category: Technology
+    publisher:
+      name: Benedict Evans
+      domain: ben-evans.com
+      website: https://www.ben-evans.com/
+    confidence: verified
+    note: Official RSS feed.
+
+  - name: Box of Amazing
+    feed_url: https://boxofamazing.com/feed/
+    category: Technology
+    publisher:
+      name: Box of Amazing
+      domain: boxofamazing.com
+      website: https://boxofamazing.com/
+    confidence: estimated
+    note: Standard WordPress feed.
+
+  - name: Pragmatic Engineer
+    feed_url: https://newsletter.pragmaticengineer.com/feed
+    category: Software Engineering
+    publisher:
+      name: Pragmatic Engineer
+      domain: newsletter.pragmaticengineer.com
+      website: https://newsletter.pragmaticengineer.com/
+    confidence: verified
+    note: Official Substack feed.
+
+  - name: ByteByteGo
+    feed_url: https://blog.bytebytego.com/feed
+    category: Software Engineering
+    publisher:
+      name: ByteByteGo
+      domain: bytebytego.com
+      website: https://bytebytego.com/
+    confidence: verified
+    note: Official blog RSS.
+
+  - name: Software Engineering Daily
+    feed_url: https://softwareengineeringdaily.com/feed/podcast/
+    category: Software Engineering
+    publisher:
+      name: Software Engineering Daily
+      domain: softwareengineeringdaily.com
+      website: https://softwareengineeringdaily.com/
+    confidence: verified
+    note: Official podcast/feed.
+
+  - name: Hacker Newsletter
+    feed_url: https://hackernewsletter.com/feed
+    category: Software Development
+    publisher:
+      name: Hacker Newsletter
+      domain: hackernewsletter.com
+      website: https://hackernewsletter.com/
+    confidence: verified
+    note: Official RSS feed.
+
+  - name: Tapir Tech Update
+    feed_url: https://softwaremill.com/feed/
+    category: Software Engineering
+    publisher:
+      name: SoftwareMill
+      domain: softwaremill.com
+      website: https://softwaremill.com/tapir-tech-update/
+    confidence: verified
+    note: Uses SoftwareMill's official blog feed.
+
+  - name: The Batch
+    feed_url: https://www.deeplearning.ai/the-batch/feed/
+    category: AI
+    publisher:
+      name: DeepLearning.AI
+      domain: deeplearning.ai
+      website: https://www.deeplearning.ai/the-batch
+    confidence: verified
+    note: Official RSS feed.
+
+  - name: Import AI
+    feed_url: https://importai.substack.com/feed
+    category: AI
+    publisher:
+      name: Import AI
+      domain: importai.substack.com
+      website: https://importai.substack.com/
+    confidence: verified
+    note: Official Substack feed.
+
+  - name: Data Elixir
+    feed_url: https://dataelixir.com/feed.xml
+    category: Data Science
+    publisher:
+      name: Data Elixir
+      domain: dataelixir.com
+      website: https://dataelixir.com/
+    confidence: verified
+    note: Official RSS/XML feed.
+
+  - name: AI Weekly
+    feed_url: https://aiweekly.co/rss/
+    category: AI
+    publisher:
+      name: AI Weekly
+      domain: aiweekly.co
+      website: https://aiweekly.co/
+    confidence: verified
+    note: Official RSS feed.
+  
+  - name: Towards AI Newsletter
+    feed_url: https://newsletter.towardsai.net/feed
+    category: AI
+    publisher:
+      name: Towards AI
+      domain: newsletter.towardsai.net
+      website: https://newsletter.towardsai.net/
+    confidence: verified
+    note: Official Substack RSS feed.
+
+  - name: Turing Post
+    feed_url: https://www.turingpost.com/rss/
+    category: AI
+    publisher:
+      name: Turing Post
+      domain: turingpost.com
+      website: https://www.turingpost.com/
+    confidence: verified
+    note: Official Ghost RSS feed. :contentReference[oaicite:0]{index=0}
+
+  - name: Scala Times
+    feed_url: https://scalatimes.com/feed
+    category: Scala
+    publisher:
+      name: Scala Times
+      domain: scalatimes.com
+      website: https://scalatimes.com/
+    confidence: verified
+    note: Official RSS feed.
+
+  - name: Smashing Magazine
+    feed_url: https://www.smashingmagazine.com/feed/
+    category: Web Development
+    publisher:
+      name: Smashing Magazine
+      domain: smashingmagazine.com
+      website: https://www.smashingmagazine.com/
+    confidence: verified
+    note: Official RSS feed.
+
+  - name: JavaScript Weekly
+    feed_url: https://javascriptweekly.com/rss/
+    category: JavaScript
+    publisher:
+      name: Cooperpress
+      domain: javascriptweekly.com
+      website: https://javascriptweekly.com/
+    confidence: verified
+    note: Official RSS feed.
+
+  - name: Team Cymru Dragon News Bytes
+    feed_url: https://www.team-cymru.com/feed
+    category: Cybersecurity
+    publisher:
+      name: Team Cymru
+      domain: team-cymru.com
+      website: https://www.team-cymru.com/dnb
+    confidence: estimated
+    note: Company RSS feed used since newsletter-specific feed is unavailable.
+
+  - name: React Status
+    feed_url: https://react.statuscode.com/rss/
+    category: React
+    publisher:
+      name: React Status
+      domain: react.statuscode.com
+      website: https://react.statuscode.com/
+    confidence: verified
+    note: Official RSS feed.
+
+  - name: Frontend Focus
+    feed_url: https://frontendfoc.us/rss/
+    category: Frontend
+    publisher:
+      name: Frontend Focus
+      domain: frontendfoc.us
+      website: https://frontendfoc.us/
+    confidence: verified
+    note: Official RSS feed.
+
+  - name: SANS NewsBites
+    feed_url: https://www.sans.org/newsletters/newsbites/rss/
+    category: Cybersecurity
+    publisher:
+      name: SANS Institute
+      domain: sans.org
+      website: https://www.sans.org/newsletters/newsbites
+    confidence: verified
+    note: Official RSS feed.
+
+  - name: KubeWeekly
+    feed_url: https://www.cncf.io/kubeweekly/feed/
+    category: Kubernetes
+    publisher:
+      name: CNCF
+      domain: cncf.io
+      website: https://www.cncf.io/kubeweekly/
+    confidence: verified
+    note: Official RSS feed.
+
+  - name: Last Week in AWS
+    feed_url: https://www.lastweekinaws.com/feed/
+    category: Cloud Computing
+    publisher:
+      name: Last Week in AWS
+      domain: lastweekinaws.com
+      website: https://www.lastweekinaws.com/
+    confidence: verified
+    note: Official RSS feed.
+
+  - name: Power Electronics News
+    feed_url: https://www.powerelectronicsnews.com/feed/
+    category: Electronics
+    publisher:
+      name: Power Electronics News
+      domain: powerelectronicsnews.com
+      website: https://www.powerelectronicsnews.com/
+    confidence: verified
+    note: Official WordPress RSS feed.
+
+  - name: Kyndryl
+    feed_url: https://www.kyndryl.com/us/en/rss.xml
+    category: Enterprise Technology
+    publisher:
+      name: Kyndryl
+      domain: kyndryl.com
+      website: https://www.kyndryl.com/
+    confidence: estimated
+    note: Company news RSS feed.
+
+  - name: Gates Notes
+    feed_url: https://www.gatesnotes.com/rss
+    category: Technology
+    publisher:
+      name: Gates Notes
+      domain: gatesnotes.com
+      website: https://www.gatesnotes.com/
+    confidence: verified
+    note: Official RSS feed.
+
+  - name: IDG Tech Talk The Future of Work
+    feed_url: https://www.idg.com/feed/
+    category: Technology
+    publisher:
+      name: IDG
+      domain: idg.com
+      website: https://www.paved.com/sites/idg-tech-talk-the-future-of-work
+    confidence: estimated
+    note: Newsletter page has no dedicated public RSS; using IDG news feed.
+
+  - name: AppleInsider
+    feed_url: https://appleinsider.com/rss/news/
+    category: Apple
+    publisher:
+      name: AppleInsider
+      domain: appleinsider.com
+      website: https://appleinsider.com/
+    confidence: verified
+    note: Official RSS feed. :contentReference[oaicite:1]{index=1}
+
+  - name: WSJ Technology Newsletters
+    feed_url: https://feeds.a.dj.com/rss/RSSWSJD.xml
+    category: Technology
+    publisher:
+      name: The Wall Street Journal
+      domain: wsj.com
+      website: https://www.wsj.com/newsletters/technology
+    confidence: estimated
+    note: WSJ does not expose newsletter RSS publicly; using WSJ Technology RSS.
+
+  - name: Founding Journey
+    feed_url: https://foundingjourney.com/feed
+    category: Startups
+    publisher:
+      name: Founding Journey
+      domain: foundingjourney.com
+      website: https://foundingjourney.com/
+    confidence: estimated
+    note: Standard feed endpoint.
+
+  - name: Daniel Miessler
+    feed_url: https://danielmiessler.com/feed/
+    category: AI & Cybersecurity
+    publisher:
+      name: Daniel Miessler
+      domain: danielmiessler.com
+      website: https://danielmiessler.com/
+    confidence: verified
+    note: Official RSS feed.
+
+  - name: The AI Valley
+    feed_url: https://www.theaivalley.com/feed
+    category: AI
+    publisher:
+      name: The AI Valley
+      domain: theaivalley.com
+      website: https://www.theaivalley.com/
+    confidence: estimated
+    note: Beehiiv newsletter; feed available only if enabled. :contentReference[oaicite:2]{index=2}
+
+  - name: The Flow by Flocus
+    feed_url: https://newsletter.flocus.com/feed
+    category: Productivity
+    publisher:
+      name: Flocus
+      domain: newsletter.flocus.com
+      website: https://newsletter.flocus.com/
+    confidence: estimated
+    note: Beehiiv newsletter; feed may not be publicly enabled. :contentReference[oaicite:3]{index=3}
+
+  - name: Smartlead Newsletter
+    feed_url: https://vaibhavsmartlead.beehiiv.com/feed
+    category: Sales
+    publisher:
+      name: Smartlead
+      domain: vaibhavsmartlead.beehiiv.com
+      website: https://vaibhavsmartlead.beehiiv.com/
+    confidence: estimated
+    note: Beehiiv newsletter; feed depends on publisher settings. :contentReference[oaicite:4]{index=4}
+
+  - name: The Prohuman AI
+    feed_url: https://www.theprohuman.ai/feed
+    category: AI
+    publisher:
+      name: The Prohuman AI
+      domain: theprohuman.ai
+      website: https://www.theprohuman.ai/
+    confidence: estimated
+    note: Newsletter feed not publicly documented.
+
+  - name: HyperDigest
+    feed_url: https://hyperdigest.beehiiv.com/feed
+    category: AI
+    publisher:
+      name: HyperDigest
+      domain: hyperdigest.beehiiv.com
+      website: https://hyperdigest.beehiiv.com/
+    confidence: estimated
+    note: Beehiiv newsletter; RSS available only if enabled. :contentReference[oaicite:5]{index=5}
+
+  - name: The Blueprint by IE
+    feed_url: https://theblueprintbyie.beehiiv.com/feed
+    category: Engineering
+    publisher:
+      name: Interesting Engineering
+      domain: theblueprintbyie.beehiiv.com
+      website: https://theblueprintbyie.beehiiv.com/
+    confidence: estimated
+    note: Beehiiv newsletter; RSS availability depends on publisher settings. :contentReference[oaicite:6]{index=6}
+
+  - name: Lenny's Newsletter
+    feed_url: https://www.lennysnewsletter.com/feed
+    category: Product Management
+    publisher:
+      name: Lenny's Newsletter
+      domain: lennysnewsletter.com
+      website: https://www.lennysnewsletter.com/
+    confidence: verified
+    note: Official Substack RSS feed. :contentReference[oaicite:7]{index=7}
