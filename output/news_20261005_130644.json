@@ -1,0 +1,1696 @@
+{
+  "news": [
+    {
+      "slug": "the-humanoid-robot-future-has-arrived-at-a-south-korean-park-sort-of",
+      "title": "The Humanoid Robot Future Has Arrived at a South Korean Park. Sort of.",
+      "dek": "I went to Galaxy Robot Park in Seoul to see how we might one day live with robots. It was part cutting-edge technology, part theatrics.",
+      "aiSummary": "I visited Galaxy Robot Park in Seoul, where displays combine advanced robotics with entertainment. The park demonstrates how humanoid robots could be integrated into daily life, blending technology and showmanship.",
+      "articleUrl": "https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html",
+      "category": "Robotics",
+      "filterTags": [
+        "Galaxy Robot Park",
+        "humanoid robots"
+      ],
+      "publishedAt": "2026-10-05T12:57:32+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Robotics"
+        },
+        {
+          "name": "Entertainment"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "what-still-gets-paid-if-ai-changes-the-interface",
+      "title": "What Still Gets Paid If AI Changes the Interface?",
+      "dek": "Which roles or services will remain financially viable even if artificial intelligence transforms how users interact with technology?",
+      "aiSummary": "The provided text does not contain an article body, only a title. Therefore, no factual summary can be generated based on the content.",
+      "articleUrl": "https://michaelhillaert1.substack.com/p/what-still-gets-paid-if-ai-changes",
+      "category": "AI",
+      "filterTags": [
+        "AI"
+      ],
+      "publishedAt": "2026-10-05T12:56:20+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Economics"
+        }
+      ]
+    },
+    {
+      "slug": "satya-nadella-reinvented-microsoft-once-can-he-do-it-again-in-the-ai-era",
+      "title": "Satya Nadella reinvented Microsoft once. Can he do it again in the AI era?",
+      "dek": "After succeeding Steve Ballmer in 2014, Satya Nadella turned Microsoft into a cloud giant. Now he's tasked with making the company a force in AI.",
+      "aiSummary": "When Satya Nadella took over Microsoft in 2014, he transformed the company into a cloud computing leader. Today, he faces the challenge of positioning Microsoft as a major player in artificial intelligence.",
+      "articleUrl": "https://www.cnbc.com/2026/10/05/satya-nadella-reinvented-microsoft-once-can-he-do-it-in-the-ai-era.html",
+      "category": "Technology",
+      "filterTags": [
+        "Microsoft",
+        "Satya Nadella",
+        "AI",
+        "cloud computing"
+      ],
+      "publishedAt": "2026-10-05T12:51:24+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Cloud Computing"
+        }
+      ]
+    },
+    {
+      "slug": "building-an-enterprise-ai-customer-support-platform-with-claude-fable-5-1-and-claude-code",
+      "title": "Building an Enterprise AI Customer Support Platform with Claude Fable 5.1 and Claude Code",
+      "dek": "Most AI coding demos stop at task managers, weather apps, or simple chatbots. For this project, we take on something more demanding: building an enterprise customer-support platform that can investigate complaints, retrieve relevant policies, recommend resolutions, and keep risky",
+      "aiSummary": "This project develops an enterprise customer-support platform using Claude Fable 5.1 and Claude Code, moving beyond simple demos to handle complex tasks. The system is designed to investigate complaints, retrieve relevant policies, and recommend resolutions while managing risky scenarios.",
+      "articleUrl": "https://www.analyticsvidhya.com/blog/2026/10/build-enterprise-ai-agent-claude-fable-5-1/",
+      "category": "AI",
+      "filterTags": [
+        "Claude Fable 5.1",
+        "Claude Code",
+        "Enterprise AI",
+        "Customer Support"
+      ],
+      "publishedAt": "2026-10-05T12:45:02+00:00",
+      "publisher": {
+        "name": "Analytics Vidhya",
+        "domain": "analyticsvidhya.com",
+        "website": "https://www.analyticsvidhya.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=analyticsvidhya.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=analyticsvidhya.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Enterprise Software"
+        }
+      ]
+    },
+    {
+      "slug": "ai-coding-agents-implemented-six-ways-to-update-a-matter-device-on-real-hardware",
+      "title": "AI coding agents implemented six ways to update a Matter device on real hardware",
+      "dek": "Six different methods were used by AI coding agents to update a Matter device on actual hardware.",
+      "aiSummary": "The article details how AI coding agents successfully implemented six distinct approaches to update a Matter device. These implementations were tested and executed on real physical hardware.",
+      "articleUrl": "https://groundrun.io/blog/ai-agents-matter-ota-updates-esp32-h2/",
+      "category": "AI",
+      "filterTags": [
+        "AI coding agents",
+        "Matter",
+        "hardware"
+      ],
+      "publishedAt": "2026-10-05T12:44:17+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Smart Home"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "one-runaway-ai-agent-racked-up-a-50k-cloud-bill",
+      "title": "One runaway AI agent racked up a $50k cloud bill",
+      "dek": "An AI system that ran out of control triggered a $50,000 cloud expense.",
+      "aiSummary": "A runaway AI agent caused a $50,000 cloud bill. The incident shows how uncontrolled AI can lead to high cloud costs. The article examines the situation.",
+      "articleUrl": "https://www.helpnetsecurity.com/2026/09/16/google-mandiant-enterprise-ai-security-risks-report/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AI",
+        "Cloud"
+      ],
+      "publishedAt": "2026-10-05T12:43:45+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Cloud Computing"
+        }
+      ]
+    },
+    {
+      "slug": "dumb-down-your-mac-save-12gb-by-removing-apple-intelligence",
+      "title": "Dumb down your Mac: Save 12GB by removing Apple Intelligence",
+      "dek": "Mac users who don't want  Apple Intelligence  to take up precious drive space can free up capacity thanks to a new command-line tool. RemoveMacAI helps save disk space by deleting Apple Intelligence models.  Apple Intelligence is generally a good set of features for Apple's ecosy",
+      "aiSummary": "A new command-line tool called RemoveMacAI allows Mac users to delete Apple Intelligence models to save 12GB of disk space. This solution is intended for users who do not wish to use the AI features and want to reclaim drive capacity.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/05/dumb-down-your-mac-save-12gb-by-removing-apple-intelligence?utm_source=rss",
+      "category": "Consumer Tech",
+      "filterTags": [
+        "RemoveMacAI",
+        "Apple Intelligence",
+        "Mac",
+        "command-line"
+      ],
+      "publishedAt": "2026-10-05T12:40:01+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Tech"
+        },
+        {
+          "name": "Operating Systems"
+        }
+      ]
+    },
+    {
+      "slug": "chick-fil-a-s-growth-plans-ai-wearables-gen-z-s-sports-betting-and-more-in-morning-squawk",
+      "title": "Chick-fil-A's growth plans, AI wearables, Gen Z's sports betting and more in Morning Squawk",
+      "dek": "Here are five key things investors need to know to start the trading day.",
+      "aiSummary": "This morning briefing highlights five key developments for investors to consider at the start of the trading day. The topics covered include Chick-fil-A's growth strategies, the rise of AI wearables, and Gen Z's increasing participation in sports betting.",
+      "articleUrl": "https://www.cnbc.com/2026/10/05/5-things-to-know-before-the-stock-market-opens.html",
+      "category": "Business",
+      "filterTags": [
+        "Chick-fil-A",
+        "AI wearables",
+        "Sports betting",
+        "Gen Z"
+      ],
+      "publishedAt": "2026-10-05T12:37:59+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Business"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Consumer Trends"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-openai-google-and-meta-execs-set-to-testify-at-nyc-council-hearing-on-ai-risks",
+      "title": "Anthropic, OpenAI, Google and Meta execs set to testify at NYC Council hearing on AI risks",
+      "dek": "The leading AI labs facing intensifying scrutiny over their safety and security practices.",
+      "aiSummary": "Executives from Anthropic, OpenAI, Google, and Meta are expected to testify at a New York City Council hearing regarding AI risks. These leading AI labs are currently facing increased scrutiny concerning their safety and security protocols.",
+      "articleUrl": "https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "OpenAI",
+        "Google",
+        "Meta",
+        "NYC Council"
+      ],
+      "publishedAt": "2026-10-05T12:19:26+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Regulation"
+        },
+        {
+          "name": "Corporate Governance"
+        }
+      ]
+    },
+    {
+      "slug": "accept-bad-things-in-return-for-benefits-of-ai-says-sam-altman",
+      "title": "Accept ‘bad things’ in return for benefits of AI, says Sam Altman",
+      "dek": "Boss of OpenAI calls for a regulatory light touch because of the ‘good stuff’ the technology can deliver Sam Altman says he believes the world should accept “bad things” happening with AI in exchange for the benefits of the technology. The chief executive of OpenAI cited hacks, s",
+      "aiSummary": "OpenAI CEO Sam Altman advocates for a light-touch regulatory approach to artificial intelligence, arguing that the world should accept certain negative consequences, such as hacks, in exchange for the significant benefits the technology provides.",
+      "articleUrl": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "Sam Altman",
+        "AI",
+        "Regulation"
+      ],
+      "publishedAt": "2026-10-05T12:13:36+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Policy"
+        }
+      ]
+    },
+    {
+      "slug": "iphone-duo-s-small-outer-screen-prompts-minimalist-focus-mode-update",
+      "title": "iPhone Duo's small outer screen prompts minimalist Focus Mode update",
+      "dek": "New code references in iOS 27 beta reveal that Focus Mode is going to look a little different on the  iPhone Duo  lock screen. Left: the new lock screen Focus Model button. Right: the Focus Mode icon moves to above the clock. Images credit: pdfu It's not the Focus Mode update man",
+      "aiSummary": "iOS 27 beta code references show that Focus Mode will appear differently on the iPhone Duo lock screen. The new lock screen includes a Focus Mode button, and the icon will be positioned above the clock. The changes are not part of a major Focus Mode update.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/05/iphone-duos-small-outer-screen-prompts-minimalist-focus-mode-update?utm_source=rss",
+      "category": "Mobile",
+      "filterTags": [
+        "iPhone Duo",
+        "iOS 27",
+        "Focus Mode"
+      ],
+      "publishedAt": "2026-10-05T12:08:05+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Mobile"
+        },
+        {
+          "name": "Operating Systems"
+        },
+        {
+          "name": "User Interface"
+        }
+      ]
+    },
+    {
+      "slug": "b11415",
+      "title": "b11415",
+      "dek": "server: reject partial media truncation ( #24076 ) \n \n \n server: reject partial media truncation \n \n \n server: keep only the keep_first fix \n \n \n Drop the mtmd test helper change, which no longer builds since \nclip_image_f32_batch stores its entries by value, and drop the \nvision",
+      "aiSummary": "The server has been updated to reject partial media truncation, keeping only the keep_first fix. The mtmd test helper change was removed because it no longer builds, as clip_image_f32_batch now stores entries by value. The vision component was also dropped.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11415",
+      "category": "Software Development",
+      "filterTags": [
+        "server",
+        "partial media truncation",
+        "keep_first",
+        "mtmd",
+        "clip_image_f32_batch",
+        "vision"
+      ],
+      "publishedAt": "2026-10-05T12:05:42+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Media Processing"
+        },
+        {
+          "name": "Testing"
+        }
+      ]
+    },
+    {
+      "slug": "how-openai-uses-chatgpt-sites-live-at-devday-kath-korevec-product-lead",
+      "title": "How OpenAI uses ChatGPT Sites (live at DevDay!) | Kath Korevec (Product Lead)",
+      "dek": "Watch now (36 mins) | 🎙️ Kath Korevec demos ChatGPT Sites live at OpenAI DevDay, showing how to turn Slack, Notion, and calendar data into internal tools that adapt to each person on your team",
+      "aiSummary": "Kath Korevec, a Product Lead at OpenAI, presents a live demonstration of ChatGPT Sites during DevDay. The session showcases how the tool converts data from Slack, Notion, and calendars into personalized internal tools for team members.",
+      "articleUrl": "https://www.lennysnewsletter.com/p/how-openai-uses-chatgpt-sites-live",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "ChatGPT Sites",
+        "Slack",
+        "Notion",
+        "DevDay"
+      ],
+      "publishedAt": "2026-10-05T12:04:54+00:00",
+      "publisher": {
+        "name": "Lenny's Newsletter",
+        "domain": "lennysnewsletter.com",
+        "website": "https://www.lennysnewsletter.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=lennysnewsletter.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=lennysnewsletter.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Productivity"
+        },
+        {
+          "name": "Enterprise Software"
+        }
+      ]
+    },
+    {
+      "slug": "how-i-made-a-paid-mac-app-in-11-days-with-caude-without-writing-a-single-line-of-code",
+      "title": "How I made a paid Mac app in 11 days with Caude – without writing a single line of code",
+      "dek": "Claude helped me vibe-code a Mac app and pass Apple’s review in less than two weeks. Come with me on my journey from idea to purchasable App Store product.",
+      "aiSummary": "The author developed a paid Mac application in 11 days by using Claude to generate the code, a process described as vibe-coding. The resulting app successfully passed Apple's review and is now available for purchase on the App Store.",
+      "articleUrl": "https://www.zdnet.com/innovation/claude-code-vibe-coding-mac-app/",
+      "category": "AI",
+      "filterTags": [
+        "Claude",
+        "Mac",
+        "Apple",
+        "App Store",
+        "Vibe-coding"
+      ],
+      "publishedAt": "2026-10-05T12:03:03+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Productivity"
+        }
+      ]
+    },
+    {
+      "slug": "how-and-why-to-build-an-ai-agent-from-scratch-in-python",
+      "title": "How (and Why) to Build an AI Agent from Scratch in Python",
+      "dek": "In this article, you will learn what an AI agent is and how to build one from scratch in plain Python using the Anthropic API,...",
+      "aiSummary": "The article explains what an AI agent is and walks readers through building one from scratch in plain Python. It uses the Anthropic API to demonstrate how the agent can interact with external services. Readers will gain practical knowledge on setting up the agent’s architecture and integrating the API.",
+      "articleUrl": "https://machinelearningmastery.com/how-and-why-to-build-an-ai-agent-from-scratch-in-python/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Python",
+        "Anthropic API"
+      ],
+      "publishedAt": "2026-10-05T12:00:00+00:00",
+      "publisher": {
+        "name": "Jason Brownlee",
+        "domain": "machinelearningmastery.com",
+        "website": "https://machinelearningmastery.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=machinelearningmastery.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=machinelearningmastery.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "can-safeworld-convince-people-that-gen-ai-robots-won-t-hurt-them",
+      "title": "Can Safeworld convince people that gen AI robots won’t hurt them?",
+      "dek": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
+      "aiSummary": "Safeworld is developing digital humans to ensure that robots do not cause harm to real people. The company aims to address safety concerns regarding the interaction between AI robots and humans.",
+      "articleUrl": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
+      "category": "AI",
+      "filterTags": [
+        "Safeworld",
+        "Generative AI",
+        "Digital Humans",
+        "Robotics"
+      ],
+      "publishedAt": "2026-10-05T12:00:00+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Robotics"
+        },
+        {
+          "name": "Safety"
+        }
+      ]
+    },
+    {
+      "slug": "b11414",
+      "title": "b11414",
+      "dek": "vulkan: fix stale prealloc_y reuse across flash attention and soft_max ( #29591 ) \n Assisted-by: Claude \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/52808438 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Appl",
+      "aiSummary": "This update to the llama.cpp project fixes a bug in the Vulkan backend where stale preallocated memory was being reused across flash attention and soft_max operations. The change was assisted by Claude and is part of the development for macOS and iOS Apple Silicon platforms.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11414",
+      "category": "AI",
+      "filterTags": [
+        "llama.cpp",
+        "Vulkan",
+        "Flash Attention",
+        "Soft Max",
+        "Apple Silicon",
+        "Claude"
+      ],
+      "publishedAt": "2026-10-05T11:46:26+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "mac-mini-m5-pro-review-mini-gets-serious-with-one-caveat",
+      "title": "Mac mini M5 Pro review: Mini gets serious, with one caveat",
+      "dek": "In the tale of two 2026 Mac minis, there is a more \"Pro\" oriented one, but as with the Mac Studio, it's a complicated tale to tell. Mac mini M5 Pro review: tiny and mighty The gap between the two Mac minis in 2026 is wider than you'd think at first glance. Like the Pro model befo",
+      "aiSummary": "The 2026 Mac mini lineup features a distinct gap between its standard and Pro models, with the M5 Pro version offering significant power. However, the review notes that the Pro model's positioning is complex, similar to the Mac Studio, and includes a notable caveat despite its capabilities.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/05/mac-mini-m5-pro-review-mini-gets-serious-with-one-caveat?utm_source=rss",
+      "category": "Hardware",
+      "filterTags": [
+        "Mac mini",
+        "M5 Pro",
+        "Apple",
+        "Mac Studio"
+      ],
+      "publishedAt": "2026-10-05T11:43:11+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "b11417-cuda-optimize-accumulation-in-mmq-for-nvfp4-type-29857",
+      "title": "b11417: CUDA: Optimize accumulation in mmq for NVFP4 type (#29857)",
+      "dek": "ggml_cuda: optimize accumulation in mmq_vec_dot_fp4_fp4_mma for better performance \n \n \n remove whitespace \n \n \n fix: correct indentation in mma_block_scaled_fp4 loop",
+      "aiSummary": "The ggml_cuda project updated the mmq_vec_dot_fp4_fp4_mma function to improve performance by optimizing accumulation for NVFP4 types. The patch also removes unnecessary whitespace and corrects indentation in the mma_block_scaled_fp4 loop. These changes aim to streamline CUDA code and enhance efficiency.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11417",
+      "category": "Hardware",
+      "filterTags": [
+        "CUDA",
+        "ggml_cuda",
+        "NVFP4",
+        "mma_block_scaled_fp4"
+      ],
+      "publishedAt": "2026-10-05T11:43:07+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Performance Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "lockheed-s-fabled-skunk-works-integrates-ai-in-push-to-modernize-defense",
+      "title": "Lockheed’s Fabled Skunk Works Integrates AI in Push to Modernize Defense",
+      "dek": "The defense contractor’s development unit is key to the company’s future success",
+      "aiSummary": "Lockheed Martin’s Skunk Works division is incorporating artificial intelligence to modernize its defense systems. The move is part of a broader effort to keep the company competitive and secure its future success. The unit’s work is seen as a key driver for Lockheed’s growth.",
+      "articleUrl": "https://www.bloomberg.com/news/newsletters/2026-10-05/lockheed-s-fabled-skunk-works-integrates-ai-in-push-to-modernize-defense",
+      "category": "Defense",
+      "filterTags": [
+        "Lockheed Martin",
+        "Skunk Works",
+        "AI"
+      ],
+      "publishedAt": "2026-10-05T11:02:01+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Defense"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Technology Innovation"
+        }
+      ]
+    },
+    {
+      "slug": "preview-seed-fixture-rolling",
+      "title": "Preview seed fixture (rolling)",
+      "dek": "Rolling, fully SYNTHETIC preview-database seed fixture baked from dev@e052d4e87eb7 (migration head: 20261002120000_routine_credential_pins). Preview environments restore fixture.dump.gz (custom-format, gzipped, platform schema only, including _prisma_migrations) BEFORE running a ",
+      "aiSummary": "A rolling, fully synthetic preview-database seed fixture is generated from a specific development commit and migration head. Preview environments restore this gzipped custom-format fixture, which includes the platform schema and Prisma migrations, before executing subsequent steps.",
+      "articleUrl": "https://github.com/Significant-Gravitas/AutoGPT/releases/tag/preview-seed-fixture",
+      "category": "DevOps",
+      "filterTags": [
+        "Prisma",
+        "fixture.dump.gz",
+        "synthetic data",
+        "preview environments"
+      ],
+      "publishedAt": "2026-10-05T11:00:33+00:00",
+      "publisher": {
+        "name": "Significant-Gravitas",
+        "domain": "github.com",
+        "website": "https://github.com/Significant-Gravitas/AutoGPT",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Database Management"
+        }
+      ]
+    },
+    {
+      "slug": "how-to-build-a-cheap-yet-reliable-model-router-with-jev",
+      "title": "How to Build a Cheap, Yet Reliable Model Router With Jev",
+      "dek": "Model routing can finally be a design choice rather than a system enhancement \n The post  How to Build a Cheap, Yet Reliable Model Router With Jev  appeared first on  Towards Data Science .",
+      "aiSummary": "The article explains that model routing can be treated as a design choice rather than just a system enhancement. It provides a step‑by‑step guide to building a cheap, reliable model router with the Jev framework. The post was published on Towards Data Science.",
+      "articleUrl": "https://towardsdatascience.com/how-to-build-a-cheap-yet-reliable-model-router-with-jev/",
+      "category": "Machine Learning",
+      "filterTags": [
+        "Jev",
+        "Model Routing"
+      ],
+      "publishedAt": "2026-10-05T11:00:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-94f4b2b30d2b5d41aba39c198880e6a3224abf7a-test-xpu-refactor-test-flop-counter-py-and-enable-on-xpu-197249",
+      "title": "trunk/94f4b2b30d2b5d41aba39c198880e6a3224abf7a: [Test][XPU] Refactor `test_flop_counter.py` and enable on XPU (#197249)",
+      "dek": "Move device-agnostic tests to  TestFlopCounterDevice \n Enable  TestFlopCounterDevice  for XPU \n Move  test_nested_attn_backward_flops_with_unequal_qk_value_dims  to  TestFlopCounter  (uses only the  meta  device) \n Move SDPA flop tests from  TestFlopCounterCUDA  to  TestFlopCount",
+      "aiSummary": "The commit refactors test_flop_counter.py by moving device-agnostic tests to TestFlopCounterDevice and enabling this class for XPU. It also relocates specific nested attention and SDPA flop tests to more appropriate test classes based on their device requirements.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F94f4b2b30d2b5d41aba39c198880e6a3224abf7a",
+      "category": "Machine Learning",
+      "filterTags": [
+        "PyTorch",
+        "XPU",
+        "test_flop_counter.py",
+        "SDPA"
+      ],
+      "publishedAt": "2026-10-05T10:48:14+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Testing"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "ai-billionaires-drive-845-billion-surge-in-wealth-this-year",
+      "title": "AI Billionaires Drive $845 Billion Surge in Wealth This Year",
+      "dek": "AI brings a staggering new peak in wealth – and signs we just passed it.",
+      "aiSummary": "The wealth of AI billionaires has surged by $845 billion this year. This significant increase marks a new peak in their collective net worth, with indicators suggesting that this peak has already been passed.",
+      "articleUrl": "https://www.bloomberg.com/news/newsletters/2026-10-05/ai-billionaires-drive-845-billion-surge-in-wealth-this-year",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Billionaires",
+        "Wealth"
+      ],
+      "publishedAt": "2026-10-05T10:37:50+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Economy"
+        }
+      ]
+    },
+    {
+      "slug": "v1-19-2",
+      "title": "v1.19.2",
+      "dek": "v1.19.2",
+      "aiSummary": "The provided text indicates the release of version 1.19.2. No additional details regarding features, fixes, or context are included in the snippet.",
+      "articleUrl": "https://github.com/qdrant/qdrant/releases/tag/v1.19.2",
+      "category": "Software Release",
+      "filterTags": [
+        "v1.19.2"
+      ],
+      "publishedAt": "2026-10-05T10:29:00+00:00",
+      "publisher": {
+        "name": "qdrant",
+        "domain": "github.com",
+        "website": "https://github.com/qdrant/qdrant",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Release"
+        }
+      ]
+    },
+    {
+      "slug": "a-chinese-billionaire-reckons-with-the-limits-of-building-ai-across-borders",
+      "title": "A Chinese billionaire reckons with the limits of building AI across borders",
+      "dek": "One-time gaming tycoon Chen Tianqiao bet billions on a second act in agentic research but ran headlong into US-China trade tensions",
+      "aiSummary": "Chen Tianqiao, a former gaming magnate, invested billions in agentic AI research but encountered significant obstacles due to US-China trade tensions. The article highlights the challenges he faces in building AI infrastructure across geopolitical boundaries.",
+      "articleUrl": "https://www.ft.com/content/91741bbc-9626-41fc-8320-9ab9adbd8631?syn-25a6b1a6=1",
+      "category": "AI",
+      "filterTags": [
+        "Chen Tianqiao",
+        "Agentic AI",
+        "US-China Trade Tensions"
+      ],
+      "publishedAt": "2026-10-05T10:00:05+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Geopolitics"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "our-minds-aren-t-equipped-to-handle-ai",
+      "title": "Our minds aren’t equipped to handle AI",
+      "dek": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry. Google's Demis Hassabis calls the brain \"a biological appro",
+      "aiSummary": "The piece reflects on how human minds are ill‑equipped to keep up with AI, citing Norbert Wiener's idea that technology mirrors human thought. It notes that for a century, our thinking has been mirrored in computers, especially in the AI field. It also references Demis Hassabis's view of the brain as a biological approach.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AI",
+        "Google",
+        "Demis Hassabis"
+      ],
+      "publishedAt": "2026-10-05T10:00:00+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Human Cognition"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "building-advertising-for-the-way-people-use-ai",
+      "title": "Building advertising for the way people use AI",
+      "dek": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+      "aiSummary": "OpenAI has launched a new visual advertising format within ChatGPT. The company is also enhancing its measurement tools, forming new attribution partnerships, and improving brand suitability options for advertisers.",
+      "articleUrl": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "category": "Advertising",
+      "filterTags": [
+        "OpenAI",
+        "ChatGPT",
+        "advertising",
+        "measurement tools",
+        "attribution",
+        "brand suitability"
+      ],
+      "publishedAt": "2026-10-05T10:00:00+00:00",
+      "publisher": {
+        "name": "OpenAI",
+        "domain": "openai.com",
+        "website": "https://openai.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Advertising"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Marketing Technology"
+        }
+      ]
+    },
+    {
+      "slug": "the-uk-s-g20-presidency-will-push-andy-burnham-to-the-centre-of-the-global-stage-what-will-he-use-it-for-michael-jacobs",
+      "title": "﻿The UK’s G20 presidency will push Andy Burnham to the centre of the global stage. What will he use it for? | Michael Jacobs",
+      "dek": "This is a chance for the PM to advance his progressive agenda and tackle urgent issues such as AI regulation and climate action Among the many crucial decisions Andy Burnham has to make over the next few weeks, one has gone almost completely unremarked: what Britain’s priorities ",
+      "aiSummary": "The UK's G20 presidency is expected to elevate Prime Minister Andy Burnham to a prominent global position. This opportunity allows him to advance his progressive agenda by addressing critical issues such as AI regulation and climate action.",
+      "articleUrl": "https://www.theguardian.com/commentisfree/2026/oct/05/uk-g20-presidency-andy-burnham-global-stage-technology-food-climate-economy",
+      "category": "Politics",
+      "filterTags": [
+        "G20",
+        "Andy Burnham",
+        "AI regulation",
+        "Climate action"
+      ],
+      "publishedAt": "2026-10-05T09:39:04+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "International Relations"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "us-solar-panel-makers-try-to-catch-china-with-a-big-leap-in-technology",
+      "title": "US Solar Panel Makers Try to Catch China With a Big Leap in Technology",
+      "dek": "Manufacturers say they are close to perfecting a new, more efficient solar panel that could help the United States reclaim ground it lost.",
+      "aiSummary": "Solar panel manufacturers claim they are nearing the completion of a more efficient panel. This advancement could enable the U.S. to regain market share lost to China.",
+      "articleUrl": "https://www.nytimes.com/2026/10/05/business/energy-environment/tandem-solar-panels-us-china.html",
+      "category": "Renewable Energy",
+      "filterTags": [
+        "Solar Panels",
+        "China",
+        "United States"
+      ],
+      "publishedAt": "2026-10-05T09:00:25+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Renewable Energy"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "are-babies-conscious",
+      "title": "Are Babies Conscious?",
+      "dek": "By pinpointing when it begins in young humans, scientists hope to better understand what consciousness is, and how it arises, in all of us.",
+      "aiSummary": "Scientists are studying when consciousness begins in infants to better understand its nature and origins in humans. They aim to pinpoint the onset of awareness in young humans.",
+      "articleUrl": "https://www.nytimes.com/2026/10/05/science/consciousness-brain-babies.html",
+      "category": "Neuroscience",
+      "filterTags": [
+        "consciousness",
+        "infant development"
+      ],
+      "publishedAt": "2026-10-05T09:00:10+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Neuroscience"
+        },
+        {
+          "name": "Psychology"
+        },
+        {
+          "name": "Human Development"
+        }
+      ]
+    },
+    {
+      "slug": "why-treasuries-are-risky-again",
+      "title": "Why Treasuries Are ‘Risky’ Again",
+      "dek": "We all know that Treasury yields have been surging, alongside bond yields all around the world. So what explains the selloff and does it mean that bonds are becoming fundamentally riskier? What happens if investors can no longer hedge stocks with government debt? And how do expec",
+      "aiSummary": "Treasury yields have been rising, along with bond yields worldwide, leading to a selloff. This raises questions about whether bonds are now fundamentally riskier and what happens if investors can no longer use government debt to hedge stocks. The article explores these concerns and the expectations surrounding the market.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-05/why-treasuries-are-risky-again-video",
+      "category": "Finance",
+      "filterTags": [
+        "Treasury yields",
+        "bond yields",
+        "government debt"
+      ],
+      "publishedAt": "2026-10-05T08:12:09+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Economics"
+        },
+        {
+          "name": "Investments"
+        }
+      ]
+    },
+    {
+      "slug": "yandex-introduces-sona-a-single-generative-recommender-that-replaces-entire-recommendation-cascade",
+      "title": "Yandex Introduces Sona: A Single Generative Recommender That Replaces Entire Recommendation Cascade",
+      "dek": "One transformer ran candidate generation and ranking in Yandex Music's A/B test without hand-engineered features, lifting likes 11.42%. \n The post  Yandex Introduces Sona: A Single Generative Recommender That Replaces Entire Recommendation Cascade  appeared first on  MarkTechPost",
+      "aiSummary": "Yandex has introduced Sona, a single generative recommender designed to replace traditional multi-stage recommendation cascades. In A/B tests on Yandex Music, the model performed candidate generation and ranking using a single transformer without hand-engineered features, resulting in an 11.42% increase in likes.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/05/yandex-introduces-sona-a-single-generative-recommender-that-replaces-entire-recommendation-cascade/",
+      "category": "AI",
+      "filterTags": [
+        "Yandex",
+        "Sona",
+        "Generative Recommender",
+        "Transformer",
+        "Yandex Music"
+      ],
+      "publishedAt": "2026-10-05T08:10:37+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Recommendation Systems"
+        }
+      ]
+    },
+    {
+      "slug": "people-really-hate-ai-so-why-can-t-they-get-enough",
+      "title": "People really hate AI, so why can’t they get enough?",
+      "dek": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a se",
+      "aiSummary": "The author interviewed the CEO of Springboards, a startup building an LLM that aims to generate a wider variety of responses than mainstream rivals. The CEO made a memorable statement about their approach during the conversation.",
+      "articleUrl": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "category": "AI",
+      "filterTags": [
+        "Springboards",
+        "LLM"
+      ],
+      "publishedAt": "2026-10-05T08:00:00+00:00",
+      "publisher": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "website": "https://www.technologyreview.com/",
+        "logoUrl": "https://www.technologyreview.com/static/media/favicon.1cfcdb44759a0f93ddf5feb5405dd4cc.ico",
+        "faviconUrl": "https://www.technologyreview.com/static/media/favicon.1cfcdb44759a0f93ddf5feb5405dd4cc.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Startups"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "n8n-2-41-7",
+      "title": "n8n@2.41.7",
+      "dek": "2.41.7  (2026-10-05) \n Bug Fixes \n \n API:  Let global members grant variable scopes to API keys ( #40151 ) ( cc25c71 ) \n \n Features \n \n editor:  Show Gateway credits promotions on community nodes ( #40109 ) ( a509d92 )",
+      "aiSummary": "The n8n 2.41.7 release includes a bug fix that allows global members to grant variable scopes to API keys. It also introduces a feature to display Gateway credits promotions on community nodes within the editor.",
+      "articleUrl": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.41.7",
+      "category": "Automation",
+      "filterTags": [
+        "n8n",
+        "API",
+        "Gateway"
+      ],
+      "publishedAt": "2026-10-05T07:30:08+00:00",
+      "publisher": {
+        "name": "n8n-io",
+        "domain": "github.com",
+        "website": "https://github.com/n8n-io/n8n",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Automation"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "n8n-2-42-3",
+      "title": "n8n@2.42.3",
+      "dek": "2.42.3  (2026-10-05) \n Bug Fixes \n \n API:  Let global members grant variable scopes to API keys ( #40150 ) ( d09b8a1 ) \n core:  Keep the task runner running on an unhandled promise rejection ( #40091 ) ( 50f2e96 ) \n \n Features \n \n editor:  Show Gateway credits promotions on commu",
+      "aiSummary": "The 2.42.3 update for n8n includes several bug fixes, such as allowing global members to grant variable scopes to API keys and keeping the task runner alive after an unhandled promise rejection. It also adds a new editor feature that displays Gateway credits promotions on the community page. These changes improve stability and user experience.",
+      "articleUrl": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.42.3",
+      "category": "Open Source",
+      "filterTags": [
+        "n8n",
+        "API",
+        "task runner",
+        "Gateway"
+      ],
+      "publishedAt": "2026-10-05T07:26:35+00:00",
+      "publisher": {
+        "name": "n8n-io",
+        "domain": "github.com",
+        "website": "https://github.com/n8n-io/n8n",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Automation"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "internet-watch-foundation-reports-huge-rise-in-ai-child-sexual-abuse-material",
+      "title": "Internet Watch Foundation reports huge rise in AI child sexual abuse material",
+      "dek": "Abuse material monitor says number of AI images assessed this year is already 40% higher than last year’s total AI-generated child sexual abuse material is proliferating online, with the amount of illegal material investigated this year already exceeding the total for 2025. Analy",
+      "aiSummary": "The Internet Watch Foundation says the number of AI-generated child sexual abuse images examined this year is 40% higher than the total from last year. The amount of illegal material investigated already exceeds the total for 2025.",
+      "articleUrl": "https://www.theguardian.com/technology/2026/oct/05/internet-watch-foundation-huge-rise-ai-child-sexual-abuse-material",
+      "category": "Security",
+      "filterTags": [
+        "Internet Watch Foundation",
+        "AI",
+        "child sexual abuse material"
+      ],
+      "publishedAt": "2026-10-05T05:00:49+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Human Rights"
+        }
+      ]
+    },
+    {
+      "slug": "what-s-really-going-on-with-ai-token-price-deflation",
+      "title": "What’s really going on with AI token price deflation?",
+      "dek": "It’s a bit complicated and maybe not that surprising",
+      "aiSummary": "The article addresses the complexity behind the deflation of AI token prices. It suggests that while the situation is intricate, the price drop is not necessarily unexpected.",
+      "articleUrl": "https://www.ft.com/content/96184ef4-05be-467c-9d9c-745e21dad31a?syn-25a6b1a6=1",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Token Price",
+        "Deflation"
+      ],
+      "publishedAt": "2026-10-05T05:00:03+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Economics"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1791190133-audio-hash-update-update-the-pinned-audio-hash-199669",
+      "title": "viable/strict/1791190133: [audio hash update] update the pinned audio hash (#199669)",
+      "dek": "This PR is auto-generated nightly by  this action . \nUpdate the pinned audio hash. \nPull Request resolved:  #199669 \nApproved by:  https://github.com/pytorchbot",
+      "aiSummary": "This auto-generated pull request updates the pinned audio hash within the PyTorch codebase. The change was resolved as PR #199669 and approved by the pytorchbot.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1791190133",
+      "category": "Open Source",
+      "filterTags": [
+        "PyTorch",
+        "pytorchbot",
+        "audio hash"
+      ],
+      "publishedAt": "2026-10-05T04:54:07+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-97bcb923aa3ccc6cdd766f5ec238da29fcaa18cb-torchtitan-hash-update-update-the-pinned-torchtitan-hash-199719",
+      "title": "trunk/97bcb923aa3ccc6cdd766f5ec238da29fcaa18cb: [torchtitan hash update] update the pinned torchtitan hash (#199719)",
+      "dek": "This PR is auto-generated nightly by  this action . \nUpdate the pinned torchtitan hash. \nPull Request resolved:  #199719 \nApproved by:  https://github.com/pytorchbot",
+      "aiSummary": "A nightly automated pull request updated the pinned torchtitan hash in the trunk. The change was resolved and approved by the PyTorch bot.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F97bcb923aa3ccc6cdd766f5ec238da29fcaa18cb",
+      "category": "Open Source",
+      "filterTags": [
+        "torchtitan",
+        "PyTorch",
+        "GitHub Actions"
+      ],
+      "publishedAt": "2026-10-05T04:53:32+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Automation"
+        }
+      ]
+    },
+    {
+      "slug": "the-story-of-qwen-alibaba-s-ai-models-from-7b-to-2-4t",
+      "title": "The Story of Qwen: Alibaba’s AI Models From 7B to 2.4T",
+      "dek": "Alibaba's Qwen went from an invite-only chatbot in April 2023 to a 2.4-trillion-parameter open-weight model in August 2026. This is the full story, release by release: every major model, its key feature, and how its license changed. Each claim links to its source. \n The post  The",
+      "aiSummary": "Alibaba's Qwen AI model series has evolved significantly from an invite-only chatbot launched in April 2023 to a 2.4-trillion-parameter open-weight model by August 2026. The article details the release history of each major model, highlighting their key features and changes in licensing.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/04/the-story-of-qwen-alibabas-ai-models-from-7b-to-2-4t/",
+      "category": "AI",
+      "filterTags": [
+        "Alibaba",
+        "Qwen",
+        "AI Models",
+        "Open-Weight"
+      ],
+      "publishedAt": "2026-10-05T04:10:34+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "uk-urged-to-embrace-cheaper-ai-models",
+      "title": "UK urged to embrace cheaper AI models",
+      "dek": "Head of Alan Turing Institute calls for wider debate over technology’s rollout as fears over risks grow",
+      "aiSummary": "The head of the Alan Turing Institute urged the UK to embrace cheaper AI models, calling for a broader debate about AI deployment as concerns about risks grow. The call highlights the need for careful consideration of AI’s rollout in the country.",
+      "articleUrl": "https://www.ft.com/content/5008b743-8af5-460f-a950-54aa80989f23?syn-25a6b1a6=1",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Alan Turing Institute",
+        "Machine Learning"
+      ],
+      "publishedAt": "2026-10-05T04:00:22+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Policy"
+        }
+      ]
+    },
+    {
+      "slug": "mintflow-minimal-trajectory-intervention-for-constrained-flow-matching",
+      "title": "MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching",
+      "dek": "arXiv:2610.02260v1 Announce Type: new \nAbstract: Flow matching models excel at generative modeling, and many downstream applications require their samples to satisfy prescribed constraints, such as observed measurements and physical laws. However, existing constrained samplers of",
+      "aiSummary": "MintFlow is a minimal trajectory intervention technique designed for constrained flow matching models. It addresses the need for generative samples to satisfy prescribed constraints, such as observed measurements and physical laws, which existing samplers struggle to handle effectively.",
+      "articleUrl": "https://arxiv.org/abs/2610.02260",
+      "category": "AI",
+      "filterTags": [
+        "MintFlow",
+        "Flow Matching",
+        "Generative Modeling",
+        "arXiv"
+      ],
+      "publishedAt": "2026-10-05T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv cs.AI",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.AI",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Research"
+        }
+      ]
+    },
+    {
+      "slug": "fast-models-slow-evidence-a-paired-and-self-audited-evaluation-of-system-1-decision-models-for-llm-agent-harnesses",
+      "title": "Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses",
+      "dek": "arXiv:2610.02267v1 Announce Type: new \nAbstract: Agent harnesses make many small, typed decisions per task: which model to call, which tool to use, whether retrieved text is relevant, whether an input carries an injection. System-1 decision models answer such questions in a singl",
+      "aiSummary": "The paper presents a paired and self‑audited evaluation of System‑1 decision models used in LLM agent harnesses. It examines how these models handle tasks such as selecting which model to call, which tool to use, determining if retrieved text is relevant, and detecting injection attacks. The study compares the speed of these models against the quality of the evidence they produce.",
+      "articleUrl": "https://arxiv.org/abs/2610.02267",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "LLM",
+        "System-1",
+        "Agent harness"
+      ],
+      "publishedAt": "2026-10-05T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv cs.AI",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.AI",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "the-ai-risk-observatory-what-can-we-learn-from-ai-disclosures-in-annual-reports-about-societal-resilience",
+      "title": "The AI Risk Observatory: What Can We Learn from AI Disclosures in Annual Reports About Societal Resilience?",
+      "dek": "arXiv:2610.02281v1 Announce Type: new \nAbstract: Societal resilience research relies on access to useful and actionable data, which motivates our main research question: Can annual reports, processed at scale with LLMs, provide a useful signal about how companies disclose their r",
+      "aiSummary": "This study investigates whether annual reports, when processed at scale using Large Language Models, can provide a useful signal regarding how companies disclose their risks. The research aims to determine if this data can support societal resilience studies by offering actionable insights into corporate AI disclosures.",
+      "articleUrl": "https://arxiv.org/abs/2610.02281",
+      "category": "AI",
+      "filterTags": [
+        "LLMs",
+        "Annual Reports",
+        "AI Risk",
+        "Societal Resilience"
+      ],
+      "publishedAt": "2026-10-05T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv cs.AI",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.AI",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Corporate Governance"
+        },
+        {
+          "name": "Research"
+        }
+      ]
+    },
+    {
+      "slug": "conformal-prediction-for-time-series-with-deep-sequence-models",
+      "title": "Conformal Prediction for Time Series with Deep Sequence Models",
+      "dek": "arXiv:2610.02357v1 Announce Type: new \nAbstract: Recent advances in deep learning for time series prediction have amplified the need for reliable uncertainty quantification. Conformal prediction has gained attention as a distribution-free framework for constructing prediction int",
+      "aiSummary": "The paper discusses how recent deep learning progress in time series forecasting has highlighted the importance of accurate uncertainty estimates. It proposes using conformal prediction, a distribution‑free method, to generate reliable prediction intervals for deep sequence models.",
+      "articleUrl": "https://arxiv.org/abs/2610.02357",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Deep Learning",
+        "Time Series",
+        "Conformal Prediction",
+        "Sequence Models",
+        "Uncertainty Quantification"
+      ],
+      "publishedAt": "2026-10-05T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Data Science"
+        }
+      ]
+    },
+    {
+      "slug": "encore-exact-non-equilibrium-control-with-replica-exchange-for-diffusion-generation",
+      "title": "ENCORE: Exact Non-equilibrium COntrol with Replica Exchange for Diffusion Generation",
+      "dek": "arXiv:2610.02538v1 Announce Type: new \nAbstract: Inference-time control steers a pretrained generative model towards a target distribution without retraining. We study tilted targets $\\pi_0\\propto G_0\\,p_0$, where $p_0$ is the sampler output distribution and $G_0$ is an evaluable",
+      "aiSummary": "The paper introduces ENCORE, a technique for inference-time control that steers pretrained generative models toward specific target distributions without requiring retraining. It focuses on tilted targets defined by the product of the sampler's output distribution and an evaluable function, utilizing replica exchange to achieve exact non-equilibrium control in diffusion generation.",
+      "articleUrl": "https://arxiv.org/abs/2610.02538",
+      "category": "AI",
+      "filterTags": [
+        "ENCORE",
+        "Diffusion Generation",
+        "Replica Exchange",
+        "Inference-time control",
+        "arXiv"
+      ],
+      "publishedAt": "2026-10-05T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Generative Models"
+        }
+      ]
+    },
+    {
+      "slug": "randomization-inference-on-cell-effects-under-absorbing-treatment-onset",
+      "title": "Randomization inference on cell effects under absorbing treatment onset",
+      "dek": "arXiv:2610.02556v1 Announce Type: new \nAbstract: In multiple-baseline experiments, staggered adoption designs, and stepped-wedge trials, every unit switches once from baseline to treatment at a randomized onset time and remains treated afterward. We label these designs as absorbi",
+      "aiSummary": "The article focuses on experimental designs such as multiple-baseline, staggered adoption, and stepped-wedge trials. In these setups, each unit transitions from a baseline to a treated state at a randomized onset time and remains treated indefinitely. These designs are characterized as having an 'absorbing' treatment onset.",
+      "articleUrl": "https://arxiv.org/abs/2610.02556",
+      "category": "Statistics",
+      "filterTags": [
+        "Randomization inference",
+        "multiple-baseline experiments",
+        "staggered adoption designs",
+        "stepped-wedge trials",
+        "absorbing treatment",
+        "arXiv"
+      ],
+      "publishedAt": "2026-10-05T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Statistics"
+        },
+        {
+          "name": "Experimental Design"
+        },
+        {
+          "name": "Research Methods"
+        }
+      ]
+    },
+    {
+      "slug": "apple-ceo-designs-muse-s-maker-using-web-standards",
+      "title": "Apple CEO designs 💼, Muse's maker 🤖, using web standards 👨‍💻",
+      "dek": "Apple CEO creates a briefcase, Muse's maker uses web standards",
+      "aiSummary": "The article reports that Apple’s CEO has designed a briefcase, while the maker of Muse has adopted web standards.",
+      "articleUrl": "https://tldr.tech/tech/2026-10-05",
+      "category": "Hardware",
+      "filterTags": [
+        "Apple",
+        "Muse",
+        "web standards"
+      ],
+      "publishedAt": "2026-10-05T00:00:00+00:00",
+      "publisher": {
+        "name": "TLDR",
+        "domain": "tldr.tech",
+        "website": "https://tldr.tech/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=tldr.tech&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=tldr.tech&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Software"
+        },
+        {
+          "name": "Web"
+        }
+      ]
+    }
+  ]
+}
