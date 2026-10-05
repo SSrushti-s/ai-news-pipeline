@@ -1,0 +1,1766 @@
+{
+  "news": [
+    {
+      "slug": "ciflow-xpu-193178-update-update",
+      "title": "ciflow/xpu/193178: [UPDATE] Update",
+      "dek": "[ghstack-poisoned]",
+      "aiSummary": "The provided text indicates an update to the ciflow/xpu/193178 branch. The description notes that the content is ghstack-poisoned, suggesting a specific state or error in the code management system.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fxpu%2F193178",
+      "category": "Software Engineering",
+      "filterTags": [
+        "ciflow",
+        "xpu",
+        "ghstack"
+      ],
+      "publishedAt": "2026-10-06T00:06:30+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "DevOps"
+        }
+      ]
+    },
+    {
+      "slug": "ciflow-trunk-193178-update-update",
+      "title": "ciflow/trunk/193178: [UPDATE] Update",
+      "dek": "[ghstack-poisoned]",
+      "aiSummary": "The provided text indicates an update to the ciflow/trunk/193178 branch. The description notes that the content is ghstack-poisoned, suggesting a specific state or error in the version control system.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Ftrunk%2F193178",
+      "category": "DevOps",
+      "filterTags": [
+        "ciflow",
+        "ghstack"
+      ],
+      "publishedAt": "2026-10-06T00:06:30+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Version Control"
+        }
+      ]
+    },
+    {
+      "slug": "ciflow-xpu-193165-update-update",
+      "title": "ciflow/xpu/193165: [UPDATE] Update",
+      "dek": "[ghstack-poisoned]",
+      "aiSummary": "The provided text indicates a code update associated with the identifier ciflow/xpu/193165. The description notes that the content is ghstack-poisoned, suggesting a specific state or error in the version control system.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fxpu%2F193165",
+      "category": "Software Development",
+      "filterTags": [
+        "ciflow",
+        "xpu",
+        "ghstack"
+      ],
+      "publishedAt": "2026-10-06T00:06:29+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Version Control"
+        }
+      ]
+    },
+    {
+      "slug": "introducing-glm-5-3-on-amazon-bedrock",
+      "title": "Introducing GLM 5.3 on Amazon Bedrock",
+      "dek": "GLM 5.3 from Z.ai is now available on Amazon Bedrock: a 753B-parameter mixture-of-experts model built for coding and long-horizon agentic tasks. Learn how to invoke it with the OpenAI-compatible APIs, cut cost and latency with prompt caching, and run an authorized security test w",
+      "aiSummary": "Z.ai's GLM 5.3, a 753B-parameter mixture-of-experts model designed for coding and long-horizon agentic tasks, is now available on Amazon Bedrock. The release supports invocation via OpenAI-compatible APIs and offers features like prompt caching to reduce cost and latency.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock/",
+      "category": "AI",
+      "filterTags": [
+        "GLM 5.3",
+        "Z.ai",
+        "Amazon Bedrock",
+        "Mixture-of-Experts",
+        "OpenAI-compatible APIs",
+        "Prompt Caching"
+      ],
+      "publishedAt": "2026-10-05T23:25:17+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "ask-hn-are-there-ai-models-for-generating-sounds-based-on-a-text-and-reference",
+      "title": "Ask HN: Are there AI models for generating sounds based on a text and reference?",
+      "dek": "Is there an AI tool that creates audio from text and a reference sample?",
+      "aiSummary": "The provided text contains only a question asking if AI models exist for generating sounds based on text and a reference. No additional details, context, or answers are included in the snippet.",
+      "articleUrl": "https://news.ycombinator.com/item?id=49972125",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Sound Generation",
+        "Text-to-Audio"
+      ],
+      "publishedAt": "2026-10-05T23:24:44+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Audio Technology"
+        }
+      ]
+    },
+    {
+      "slug": "b11433",
+      "title": "b11433",
+      "dek": "hexagon: add pool op support ( #29995 ) \n \n \n hexagon: add pool_2d support \n \n \n hexagon: add pool_1d support \n \n \n hex-pool: dma changes \n \n \n hex-pool: Optimize HTP pooling boundaries and DMA pipelining \n \n \n hex-pool: code cleanup and correctness fixes \n \n \n hex-pool: re-write",
+      "aiSummary": "The update introduces support for 1D and 2D pooling operations in the Hexagon architecture. It includes DMA changes, optimizations for HTP pooling boundaries and DMA pipelining, as well as code cleanup and correctness fixes.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11433",
+      "category": "Hardware",
+      "filterTags": [
+        "Hexagon",
+        "HTP",
+        "DMA",
+        "pool_1d",
+        "pool_2d"
+      ],
+      "publishedAt": "2026-10-05T23:13:06+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Embedded Systems"
+        }
+      ]
+    },
+    {
+      "slug": "gemini-call-for-me-might-tell-your-mom-you-8217-re-running-late",
+      "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
+      "dek": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that include \"Call Mom and tell her I wil",
+      "aiSummary": "Google is reportedly expanding its 'Call for Me' AI feature to handle personal calls, not just business ones. Android Authority discovered a 'Gemini Calling' introductory screen in an APK teardown that suggests the tool can send messages to friends and family, such as telling a parent you are running late.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+      "category": "AI",
+      "filterTags": [
+        "Google",
+        "Gemini",
+        "AI",
+        "Android",
+        "APK"
+      ],
+      "publishedAt": "2026-10-05T23:09:55+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Consumer Tech"
+        }
+      ]
+    },
+    {
+      "slug": "oracle-2025-health-breach-compromised-data-of-20-million-people",
+      "title": "Oracle 2025 Health Breach Compromised Data of 20 Million People",
+      "dek": "A cybersecurity breach last year of Oracle Corp.’s healthcare unit compromised personal information belonging to nearly 20 million people, according to information released by the Texas attorney general.",
+      "aiSummary": "Last year, a cybersecurity breach at Oracle Corp.'s healthcare unit exposed personal data of almost 20 million individuals. The Texas attorney general released the information confirming the breach.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-05/oracle-2025-health-breach-compromised-data-of-20-million-people",
+      "category": "Cybersecurity",
+      "filterTags": [
+        "Oracle",
+        "Healthcare",
+        "Cybersecurity",
+        "Texas Attorney General"
+      ],
+      "publishedAt": "2026-10-05T23:09:19+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "Healthcare"
+        },
+        {
+          "name": "Data Privacy"
+        }
+      ]
+    },
+    {
+      "slug": "nova-sprint-coordinate-ai-sprints-across-multiple-models-and-harnesses",
+      "title": "Nova Sprint. Coordinate AI sprints across multiple models and harnesses",
+      "dek": "Nova Sprint lets you manage AI sprints using various models and tools.",
+      "aiSummary": "Nova Sprint is a tool designed to coordinate AI sprints across multiple models and harnesses. It facilitates the management of these diverse AI components within a unified workflow.",
+      "articleUrl": "https://github.com/mas-bandwidth/nova-sprint",
+      "category": "AI",
+      "filterTags": [
+        "Nova Sprint",
+        "AI",
+        "Models",
+        "Harnesses"
+      ],
+      "publishedAt": "2026-10-05T23:03:46+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "v0-39-0",
+      "title": "v0.39.0",
+      "dek": "What's Changed \n \n Support LynnReal light Minimax-H3 vae by  @kijai  in  #16657 \n Update embedded docs to v0.5.13 by  @comfyui-wiki  in  #16618 \n Use higher quality defaults for Save Video encoding. by  @comfyanonymous  in  #16663 \n feat: add DynamicGroup widget input by  @jaeone",
+      "aiSummary": "The v0.39.0 release introduces support for the LynnReal light Minimax-H3 VAE and adds a DynamicGroup widget input. It also updates embedded documentation to v0.5.13 and improves default settings for video encoding quality.",
+      "articleUrl": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.39.0",
+      "category": "AI",
+      "filterTags": [
+        "ComfyUI",
+        "Minimax-H3",
+        "VAE",
+        "DynamicGroup"
+      ],
+      "publishedAt": "2026-10-05T22:49:43+00:00",
+      "publisher": {
+        "name": "comfyanonymous",
+        "domain": "github.com",
+        "website": "https://github.com/comfyanonymous/ComfyUI",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "i-m-building-a-personal-ai-computer-startup-in-mumbai",
+      "title": "I'm building a personal AI computer startup in Mumbai",
+      "dek": "I am launching a new machine learning hardware company in India.",
+      "aiSummary": "The article is about a person building a personal AI computer startup in Mumbai.",
+      "articleUrl": "https://x.com/gfaang97609",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "computer",
+        "startup",
+        "Mumbai"
+      ],
+      "publishedAt": "2026-10-05T22:47:22+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Startups"
+        }
+      ]
+    },
+    {
+      "slug": "macos-development-continues-to-hint-at-touchscreen-macbooks",
+      "title": "macOS development continues to hint at touchscreen MacBooks",
+      "dek": "Apple's latest macOS 27.2 beta references new touch gestures for Safari and Notes, meaning we're in for a neat Sidecar upgrade, a touchscreen  MacBook Pro , or both. macOS 27.2 beta 3 includes new touchscreen gestures for system apps. While rumors of a MacBook Pro with a touchscr",
+      "aiSummary": "The latest macOS 27.2 beta includes new touch gestures for Safari and Notes, indicating potential support for touchscreen devices. These updates suggest that Apple may be preparing a touchscreen MacBook Pro or an enhanced Sidecar experience.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/05/macos-development-continues-to-hint-at-touchscreen-macbooks?utm_source=rss",
+      "category": "Hardware",
+      "filterTags": [
+        "Apple",
+        "macOS",
+        "MacBook Pro",
+        "Safari",
+        "Notes",
+        "Sidecar"
+      ],
+      "publishedAt": "2026-10-05T22:35:04+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Operating Systems"
+        }
+      ]
+    },
+    {
+      "slug": "mcp-for-agent-to-agent-comms-may-be-the-riskiest-protocol-you-ve-never-heard-of",
+      "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+      "dek": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
+      "aiSummary": "The Model Context Protocol (MCP) is emerging as a standard for agent-to-agent communication, but it faces significant security challenges. Trust gaps within the protocol allow malicious prompts to spread from one agent to another, posing a substantial risk to system integrity.",
+      "articleUrl": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+      "category": "AI",
+      "filterTags": [
+        "MCP",
+        "Model Context Protocol",
+        "Agent-to-Agent",
+        "Prompt Injection"
+      ],
+      "publishedAt": "2026-10-05T22:26:35+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Protocols"
+        }
+      ]
+    },
+    {
+      "slug": "stocks-are-hitting-records-despite-surging-yields-cramer-explains-why",
+      "title": "Stocks are hitting records despite surging yields. Cramer explains why",
+      "dek": "CNBC’s Jim Cramer said Nvidia, Microsoft and Meta are helping push stocks to records even as surging Treasury yields pressure much of the broader market.",
+      "aiSummary": "CNBC's Jim Cramer noted that stocks are hitting record highs despite rising Treasury yields. He attributed this resilience to the strong performance of major tech companies like Nvidia, Microsoft, and Meta, which are offsetting pressure on the broader market.",
+      "articleUrl": "https://www.cnbc.com/2026/10/05/cramer-ai-stocks-treasury-yields.html",
+      "category": "Markets",
+      "filterTags": [
+        "Nvidia",
+        "Microsoft",
+        "Meta",
+        "Treasury yields",
+        "CNBC",
+        "Jim Cramer"
+      ],
+      "publishedAt": "2026-10-05T22:18:13+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Markets"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "nokia-ceo-says-data-centers-would-be-built-2x-faster-without-supply-constraints",
+      "title": "Nokia CEO says data centers would be built '2x faster' without supply constraints",
+      "dek": "The Nokia CEO's comments underscores continued demand for AI even as top executives debate slowing down the pace of development.",
+      "aiSummary": "Nokia's CEO stated that data centers could be constructed twice as quickly without supply constraints, underscoring the sustained demand for AI. Meanwhile, senior executives are discussing the possibility of slowing the pace of AI development.",
+      "articleUrl": "https://www.cnbc.com/2026/10/05/nokia-ai-data-center-buildout.html",
+      "category": "Technology",
+      "filterTags": [
+        "Nokia",
+        "Data Centers",
+        "AI"
+      ],
+      "publishedAt": "2026-10-05T22:00:01+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "siri-ai-smart-replies-coming-to-the-apple-tv-tvos-27-2-code-suggests",
+      "title": "Siri AI & Smart Replies coming to the Apple TV, tvOS 27.2 code suggests",
+      "dek": "We now have yet another indication that  Apple Intelligence  is coming to the next Apple TV 4K, with references to Apple's foundation models surfacing in a tvOS 27.2 beta. Siri AI & Smart Replies might be offered with the next-generation Apple TV 4K. Back in  June  2026,  tvOS 27",
+      "aiSummary": "The tvOS 27.2 beta contains references to Apple's foundation models, indicating that Siri AI and Smart Replies could be added to the next Apple TV 4K. This follows earlier hints from June 2026.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/05/siri-ai-smart-replies-coming-to-the-apple-tv-tvos-272-code-suggests?utm_source=rss",
+      "category": "AI",
+      "filterTags": [
+        "Apple",
+        "Siri",
+        "tvOS",
+        "Apple TV 4K",
+        "Foundation Models",
+        "Apple Intelligence"
+      ],
+      "publishedAt": "2026-10-05T21:49:25+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Software"
+        }
+      ]
+    },
+    {
+      "slug": "tiffany-mcghee-says-earnings-must-show-ai-spending-is-paying-off",
+      "title": "Tiffany McGhee Says Earnings Must Show AI Spending Is Paying Off",
+      "dek": "Tiffany McGhee, CEO and CIO of Pivotal Advisors, described the market as resilient but still sensitive to interest rates. Ahead of earnings season, which begins Tuesday the 13th, she said investors will focus on whether companies can demonstrate monetization of their AI investmen",
+      "aiSummary": "Tiffany McGhee, CEO and CIO of Pivotal Advisors, notes that while the market is resilient, it remains sensitive to interest rates. As earnings season begins on Tuesday the 13th, she expects investors to closely scrutinize whether companies can demonstrate the monetization of their AI investments.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-05/tiffany-mcghee-earnings-must-show-ai-spend-paying-off-video",
+      "category": "Finance",
+      "filterTags": [
+        "Pivotal Advisors",
+        "Tiffany McGhee",
+        "AI",
+        "Earnings Season"
+      ],
+      "publishedAt": "2026-10-05T21:48:36+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Investment"
+        }
+      ]
+    },
+    {
+      "slug": "building-a-streaming-robotics-learning-pipeline-using-nvidia-cosmos3-droid",
+      "title": "Building a Streaming Robotics Learning Pipeline Using NVIDIA Cosmos3-DROID",
+      "dek": "Discover how to construct an end-to-end streaming robotics learning pipeline using the NVIDIA Cosmos3-DROID dataset without local downloads, leveraging byte-range Parquet reads, behavior cloning, and temporal ensembling. \n The post  Building a Streaming Robotics Learning Pipeline",
+      "aiSummary": "The article explains how to build an end-to-end streaming robotics learning pipeline using the NVIDIA Cosmos3-DROID dataset. It highlights techniques such as byte-range Parquet reads to avoid local downloads, along with behavior cloning and temporal ensembling.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/05/building-a-streaming-robotics-learning-pipeline-using-nvidia-cosmos3-droid/",
+      "category": "AI",
+      "filterTags": [
+        "NVIDIA",
+        "Cosmos3-DROID",
+        "Parquet",
+        "Behavior Cloning",
+        "Temporal Ensembling",
+        "Robotics"
+      ],
+      "publishedAt": "2026-10-05T21:41:14+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Robotics"
+        },
+        {
+          "name": "Data Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "c-h-robinson-ceo-dave-bozeman-on-rxo-5-8b-acquisition",
+      "title": "C.H. Robinson CEO Dave Bozeman on RXO $5.8B Acquisition",
+      "dek": "C.H. Robinson is set to acquire RXO’s trucking brokerage business in a deal valued at about $5.8 billion. CEO and President Dave Bozeman said the combination would bring together C.H. Robinson’s global multimodal, freight brokerage and forwarding operations with RXO’s North Ameri",
+      "aiSummary": "C.H. Robinson will acquire RXO’s trucking brokerage business for about $5.8 billion. CEO Dave Bozeman said the deal will combine C.H. Robinson’s global multimodal freight brokerage and forwarding operations with RXO’s North American operations.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-05/c-h-robinson-ceo-dave-bozeman-on-rxo-5-8b-acquisition-video",
+      "category": "Logistics",
+      "filterTags": [
+        "C.H. Robinson",
+        "RXO",
+        "trucking brokerage",
+        "multimodal",
+        "freight brokerage",
+        "forwarding operations"
+      ],
+      "publishedAt": "2026-10-05T21:16:50+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Logistics"
+        },
+        {
+          "name": "Supply Chain"
+        },
+        {
+          "name": "Business M&A"
+        }
+      ]
+    },
+    {
+      "slug": "open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle",
+      "title": "Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle",
+      "dek": "Education Innovation",
+      "aiSummary": "The article examines emerging challenges in privacy and security for autonomous agents, focusing on contextual factors. It highlights how these issues intersect with educational innovation.",
+      "articleUrl": "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/",
+      "category": "Privacy",
+      "filterTags": [
+        "Agentic Privacy",
+        "Security",
+        "Education Innovation"
+      ],
+      "publishedAt": "2026-10-05T21:08:31+00:00",
+      "publisher": {
+        "name": "Google Research",
+        "domain": "research.google",
+        "website": "https://research.google/",
+        "logoUrl": "https://www.gstatic.com/images/branding/googleg_gradient/1x/googleg_gradient_standard_20dp.png",
+        "faviconUrl": "https://www.gstatic.com/images/branding/googleg_gradient/1x/googleg_gradient_standard_20dp.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Privacy"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Education"
+        }
+      ]
+    },
+    {
+      "slug": "reflection-ai-introduces-beam-a-501b-open-weight-moe-model-with-23b-active-parameters-for-coding-and-agentic-workloads",
+      "title": "Reflection AI Introduces Beam: A 501B Open-Weight MoE Model With 23B Active Parameters for Coding and Agentic Workloads",
+      "dek": "Reflection AI has introduced Beam, its first open-weight model. It is a 501B sparse Mixture-of-Experts model with 23B active parameters, built for coding and agentic work. Reflection says it matches GLM-5.2 on reasoning with 3 to 4x less inference compute. Apache 2.0 weights are ",
+      "aiSummary": "Reflection AI released Beam, an open-weight sparse Mixture-of-Experts model with 23B active parameters. Designed for coding and agentic workloads, Beam achieves reasoning performance comparable to GLM‑5.2 while using 3–4× less inference compute. The model’s weights are released under an Apache 2.0 license.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/05/reflection-ai-introduces-beam-a-501b-open-weight-moe-model-with-23b-active-parameters-for-coding-and-agentic-workloads/",
+      "category": "AI",
+      "filterTags": [
+        "Reflection AI",
+        "Beam",
+        "Mixture-of-Experts",
+        "GLM-5.2",
+        "Apache 2.0"
+      ],
+      "publishedAt": "2026-10-05T21:04:20+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Machine Learning Models"
+        }
+      ]
+    },
+    {
+      "slug": "b11430",
+      "title": "b11430",
+      "dek": "hexagon: matmul and flash-atten scalability updates ( #29974 ) \n \n hexagon: head-parallel flash_attn partitioning for row-split multicore \n \n In row-split mode each core computes its output row shard of every \nMUL_MAT, but flash_attn was previously partitioning by Q tokens \n(flat",
+      "aiSummary": "The update introduces head-parallel flash_attn partitioning for row-split multicore operations on Hexagon. This change allows each core to compute its output row shard for every matrix multiplication, replacing the previous method of partitioning by Q tokens.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11430",
+      "category": "Hardware",
+      "filterTags": [
+        "Hexagon",
+        "flash_attn",
+        "matmul",
+        "multicore"
+      ],
+      "publishedAt": "2026-10-05T20:41:50+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "openai-will-start-watermarking-chatgpt-s-text-in-the-eu",
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "dek": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+      "aiSummary": "OpenAI will add invisible watermarks to ChatGPT and Codex text in the EU to meet AI Act requirements. The company notes that editing could reduce the detectability of these marks.",
+      "articleUrl": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "ChatGPT",
+        "Codex",
+        "AI Act"
+      ],
+      "publishedAt": "2026-10-05T20:36:48+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Regulation"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "this-startup-is-issuing-ai-generated-acne-prescriptions",
+      "title": "This startup is issuing AI-generated acne prescriptions",
+      "dek": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze acne severity and autonomously write a prescription, as repor",
+      "aiSummary": "Healthcare startup Nolla Health has launched a service in Utah that allows users to scan their faces via an app to receive acne treatment. The company's AI system analyzes the severity of the acne and autonomously writes the prescription.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
+      "category": "Healthcare",
+      "filterTags": [
+        "Nolla Health",
+        "AI",
+        "Utah",
+        "Acne",
+        "Telehealth"
+      ],
+      "publishedAt": "2026-10-05T20:14:57+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Healthcare"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "spacex-stock-climbs-to-highest-since-june-returning-musk-to-trillionaire-status",
+      "title": "SpaceX stock climbs to highest since June, returning Musk to trillionaire status",
+      "dek": "SpaceX shares have bounced almost 60% off their low in early August, boosted by the company's AI business and Starship progress.",
+      "aiSummary": "SpaceX stock has risen nearly 60% from its early August low, reaching its highest level since June. The rally was driven by the company's AI initiatives and progress on the Starship spacecraft.",
+      "articleUrl": "https://www.cnbc.com/2026/10/05/spacex-stock-climbs-highest-since-june-returning-musk-to-trillionaire.html",
+      "category": "Finance",
+      "filterTags": [
+        "SpaceX",
+        "AI",
+        "Starship"
+      ],
+      "publishedAt": "2026-10-05T20:10:13+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Space"
+        },
+        {
+          "name": "Artificial Intelligence"
+        }
+      ]
+    },
+    {
+      "slug": "reflection-debuts-beam-an-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost",
+      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "dek": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
+      "aiSummary": "Reflection has introduced Beam, an open-weight AI model that competes with Chinese models but at a lower compute cost. The company targets enterprises and sovereign nations, offering an 'AI factories' solution that lets organizations train custom local AI systems on their own data.",
+      "articleUrl": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Reflection",
+        "Beam",
+        "AI factories",
+        "open-weight AI model",
+        "Chinese AI models"
+      ],
+      "publishedAt": "2026-10-05T19:33:53+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Enterprise Solutions"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "AI Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "all-the-drama-around-ai-8217-s-takeover-of-mathematics",
+      "title": "All the drama around AI&#8217;s takeover of mathematics",
+      "dek": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of the famous Millennium Prize pr",
+      "aiSummary": "Major AI labs including OpenAI and Anthropic have recently announced significant breakthroughs in solving long-standing mathematical problems. These achievements have exceeded researcher expectations regarding current system capabilities, including progress on Millennium Prize problems.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "Anthropic",
+        "Mathematics",
+        "Millennium Prize"
+      ],
+      "publishedAt": "2026-10-05T19:28:59+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Mathematics"
+        }
+      ]
+    },
+    {
+      "slug": "command-line-tool-quickly-removes-apple-intelligence-from-macos-27",
+      "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
+      "dek": "The tool can free up over 12GB of storage.",
+      "aiSummary": "A new command-line tool has been released that enables users to quickly remove Apple Intelligence from macOS 27. The utility is designed to free up more than 12GB of storage space on the device.",
+      "articleUrl": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
+      "category": "Operating Systems",
+      "filterTags": [
+        "macOS 27",
+        "Apple Intelligence",
+        "command-line tool"
+      ],
+      "publishedAt": "2026-10-05T19:14:44+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Operating Systems"
+        },
+        {
+          "name": "Apple Ecosystem"
+        }
+      ]
+    },
+    {
+      "slug": "reflection-ai-boosts-us-ambition-to-compete-with-chinese-open-models",
+      "title": "Reflection AI boosts US ambition to compete with Chinese ‘open’ models",
+      "dek": "Start-up claims new model Beam is on par with leading Chinese competitor as battle with Beijing intensifies",
+      "aiSummary": "Reflection AI, a U.S. startup, says its new model Beam matches the performance of top Chinese open models. The company claims Beam can compete with leading Chinese AI systems amid growing competition. This claim comes as the U.S. seeks to strengthen its AI capabilities against China.",
+      "articleUrl": "https://www.ft.com/content/353be303-3271-43f0-aefb-69b6ed7a0a6f?syn-25a6b1a6=1",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Reflection AI",
+        "Beam",
+        "Chinese open models"
+      ],
+      "publishedAt": "2026-10-05T19:00:03+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Geopolitics"
+        },
+        {
+          "name": "Technology Competition"
+        }
+      ]
+    },
+    {
+      "slug": "identity-verification-to-be-required-when-reloading-apple-cash",
+      "title": "Identity verification to be required when reloading Apple Cash",
+      "dek": "Changes are happening to the Apple Cash Terms and Conditions, with Green Dot Bank requiring users to identify themselves to reload balances starting November 9. Apple Cash Apple Cash users are starting to receive emails from Apple about a few changes happening to the service. The",
+      "aiSummary": "Apple Cash users are receiving notifications about updates to the service's terms and conditions. Starting November 9, Green Dot Bank will require users to verify their identity before reloading their balances.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/05/identity-verification-to-be-required-when-reloading-apple-cash?utm_source=rss",
+      "category": "Fintech",
+      "filterTags": [
+        "Apple Cash",
+        "Green Dot Bank",
+        "Identity Verification"
+      ],
+      "publishedAt": "2026-10-05T18:56:42+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Fintech"
+        },
+        {
+          "name": "Consumer Technology"
+        }
+      ]
+    },
+    {
+      "slug": "instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account",
+      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+      "dek": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take ",
+      "aiSummary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. Personal accounts remain separate, and permission is required before personal agents share information or take actions.",
+      "articleUrl": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+      "category": "AI",
+      "filterTags": [
+        "Instinct",
+        "AI agent"
+      ],
+      "publishedAt": "2026-10-05T18:54:30+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Collaboration Tools"
+        }
+      ]
+    },
+    {
+      "slug": "the-guardian-view-on-sexual-abuse-in-schools-teachers-cannot-deal-with-this-alone-editorial",
+      "title": "The Guardian view on sexual abuse in schools: teachers cannot deal with this alone | Editorial",
+      "dek": "Politicians must redouble their efforts to tackle a disturbing pattern of pupils assaulting classmates The Guardian’s findings about the  extent of sexual abuse in schools  require an urgent, calibrated response. Data revealing multiple rapes committed each year on school premise",
+      "aiSummary": "The Guardian's investigation has revealed a concerning prevalence of sexual abuse in schools, including multiple rapes occurring on school premises each year. This disturbing pattern of pupil-on-pupil assault demands an urgent and measured response, with politicians specifically called upon to increase their efforts to tackle the issue.",
+      "articleUrl": "https://www.theguardian.com/commentisfree/2026/oct/05/the-guardian-view-on-sexual-abuse-in-schools-teachers-cannot-deal-with-this-alone",
+      "category": "Education",
+      "filterTags": [
+        "The Guardian"
+      ],
+      "publishedAt": "2026-10-05T17:45:41+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Education"
+        },
+        {
+          "name": "Social Issues"
+        },
+        {
+          "name": "Child Safety"
+        },
+        {
+          "name": "Politics"
+        }
+      ]
+    },
+    {
+      "slug": "supercharge-regulated-workloads-with-claude-code-and-amazon-bedrock",
+      "title": "Supercharge regulated workloads with Claude Code and Amazon Bedrock",
+      "dek": "Anthropic Claude Opus 5.5 and Claude Sonnet 5.5 are available on Amazon Bedrock in the AWS GovCloud (US) Regions. Learn how to use them with Claude Code, Anthropic's agentic coding tool, for compliance-aligned, AI-assisted development on regulated and ITAR workloads.",
+      "aiSummary": "Anthropic's Claude Opus 5.5 and Claude Sonnet 5.5 models are now accessible on Amazon Bedrock within AWS GovCloud (US) Regions. This integration allows developers to utilize Claude Code for AI-assisted development that meets compliance requirements for regulated and ITAR workloads.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/supercharge-regulated-workloads-with-claude-code-and-amazon-bedrock/",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "Claude Opus 5.5",
+        "Claude Sonnet 5.5",
+        "Amazon Bedrock",
+        "AWS GovCloud",
+        "Claude Code",
+        "ITAR"
+      ],
+      "publishedAt": "2026-10-05T17:25:20+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Compliance"
+        }
+      ]
+    },
+    {
+      "slug": "new-agent-skill-amazon-sagemaker-optimized-generative-ai-inference-for-your-coding-agent",
+      "title": "New agent skill: Amazon SageMaker optimized generative AI inference for your coding agent",
+      "dek": "Amazon SageMaker optimized generative AI inference introduces the aws-ai-ml skill through the Agent Toolkit for AWS, giving coding agents like Kiro, Claude Code, and Codex deep expertise in inference optimization and benchmarking. Describe what you want, and your agent generates ",
+      "aiSummary": "Amazon SageMaker has added a new aws-ai-ml skill to its Agent Toolkit for AWS, enabling coding agents such as Kiro, Claude Code, and Codex to perform optimized generative AI inference and benchmarking. The skill lets users describe desired behavior and have the agent generate accordingly.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/new-agent-skill-amazon-sagemaker-optimized-generative-ai-inference-for-your-coding-agent/",
+      "category": "AI",
+      "filterTags": [
+        "Amazon SageMaker",
+        "aws-ai-ml",
+        "Agent Toolkit for AWS",
+        "Kiro",
+        "Claude Code",
+        "Codex"
+      ],
+      "publishedAt": "2026-10-05T17:23:19+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "v0-6-0",
+      "title": "v0.6.0",
+      "dek": "Overview \n llama.cpp v0.6.0 introduces the new  llama_batch_ext  extended batch API (with  llama_process ) for mixed token/embedding inputs and MTP/deepstack state embeddings, adds support for the GLM-5.3-Flash (GLM5-Next) 320B hybrid model, the Clef decision model (text and visi",
+      "aiSummary": "The new release of llama.cpp v0.6.0 adds a new extended batch API llama_batch_ext with llama_process for mixed token/embedding inputs and MTP/deepstack state embeddings. It also adds support for the GLM-5.3-Flash (GLM5-Next) 320B hybrid model and the Clef decision model for text and vision.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.6.0",
+      "category": "AI",
+      "filterTags": [
+        "llama.cpp",
+        "llama_batch_ext",
+        "llama_process",
+        "MTP",
+        "deepstack",
+        "GLM-5.3-Flash",
+        "GLM5-Next",
+        "320B",
+        "Clef decision model"
+      ],
+      "publishedAt": "2026-10-05T16:58:23+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "pentagon-stops-using-anthropic-ai-tools-after-blacklisting-company-bbc-told",
+      "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+      "dek": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
+      "aiSummary": "The Pentagon has halted the use of Anthropic's AI tools after the company was blacklisted in February. The government labeled Anthropic a supply chain risk because the firm declined to remove safety guardrails from its software.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
+      "category": "AI",
+      "filterTags": [
+        "Pentagon",
+        "Anthropic",
+        "AI",
+        "supply chain risk"
+      ],
+      "publishedAt": "2026-10-05T16:13:21+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Defense"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "reviewbench-an-open-benchmark-for-ai-code-review",
+      "title": "ReviewBench: An open benchmark for AI code review",
+      "dek": "We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics. \n The post  ReviewBench: An open benchmark for AI code review  appeared first on  The Gi",
+      "aiSummary": "ReviewBench is a new benchmark designed to evaluate AI code review agents using representative GitHub pull requests. It utilizes multi-source ground truth, calibrated evaluation methods, and production-aligned metrics to assess performance.",
+      "articleUrl": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
+      "category": "AI",
+      "filterTags": [
+        "ReviewBench",
+        "GitHub",
+        "AI code review",
+        "benchmark"
+      ],
+      "publishedAt": "2026-10-05T15:59:40+00:00",
+      "publisher": {
+        "name": "GitHub Blog",
+        "domain": "github.blog",
+        "website": "https://github.blog",
+        "logoUrl": "https://github.blog/wp-content/uploads/2019/01/cropped-github-favicon-512.png?fit=180%2C180",
+        "faviconUrl": "https://github.githubassets.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Developer Tools"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "connecting-ai-agents-to-enterprise-knowledge",
+      "title": "Connecting AI agents to enterprise knowledge",
+      "dek": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this",
+      "aiSummary": "Enterprise AI agents often lack contextual knowledge despite having lots of data. Knowledge is the understanding of what data means within a specific organization. AI agents require this knowledge to function effectively.",
+      "articleUrl": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AI agents",
+        "enterprise AI",
+        "knowledge"
+      ],
+      "publishedAt": "2026-10-05T15:47:52+00:00",
+      "publisher": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "website": "https://www.technologyreview.com/",
+        "logoUrl": "https://www.technologyreview.com/static/media/favicon.1cfcdb44759a0f93ddf5feb5405dd4cc.ico",
+        "faviconUrl": "https://www.technologyreview.com/static/media/favicon.1cfcdb44759a0f93ddf5feb5405dd4cc.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Enterprise Technology"
+        },
+        {
+          "name": "Data Management"
+        }
+      ]
+    },
+    {
+      "slug": "5-1-0",
+      "title": "5.1.0",
+      "dek": "New Formats \n \n Harbor  ⚓: RL environments:\n \n Add harbor benchmarks by  @lhoestq  in  #8729 \n \n \n Vortex  🌀: High performance columnar data\n \n Add support for datasets backed by vortex file format by  @robert3005  in  #8502 \n \n \n Bio formats  🧬: store biological data like DNA se",
+      "aiSummary": "The 5.1.0 release adds support for new data formats, including Harbor benchmarks for reinforcement learning environments and Vortex for high-performance columnar data. It also introduces Bio formats for storing biological data such as DNA sequences.",
+      "articleUrl": "https://github.com/huggingface/datasets/releases/tag/5.1.0",
+      "category": "Data Engineering",
+      "filterTags": [
+        "Harbor",
+        "Vortex",
+        "Bio formats",
+        "RL environments",
+        "columnar data"
+      ],
+      "publishedAt": "2026-10-05T15:40:10+00:00",
+      "publisher": {
+        "name": "huggingface",
+        "domain": "github.com",
+        "website": "https://github.com/huggingface/datasets",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Data Engineering"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Bioinformatics"
+        }
+      ]
+    },
+    {
+      "slug": "giorgia-meloni-seeks-to-trademark-her-voice-to-counter-ai-deepfakes",
+      "title": "Giorgia Meloni seeks to trademark her voice to counter AI deepfakes",
+      "dek": "Italian prime minister first major politician to seek protection against misuse of her voice",
+      "aiSummary": "Italian Prime Minister Giorgia Meloni is the first major politician to seek legal protection for her voice, aiming to prevent its misuse in AI deepfakes. She plans to trademark her voice so that unauthorized use can be challenged.",
+      "articleUrl": "https://www.ft.com/content/f30f83da-96d0-45bf-8fb6-36550d2b9f7d?syn-25a6b1a6=1",
+      "category": "Politics",
+      "filterTags": [
+        "AI",
+        "deepfakes",
+        "trademark"
+      ],
+      "publishedAt": "2026-10-05T15:31:39+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Intellectual Property"
+        }
+      ]
+    },
+    {
+      "slug": "the-llm-blindspot-why-models-forget-what-s-in-the-middle-of-your-prompt",
+      "title": "The LLM Blindspot: Why Models Forget What’s in the Middle of Your Prompt",
+      "dek": "In this article, we’ll look at why LLMs have this bias against middle information.",
+      "aiSummary": "The article investigates the specific bias in Large Language Models (LLMs) that causes them to overlook or forget information situated in the middle of a prompt. It aims to explain the underlying reasons for this 'lost in the middle' phenomenon.",
+      "articleUrl": "https://blog.bytebytego.com/p/the-llm-blindspot-why-models-forget",
+      "category": "AI",
+      "filterTags": [
+        "LLMs",
+        "Prompt Engineering"
+      ],
+      "publishedAt": "2026-10-05T15:30:51+00:00",
+      "publisher": {
+        "name": "ByteByteGo",
+        "domain": "bytebytego.com",
+        "website": "https://bytebytego.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bytebytego.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bytebytego.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "how-i-ai-8-real-jev-use-cases-how-openai-uses-chatgpt-sites-live-at-devday-claire-s-devday-recap",
+      "title": "🎙️ How I AI: 8 real Jev use cases + How OpenAI uses ChatGPT Sites (live at DevDay!) + Claire’s DevDay recap",
+      "dek": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
+      "aiSummary": "This episode of How I AI, part of the Lenny’s Podcast Network, discusses eight Jev use cases, OpenAI’s use of ChatGPT Sites during DevDay, and a recap by Claire. Listeners hear insights on real-world Jev applications, how OpenAI leverages ChatGPT Sites at DevDay, and a summary from Claire.",
+      "articleUrl": "https://www.lennysnewsletter.com/p/how-i-ai-8-real-jev-use-cases-how",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "ChatGPT",
+        "DevDay",
+        "Jev",
+        "Lenny’s Podcast Network"
+      ],
+      "publishedAt": "2026-10-05T15:03:24+00:00",
+      "publisher": {
+        "name": "Lenny's Newsletter",
+        "domain": "lennysnewsletter.com",
+        "website": "https://www.lennysnewsletter.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=lennysnewsletter.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=lennysnewsletter.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Podcast"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "our-approach-to-eu-text-provenance-rules",
+      "title": "Our approach to EU text provenance rules",
+      "dek": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+      "aiSummary": "OpenAI is implementing text watermarking to adhere to EU provenance rules, detailing where these watermarks are applied and how detection functions. The company has initially restricted access to this technology for researchers.",
+      "articleUrl": "https://openai.com/index/eu-text-provenance",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "EU",
+        "text watermarking",
+        "provenance"
+      ],
+      "publishedAt": "2026-10-05T15:00:00+00:00",
+      "publisher": {
+        "name": "OpenAI",
+        "domain": "openai.com",
+        "website": "https://openai.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Regulation"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "toshiba-launches-low-power-dual-channel-digital-isolators",
+      "title": "Toshiba Launches Low-Power Dual-Channel Digital Isolators",
+      "dek": "The four devices combine 0.2 mA typical channel current with 25 Mbps data rates, 30 kV/μs CMTI and 3,000 Vrms isolation. \n The post  Toshiba Launches Low-Power Dual-Channel Digital Isolators  appeared first on  Power Electronics News .",
+      "aiSummary": "Toshiba has released four new dual-channel digital isolators. These devices feature a low typical channel current of 0.2 mA, data rates up to 25 Mbps, and robust isolation capabilities including 30 kV/μs Common Mode Transient Immunity (CMTI) and 3,000 Vrms isolation.",
+      "articleUrl": "https://www.powerelectronicsnews.com/toshiba-launches-low-power-dual-channel-digital-isolators/",
+      "category": "Electronics",
+      "filterTags": [
+        "Toshiba",
+        "Digital Isolators",
+        "Dual-Channel",
+        "CMTI"
+      ],
+      "publishedAt": "2026-10-05T15:00:00+00:00",
+      "publisher": {
+        "name": "Power Electronics News",
+        "domain": "powerelectronicsnews.com",
+        "website": "https://www.powerelectronicsnews.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Electronics"
+        },
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Power Management"
+        }
+      ]
+    },
+    {
+      "slug": "enhancing-future-grid-s-stability-reliability-and-scalability-using-vsm-and-syndem-architecture",
+      "title": "Enhancing Future Grid’s Stability, Reliability, and Scalability using VSM and SYNDEM Architecture",
+      "dek": "For more than ten years, data centers have been mushrooming around the world, and the electrification tide has been rising across several industries like transportation,... \n The post  Enhancing Future Grid’s Stability, Reliability, and Scalability using VSM and SYNDEM Architectu",
+      "aiSummary": "Data centers have expanded globally for over a decade, coinciding with a rising trend of electrification in industries such as transportation. The article discusses using VSM and SYNDEM architectures to enhance the stability, reliability, and scalability of future power grids.",
+      "articleUrl": "https://www.powerelectronicsnews.com/enhancing-future-grids-stability-reliability-and-scalability-using-vsm-and-syndem-architecture/",
+      "category": "Energy",
+      "filterTags": [
+        "VSM",
+        "SYNDEM",
+        "Data Centers",
+        "Electrification",
+        "Power Grid"
+      ],
+      "publishedAt": "2026-10-05T14:41:14+00:00",
+      "publisher": {
+        "name": "Power Electronics News",
+        "domain": "powerelectronicsnews.com",
+        "website": "https://www.powerelectronicsnews.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Energy"
+        },
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "the-dangerous-myth-behind-ai-agent-hacks",
+      "title": "The dangerous myth behind AI agent hacks",
+      "dek": "These are not simply cyber security flaws but problems with the way that models are trained",
+      "aiSummary": "The article argues that vulnerabilities in AI agents are not merely cybersecurity flaws. Instead, they stem from fundamental issues in how these models are trained.",
+      "articleUrl": "https://www.ft.com/content/7afaf77b-b027-4a0f-8d53-5e88e7d6f5e4",
+      "category": "AI",
+      "filterTags": [
+        "AI agents",
+        "cyber security",
+        "model training"
+      ],
+      "publishedAt": "2026-10-05T14:34:32+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "computer-vision-sift-algorithm-scale-invariant-feature-transform",
+      "title": "Computer Vision: SIFT algorithm (Scale Invariant Feature Transform)",
+      "dek": "Elegant object matching from several viewpoints \n The post  Computer Vision: SIFT algorithm (Scale Invariant Feature Transform)  appeared first on  Towards Data Science .",
+      "aiSummary": "The article discusses the SIFT (Scale Invariant Feature Transform) algorithm within the field of computer vision. It highlights the method's capability to perform elegant object matching across multiple viewpoints.",
+      "articleUrl": "https://towardsdatascience.com/computer-vision-sift-algorithm-scale-invariant-feature-transform/",
+      "category": "AI",
+      "filterTags": [
+        "SIFT",
+        "Computer Vision",
+        "Scale Invariant Feature Transform"
+      ],
+      "publishedAt": "2026-10-05T14:18:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Computer Vision"
+        }
+      ]
+    },
+    {
+      "slug": "openai-executive-jason-kwon-to-face-grilling-at-parliament-about-ai-hacking-australians-private-data",
+      "title": "OpenAI executive Jason Kwon to face grilling at parliament about AI hacking Australians’ private data",
+      "dek": "Unions, employer groups, banks and industry experts will appear at the four-day hearings along with OpenAI, Anthropic, Microsoft and Google Get our  new political email ,  free app  or  daily news podcast OpenAI must explain how they will stop their models from inappropriately ac",
+      "aiSummary": "OpenAI executive Jason Kwon is scheduled to testify at four-day parliamentary hearings concerning AI models accessing Australians' private data. The hearings will also feature appearances from unions, banks, and other major tech companies including Anthropic, Microsoft, and Google.",
+      "articleUrl": "https://www.theguardian.com/australia-news/2026/oct/06/openai-must-explain-action-taken-to-stop-ai-hacking-australians-private-data-chair-of-federal-inquiry-says",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "Jason Kwon",
+        "Anthropic",
+        "Microsoft",
+        "Google",
+        "AI"
+      ],
+      "publishedAt": "2026-10-05T14:00:27+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Regulation"
+        },
+        {
+          "name": "Data Privacy"
+        }
+      ]
+    },
+    {
+      "slug": "iten-expands-powency-solid-state-battery-family-to-1-500-ah",
+      "title": "ITEN Expands Powency Solid-State Battery Family to 1,500 μAh",
+      "dek": "The new SMD battery provides six times the energy of ITEN’s 250 μAh device for IoT, tracking, healthcare and energy-harvesting systems. \n The post  ITEN Expands Powency Solid-State Battery Family to 1,500 μAh  appeared first on  Power Electronics News .",
+      "aiSummary": "ITEN has expanded its Powency solid-state battery family by introducing a new 1,500 μAh SMD battery. This device offers six times the energy capacity of the company's previous 250 μAh model and is designed for use in IoT, tracking, healthcare, and energy-harvesting systems.",
+      "articleUrl": "https://www.powerelectronicsnews.com/iten-expands-powency-solid-state-battery-family-to-1500-%ce%bcah/",
+      "category": "Hardware",
+      "filterTags": [
+        "ITEN",
+        "Powency",
+        "Solid-State Battery",
+        "SMD",
+        "IoT",
+        "Energy Harvesting"
+      ],
+      "publishedAt": "2026-10-05T14:00:00+00:00",
+      "publisher": {
+        "name": "Power Electronics News",
+        "domain": "powerelectronicsnews.com",
+        "website": "https://www.powerelectronicsnews.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Energy Storage"
+        },
+        {
+          "name": "Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "ai-glasses-face-their-first-major-government-crackdown",
+      "title": "AI glasses face their first major government crackdown",
+      "dek": "Norway wants time to write permanent rules for glasses that can record bystanders.",
+      "aiSummary": "Norway is seeking time to develop permanent regulations for AI glasses that can record bystanders. The government is preparing to impose rules on these devices.",
+      "articleUrl": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
+      "category": "AI",
+      "filterTags": [
+        "AI glasses",
+        "Norway"
+      ],
+      "publishedAt": "2026-10-05T13:39:30+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Regulation"
+        },
+        {
+          "name": "Privacy"
+        }
+      ]
+    }
+  ]
+}
