@@ -1,0 +1,624 @@
+{
+  "news": [
+    {
+      "slug": "b11402",
+      "title": "b11402",
+      "dek": "CUDA: prefer whole-tile FlashAttention scheduling for efficient two-s…",
+      "aiSummary": "The article explains that using whole-tile FlashAttention scheduling in CUDA can improve efficiency for certain operations. It highlights the benefits of this approach for performance optimization.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11402",
+      "category": "Hardware",
+      "filterTags": [
+        "CUDA",
+        "FlashAttention"
+      ],
+      "publishedAt": "2026-10-05T03:02:07+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "turbomail-ai-ai-email-that-lives-on-your-device-not-theirs",
+      "title": "Turbomail.ai – AI email that lives on your device, not theirs",
+      "dek": "Turbomail.ai is an AI-driven email tool that stays on your device, not on external servers.",
+      "aiSummary": "Turbomail.ai is an AI-powered email client that runs locally on your device, keeping data private. It processes emails on the device, avoiding sending data to external servers. This approach enhances privacy and reduces reliance on cloud services.",
+      "articleUrl": "https://turbomail.ai/",
+      "category": "AI",
+      "filterTags": [
+        "Turbomail.ai",
+        "AI",
+        "email client"
+      ],
+      "publishedAt": "2026-10-05T02:46:03+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Privacy"
+        },
+        {
+          "name": "Software"
+        }
+      ]
+    },
+    {
+      "slug": "optchat-an-endless-chat-where-the-ai-remembers-everything",
+      "title": "OptChat: An endless chat where the AI remembers everything",
+      "dek": "A new chat tool allows AI to retain all past conversation details.",
+      "aiSummary": "The provided text does not contain an article body, only a title. Therefore, no factual summary can be generated based on the description.",
+      "articleUrl": "https://gist.github.com/VictorTaelin/91837951a5ce5b38f341ec1ba1df6449",
+      "category": "AI",
+      "filterTags": [
+        "OptChat",
+        "AI"
+      ],
+      "publishedAt": "2026-10-05T02:44:17+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Productivity"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-fc695b3ea18cb62d839658fd919217227a919855",
+      "title": "trunk/fc695b3ea18cb62d839658fd919217227a919855",
+      "dek": "[MPS][Inductor] Include return variable in MetalOverrides.masked CSE …",
+      "aiSummary": "This commit updates the MPS Inductor component by adding a return variable to the MetalOverrides.masked CSE. The change likely improves the handling of masked computations in Metal overrides.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2Ffc695b3ea18cb62d839658fd919217227a919855",
+      "category": "Software Development",
+      "filterTags": [
+        "MPS",
+        "Inductor",
+        "MetalOverrides",
+        "CSE"
+      ],
+      "publishedAt": "2026-10-05T02:41:42+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Graphics"
+        },
+        {
+          "name": "Compiler"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-fd5304231b036842aedf9fa2e72d11df66dd8fee",
+      "title": "trunk/fd5304231b036842aedf9fa2e72d11df66dd8fee",
+      "dek": "[Check1:static check][2/7] Handle  fork / wait  in  export_opnames  (…",
+      "aiSummary": "The provided text identifies a specific commit hash and a static check task. The change involves modifying the export_opnames function to handle fork and wait operations.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2Ffd5304231b036842aedf9fa2e72d11df66dd8fee",
+      "category": "Software Development",
+      "filterTags": [
+        "export_opnames",
+        "fork",
+        "wait",
+        "static check"
+      ],
+      "publishedAt": "2026-10-05T02:37:31+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "System Programming"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-6fb6ef21931fa1be2b171f5f5542730663afcf86-fsdp2-join-pending-all-gather-with-device-stream-199677",
+      "title": "trunk/6fb6ef21931fa1be2b171f5f5542730663afcf86: [FSDP2] Join pending all-gather with device stream (#199677)",
+      "dek": "FSDPParamGroup.finalize_backward may clean up an all-gather launched by backward prefetch but never consumed. It recorded a device-specific event and waited through torch.accelerator.current_stream(), whose generic Stream.wait_event does not handle that device-specific event corr",
+      "aiSummary": "The patch addresses an issue where FSDPParamGroup.finalize_backward could clean up an all‑gather launched by backward prefetch that was never consumed. It recorded a device‑specific event and waited on torch.accelerator.current_stream(), but the generic Stream.wait_event does not support that event type. The change joins the pending all‑gather with the device stream to avoid unsupported waits.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F6fb6ef21931fa1be2b171f5f5542730663afcf86",
+      "category": "Machine Learning",
+      "filterTags": [
+        "FSDP2",
+        "FSDPParamGroup",
+        "torch",
+        "all-gather",
+        "Stream.wait_event"
+      ],
+      "publishedAt": "2026-10-05T02:35:46+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Distributed Computing"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "building-a-new-path-to-make-medicines-with-ai",
+      "title": "Building a new path to make medicines with AI",
+      "dek": "Creating a new method for developing drugs using artificial intelligence.",
+      "aiSummary": "The article discusses the development of a novel approach to drug discovery that leverages artificial intelligence. This new pathway aims to streamline or enhance the process of creating medicines.",
+      "articleUrl": "https://www.isomorphiclabs.com/articles/building-a-new-path-to-make-medicines-with-ai",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Drug Discovery",
+        "Medicines"
+      ],
+      "publishedAt": "2026-10-05T02:32:27+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Healthcare"
+        }
+      ]
+    },
+    {
+      "slug": "trump-unveils-super-intelligence-force-to-oversee-ai-policy",
+      "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+      "dek": "The president named his national intelligence chief as the taskforce's head as worries over AI grow.",
+      "aiSummary": "President Trump has established a 'Super Intelligence Force' to oversee AI policy. The national intelligence chief has been appointed to lead this taskforce amid increasing concerns regarding artificial intelligence.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+      "category": "AI",
+      "filterTags": [
+        "Trump",
+        "AI",
+        "National Intelligence"
+      ],
+      "publishedAt": "2026-10-05T02:32:21+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Government Policy"
+        }
+      ]
+    },
+    {
+      "slug": "asia-economies-among-most-at-risk-from-any-ai-correction-researchers-warn",
+      "title": "Asia Economies Among Most at Risk From any AI Correction, Researchers Warn",
+      "dek": "Southeast Asia plus China, Japan and South Korea are more at risk than most economies to any potential collapse in the artificial-intelligence boom, which could trigger shocks across financial markets and the real economy.",
+      "aiSummary": "Researchers warn that Southeast Asian economies, along with China, Japan, and South Korea, face higher risk from a possible AI market collapse. Such a downturn could cause shocks in financial markets and the broader economy.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-05/asia-economies-among-most-at-risk-from-any-ai-correction-researchers-warn",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Artificial Intelligence",
+        "AI"
+      ],
+      "publishedAt": "2026-10-05T02:30:00+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Economics"
+        },
+        {
+          "name": "Financial Markets"
+        }
+      ]
+    },
+    {
+      "slug": "softbank-s-masayoshi-son-has-rare-cautionary-note-on-ai-safety",
+      "title": "SoftBank’s Masayoshi Son Has Rare Cautionary Note on AI Safety",
+      "dek": "Speaking at a tech forum in Kyoto, Masayoshi Son called for global cooperation on AI safeguards, warning that superintelligence could pose a greater threat than conflict between humans if misused. Bloomberg tech editor Mayumi Negishi said the caution marks a notable shift in tone",
+      "aiSummary": "SoftBank's Masayoshi Son urged for global cooperation on AI safeguards during a tech forum in Kyoto, warning that misused superintelligence could be a greater threat than human conflict. Bloomberg tech editor Mayumi Negishi noted that this statement represents a significant shift in Son's typical tone.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-05/softbank-s-masayoshi-son-warns-on-ai-safety-video",
+      "category": "AI",
+      "filterTags": [
+        "SoftBank",
+        "Masayoshi Son",
+        "AI Safety",
+        "Superintelligence",
+        "Bloomberg"
+      ],
+      "publishedAt": "2026-10-05T02:05:14+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Technology Policy"
+        },
+        {
+          "name": "Corporate Leadership"
+        }
+      ]
+    },
+    {
+      "slug": "v1-13-0-dev33",
+      "title": "v1.13.0.dev33",
+      "dek": "Langflow nightly v1.13.0.dev33",
+      "aiSummary": "Langflow has released a new nightly build, version 1.13.0.dev33. This update likely includes bug fixes and new features for developers. The release is available for testing and feedback.",
+      "articleUrl": "https://github.com/langflow-ai/langflow/releases/tag/v1.13.0.dev33",
+      "category": "Software Development",
+      "filterTags": [
+        "Langflow"
+      ],
+      "publishedAt": "2026-10-05T02:02:48+00:00",
+      "publisher": {
+        "name": "langflow-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langflow-ai/langflow",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "can-an-open-model-do-security-research-cantina-s-apex-flash-1-solves-40-of-60-held-out-bug-tasks",
+      "title": "Can an Open Model Do Security Research? Cantina’s apex-flash-1 Solves 40 of 60 Held-Out Bug Tasks",
+      "dek": "Cantina Security, with Yeta Labs, has released apex-flash-1, an open-weights model trained specifically for vulnerability research. It is a reinforcement learning fine-tune of Z.ai’s GLM-5.3-Flash, released on Hugging Face under the MIT license. Is it deployable? Yes, the MIT wei",
+      "aiSummary": "Cantina Security and Yeta Labs released apex‑flash‑1, an open‑weights model fine‑tuned with reinforcement learning from Z.ai’s GLM‑5.3‑Flash. The model, available on Hugging Face under an MIT license, solves 40 of 60 held‑out bug tasks, showing it can be deployed for vulnerability research.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/04/can-an-open-model-do-security-research-cantinas-apex-flash-1-solves-40-of-60-held-out-bug-tasks/",
+      "category": "AI",
+      "filterTags": [
+        "Cantina Security",
+        "Yeta Labs",
+        "apex-flash-1",
+        "GLM-5.3-Flash",
+        "Z.ai",
+        "Hugging Face",
+        "MIT license",
+        "reinforcement learning"
+      ],
+      "publishedAt": "2026-10-05T01:47:28+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "v1-12-5",
+      "title": "v1.12.5",
+      "dek": "fix(ci): backport backend test metrics for release workflows",
+      "aiSummary": "The update fixes a continuous integration issue by backporting backend test metrics to support release workflows. This ensures that test metrics are available during release processes.",
+      "articleUrl": "https://github.com/langflow-ai/langflow/releases/tag/v1.12.5",
+      "category": "Software Development",
+      "filterTags": [
+        "CI",
+        "backend test metrics",
+        "release workflows",
+        "backport"
+      ],
+      "publishedAt": "2026-10-05T00:58:00+00:00",
+      "publisher": {
+        "name": "langflow-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langflow-ai/langflow",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Continuous Integration"
+        }
+      ]
+    },
+    {
+      "slug": "b11401",
+      "title": "b11401",
+      "dek": "log, server: self contained colors, split child commands from logs in router mode ( #29895 ) \n \n log, server: make router child lines carry their own colors \n \n The logger writes the color reset after the trailing newline, so the \nreset opens the next line. On the shared pipe of ",
+      "aiSummary": "The update modifies the logger and server to ensure self-contained colors and split child commands from logs in router mode. It addresses an issue where the color reset was written after the trailing newline, causing the reset to affect the next line on the shared pipe.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11401",
+      "category": "Software Development",
+      "filterTags": [
+        "logger",
+        "server",
+        "router",
+        "colors"
+      ],
+      "publishedAt": "2026-10-05T00:39:02+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "v0-40-0",
+      "title": "v0.40.0",
+      "dek": "What's Changed \n Models run on MLX on Apple Silicon by default \n In this release, on Apple Silicon devices, model architectures supported by the MLX runtime will automatically run on MLX. \n ollama pull qwen3.8\nollama run qwen3.8\n \n Additional models include  gemma4 ,  qwen3.6  an",
+      "aiSummary": "The v0.40.0 release enables models to run on the MLX runtime by default on Apple Silicon devices. This update also introduces support for additional models, including gemma4 and qwen3.6.",
+      "articleUrl": "https://github.com/ollama/ollama/releases/tag/v0.40.0-rc3",
+      "category": "AI",
+      "filterTags": [
+        "Ollama",
+        "MLX",
+        "Apple Silicon",
+        "gemma4",
+        "qwen3.6"
+      ],
+      "publishedAt": "2026-10-05T00:17:06+00:00",
+      "publisher": {
+        "name": "ollama",
+        "domain": "github.com",
+        "website": "https://github.com/ollama/ollama",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "b11400",
+      "title": "b11400",
+      "dek": "llama: support both embd + raw tokens in batch ( #29622 ) \n \n \n llama: support both embd + raw tokens in batch \n \n \n add to test-llama-archs \n \n \n also check case llm_arch_supports_mixed_batch = false \n \n \n constant graph topology \n \n \n have dedicated input for mixed case \n \n \n r",
+      "aiSummary": "The update adds support for batching both embedded and raw tokens in the llama model. It includes changes to the test-llama-archs suite and checks the llm_arch_supports_mixed_batch flag. The graph topology remains constant and a dedicated input is provided for mixed token cases.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11400",
+      "category": "AI",
+      "filterTags": [
+        "llama",
+        "embd",
+        "raw tokens",
+        "test-llama-archs",
+        "llm_arch_supports_mixed_batch"
+      ],
+      "publishedAt": "2026-10-05T00:06:48+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "david-ellison-s-plan-for-warner-bros-is-no-longer-a-secret",
+      "title": "David Ellison’s Plan for Warner Bros. Is No Longer a Secret",
+      "dek": "Ellison has to pay down billions in debt while also investing in a streaming build-out",
+      "aiSummary": "David Ellison's strategic plan for Warner Bros. is now public. The plan involves managing billions in debt while simultaneously investing in the expansion of streaming services.",
+      "articleUrl": "https://www.bloomberg.com/news/newsletters/2026-10-04/david-ellison-s-plan-for-warner-bros-is-no-longer-a-secret",
+      "category": "Media",
+      "filterTags": [
+        "David Ellison",
+        "Warner Bros.",
+        "Streaming"
+      ],
+      "publishedAt": "2026-10-04T22:05:01+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Media"
+        },
+        {
+          "name": "Entertainment"
+        },
+        {
+          "name": "Business Strategy"
+        }
+      ]
+    },
+    {
+      "slug": "gpt-6-astra-vs-gpt-6-1-sol-vs-gemini-4-argon-vs-claude-fable-5-1-which-frontier-model-fits-which-job",
+      "title": "GPT-6 Astra vs GPT-6.1 Sol vs Gemini 4 Argon vs Claude Fable 5.1: Which Frontier Model Fits Which Job",
+      "dek": "Astra leads computer use, Argon leads legal and finance work, and Sol wins on price for coding agents. \n The post  GPT-6 Astra vs GPT-6.1 Sol vs Gemini 4 Argon vs Claude Fable 5.1: Which Frontier Model Fits Which Job  appeared first on  MarkTechPost .",
+      "aiSummary": "The article compares GPT-6 Astra, GPT-6.1 Sol, Gemini 4 Argon, and Claude Fable 5.1 to identify their optimal use cases. It notes that Astra excels in computer use, Argon is superior for legal and finance work, and Sol offers the best price for coding agents.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/04/gpt-6-astra-vs-gpt-6-1-sol-vs-gemini-4-argon-vs-claude-fable-5-1-which-frontier-model-fits-which-job/",
+      "category": "AI",
+      "filterTags": [
+        "GPT-6 Astra",
+        "GPT-6.1 Sol",
+        "Gemini 4 Argon",
+        "Claude Fable 5.1",
+        "MarkTechPost"
+      ],
+      "publishedAt": "2026-10-04T20:59:56+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "LLMs"
+        },
+        {
+          "name": "Productivity"
+        }
+      ]
+    }
+  ]
+}
