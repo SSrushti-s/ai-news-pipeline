@@ -1,0 +1,610 @@
+{
+  "news": [
+    {
+      "slug": "trunk-77e2446a88a185f32ef15b71db95fd055e25ffda-dynamo-trace-torch-overrides-handle-torch-function-196055",
+      "title": "trunk/77e2446a88a185f32ef15b71db95fd055e25ffda: [dynamo] Trace torch.overrides.handle_torch_function (#196055)",
+      "dek": "torch.overrides.handle_torch_function  is how Python-level functions \nparticipate in  __torch_function__  dispatch. Dynamo tried to inline its body, \nwhich touches the C mode stack directly and fails. It is now a \n TorchInGraphFunctionVariable  whose handler forwards to \n dispatc",
+      "aiSummary": "PyTorch Dynamo previously attempted to inline the body of torch.overrides.handle_torch_function, which caused failures due to direct interaction with the C mode stack. The implementation has been updated to treat this function as a TorchInGraphFunctionVariable, allowing its handler to forward to dispatch correctly.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F77e2446a88a185f32ef15b71db95fd055e25ffda",
+      "category": "AI",
+      "filterTags": [
+        "PyTorch",
+        "Dynamo",
+        "torch.overrides",
+        "TorchInGraphFunctionVariable"
+      ],
+      "publishedAt": "2026-10-06T03:50:05+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Compiler"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-62cb5343e150e0cac2965f6ee3c0cf941511331c",
+      "title": "trunk/62cb5343e150e0cac2965f6ee3c0cf941511331c",
+      "dek": "[dynamo] Run graphs that inlined a TorchFunctionMode with torch funct…",
+      "aiSummary": "The update modifies the Dynamo component to support the execution of graphs where a TorchFunctionMode has been inlined. This change specifically enables the use of torch functions within these inlined contexts.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F62cb5343e150e0cac2965f6ee3c0cf941511331c",
+      "category": "Machine Learning",
+      "filterTags": [
+        "Dynamo",
+        "TorchFunctionMode",
+        "PyTorch"
+      ],
+      "publishedAt": "2026-10-06T03:50:05+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Compiler Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-7426ac4a55e0033df9710d4b37a37d51908c1e31",
+      "title": "trunk/7426ac4a55e0033df9710d4b37a37d51908c1e31",
+      "dek": "[Inductor] Match eager sigmoid forward numerics in strict modes ( #199 …",
+      "aiSummary": "The update modifies the Inductor compiler to match the numerical results of the eager sigmoid forward pass when strict modes are enabled. This change is part of pull request #199.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F7426ac4a55e0033df9710d4b37a37d51908c1e31",
+      "category": "Machine Learning",
+      "filterTags": [
+        "Inductor",
+        "PyTorch",
+        "sigmoid",
+        "strict modes"
+      ],
+      "publishedAt": "2026-10-06T03:37:57+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Compiler Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "how-to-use-filtering-in-messages-on-ios-27",
+      "title": "How to use filtering in Messages on iOS 27",
+      "dek": "If your Messages inbox is catching a lot of stray, unwanted messages, we'll show you how to filter, report, and block spam messages on  iOS 27 . Learn how to filter, report, and block messages on iPhone At  WWDC  2025, Apple announced that it would be bringing enhanced message fi",
+      "aiSummary": "Apple announced at WWDC 2025 that it will introduce enhanced message filtering capabilities in iOS 27. The update is designed to help users filter, report, and block spam messages to reduce unwanted notifications in their inboxes.",
+      "articleUrl": "https://appleinsider.com/inside/ios-26/tips/how-to-use-filtering-in-messages-on-ios-26?utm_source=rss",
+      "category": "Mobile",
+      "filterTags": [
+        "iOS 27",
+        "Apple",
+        "WWDC 2025",
+        "Messages",
+        "Spam Filtering"
+      ],
+      "publishedAt": "2026-10-06T02:54:55+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Mobile"
+        },
+        {
+          "name": "Consumer Tech"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "ai-opportunity-scan",
+      "title": "AI Opportunity Scan",
+      "dek": "A review of potential opportunities in the artificial intelligence sector.",
+      "aiSummary": "The provided text does not contain any article body or description to summarize. Only the title 'AI Opportunity Scan' is available, which suggests a focus on identifying prospects within the AI field, but no specific facts or details are present in the source material.",
+      "articleUrl": "https://msa-mail.com/ai-scan/",
+      "category": "AI",
+      "filterTags": [
+        "AI"
+      ],
+      "publishedAt": "2026-10-06T02:45:53+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "second-october-event-possible-with-new-macs-as-the-focus",
+      "title": "Second October 'event' possible with new Macs as the focus",
+      "dek": "Apple already has an unannounced product reveal expected on October 13 and rumors suggest a second round of releases could occur by the end of the month. New MacBook Pro models are expected soon It is gearing up to be a very busy October for Apple, as  iPhone Duo  ships,  Apple H",
+      "aiSummary": "Apple is expected to host a second product reveal event by the end of October, following an already scheduled announcement on October 13. This additional event is rumored to focus on the release of new MacBook Pro models.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/06/second-october-event-possible-with-new-macs-as-the-focus?utm_source=rss",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Apple",
+        "MacBook Pro",
+        "iPhone Duo"
+      ],
+      "publishedAt": "2026-10-06T02:45:04+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "us-senator-mccormick-on-us-japan-investment-opportunities",
+      "title": "US Senator McCormick on US-Japan Investment Opportunities",
+      "dek": "US Republican Senator for Pennsylvania, Dave McCormick, discusses his visit to Japan, as he leads a delegation to discuss bilateral investment opportunities, after the US and Japan reached a $500B investment trade deal earlier this year.\nHe speaks with Shery Ahn on \"Bloomberg: Th",
+      "aiSummary": "US Senator Dave McCormick discusses his recent visit to Japan, where he led a delegation to explore bilateral investment opportunities. This trip follows a $500 billion investment trade deal reached between the US and Japan earlier in the year.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-06/us-senator-mccormick-on-us-japan-investment-outlook-video",
+      "category": "Geopolitics",
+      "filterTags": [
+        "Dave McCormick",
+        "Japan",
+        "Bloomberg",
+        "Trade Deal"
+      ],
+      "publishedAt": "2026-10-06T02:26:40+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Geopolitics"
+        },
+        {
+          "name": "International Trade"
+        },
+        {
+          "name": "Investment"
+        }
+      ]
+    },
+    {
+      "slug": "ask-hn-what-do-you-think-about-ai-generated-slides-for-conferences",
+      "title": "Ask HN: What do you think about AI generated slides for conferences?",
+      "dek": "What are your opinions on using AI to create presentation slides for conferences?",
+      "aiSummary": "The provided text contains only a question asking for opinions on AI-generated conference slides. No additional factual details, arguments, or context are included in the source material.",
+      "articleUrl": "https://news.ycombinator.com/item?id=49973382",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Conferences",
+        "Slides"
+      ],
+      "publishedAt": "2026-10-06T02:16:24+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Productivity"
+        }
+      ]
+    },
+    {
+      "slug": "higgsfield-ceo-on-growth-1b-run-rate",
+      "title": "Higgsfield CEO on Growth, $1B Run-rate",
+      "dek": "Alex Mashrabov, CEO of Video AI Start up Higgsfield, discusses the company's path to achieving generate annualised revenue of more than $1 billion, based on current performance.\nHe also discusses the company's growth and business strategies for APAC markets.\nHe speaks exclusively",
+      "aiSummary": "Alex Mashrabov, CEO of video AI startup Higgsfield, discusses the company's trajectory toward generating over $1 billion in annualized revenue based on current performance. He also outlines the firm's growth and business strategies specifically targeting APAC markets.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-06/higgsfield-ceo-on-growth-1b-run-rate-video",
+      "category": "AI",
+      "filterTags": [
+        "Higgsfield",
+        "Alex Mashrabov",
+        "Video AI",
+        "APAC"
+      ],
+      "publishedAt": "2026-10-06T02:13:03+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Business Strategy"
+        }
+      ]
+    },
+    {
+      "slug": "v0-40-0",
+      "title": "v0.40.0",
+      "dek": "What's Changed \n Models run on MLX on Apple Silicon by default \n In this release, on Apple Silicon devices, model architectures supported by the MLX runtime will automatically run on MLX. \n ollama pull qwen3.8\nollama run qwen3.8\n \n Additional models include  gemma4 ,  qwen3.6  an",
+      "aiSummary": "The v0.40.0 release enables models to run on the MLX runtime by default on Apple Silicon devices. This update also introduces support for additional models, including gemma4 and qwen3.6.",
+      "articleUrl": "https://github.com/ollama/ollama/releases/tag/v0.40.0-rc5",
+      "category": "AI",
+      "filterTags": [
+        "Ollama",
+        "MLX",
+        "Apple Silicon",
+        "gemma4",
+        "qwen3.6"
+      ],
+      "publishedAt": "2026-10-06T01:53:06+00:00",
+      "publisher": {
+        "name": "ollama",
+        "domain": "github.com",
+        "website": "https://github.com/ollama/ollama",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "ai-video-startup-kling-picks-banks-for-1-billion-plus-ipo",
+      "title": "AI Video Startup Kling Picks Banks for $1 Billion-Plus IPO",
+      "dek": "Kuaishou Technology’s Kling AI has picked banks for a Hong Kong initial public offering that could raise at least $1 billion, according to people familiar with the matter.",
+      "aiSummary": "Kling AI, a subsidiary of Kuaishou Technology, has chosen banks to facilitate a Hong Kong initial public offering. The listing is expected to raise at least $1 billion.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-06/china-ai-video-startup-kling-picks-banks-for-1-billion-plus-ipo",
+      "category": "AI",
+      "filterTags": [
+        "Kling AI",
+        "Kuaishou Technology",
+        "IPO",
+        "Hong Kong"
+      ],
+      "publishedAt": "2026-10-06T01:52:08+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "show-hn-ai-agents-zero-to-hero-learn-ai-agents-from-scratch-in-pure-python",
+      "title": "Show HN: AI Agents: Zero to Hero – Learn AI Agents from Scratch in Pure Python",
+      "dek": "Learn how to build AI agents from scratch using only Python.",
+      "aiSummary": "",
+      "articleUrl": "https://github.com/tradertanmay/ai-agents-zero-to-hero",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AI Agents",
+        "Python"
+      ],
+      "publishedAt": "2026-10-06T01:49:42+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Programming"
+        },
+        {
+          "name": "Education"
+        }
+      ]
+    },
+    {
+      "slug": "v1-13-0-dev34",
+      "title": "v1.13.0.dev34",
+      "dek": "Langflow nightly v1.13.0.dev34",
+      "aiSummary": "Langflow has released version 1.13.0.dev34. This update is part of the project's nightly development cycle.",
+      "articleUrl": "https://github.com/langflow-ai/langflow/releases/tag/v1.13.0.dev34",
+      "category": "AI",
+      "filterTags": [
+        "Langflow"
+      ],
+      "publishedAt": "2026-10-06T01:19:38+00:00",
+      "publisher": {
+        "name": "langflow-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langflow-ai/langflow",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-tells-ai-inquiry-it-never-tried-to-dictate-australian-copyright-rules",
+      "title": "Anthropic tells AI inquiry it ‘never tried to dictate’ Australian copyright rules",
+      "dek": "OpenAI acknowledges ‘more work to do to rebuild trust with the Australian people’ as ABC says copyright laws do not need changing Get our  breaking news email ,  free app  or  daily news podcast Anthropic has told a parliamentary inquiry on AI that it is not seeking to dictate co",
+      "aiSummary": "Anthropic told a parliamentary inquiry that it has never tried to dictate Australian copyright rules. OpenAI said it still needs to rebuild trust with Australians, while ABC argues that copyright laws need not be changed.",
+      "articleUrl": "https://www.theguardian.com/media/2026/oct/06/openai-australia-parliament-inquiry-jason-kwon",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "OpenAI",
+        "ABC"
+      ],
+      "publishedAt": "2026-10-06T00:53:48+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Intellectual Property"
+        },
+        {
+          "name": "Policy"
+        }
+      ]
+    },
+    {
+      "slug": "b11434-hexagon-ssm-conv-updates-29971",
+      "title": "b11434: hexagon: ssm-conv updates (#29971)",
+      "dek": "hexagon: ssm-conv double-buffered DMA for prefill and decode restructuring \n \n \n hex-ssm-conv: remove divs from loops and fix trace events \n \n \n hex-dma: improved SSM_CONV dma pipeline and streamlined dma_queue \n \n \n \n Co-authored-by: Max Krasnyansky  maxk@qti.qualcomm.com",
+      "aiSummary": "The update introduces double-buffered DMA for prefill and decode phases in the Hexagon SSM convolution implementation. It also removes divisions from loops, fixes trace events, and improves the SSM_CONV DMA pipeline while streamlining the dma_queue.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11434",
+      "category": "Hardware",
+      "filterTags": [
+        "Hexagon",
+        "SSM-conv",
+        "DMA",
+        "Qualcomm"
+      ],
+      "publishedAt": "2026-10-06T00:42:40+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Performance Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "v0-40-0-rc4-mlx-version-bump-18720",
+      "title": "v0.40.0-rc4: MLX: version bump (#18720)",
+      "dek": "MLX: version bump \n \n \n add scopes for unit tests to reduce memory usage",
+      "aiSummary": "The update bumps MLX to version 0.40.0-rc4. It adds scopes for unit tests to reduce memory usage.",
+      "articleUrl": "https://github.com/ollama/ollama/releases/tag/v0.40.0-rc4",
+      "category": "Software Development",
+      "filterTags": [
+        "MLX"
+      ],
+      "publishedAt": "2026-10-06T00:41:51+00:00",
+      "publisher": {
+        "name": "ollama",
+        "domain": "github.com",
+        "website": "https://github.com/ollama/ollama",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Testing"
+        }
+      ]
+    },
+    {
+      "slug": "quoting-felix-rieseberg",
+      "title": "Quoting Felix Rieseberg",
+      "dek": "The \"old\" version of Cowork runs model inference in the cloud, executing tool calls in an Anthropic-provided VM we shipped to your computer. We added the VM for capability, safety, and security reasons - mapping in just the data you explicitly added to your session. People loved ",
+      "aiSummary": "The older Cowork version performed model inference in the cloud and executed tool calls in an Anthropic-provided virtual machine that was shipped to the user’s computer. The VM was added to improve capability, safety, and security by mapping only the data explicitly added to the session. Users responded positively.",
+      "articleUrl": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
+      "category": "AI",
+      "filterTags": [
+        "Cowork",
+        "Anthropic",
+        "VM"
+      ],
+      "publishedAt": "2026-10-05T23:56:47+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Cloud Computing"
+        }
+      ]
+    },
+    {
+      "slug": "meet-together-link-a-free-cli-that-runs-open-models-like-kimi-k3-and-glm-5-3-inside-claude-code-codex-and-opencode",
+      "title": "Meet Together Link: A Free CLI That Runs Open Models Like Kimi K3 and GLM 5.3 Inside Claude Code, Codex, and OpenCode",
+      "dek": "Together AI has released Together Link, a free, MIT-licensed CLI that connects Claude Code, Codex, OpenCode, Pi, and the Claude and ChatGPT desktop apps to open models like Kimi K3 and GLM 5.3. One install command sets it up, and an Auto router picks a model for each session. Tog",
+      "aiSummary": "Together AI has launched Together Link, a free and MIT-licensed command-line interface that integrates open models such as Kimi K3 and GLM 5.3 into platforms like Claude Code, Codex, and OpenCode. The tool requires a single installation command and features an Auto router that automatically selects the appropriate model for each user session.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/05/meet-together-link-a-free-cli-that-runs-open-models-like-kimi-k3-and-glm-5-3-inside-claude-code-codex-and-opencode/",
+      "category": "AI",
+      "filterTags": [
+        "Together AI",
+        "Together Link",
+        "CLI",
+        "Kimi K3",
+        "GLM 5.3",
+        "Claude Code",
+        "Codex",
+        "OpenCode",
+        "MIT License"
+      ],
+      "publishedAt": "2026-10-05T22:51:05+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Developer Tools"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    }
+  ]
+}
