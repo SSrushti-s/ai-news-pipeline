@@ -1,0 +1,1699 @@
+{
+  "news": [
+    {
+      "slug": "v0-40-1-rc0",
+      "title": "v0.40.1-rc0",
+      "dek": "mlx: drop carried metal residency patch now that it is upstream ( #18854 )",
+      "aiSummary": "The v0.40.1-rc0 release removes a carried Metal residency patch from the MLX component. This change is made because the patch has been merged into the upstream codebase, as detailed in pull request #18854.",
+      "articleUrl": "https://github.com/ollama/ollama/releases/tag/v0.40.1-rc0",
+      "category": "Hardware",
+      "filterTags": [
+        "MLX",
+        "Metal",
+        "v0.40.1-rc0"
+      ],
+      "publishedAt": "2026-10-07T22:22:54+00:00",
+      "publisher": {
+        "name": "ollama",
+        "domain": "github.com",
+        "website": "https://github.com/ollama/ollama",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "v0-39-2",
+      "title": "v0.39.2",
+      "dek": "ComfyUI v0.39.2",
+      "aiSummary": "The provided text indicates the release of ComfyUI version 0.39.2. No additional details regarding specific features, bug fixes, or changes are included in the snippet.",
+      "articleUrl": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.39.2",
+      "category": "AI",
+      "filterTags": [
+        "ComfyUI"
+      ],
+      "publishedAt": "2026-10-07T21:58:07+00:00",
+      "publisher": {
+        "name": "comfyanonymous",
+        "domain": "github.com",
+        "website": "https://github.com/comfyanonymous/ComfyUI",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones",
+      "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
+      "dek": "Opus-built Creative Cloud alternatives are ambitious, free, and nowhere near finished.",
+      "aiSummary": "A developer has launched open-source alternatives to Adobe Creative Cloud applications, asserting that traditional software is becoming obsolete. These tools, built with the assistance of the Opus AI model, are currently free but remain unfinished and ambitious in scope.",
+      "articleUrl": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
+      "category": "AI",
+      "filterTags": [
+        "Adobe",
+        "Opus",
+        "Open Source",
+        "Creative Cloud"
+      ],
+      "publishedAt": "2026-10-07T21:56:42+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software"
+        }
+      ]
+    },
+    {
+      "slug": "managers-are-using-ai-to-write-performance-reviews-and-it-shows",
+      "title": "Managers are using AI to write performance reviews – and it shows",
+      "dek": "Does AI use help or hurt feedback at work? Here’s what one survey found.",
+      "aiSummary": "The article investigates whether the use of AI in writing performance reviews improves or damages workplace feedback. It presents findings from a survey that examines the impact of this practice on the quality of employee evaluations.",
+      "articleUrl": "https://www.zdnet.com/innovation/manager-ai-use-highwire-survey/",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Performance Reviews",
+        "Workplace Feedback"
+      ],
+      "publishedAt": "2026-10-07T21:47:48+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Human Resources"
+        }
+      ]
+    },
+    {
+      "slug": "tim-cook-elton-john-king-charles-launch-apple-x-king-s-trust-creative-labs",
+      "title": "Tim Cook, Elton John, King Charles launch Apple x King's Trust Creative Labs",
+      "dek": "Tim Cook , Elton John, and King Charles showed up to Apple Music Hall to meet the young people participating in the newly launched Apple x King's Trust Creative Labs. Elton John, King Charles, Tim Cook, and Skye Newman with Creative Labs participants. Image source: Apple Apple of",
+      "aiSummary": "Tim Cook, Elton John, and King Charles attended the Apple Music Hall to meet young participants in the newly launched Apple x King's Trust Creative Labs. The event marked the official start of this initiative, which brings together Apple and the King's Trust to support creative development among young people.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/07/apple-x-kings-trust-creative-labs-launch-with-star-studded-meet-and-greet?utm_source=rss",
+      "category": "Corporate Social Responsibility",
+      "filterTags": [
+        "Apple",
+        "King's Trust",
+        "Apple Music Hall"
+      ],
+      "publishedAt": "2026-10-07T21:43:32+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Corporate Social Responsibility"
+        },
+        {
+          "name": "Entertainment"
+        },
+        {
+          "name": "Education"
+        }
+      ]
+    },
+    {
+      "slug": "trump-awarding-medals-to-musk-dell-nadella-and-other-tech-execs-at-science-summit",
+      "title": "Trump awarding medals to Musk, Dell, Nadella and other tech execs at science summit",
+      "dek": "President Trump is giving awards to a number of top tech executives at a summit on Thursday.",
+      "aiSummary": "President Trump is set to present awards to several prominent technology executives, including Elon Musk, Michael Dell, and Satya Nadella. These honors will be given during a summit taking place on Thursday.",
+      "articleUrl": "https://www.cnbc.com/2026/10/07/trump-awarding-medals-to-musk-dell-nadella-at-science-summit.html",
+      "category": "Politics",
+      "filterTags": [
+        "Trump",
+        "Musk",
+        "Dell",
+        "Nadella",
+        "Tech Executives"
+      ],
+      "publishedAt": "2026-10-07T21:32:55+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "lathe-ai-workspace-for-hardware-design",
+      "title": "Lathe: AI Workspace for Hardware Design",
+      "dek": "A new AI tool is designed to help with creating hardware designs.",
+      "aiSummary": "The provided text does not contain a description or body content for the article. It only lists the title 'Lathe: AI Workspace for Hardware Design'.",
+      "articleUrl": "https://www.lathelab.com/",
+      "category": "AI",
+      "filterTags": [
+        "Lathe",
+        "Hardware Design",
+        "AI"
+      ],
+      "publishedAt": "2026-10-07T21:32:49+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "v1-105-0-rc-2",
+      "title": "v1.105.0-rc.2",
+      "dek": "Verify Docker Image Signature \n All LiteLLM Docker images are signed with  cosign . Every release is signed with the same key introduced in  commit  0112e53 . \n Verify using the pinned commit hash (recommended): \n A commit hash is cryptographically immutable, so this is the stron",
+      "aiSummary": "LiteLLM has released version 1.105.0-rc.2, which includes signed Docker images using cosign. The release documentation recommends verifying the image signature using a pinned commit hash to ensure cryptographic immutability and security.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.105.0-rc.2",
+      "category": "DevOps",
+      "filterTags": [
+        "LiteLLM",
+        "Docker",
+        "cosign"
+      ],
+      "publishedAt": "2026-10-07T21:28:51+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "broadcom-plans-50-billion-financing-for-openai-chips-wsj-says",
+      "title": "Broadcom Plans $50 Billion Financing for OpenAI Chips, WSJ Says",
+      "dek": "Broadcom Inc. is arranging more than $50 billion in financing for the custom artificial intelligence chip it’s developing with OpenAI, part of a surge in deals to pay for AI infrastructure, the Wall Street Journal reported.",
+      "aiSummary": "Broadcom is arranging over $50 billion in financing for a custom AI chip developed in partnership with OpenAI. This move is part of a broader trend of large-scale deals aimed at funding AI infrastructure, according to the Wall Street Journal.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-07/broadcom-plans-50-billion-financing-for-openai-chips-wsj-says",
+      "category": "AI",
+      "filterTags": [
+        "Broadcom",
+        "OpenAI",
+        "AI chips",
+        "Wall Street Journal"
+      ],
+      "publishedAt": "2026-10-07T21:25:00+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "man-took-his-own-life-after-sextortion-blackmail-involving-ai-generated-woman",
+      "title": "Man took his own life after 'sextortion' blackmail involving AI-generated woman",
+      "dek": "A man died by suicide after being blackmailed with AI-generated images of a woman.",
+      "aiSummary": "A man took his own life following a sextortion blackmail scheme. The extortion involved the use of AI-generated images of a woman to threaten the victim.",
+      "articleUrl": "https://www.rnz.co.nz/news/crime-and-justice/1787553/man-took-his-own-life-after-paying-money-to-sextortion-blackmail-involving-ai-generated-woman",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "sextortion",
+        "blackmail"
+      ],
+      "publishedAt": "2026-10-07T21:22:14+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Cybercrime"
+        }
+      ]
+    },
+    {
+      "slug": "apollo-banks-in-talks-to-finance-spacex-s-40-billion-nvidia-gpu-purchase",
+      "title": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase",
+      "dek": "Since SpaceX's record-breaking IPO in June, rates have sold off, and yields on its bonds have risen, along with other AI-related bonds.",
+      "aiSummary": "Apollo and banks are in discussions to finance SpaceX's $40 billion purchase of Nvidia GPUs. Since SpaceX's record-breaking IPO in June, interest rates have risen, causing yields on its bonds and other AI-related bonds to increase.",
+      "articleUrl": "https://www.cnbc.com/2026/10/07/spacex-nvidia-chips-apollo-financing.html",
+      "category": "Finance",
+      "filterTags": [
+        "Apollo",
+        "SpaceX",
+        "Nvidia",
+        "GPU",
+        "IPO",
+        "Bonds"
+      ],
+      "publishedAt": "2026-10-07T21:16:24+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Space"
+        }
+      ]
+    },
+    {
+      "slug": "show-hn-chloe-is-a-typescript-ai-agent",
+      "title": "Show HN: Chloe is a TypeScript AI agent",
+      "dek": "Chloe is an AI agent built with TypeScript.",
+      "aiSummary": "The article introduces Chloe, an AI agent developed using TypeScript. It is presented as a project shared on the Hacker News platform.",
+      "articleUrl": "https://chloejs.org/compare",
+      "category": "AI",
+      "filterTags": [
+        "TypeScript",
+        "AI Agent",
+        "Chloe"
+      ],
+      "publishedAt": "2026-10-07T21:12:23+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "ai-upends-singapore-s-quant-olympics",
+      "title": "AI upends Singapore’s ‘quant Olympics’",
+      "dek": "Nigerian student Victor Ayebameru takes first place in competition that identifies future hedge fund stars",
+      "aiSummary": "Nigerian student Victor Ayebameru secured first place in a competition designed to identify future hedge fund talent. The event, often referred to as the 'quant Olympics,' has been significantly impacted by the rise of artificial intelligence.",
+      "articleUrl": "https://www.ft.com/content/ec8b74b6-0cf7-4ded-abd4-85bde8a80df4?syn-25a6b1a6=1",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Hedge Fund",
+        "Quantitative Finance",
+        "Singapore"
+      ],
+      "publishedAt": "2026-10-07T21:00:03+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "us-agrees-to-loan-for-chipmaker-that-went-bankrupt-last-year",
+      "title": "US Agrees to Loan for Chipmaker That Went Bankrupt Last Year",
+      "dek": "The US Defense Department pledged to issue a conditional loan to Wolfspeed Inc., the chipmaker that filed for bankruptcy last year, for as much as $1.5 billion to support the development of materials that the firm described as key to national security.",
+      "aiSummary": "The U.S. Defense Department has pledged a conditional loan of up to $1.5 billion to Wolfspeed Inc., a chipmaker that filed for bankruptcy last year. The loan will help develop materials the company says are vital for national security.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-07/us-agrees-to-loan-for-chipmaker-that-went-bankrupt-last-year",
+      "category": "Defense",
+      "filterTags": [
+        "Wolfspeed",
+        "US Defense Department",
+        "chipmaker",
+        "bankruptcy",
+        "national security"
+      ],
+      "publishedAt": "2026-10-07T20:59:55+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Defense"
+        },
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "National Security"
+        }
+      ]
+    },
+    {
+      "slug": "apple-home-second-party-partnerships-include-more-than-just-lg",
+      "title": "Apple Home second-party partnerships include more than just LG",
+      "dek": "An entirely new category of \"second-party\"  Apple Home  accessories could be on the way with LG and Schneider as the starting partners. New Apple Home accessories could target Apple's features, specifically A rumor of an  unusual partnership  between LG and Apple surfaced Tuesday",
+      "aiSummary": "Apple Home is exploring a new category of second‑party accessories, with LG and Schneider as initial partners. The accessories are expected to target Apple’s features, and a rumor of an unusual partnership between LG and Apple surfaced on Tuesday.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/07/apple-home-second-party-partnerships-include-more-than-just-lg?utm_source=rss",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Apple",
+        "LG",
+        "Schneider",
+        "Apple Home"
+      ],
+      "publishedAt": "2026-10-07T20:59:45+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Smart Home"
+        },
+        {
+          "name": "Partnerships"
+        }
+      ]
+    },
+    {
+      "slug": "claude-haiku-5-5",
+      "title": "Claude Haiku 5.5",
+      "dek": "As previously  promised , here's Anthropic's new fast, low cost model:  Introducing Claude Haiku 5.5 . \n The previous Haiku, 4.5, was very much showing its age. It came out  almost a year ago , and was priced at $1/million input and $5/million output - relatively expensive even b",
+      "aiSummary": "Anthropic has introduced Claude Haiku 5.5, a new fast and low-cost model. The previous version, Haiku 4.5, was released nearly a year ago and was considered relatively expensive at $1 per million input tokens and $5 per million output tokens.",
+      "articleUrl": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "Claude Haiku 5.5",
+        "LLM"
+      ],
+      "publishedAt": "2026-10-07T20:56:21+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users",
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "dek": "The developer of Hermes Agent raised a $90 million Series B.",
+      "aiSummary": "Nous Research, the developer of Hermes Agent, raised $90 million in a Series B round. The funding confirms a $1.5 billion valuation and the launch of AI agents for business users.",
+      "articleUrl": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Nous Research",
+        "Hermes Agent",
+        "Series B",
+        "AI agents"
+      ],
+      "publishedAt": "2026-10-07T20:48:45+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "FinTech"
+        },
+        {
+          "name": "Startup"
+        }
+      ]
+    },
+    {
+      "slug": "part-3-knowing-when-your-agent-doesn-t-know-the-confidence-layer",
+      "title": "Part 3: Knowing when your agent doesn’t know: the confidence layer",
+      "dek": "Understanding how to detect when an AI agent is uncertain through a confidence mechanism.",
+      "aiSummary": "The article discusses the implementation of a confidence layer to help determine when an AI agent lacks sufficient knowledge. It focuses on the third part of a series, detailing methods for assessing the certainty of an agent's responses.",
+      "articleUrl": "https://stackoverflow.blog/2026/10/07/part-3-knowing-when-your-agent-doesn-t-know-the-confidence-layer/",
+      "category": "AI",
+      "filterTags": [
+        "AI Agents",
+        "Confidence Layer",
+        "LLM"
+      ],
+      "publishedAt": "2026-10-07T20:40:29+00:00",
+      "publisher": {
+        "name": "Stack Overflow Blog",
+        "domain": "stackoverflow.blog",
+        "website": "https://stackoverflow.blog",
+        "logoUrl": "https://stackoverflow.blog/apple-touch-icon.png",
+        "faviconUrl": "https://stackoverflow.blog/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "openai-says-teen-chatgpt-use-limited-but-research-finds-it-an-unacceptable-risk",
+      "title": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
+      "dek": "The research found that important guardrails for teens using ChatGPT often failed.",
+      "aiSummary": "A study revealed that key safety measures for teenagers using ChatGPT frequently broke down. This suggests that the platform may pose significant risks to young users.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o?at_medium=RSS&at_campaign=rss",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "OpenAI",
+        "ChatGPT"
+      ],
+      "publishedAt": "2026-10-07T20:34:17+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Education"
+        }
+      ]
+    },
+    {
+      "slug": "part-2-evals-as-a-deployment-gate-and-how-to-know-when-they-drift",
+      "title": "Part 2: Evals as a deployment gate — and how to know when they drift",
+      "dek": "Part 2: Using evaluations as a gate for deployment and spotting when they change.",
+      "aiSummary": "",
+      "articleUrl": "https://stackoverflow.blog/2026/10/07/evals-as-a-deployment-gate-and-how-to-know-when-they-drift/",
+      "category": "AI",
+      "filterTags": [],
+      "publishedAt": "2026-10-07T20:31:12+00:00",
+      "publisher": {
+        "name": "Stack Overflow Blog",
+        "domain": "stackoverflow.blog",
+        "website": "https://stackoverflow.blog",
+        "logoUrl": "https://stackoverflow.blog/apple-touch-icon.png",
+        "faviconUrl": "https://stackoverflow.blog/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "microsoft-to-sell-2-599-surface-laptop-ultra-containing-nvidia-ai-chip",
+      "title": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
+      "dek": "The new device shows Microsoft remains committed to making its own PCs even though it's not one of the top device makers.",
+      "aiSummary": "Microsoft is set to release the Surface Laptop Ultra, a premium device priced at $2,599 that features an Nvidia AI chip. This launch demonstrates the company's continued commitment to manufacturing its own personal computers, despite not being a top-tier device maker.",
+      "articleUrl": "https://www.cnbc.com/2026/10/07/microsoft-starts-taking-preorders-for-2599-surface-laptop-ultra.html",
+      "category": "Hardware",
+      "filterTags": [
+        "Microsoft",
+        "Nvidia",
+        "Surface Laptop Ultra",
+        "AI chip"
+      ],
+      "publishedAt": "2026-10-07T20:26:13+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "langchain-fireworks-1-7-1",
+      "title": "langchain-fireworks==1.7.1",
+      "dek": "Changes since langchain-fireworks==1.7.0 \n release(fireworks): 1.7.1 ( #41137 ) \nfix(fireworks): preserve reasoning in streaming and tool loops ( #41093 ) \nchore(deps): bump langgraph-sdk from 0.4.4 to 0.4.6 in /libs/partners/fireworks ( #41100 ) \nchore(deps): bump langgraph-sdk ",
+      "aiSummary": "The 1.7.1 release of langchain-fireworks adds a fix that preserves reasoning during streaming and tool loops, and bumps the langgraph-sdk dependency to 0.4.6 in the fireworks partner library.",
+      "articleUrl": "https://github.com/langchain-ai/langchain/releases/tag/langchain-fireworks%3D%3D1.7.1",
+      "category": "AI",
+      "filterTags": [
+        "langchain-fireworks",
+        "langgraph-sdk",
+        "fireworks"
+      ],
+      "publishedAt": "2026-10-07T20:24:37+00:00",
+      "publisher": {
+        "name": "langchain-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langchain-ai/langchain",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11",
+      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "dek": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+      "aiSummary": "Microsoft announced the Surface Laptop Ultra, a new line of AI PCs that use Nvidia chips designed for running AI models and agents. The company also disclosed the device's specifications and price.",
+      "articleUrl": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "category": "Hardware",
+      "filterTags": [
+        "Microsoft",
+        "Nvidia",
+        "Surface Laptop Ultra",
+        "Windows 11"
+      ],
+      "publishedAt": "2026-10-07T20:22:37+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Operating Systems"
+        }
+      ]
+    },
+    {
+      "slug": "does-better-work-always-mean-better-workers",
+      "title": "Does better work always mean better workers?",
+      "dek": "Is higher quality work always a sign of better employees?",
+      "aiSummary": "The provided text does not contain an article body, only a title. Therefore, no factual summary can be generated based on the content.",
+      "articleUrl": "https://research.google/blog/does-better-work-always-mean-better-workers/",
+      "category": "Workplace",
+      "filterTags": [],
+      "publishedAt": "2026-10-07T20:19:57+00:00",
+      "publisher": {
+        "name": "Google Research",
+        "domain": "research.google",
+        "website": "https://research.google/",
+        "logoUrl": "https://www.gstatic.com/images/branding/googleg_gradient/1x/googleg_gradient_standard_20dp.png",
+        "faviconUrl": "https://www.gstatic.com/images/branding/googleg_gradient/1x/googleg_gradient_standard_20dp.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Workplace"
+        },
+        {
+          "name": "Human Resources"
+        }
+      ]
+    },
+    {
+      "slug": "v1-104-1",
+      "title": "v1.104.1",
+      "dek": "Verify Docker Image Signature \n All LiteLLM Docker images are signed with  cosign . Every release is signed with the same key introduced in  commit  0112e53 . \n Verify using the pinned commit hash (recommended): \n A commit hash is cryptographically immutable, so this is the stron",
+      "aiSummary": "LiteLLM Docker images are signed with cosign. Each release uses the same signing key introduced in commit 0112e53. Verification is recommended using the pinned commit hash, which is cryptographically immutable.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.104.1",
+      "category": "Security",
+      "filterTags": [
+        "cosign",
+        "LiteLLM",
+        "Docker"
+      ],
+      "publishedAt": "2026-10-07T20:17:52+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Containerization"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "part-1-make-your-ai-agents-boring-the-determinism-layer",
+      "title": "Part 1: Make your AI agents boring: the determinism layer",
+      "dek": "Part 1: How to make your AI agents more predictable by adding a determinism layer.",
+      "aiSummary": "No article content was provided. Therefore, no summary can be generated.",
+      "articleUrl": "https://stackoverflow.blog/2026/10/07/part-1-make-your-ai-agents-boring-the-determinism-layer/",
+      "category": "AI",
+      "filterTags": [],
+      "publishedAt": "2026-10-07T20:14:49+00:00",
+      "publisher": {
+        "name": "Stack Overflow Blog",
+        "domain": "stackoverflow.blog",
+        "website": "https://stackoverflow.blog",
+        "logoUrl": "https://stackoverflow.blog/apple-touch-icon.png",
+        "faviconUrl": "https://stackoverflow.blog/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "langchain-huggingface-1-2-3",
+      "title": "langchain-huggingface==1.2.3",
+      "dek": "Changes since langchain-huggingface==1.2.2 \n fix(huggingface): use a supported Scaleway model in streaming test ( #41095 ) \nchore(deps): bump langgraph-sdk from 0.4.4 to 0.4.6 in /libs/partners/huggingface ( #41098 ) \nchore(deps): bump langgraph-sdk from 0.4.2 to 0.4.4 in /libs/p",
+      "aiSummary": "The langchain-huggingface library has been updated to version 1.2.3, which includes a fix to use a supported Scaleway model in streaming tests. Additionally, the release involves dependency updates that bump the langgraph-sdk version from 0.4.4 to 0.4.6 in the Huggingface partner library.",
+      "articleUrl": "https://github.com/langchain-ai/langchain/releases/tag/langchain-huggingface%3D%3D1.2.3",
+      "category": "AI",
+      "filterTags": [
+        "langchain-huggingface",
+        "Scaleway",
+        "langgraph-sdk",
+        "Python"
+      ],
+      "publishedAt": "2026-10-07T20:10:10+00:00",
+      "publisher": {
+        "name": "langchain-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langchain-ai/langchain",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "a-i-music-fraudster-who-drew-millions-in-royalties-is-sentenced-to-18-months",
+      "title": "A.I. Music Fraudster Who Drew Millions in Royalties Is Sentenced to 18 Months",
+      "dek": "Prosecutors say Michael Smith flooded music-streaming platforms with bots that repeatedly streamed his A.I.-generated music, earning him as much as $8 million.",
+      "aiSummary": "Michael Smith used bots to repeatedly stream his AI-generated music on streaming platforms, earning up to $8 million in royalties. Prosecutors have charged him with fraud and sentenced him to 18 months in prison.",
+      "articleUrl": "https://www.nytimes.com/2026/10/07/arts/music/ai-music-fraud-royalties-sentence.html",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "bots",
+        "music streaming"
+      ],
+      "publishedAt": "2026-10-07T19:54:44+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Music"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "why-a-i-agents-are-going-rogue",
+      "title": "Why A.I. Agents Are Going Rogue",
+      "dek": "Our journalists Sheera Frenkel and Dylan Freedman break down what A.I. agents are, how they differ from chatbots and why A.I. companies are worried about them now.",
+      "aiSummary": "The article explains what A.I. agents are and how they differ from chatbots. It also discusses why A.I. companies are concerned about their increasing unpredictability.",
+      "articleUrl": "https://www.nytimes.com/video/technology/100000011159494/why-ai-agents-are-going-rogue.html",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "A.I. agents",
+        "chatbots"
+      ],
+      "publishedAt": "2026-10-07T19:44:04+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "2026-samsung-oled-tvs-are-discounted-to-as-low-as-997-99",
+      "title": "2026 Samsung OLED TVs are discounted to as low as $997.99",
+      "dek": "Limited-time Samsung TV deals are going on today at Amazon as Prime Big Deal Days winds down. Save  up to $500  on the 2026 OLED line, with prices as low as $997.99 for models sized 48 inches and up. Save up to $500 on Samsung OLED TVs - Image credit: Samsung   Continue Reading o",
+      "aiSummary": "Amazon is offering limited-time discounts on Samsung's 2026 OLED TV line as Prime Big Deal Days conclude. Shoppers can save up to $500 on models ranging from 48 inches and larger, with prices starting at $997.99.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/07/2026-samsung-oled-tvs-are-discounted-to-as-low-as-99799?utm_source=rss",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Samsung",
+        "OLED",
+        "Amazon",
+        "Prime Big Deal Days"
+      ],
+      "publishedAt": "2026-10-07T19:39:29+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Retail"
+        }
+      ]
+    },
+    {
+      "slug": "citi-s-talent-fight-with-pe-boots-deal-liv-s-lifeline",
+      "title": "Citi's Talent Fight with PE, Boots Deal, LIV's Lifeline",
+      "dek": "A weekly, midday program that delivers high-impact, editorially driven coverage of the most important corporate transactions shaping the global market. Today's guests: Permira Co-CEO, CO-Managing Partner Brian Ruder, Jefferies Senior Equity Research Analyst Shelia Kahyaoglu, McNa",
+      "aiSummary": "The program covers major corporate transactions and features guests from Permira, Jefferies, and others. It highlights competition for talent with private equity firms, a deal involving Boots, and support for LIV. The discussion includes insights from Permira’s co‑CEO Brian Ruder and Jefferies analyst Shelia Kahyaoglu.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-07/bloomberg-deals-10-7-2026-video",
+      "category": "Finance",
+      "filterTags": [
+        "Citi",
+        "Permira",
+        "Boots",
+        "LIV",
+        "Jefferies",
+        "Private Equity"
+      ],
+      "publishedAt": "2026-10-07T19:32:28+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Investment Banking"
+        },
+        {
+          "name": "Media"
+        }
+      ]
+    },
+    {
+      "slug": "v1-103-4",
+      "title": "v1.103.4",
+      "dek": "Verify Docker Image Signature \n All LiteLLM Docker images are signed with  cosign . Every release is signed with the same key introduced in  commit  0112e53 . \n Verify using the pinned commit hash (recommended): \n A commit hash is cryptographically immutable, so this is the stron",
+      "aiSummary": "All LiteLLM Docker images are signed using `cosign` with a consistent key for every release. Users are advised to verify these images using a pinned commit hash, which is recommended due to its cryptographically immutable nature.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.103.4",
+      "category": "Software Development",
+      "filterTags": [
+        "Docker",
+        "LiteLLM",
+        "cosign"
+      ],
+      "publishedAt": "2026-10-07T19:31:38+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "DevOps"
+        }
+      ]
+    },
+    {
+      "slug": "chatgpt-8217-s-8216-intelligent-ui-8217-update-fills-its-responses-with-pictures-charts-and-buttons",
+      "title": "ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons",
+      "dek": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms,",
+      "aiSummary": "OpenAI is rolling out an 'Intelligent UI' update for ChatGPT that enables the chatbot to include interactive visuals such as diagrams, charts, and forms in its responses. This feature is being released to all users concurrently with the launch of GPT-6.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "ChatGPT",
+        "GPT-6",
+        "Intelligent UI"
+      ],
+      "publishedAt": "2026-10-07T19:10:42+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Product Updates"
+        }
+      ]
+    },
+    {
+      "slug": "introducing-claude-haiku-5-5-on-aws",
+      "title": "Introducing Claude Haiku 5.5 on AWS",
+      "dek": "Claude Haiku 5.5 is now available on Amazon Bedrock and Claude Platform on AWS. According to Anthropic, it is the fastest, most efficient model in the Claude 5.5 family, built for subagents and high-volume, cost-sensitive work, and costs around 75% less than Claude Haiku 4.5 for ",
+      "aiSummary": "Claude Haiku 5.5 is now available on Amazon Bedrock and the Claude Platform on AWS. Anthropic says it is the fastest and most efficient model in the Claude 5.5 family, designed for subagents and high‑volume, cost‑sensitive tasks. It is roughly 75% cheaper than Claude Haiku 4.5.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws/",
+      "category": "AI",
+      "filterTags": [
+        "Claude Haiku 5.5",
+        "Amazon Bedrock",
+        "Claude Platform",
+        "AWS",
+        "Anthropic",
+        "subagents"
+      ],
+      "publishedAt": "2026-10-07T18:52:10+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Computing"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-microsoft-kick-off-a-new-beginning-for-windows-pcs-with-rtx-spark-and-ai-agents",
+      "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+      "dek": "At a Microsoft event in San Francisco on Wednesday, Jensen Huang and Satya Nadella outlined how NVIDIA and Microsoft are co-engineering hardware and software for AI agents to run on Windows PCs. NVIDIA was founded because of Windows, Huang said. Now AI agents are coming to Window",
+      "aiSummary": "At a Microsoft event in San Francisco, Jensen Huang and Satya Nadella announced a partnership to co-engineer hardware and software for AI agents on Windows PCs. Huang noted that NVIDIA was originally founded due to its relationship with Windows, and the collaboration aims to bring AI agents to the Windows platform.",
+      "articleUrl": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
+      "category": "AI",
+      "filterTags": [
+        "NVIDIA",
+        "Microsoft",
+        "RTX Spark",
+        "AI Agents",
+        "Windows"
+      ],
+      "publishedAt": "2026-10-07T18:45:28+00:00",
+      "publisher": {
+        "name": "NVIDIA",
+        "domain": "nvidia.com",
+        "website": "https://blogs.nvidia.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Software"
+        }
+      ]
+    },
+    {
+      "slug": "these-researchers-made-ai-drive-a-toyota-corolla-to-get-in-n-out",
+      "title": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
+      "dek": "Three engineers put GPT, Claude, and Grok in charge of a real car. Only one of them was successful.",
+      "aiSummary": "Three engineers conducted an experiment where they tasked AI models, including GPT, Claude, and Grok, with controlling a real car. The outcome revealed that only one of these artificial intelligence systems managed to complete the driving challenge successfully.",
+      "articleUrl": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "GPT",
+        "Claude",
+        "Grok",
+        "Toyota Corolla"
+      ],
+      "publishedAt": "2026-10-07T18:45:00+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Autonomous Vehicles"
+        }
+      ]
+    },
+    {
+      "slug": "everything-announced-at-microsoft-8217-s-surface-laptop-ultra-event",
+      "title": "Everything announced at Microsoft&#8217;s Surface Laptop Ultra event",
+      "dek": "Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco. The biggest announcement was arguably the release details about the Surface Laptop Ultra, its new laptop that’s powered by Nvidia’s RTX Spark Arm-based chip. The machine will start at $2,599 for",
+      "aiSummary": "Microsoft held a keynote in San Francisco focused on Windows and Surface devices, with the primary announcement being the Surface Laptop Ultra. This new laptop is powered by an Nvidia RTX Spark Arm-based chip and has a starting price of $2,599.",
+      "articleUrl": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
+      "category": "Hardware",
+      "filterTags": [
+        "Microsoft",
+        "Surface Laptop Ultra",
+        "Nvidia",
+        "RTX Spark",
+        "Arm",
+        "Windows"
+      ],
+      "publishedAt": "2026-10-07T18:42:22+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "rethinking-access-control-for-rag-with-amazon-quick-and-amazon-bedrock",
+      "title": "Rethinking access control for RAG with Amazon Quick and Amazon Bedrock",
+      "dek": "Enterprise RAG unlocks insights from knowledge sources like SharePoint, Google Drive, and Confluence, but those sources carry complex permissions. Learn how Amazon Quick and Amazon Bedrock Knowledge Bases enforce document-level access controls in real time, verifying permissions ",
+      "aiSummary": "Enterprise Retrieval‑Augmented Generation (RAG) can extract insights from sources such as SharePoint, Google Drive, and Confluence, but these sources have complex permissions. Amazon Quick and Amazon Bedrock Knowledge Bases provide real‑time, document‑level access control, verifying permissions as data is accessed.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/rethinking-access-control-for-rag-with-amazon-quick-and-amazon-bedrock/",
+      "category": "AI",
+      "filterTags": [
+        "Amazon Quick",
+        "Amazon Bedrock",
+        "SharePoint",
+        "Google Drive",
+        "Confluence",
+        "RAG"
+      ],
+      "publishedAt": "2026-10-07T18:34:44+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Enterprise Software"
+        },
+        {
+          "name": "Cloud Services"
+        }
+      ]
+    },
+    {
+      "slug": "meta-s-muse-launches-on-ipad-just-a-month-after-its-mobile-debut",
+      "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+      "dek": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
+      "aiSummary": "Meta's AI agent, Muse, has been released on the iPad. This launch comes only a month after its initial debut on mobile platforms, indicating Meta's swift efforts to broaden the assistant's availability and integrate it across more devices.",
+      "articleUrl": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+      "category": "AI",
+      "filterTags": [
+        "Meta",
+        "Muse",
+        "AI agent",
+        "iPad"
+      ],
+      "publishedAt": "2026-10-07T18:30:57+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Mobile"
+        },
+        {
+          "name": "Software"
+        }
+      ]
+    },
+    {
+      "slug": "liquid-ai-releases-open-weight-d1-3b-and-d1-omni-600m-multimodal-decision-models-with-zero-output-tokens",
+      "title": "Liquid AI Releases Open-Weight d1-3B and d1-omni-600M: Multimodal Decision Models With Zero Output Tokens",
+      "dek": "Liquid AI has released Open d1, two open-weight multimodal models in its d1 decision model family. d1-3B reads text and images. d1-omni-600M reads text with an image, or text with audio. Neither model writes text. Each returns calibrated, typed answers in one forward pass with ze",
+      "aiSummary": "Liquid AI has released d1-3B and d1-omni-600M, two open-weight multimodal models in its d1 decision model family. These models process text, images, and audio to return calibrated, typed answers in a single forward pass without generating any output tokens.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/07/liquid-ai-releases-open-weight-d1-3b-and-d1-omni-600m-multimodal-decision-models-with-zero-output-tokens/",
+      "category": "AI",
+      "filterTags": [
+        "Liquid AI",
+        "d1-3B",
+        "d1-omni-600M",
+        "Multimodal",
+        "Open-Weight"
+      ],
+      "publishedAt": "2026-10-07T18:23:45+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "spacex-credit-risk-jumps-on-worries-over-its-borrowing-spree",
+      "title": "SpaceX credit risk jumps on worries over its borrowing spree",
+      "dek": "Leap in credit default swaps tracking Elon Musk’s aerospace group follows an FT report that it is seeking to raise $40bn to buy Nvidia chips",
+      "aiSummary": "Credit default swaps tracking SpaceX have jumped after a Financial Times report said the company is seeking to raise $40bn to buy Nvidia chips. The report highlights worries about SpaceX's borrowing spree.",
+      "articleUrl": "https://www.ft.com/content/4f2417d3-3de6-4f62-bd3a-8c8f740a4b29?syn-25a6b1a6=1",
+      "category": "Finance",
+      "filterTags": [
+        "SpaceX",
+        "Nvidia",
+        "Financial Times"
+      ],
+      "publishedAt": "2026-10-07T18:05:37+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Aerospace"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "microsoft-is-giving-copilot-more-control-over-windows-and-your-files",
+      "title": "Microsoft is giving Copilot more control over Windows and your files",
+      "dek": "At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It's part of an idea Microsoft is calling \"Hybrid Intelligence,\" where apps and tools r",
+      "aiSummary": "Microsoft demonstrated an upgrade to its Copilot AI at the Windows and Surface event. The new version can read local files on a PC and perform actions across the operating system. This feature is part of Microsoft's Hybrid Intelligence strategy, which integrates apps and tools.",
+      "articleUrl": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Microsoft",
+        "Copilot",
+        "Windows",
+        "Surface",
+        "Hybrid Intelligence"
+      ],
+      "publishedAt": "2026-10-07T18:01:20+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Operating Systems"
+        },
+        {
+          "name": "Productivity"
+        }
+      ]
+    },
+    {
+      "slug": "the-new-chatgpt-is-more-show-than-tell",
+      "title": "The New ChatGPT Is More Show Than Tell",
+      "dek": "OpenAI is updating ChatGPT for all users with an “Intelligent UI” that’s more visual—generating interactive elements as part of the chatbot’s outputs.",
+      "aiSummary": "OpenAI is rolling out an update to ChatGPT for all users that introduces an 'Intelligent UI'. This feature makes the interface more visual by generating interactive elements within the chatbot's responses.",
+      "articleUrl": "https://www.wired.com/story/openai-chatgpt-intelligent-ui-is-more-show-than-tell/",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "ChatGPT",
+        "Intelligent UI"
+      ],
+      "publishedAt": "2026-10-07T18:00:00+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "User Interface"
+        }
+      ]
+    },
+    {
+      "slug": "fraudster-jailed-for-using-10k-bots-and-ai-songs-to-outstream-taylor-swift",
+      "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
+      "dek": "Man gets 18 months for AI scheme stealing $8M in music streaming royalties.",
+      "aiSummary": "A man received an 18-month jail sentence for orchestrating an AI-powered scheme. This operation illegally siphoned $8 million in music streaming royalties.",
+      "articleUrl": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/",
+      "category": "Crime",
+      "filterTags": [
+        "AI",
+        "bots",
+        "Taylor Swift"
+      ],
+      "publishedAt": "2026-10-07T17:57:39+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Crime"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Music"
+        },
+        {
+          "name": "Streaming"
+        }
+      ]
+    },
+    {
+      "slug": "b11479-cuda-update-uncoalesced-memory-reads-in-pool2d-29425",
+      "title": "b11479: cuda: update uncoalesced memory reads in pool2d (#29425)",
+      "dek": "cuda: update uncoalesced memory reads in pool2d \n \n \n cuda: Added perf and  restrict  in pool2d \n \n \n Update POOL2D_WARP_KERNEL_MIN_WINDOW macro \n \n \n Co-authored-by: Georgi Gerganov  ggerganov@gmail.com \n \n cuda: Fix compiler bugs \n \n \n Co-authored-by: Georgi Gerganov  ggerganov",
+      "aiSummary": "This update optimizes uncoalesced memory reads in the pool2d CUDA kernel by adding performance and restrict qualifiers. It also updates the POOL2D_WARP_KERNEL_MIN_WINDOW macro and fixes compiler bugs.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11479",
+      "category": "Hardware",
+      "filterTags": [
+        "CUDA",
+        "pool2d",
+        "Georgi Gerganov"
+      ],
+      "publishedAt": "2026-10-07T17:53:43+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Performance"
+        }
+      ]
+    },
+    {
+      "slug": "secret-protection-must-scale-with-software",
+      "title": "Secret protection must scale with software",
+      "dek": "Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the work of protecting it. \n The post  Secret protection must scale with software  appeared first on  The GitHub Blog .",
+      "aiSummary": "Developers are not becoming more careless with security, but rather are being outpaced by the volume of software they create. The article argues that development tools should assume more responsibility for protecting software to keep up with this scale.",
+      "articleUrl": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/",
+      "category": "Security",
+      "filterTags": [
+        "GitHub",
+        "Secret Management",
+        "Developer Tools"
+      ],
+      "publishedAt": "2026-10-07T17:45:34+00:00",
+      "publisher": {
+        "name": "GitHub Blog",
+        "domain": "github.blog",
+        "website": "https://github.blog",
+        "logoUrl": "https://github.blog/wp-content/uploads/2019/01/cropped-github-favicon-512.png?fit=180%2C180",
+        "faviconUrl": "https://github.githubassets.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "DevOps"
+        }
+      ]
+    },
+    {
+      "slug": "1-15-24",
+      "title": "1.15.24",
+      "dek": "What's Changed \n Features \n \n Add crewai eval to print a markdown brief when run by an agent \n Queue relevant background replies \n Add experimental turn and reply identities \n Add Oracle Integrations \n Add experimental job lifecycle and runner \n Add crewai eval --models, and llm_",
+      "aiSummary": "The 1.15.24 release adds crewai eval features that print a markdown brief when run by an agent, queues relevant background replies, and introduces experimental turn and reply identities. It also adds Oracle integrations, a new job lifecycle and runner, and expands crewai eval with --models and llm_ options.",
+      "articleUrl": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.24",
+      "category": "AI",
+      "filterTags": [
+        "crewai eval",
+        "Oracle",
+        "job lifecycle",
+        "runner"
+      ],
+      "publishedAt": "2026-10-07T17:39:47+00:00",
+      "publisher": {
+        "name": "crewAIInc",
+        "domain": "github.com",
+        "website": "https://github.com/crewAIInc/crewAI",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Product Updates"
+        }
+      ]
+    },
+    {
+      "slug": "building-resilient-systems-with-sam-newman",
+      "title": "Building resilient systems with Sam Newman",
+      "dek": "Sam Newman joins me to discuss when to use microservices, how to build resilient distributed systems, and how AI is changing software development.",
+      "aiSummary": "In the interview, Sam Newman explains when microservices are appropriate, outlines strategies for building resilient distributed systems, and discusses the impact of AI on software development. He emphasizes the importance of fault tolerance and scalability in modern architectures. The conversation also covers how AI tools are reshaping coding practices and deployment pipelines.",
+      "articleUrl": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam",
+      "category": "Software Engineering",
+      "filterTags": [
+        "microservices",
+        "distributed systems",
+        "AI"
+      ],
+      "publishedAt": "2026-10-07T17:19:58+00:00",
+      "publisher": {
+        "name": "Pragmatic Engineer",
+        "domain": "newsletter.pragmaticengineer.com",
+        "website": "https://newsletter.pragmaticengineer.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=newsletter.pragmaticengineer.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=newsletter.pragmaticengineer.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Distributed Systems"
+        }
+      ]
+    },
+    {
+      "slug": "why-we-re-taking-more-time-with-the-book",
+      "title": "Why we’re taking more time with the book",
+      "dek": "More on agents, evaluations, coding workflows, and guidance we think AI engineers will need most in 2026.",
+      "aiSummary": "The authors are extending the timeline for their book to incorporate additional material on agents, evaluations, and coding workflows. They aim to provide guidance that AI engineers will find most useful in 2026.",
+      "articleUrl": "https://newsletter.towardsai.net/p/what-were-adding-to-ai-engineering",
+      "category": "AI",
+      "filterTags": [
+        "AI engineers",
+        "agents",
+        "evaluations",
+        "coding workflows"
+      ],
+      "publishedAt": "2026-10-07T16:55:57+00:00",
+      "publisher": {
+        "name": "Towards AI",
+        "domain": "newsletter.towardsai.net",
+        "website": "https://newsletter.towardsai.net/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=newsletter.towardsai.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=newsletter.towardsai.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "multimodal-open-d1-decision-models-for-the-edge",
+      "title": "Multimodal open d1 decision models for the edge",
+      "dek": "Open multimodal decision models for edge devices",
+      "aiSummary": "",
+      "articleUrl": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "category": "AI",
+      "filterTags": [
+        "Multimodal",
+        "d1",
+        "Edge"
+      ],
+      "publishedAt": "2026-10-07T16:54:33+00:00",
+      "publisher": {
+        "name": "Hugging Face",
+        "domain": "huggingface.co",
+        "website": "https://huggingface.co/",
+        "logoUrl": "https://huggingface.co/front/thumbnails/v2-2.png",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Edge Computing"
+        }
+      ]
+    }
+  ]
+}
