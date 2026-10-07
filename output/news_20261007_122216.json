@@ -1,0 +1,1439 @@
+{
+  "news": [
+    {
+      "slug": "10-jev-projects-on-github-you-should-check-out",
+      "title": "10 Jev Projects on GitHub You Should Check Out",
+      "dek": "Agents make dozens of small decisions before producing useful output: which source to trust, which tool to call, what context to keep and when to stop. Jev brings those hidden choices into the open by turning them into typed decisions with probabilities, instead of relying on fre",
+      "aiSummary": "The article highlights ten Jev projects available on GitHub that focus on making AI agent decision-making processes transparent. Jev converts hidden agent choices, such as source selection and tool usage, into typed decisions with associated probabilities rather than relying on free-form reasoning.",
+      "articleUrl": "https://www.analyticsvidhya.com/blog/2026/10/jev-projects-on-github/",
+      "category": "AI",
+      "filterTags": [
+        "Jev",
+        "GitHub",
+        "AI Agents",
+        "Probabilistic Decision Making"
+      ],
+      "publishedAt": "2026-10-07T12:19:24+00:00",
+      "publisher": {
+        "name": "Analytics Vidhya",
+        "domain": "analyticsvidhya.com",
+        "website": "https://www.analyticsvidhya.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=analyticsvidhya.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=analyticsvidhya.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "hackintosh-intel-mac-pro-owners-might-be-able-to-run-nvidia-cards-soon",
+      "title": "Hackintosh & Intel Mac Pro owners might be able to run Nvidia cards soon",
+      "dek": "There's been a project  on Reddit  using generative coding tools to crank out Nvidia Metal graphics drivers for Hackintosh projects and Intel PCI-E macs running Sequoia, and it finally been released to the public. For now, it's limited to the Nvidia 5060 card, but expansions are ",
+      "aiSummary": "A project utilizing generative coding tools has released Nvidia Metal graphics drivers for Hackintosh and Intel PCIe Macs running macOS Sequoia. The initial release is currently limited to supporting the Nvidia 5060 card, with plans for future expansions.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/07/hackintosh-intel-mac-pro-owners-might-be-able-to-run-nvidia-cards-soon?utm_source=rss",
+      "category": "Hardware",
+      "filterTags": [
+        "Nvidia",
+        "Metal",
+        "Hackintosh",
+        "macOS Sequoia",
+        "Generative Coding"
+      ],
+      "publishedAt": "2026-10-07T12:13:58+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Operating Systems"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "b11467",
+      "title": "b11467",
+      "dek": "imatrix : include clocale for std::setlocale ( #30079 ) \n Co-authored-by: yarik  dazzywi@github.com \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/53551657 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Si",
+      "aiSummary": "A pull request (b11467) adds clocale support for std::setlocale in the imatrix component. The change is co‑authored by yarik and is part of the llama.cpp project, with attestations available on GitHub. The update also notes macOS/iOS support for Apple Silicon (arm64).",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11467",
+      "category": "Open Source",
+      "filterTags": [
+        "imatrix",
+        "clocale",
+        "std::setlocale",
+        "ggml-org",
+        "llama.cpp",
+        "llama.app",
+        "macOS",
+        "Apple Silicon",
+        "arm64"
+      ],
+      "publishedAt": "2026-10-07T12:07:38+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Operating Systems"
+        }
+      ]
+    },
+    {
+      "slug": "thatcherism-via-the-walkman-stuart-hall-s-british-cultural-studies-preserved-online",
+      "title": "Thatcherism via the Walkman: Stuart Hall’s British cultural studies preserved online",
+      "dek": "Wife of Jamaica-born sociologist says project celebrates ‘incredible contributions’ he made to Britain’s culture Whether it was Thatcherism, populism or the story of the Sony Walkman, Stuart Hall was a public intellectual famed for defining the times. Now a major  digital archive",
+      "aiSummary": "The wife of the late sociologist Stuart Hall states that a new digital archive project celebrates his significant contributions to British culture. Hall was a renowned public intellectual known for analyzing topics such as Thatcherism, populism, and the Sony Walkman.",
+      "articleUrl": "https://www.theguardian.com/society/2026/oct/07/stuart-hall-british-culture-online-project",
+      "category": "Culture",
+      "filterTags": [
+        "Stuart Hall",
+        "British cultural studies",
+        "Thatcherism",
+        "Sony Walkman"
+      ],
+      "publishedAt": "2026-10-07T12:01:10+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Culture"
+        },
+        {
+          "name": "Academia"
+        },
+        {
+          "name": "Digital Archives"
+        }
+      ]
+    },
+    {
+      "slug": "choosing-the-right-agentic-ai-framework-for-2026-a-decision-tree-approach",
+      "title": "Choosing the Right Agentic AI Framework for 2026: A Decision-Tree Approach",
+      "dek": "In this article, you will learn how to choose the right agentic AI framework for your production system by working through a structured decision-tree based...",
+      "aiSummary": "The article explains a method for selecting an agentic AI framework for production use. It introduces a structured decision-tree that guides readers through evaluating options. The approach helps determine the most suitable framework for 2026.",
+      "articleUrl": "https://machinelearningmastery.com/choosing-the-right-agentic-ai-framework-for-2026-a-decision-tree-approach/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Agentic AI",
+        "Decision Tree",
+        "Production System"
+      ],
+      "publishedAt": "2026-10-07T12:00:00+00:00",
+      "publisher": {
+        "name": "Jason Brownlee",
+        "domain": "machinelearningmastery.com",
+        "website": "https://machinelearningmastery.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=machinelearningmastery.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=machinelearningmastery.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Decision Making"
+        }
+      ]
+    },
+    {
+      "slug": "ai-could-upend-food-delivery",
+      "title": "AI could upend food delivery",
+      "dek": "DoorDash, the leading food delivery app, processed 970 million orders in its second quarter this year and generated $4.5 billion in revenue. A 10-person startup called Bites is a blip in comparison: It has just around 300 restaurants signed up in the Bay Area, where it's operatin",
+      "aiSummary": "DoorDash, the dominant food delivery platform, reported processing 970 million orders and generating $4.5 billion in revenue during its second quarter. In contrast, the 10-person startup Bites is a minor player with only about 300 restaurants signed up in the Bay Area.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
+      "category": "AI",
+      "filterTags": [
+        "DoorDash",
+        "Bites",
+        "AI",
+        "Food Delivery"
+      ],
+      "publishedAt": "2026-10-07T12:00:00+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Food & Beverage"
+        },
+        {
+          "name": "Startups"
+        }
+      ]
+    },
+    {
+      "slug": "b11466",
+      "title": "b11466",
+      "dek": "ggml-webgpu: fix flash_attn supports_op check for overlapping KV ( #28205 ) \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/53548008 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silicon (arm64, KleidiAI e",
+      "aiSummary": "This release addresses a bug in the ggml-webgpu component by correcting the flash_attn supports_op check for overlapping KV scenarios. The update is associated with the llama.cpp project and includes support for macOS and iOS on Apple Silicon architectures.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11466",
+      "category": "AI",
+      "filterTags": [
+        "ggml-webgpu",
+        "flash_attn",
+        "llama.cpp",
+        "Apple Silicon",
+        "KleidiAI"
+      ],
+      "publishedAt": "2026-10-07T11:52:33+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "spacex-seeks-to-join-ai-borrowing-bonanza",
+      "title": "SpaceX Seeks To Join AI Borrowing Bonanza",
+      "dek": "SpaceX is joining the AI borrowing bonanza — seeking $40 billion to secure Nvidia chips.\n\nPeter Elstrom explains. (Source: Bloomberg)",
+      "aiSummary": "SpaceX plans to raise $40 billion to purchase Nvidia GPUs. The move is part of a broader trend of firms borrowing heavily for AI infrastructure. The company is targeting Nvidia chips for its AI ambitions.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-07/spacex-seeks-to-join-ai-borrowing-bonanza-video",
+      "category": "AI",
+      "filterTags": [
+        "SpaceX",
+        "Nvidia",
+        "AI"
+      ],
+      "publishedAt": "2026-10-07T11:49:08+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "lg-is-just-the-start-apple-is-still-working-on-its-own-smart-home-cameras",
+      "title": "LG is just the start, Apple is still working on its own smart home cameras",
+      "dek": "Aside from its partnership with LG to produce a range of smart home products, Apple's long-rumored home camera is allegedly still on the way, and is expected in 2027. A collection of home cameras, a market Apple should be joining soon.  Late on Tuesday, a report surfaced claiming",
+      "aiSummary": "Apple is partnering with LG to produce smart home products, but it is also developing its own home camera, expected to launch in 2027. A recent report surfaced late Tuesday confirming the ongoing development. Apple is poised to enter the home camera market soon.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/07/lg-is-just-the-start-apple-is-still-working-on-its-own-smart-home-cameras?utm_source=rss",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Apple",
+        "LG",
+        "smart home cameras",
+        "smart home products"
+      ],
+      "publishedAt": "2026-10-07T11:43:47+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Smart Home"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "b11465",
+      "title": "b11465",
+      "dek": "tests : retain the anchor when testing recurrent rollback ( #29923 ) \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/53541820 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silicon (arm64, KleidiAI enabled)",
+      "aiSummary": "This update modifies the testing suite to retain the anchor when testing recurrent rollback, addressing issue #29923. The release is available for macOS and iOS on Apple Silicon architectures, with an option for KleidiAI acceleration.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11465",
+      "category": "AI",
+      "filterTags": [
+        "llama.cpp",
+        "KleidiAI",
+        "Apple Silicon",
+        "macOS",
+        "iOS"
+      ],
+      "publishedAt": "2026-10-07T11:31:01+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "coreweave-tees-up-first-india-data-centers-with-adaniconnex-deal",
+      "title": "CoreWeave Tees Up First India Data Centers With AdaniConneX Deal",
+      "dek": "AI cloud-computing provider CoreWeave Inc. is continuing an expansion in Asia with its first data centers in India, part of a venture involving conglomerate Adani Group.",
+      "aiSummary": "CoreWeave Inc., an AI cloud‑computing company, is expanding into Asia by opening its first data centers in India. The project is part of a partnership with the Adani Group.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-07/coreweave-tees-up-first-india-data-centers-with-adaniconnex-deal",
+      "category": "AI",
+      "filterTags": [
+        "CoreWeave",
+        "Adani Group",
+        "AdaniConneX"
+      ],
+      "publishedAt": "2026-10-07T11:30:00+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "iphone-duo-has-a-book-like-two-page-quick-look-layout",
+      "title": "iPhone Duo has a book-like two-page Quick Look layout",
+      "dek": "If you ever wanted a more book-like reading experience with facing pages, more code references in the iOS 27 betas show a new design for Quick Look on the iPhone Duo giving you just that. Quick Look showing a double-page spread on the iPhone Duo - image credit: pdfu Following cod",
+      "aiSummary": "iOS 27 betas reveal a new Quick Look design for the iPhone Duo that displays documents in a double‑page spread, offering a book‑like reading experience with facing pages. The feature is showcased in the beta code references and a screenshot of the spread.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/07/iphone-duo-has-a-book-like-two-page-quick-look-layout?utm_source=rss",
+      "category": "Mobile",
+      "filterTags": [
+        "iPhone Duo",
+        "iOS 27",
+        "Quick Look"
+      ],
+      "publishedAt": "2026-10-07T11:28:51+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Mobile"
+        },
+        {
+          "name": "Operating Systems"
+        },
+        {
+          "name": "User Interface"
+        }
+      ]
+    },
+    {
+      "slug": "study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth",
+      "title": "Study: Claude, ChatGPT, AI Bots Offer Different Shopping Prices Based on Wealth",
+      "dek": "Research on how Claude and ChatGPT act as shopping assistants could lead to more regulation calls.",
+      "aiSummary": "Researchers examined how AI assistants Claude and ChatGPT adjust prices for shoppers. The study suggests that these bots offer different prices based on the shopper's wealth. The findings may prompt calls for tighter regulation.",
+      "articleUrl": "https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Claude",
+        "ChatGPT",
+        "AI Bots"
+      ],
+      "publishedAt": "2026-10-07T11:02:01+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "E-commerce"
+        },
+        {
+          "name": "Regulation"
+        }
+      ]
+    },
+    {
+      "slug": "mcdonald-s-sued-for-allegedly-using-ai-tool-to-determine-pricing-for-franchises",
+      "title": "McDonald’s sued for allegedly using AI tool to determine pricing for franchises",
+      "dek": "Suit says AI tool allows independently owned franchises to exchange nonpublic price and sales information McDonald’s is facing a lawsuit in federal court over its alleged use of an  AI  tool to determine pricing across independent franchises, which prosecutors say violates antitr",
+      "aiSummary": "McDonald's is facing a federal lawsuit alleging that it used an AI tool to determine pricing for independent franchises. The suit claims this tool allowed franchises to exchange nonpublic price and sales information, which prosecutors argue violates antitrust laws.",
+      "articleUrl": "https://www.theguardian.com/business/2026/oct/07/mcdonalds-ai-prices-lawsuit",
+      "category": "Legal",
+      "filterTags": [
+        "McDonald's",
+        "AI",
+        "Antitrust",
+        "Pricing"
+      ],
+      "publishedAt": "2026-10-07T11:00:08+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "when-do-pinns-beat-classical-numerical-methods-a-1d-vs-5d-experiment",
+      "title": "When Do PINNs Beat Classical Numerical Methods? A 1D vs 5D Experiment",
+      "dek": "I put a physics-informed neural network up against a plain finite-difference solver twice: once in 1D and once in 5D. The winner changed. \n The post  When Do PINNs Beat Classical Numerical Methods? A 1D vs 5D Experiment  appeared first on  Towards Data Science .",
+      "aiSummary": "The author compared a physics-informed neural network (PINN) with a standard finite-difference solver in two experiments: one-dimensional and five-dimensional. In the 1D case, the PINN outperformed the finite-difference method, while in the 5D case the finite-difference solver was superior. The results show that the relative performance depends on dimensionality.",
+      "articleUrl": "https://towardsdatascience.com/when-do-pinns-beat-classical-numerical-methods-a-1d-vs-5d-experiment/",
+      "category": "Machine Learning",
+      "filterTags": [
+        "PINN",
+        "finite-difference",
+        "physics-informed neural network",
+        "1D",
+        "5D"
+      ],
+      "publishedAt": "2026-10-07T11:00:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Numerical Methods"
+        },
+        {
+          "name": "Computational Physics"
+        },
+        {
+          "name": "Data Science"
+        }
+      ]
+    },
+    {
+      "slug": "openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me",
+      "title": "OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me",
+      "dek": "Dots are designed to automate online tasks, like buying furniture. In my initial experience, the always-on agent was a bit buggy and couldn’t complete a captcha.",
+      "aiSummary": "OpenAI has introduced Dots, an always-on agent designed to automate online activities such as purchasing furniture. The author's initial experience with the tool was mixed, noting that it was somewhat buggy and failed to complete a captcha challenge.",
+      "articleUrl": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "Dots",
+        "AI Agents",
+        "Automation"
+      ],
+      "publishedAt": "2026-10-07T11:00:00+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Productivity"
+        }
+      ]
+    },
+    {
+      "slug": "engineered-diamonds-solve-extreme-power-densities-in-data-centers",
+      "title": "Engineered Diamonds Solve Extreme Power Densities in Data Centers",
+      "dek": "Wafer-scale single-crystal diamond and direct bonding move diamond from research toward thermal management for power electronics. \n The post  Engineered Diamonds Solve Extreme Power Densities in Data Centers  appeared first on  Power Electronics News .",
+      "aiSummary": "Wafer-scale single-crystal diamond and direct bonding techniques are advancing the use of diamond in thermal management for power electronics. These developments aim to address the extreme power densities found in modern data centers by moving diamond applications from research into practical implementation.",
+      "articleUrl": "https://www.powerelectronicsnews.com/engineered-diamonds-solve-extreme-power-densities-in-data-centers/",
+      "category": "Hardware",
+      "filterTags": [
+        "Diamond",
+        "Thermal Management",
+        "Power Electronics",
+        "Data Centers",
+        "Single-Crystal Diamond",
+        "Direct Bonding"
+      ],
+      "publishedAt": "2026-10-07T11:00:00+00:00",
+      "publisher": {
+        "name": "Power Electronics News",
+        "domain": "powerelectronicsnews.com",
+        "website": "https://www.powerelectronicsnews.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Data Centers"
+        }
+      ]
+    },
+    {
+      "slug": "imf-chief-urges-governments-to-tighten-belts-as-global-debt-levels-soar",
+      "title": "IMF chief urges governments to tighten belts as global debt levels soar",
+      "dek": "Kristalina Georgieva says big economies will have to make ‘very touch choices’ as soaring bond yields hit budgets Business live – latest updates The head of the International Monetary Fund has called on governments across big economies to tighten their belts as soaring bond yield",
+      "aiSummary": "IMF chief Kristalina Georgieva warned that large economies must make tough choices as rising bond yields strain budgets. She urged governments to tighten spending amid soaring debt levels.",
+      "articleUrl": "https://www.theguardian.com/business/2026/oct/07/imf-chief-kristalina-georgieva-urges-governments-tighten-belts-global-debt-levels-soar",
+      "category": "Finance",
+      "filterTags": [
+        "IMF",
+        "bond yields",
+        "debt",
+        "Kristalina Georgieva"
+      ],
+      "publishedAt": "2026-10-07T10:14:35+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Macroeconomics"
+        },
+        {
+          "name": "Policy"
+        }
+      ]
+    },
+    {
+      "slug": "google-ordered-to-halt-work-on-two-data-centers-in-texas-of-europe",
+      "title": "Google ordered to halt work on two data centers in ‘Texas of Europe’",
+      "dek": "Finland has emerged as a key location for data centers amid the AI boom.",
+      "aiSummary": "Google has been ordered to stop construction on two data centers in the region referred to as the 'Texas of Europe.' Finland has become a significant hub for data center development due to the surge in demand driven by the AI boom.",
+      "articleUrl": "https://www.cnbc.com/2026/10/07/google-finland-data-center-halt.html",
+      "category": "AI",
+      "filterTags": [
+        "Google",
+        "Data Centers",
+        "AI"
+      ],
+      "publishedAt": "2026-10-07T09:26:02+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "why-my-conversations-with-openai-s-chatgpt-for-teens-made-me-very-worried",
+      "title": "Why My Conversations with OpenAI’s ‘ChatGPT for Teens’ Made Me Very Worried",
+      "dek": "A new mode includes a study tool, but it still does a user’s homework. And a children’s safety nonprofit says the chatbot flunked its tests.",
+      "aiSummary": "A new mode for OpenAI's ChatGPT includes a study tool, but the author notes that it still completes users' homework for them. Additionally, a children's safety nonprofit reports that the chatbot failed its safety tests.",
+      "articleUrl": "https://www.nytimes.com/2026/10/07/technology/personaltech/chatgpt-teens-openai.html",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "ChatGPT",
+        "AI Safety"
+      ],
+      "publishedAt": "2026-10-07T09:07:18+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Education"
+        },
+        {
+          "name": "Safety"
+        }
+      ]
+    },
+    {
+      "slug": "chatgpt-for-teens-is-an-unacceptable-risk-says-common-sense-media",
+      "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
+      "dek": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an \"unacceptable risk.\" ChatGPT for Teens, introduced in August, has guardrails for teens and is designed to help s",
+      "aiSummary": "Common Sense Media, a nonprofit focused on youth safety, has labeled OpenAI's ChatGPT for Teens as an \"unacceptable risk.\" The service, which launched in August with specific safety guardrails for teenagers, is being criticized despite its design to assist young users.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+      "category": "AI",
+      "filterTags": [
+        "Common Sense Media",
+        "OpenAI",
+        "ChatGPT for Teens"
+      ],
+      "publishedAt": "2026-10-07T09:00:00+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Education"
+        },
+        {
+          "name": "Safety"
+        }
+      ]
+    },
+    {
+      "slug": "your-next-great-read-might-be-certified-organic",
+      "title": "Your Next Great Read Might Be Certified ‘Organic’",
+      "dek": "Amid a sea of AI writing slop, a new stamp for “organic literature” will help readers to pick out books authored by real, corn-fed, free-range humans.",
+      "aiSummary": "In response to the prevalence of AI-generated text, a new certification for 'organic literature' is being introduced. This stamp aims to help readers identify books written by actual humans rather than artificial intelligence.",
+      "articleUrl": "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "organic literature",
+        "publishing"
+      ],
+      "publishedAt": "2026-10-07T08:30:00+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Publishing"
+        },
+        {
+          "name": "Media"
+        }
+      ]
+    },
+    {
+      "slug": "mlflow-3-17-0",
+      "title": "MLflow 3.17.0",
+      "dek": "MLflow 3.17.0 includes several major features and improvements. \n Major New Features \n \n Jev Decisions Across Evaluation, Gateway, and Tracing : Use TypeSafe models in built-in scorers and custom judges with typed Boolean or categorical feedback. ( #26100 ,  @B-Step62 ) \n Fine-Gr",
+      "aiSummary": "MLflow 3.17.0 introduces several major features, including Jev Decisions across evaluation, gateway, and tracing. This update allows users to utilize TypeSafe models in built-in scorers and custom judges with typed Boolean or categorical feedback.",
+      "articleUrl": "https://github.com/mlflow/mlflow/releases/tag/v3.17.0",
+      "category": "Machine Learning",
+      "filterTags": [
+        "MLflow",
+        "TypeSafe",
+        "Jev Decisions"
+      ],
+      "publishedAt": "2026-10-07T08:24:24+00:00",
+      "publisher": {
+        "name": "mlflow",
+        "domain": "github.com",
+        "website": "https://github.com/mlflow/mlflow",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "v1-106-0-dev-1",
+      "title": "v1.106.0-dev.1",
+      "dek": "Verify Docker Image Signature \n All LiteLLM Docker images are signed with  cosign . Every release is signed with the same key introduced in  commit  0112e53 . \n Verify using the pinned commit hash (recommended): \n A commit hash is cryptographically immutable, so this is the stron",
+      "aiSummary": "LiteLLM Docker images are signed with cosign, using a key introduced in commit 0112e53. The v1.106.0-dev.1 release is signed with that key, and users are advised to verify the signature using the pinned commit hash, which ensures cryptographic immutability.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.106.0-dev.1",
+      "category": "Security",
+      "filterTags": [
+        "LiteLLM",
+        "cosign",
+        "Docker"
+      ],
+      "publishedAt": "2026-10-07T08:15:09+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Containerization"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1791373977",
+      "title": "viable/strict/1791373977",
+      "dek": "[Test] Make  test/test_cuda_trace.py  device-generic and enable testi…",
+      "aiSummary": "The test suite for CUDA tracing was updated to run on generic devices and the tests were enabled. This change ensures that the test/test_cuda_trace.py script can be executed on any device and that the relevant tests are active.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1791373977",
+      "category": "Testing",
+      "filterTags": [
+        "CUDA",
+        "device-generic",
+        "test"
+      ],
+      "publishedAt": "2026-10-07T08:01:42+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Testing"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1791372481-inductor-ignore-addmm-and-baddbmm-bias-when-beta-is-zero-196600",
+      "title": "viable/strict/1791372481: [inductor] Ignore addmm and baddbmm bias when beta is zero (#196600)",
+      "dek": "Issue \n Addresses the  beta == 0  part of  #196596 .  alpha == 0  has no documented contract and stays open there. \n Summary \n With  beta == 0 ,  addmm  and  baddbmm  ignore  input , NaN and inf included. Inductor still computed  beta * input  in three places, and since  0 * NaN ",
+      "aiSummary": "This update addresses a bug in PyTorch Inductor where addmm and baddbmm operations incorrectly computed beta * input even when beta was zero. Since multiplying zero by NaN or infinity results in NaN, the fix ensures these inputs are ignored to prevent invalid values from propagating.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1791372481",
+      "category": "Machine Learning",
+      "filterTags": [
+        "PyTorch",
+        "Inductor",
+        "addmm",
+        "baddbmm"
+      ],
+      "publishedAt": "2026-10-07T07:35:33+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Compiler Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "n8n-2-42-4",
+      "title": "n8n@2.42.4",
+      "dek": "2.42.4  (2026-10-07)",
+      "aiSummary": "n8n version 2.42.4 was released on October 7, 2026. The update marks a new milestone for the platform.",
+      "articleUrl": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.42.4",
+      "category": "Automation",
+      "filterTags": [
+        "n8n"
+      ],
+      "publishedAt": "2026-10-07T07:26:18+00:00",
+      "publisher": {
+        "name": "n8n-io",
+        "domain": "github.com",
+        "website": "https://github.com/n8n-io/n8n",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Automation"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "n8n-2-43-1",
+      "title": "n8n@2.43.1",
+      "dek": "2.43.1  (2026-10-07) \n Bug Fixes \n \n editor:  Polish n8n Assistant and Execute button UI details ( #40438 ) ( 345ae01 ) \n \n Performance Improvements \n \n core:  Keep agent builder system prompt static for prompt caching ( #40441 ) ( 9ea7835 ) \n core:  Prepare Instance AI skill san",
+      "aiSummary": "Version 2.43.1 of n8n includes bug fixes that polish the Assistant and Execute button UI in the editor. It also brings performance improvements to the core, such as keeping the agent builder system prompt static for caching and preparing the Instance AI skill for future use.",
+      "articleUrl": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.43.1",
+      "category": "Open Source",
+      "filterTags": [
+        "n8n",
+        "agent builder",
+        "Instance AI"
+      ],
+      "publishedAt": "2026-10-07T07:25:02+00:00",
+      "publisher": {
+        "name": "n8n-io",
+        "domain": "github.com",
+        "website": "https://github.com/n8n-io/n8n",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Automation"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "rainmakers-the-drones-used-to-seed-clouds",
+      "title": "Rainmakers: The drones used to seed clouds",
+      "dek": "Cloud seeding is gaining attention as countries look to boost rainfall - will drones help?",
+      "aiSummary": "Cloud seeding is attracting interest as nations seek to increase rainfall. Drones are being considered as a tool for delivering seeding materials into clouds. The article explores whether drones can effectively aid in cloud seeding efforts.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss",
+      "category": "Weather Modification",
+      "filterTags": [
+        "Cloud seeding",
+        "Drones"
+      ],
+      "publishedAt": "2026-10-07T07:09:32+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Weather Modification"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Agriculture"
+        }
+      ]
+    },
+    {
+      "slug": "meta-ai-open-sources-rebalancer-a-c-assignment-solver-that-runs-about-40-million-placement-problems-a-day",
+      "title": "Meta AI Open-Sources Rebalancer: A C++ Assignment Solver That Runs About 40 Million Placement Problems a Day",
+      "dek": "Meta has open-sourced Rebalancer, the C++ and Python library it has used for over 9 years to place shards, servers and traffic. It handles about 40 million assignment problems a day, using local search or MIP solvers like Gurobi, FICO Xpress and HiGHS. It is pip-installable under",
+      "aiSummary": "Meta has open-sourced Rebalancer, a C++ and Python library used for over nine years to manage the placement of shards, servers, and traffic. The system processes approximately 40 million assignment problems daily by utilizing local search or Mixed Integer Programming (MIP) solvers such as Gurobi, FICO Xpress, and HiGHS.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/06/meta-ai-open-sources-rebalancer-a-c-assignment-solver-that-runs-about-40-million-placement-problems-a-day/",
+      "category": "Open Source",
+      "filterTags": [
+        "Meta",
+        "Rebalancer",
+        "C++",
+        "Python",
+        "Gurobi",
+        "FICO Xpress",
+        "HiGHS",
+        "MIP"
+      ],
+      "publishedAt": "2026-10-07T06:29:14+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "why-ai-is-both-the-hope-and-the-hazard-for-world-leaders-according-to-imf-chief-georgieva",
+      "title": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
+      "dek": "Kristalina Georgieva warns that the technology lifting growth hopes is also pushing up inflation and yields, just as public debt levels rose.",
+      "aiSummary": "IMF chief Kristalina Georgieva cautions that AI, while boosting growth prospects, also contributes to higher inflation and bond yields. She notes that public debt has increased alongside these economic pressures.",
+      "articleUrl": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
+      "category": "Economics",
+      "filterTags": [
+        "AI",
+        "IMF",
+        "Kristalina Georgieva"
+      ],
+      "publishedAt": "2026-10-07T06:16:39+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Economics"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Global Finance"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1791366977-add-boundbuiltinmethod-tp-getset-199880",
+      "title": "viable/strict/1791366977: Add BoundBuiltinMethod `tp_getset` (#199880)",
+      "dek": "Pull Request resolved:  #199880 \nApproved by:  https://github.com/williamwen42",
+      "aiSummary": "Pull request #199880 adds the `tp_getset` attribute to the BoundBuiltinMethod class. The change was resolved and approved by williamwen42.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1791366977",
+      "category": "Open Source",
+      "filterTags": [
+        "viable",
+        "strict",
+        "BoundBuiltinMethod",
+        "tp_getset"
+      ],
+      "publishedAt": "2026-10-07T06:06:09+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "slug": "singapore-s-temasek-warns-of-the-biggest-risk-facing-markets-right-now",
+      "title": "Singapore's Temasek warns of the ‘biggest risk’ facing markets right now",
+      "dek": "Unwinding of the artificial intelligence trade poses the biggest risk to markets, according to  Singapore state-owned investment giant Temasek.",
+      "aiSummary": "Temasek, Singapore's state-owned investment company, has identified the unwinding of the artificial intelligence trade as the biggest risk to markets. The firm warns that this shift could negatively impact market stability.",
+      "articleUrl": "https://www.cnbc.com/2026/10/07/singapore-temasek-warns-of-the-biggest-risk-facing-markets.html",
+      "category": "Finance",
+      "filterTags": [
+        "Temasek",
+        "Artificial Intelligence",
+        "AI trade"
+      ],
+      "publishedAt": "2026-10-07T05:25:29+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Markets"
+        }
+      ]
+    },
+    {
+      "slug": "ainews-quasi-riemann-hypothesis-openai-publishes-722-math-papers-solving-90-of-the-top-500-open-math-problems-the-most-s",
+      "title": "[AINews] Quasi-Riemann-Hypothesis: OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; “the most significant moment” in >100 years of mathematics",
+      "dek": "Our head hurts.",
+      "aiSummary": "The provided description is a brief, emotional reaction stating \"Our head hurts.\" It does not contain factual information about the news article's content to summarize.",
+      "articleUrl": "https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "Mathematics",
+        "Riemann-Hypothesis"
+      ],
+      "publishedAt": "2026-10-07T04:55:44+00:00",
+      "publisher": {
+        "name": "Latent Space",
+        "domain": "latent.space",
+        "website": "https://www.latent.space/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Mathematics"
+        },
+        {
+          "name": "Research"
+        }
+      ]
+    },
+    {
+      "slug": "quoting-jake-boggan",
+      "title": "Quoting Jake Boggan",
+      "dek": "I was a graph theory junkie long ago and even moved to Budapest for awhile to study among the greats. While I was there I started working on Barnette's Conjecture which came to occupy my thoughts over the next 24 years of my life, on and off as I worked in many different fields. ",
+      "aiSummary": "Jake Boggan describes his early passion for graph theory, which led him to study in Budapest. He began working on Barnette's Conjecture during that time, a problem that continued to occupy his thoughts intermittently for the next 24 years across various fields.",
+      "articleUrl": "https://simonwillison.net/2026/Oct/7/jake-boggan/",
+      "category": "Mathematics",
+      "filterTags": [
+        "Graph Theory",
+        "Barnette's Conjecture",
+        "Budapest"
+      ],
+      "publishedAt": "2026-10-07T04:47:55+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Mathematics"
+        },
+        {
+          "name": "Research"
+        }
+      ]
+    },
+    {
+      "slug": "robust-ai-spending-sets-investors-up-for-another-bumper-us-earnings-season",
+      "title": "Robust AI spending sets investors up for another bumper US earnings season",
+      "dek": "S&P 500 earnings are forecast to rise 27% against a backdrop of stock market highs and elevated longer-term borrowing costs",
+      "aiSummary": "S&P 500 earnings are projected to increase by 27% due to robust spending on artificial intelligence. This growth is expected despite the current environment of stock market highs and elevated long-term borrowing costs.",
+      "articleUrl": "https://www.ft.com/content/7c38e8e3-8035-4036-8bc0-5fba2fbf77cb?syn-25a6b1a6=1",
+      "category": "Finance",
+      "filterTags": [
+        "S&P 500",
+        "AI",
+        "US Earnings"
+      ],
+      "publishedAt": "2026-10-07T04:00:22+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "how-ai-tempts-the-lazy-mind",
+      "title": "How AI tempts the lazy mind",
+      "dek": "The real risk of generative artificial intelligence is not that we will trust it completely, but that we will stop caring enough to check",
+      "aiSummary": "Generative AI's real danger is not that we will trust it blindly, but that we will become less diligent in checking its outputs. This could lead to misinformation or errors going unchecked.",
+      "articleUrl": "https://www.ft.com/content/f5d01c83-6133-4a01-a9c7-f8a2067b7c32?syn-25a6b1a6=1",
+      "category": "AI",
+      "filterTags": [
+        "Generative AI",
+        "Artificial Intelligence"
+      ],
+      "publishedAt": "2026-10-07T04:00:13+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Ethics"
+        }
+      ]
+    },
+    {
+      "slug": "comparing-the-reliability-of-coherent-systems-with-heterogeneous-dependent-and-distribution-free-components",
+      "title": "Comparing the reliability of coherent systems with heterogeneous, dependent and distribution-free components",
+      "dek": "arXiv:2610.06869v1 Announce Type: new \nAbstract: In recent years, there has been a growing interest in comparing the reliability of systems with dependent components. Most of the recent works consider Archimedean copulas to define the dependency structure of systems and examine s",
+      "aiSummary": "The paper discusses the increasing focus on comparing reliability of systems with dependent components. It notes that most recent studies use Archimedean copulas to model dependencies and analyze system performance.",
+      "articleUrl": "https://arxiv.org/abs/2610.06869",
+      "category": "Reliability",
+      "filterTags": [
+        "Archimedean copulas",
+        "coherent systems"
+      ],
+      "publishedAt": "2026-10-07T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Reliability"
+        },
+        {
+          "name": "Statistics"
+        },
+        {
+          "name": "Systems Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "entropy-based-goodness-of-fit-tests-for-generalized-kappa-gaussian-distributions",
+      "title": "Entropy-Based Goodness-of-Fit Tests for Generalized $\\kappa$ -Gaussian Distributions",
+      "dek": "arXiv:2610.06873v1 Announce Type: new \nAbstract: We introduce this class of multivariate Kappa-Gaussian distributions by maximizing a type of Kaniadakis $\\kappa$ entropy subject to certain first- and second-moment constraints. This differs slightly from the approach of R\\'enyi an",
+      "aiSummary": "The paper introduces a class of multivariate Kappa-Gaussian distributions derived by maximizing Kaniadakis entropy under first- and second-moment constraints. It presents entropy-based goodness-of-fit tests for these distributions, noting a slight methodological difference from the approach used by Rényi.",
+      "articleUrl": "https://arxiv.org/abs/2610.06873",
+      "category": "Statistics",
+      "filterTags": [
+        "Kaniadakis entropy",
+        "Kappa-Gaussian",
+        "goodness-of-fit",
+        "arXiv"
+      ],
+      "publishedAt": "2026-10-07T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Statistics"
+        },
+        {
+          "name": "Mathematics"
+        }
+      ]
+    },
+    {
+      "slug": "optimal-linear-functional-estimation-for-proportionally-high-dimensional-linear-models",
+      "title": "Optimal Linear Functional Estimation for Proportionally High-Dimensional Linear Models",
+      "dek": "arXiv:2610.06875v1 Announce Type: new \nAbstract: We study estimation of a linear functional in random-design linear models when $\\gamma=p/n \\in (1, \\infty)$ under the dense regime where the design covariance is unknown, and neither the regression vector nor the precision matrix i",
+      "aiSummary": "The paper investigates how to estimate a linear functional in random-design linear models where the number of parameters exceeds the sample size (γ>1). It focuses on the dense regime with unknown design covariance and unknown regression vector and precision matrix.",
+      "articleUrl": "https://arxiv.org/abs/2610.06875",
+      "category": "Statistics",
+      "filterTags": [
+        "linear functional",
+        "random-design linear models",
+        "high-dimensional statistics",
+        "covariance estimation"
+      ],
+      "publishedAt": "2026-10-07T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Statistics"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Data Science"
+        }
+      ]
+    },
+    {
+      "slug": "apple-s-home-ecosystem-openai-math-state-of-tech",
+      "title": "Apple's home ecosystem 🏠, OpenAI math 🧮, state of tech 👨‍💻",
+      "dek": "Apple's home system, OpenAI's math capabilities, and the current state of the tech industry.",
+      "aiSummary": "The article covers Apple's home ecosystem, OpenAI's mathematical capabilities, and the general state of the technology sector. No specific details or facts are provided in the text snippet.",
+      "articleUrl": "https://tldr.tech/tech/2026-10-07",
+      "category": "Consumer Tech",
+      "filterTags": [
+        "Apple",
+        "OpenAI"
+      ],
+      "publishedAt": "2026-10-07T00:00:00+00:00",
+      "publisher": {
+        "name": "TLDR",
+        "domain": "tldr.tech",
+        "website": "https://tldr.tech/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=tldr.tech&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=tldr.tech&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Tech"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Technology Industry"
+        }
+      ]
+    }
+  ]
+}
