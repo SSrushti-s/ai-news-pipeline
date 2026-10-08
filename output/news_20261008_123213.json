@@ -1,0 +1,1742 @@
+{
+  "news": [
+    {
+      "slug": "how-hn-dialtrace-see-where-the-time-goes-on-a-voice-ai-phone-call",
+      "title": "How HN: Dialtrace – see where the time goes on a voice AI phone call",
+      "dek": "Dialtrace helps users identify where time is spent during voice AI phone calls.",
+      "aiSummary": "Dialtrace is a tool designed to visualize the timing of voice AI phone calls. It allows users to see exactly where the time goes during these interactions.",
+      "articleUrl": "https://github.com/shahin-hu/dialtrace",
+      "category": "AI",
+      "filterTags": [
+        "Dialtrace",
+        "Voice AI",
+        "Telephony"
+      ],
+      "publishedAt": "2026-10-08T12:26:14+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "what-are-the-monkeys-typing-we-can-see-what-ai-does-we-can-t-tell-why",
+      "title": "What Are the Monkeys Typing? We can see what AI does. We can't tell why",
+      "dek": "We can observe AI actions but cannot explain the reasons behind them.",
+      "aiSummary": "The article highlights the current limitation in understanding artificial intelligence, noting that while it is possible to see what AI systems do, it remains difficult to determine why they perform those specific actions.",
+      "articleUrl": "https://macanorak.com/what-are-the-monkeys-typing/",
+      "category": "AI",
+      "filterTags": [
+        "AI"
+      ],
+      "publishedAt": "2026-10-08T12:25:04+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Interpretability"
+        }
+      ]
+    },
+    {
+      "slug": "tell-us-have-you-been-monitored-or-assessed-by-ai-at-work",
+      "title": "Tell us: have you been monitored or assessed by AI at work?",
+      "dek": "We’d like to hear from people who have been monitored or assessed by AI at work and what they thought about the experience Firms are increasingly using AI to monitor or assess their employees, leading to concerns about workplace surveillance. Instructors at tech training company ",
+      "aiSummary": "Companies are increasingly deploying AI to monitor and assess employees, which has raised concerns regarding workplace surveillance. The article seeks input from individuals who have experienced this type of AI-driven evaluation in their professional roles.",
+      "articleUrl": "https://www.theguardian.com/technology/2026/oct/08/tell-us-have-you-been-monitored-or-assessed-by-ai-at-work",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Workplace Surveillance",
+        "Employee Monitoring"
+      ],
+      "publishedAt": "2026-10-08T12:23:20+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Workplace"
+        },
+        {
+          "name": "Privacy"
+        }
+      ]
+    },
+    {
+      "slug": "b11499",
+      "title": "b11499",
+      "dek": "cuda : Use byte strides for roll to allow non-contiguous ROLL operations ( #29547 ) \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/53926988 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silicon (arm64, Kl",
+      "aiSummary": "This update introduces a change to the CUDA backend that utilizes byte strides for roll operations, enabling support for non-contiguous ROLL operations. The release is associated with the llama.cpp project and includes attestations for macOS and iOS platforms.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11499",
+      "category": "AI",
+      "filterTags": [
+        "CUDA",
+        "llama.cpp",
+        "macOS",
+        "iOS",
+        "Apple Silicon"
+      ],
+      "publishedAt": "2026-10-08T12:23:05+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "spacetimedb-ax-audit-a-review-for-ai-agents",
+      "title": "SpacetimeDB Ax Audit: A Review for AI Agents",
+      "dek": "An examination of the SpacetimeDB Ax system specifically for artificial intelligence agents.",
+      "aiSummary": "The provided text contains only the title 'SpacetimeDB Ax Audit: A Review for AI Agents' and no descriptive body content. Consequently, no specific facts, technical details, or narrative information are available to summarize beyond the headline itself.",
+      "articleUrl": "https://techstackups.com/articles/spacetimedb-ax-audit/",
+      "category": "AI",
+      "filterTags": [
+        "SpacetimeDB",
+        "AI Agents"
+      ],
+      "publishedAt": "2026-10-08T12:21:57+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Databases"
+        }
+      ]
+    },
+    {
+      "slug": "your-iphone-can-capture-the-draconid-meteor-shower-if-you-use-the-right-tools",
+      "title": "Your iPhone can capture the Draconid meteor shower if you use the right tools",
+      "dek": "The  iPhone  is a surprisingly capable meteor-hunting camera, but it's definitely not a point-and-shoot sort of situation. Here's how to take excellent photos of tonight's Draconid meteor shower, satellites, and more. Image credit: Florian Seiffert / @ popipaan on X It's October,",
+      "aiSummary": "The article explains that while an iPhone is capable of capturing meteors, it requires specific techniques rather than simple point-and-shoot usage. It provides instructions on how to take high-quality photos of the Draconid meteor shower and satellites using the device.",
+      "articleUrl": "https://appleinsider.com/inside/iphone/tips/your-iphone-can-capture-the-perseids-meteor-shower-if-you-use-the-right-tools?utm_source=rss",
+      "category": "Consumer Tech",
+      "filterTags": [
+        "iPhone",
+        "Draconid meteor shower",
+        "Astrophotography"
+      ],
+      "publishedAt": "2026-10-08T12:18:31+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Tech"
+        },
+        {
+          "name": "Astronomy"
+        }
+      ]
+    },
+    {
+      "slug": "microsoft-expands-xbox-s-movie-tv-ambitions-with-new-division",
+      "title": "Microsoft Expands Xbox’s Movie, TV Ambitions With New Division",
+      "dek": "Microsoft Corp.’s Xbox unit is formalizing its film and TV foray with a new division focused on expanding the video-game giant’s franchises into other media.",
+      "aiSummary": "Microsoft's Xbox division is establishing a new unit dedicated to expanding its video game franchises into film and television. This move formalizes the company's efforts to adapt its gaming properties for other media formats.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-08/microsoft-expands-xbox-s-movie-tv-ambitions-with-new-division",
+      "category": "Gaming",
+      "filterTags": [
+        "Microsoft",
+        "Xbox"
+      ],
+      "publishedAt": "2026-10-08T12:05:00+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "Entertainment"
+        }
+      ]
+    },
+    {
+      "slug": "jpmorgan-s-gehl-on-tech-ai-fundraising-capex-ipo",
+      "title": "JPMorgan's Gehl on Tech & AI Fundraising, Capex, IPO",
+      "dek": "Matthew Gehl, Co-head of International Technology Investment Banking at JPMorgan spoke to Bloomberg's Tom Mackenzie at the 2026 JPMorgan Tech Stars event in London on Oct. 6.  (Source: Bloomberg)",
+      "aiSummary": "Matthew Gehl, Co-head of International Technology Investment Banking at JPMorgan, discussed trends in tech and AI fundraising, capital expenditure, and IPOs. The remarks were made during an interview with Bloomberg's Tom Mackenzie at the 2026 JPMorgan Tech Stars event in London on October 6.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-08/jpmorgan-s-gehl-on-tech-ai-fundraising-capex-ipo-video",
+      "category": "Finance",
+      "filterTags": [
+        "JPMorgan",
+        "AI",
+        "IPO",
+        "Bloomberg"
+      ],
+      "publishedAt": "2026-10-08T12:03:43+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Investment Banking"
+        }
+      ]
+    },
+    {
+      "slug": "yelp-who-4-ways-google-maps-can-help-you-find-your-next-meal-and-order-it",
+      "title": "Yelp, who? 4 ways Google Maps can help you find your next meal – and order it",
+      "dek": "There’s more to Google Maps’ dining tools than reviews and directions – and a few are worth a look before your next night out.",
+      "aiSummary": "Google Maps offers dining features beyond standard reviews and directions that can assist users in finding their next meal. The article highlights four specific ways the platform can help users locate restaurants and place orders before going out.",
+      "articleUrl": "https://www.zdnet.com/tech/google-maps-features-restaurants-dining-food-ordering/",
+      "category": "Consumer Technology",
+      "filterTags": [
+        "Google Maps",
+        "Yelp",
+        "Food Delivery"
+      ],
+      "publishedAt": "2026-10-08T12:00:07+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Technology"
+        },
+        {
+          "name": "Local Services"
+        }
+      ]
+    },
+    {
+      "slug": "b11498",
+      "title": "b11498",
+      "dek": "CUDA: fix norm family kernels when ne[2]/ne[3] exceed grid dim limits ( #28175 ) \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/53919465 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silicon (arm64, Kleid",
+      "aiSummary": "This update addresses a bug in CUDA norm family kernels that occurred when the second or third dimensions exceeded grid dimension limits. The fix is associated with pull request #28175 in the llama.cpp repository.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11498",
+      "category": "AI",
+      "filterTags": [
+        "CUDA",
+        "llama.cpp",
+        "ggml",
+        "Apple Silicon"
+      ],
+      "publishedAt": "2026-10-08T11:59:02+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "b11497",
+      "title": "b11497",
+      "dek": "sycl: fuse the delta-net alpha gate (add + unary + mul) ( #29687 ) \n \n \n sycl: fuse the delta-net alpha gate (add + unary + mul) \n \n \n tests: cover the fused add + unary + mul chain \n \n \n sycl: give the fused alpha gate a flat path and pin the node skip \n \n \n \n Website: \n \n https",
+      "aiSummary": "The update fuses the add, unary, and multiply operations of the delta-net alpha gate within the SYCL backend. It includes new tests to cover this fused operation chain and implements a flat path with pinned node skipping for the fused alpha gate.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11497",
+      "category": "Machine Learning",
+      "filterTags": [
+        "SYCL",
+        "delta-net",
+        "alpha gate",
+        "fused operations"
+      ],
+      "publishedAt": "2026-10-08T11:37:43+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Performance Optimization"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "touch-screen-macbook-pro-may-be-lighter-but-it-won-t-be-much-thinner",
+      "title": "Touch-screen MacBook Pro may be lighter, but it won't be much thinner",
+      "dek": "Mark Gurman has walked back his own previous claims that the forthcoming OLED touch-screen  MacBook Pro  will feature a redesigned and thinner chassis. Apple's current MacBook Pro. A new MacBook Pro is now expected before the end of  November 2026 , and it has long been predicted",
+      "aiSummary": "Mark Gurman has retracted earlier claims that the new OLED touch‑screen MacBook Pro would have a thinner chassis. The device is still expected to be lighter, but its thickness will not change significantly. Apple plans to release the updated MacBook Pro before the end of November 2026.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/08/touch-screen-macbook-pro-may-be-lighter-but-it-wont-be-much-thinner?utm_source=rss",
+      "category": "Hardware",
+      "filterTags": [
+        "Apple",
+        "MacBook Pro",
+        "OLED",
+        "touch-screen"
+      ],
+      "publishedAt": "2026-10-08T11:34:28+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Apple"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-s-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots",
+      "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+      "dek": "Full-stack safety solution for physical AI is being used by robotics companies.",
+      "aiSummary": "Nvidia is developing a full-stack safety solution for physical AI. This technology is currently being utilized by robotics companies to enhance the safety of autonomous vehicles and humanoid robots.",
+      "articleUrl": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+      "category": "AI",
+      "filterTags": [
+        "Nvidia",
+        "Physical AI",
+        "Robotics",
+        "Robotaxis",
+        "Humanoid Robots"
+      ],
+      "publishedAt": "2026-10-08T11:15:33+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Robotics"
+        },
+        {
+          "name": "Autonomous Vehicles"
+        }
+      ]
+    },
+    {
+      "slug": "total-war-shogun-2-complete-edition-is-coming-to-macos",
+      "title": "'Total War: Shogun 2 - Complete Edition' is coming to macOS",
+      "dek": "Total War: Shogun 2 - Complete Edition  contains all DLC, including the  Rise of the Samurai  and  Fall of the Samurai  campaigns. It's also got some improvements, with a higher resolution that the original, more content, and so forth. It's  expected to ship  for Mac in the first",
+      "aiSummary": "Total War: Shogun 2 - Complete Edition is scheduled for release on macOS, featuring all downloadable content including the Rise of the Samurai and Fall of the Samurai campaigns. The edition includes improvements such as higher resolution and additional content compared to the original release.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/08/total-war-shogun-2---complete-edition-is-coming-to-macos?utm_source=rss",
+      "category": "Gaming",
+      "filterTags": [
+        "Total War: Shogun 2",
+        "macOS",
+        "Creative Assembly"
+      ],
+      "publishedAt": "2026-10-08T11:12:07+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "Software"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-9389571d20ccf1aa5c20b063ee2ec29764ad6e79",
+      "title": "trunk/9389571d20ccf1aa5c20b063ee2ec29764ad6e79",
+      "dek": "[Testcase Refactoring] Add hw_classification label to test_int_tuple.…",
+      "aiSummary": "The commit refactors test cases by adding a hardware classification label to the test_int_tuple module. This change updates the test suite to include hw_classification metadata. It likely improves test categorization.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F9389571d20ccf1aa5c20b063ee2ec29764ad6e79",
+      "category": "Software Development",
+      "filterTags": [
+        "hw_classification",
+        "test_int_tuple",
+        "Testcase Refactoring"
+      ],
+      "publishedAt": "2026-10-08T11:09:02+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Testing"
+        }
+      ]
+    },
+    {
+      "slug": "startups-fill-a-void-left-by-google-to-rival-meta-s-muse",
+      "title": "Startups Fill a Void Left by Google to Rival Meta’s Muse",
+      "dek": "Wajo, a company founded by a former Google engineer, has released an AI agent",
+      "aiSummary": "Wajo, a startup founded by a former Google engineer, has released an AI agent. This development reflects a trend of startups stepping in to compete with Meta’s Muse after Google stepped back.",
+      "articleUrl": "https://www.bloomberg.com/news/newsletters/2026-10-08/startups-fill-a-void-left-by-google-to-rival-meta-s-muse",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Wajo",
+        "Google",
+        "Meta",
+        "Muse",
+        "AI agent"
+      ],
+      "publishedAt": "2026-10-08T11:02:01+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Startups"
+        },
+        {
+          "name": "Technology Competition"
+        }
+      ]
+    },
+    {
+      "slug": "asos-hackers-took-more-personal-details-than-first-revealed-bbc-finds",
+      "title": "Asos hackers took more personal details than first revealed, BBC finds",
+      "dek": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\"",
+      "aiSummary": "The BBC discovered that cyber criminals behind the recent Asos breach stole more personal data than the retailer initially admitted. Asos has issued an update after being contacted by the hackers, who claimed the intrusion went beyond basic contact details.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
+      "category": "Security",
+      "filterTags": [
+        "Asos",
+        "BBC",
+        "cyber criminals",
+        "data breach"
+      ],
+      "publishedAt": "2026-10-08T11:01:29+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Retail"
+        },
+        {
+          "name": "Data Privacy"
+        }
+      ]
+    },
+    {
+      "slug": "ai-engineers-applied-scientists-forward-deployed-engineers-let-s-unpack",
+      "title": "AI Engineers, Applied Scientists, Forward Deployed Engineers: Let's Unpack.",
+      "dek": "An exploration of the new data science roles emerging after the Large Language Model explosion. \n The post  AI Engineers, Applied Scientists, Forward Deployed Engineers: Let's Unpack.  appeared first on  Towards Data Science .",
+      "aiSummary": "The article examines new data science positions that have arisen following the rise of large language models. It discusses the responsibilities and distinctions among AI Engineers, Applied Scientists, and Forward Deployed Engineers. The piece highlights how these roles differ in focus and skill sets.",
+      "articleUrl": "https://towardsdatascience.com/ai-engineers-applied-scientists-forward-deployed-engineers-lets-unpack/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Large Language Models",
+        "AI Engineer",
+        "Applied Scientist",
+        "Forward Deployed Engineer",
+        "Data Science"
+      ],
+      "publishedAt": "2026-10-08T11:00:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Data Science"
+        },
+        {
+          "name": "Career Development"
+        }
+      ]
+    },
+    {
+      "slug": "look-before-you-cut-finding-the-root-cause-of-power-device-failures",
+      "title": "Look Before You Cut: Finding the Root Cause of Power Device Failures",
+      "dek": "ZEISS explains how X-ray, laser prep and electron microscopy reveal why wide bandgap power devices fail. \n The post  Look Before You Cut: Finding the Root Cause of Power Device Failures  appeared first on  Power Electronics News .",
+      "aiSummary": "ZEISS demonstrates how X-ray imaging, laser preparation, and electron microscopy are used to uncover the reasons behind failures in wide bandgap power devices. The article highlights the importance of detailed failure analysis for improving device reliability.",
+      "articleUrl": "https://www.powerelectronicsnews.com/look-before-you-cut-finding-the-root-cause-of-power-device-failures/",
+      "category": "Hardware",
+      "filterTags": [
+        "ZEISS",
+        "X-ray",
+        "laser prep",
+        "electron microscopy",
+        "wide bandgap power devices"
+      ],
+      "publishedAt": "2026-10-08T11:00:00+00:00",
+      "publisher": {
+        "name": "Power Electronics News",
+        "domain": "powerelectronicsnews.com",
+        "website": "https://www.powerelectronicsnews.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Semiconductor"
+        },
+        {
+          "name": "Failure Analysis"
+        },
+        {
+          "name": "Power Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "sam-altman-says-ai-will-make-bad-things-happen-exhibit-a-needless-death-moustafa-bayoumi",
+      "title": "Sam Altman says AI will make ‘bad things’ happen. Exhibit A: needless death | Moustafa Bayoumi",
+      "dek": "AI is already implicated in violent deaths and nearly started world war three. Those bad things? They only happen to other people Sam Altman, the chief executive of OpenAI, has some words for you about his company and the future of artificial intelligence. “One of the differences",
+      "aiSummary": "Sam Altman, the CEO of OpenAI, acknowledges that AI will cause harmful events, pointing to a needless death as a primary example. The article argues that while these dangers are real, they disproportionately affect others rather than the tech industry's leadership.",
+      "articleUrl": "https://www.theguardian.com/commentisfree/2026/oct/08/ai-death-war-sam-altman",
+      "category": "AI",
+      "filterTags": [
+        "Sam Altman",
+        "OpenAI",
+        "AI"
+      ],
+      "publishedAt": "2026-10-08T10:00:16+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Ethics"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "nano-banana-2-1-review",
+      "title": "Nano Banana 2.1 Review",
+      "dek": "Have an idea for a lesson illustration, a project chart, or a comic for your next presentation? Nano Banana 2.1 lets you explore these formats with text prompts, making it easier to try different visual styles without switching between tools. In this article, we test Nano Banana ",
+      "aiSummary": "The article evaluates Nano Banana 2.1, a tool that lets users generate lesson illustrations, project charts, or comics using text prompts. It highlights how the software simplifies experimenting with different visual styles without needing to switch between separate applications.",
+      "articleUrl": "https://www.analyticsvidhya.com/blog/2026/10/nano-banana-2-1-review/",
+      "category": "AI",
+      "filterTags": [
+        "Nano Banana"
+      ],
+      "publishedAt": "2026-10-08T09:41:47+00:00",
+      "publisher": {
+        "name": "Analytics Vidhya",
+        "domain": "analyticsvidhya.com",
+        "website": "https://www.analyticsvidhya.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=analyticsvidhya.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=analyticsvidhya.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Education"
+        },
+        {
+          "name": "Design"
+        }
+      ]
+    },
+    {
+      "slug": "russia-s-internet-giant-yandex-halts-operations-at-major-data-center-after-drone-attack",
+      "title": "Russia's internet giant Yandex halts operations at major data center after drone attack",
+      "dek": "Russian internet giant Yandex paused operations inside one of its data centers after a drone attack as Ukraine continues to hit the country's infrastructure.",
+      "aiSummary": "Yandex halted operations at one of its data centers following a drone attack. The strike is part of ongoing Ukrainian attacks on Russian infrastructure.",
+      "articleUrl": "https://www.cnbc.com/2026/10/08/russia-yandex-ukraine-drone-strike-data-center.html",
+      "category": "Technology",
+      "filterTags": [
+        "Yandex",
+        "Russia",
+        "Ukraine",
+        "data center",
+        "drone attack"
+      ],
+      "publishedAt": "2026-10-08T09:40:36+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Geopolitics"
+        }
+      ]
+    },
+    {
+      "slug": "tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led",
+      "title": "Tristan Harris’ Tech Nonprofit Is Laying Off Most Staff and Going ‘Founder-Led’",
+      "dek": "The Center for Humane Technology helped spark a movement against excessive screen time, but internal tensions over its direction and strategy have simmered for years, sources tell WIRED.",
+      "aiSummary": "The Center for Humane Technology, a nonprofit known for advocating against excessive screen time, is laying off the majority of its staff to transition to a 'founder-led' model. According to sources, this restructuring follows years of internal tensions regarding the organization's direction and strategy.",
+      "articleUrl": "https://www.wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led/",
+      "category": "Technology Policy",
+      "filterTags": [
+        "Tristan Harris",
+        "Center for Humane Technology",
+        "WIRED"
+      ],
+      "publishedAt": "2026-10-08T09:30:00+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology Policy"
+        },
+        {
+          "name": "Nonprofit Management"
+        },
+        {
+          "name": "Digital Wellbeing"
+        }
+      ]
+    },
+    {
+      "slug": "v1-105-0-rc-3",
+      "title": "v1.105.0-rc.3",
+      "dek": "Verify Docker Image Signature \n All LiteLLM Docker images are signed with  cosign . Every release is signed with the same key introduced in  commit  0112e53 . \n Verify using the pinned commit hash (recommended): \n A commit hash is cryptographically immutable, so this is the stron",
+      "aiSummary": "The v1.105.0-rc.3 release includes Docker images that are signed with cosign. Each release uses the same signing key introduced in commit 0112e53, and users are encouraged to verify signatures using the pinned commit hash for cryptographic immutability.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.105.0-rc.3",
+      "category": "Security",
+      "filterTags": [
+        "LiteLLM",
+        "cosign",
+        "Docker",
+        "commit hash"
+      ],
+      "publishedAt": "2026-10-08T09:26:45+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Containerization"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "man-vs-terminator-like-robot-in-a-cage-california-called-it-illegal",
+      "title": "Man vs. ‘Terminator’-Like Robot in a Cage. California Called It Illegal.",
+      "dek": "A tech start-up’s stunt in San Francisco tested the boundaries of combat sport safety and regulations.",
+      "aiSummary": "A tech start-up organized a stunt in San Francisco where a human competed against a robot resembling the Terminator in a cage. The event was deemed illegal by California authorities, highlighting tensions between combat sport safety regulations and technological demonstrations.",
+      "articleUrl": "https://www.nytimes.com/2026/10/08/technology/human-robot-cage-fights-california-rek.html",
+      "category": "Robotics",
+      "filterTags": [
+        "San Francisco",
+        "California",
+        "Robot",
+        "Tech Start-up"
+      ],
+      "publishedAt": "2026-10-08T09:03:22+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Robotics"
+        },
+        {
+          "name": "Regulation"
+        },
+        {
+          "name": "Entertainment"
+        }
+      ]
+    },
+    {
+      "slug": "dystopian-co-op-becomes-latest-firm-to-put-staff-under-ai-surveillance",
+      "title": "‘Dystopian’: Co-op becomes latest firm to put staff under AI surveillance",
+      "dek": "Whistleblower says recording and analysis of all probate calls in Co-op Legal Services is oppressive The Co-op has become the latest employer to place workers under AI surveillance with an automated listening technology that rates every phone call some of them make to customers. ",
+      "aiSummary": "A whistleblower claims that Co‑op Legal Services records and analyzes all probate calls, which they say is oppressive. The company uses an automated listening system that rates every customer call made by staff.",
+      "articleUrl": "https://www.theguardian.com/technology/2026/oct/08/co-op-legal-services-ai-customer-phone-call-surveillance",
+      "category": "AI",
+      "filterTags": [
+        "Co-op",
+        "Co-op Legal Services",
+        "AI surveillance",
+        "automated listening technology"
+      ],
+      "publishedAt": "2026-10-08T09:00:16+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Legal Services"
+        }
+      ]
+    },
+    {
+      "slug": "ai-breakthroughs-in-robotics-won-t-change-your-life-any-time-soon",
+      "title": "AI breakthroughs in robotics won’t change your life any time soon",
+      "dek": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been poppin",
+      "aiSummary": "The article, a collaboration between MIT Technology Review and Aventine, discusses AI breakthroughs in robotics and notes that these advances are unlikely to change daily life soon. It also mentions a humanoid robot with a white body and black head and torso.",
+      "articleUrl": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "MIT Technology Review",
+        "Aventine",
+        "AI",
+        "Robotics"
+      ],
+      "publishedAt": "2026-10-08T09:00:00+00:00",
+      "publisher": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "website": "https://www.technologyreview.com/",
+        "logoUrl": "https://www.technologyreview.com/static/media/favicon.1cfcdb44759a0f93ddf5feb5405dd4cc.ico",
+        "faviconUrl": "https://www.technologyreview.com/static/media/favicon.1cfcdb44759a0f93ddf5feb5405dd4cc.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Robotics"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "steve-jobs-in-exile",
+      "title": "Steve Jobs in Exile",
+      "dek": "The popular story of Steve Jobs is that he co-founded Apple, was pushed out, wandered through a failed venture called NeXT, then returned to save the company and usher in the iPod and iPhone. That version is memorable, widely repeated, and, in an important sense, wrong. His years",
+      "aiSummary": "The common narrative says Jobs co‑founded Apple, was forced out, ran the failed NeXT company, and then returned to lead Apple to the iPod and iPhone. The article claims that this story is widely repeated but fundamentally incorrect. It focuses on the early years of Jobs’ career.",
+      "articleUrl": "https://softwareengineeringdaily.com/podcasts/steve-jobs-in-exile/",
+      "category": "Hardware",
+      "filterTags": [
+        "Apple",
+        "NeXT",
+        "iPod",
+        "iPhone"
+      ],
+      "publishedAt": "2026-10-08T09:00:00+00:00",
+      "publisher": {
+        "name": "Software Engineering Daily",
+        "domain": "softwareengineeringdaily.com",
+        "website": "https://softwareengineeringdaily.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=softwareengineeringdaily.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=softwareengineeringdaily.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Software"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "architect-launches-liquid-inference-a-real-time-auction-for-llm-inference",
+      "title": "Architect Launches Liquid Inference, a Real-Time Auction for LLM Inference",
+      "dek": "Architect Financial Technologies has launched Liquid Inference, an LLM router that runs a live auction for every request. Liquid Inference is an LLM inference marketplace from Architect where providers bid to serve each prompt. The buyer pays the lowest offer that meets its rules",
+      "aiSummary": "Architect Financial Technologies has launched Liquid Inference, a marketplace for LLM inference that operates as a real-time auction for every request. In this system, providers bid to serve each prompt, and the buyer pays the lowest offer that satisfies their specific rules.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/08/architect-launches-liquid-inference-a-real-time-auction-for-llm-inference/",
+      "category": "AI",
+      "filterTags": [
+        "Architect Financial Technologies",
+        "Liquid Inference",
+        "LLM",
+        "Inference",
+        "Auction"
+      ],
+      "publishedAt": "2026-10-08T08:53:34+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Marketplace"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "v3-26-1",
+      "title": "v3.26.1",
+      "dek": "3.26.1  (2026-10-08) \n Bug Fixes \n \n api:  correct custom voice creation parameters ( #4038 ) ( b9bc5c1 )",
+      "aiSummary": "The 3.26.1 release, dated October 8, 2026, includes a bug fix for the API. This update corrects the parameters used for creating custom voices.",
+      "articleUrl": "https://github.com/openai/openai-python/releases/tag/v3.26.1",
+      "category": "Software Development",
+      "filterTags": [
+        "API",
+        "custom voice"
+      ],
+      "publishedAt": "2026-10-08T08:53:32+00:00",
+      "publisher": {
+        "name": "openai",
+        "domain": "github.com",
+        "website": "https://github.com/openai/openai-python",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "API"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-pivotopd-teaches-multi-turn-ai-agents-to-recover-from-pivotal-mistakes",
+      "title": "NVIDIA PivotOPD Teaches Multi-Turn AI Agents to Recover From Pivotal Mistakes",
+      "dek": "NVIDIA researchers introduced PivotOPD, an on-policy distillation method that trains multi-turn LLM agents to avoid early pivotal mistakes and recover from them, posting the best average against 13 baselines on 3 agent benchmarks. \n The post  NVIDIA PivotOPD Teaches Multi-Turn AI",
+      "aiSummary": "NVIDIA researchers unveiled PivotOPD, an on‑policy distillation technique that trains large language model agents to avoid and recover from early pivotal mistakes in multi‑turn interactions. The method achieved the best average performance compared to 13 baseline approaches across three agent benchmarks.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/08/nvidia-pivotopd-teaches-multi-turn-ai-agents-to-recover-from-pivotal-mistakes/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "NVIDIA",
+        "PivotOPD",
+        "LLM",
+        "on-policy distillation",
+        "multi-turn AI agents"
+      ],
+      "publishedAt": "2026-10-08T08:40:02+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Natural Language Processing"
+        }
+      ]
+    },
+    {
+      "slug": "v1-104-2",
+      "title": "v1.104.2",
+      "dek": "Verify Docker Image Signature \n All LiteLLM Docker images are signed with  cosign . Every release is signed with the same key introduced in  commit  0112e53 . \n Verify using the pinned commit hash (recommended): \n A commit hash is cryptographically immutable, so this is the stron",
+      "aiSummary": "LiteLLM Docker images are signed with cosign, using a key introduced in commit 0112e53. Each release, including v1.104.2, is signed with that key. Verification is recommended using the pinned commit hash, which ensures cryptographic immutability.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.104.2",
+      "category": "Security",
+      "filterTags": [
+        "LiteLLM",
+        "cosign",
+        "Docker"
+      ],
+      "publishedAt": "2026-10-08T08:39:07+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Containerization"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "dram-demand-and-dramas-are-asian-obsessions",
+      "title": "DRam demand and dramas are Asian obsessions",
+      "dek": "DRam demand and dramas are Asian obsessions",
+      "aiSummary": "The article highlights that both DRAM demand and television dramas are significant obsessions in Asia. It suggests a cultural or economic focus on these two distinct areas within the region.",
+      "articleUrl": "https://www.ft.com/content/b08d5cf8-f4d0-476e-9947-ce8f104e3184?syn-25a6b1a6=1",
+      "category": "Technology",
+      "filterTags": [
+        "DRAM",
+        "TV Dramas",
+        "Asia"
+      ],
+      "publishedAt": "2026-10-08T08:26:09+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Media"
+        },
+        {
+          "name": "Consumer Trends"
+        }
+      ]
+    },
+    {
+      "slug": "building-a-safer-path-to-autonomous-industrial-ai",
+      "title": "Building a safer path to autonomous industrial AI",
+      "dek": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that ope",
+      "aiSummary": "Industrial AI is moving beyond predictive analytics into more complex automation thanks to foundation models, physical AI, and agentic AI. These advances enable autonomous tasks in industrial settings. The shift raises new safety considerations.",
+      "articleUrl": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+      "category": "AI",
+      "filterTags": [
+        "foundation models",
+        "physical AI",
+        "agentic AI",
+        "industrial AI",
+        "predictive analytics"
+      ],
+      "publishedAt": "2026-10-08T08:17:32+00:00",
+      "publisher": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "website": "https://www.technologyreview.com/",
+        "logoUrl": "https://www.technologyreview.com/static/media/favicon.1cfcdb44759a0f93ddf5feb5405dd4cc.ico",
+        "faviconUrl": "https://www.technologyreview.com/static/media/favicon.1cfcdb44759a0f93ddf5feb5405dd4cc.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Industrial Automation"
+        },
+        {
+          "name": "Safety"
+        }
+      ]
+    },
+    {
+      "slug": "huawei-doubles-down-on-smartphones-as-ev-sales-slow",
+      "title": "Huawei doubles down on smartphones as EV sales slow",
+      "dek": "Chinese tech company Huawei wants to rebuild its consumer business after U.S. sanctions halved segment revenue.",
+      "aiSummary": "Huawei is prioritizing the expansion of its smartphone division in response to a slowdown in electric vehicle sales. The company aims to restore its consumer business, which saw revenue cut in half due to U.S. sanctions.",
+      "articleUrl": "https://www.cnbc.com/2026/10/08/huawei-china-smartphone-ev-slow.html",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Huawei",
+        "Smartphones",
+        "EV",
+        "U.S. sanctions"
+      ],
+      "publishedAt": "2026-10-08T08:04:11+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Automotive"
+        },
+        {
+          "name": "Corporate Strategy"
+        }
+      ]
+    },
+    {
+      "slug": "n8n-1-123-84",
+      "title": "n8n@1.123.84",
+      "dek": "1.123.84  (2026-10-08)",
+      "aiSummary": "The release of n8n version 1.123.84 was announced on October 8, 2026. The version number indicates a minor update.",
+      "articleUrl": "https://github.com/n8n-io/n8n/releases/tag/n8n%401.123.84",
+      "category": "Software",
+      "filterTags": [
+        "n8n"
+      ],
+      "publishedAt": "2026-10-08T08:00:02+00:00",
+      "publisher": {
+        "name": "n8n-io",
+        "domain": "github.com",
+        "website": "https://github.com/n8n-io/n8n",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software"
+        },
+        {
+          "name": "Automation"
+        }
+      ]
+    },
+    {
+      "slug": "v1-102-4",
+      "title": "v1.102.4",
+      "dek": "Verify Docker Image Signature \n All LiteLLM Docker images are signed with  cosign . Every release is signed with the same key introduced in  commit  0112e53 . \n Verify using the pinned commit hash (recommended): \n A commit hash is cryptographically immutable, so this is the stron",
+      "aiSummary": "All LiteLLM Docker images are now signed using `cosign`, with each release utilizing the same key established in commit `0112e53`. Users are advised to verify these images by using the pinned commit hash, which ensures cryptographic immutability and strong security.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.102.4",
+      "category": "Security",
+      "filterTags": [
+        "Docker",
+        "cosign",
+        "LiteLLM"
+      ],
+      "publishedAt": "2026-10-08T07:49:06+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1791458994",
+      "title": "viable/strict/1791458994",
+      "dek": "[2/2][test] Extract xpu and mps tests from  TestCppExtensionJIT  into…",
+      "aiSummary": "This change extracts XPU and MPS tests from the TestCppExtensionJIT class. It is part of a two-part series focused on testing improvements.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1791458994",
+      "category": "Machine Learning",
+      "filterTags": [
+        "PyTorch",
+        "XPU",
+        "MPS",
+        "JIT",
+        "C++"
+      ],
+      "publishedAt": "2026-10-08T07:41:02+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Testing"
+        }
+      ]
+    },
+    {
+      "slug": "ainews-claude-haiku-5-5-better-than-gpt-6-luna-at-the-same-pricing",
+      "title": "[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
+      "dek": "yay small models",
+      "aiSummary": "The article announces that Claude Haiku 5.5 is better than GPT-6 Luna at the same pricing, highlighting the effectiveness of small models.",
+      "articleUrl": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
+      "category": "AI",
+      "filterTags": [
+        "Claude Haiku 5.5",
+        "GPT-6 Luna"
+      ],
+      "publishedAt": "2026-10-08T07:27:51+00:00",
+      "publisher": {
+        "name": "Latent Space",
+        "domain": "latent.space",
+        "website": "https://www.latent.space/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Language Models"
+        }
+      ]
+    },
+    {
+      "slug": "n8n-2-43-2",
+      "title": "n8n@2.43.2",
+      "dek": "2.43.2  (2026-10-08) \n Bug Fixes \n \n core:  Fix Kimi K3 and other OpenAI-compatible Assistant model providers on self-hosted Assistant ( #40552 ) ( 509a3f3 ) \n editor:  Show the Agent artifact while the builder creates it ( #40550 ) ( 204e2dd )",
+      "aiSummary": "The n8n 2.43.2 release includes bug fixes for the core and editor components. Specifically, it resolves issues with Kimi K3 and other OpenAI-compatible Assistant model providers on self-hosted instances, and ensures the Agent artifact is visible while the builder is creating it.",
+      "articleUrl": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.43.2",
+      "category": "Automation",
+      "filterTags": [
+        "n8n",
+        "Kimi K3",
+        "OpenAI",
+        "Self-hosted"
+      ],
+      "publishedAt": "2026-10-08T07:25:19+00:00",
+      "publisher": {
+        "name": "n8n-io",
+        "domain": "github.com",
+        "website": "https://github.com/n8n-io/n8n",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Automation"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "n8n-2-42-5",
+      "title": "n8n@2.42.5",
+      "dek": "2.42.5  (2026-10-08) \n Bug Fixes \n \n editor:  Show the Agent artifact while the builder creates it ( #40551 ) ( e825e75 )",
+      "aiSummary": "The 2.42.5 update of n8n, released on October 8, 2026, includes bug fixes. One fix ensures the editor displays the Agent artifact while the builder is creating it.",
+      "articleUrl": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.42.5",
+      "category": "Open Source",
+      "filterTags": [
+        "n8n"
+      ],
+      "publishedAt": "2026-10-08T07:24:56+00:00",
+      "publisher": {
+        "name": "n8n-io",
+        "domain": "github.com",
+        "website": "https://github.com/n8n-io/n8n",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "ai-startup-manus-raises-500-million-in-first-funding-round-since-meta-breakup",
+      "title": "AI startup Manus raises $500 million in first funding round since Meta breakup",
+      "dek": "The deal is handing the AI agent developer fresh capital after Beijing forced Meta to unwind its roughly $2 billion acquisition.",
+      "aiSummary": "AI agent developer Manus has raised $500 million in its first funding round since Beijing compelled Meta to cancel its approximately $2 billion acquisition of the company. This new capital injection provides Manus with fresh resources following the forced unwinding of the deal.",
+      "articleUrl": "https://www.cnbc.com/2026/10/08/manus-fund-raise-meta-muse-tencent.html",
+      "category": "AI",
+      "filterTags": [
+        "Manus",
+        "Meta",
+        "AI agents"
+      ],
+      "publishedAt": "2026-10-08T06:59:59+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Venture Capital"
+        },
+        {
+          "name": "Regulation"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1791453458",
+      "title": "viable/strict/1791453458",
+      "dek": "[Test] Refactor test/functorch/test_leaf_function.py and add hardware…",
+      "aiSummary": "The article discusses refactoring the test_leaf_function.py file in the functorch test suite and adding hardware support. It aims to improve test structure and broaden hardware compatibility.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1791453458",
+      "category": "Testing",
+      "filterTags": [
+        "functorch",
+        "test_leaf_function.py",
+        "hardware"
+      ],
+      "publishedAt": "2026-10-08T06:08:13+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Testing"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "perplexity-ai-releases-pplx-embed-v2-late-a-0-6b-edge-model-and-a-9b-model-scoring-92-4-on-madqa",
+      "title": "Perplexity AI Releases pplx-embed-v2-late: A 0.6B Edge Model and a 9B Model Scoring 92.4% on MADQA",
+      "dek": "Perplexity's pplx-embed-v2-late comes in 2 sizes: a 0.6B model built to run on edge devices, and a 9B model for building high-quality indexes. Its best score is 92.4% on MADQA, and its weakest is 61.2% on ViDoRe v3 Markdown. Both are MIT-licensed and ready to self-host. \n The pos",
+      "aiSummary": "Perplexity AI has released pplx-embed-v2-late, an embedding model available in two sizes: a 0.6B version optimized for edge devices and a 9B version for high-quality indexing. The 9B model achieved a top score of 92.4% on MADQA, though it scored lower on ViDoRe v3 Markdown. Both models are MIT-licensed and designed for self-hosting.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/07/perplexity-ai-releases-pplx-embed-v2-late-a-0-6b-edge-model-and-a-9b-model-scoring-92-4-on-madqa/",
+      "category": "AI",
+      "filterTags": [
+        "Perplexity AI",
+        "pplx-embed-v2-late",
+        "Embedding Models",
+        "Edge AI",
+        "MADQA",
+        "ViDoRe v3 Markdown",
+        "MIT License"
+      ],
+      "publishedAt": "2026-10-08T05:39:09+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Models"
+        }
+      ]
+    },
+    {
+      "slug": "autogpt-platform-beta-v0-8-3",
+      "title": "autogpt-platform-beta-v0.8.3",
+      "dek": "🚀 Release  autogpt-platform-beta-v0.8.3 \n Date:  October 2026 \n \n 🔥 What's New? \n New Features \n \n #14990  - Report OAuth starts and exchange failures to PostHog (by  @kcze ) \n #15052  - Let users edit and combine suggested answers in question cards (by  @0ubbe ) \n #15069  - A ch",
+      "aiSummary": "The AutoGPT platform has released version 0.8.3, introducing new features including OAuth failure reporting to PostHog and the ability for users to edit and combine suggested answers in question cards.",
+      "articleUrl": "https://github.com/Significant-Gravitas/AutoGPT/releases/tag/autogpt-platform-beta-v0.8.3",
+      "category": "AI",
+      "filterTags": [
+        "AutoGPT",
+        "PostHog",
+        "OAuth"
+      ],
+      "publishedAt": "2026-10-08T05:35:51+00:00",
+      "publisher": {
+        "name": "Significant-Gravitas",
+        "domain": "github.com",
+        "website": "https://github.com/Significant-Gravitas/AutoGPT",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "microsoft-s-new-surface-laptop-ultra-finally-has-a-starting-price-you-should-sit-down",
+      "title": "Microsoft’s new Surface Laptop Ultra finally has a starting price (you should sit down)",
+      "dek": "The Surface Laptop Ultra is an AI powerhouse, with Nvidia’s new RTX Spark chip and up to 128GB of unified memory – and it’s priced for power users.",
+      "aiSummary": "Microsoft has announced the Surface Laptop Ultra, a high-performance AI device featuring Nvidia's RTX Spark chip and up to 128GB of unified memory. The laptop is positioned for power users and comes with a premium price point.",
+      "articleUrl": "https://www.zdnet.com/tech/microsoft-surface-laptop-ultra-preorder-starting-price/",
+      "category": "Hardware",
+      "filterTags": [
+        "Microsoft",
+        "Surface Laptop Ultra",
+        "Nvidia",
+        "RTX Spark"
+      ],
+      "publishedAt": "2026-10-08T04:21:00+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "adaptive-workflow-intelligence-a-cognitive-architecture-for-context-driven-enterprise-automation",
+      "title": "Adaptive Workflow Intelligence: A Cognitive Architecture for Context-Driven Enterprise Automation",
+      "dek": "arXiv:2610.08793v1 Announce Type: new \nAbstract: Enterprise systems increasingly rely on automated workflows, yet many AI-driven solutions remain brittle under non-stationary conditions, evolving policies, and delayed operational feedback. While reinforcement learning and large l",
+      "aiSummary": "The paper discusses how AI-driven workflow automation can become fragile when conditions change, policies evolve, or feedback is delayed. It proposes a cognitive architecture that uses reinforcement learning and large-scale models to adapt workflows based on context. The approach aims to make enterprise automation more resilient to non‑stationary environments.",
+      "articleUrl": "https://arxiv.org/abs/2610.08793",
+      "category": "AI",
+      "filterTags": [
+        "reinforcement learning",
+        "enterprise automation",
+        "workflow automation"
+      ],
+      "publishedAt": "2026-10-08T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv cs.AI",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.AI",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Automation"
+        },
+        {
+          "name": "Enterprise Systems"
+        }
+      ]
+    },
+    {
+      "slug": "accelerating-floating-point-satisfiability-solving-via-gradient-normalization",
+      "title": "Accelerating Floating-Point Satisfiability Solving via Gradient Normalization",
+      "dek": "arXiv:2610.08808v1 Announce Type: new \nAbstract: Satisfiability Modulo Theories (SMT) solvers are foundational to software verification, program analysis, and compiler testing, particularly over the theory of Quantifier-Free Floating-Point (QF_FP). While recent optimization-based",
+      "aiSummary": "The paper introduces a technique to accelerate Satisfiability Modulo Theories (SMT) solvers for the theory of Quantifier-Free Floating-Point (QF_FP). It utilizes gradient normalization to improve the performance of optimization-based approaches in software verification and program analysis.",
+      "articleUrl": "https://arxiv.org/abs/2610.08808",
+      "category": "Formal Methods",
+      "filterTags": [
+        "SMT",
+        "QF_FP",
+        "Gradient Normalization",
+        "arXiv"
+      ],
+      "publishedAt": "2026-10-08T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv cs.AI",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.AI",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Formal Methods"
+        },
+        {
+          "name": "Software Verification"
+        },
+        {
+          "name": "Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "route-verify-vote-procedure-conditioned-self-consistency-for-mixed-domain-reasoning",
+      "title": "Route-Verify-Vote: Procedure-Conditioned Self-Consistency for Mixed-Domain Reasoning",
+      "dek": "arXiv:2610.08814v1 Announce Type: new \nAbstract: Compositional generalization remains challenging when language models must combine familiar reasoning operations in unfamiliar ways. The Scenario-Based Commonsense Reasoning Evaluation (SCoRE) 2026 tests this ability on three mixed",
+      "aiSummary": "This research addresses the difficulty of compositional generalization in language models, specifically when they must integrate familiar reasoning steps in new contexts. The Scenario-Based Commonsense Reasoning Evaluation (SCoRE) 2026 is utilized to assess this capability across mixed domains.",
+      "articleUrl": "https://arxiv.org/abs/2610.08814",
+      "category": "AI",
+      "filterTags": [
+        "Route-Verify-Vote",
+        "Self-Consistency",
+        "arXiv",
+        "language models",
+        "SCoRE 2026",
+        "Compositional Generalization"
+      ],
+      "publishedAt": "2026-10-08T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv cs.AI",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.AI",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Natural Language Processing"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Research"
+        }
+      ]
+    },
+    {
+      "slug": "the-adaptive-lasso-with-weighted-ipw-factor-and-krr-penalty-function",
+      "title": "The Adaptive Lasso with Weighted IPW Factor and KRR Penalty Function",
+      "dek": "arXiv:2610.08805v1 Announce Type: new \nAbstract: In this paper, we first consider a Lasso estimator incorporating a weighted IPW factor,and obtain certain conditions for the Lasso variable selection to be consistent or inconsistent. Then we provide a modified version of the adapt",
+      "aiSummary": "The paper introduces a Lasso estimator that incorporates a weighted inverse probability weighting (IPW) factor and analyzes the conditions under which variable selection is consistent. It also presents a modified version of the adaptive Lasso that utilizes a kernel ridge regression (KRR) penalty function.",
+      "articleUrl": "https://arxiv.org/abs/2610.08805",
+      "category": "Statistics",
+      "filterTags": [
+        "Lasso",
+        "IPW",
+        "KRR",
+        "arXiv"
+      ],
+      "publishedAt": "2026-10-08T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Statistics"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    }
+  ]
+}
