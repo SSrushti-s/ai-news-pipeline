@@ -1,0 +1,1760 @@
+{
+  "news": [
+    {
+      "slug": "spacex-deal-to-acquire-spectrum-license-hammers-shares-of-at-t-verizon-and-t-mobile",
+      "title": "SpaceX deal to acquire spectrum license hammers shares of AT&T, Verizon and T-Mobile",
+      "dek": "SpaceX agreed to purchase a nationwide spectrum portfolio as it to pushes its Starlink service deeper into the U.S. telecommunications market.",
+      "aiSummary": "SpaceX has agreed to purchase a nationwide spectrum portfolio to expand its Starlink service within the U.S. telecommunications market. This move has negatively impacted the share prices of major competitors AT&T, Verizon, and T-Mobile.",
+      "articleUrl": "https://www.cnbc.com/2026/10/08/spacex-spectrum-license-att-verizon-tmobile.html",
+      "category": "Telecommunications",
+      "filterTags": [
+        "SpaceX",
+        "Starlink",
+        "AT&T",
+        "Verizon",
+        "T-Mobile",
+        "spectrum license"
+      ],
+      "publishedAt": "2026-10-08T22:30:26+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Telecommunications"
+        },
+        {
+          "name": "Space Technology"
+        },
+        {
+          "name": "Markets"
+        }
+      ]
+    },
+    {
+      "slug": "clinical-trial-indicates-a-i-chatbots-could-aid-urgent-care",
+      "title": "Clinical Trial Indicates A.I. Chatbots Could Aid Urgent Care",
+      "dek": "Nearly 100 patients discussed their maladies with a Google bot, called AMIE, before meeting with physicians.",
+      "aiSummary": "A clinical trial involving nearly 100 patients found that interacting with Google's AI bot, AMIE, before seeing a doctor could be beneficial in urgent care scenarios. The patients discussed their medical issues with the chatbot prior to their physician consultations.",
+      "articleUrl": "https://www.nytimes.com/2026/10/08/technology/ai-chatbots-urgent-care.html",
+      "category": "Healthcare",
+      "filterTags": [
+        "Google",
+        "AMIE",
+        "AI Chatbots",
+        "Urgent Care"
+      ],
+      "publishedAt": "2026-10-08T22:30:04+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Healthcare"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "trump-hosts-awards-party-for-tech-billionaires-almost-as-if-he-doesn-t-care-about-ordinary-americans",
+      "title": "Trump hosts awards party for tech billionaires, almost as if he doesn’t care about ordinary Americans",
+      "dek": "Amid a cost-of-living crisis, with US midterms a month away, the president held a ceremony to celebrate our tech overlords – again He stands accused of being  out of touch , enriching himself and his family, building a lavish White House ballroom and, with elections looming, negl",
+      "aiSummary": "President Trump hosted an awards ceremony for tech billionaires amidst a cost-of-living crisis and one month before the US midterm elections. The event has drawn criticism that the president is out of touch with ordinary Americans while facing accusations of self-enrichment and building a lavish White House ballroom.",
+      "articleUrl": "https://www.theguardian.com/us-news/2026/oct/08/trump-awards-party-tech-billionaires",
+      "category": "Politics",
+      "filterTags": [
+        "Trump",
+        "Tech Billionaires",
+        "White House",
+        "US Midterms"
+      ],
+      "publishedAt": "2026-10-08T22:28:48+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Economy"
+        }
+      ]
+    },
+    {
+      "slug": "gradio-6-30-0",
+      "title": "gradio@6.30.0",
+      "dek": "Features \n \n #13893   0d59e5e  - Add an app view to gr.Workflow.  Thanks  @abidlabs ! \n #13866   ef1a961  - gr.Workflow: \"Run this node\" now reuses up-to-date upstream results instead of re-executing the whole upstream subgraph (Shift+click forces a full re-run). Also keeps a nod",
+      "aiSummary": "Gradio 6.30.0 introduces an app view feature for gr.Workflow. It also optimizes the 'Run this node' functionality to reuse up-to-date upstream results rather than re-executing the entire subgraph, with an option to force a full re-run.",
+      "articleUrl": "https://github.com/gradio-app/gradio/releases/tag/gradio%406.30.0",
+      "category": "Machine Learning",
+      "filterTags": [
+        "Gradio",
+        "gr.Workflow"
+      ],
+      "publishedAt": "2026-10-08T22:21:51+00:00",
+      "publisher": {
+        "name": "gradio-app",
+        "domain": "github.com",
+        "website": "https://github.com/gradio-app/gradio",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "gradio-core-1-12-2",
+      "title": "@gradio/core@1.12.2",
+      "dek": "Fixes \n \n #13936   0a7c8da  - Fix hidden Accordion revealed with open=True rendering empty.  Thanks  @abidlabs !",
+      "aiSummary": "The release of @gradio/core version 1.12.2 addresses issue #13936. This update fixes a bug where hidden Accordion components with the open=True setting were rendering as empty.",
+      "articleUrl": "https://github.com/gradio-app/gradio/releases/tag/%40gradio%2Fcore%401.12.2",
+      "category": "Open Source",
+      "filterTags": [
+        "Gradio",
+        "Accordion",
+        "JavaScript"
+      ],
+      "publishedAt": "2026-10-08T22:21:48+00:00",
+      "publisher": {
+        "name": "gradio-app",
+        "domain": "github.com",
+        "website": "https://github.com/gradio-app/gradio",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Web Development"
+        }
+      ]
+    },
+    {
+      "slug": "gradio-accordion-0-7-1",
+      "title": "@gradio/accordion@0.7.1",
+      "dek": "Fixes \n \n #13936   0a7c8da  - Fix hidden Accordion revealed with open=True rendering empty.  Thanks  @abidlabs !",
+      "aiSummary": "The release of @gradio/accordion version 0.7.1 addresses a bug where hidden accordions with the open=True setting would render as empty. This fix resolves issue #13936 and includes contributions from @abidlabs.",
+      "articleUrl": "https://github.com/gradio-app/gradio/releases/tag/%40gradio%2Faccordion%400.7.1",
+      "category": "Open Source",
+      "filterTags": [
+        "Gradio",
+        "accordion",
+        "JavaScript",
+        "Bug Fix"
+      ],
+      "publishedAt": "2026-10-08T22:21:45+00:00",
+      "publisher": {
+        "name": "gradio-app",
+        "domain": "github.com",
+        "website": "https://github.com/gradio-app/gradio",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Web Development"
+        }
+      ]
+    },
+    {
+      "slug": "cramer-says-thursday-s-ai-sell-off-proves-the-value-of-this-age-old-investing-strategy",
+      "title": "Cramer says Thursday's AI sell-off proves the value of this age-old investing strategy",
+      "dek": "CNBC’s Jim Cramer said Thursday’s sell-off in AI stocks underscores the importance of diversification, even when it means holding stocks that have struggled.",
+      "aiSummary": "CNBC's Jim Cramer stated that the recent decline in AI stocks demonstrates the critical importance of diversification in investing. He emphasized that a sound strategy involves holding a variety of stocks, including those that have underperformed, to mitigate risk.",
+      "articleUrl": "https://www.cnbc.com/2026/10/08/jim-cramer-diversification-ai-selloff.html",
+      "category": "Investing",
+      "filterTags": [
+        "CNBC",
+        "Jim Cramer",
+        "AI stocks",
+        "Diversification"
+      ],
+      "publishedAt": "2026-10-08T22:15:53+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Investing"
+        },
+        {
+          "name": "Markets"
+        }
+      ]
+    },
+    {
+      "slug": "langchain-1-4-4",
+      "title": "langchain==1.4.4",
+      "dek": "Changes since langchain==1.4.3 \n release(langchain): 1.4.4 ( #41163 ) \nfix(langchain): (SummarizationMiddleware) retry summary step on context overflow ( #41159 ) \nchore(deps): bump fsspec from 2026.6.0 to 2026.9.0 in /libs/langchain_v1 ( #41097 ) \nchore(deps): bump multidict fro",
+      "aiSummary": "LangChain has released version 1.4.4, which includes a fix for the SummarizationMiddleware to retry the summary step when context overflow occurs. The update also involves dependency bumps for fsspec and multidict within the langchain_v1 library.",
+      "articleUrl": "https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D1.4.4",
+      "category": "AI",
+      "filterTags": [
+        "LangChain",
+        "SummarizationMiddleware",
+        "fsspec",
+        "multidict"
+      ],
+      "publishedAt": "2026-10-08T22:14:24+00:00",
+      "publisher": {
+        "name": "langchain-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langchain-ai/langchain",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "onnx-runtime-cuda-plugin-ep-0-2-0",
+      "title": "ONNX Runtime CUDA Plugin EP 0.2.0",
+      "dek": "This release brings expanded quantized inference and attention support, kernel performance improvements, and \nreliability fixes to the ONNX Runtime CUDA Plugin EP. Highlights include 2-bit  MatMulNBits , INT4 paged KV caches, \nspeculative decoding improvements, compact recurrent-",
+      "aiSummary": "The 0.2.0 release of the ONNX Runtime CUDA Plugin EP adds expanded quantized inference and attention support, improves kernel performance, and fixes reliability issues. Key features include 2‑bit MatMulNBits, INT4 paged KV caches, better speculative decoding, and compact recurrent support.",
+      "articleUrl": "https://github.com/microsoft/onnxruntime/releases/tag/plugin-ep-cuda%2Fv0.2.0",
+      "category": "AI",
+      "filterTags": [
+        "ONNX Runtime",
+        "CUDA",
+        "MatMulNBits",
+        "INT4",
+        "KV cache",
+        "speculative decoding"
+      ],
+      "publishedAt": "2026-10-08T22:12:51+00:00",
+      "publisher": {
+        "name": "microsoft",
+        "domain": "github.com",
+        "website": "https://github.com/microsoft/onnxruntime",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware Acceleration"
+        },
+        {
+          "name": "Software"
+        }
+      ]
+    },
+    {
+      "slug": "baiju-bhatt-on-new-company-plans-for-data-centers-in-space",
+      "title": "Baiju Bhatt on New Company, Plans for Data Centers in Space",
+      "dek": "Baiju Bhatt, Cowboy Space’s Founder and CEO, says the company is developing an energy grid in orbit. Its first satellite, Reason 1, reached orbit on a SpaceX rideshare, and the team has made contact and is communicating with it daily. He speaks with Romaine Bostick on \"The Close.",
+      "aiSummary": "Cowboy Space founder Baiju Bhatt says the company is building an orbital energy grid. Its first satellite, Reason 1, was launched on a SpaceX rideshare and is now in orbit, with the team maintaining daily communication. Bhatt discussed these developments on the podcast \"The Close\" with Romaine Bostick.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-08/baiju-bhatt-on-company-plans-for-data-centers-in-space-video",
+      "category": "Space",
+      "filterTags": [
+        "Cowboy Space",
+        "SpaceX",
+        "Reason 1"
+      ],
+      "publishedAt": "2026-10-08T22:10:57+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Space"
+        },
+        {
+          "name": "Energy"
+        },
+        {
+          "name": "Satellite Communications"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-launches-free-ai-security-scans-for-open-source-projects",
+      "title": "Anthropic launches free AI security scans for open-source projects",
+      "dek": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source proje",
+      "aiSummary": "Anthropic has introduced a new service called OSS Scanner that offers free, periodic security scans to open-source projects. The service utilizes the company's most advanced AI models to help maintainers identify and track down security vulnerabilities at no cost.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "OSS Scanner",
+        "AI",
+        "Security Scans",
+        "Open Source"
+      ],
+      "publishedAt": "2026-10-08T21:53:51+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "siebert-williams-shank-ceo-on-30-year-anniversary",
+      "title": "Siebert Williams Shank CEO on 30 Year Anniversary",
+      "dek": "Suzanne Shank discussed how Siebert Williams Shank has expanded since launching in 1996 as a municipal bond underwriter. The firm now works across corporate debt markets, serves 80 of the Fortune 100, and remains active in municipals, with growth supported by mergers and acquisit",
+      "aiSummary": "Suzanne Shank talked about the firm's growth over 30 years. Starting as a municipal bond underwriter in 1996, the firm now operates in corporate debt markets and serves 80 Fortune 100 companies, while continuing its municipal activities. Expansion has been driven by mergers and acquisitions.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-08/siebert-williams-shank-ceo-on-30-year-anniversary-video",
+      "category": "Finance",
+      "filterTags": [
+        "Siebert Williams Shank",
+        "Suzanne Shank",
+        "Fortune 100"
+      ],
+      "publishedAt": "2026-10-08T21:47:08+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Capital Markets"
+        },
+        {
+          "name": "Corporate Finance"
+        }
+      ]
+    },
+    {
+      "slug": "1-15-26",
+      "title": "1.15.26",
+      "dek": "What's Changed \n Bug Fixes \n \n Fix ownership retention of rwlock when acquisition is interrupted. \n Resolve issue with documentation site source URLs not being preserved. \n Fix task output display in log-tasks-outputs to show actual output. \n \n Documentation \n \n Update snapshot a",
+      "aiSummary": "The 1.15.26 release includes bug fixes for rwlock ownership retention during interrupted acquisitions, documentation site source URL preservation, and task output display in log-tasks-outputs. It also features documentation updates.",
+      "articleUrl": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.26",
+      "category": "Software Development",
+      "filterTags": [
+        "rwlock",
+        "log-tasks-outputs"
+      ],
+      "publishedAt": "2026-10-08T21:45:38+00:00",
+      "publisher": {
+        "name": "crewAIInc",
+        "domain": "github.com",
+        "website": "https://github.com/crewAIInc/crewAI",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Version Control"
+        }
+      ]
+    },
+    {
+      "slug": "white-house-blocks-microsoft-from-foreign-worker-hiring-program",
+      "title": "White House blocks Microsoft from foreign worker hiring program",
+      "dek": "An international visa program has for years allowed US tech companies to hire highly skilled workers from abroad.",
+      "aiSummary": "The White House has blocked Microsoft from participating in a visa program that lets U.S. tech firms hire skilled foreign workers. The program has historically enabled companies to bring in talent from overseas.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
+      "category": "Technology",
+      "filterTags": [
+        "Microsoft",
+        "White House",
+        "visa program"
+      ],
+      "publishedAt": "2026-10-08T21:37:35+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Policy"
+        },
+        {
+          "name": "Immigration"
+        }
+      ]
+    },
+    {
+      "slug": "applied-digital-ceo-on-q1-results",
+      "title": "Applied Digital CEO on Q1 Results",
+      "dek": "Applied Digital shares fell about 2.5% after its earnings report, despite first-quarter revenue rising more than 320% year over year and beating estimates. Founder and CEO Wes Cummins said that gap should narrow faster over the next 12 months, with all contracted capacity expecte",
+      "aiSummary": "Applied Digital shares declined by approximately 2.5% following an earnings report where first-quarter revenue increased by over 320% year-over-year and exceeded estimates. CEO Wes Cummins stated that the gap between revenue and expectations is projected to narrow within the next 12 months as all contracted capacity comes online.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-08/applied-digital-ceo-on-q1-results-video",
+      "category": "Finance",
+      "filterTags": [
+        "Applied Digital",
+        "Wes Cummins",
+        "Q1 Results",
+        "Revenue"
+      ],
+      "publishedAt": "2026-10-08T21:32:02+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-oracle-coreweave-and-other-ai-stocks-sink-on-openai-revenue-report",
+      "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
+      "dek": "OpenAI has told investors that it hit roughly $50 billion in annualized revenue at the end of September, CNBC confirmed.",
+      "aiSummary": "Stocks for Nvidia, Oracle, and CoreWeave declined after reports indicated that OpenAI achieved approximately $50 billion in annualized revenue by the end of September. This financial update was confirmed by CNBC and triggered a sell-off in related AI sector equities.",
+      "articleUrl": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
+      "category": "AI",
+      "filterTags": [
+        "Nvidia",
+        "Oracle",
+        "CoreWeave",
+        "OpenAI",
+        "CNBC"
+      ],
+      "publishedAt": "2026-10-08T21:19:14+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Markets"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "inside-elon-musk-s-midterm-spending-spree",
+      "title": "Inside Elon Musk’s Midterm Spending Spree",
+      "dek": "This week on “Uncanny Valley,” we discuss where Elon Musk’s PAC is spending millions, the latest ideology Trump claims is dangerous, and the backlash against the designer behind Muse’s logo.",
+      "aiSummary": "The podcast episode examines how Elon Musk’s political action committee is allocating millions of dollars. It also covers a new ideology that former President Trump says is dangerous, and the controversy surrounding the designer of Muse’s logo.",
+      "articleUrl": "https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/",
+      "category": "Politics",
+      "filterTags": [
+        "Elon Musk",
+        "Political Action Committee",
+        "Trump",
+        "Muse"
+      ],
+      "publishedAt": "2026-10-08T21:14:12+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Media"
+        },
+        {
+          "name": "Music"
+        }
+      ]
+    },
+    {
+      "slug": "into-the-omniverse-how-developers-turn-ideas-into-simulations-with-frontier-ai-agents",
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "dek": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building appl",
+      "aiSummary": "Creating a simulation requires gathering assets, linking physics and rendering, and validating scene behavior. Developers combine cutting-edge AI models with NVIDIA Omniverse libraries to automate these tasks. This integration helps them build applications more efficiently.",
+      "articleUrl": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+      "category": "AI",
+      "filterTags": [
+        "NVIDIA Omniverse",
+        "AI models"
+      ],
+      "publishedAt": "2026-10-08T21:06:35+00:00",
+      "publisher": {
+        "name": "NVIDIA",
+        "domain": "nvidia.com",
+        "website": "https://blogs.nvidia.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Graphics"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "before-computer-science-became-a-boys-club-margaret-hamilton-wrote-the-code",
+      "title": "Before Computer Science Became a Boys’ Club, Margaret Hamilton Wrote the Code",
+      "dek": "The woman who helped put astronauts on the moon was a software engineer when the field was not prestigious or lucrative.",
+      "aiSummary": "Margaret Hamilton was a software engineer who helped put astronauts on the moon. She worked at a time when computer science was not considered prestigious or lucrative.",
+      "articleUrl": "https://www.nytimes.com/2026/10/08/science/space/margaret-hamilton-computer-science.html",
+      "category": "Technology",
+      "filterTags": [
+        "software engineer",
+        "computer science"
+      ],
+      "publishedAt": "2026-10-08T21:06:21+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "History"
+        },
+        {
+          "name": "Gender Studies"
+        }
+      ]
+    },
+    {
+      "slug": "quoting-carson-gross",
+      "title": "Quoting Carson Gross",
+      "dek": "Computer programming is, fundamentally, about two things: \n \n Problem-solving using computers \n Learning to control complexity while solving these problems \n \n I have a hard time imagining a future where knowing how to solve problems with computers and how to control the complexi",
+      "aiSummary": "Carson Gross states that computer programming fundamentally involves problem-solving using computers and learning to control complexity. He expresses difficulty imagining a future where these core skills are not essential.",
+      "articleUrl": "https://simonwillison.net/2026/Oct/8/carson-gross/",
+      "category": "Software Engineering",
+      "filterTags": [
+        "Carson Gross",
+        "Computer Programming",
+        "Complexity Management"
+      ],
+      "publishedAt": "2026-10-08T21:05:44+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Computer Science"
+        }
+      ]
+    },
+    {
+      "slug": "companies-aren-t-being-forced-to-stop-buying-macs-because-of-apple-intelligence",
+      "title": "Companies aren't being forced to stop buying Macs because of Apple Intelligence",
+      "dek": "There's a repeated claim that since some organizations won't allow generative AI installations, they also won't buy new Macs because of  macOS Golden Gate . So, we looked into the claim and talked to actual IT managers and buyers. Craig Federighi announces Apple Intelligence Here",
+      "aiSummary": "The article examines a claim that firms avoid purchasing Macs because of Apple Intelligence and macOS Golden Gate. Interviews with IT managers and buyers show the claim is unfounded. It also references Craig Federighi’s announcement of Apple Intelligence.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/08/companies-arent-being-forced-to-stop-buying-macs-because-of-apple-intelligence?utm_source=rss",
+      "category": "Hardware",
+      "filterTags": [
+        "Apple Intelligence",
+        "macOS Golden Gate",
+        "generative AI",
+        "Apple",
+        "Craig Federighi"
+      ],
+      "publishedAt": "2026-10-08T21:00:59+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Enterprise IT"
+        }
+      ]
+    },
+    {
+      "slug": "pretend-you-re-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website",
+      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+      "dek": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
+      "aiSummary": "Extend engineer Bo Lau built a website that simulates browsing through Elizabeth Holmes' desk using over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial. The project allows users to experience the detailed records associated with the Theranos founder's legal case.",
+      "articleUrl": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+      "category": "Technology",
+      "filterTags": [
+        "Extend",
+        "Bo Lau",
+        "Elizabeth Holmes",
+        "Theranos",
+        "United States v. Elizabeth Holmes"
+      ],
+      "publishedAt": "2026-10-08T21:00:00+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Web Development"
+        }
+      ]
+    },
+    {
+      "slug": "touchscreen-macbook-pro-oled-ipad-mini-rumored-for-october-27-apple-event",
+      "title": "Touchscreen MacBook Pro & OLED iPad mini rumored for October 27 Apple event",
+      "dek": "A new rumor sets the exact date and products we can expect for Apple to reveal in late October, which includes the long-awaited touchscreen  MacBook Pro . New MacBook Pro models are expected at a late October event A  previous rumor  already set the table for a second October eve",
+      "aiSummary": "A rumor claims Apple will announce a touchscreen MacBook Pro and an OLED iPad mini on Oct. 27 during a late‑October event. The rumor specifies the date and the two products, and notes that earlier speculation had already suggested a second October event.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/08/touchscreen-macbook-pro-oled-ipad-mini-coming-at-october-27-apple-event?utm_source=rss",
+      "category": "Hardware",
+      "filterTags": [
+        "Apple",
+        "MacBook Pro",
+        "iPad mini",
+        "OLED",
+        "touchscreen"
+      ],
+      "publishedAt": "2026-10-08T20:22:44+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Apple"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "b11514",
+      "title": "b11514",
+      "dek": "Musa FWHT fix ( #30167 ) \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/54083178 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silicon (arm64, KleidiAI enabled)  DISABLED \n macOS Intel (x64) \n iOS XCFrame",
+      "aiSummary": "This release, identified as b11514, introduces a fix for the Musa FWHT component via pull request #30167. The update is available for macOS and iOS platforms, specifically supporting Apple Silicon (arm64) and Intel (x64) architectures, with KleidiAI support currently disabled for Apple Silicon builds.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11514",
+      "category": "AI",
+      "filterTags": [
+        "llama.cpp",
+        "Musa",
+        "FWHT",
+        "KleidiAI",
+        "Apple Silicon",
+        "macOS",
+        "iOS"
+      ],
+      "publishedAt": "2026-10-08T20:17:43+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "openai-annualised-revenues-20bn-less-than-previously-signalled",
+      "title": "OpenAI annualised revenues $20bn less than previously signalled",
+      "dek": "AI group recently told investors the critical figure was nearing $50bn in September, far less than the $70bn widely reported",
+      "aiSummary": "OpenAI told investors that its annualised revenue was close to $50bn, which is $20bn lower than the $70bn figure that had been widely reported. The company had previously signalled a higher revenue figure, but the latest update shows a significant shortfall.",
+      "articleUrl": "https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a?syn-25a6b1a6=1",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI"
+      ],
+      "publishedAt": "2026-10-08T20:15:57+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "langchain-core-1-6-9",
+      "title": "langchain-core==1.6.9",
+      "dek": "Changes since langchain-core==1.6.8 \n release(core): 1.6.9 ( #41160 ) \nfeat(core): accept a callable in with_retry ( #41158 )",
+      "aiSummary": "Langchain-core 1.6.9 was released, adding a new feature that allows a callable to be passed to the with_retry function. This update improves flexibility for retry logic in the library.",
+      "articleUrl": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.9",
+      "category": "Open Source",
+      "filterTags": [
+        "langchain-core",
+        "with_retry"
+      ],
+      "publishedAt": "2026-10-08T20:11:34+00:00",
+      "publisher": {
+        "name": "langchain-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langchain-ai/langchain",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Python Libraries"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "part-5-operating-an-llm-system-observability-cost-routing-and-the-platform-underneath",
+      "title": "Part 5: Operating an LLM system: observability, cost, routing, and the platform underneath",
+      "dek": "Your service can be 100% up and still quietly approving the wrong things, burning its budget, or failing over into untested quality. Level 5 is the infrastructure that lets you see your decisions, bound your spend, route and fail over between models, kill bad behavior in seconds ",
+      "aiSummary": "Even fully operational LLM services can encounter issues like incorrect approvals, budget overruns, or quality problems during failovers. The described \"Level 5\" infrastructure aims to address these challenges by providing visibility into decisions, controlling spending, managing model routing and failovers, and enabling rapid mitigation of undesirable behaviors.",
+      "articleUrl": "https://stackoverflow.blog/2026/10/08/part-5-operating-an-llm-system-observability-cost-routing-and-the-platform-underneath/",
+      "category": "AI",
+      "filterTags": [
+        "LLM system",
+        "observability",
+        "cost management",
+        "routing",
+        "infrastructure",
+        "models"
+      ],
+      "publishedAt": "2026-10-08T20:08:53+00:00",
+      "publisher": {
+        "name": "Stack Overflow Blog",
+        "domain": "stackoverflow.blog",
+        "website": "https://stackoverflow.blog",
+        "logoUrl": "https://stackoverflow.blog/apple-touch-icon.png",
+        "faviconUrl": "https://stackoverflow.blog/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "MLOps"
+        },
+        {
+          "name": "System Operations"
+        },
+        {
+          "name": "Cloud Management"
+        }
+      ]
+    },
+    {
+      "slug": "california-is-trying-to-shut-down-robot-vs-human-cage-matches",
+      "title": "California is trying to shut down robot vs. human cage matches",
+      "dek": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September 18th, pitted a human, Frankie LaPenna, against a humanoid r",
+      "aiSummary": "The California State Athletic Commission issued a cease-and-desist letter to a startup that organized a match between a human and a robot. The event, which took place on September 18th, featured a fight between Frankie LaPenna and a humanoid robot.",
+      "articleUrl": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
+      "category": "Regulation",
+      "filterTags": [
+        "California State Athletic Commission",
+        "humanoid robot",
+        "Frankie LaPenna",
+        "The New York Times"
+      ],
+      "publishedAt": "2026-10-08T20:06:56+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Regulation"
+        },
+        {
+          "name": "Robotics"
+        },
+        {
+          "name": "Sports"
+        }
+      ]
+    },
+    {
+      "slug": "fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "dek": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+      "aiSummary": "Three researchers who were fired from OpenAI are contesting claims that they mishandled sensitive data. In an open letter, they argue that their dismissals are creating a chilling effect on the company's AI safety culture.",
+      "articleUrl": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "OpenAI",
+        "AI safety"
+      ],
+      "publishedAt": "2026-10-08T20:04:26+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Corporate Governance"
+        },
+        {
+          "name": "Ethics"
+        }
+      ]
+    },
+    {
+      "slug": "tim-cook-has-no-intention-of-interfering-with-the-john-ternus-era",
+      "title": "Tim Cook has no intention of interfering with the John Ternus era",
+      "dek": "Apple Executive Chairman  Tim Cook  has no intention of meddling with John Ternus' work as CEO, but he does want to lighten his load by taking on responsibilities with interacting with global governments. Tim Cook shines the spotlight on the Ternus transition Apple's new Executiv",
+      "aiSummary": "Apple Executive Chairman Tim Cook stated that he has no plans to interfere with John Ternus's role as CEO. Instead, Cook intends to support the transition by assuming responsibilities related to interactions with global governments to reduce Ternus's workload.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/08/tim-cook-has-no-intention-of-interfering-with-the-john-ternus-era?utm_source=rss",
+      "category": "Corporate Governance",
+      "filterTags": [
+        "Apple",
+        "Tim Cook",
+        "John Ternus"
+      ],
+      "publishedAt": "2026-10-08T19:47:31+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Corporate Governance"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "a-teen-tried-to-navigate-canadian-mountains-with-claude-his-trek-ended-in-an-emergency-rescue",
+      "title": "A teen tried to navigate Canadian mountains with Claude. His trek ended in an emergency rescue",
+      "dek": "The incident is the latest to raise questions about the growing reliance on digital maps for wilderness navigation The route up the Widowmaker Arete, a 1,700-foot wall in British Columbia, is deceptively described as “mostly easy slab climbing”, interspersed with “short steep sec",
+      "aiSummary": "A teenager attempted to climb the Widowmaker Arete in British Columbia using the AI mapping tool Claude, but the route proved more challenging than described. The climb, marketed as mostly easy slab climbing, included short steep sections that led to an emergency rescue. The incident highlights concerns about relying on digital maps for wilderness navigation.",
+      "articleUrl": "https://www.theguardian.com/world/2026/oct/08/teen-hike-claude-ai-directions-rescue-canada-mountain",
+      "category": "AI",
+      "filterTags": [
+        "Claude",
+        "digital maps"
+      ],
+      "publishedAt": "2026-10-08T19:31:23+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Outdoor Recreation"
+        },
+        {
+          "name": "Safety"
+        }
+      ]
+    },
+    {
+      "slug": "she-designed-meta-s-new-ai-logo-then-came-the-hate",
+      "title": "She Designed Meta’s New AI Logo. Then Came the Hate",
+      "dek": "Jessica Hische knew working for Meta might upset some people. But she didn’t anticipate just how angry they would get.",
+      "aiSummary": "Jessica Hische designed Meta's new AI logo. She expected some criticism but was surprised by the intensity of the backlash.",
+      "articleUrl": "https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/",
+      "category": "Design",
+      "filterTags": [
+        "Meta",
+        "AI",
+        "Jessica Hische"
+      ],
+      "publishedAt": "2026-10-08T19:30:00+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Design"
+        },
+        {
+          "name": "Social Media"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "b11513",
+      "title": "b11513",
+      "dek": "CUDA: improve top-k algorithm selection ( #28713 ) \n \n CUDA: radix top-k for large row counts \n \n Replaces CUB's per-row DeviceTopKKernel with a grid-over-rows radix select, \ngated on GGML_CUDA_TOPK_RADIX_MIN_ROWS. On qwen4exp at 34,816 tokens this cuts \ntop-k from 1,671,253 laun",
+      "aiSummary": "This update replaces CUB's per-row DeviceTopKKernel with a grid-over-rows radix select for CUDA top-k operations when row counts are large. The change is controlled by the GGML_CUDA_TOPK_RADIX_MIN_ROWS gate and significantly reduces launch overhead for models like qwen4exp.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11513",
+      "category": "AI",
+      "filterTags": [
+        "CUDA",
+        "CUB",
+        "GGML",
+        "qwen4exp",
+        "radix select"
+      ],
+      "publishedAt": "2026-10-08T19:22:06+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Performance"
+        }
+      ]
+    },
+    {
+      "slug": "got-a-microsoft-365-subscription-your-storage-is-about-to-shrink",
+      "title": "Got a Microsoft 365 subscription? Your storage is about to shrink",
+      "dek": "Today, shared Microsoft 365 plans include 1 TB of OneDrive cloud storage for every family member. Microsoft is about to shrink that allotment dramatically.",
+      "aiSummary": "Microsoft is set to dramatically decrease the OneDrive cloud storage provided with shared Microsoft 365 plans. Currently, these plans include 1 TB of storage for each family member, but this allotment will be significantly reduced.",
+      "articleUrl": "https://www.zdnet.com/tech/microsoft-365-subscription-storage-limits/",
+      "category": "Cloud Storage",
+      "filterTags": [
+        "Microsoft 365",
+        "OneDrive",
+        "Microsoft"
+      ],
+      "publishedAt": "2026-10-08T18:56:22+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cloud Storage"
+        },
+        {
+          "name": "Software"
+        },
+        {
+          "name": "Subscriptions"
+        }
+      ]
+    },
+    {
+      "slug": "pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments",
+      "title": "Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments",
+      "dek": "Amazon Bedrock AgentCore payments gives AI agents a managed way to pay for services on demand, with spending limits enforced by the infrastructure. See how Incarna's agents pay BlockRun for model inference one request at a time over x402, cutting the work of adding x402 payment s",
+      "aiSummary": "Amazon Bedrock AgentCore payments provides a managed infrastructure for AI agents to pay for services on demand with enforced spending limits. The article details how Incarna's agents use this system to pay BlockRun for model inference on a per-request basis via the x402 protocol, simplifying the integration of payment mechanisms.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/",
+      "category": "AI",
+      "filterTags": [
+        "Amazon Bedrock",
+        "AgentCore",
+        "BlockRun",
+        "Incarna",
+        "x402",
+        "AI agents"
+      ],
+      "publishedAt": "2026-10-08T18:33:29+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Infrastructure"
+        },
+        {
+          "name": "Fintech"
+        }
+      ]
+    },
+    {
+      "slug": "v0-40-2",
+      "title": "v0.40.2",
+      "dek": "What's Changed \n \n README: add oxi to community integrations by  @maziluiosif  in  #18739 \n server: hide duplicate and downgrade guards from list by  @dhiltgen  in  #18874 \n \n New Contributors \n \n @maziluiosif  made their first contribution in  #18739 \n \n Full Changelog :  v0.40.",
+      "aiSummary": "Version 0.40.2 adds oxi to community integrations and removes duplicate and downgrade guards from the server list. It also records the first contribution from new contributor @maziluiosif. The full changelog is available for review.",
+      "articleUrl": "https://github.com/ollama/ollama/releases/tag/v0.40.2",
+      "category": "Open Source",
+      "filterTags": [
+        "oxi"
+      ],
+      "publishedAt": "2026-10-08T18:30:42+00:00",
+      "publisher": {
+        "name": "ollama",
+        "domain": "github.com",
+        "website": "https://github.com/ollama/ollama",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed",
+      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+      "dek": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
+      "aiSummary": "Actor Ben Affleck is gaining viral attention for his profound understanding of artificial intelligence concepts, including neural networks, transformers, and open weights. This comes after he sold his AI filmmaking startup to Netflix earlier this year, showcasing his expertise beyond his acting career.",
+      "articleUrl": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "neural networks",
+        "transformers",
+        "open weights",
+        "Netflix"
+      ],
+      "publishedAt": "2026-10-08T18:20:32+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Entertainment"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "usa-today-becomes-the-latest-publisher-to-sue-openai",
+      "title": "USA Today becomes the latest publisher to sue OpenAI",
+      "dek": "USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied \"hundreds of thousands\" of articles to train its AI models, as reported earlier by Reuters. In a filing on Thursday, the publisher asks for damages of more than $25",
+      "aiSummary": "USA Today Co. and its local newspaper affiliates have filed a lawsuit against OpenAI, alleging that the company copied hundreds of thousands of articles to train its AI models. The publisher is seeking damages exceeding $25 million in the legal action.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
+      "category": "Legal",
+      "filterTags": [
+        "USA Today",
+        "OpenAI",
+        "AI models",
+        "Copyright"
+      ],
+      "publishedAt": "2026-10-08T17:58:33+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Media"
+        }
+      ]
+    },
+    {
+      "slug": "b11512",
+      "title": "b11512",
+      "dek": "model : fix DFlash output head sharing ( #30111 ) \n \n llama : fix DFlash output head sharing \n \n Assisted-by: Codex \n \n dflash : read tied output weights from GGUF metadata \n \n Assisted-by: Codex \n \n llama : share tied word embedding metadata \n \n Assisted-by: Codex \n \n llama : re",
+      "aiSummary": "The patch identified as b11512 addresses issues with DFlash output head sharing in the llama model. It adds functionality to read tied output weights from GGUF metadata and shares tied word embedding metadata. The changes were assisted by Codex.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11512",
+      "category": "Machine Learning",
+      "filterTags": [
+        "DFlash",
+        "GGUF",
+        "llama",
+        "Codex"
+      ],
+      "publishedAt": "2026-10-08T17:42:48+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Natural Language Processing"
+        },
+        {
+          "name": "Model Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "regulators-are-trying-to-protect-you-from-being-fired-by-ai-here-s-how",
+      "title": "Regulators are trying to protect you from being fired by AI – here’s how",
+      "dek": "Regulating AI at work is happening slowly, but it’s still stuck at the state level.",
+      "aiSummary": "Regulators are currently developing measures to protect workers from being terminated by AI systems. However, this regulatory process is proceeding slowly and remains limited to the state level.",
+      "articleUrl": "https://www.zdnet.com/innovation/how-state-regulators-protect-you-fired-by-ai/",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Regulation",
+        "Labor Law"
+      ],
+      "publishedAt": "2026-10-08T17:05:53+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Policy"
+        },
+        {
+          "name": "Workplace"
+        }
+      ]
+    },
+    {
+      "slug": "an-ai-boom-is-sending-san-francisco-rents-through-the-roof-nowhere-left-for-people-to-go",
+      "title": "An AI boom is sending San Francisco rents through the roof: ‘nowhere left for people to go’",
+      "dek": "According to city’s rent board, eviction notices are up 44% and tenants are on edge over landlords swooping in over their homes To say that Maria Zamudio and her team have been busy lately would be a gross understatement. Every Monday at 9am, the phone lines at the downtown clini",
+      "aiSummary": "San Francisco’s rent board reports a 44% rise in eviction notices amid a surge in AI‑driven demand, leaving tenants worried as landlords move in. Maria Zamudio and her team are working hard to help residents, with their downtown clinic’s phone lines open every Monday at 9 a.m. to provide assistance.",
+      "articleUrl": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/08/san-francisco-housing-ai-boom",
+      "category": "Housing",
+      "filterTags": [
+        "AI"
+      ],
+      "publishedAt": "2026-10-08T17:04:09+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Housing"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Urban Affairs"
+        }
+      ]
+    },
+    {
+      "slug": "how-one-bug-bounty-researcher-chooses-the-features-they-investigate",
+      "title": "How one bug bounty researcher chooses the features they investigate",
+      "dek": "As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team spotlights @vaib25vicky, exploring their methodology, techniques, and experiences hacking on GitHub. \n The post  How one bug bounty researcher chooses the features they investigate  appeared first on  The Gi",
+      "aiSummary": "For Cybersecurity Awareness Month, the GitHub Bug Bounty team is featuring researcher @vaib25vicky. The spotlight delves into their methodology, techniques, and experiences gained from hacking on GitHub.",
+      "articleUrl": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/",
+      "category": "Cybersecurity",
+      "filterTags": [
+        "GitHub",
+        "Bug Bounty",
+        "vaib25vicky",
+        "Hacking"
+      ],
+      "publishedAt": "2026-10-08T17:02:52+00:00",
+      "publisher": {
+        "name": "GitHub Blog",
+        "domain": "github.blog",
+        "website": "https://github.blog",
+        "logoUrl": "https://github.blog/wp-content/uploads/2019/01/cropped-github-favicon-512.png?fit=180%2C180",
+        "faviconUrl": "https://github.githubassets.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Bug Bounty Programs"
+        }
+      ]
+    },
+    {
+      "slug": "the-pulse-new-trend-of-building-internal-vibe-coding-apps-at-tech-companies",
+      "title": "The Pulse: new trend of building “internal vibe-coding apps” at tech companies",
+      "dek": "Also: do us engineers truly enjoy ‘hard problems’, or do we really just want to solve those which attract promotions, new open models launch in the EU and US, and more",
+      "aiSummary": "The article highlights a growing trend of tech companies building internal tools through 'vibe-coding.' It also discusses whether engineers genuinely prefer hard problems or are motivated by career advancement, and notes the release of new open models in the EU and US.",
+      "articleUrl": "https://newsletter.pragmaticengineer.com/p/the-pulse-new-trend-of-building-internal",
+      "category": "Software Development",
+      "filterTags": [
+        "vibe-coding",
+        "open models",
+        "EU",
+        "US"
+      ],
+      "publishedAt": "2026-10-08T16:55:51+00:00",
+      "publisher": {
+        "name": "Pragmatic Engineer",
+        "domain": "newsletter.pragmaticengineer.com",
+        "website": "https://newsletter.pragmaticengineer.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=newsletter.pragmaticengineer.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=newsletter.pragmaticengineer.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Engineering Culture"
+        }
+      ]
+    },
+    {
+      "slug": "big-tech-sets-out-its-pitches-on-ai-agents",
+      "title": "Big Tech sets out its pitches on AI agents",
+      "dek": "Race to develop new services has moved into high gear with a series of launches",
+      "aiSummary": "The competition to create new AI agent services has intensified, with several companies launching new offerings. These launches signal a push to capture market share in the emerging AI agent space.",
+      "articleUrl": "https://www.ft.com/content/9884d785-8ddc-43a6-ac8d-b9c7f9a99df3?syn-25a6b1a6=1",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AI agents",
+        "Big Tech"
+      ],
+      "publishedAt": "2026-10-08T16:44:08+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "jennifer-huddleston-and-sarah-myers-west-on-artificial-intelligence-regulation",
+      "title": "Jennifer Huddleston and Sarah Myers West on Artificial Intelligence Regulation",
+      "dek": "AI Now's Co-Executive Director Sarah Myers West joined the Washington Journal to talk about how artificial intelligence should be regulated. \n The post  Jennifer Huddleston and Sarah Myers West on Artificial Intelligence Regulation  appeared first on  AI Now Institute .",
+      "aiSummary": "Sarah Myers West, Co-Executive Director of AI Now, appeared on the Washington Journal to discuss the regulation of artificial intelligence. The discussion was hosted by Jennifer Huddleston and focused on policy approaches for managing AI technologies.",
+      "articleUrl": "https://ainowinstitute.org/news/jennifer-huddleston-and-sarah-myers-west-on-artificial-intelligence-regulation",
+      "category": "AI",
+      "filterTags": [
+        "AI Now Institute",
+        "Washington Journal",
+        "Jennifer Huddleston",
+        "Sarah Myers West"
+      ],
+      "publishedAt": "2026-10-08T16:39:57+00:00",
+      "publisher": {
+        "name": "AI Now Institute",
+        "domain": "ainowinstitute.org",
+        "website": "https://ainowinstitute.org/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ainowinstitute.org&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ainowinstitute.org&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Policy"
+        },
+        {
+          "name": "Regulation"
+        }
+      ]
+    },
+    {
+      "slug": "synthesis-superintelligence-from-semiconductors-to-superconductors-periodic-labs-liam-fedus-and-ekin-dogus-cubuk",
+      "title": "Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk",
+      "dek": "A special Science pod and Engineering pod crossover.. with Forward Deployed Engineering kicker!",
+      "aiSummary": "In this episode, the Science and Engineering pods cross over, featuring a Forward Deployed Engineering segment. Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk talk about transitioning from semiconductors to superconductors as part of the journey toward superintelligence.",
+      "articleUrl": "https://www.latent.space/p/periodic",
+      "category": "AI",
+      "filterTags": [
+        "Periodic Labs",
+        "Semiconductors",
+        "Superconductors",
+        "Superintelligence",
+        "Forward Deployed Engineering"
+      ],
+      "publishedAt": "2026-10-08T16:27:54+00:00",
+      "publisher": {
+        "name": "Latent Space",
+        "domain": "latent.space",
+        "website": "https://www.latent.space/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "share-gpu-clusters-across-teams-with-isolation-and-fairness-using-amazon-sagemaker-hyperpod",
+      "title": "Share GPU clusters across teams with isolation and fairness using Amazon SageMaker HyperPod",
+      "dek": "A reference architecture for securely sharing one Amazon SageMaker HyperPod EKS cluster across multiple teams, using AWS IAM Identity Center for authentication, per-team SageMaker Domains and Kubernetes namespaces for isolation, HyperPod Task Governance for fairness, and namespac",
+      "aiSummary": "This article presents a reference architecture for sharing a single Amazon SageMaker HyperPod EKS cluster among multiple teams. It utilizes AWS IAM Identity Center for authentication, per-team SageMaker Domains and Kubernetes namespaces for isolation, and HyperPod Task Governance to ensure fair resource distribution.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/share-gpu-clusters-across-teams-with-isolation-and-fairness-using-amazon-sagemaker-hyperpod/",
+      "category": "Cloud Infrastructure",
+      "filterTags": [
+        "Amazon SageMaker HyperPod",
+        "EKS",
+        "AWS IAM Identity Center",
+        "Kubernetes",
+        "SageMaker Domains"
+      ],
+      "publishedAt": "2026-10-08T16:20:04+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cloud Infrastructure"
+        },
+        {
+          "name": "MLOps"
+        },
+        {
+          "name": "AWS"
+        }
+      ]
+    },
+    {
+      "slug": "jetbrains-releases-mellum2-1-a-12b-moe-open-model-for-coding-agents",
+      "title": "JetBrains Releases Mellum2.1: A 12B MoE Open Model for Coding Agents",
+      "dek": "JetBrains released Mellum2.1, an Apache 2.0, 12B mixture-of-experts thinking model with 2.5B active parameters. RL in real repositories lifted its SWE-bench Verified score from 2.0 to 47.0. \n The post  JetBrains Releases Mellum2.1: A 12B MoE Open Model for Coding Agents  appeared",
+      "aiSummary": "JetBrains has introduced Mellum2.1, an open-source 12-billion-parameter Mixture-of-Experts model with 2.5 billion active parameters, released under the Apache 2.0 license. This model, designed for coding agents, significantly improved its SWE-bench Verified score from 2.0 to 47.0 through reinforcement learning applied in real code repositories.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/08/jetbrains-releases-mellum2-1-a-12b-moe-open-model-for-coding-agents/",
+      "category": "AI",
+      "filterTags": [
+        "JetBrains",
+        "Mellum2.1",
+        "MoE",
+        "Coding Agents",
+        "Apache 2.0",
+        "RL",
+        "SWE-bench"
+      ],
+      "publishedAt": "2026-10-08T16:17:35+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "langchain-openai-1-7-0",
+      "title": "langchain-openai==1.7.0",
+      "dek": "Changes since langchain-openai==1.6.7 \n release(openai): 1.7.0 ( #41154 ) \nfeat(openai): support decisions api ( #41125 ) \nchore(deps): bump langgraph-sdk from 0.4.4 to 0.4.6 in /libs/partners/openai ( #41096 ) \nchore(deps): bump langgraph-sdk from 0.4.2 to 0.4.4 in /libs/partner",
+      "aiSummary": "The update to langchain-openai 1.7.0 adds support for the OpenAI decisions API and includes dependency updates. The changelog notes a bump of langgraph-sdk from 0.4.4 to 0.4.6 in the openai partner library and from 0.4.2 to 0.4.4 in another partner library.",
+      "articleUrl": "https://github.com/langchain-ai/langchain/releases/tag/langchain-openai%3D%3D1.7.0",
+      "category": "Software Development",
+      "filterTags": [
+        "langchain-openai",
+        "OpenAI",
+        "decisions API",
+        "langgraph-sdk"
+      ],
+      "publishedAt": "2026-10-08T16:07:55+00:00",
+      "publisher": {
+        "name": "langchain-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langchain-ai/langchain",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "API"
+        }
+      ]
+    },
+    {
+      "slug": "how-oracle-turns-days-of-work-into-minutes-with-chatgpt-and-codex",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "dek": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "aiSummary": "Oracle is leveraging ChatGPT Work and Codex to convert specialist knowledge into rapid, repeatable workflows. This implementation spans recruiting, engineering, and operations, significantly reducing the time required for various tasks.",
+      "articleUrl": "https://openai.com/index/oracle",
+      "category": "Enterprise Software",
+      "filterTags": [
+        "Oracle",
+        "ChatGPT",
+        "Codex",
+        "ChatGPT Work"
+      ],
+      "publishedAt": "2026-10-08T16:00:00+00:00",
+      "publisher": {
+        "name": "OpenAI",
+        "domain": "openai.com",
+        "website": "https://openai.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Enterprise Software"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Productivity"
+        }
+      ]
+    }
+  ]
+}
