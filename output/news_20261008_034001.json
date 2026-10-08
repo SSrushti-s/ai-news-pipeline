@@ -1,0 +1,1061 @@
+{
+  "news": [
+    {
+      "slug": "b11486",
+      "title": "b11486",
+      "dek": "hexagon: improved GELU accuracy ( #30104 ) \n Assisted-by: OpenCode \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/53797268 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silicon (arm64, KleidiAI enabled)  ",
+      "aiSummary": "This release of llama.cpp includes an update that improves the accuracy of the GELU activation function specifically for Hexagon hardware. The build is available for macOS and iOS devices with Apple Silicon, with an option to enable KleidiAI support.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11486",
+      "category": "AI",
+      "filterTags": [
+        "llama.cpp",
+        "Hexagon",
+        "GELU",
+        "KleidiAI",
+        "Apple Silicon"
+      ],
+      "publishedAt": "2026-10-08T03:38:29+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "b11485",
+      "title": "b11485",
+      "dek": "chat: fix jinja parser for TranslateGemma ( #30096 ) \n \n \n chat: fix jinja parser for translategemma \n \n \n log if missing soruce_lang_code or target_lang_code \n \n \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/53794844 ",
+      "aiSummary": "This update fixes the Jinja parser specifically for the TranslateGemma model. It also adds logging functionality to detect when source or target language codes are missing.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11485",
+      "category": "AI",
+      "filterTags": [
+        "Jinja",
+        "TranslateGemma",
+        "llama.cpp",
+        "ggml-org"
+      ],
+      "publishedAt": "2026-10-08T03:24:20+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "b11484",
+      "title": "b11484",
+      "dek": "chat : name tool and argument parser rules by index ( #30088 ) \n \n \n bugfix: infinite recursion caused by a tool named 'call'( #29967 ) \n \n \n chat : use index for schema and argument rules \n \n \n tests : remove tests \n \n \n tests : add expect_rules to peg test parser \n \n \n \n Co-aut",
+      "aiSummary": "The update introduces a change to name tool and argument parser rules by index within the chat module. It also includes a bug fix for infinite recursion triggered by a tool named 'call' and updates to the test suite involving the peg test parser.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11484",
+      "category": "Software Development",
+      "filterTags": [
+        "parser",
+        "chat",
+        "peg",
+        "bugfix"
+      ],
+      "publishedAt": "2026-10-08T03:07:24+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-79ef85d9b61ab6dff4da6790dc21aef835b57a58-inductor-decompose-addmm-skips-non-default-alpha-and-beta-196588",
+      "title": "trunk/79ef85d9b61ab6dff4da6790dc21aef835b57a58: [inductor] decompose_addmm skips non-default alpha and beta (#196588)",
+      "dek": "Issue \n Fixes  #196577 \n Summary \n decompose_addmm  matched  aten.addmm  without declaring  beta  or  alpha , and the pattern matcher only compares the kwargs a pattern declares, so  addmm(x, a, b, beta=0)  was rewritten to  a @ b + x . The pattern now pins  beta=1, alpha=1 : nod",
+      "aiSummary": "The decompose_addmm function previously matched aten.addmm operations without declaring beta or alpha parameters, causing incorrect rewrites when non-default values were used. This update pins beta and alpha to 1 to prevent the pattern matcher from incorrectly rewriting operations with custom coefficients.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F79ef85d9b61ab6dff4da6790dc21aef835b57a58",
+      "category": "Machine Learning",
+      "filterTags": [
+        "PyTorch",
+        "inductor",
+        "decompose_addmm",
+        "aten.addmm"
+      ],
+      "publishedAt": "2026-10-08T02:59:03+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Compiler Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-4f00a94126bd72ccfd24bd529ca565ef782a50bb",
+      "title": "trunk/4f00a94126bd72ccfd24bd529ca565ef782a50bb",
+      "dek": "[symm_mem]: Let the NCCL tensor-only ops take a group, and expose a h…",
+      "aiSummary": "The commit modifies symmetric memory functionality in the trunk branch. It allows NCCL tensor-only operations to accept a group argument and exposes a handle.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F4f00a94126bd72ccfd24bd529ca565ef782a50bb",
+      "category": "Distributed Computing",
+      "filterTags": [
+        "NCCL",
+        "symm_mem",
+        "tensor",
+        "trunk"
+      ],
+      "publishedAt": "2026-10-08T02:58:17+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Distributed Computing"
+        },
+        {
+          "name": "Deep Learning Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "elon-musk-blames-indian-oligarchs-for-stalling-starlink-launch",
+      "title": "Elon Musk blames Indian 'oligarchs' for stalling Starlink launch",
+      "dek": "Space X founder Elon Musk accused oligarchs in India of keeping Starlink out of the country to protect their monopoly over consumers.",
+      "aiSummary": "SpaceX founder Elon Musk accused Indian oligarchs of preventing Starlink from launching in the country. He claims these individuals are stalling the service to protect their existing monopoly over consumers.",
+      "articleUrl": "https://www.cnbc.com/2026/10/08/elon-musk-starlink-spacex-jio-airtel-india.html",
+      "category": "Telecommunications",
+      "filterTags": [
+        "Elon Musk",
+        "SpaceX",
+        "Starlink",
+        "India"
+      ],
+      "publishedAt": "2026-10-08T02:55:34+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Telecommunications"
+        },
+        {
+          "name": "Space"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "ai-chipmaker-biren-taps-market-again-in-515-million-share-sale",
+      "title": "AI Chipmaker Biren Taps Market Again in $515 Million Share Sale",
+      "dek": "Shanghai Biren Technology Co. aims to raise HK$4.04 billion ($515 million) in another share sale to help bankroll its artificial intelligence ambitions, adding to the fundraising spree from Chinese AI companies.",
+      "aiSummary": "Shanghai Biren Technology Co. plans to raise HK$4.04 billion ($515 million) through a new share sale to fund its artificial intelligence initiatives. This move contributes to a broader trend of fundraising activities among Chinese AI companies.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-08/ai-chipmaker-biren-taps-market-again-in-515-million-share-sale",
+      "category": "AI",
+      "filterTags": [
+        "Biren Technology",
+        "AI Chips",
+        "Share Sale"
+      ],
+      "publishedAt": "2026-10-08T02:46:23+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "b-grimm-raises-data-center-target-with-new-overseas-partner",
+      "title": "B.Grimm Raises Data Center Target With New Overseas Partner",
+      "dek": "B.Grimm Power Pcl plans to invest in a 250-megawatt data center project with a new overseas partner as the Thai power producer accelerates its expansion into the sector to capitalize on surging demand for AI services.",
+      "aiSummary": "B.Grimm Power Pcl is investing in a 250‑megawatt data center project with a new overseas partner. The Thai power producer is expanding into the data center sector to meet growing demand for AI services.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-08/b-grimm-raises-data-center-target-with-new-overseas-partner",
+      "category": "Energy",
+      "filterTags": [
+        "B.Grimm Power",
+        "Data Center",
+        "AI Services",
+        "250 MW"
+      ],
+      "publishedAt": "2026-10-08T02:37:53+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Energy"
+        },
+        {
+          "name": "Data Center"
+        },
+        {
+          "name": "Artificial Intelligence"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-72104d55024f7e483682ae6e73ca1ab01a72c683-re-review-contributor-pushes-in-the-hardened-pr-review-200156",
+      "title": "trunk/72104d55024f7e483682ae6e73ca1ab01a72c683: Re-review contributor pushes in the hardened PR review (#200156)",
+      "dek": "✴️ iz2: After a review asks for changes,  in progress  stays on so the author's next push is reviewed again. For authors without write access, which is most open-source contributors, that re-review failed at setup with \"User does not have write access on this repository\" (recorde",
+      "aiSummary": "A recent update fixes an issue where re-reviewing code changes from contributors without write access failed with a permission error. This change ensures that when a review requests changes, the author's subsequent push is correctly re-reviewed even if they lack direct write permissions to the repository.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F72104d55024f7e483682ae6e73ca1ab01a72c683",
+      "category": "Developer Tools",
+      "filterTags": [
+        "PR review",
+        "open-source",
+        "permissions",
+        "contributor"
+      ],
+      "publishedAt": "2026-10-08T02:15:15+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Developer Tools"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "v0-40-1",
+      "title": "v0.40.1",
+      "dek": "What's Changed \n \n server: proxy cloud usage and balance APIs by  @drifkin  in  #18829 \n llama: fix clef head reads past 2GiB on windows by  @Gigrise  in  #18777 \n cmd: remove account step from CLI onboarding by  @hoyyeva  in  #18826 \n manifest: avoid symlinks on Windows by  @dhi",
+      "aiSummary": "The v0.40.1 release includes updates to proxy cloud usage and balance APIs on the server. It also fixes a memory read issue for Llama on Windows, removes the account step from CLI onboarding, and avoids symlinks on Windows in the manifest.",
+      "articleUrl": "https://github.com/ollama/ollama/releases/tag/v0.40.1",
+      "category": "Software Development",
+      "filterTags": [
+        "Llama",
+        "Windows",
+        "CLI",
+        "API"
+      ],
+      "publishedAt": "2026-10-08T02:09:43+00:00",
+      "publisher": {
+        "name": "ollama",
+        "domain": "github.com",
+        "website": "https://github.com/ollama/ollama",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "openai-used-ai-to-help-write-email-warning-australian-government-ai-had-hacked-its-websites",
+      "title": "OpenAI used AI to help write email warning Australian government AI had hacked its websites",
+      "dek": "Exclusive:  Revelation comes after company’s executive told parliamentary inquiry he did not believe AI had been used to write message Get our  breaking news email ,  free app  or  daily news podcast OpenAI used AI to help write the email to the Australian government advising tha",
+      "aiSummary": "OpenAI used AI to assist in writing an email to the Australian government warning that its websites had been hacked. This revelation contradicts a previous statement by a company executive to a parliamentary inquiry, who claimed he did not believe AI was used to compose the message.",
+      "articleUrl": "https://www.theguardian.com/australia-news/2026/oct/08/openai-used-ai-to-help-write-email-warning-australian-government-ai-had-hacked-its-websites",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "AI",
+        "Australian government"
+      ],
+      "publishedAt": "2026-10-08T02:05:33+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "Government Policy"
+        }
+      ]
+    },
+    {
+      "slug": "runtime-your-ai-agents-have-a-home",
+      "title": "Runtime – Your AI Agents Have a Home",
+      "dek": "Runtime provides a platform for hosting AI agents.",
+      "aiSummary": "The article introduces Runtime as a destination for AI agents. It positions the platform as a home base for these autonomous systems.",
+      "articleUrl": "https://withruntime.com/",
+      "category": "AI",
+      "filterTags": [
+        "Runtime",
+        "AI Agents"
+      ],
+      "publishedAt": "2026-10-08T02:04:06+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "ai-chip-boom-pushes-samsung-profits-to-record-80bn",
+      "title": "AI chip boom pushes Samsung profits to record $80bn",
+      "dek": "The tech giant is also expected to get a boost from its latest folding devices that were launched in August.",
+      "aiSummary": "Samsung has achieved record profits of $80 billion, driven primarily by the booming market for AI chips. The company also anticipates additional financial gains from its latest folding devices, which were released in August.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&at_campaign=rss",
+      "category": "Semiconductors",
+      "filterTags": [
+        "Samsung",
+        "AI chips",
+        "folding devices"
+      ],
+      "publishedAt": "2026-10-08T01:59:54+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Corporate Finance"
+        }
+      ]
+    },
+    {
+      "slug": "what-happens-when-a-trusted-model-repo-changes-unsloth-studio-re-checks-before-it-runs",
+      "title": "What Happens When a Trusted Model Repo Changes? Unsloth Studio Re-Checks Before It Runs",
+      "dek": "Unsloth's October 6 security overview explains how Studio checks code, weights, packages and tools before anything runs. Custom model code is scanned and approval is bound to its fingerprint. Flagged weight files are blocked in the load path, package-content findings fail CI, and",
+      "aiSummary": "Unsloth’s October 6 security overview explains how Studio checks code, weights, packages, and tools before anything runs. Custom model code is scanned and approval is tied to its fingerprint. Flagged weight files are blocked from the load path, and package-content findings cause CI failures.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/07/what-happens-when-a-trusted-model-repo-changes-unsloth-studio-re-checks-before-it-runs/",
+      "category": "Security",
+      "filterTags": [
+        "Unsloth",
+        "Studio",
+        "CI"
+      ],
+      "publishedAt": "2026-10-08T01:49:11+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "building-alone-faster-a-panel-on-what-ai-is-doing-to-the-product-trio",
+      "title": "Building alone, faster: a panel on what AI is doing to the product trio",
+      "dek": "A discussion on how artificial intelligence is changing the way individuals build products quickly.",
+      "aiSummary": "The provided text contains only the title and does not include the article body. Therefore, no factual summary can be generated based on the available content.",
+      "articleUrl": "https://jennywanger.com/articles/building-alone-faster/",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Product Development"
+      ],
+      "publishedAt": "2026-10-08T01:44:29+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Product Management"
+        }
+      ]
+    },
+    {
+      "slug": "exodus-ai-affordable-face-swapping-tool-for-creators",
+      "title": "Exodus AI – Affordable face swapping tool for creators",
+      "dek": "Cost-effective tool that lets creators exchange faces in images.",
+      "aiSummary": "Exodus AI provides an affordable face swapping tool for creators. The platform allows users to swap faces in images and videos at a lower cost than other solutions. It is aimed at creators seeking a budget-friendly option for face editing.",
+      "articleUrl": "https://tally.so/r/44gGAB",
+      "category": "AI",
+      "filterTags": [
+        "Exodus AI",
+        "face swapping",
+        "AI"
+      ],
+      "publishedAt": "2026-10-08T01:40:57+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Creative Tools"
+        },
+        {
+          "name": "Software"
+        }
+      ]
+    },
+    {
+      "slug": "v1-13-0-dev36",
+      "title": "v1.13.0.dev36",
+      "dek": "Langflow nightly v1.13.0.dev36",
+      "aiSummary": "Langflow has released a nightly build version v1.13.0.dev36. This update is part of the nightly release cycle.",
+      "articleUrl": "https://github.com/langflow-ai/langflow/releases/tag/v1.13.0.dev36",
+      "category": "AI",
+      "filterTags": [
+        "Langflow",
+        "v1.13.0.dev36"
+      ],
+      "publishedAt": "2026-10-08T01:38:40+00:00",
+      "publisher": {
+        "name": "langflow-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langflow-ai/langflow",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "malaysian-chip-firm-sqai-said-to-plan-73-million-ipo-in-early-2027",
+      "title": "Malaysian Chip Firm SQAI Said to Plan $73 Million IPO in Early 2027",
+      "dek": "Malaysian semiconductor firm SQ Advanced Interconnect Bhd. is considering raising about 300 million ringgit ($73 million) in an initial public offering in the first quarter of 2027, people familiar with the matter said.",
+      "aiSummary": "SQ Advanced Interconnect Bhd., a Malaysian semiconductor firm, is considering raising roughly 300 million ringgit (about $73 million) through an IPO scheduled for the first quarter of 2027. The plan is still under consideration, according to sources familiar with the matter.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-08/malaysian-chip-firm-sqai-said-to-plan-73-million-ipo-in-early-2027",
+      "category": "Semiconductors",
+      "filterTags": [
+        "SQ Advanced Interconnect Bhd.",
+        "Semiconductor",
+        "IPO",
+        "Malaysia"
+      ],
+      "publishedAt": "2026-10-08T01:36:51+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Emerging Markets"
+        }
+      ]
+    },
+    {
+      "slug": "datacentre-company-firmus-s-high-flying-valuation-may-be-coming-back-down-to-earth-ahead-of-expected-asx-debut",
+      "title": "Datacentre company Firmus’s high flying valuation may be coming back down to earth ahead of expected ASX debut",
+      "dek": "Sources say Firmus is slashing its price and may even shelve initial public offering altogether Get our  breaking news email ,  free app  or  daily news podcast The momentum behind Firmus Technologies’  high-flying valuation  is showing severe cracks just weeks out from its antic",
+      "aiSummary": "Sources indicate that Firmus Technologies is significantly reducing its valuation and may cancel its initial public offering entirely. This decision comes as the company's previously high-flying momentum shows signs of cracking just weeks before its expected debut on the ASX.",
+      "articleUrl": "https://www.theguardian.com/australia-news/2026/oct/08/ai-datacentre-firmus-slash-valuation-before-asx-listing",
+      "category": "Finance",
+      "filterTags": [
+        "Firmus Technologies",
+        "ASX",
+        "IPO",
+        "Datacentre"
+      ],
+      "publishedAt": "2026-10-08T00:57:58+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "samsung-forecasts-record-third-quarter-profit-of-80-billion-as-ai-boom-fuels-chip-demand",
+      "title": "Samsung forecasts record third-quarter profit of $80 billion as AI boom fuels chip demand",
+      "dek": "Samsung Electronics reported preliminary third-quarter earnings on Thursday, with operating profit forecast to top 100 trillion won for the first time.",
+      "aiSummary": "Samsung Electronics has reported preliminary results indicating that its third-quarter operating profit will exceed 100 trillion won for the first time. This record-breaking performance is attributed to the artificial intelligence boom, which has significantly boosted demand for the company's chips.",
+      "articleUrl": "https://www.cnbc.com/2026/10/08/samsung-q3-earnings.html",
+      "category": "Semiconductors",
+      "filterTags": [
+        "Samsung Electronics",
+        "AI",
+        "Chips"
+      ],
+      "publishedAt": "2026-10-08T00:51:23+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Corporate Finance"
+        }
+      ]
+    },
+    {
+      "slug": "china-races-to-build-ai-data-centres-across-energy-rich-hinterland",
+      "title": "China races to build AI data centres across energy-rich hinterland",
+      "dek": "In the first report of a three-part series, how Inner Mongolia became the engine room for the nation’s vast AI ambition",
+      "aiSummary": "The article introduces the first part of a series that examines how Inner Mongolia is becoming a central hub for China's AI development. It highlights the region's role in supporting the country's large-scale AI initiatives.",
+      "articleUrl": "https://www.ft.com/content/e1dd8bff-b06d-4a40-bbb7-c0a6a36f1c8e?syn-25a6b1a6=1",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "China",
+        "Inner Mongolia",
+        "AI",
+        "data centers"
+      ],
+      "publishedAt": "2026-10-08T00:15:04+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "Energy"
+        }
+      ]
+    },
+    {
+      "slug": "jackery-homepower-2000-plus-v2-review-keeping-you-prepared-when-the-power-goes-out",
+      "title": "Jackery HomePower 2000 Plus v2 review: keeping you prepared when the power goes out",
+      "dek": "After two power outages forced me to pitch a couple hundred dollars' worth of groceries in the trash, Jackery's HomePower 2000 Plus v2 gave me a way to keep my fridge running. Jackery HomePower 2000 Plus v2 There's no shortage of climate catastrophe, power grid problems, or the n",
+      "aiSummary": "The reviewer had two power outages that forced them to discard groceries, but the Jackery HomePower 2000 Plus v2 kept their refrigerator running. The product is presented as a solution amid climate‑related power grid problems.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/08/jackery-homepower-2000-plus-v2-review-keeping-you-prepared-when-the-power-goes-out?utm_source=rss",
+      "category": "Hardware",
+      "filterTags": [
+        "Jackery",
+        "HomePower 2000 Plus v2",
+        "portable power station"
+      ],
+      "publishedAt": "2026-10-08T00:13:02+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Energy"
+        },
+        {
+          "name": "Disaster Preparedness"
+        }
+      ]
+    },
+    {
+      "slug": "microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes",
+      "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+      "dek": "Get ready for more AI in your Windows and more AI on the desktop.",
+      "aiSummary": "Microsoft announced new AI-friendly hardware and Windows updates at its event. The company is adding more AI features to Windows and desktop experiences.",
+      "articleUrl": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+      "category": "AI",
+      "filterTags": [
+        "Microsoft",
+        "Windows",
+        "AI"
+      ],
+      "publishedAt": "2026-10-08T00:00:24+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Operating Systems"
+        }
+      ]
+    },
+    {
+      "slug": "1-15-25",
+      "title": "1.15.25",
+      "dek": "What's Changed \n Documentation \n \n Snapshot and changelog for v1.15.24 \n \n Contributors \n @lorenzejay",
+      "aiSummary": "The release notes for version 1.15.25 provide documentation updates and a snapshot of the changelog for v1.15.24. Contributors to this release include @lorenzejay.",
+      "articleUrl": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.25",
+      "category": "Software Updates",
+      "filterTags": [
+        "Documentation",
+        "Changelog",
+        "v1.15.24",
+        "lorenzejay"
+      ],
+      "publishedAt": "2026-10-07T23:52:13+00:00",
+      "publisher": {
+        "name": "crewAIInc",
+        "domain": "github.com",
+        "website": "https://github.com/crewAIInc/crewAI",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Updates"
+        },
+        {
+          "name": "Documentation"
+        }
+      ]
+    },
+    {
+      "slug": "fuel-prices-added-to-google-maps-as-petrol-and-diesel-costs-soar",
+      "title": "Fuel prices added to Google Maps as petrol and diesel costs soar",
+      "dek": "A search for forecourts will now display their pricing, using the government's Fuel Finder scheme.",
+      "aiSummary": "Google Maps has integrated fuel pricing data to display petrol and diesel costs at forecourts. This feature utilizes the government's Fuel Finder scheme to provide users with up-to-date price information during searches.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo?at_medium=RSS&at_campaign=rss",
+      "category": "Technology",
+      "filterTags": [
+        "Google Maps",
+        "Fuel Finder"
+      ],
+      "publishedAt": "2026-10-07T23:50:29+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Transportation"
+        }
+      ]
+    },
+    {
+      "slug": "quoting-ben-affleck",
+      "title": "Quoting Ben Affleck",
+      "dek": "I've always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more interested in that aspect of it. And the visual effects workflow for many years has included machine learning. \n So I can write like pretty shi",
+      "aiSummary": "Ben Affleck explains that his early interest in computers grew into a focus on the digital transition in filmmaking. He notes that machine learning has been a part of the visual effects workflow for many years.",
+      "articleUrl": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
+      "category": "Entertainment",
+      "filterTags": [
+        "Ben Affleck",
+        "Machine Learning",
+        "Visual Effects",
+        "Digital Film"
+      ],
+      "publishedAt": "2026-10-07T23:14:58+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Entertainment"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says",
+      "title": "Anthropic will be 'most ridiculous IPO' of year, analyst says",
+      "dek": "Anthropic reportedly plans to list on the Nasdaq before Thanksgiving, and one bearish advisory firm suggests that investors sit this one out.",
+      "aiSummary": "Anthropic plans to go public on the Nasdaq before Thanksgiving. A bearish advisory firm advises investors to avoid the IPO.",
+      "articleUrl": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+      "category": "Finance",
+      "filterTags": [
+        "Anthropic",
+        "Nasdaq",
+        "IPO"
+      ],
+      "publishedAt": "2026-10-07T22:29:41+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Investing"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-releases-claude-haiku-5-5-a-small-model-with-1m-context-priced-at-0-10-per-million-input-tokens",
+      "title": "Anthropic Releases Claude Haiku 5.5: A Small Model With 1M Context Priced at $0.10 per Million Input Tokens",
+      "dek": "Anthropic's Claude Haiku 5.5 starts at $0.10 per million input tokens, keeps 1M context, scores 72.4% on OSWorld. \n The post  Anthropic Releases Claude Haiku 5.5: A Small Model With 1M Context Priced at $0.10 per Million Input Tokens  appeared first on  MarkTechPost .",
+      "aiSummary": "Anthropic has introduced Claude Haiku 5.5, a smaller language model designed to handle a 1 million token context window. The model is priced at $0.10 per million input tokens and achieved a score of 72.4% on the OSWorld benchmark.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/07/anthropic-releases-claude-haiku-5-5-a-small-model-with-1m-context-priced-at-0-10-per-million-input-tokens/",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "Claude Haiku 5.5",
+        "OSWorld"
+      ],
+      "publishedAt": "2026-10-07T20:38:30+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Large Language Models"
+        }
+      ]
+    },
+    {
+      "slug": "gamego-training-game-dev-agents-with-synthetic-trajectories-anchored-in-real-world-assets",
+      "title": "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets",
+      "dek": "arXiv:2610.06910v1 Announce Type: new \nAbstract: Recent advances in Large Language Models (LLMs) have demonstrated remarkable capabilities in web front-end execution, with browser-based game generation emerging as a particularly prominent frontier. While previous efforts frequent",
+      "aiSummary": "The paper presents GAMEGO, a framework for training game development agents using synthetic trajectories anchored in real-world assets. It builds on recent advances in large language models that enable web front‑end execution, especially for browser‑based game generation. The approach seeks to improve agent training by grounding synthetic data in real-world assets.",
+      "articleUrl": "https://arxiv.org/abs/2610.06910",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Large Language Models",
+        "Web Front-End",
+        "Browser-based Game Generation",
+        "Game Development Agents"
+      ],
+      "publishedAt": "2026-10-07T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv cs.AI",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.AI",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Game Development"
+        },
+        {
+          "name": "Web Development"
+        }
+      ]
+    },
+    {
+      "slug": "text2dashboard-a-governed-agent-architecture-for-natural-language-dashboard-generation-over-enterprise-databrain",
+      "title": "Text2Dashboard: A Governed Agent Architecture for Natural-Language Dashboard Generation over Enterprise DataBrain",
+      "dek": "arXiv:2610.06914v1 Announce Type: new \nAbstract: Text2Dashboard is a DataBrain-specific prototype that turns natural-language analytic requests into inspectable dashboards. An installable Codex plugin and standalone Agent Runtime combine schema-constrained model decisions with ty",
+      "aiSummary": "Text2Dashboard is a prototype for DataBrain that converts natural-language analytic requests into inspectable dashboards. It offers an installable Codex plugin and a standalone Agent Runtime that apply schema-constrained model decisions.",
+      "articleUrl": "https://arxiv.org/abs/2610.06914",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "DataBrain",
+        "Codex",
+        "Agent Runtime",
+        "schema-constrained models"
+      ],
+      "publishedAt": "2026-10-07T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv cs.AI",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.AI",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Data Analytics"
+        },
+        {
+          "name": "Enterprise Software"
+        }
+      ]
+    },
+    {
+      "slug": "fluidpd-in-place-elasticity-for-slo-aware-prefill-decode-disaggregated-llm-serving",
+      "title": "FluidPD: In-Place Elasticity for SLO-Aware Prefill-Decode Disaggregated LLM Serving",
+      "dek": "arXiv:2610.06917v1 Announce Type: new \nAbstract: Prefill-decode disaggregation is becoming a common architecture for LLM serving because it separates two phases with distinct execution patterns and SLO objectives. Existing systems typically combine a fixed prefill/decode worker r",
+      "aiSummary": "FluidPD is a system designed for LLM serving that uses prefill-decode disaggregation to separate phases with different execution patterns and SLO objectives. It introduces in-place elasticity to address the limitations of existing systems that rely on fixed worker ratios.",
+      "articleUrl": "https://arxiv.org/abs/2610.06917",
+      "category": "AI",
+      "filterTags": [
+        "FluidPD",
+        "LLM Serving",
+        "Prefill-Decode Disaggregation",
+        "SLO"
+      ],
+      "publishedAt": "2026-10-07T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv cs.AI",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.AI",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Infrastructure"
+        }
+      ]
+    }
+  ]
+}
