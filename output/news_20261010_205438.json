@@ -1,0 +1,516 @@
+{
+  "news": [
+    {
+      "slug": "cyber-resilience-guide-zero-trust-ai-security-and-ransomware-recovery",
+      "title": "Cyber Resilience Guide: Zero Trust, AI Security and Ransomware Recovery",
+      "dek": "A guide to strengthening cybersecurity through zero trust, AI protection, and ransomware recovery.",
+      "aiSummary": "The article provides a guide on enhancing cyber resilience by focusing on zero trust architectures, securing AI systems, and recovering from ransomware attacks. It outlines strategies for organizations to defend against modern digital threats and restore operations after incidents.",
+      "articleUrl": "https://phpscientist.com/blog/cyber-resilience-implementation-guide-ai-ransomware-zero-trust/",
+      "category": "Security",
+      "filterTags": [
+        "Zero Trust",
+        "AI Security",
+        "Ransomware",
+        "Cyber Resilience"
+      ],
+      "publishedAt": "2026-10-10T20:17:41+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "ai-browser-agents-seo-security-and-implementation-playbook-for-2026",
+      "title": "AI Browser Agents: SEO, Security and Implementation Playbook for 2026",
+      "dek": "A guide to managing search engine optimization, safety, and setup for AI-powered web browsing tools in 2026.",
+      "aiSummary": "The article provides a strategic playbook for navigating the landscape of AI browser agents in 2026. It covers essential aspects including search engine optimization, security protocols, and implementation strategies for these technologies.",
+      "articleUrl": "https://phpscientist.com/blog/ai-browser-agents-seo-security-implementation-playbook-2026/",
+      "category": "AI",
+      "filterTags": [
+        "AI Browser Agents",
+        "SEO",
+        "Security",
+        "Implementation"
+      ],
+      "publishedAt": "2026-10-10T20:17:15+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Web Development"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "try-on-device-ai-with-fm",
+      "title": "Try On-Device AI with FM",
+      "dek": "Test artificial intelligence running directly on your device using FM.",
+      "aiSummary": "The article introduces a method for testing on-device artificial intelligence capabilities using a tool or platform referred to as FM. It focuses on local AI processing rather than cloud-based solutions.",
+      "articleUrl": "https://eclecticlight.co/2026/10/10/try-on-device-ai-with-fm/",
+      "category": "AI",
+      "filterTags": [
+        "On-Device AI",
+        "FM"
+      ],
+      "publishedAt": "2026-10-10T20:16:39+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Mobile Development"
+        }
+      ]
+    },
+    {
+      "slug": "b11552",
+      "title": "b11552",
+      "dek": "server: leave a busy slot untouched when a request pins it ( #30295 ) \n A request asking for a busy id_slot still ran the prompt cache update \non that slot before being deferred. When the RAM cache held a better \nmatch, it was loaded into the slot while another request was still ",
+      "aiSummary": "The update fixes a bug where a request targeting a busy ID slot would incorrectly trigger a prompt cache update before being deferred. This prevented the RAM cache from loading a better match into the slot while another request was still active.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11552",
+      "category": "Backend Infrastructure",
+      "filterTags": [
+        "server",
+        "prompt cache",
+        "RAM cache",
+        "id_slot"
+      ],
+      "publishedAt": "2026-10-10T19:54:44+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Backend Infrastructure"
+        },
+        {
+          "name": "Performance Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe",
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "dek": "Is Apple hoping to get into the AI-generated podcast business?",
+      "aiSummary": "Apple has disclosed a deal to hire a team and license technology from Huxe, a startup focused on personalized podcasts. This move suggests Apple may be exploring entry into the AI-generated podcast market.",
+      "articleUrl": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "category": "AI",
+      "filterTags": [
+        "Apple",
+        "Huxe",
+        "AI",
+        "Podcasts"
+      ],
+      "publishedAt": "2026-10-10T19:50:00+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Media"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "b11551",
+      "title": "b11551",
+      "dek": "model : support MiniCPM-V 4.7 ( #29416 ) \n \n mtmd : add MiniCPM-V 4.7 support \n \n Signed-off-by: tc-mb  tianchi_cai@icloud.com \n \n model : allow mrope time from an extra position slot \n \n Signed-off-by: tc-mb  tianchi_cai@icloud.com \n \n Update conversion/minicpm.py \n \n Co-authore",
+      "aiSummary": "The commit introduces support for the MiniCPM-V 4.7 model within the mtmd framework. It also modifies the model to allow mrope time from an extra position slot and updates the minicpm.py conversion script.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11551",
+      "category": "AI",
+      "filterTags": [
+        "MiniCPM-V 4.7",
+        "mtmd",
+        "mrope"
+      ],
+      "publishedAt": "2026-10-10T19:13:14+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "black-box-the-chatbots-the-line-ep-5-podcast",
+      "title": "Black Box: The Chatbots | The Line | Ep 5 - podcast",
+      "dek": "Five stories that feel like five answers to one important question: in a world where AI chatbots can help us through a breakup, listen like a friend, be a life coach, draft a difficult text message and do our work, where do we draw the line? Listen to  Black Box: The Chatbots   s",
+      "aiSummary": "This podcast episode presents five stories addressing the question of where to draw the line in using AI chatbots. The narratives cover scenarios where chatbots assist with breakups, act as friends or life coaches, draft difficult messages, and perform work tasks.",
+      "articleUrl": "https://www.theguardian.com/australia-news/audio/2026/oct/11/black-box-the-chatbots-the-line-ep-5-full-story-podcast",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Chatbots",
+        "Podcast"
+      ],
+      "publishedAt": "2026-10-10T19:00:08+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Media"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-explores-deal-options-with-reflection-ai-financial-times-says",
+      "title": "Nvidia Explores Deal Options With Reflection AI, Financial Times Says",
+      "dek": "Nvidia Corp. is in talks to boost its investment in Reflection AI or offer the startup computing power, a move that would strengthen ties with a key developer of open-weight models, according to a person familiar with the matter.",
+      "aiSummary": "Nvidia is discussing ways to increase its investment in Reflection AI or provide the startup with computing power. This would deepen Nvidia's relationship with a major developer of open-weight models. The information comes from an unnamed source.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-10/nvidia-is-in-talks-to-acquire-reflection-ai-the-ft-reports",
+      "category": "AI",
+      "filterTags": [
+        "Nvidia",
+        "Reflection AI",
+        "open-weight models"
+      ],
+      "publishedAt": "2026-10-10T18:52:58+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Technology Partnerships"
+        },
+        {
+          "name": "Investment"
+        }
+      ]
+    },
+    {
+      "slug": "distrokid-has-been-quietly-taking-down-songs-in-response-to-umg-lawsuit",
+      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+      "dek": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that Distr",
+      "aiSummary": "Artists have reported that DistroKid has removed their songs without prior notice. DistroKid confirmed to The Verge that these takedowns are a direct response to a lawsuit filed by UMG in September.",
+      "articleUrl": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+      "category": "Music Industry",
+      "filterTags": [
+        "DistroKid",
+        "UMG",
+        "The Verge"
+      ],
+      "publishedAt": "2026-10-10T18:52:07+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Music Industry"
+        },
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Streaming"
+        }
+      ]
+    },
+    {
+      "slug": "microsoft-ceo-nadella-calls-for-emergency-brake-on-advanced-ai",
+      "title": "Microsoft CEO Nadella Calls for ‘Emergency Brake’ on Advanced AI",
+      "dek": "Microsoft Corp. Chief Executive Officer Satya Nadella said companies should treat powerful artificial intelligence models as potential insider threats, assume they could be compromised and create an “emergency brake” system to prevent agentic models from going rogue.",
+      "aiSummary": "Microsoft CEO Satya Nadella advised that companies should view powerful AI models as potential insider threats that could be compromised. He recommended implementing an 'emergency brake' system to prevent agentic models from going rogue.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-10/microsoft-ceo-nadella-calls-for-emergency-brake-on-advanced-ai",
+      "category": "AI",
+      "filterTags": [
+        "Microsoft",
+        "Satya Nadella",
+        "AI",
+        "Agentic Models"
+      ],
+      "publishedAt": "2026-10-10T18:35:59+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Corporate Strategy"
+        }
+      ]
+    },
+    {
+      "slug": "b11550",
+      "title": "b11550",
+      "dek": "cmake(s390x): disable z17 target for unsupported compilers ( #30297 ) \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/54655455 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silicon (arm64, KleidiAI enabled",
+      "aiSummary": "This release disables the z17 target for unsupported compilers on the s390x architecture. The update is associated with the llama.cpp project and includes support for macOS Apple Silicon with KleidiAI enabled.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11550",
+      "category": "AI",
+      "filterTags": [
+        "llama.cpp",
+        "cmake",
+        "s390x",
+        "z17",
+        "KleidiAI",
+        "Apple Silicon"
+      ],
+      "publishedAt": "2026-10-10T18:33:11+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-in-talks-to-acquire-us-open-model-start-up-reflection-ai",
+      "title": "Nvidia in talks to acquire US ‘open’ model start-up Reflection AI",
+      "dek": "Donald Trump’s administration hopes the company will rival cheap Chinese alternatives such as DeepSeek",
+      "aiSummary": "Nvidia is in discussions to acquire Reflection AI, a US-based startup specializing in open models. The Trump administration supports the move, aiming to create a competitor to cost-effective Chinese alternatives like DeepSeek.",
+      "articleUrl": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1",
+      "category": "AI",
+      "filterTags": [
+        "Nvidia",
+        "Reflection AI",
+        "DeepSeek",
+        "Open Models"
+      ],
+      "publishedAt": "2026-10-10T18:14:28+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Mergers & Acquisitions"
+        },
+        {
+          "name": "Geopolitics"
+        }
+      ]
+    },
+    {
+      "slug": "v2-5-4",
+      "title": "v2.5.4",
+      "dek": "NumPy 2.5.4 release",
+      "aiSummary": "NumPy has released version 2.5.4. This update marks the latest release of the library.",
+      "articleUrl": "https://github.com/numpy/numpy/releases/tag/v2.5.4",
+      "category": "Python",
+      "filterTags": [
+        "NumPy"
+      ],
+      "publishedAt": "2026-10-10T18:04:58+00:00",
+      "publisher": {
+        "name": "numpy",
+        "domain": "github.com",
+        "website": "https://github.com/numpy/numpy",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Python"
+        },
+        {
+          "name": "Data Science"
+        },
+        {
+          "name": "Scientific Computing"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1791653118",
+      "title": "viable/strict/1791653118",
+      "dek": "[FBGEMM] Fix cached BF16 embedding bags during typed half migration (…",
+      "aiSummary": "This update addresses an issue with cached BF16 embedding bags within the FBGEMM library. The fix is specifically related to the migration process involving typed half precision.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1791653118",
+      "category": "Machine Learning",
+      "filterTags": [
+        "FBGEMM",
+        "BF16",
+        "embedding bags",
+        "typed half"
+      ],
+      "publishedAt": "2026-10-10T13:13:56+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1791651201",
+      "title": "viable/strict/1791651201",
+      "dek": "Fix  assertMultiLineEqual  &  assertSequenceEqual  in dynamo `TestCas…",
+      "aiSummary": "The article reports a fix for the assertMultiLineEqual and assertSequenceEqual methods in the dynamo TestCase class, addressing problems with these assertion functions and improving test reliability.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1791651201",
+      "category": "Testing",
+      "filterTags": [
+        "assertMultiLineEqual",
+        "assertSequenceEqual",
+        "dynamo",
+        "TestCase"
+      ],
+      "publishedAt": "2026-10-10T12:51:51+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Testing"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    }
+  ]
+}
