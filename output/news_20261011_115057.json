@@ -1,0 +1,849 @@
+{
+  "news": [
+    {
+      "slug": "ai-is-creating-a-human-premium-for-art-created-by-people",
+      "title": "AI is creating a 'human premium' for art created by people",
+      "dek": "Art made by humans is becoming more valuable because of AI.",
+      "aiSummary": "The rise of artificial intelligence is establishing a 'human premium' in the art market. This phenomenon increases the value of artwork created by people in contrast to AI-generated content.",
+      "articleUrl": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Art"
+      ],
+      "publishedAt": "2026-10-11T11:34:28+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Creative Industries"
+        }
+      ]
+    },
+    {
+      "slug": "i-made-terrible-games-with-google-s-ai-playground",
+      "title": "I Made Terrible Games With Google’s AI Playground",
+      "dek": "A long day’s haul in the video game slop mines.",
+      "aiSummary": "The author describes a day spent creating video games using Google's AI Playground. The resulting games are characterized as poor quality or 'slop'.",
+      "articleUrl": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+      "category": "AI",
+      "filterTags": [
+        "Google",
+        "AI Playground",
+        "Video Games"
+      ],
+      "publishedAt": "2026-10-11T11:30:00+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Gaming"
+        }
+      ]
+    },
+    {
+      "slug": "b11553",
+      "title": "b11553",
+      "dek": "server: add component tests ( #30312 ) \n \n \n server: add component tests \n \n \n nits \n \n \n add codeowners \n \n \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/54782864 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS",
+      "aiSummary": "A pull request for the llama.cpp project introduces component tests for the server component. The update includes minor code adjustments and the addition of codeowners, with attestations provided for macOS and iOS platforms.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11553",
+      "category": "Open Source",
+      "filterTags": [
+        "llama.cpp",
+        "server",
+        "component tests",
+        "codeowners",
+        "macOS",
+        "iOS"
+      ],
+      "publishedAt": "2026-10-11T11:20:18+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "nicolas-cage-says-he-won-t-work-with-amazon-again-over-ai-dispute",
+      "title": "Nicolas Cage says he won't work with Amazon again over AI dispute",
+      "dek": "Nicolas Cage states he will not collaborate with Amazon again due to a disagreement about AI.",
+      "aiSummary": "The provided text contains only the headline and no additional body content to summarize.",
+      "articleUrl": "https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute",
+      "category": "Entertainment",
+      "filterTags": [
+        "Nicolas Cage",
+        "Amazon",
+        "AI"
+      ],
+      "publishedAt": "2026-10-11T11:03:21+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Entertainment"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "us-s-reagan-era-economic-promises-return-as-trump-s-ai-fueled-growth-fantasy",
+      "title": "US’s Reagan-era economic promises return as Trump’s AI-fueled growth fantasy",
+      "dek": "‘Even if AI supercharged the economy, its impact on the government’s finances would be muted’ Back through political history to the age of  Ronald Reagan , Republicans have repeatedly promised the US public that tax cuts would pay for themselves, firing up economic growth and fil",
+      "aiSummary": "Republicans are reviving Reagan-era arguments that tax cuts will stimulate enough economic growth to pay for themselves, now leveraging AI as the primary driver. However, analysis suggests that even if AI significantly boosts the economy, its positive impact on government finances would likely be limited.",
+      "articleUrl": "https://www.theguardian.com/business/2026/oct/11/trump-ai-economy-reagan",
+      "category": "Economics",
+      "filterTags": [
+        "AI",
+        "Ronald Reagan",
+        "Tax Cuts",
+        "US Economy"
+      ],
+      "publishedAt": "2026-10-11T11:00:25+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Economics"
+        },
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "ai-s-quiet-safety-gatekeepers-are-stepping-into-the-spotlight",
+      "title": "AI’s quiet safety gatekeepers are stepping into the spotlight",
+      "dek": "The intensifying AI safety debate is bringing a small group of third-party evaluators into the center of a multitrillion-dollar industry.",
+      "aiSummary": "The growing debate over AI safety is elevating a small group of third-party evaluators to a central role in the multitrillion-dollar industry. These organizations are becoming key figures in the sector's safety landscape.",
+      "articleUrl": "https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html",
+      "category": "AI",
+      "filterTags": [
+        "AI safety",
+        "third-party evaluators"
+      ],
+      "publishedAt": "2026-10-11T11:00:01+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Regulation"
+        }
+      ]
+    },
+    {
+      "slug": "learning-to-use-local-ai-is-exciting-overwhelming-and-frustrating",
+      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "dek": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this t",
+      "aiSummary": "The author is beginning to regularly use AI locally to avoid sending personal data to cloud services. They describe the experience of running powerful models on their own hardware as a journey that is simultaneously exciting, overwhelming, and frustrating.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "category": "AI",
+      "filterTags": [
+        "local AI",
+        "cloud services",
+        "personal data"
+      ],
+      "publishedAt": "2026-10-11T11:00:00+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Privacy"
+        }
+      ]
+    },
+    {
+      "slug": "using-ai-for-just-10-minutes-erodes-your-ability-to-persist-at-hard-things",
+      "title": "Using AI for Just 10 Minutes Erodes Your Ability to Persist at Hard Things",
+      "dek": "Spending only ten minutes with AI weakens your capacity to stick with difficult tasks.",
+      "aiSummary": "The article suggests that brief interactions with artificial intelligence can negatively impact a person's resilience. Specifically, using AI for just ten minutes may reduce the ability to persist through challenging endeavors.",
+      "articleUrl": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Cognitive Performance",
+        "Persistence"
+      ],
+      "publishedAt": "2026-10-11T10:47:21+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Human Psychology"
+        }
+      ]
+    },
+    {
+      "slug": "v1-104-3",
+      "title": "v1.104.3",
+      "dek": "Verify Docker Image Signature \n All LiteLLM Docker images are signed with  cosign . Every release is signed with the same key introduced in  commit  0112e53 . \n Verify using the pinned commit hash (recommended): \n A commit hash is cryptographically immutable, so this is the stron",
+      "aiSummary": "LiteLLM has released version 1.104.3, which includes signed Docker images using cosign. The release notes recommend verifying the image signature using a pinned commit hash to ensure cryptographic immutability and security.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.104.3",
+      "category": "DevOps",
+      "filterTags": [
+        "LiteLLM",
+        "Docker",
+        "cosign"
+      ],
+      "publishedAt": "2026-10-11T10:37:40+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-7265531410fb689cf388a6fe083f772ec72e869a",
+      "title": "trunk/7265531410fb689cf388a6fe083f772ec72e869a",
+      "dek": "[inductor] Materialize symbolic extern kernel arguments ( #200241 ) ( #2 …",
+      "aiSummary": "The provided text indicates a specific code commit or pull request related to the inductor component. The change involves materializing symbolic extern kernel arguments, as referenced by the issue numbers #200241 and #2.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F7265531410fb689cf388a6fe083f772ec72e869a",
+      "category": "Compiler Infrastructure",
+      "filterTags": [
+        "inductor",
+        "symbolic",
+        "extern kernel"
+      ],
+      "publishedAt": "2026-10-11T10:29:40+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Compiler Infrastructure"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "v1-105-0",
+      "title": "v1.105.0",
+      "dek": "Verify Docker Image Signature \n All LiteLLM Docker images are signed with  cosign . Every release is signed with the same key introduced in  commit  0112e53 . \n Verify using the pinned commit hash (recommended): \n A commit hash is cryptographically immutable, so this is the stron",
+      "aiSummary": "LiteLLM has released version 1.105.0, which includes signed Docker images using cosign. The release notes recommend verifying image signatures using a pinned commit hash to ensure cryptographic immutability and security.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.105.0",
+      "category": "DevOps",
+      "filterTags": [
+        "LiteLLM",
+        "Docker",
+        "cosign"
+      ],
+      "publishedAt": "2026-10-11T09:53:26+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "v1-106-0-rc-1",
+      "title": "v1.106.0-rc.1",
+      "dek": "Verify Docker Image Signature \n All LiteLLM Docker images are signed with  cosign . Every release is signed with the same key introduced in  commit  0112e53 . \n Verify using the pinned commit hash (recommended): \n A commit hash is cryptographically immutable, so this is the stron",
+      "aiSummary": "LiteLLM has released version 1.106.0-rc.1, which includes signed Docker images using cosign. The release documentation recommends verifying image signatures using a pinned commit hash to ensure cryptographic immutability and security.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.106.0-rc.1",
+      "category": "DevOps",
+      "filterTags": [
+        "LiteLLM",
+        "Docker",
+        "cosign"
+      ],
+      "publishedAt": "2026-10-11T09:40:31+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "three-mark-zuckerbergs-three-surprisingly-different-men",
+      "title": "Three Mark Zuckerbergs, Three Surprisingly Different Men",
+      "dek": "Jeremy Strong in “The Social Reckoning,” Jesse Eisenberg in “The Social Network” and the real Meta executive are all playing parts. But only one has changed his approach.",
+      "aiSummary": "The piece examines three portrayals of Mark Zuckerberg: Jeremy Strong in \"The Social Reckoning\", Jesse Eisenberg in \"The Social Network\", and the real Meta executive. While all three play the role, only one has shifted his approach.",
+      "articleUrl": "https://www.nytimes.com/2026/10/11/movies/mark-zuckerberg-social-network-reckoning.html",
+      "category": "Entertainment",
+      "filterTags": [
+        "Meta",
+        "Mark Zuckerberg",
+        "The Social Reckoning",
+        "The Social Network"
+      ],
+      "publishedAt": "2026-10-11T09:01:17+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Entertainment"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Social Media"
+        }
+      ]
+    },
+    {
+      "slug": "fixated-on-ai-the-world-has-forgotten-what-is-staring-it-in-the-face-nuclear-annihilation-simon-tisdall",
+      "title": "Fixated on AI, the world has forgotten what is staring it in the face: nuclear annihilation | Simon Tisdall",
+      "dek": "This is no scoffing matter. The accelerating proliferation of advanced nuclear weapons is bringing ‘end times’ closer by the day Humankind has fearfully and sometimes joyfully anticipated the end of the world ever since it began. The Bible’s Book of Revelation speaks of “end time",
+      "aiSummary": "The article argues that the rapid spread of advanced nuclear weapons is increasing the risk of global catastrophe. It suggests that humanity's intense attention on AI has led to a dangerous neglect of this imminent nuclear threat.",
+      "articleUrl": "https://www.theguardian.com/commentisfree/2026/oct/11/ai-annihilation-advanced-nuclear-weapons",
+      "category": "Geopolitics",
+      "filterTags": [
+        "AI",
+        "Nuclear Weapons",
+        "Simon Tisdall"
+      ],
+      "publishedAt": "2026-10-11T09:00:22+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Geopolitics"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "gaza-is-a-moral-tear-in-the-universe-naomi-klein-and-astra-taylor-radical-thinking-with-aditya-chakrabortty-podcast",
+      "title": "‘Gaza is a moral tear in the universe’: Naomi Klein and Astra Taylor | Radical Thinking with Aditya Chakrabortty – podcast",
+      "dek": "Are we really living through ‘end-times fascism’? Naomi Klein and Astra Taylor think so. In a new series from the Guardian, the pair speak to Radical Thinking with Aditya Chakrabortty in an extended interview. From Trump 2.0 and the rise of the tech billionaires to Gaza and the c",
+      "aiSummary": "Naomi Klein and Astra Taylor argue that we are experiencing 'end-times fascism' and discuss how Trump 2.0 and the rise of tech billionaires contribute to this climate. In their extended interview on the Guardian's Radical Thinking podcast, they also examine the situation in Gaza, describing it as a moral tear in the universe. The conversation covers political and technological forces shaping contemporary society.",
+      "articleUrl": "https://www.theguardian.com/news/audio/2026/oct/11/gaza-is-a-moral-tear-in-the-universe-naomi-klein-and-astra-taylor-radical-thinking-with-aditya-chakrabortty-podcast",
+      "category": "Politics",
+      "filterTags": [
+        "Naomi Klein",
+        "Astra Taylor",
+        "Guardian",
+        "Radical Thinking",
+        "Trump 2.0",
+        "Tech billionaires",
+        "Gaza"
+      ],
+      "publishedAt": "2026-10-11T07:00:20+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Social Justice"
+        },
+        {
+          "name": "Media"
+        }
+      ]
+    },
+    {
+      "slug": "v0-40-3",
+      "title": "v0.40.3",
+      "dek": "What's Changed \n \n ollama launch claude  no longer shows a warning about Claude connectors by  @hoyyeva  in  #18878 \n ollama launch codex  no longer warns about service tiers by  @hoyyeva  in  #18879 \n Paused background model upgrade for embedding and other request performance, b",
+      "aiSummary": "The v0.40.3 release removes warning messages for Claude connectors and Codex service tiers when using the ollama launch command. It also pauses background model upgrades to improve performance for embedding and other requests.",
+      "articleUrl": "https://github.com/ollama/ollama/releases/tag/v0.40.3",
+      "category": "Developer Tools",
+      "filterTags": [
+        "ollama",
+        "claude",
+        "codex",
+        "embedding"
+      ],
+      "publishedAt": "2026-10-11T06:40:39+00:00",
+      "publisher": {
+        "name": "ollama",
+        "domain": "github.com",
+        "website": "https://github.com/ollama/ollama",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Developer Tools"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "orcarouter-releases-orcacyber-zero-1-5-cybersecurity-model-with-1m-context",
+      "title": "OrcaRouter Releases OrcaCyber Zero 1.5 Cybersecurity Model With 1M Context",
+      "dek": "OrcaRouter released OrcaCyber Zero 1.5, a gated cybersecurity model with a 1M-token context window. It reports 100% on Cybench and 95.8% on an evaluable CVE-Bench subset, priced at $3.00 / $7.50 per 1M tokens. \n The post  OrcaRouter Releases OrcaCyber Zero 1.5 Cybersecurity Model",
+      "aiSummary": "OrcaRouter released the OrcaCyber Zero 1.5 cybersecurity model, which supports a 1 million-token context window. The model achieved perfect scores on Cybench and 95.8% on a subset of CVE-Bench, and is priced at $3.00 or $7.50 per 1M tokens.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/10/orcarouter-releases-orcacyber-zero-1-5-cybersecurity-model-with-1m-context/",
+      "category": "Cybersecurity",
+      "filterTags": [
+        "OrcaRouter",
+        "OrcaCyber Zero 1.5",
+        "Cybench",
+        "CVE-Bench"
+      ],
+      "publishedAt": "2026-10-11T06:20:21+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-712bee8219862c7267a02583b05fde8a83bbb318",
+      "title": "trunk/712bee8219862c7267a02583b05fde8a83bbb318",
+      "dek": "[inductor][test] Remove stale fbcode numerical xfails in opinfo prope…",
+      "aiSummary": "The commit removes stale numerical expected failures (xfails) from the opinfo tests within the inductor module. This cleanup targets specific test cases in the fbcode repository to reflect current accuracy levels.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F712bee8219862c7267a02583b05fde8a83bbb318",
+      "category": "Machine Learning",
+      "filterTags": [
+        "PyTorch",
+        "inductor",
+        "opinfo",
+        "fbcode"
+      ],
+      "publishedAt": "2026-10-11T06:10:12+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1791714530",
+      "title": "viable/strict/1791714530",
+      "dek": "[precompile] Refuse recompiles in an installed artifact without the g…",
+      "aiSummary": "The article discusses a precompile feature that refuses to recompile an installed artifact when the 'g' flag is missing. This behavior helps prevent unnecessary recompilation steps and ensures that artifacts are only rebuilt when the appropriate flags are set.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1791714530",
+      "category": "Software Development",
+      "filterTags": [
+        "precompile"
+      ],
+      "publishedAt": "2026-10-11T06:08:43+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Build Systems"
+        }
+      ]
+    },
+    {
+      "slug": "how-to-design-human-in-the-loop-checkpoints-for-autonomous-ai-agents",
+      "title": "How to Design Human-in-the-Loop Checkpoints for Autonomous AI Agents",
+      "dek": "Autonomous AI agents can read requests, retrieve data, reason through options, and trigger actions in seconds. That speed is useful, but it also creates risk when the next step affects money, customer records, or external systems.  Human-in-the-loop checkpoints add control at the",
+      "aiSummary": "Autonomous AI agents operate quickly but pose risks when interacting with financial or external systems. Implementing human-in-the-loop checkpoints provides necessary control over these high-stakes actions.",
+      "articleUrl": "https://www.analyticsvidhya.com/blog/2026/10/human-in-the-loop-ai-agent-langgraph/",
+      "category": "AI",
+      "filterTags": [
+        "AI Agents",
+        "Human-in-the-Loop"
+      ],
+      "publishedAt": "2026-10-11T05:41:01+00:00",
+      "publisher": {
+        "name": "Analytics Vidhya",
+        "domain": "analyticsvidhya.com",
+        "website": "https://www.analyticsvidhya.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=analyticsvidhya.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=analyticsvidhya.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Automation"
+        }
+      ]
+    },
+    {
+      "slug": "ai-may-change-the-price-of-your-big-mac-and-groceries-what-this-means-for-shoppers",
+      "title": "AI may change the price of your Big Mac and groceries — what this means for shoppers",
+      "dek": "As retailers turn to AI tools to streamline operations, experts warn that collecting more detailed consumer data increases the risk of personalized pricing.",
+      "aiSummary": "Retailers are adopting AI to improve operations, but experts warn that collecting detailed consumer data could lead to personalized pricing. This raises concerns about how AI might influence the cost of everyday items like a Big Mac and groceries.",
+      "articleUrl": "https://www.cnbc.com/2026/10/11/ai-dynamic-pricing-shoppers-groceries.html",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "personalized pricing",
+        "consumer data",
+        "retailers"
+      ],
+      "publishedAt": "2026-10-11T05:00:01+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Retail"
+        },
+        {
+          "name": "Pricing"
+        }
+      ]
+    },
+    {
+      "slug": "the-problem-with-your-ai-therapist",
+      "title": "The problem with your AI therapist",
+      "dek": "Millions are turning to chatbots for help with mental health but a technology that can’t go beyond words won’t heal them",
+      "aiSummary": "Many people are using chatbots for mental health support, but these AI tools lack the depth needed to truly help. The technology only processes words and cannot provide the nuanced care required for healing.",
+      "articleUrl": "https://www.ft.com/content/ab9e2f3e-1586-4c63-b423-6a179437fc13?syn-25a6b1a6=1",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AI",
+        "Chatbot",
+        "Mental Health"
+      ],
+      "publishedAt": "2026-10-11T04:00:16+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Mental Health"
+        },
+        {
+          "name": "Healthcare"
+        }
+      ]
+    },
+    {
+      "slug": "what-if-ai-prefers-cvs-written-by-ai",
+      "title": "What if AI prefers CVs written by AI?",
+      "dek": "The signs are that it does and one law firm’s experience is revealing",
+      "aiSummary": "Emerging signs suggest that AI systems may prefer resumes written by other AI tools. The experience of one law firm provides revealing insights into this phenomenon.",
+      "articleUrl": "https://www.ft.com/content/b7671d34-878e-45ae-ba6e-fd83dfcdd46c?syn-25a6b1a6=1",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "CVs",
+        "Law Firm"
+      ],
+      "publishedAt": "2026-10-11T04:00:06+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Recruitment"
+        }
+      ]
+    },
+    {
+      "slug": "academic-publishing-is-a-study-in-fighting-ai-slop",
+      "title": "Academic publishing is a study in fighting AI slop",
+      "dek": "Original thought, especially in the humanities, is more likely to remain the preserve of humans",
+      "aiSummary": "The piece discusses how academic publishing is grappling with the influx of low-quality AI-generated content. It emphasizes that original human thought, particularly in the humanities, is still considered the domain of human scholars. The article suggests that maintaining high standards in scholarly work requires vigilance against AI slop.",
+      "articleUrl": "https://www.ft.com/content/ec58cb02-fe44-4d64-af8c-eca22bfa3be3?syn-25a6b1a6=1",
+      "category": "Academic Publishing",
+      "filterTags": [
+        "AI",
+        "human"
+      ],
+      "publishedAt": "2026-10-11T04:00:06+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Academic Publishing"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Humanities"
+        }
+      ]
+    },
+    {
+      "slug": "apple-supplier-luxshare-expects-no-material-impact-from-us-probe",
+      "title": "Apple Supplier Luxshare Expects No Material Impact From US Probe",
+      "dek": "Apple Inc. supplier Luxshare Precision Industry Co. is facing a US patent investigation into data-center power technologies following infringement allegations by Vicor Corp., according to a filing on Saturday.",
+      "aiSummary": "Luxshare Precision Industry Co., a supplier to Apple, is undergoing a US patent investigation regarding data-center power technologies. The inquiry stems from infringement claims filed by Vicor Corp., though Luxshare anticipates no material impact from the probe.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-11/apple-supplier-luxshare-expects-no-material-impact-from-us-probe",
+      "category": "Legal",
+      "filterTags": [
+        "Luxshare",
+        "Apple",
+        "Vicor",
+        "Patent Investigation",
+        "Data Center Power"
+      ],
+      "publishedAt": "2026-10-11T02:38:23+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Supply Chain"
+        }
+      ]
+    }
+  ]
+}
