@@ -1,0 +1,771 @@
+{
+  "news": [
+    {
+      "slug": "can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas",
+      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "dek": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+      "aiSummary": "The article discusses the impact of data center moratoriums and argues that the AI industry faces a communication challenge. It explores whether abandoning non-disclosure agreements (NDAs) could help persuade opponents of data center construction.",
+      "articleUrl": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Data Centers",
+        "NDAs",
+        "Moratoriums"
+      ],
+      "publishedAt": "2026-10-11T16:52:33+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "Public Policy"
+        }
+      ]
+    },
+    {
+      "slug": "hashsmash-benchmark-for-ai-assisted-review-of-cryptanalytic-collision-claims",
+      "title": "HashSmash: Benchmark for AI-assisted review of cryptanalytic collision claims",
+      "dek": "A new benchmark tests how well AI can help verify claims about cryptographic collisions.",
+      "aiSummary": "HashSmash is a benchmark designed to evaluate the effectiveness of AI-assisted review in verifying cryptanalytic collision claims. It provides a standardized method for assessing how well artificial intelligence can analyze and validate assertions related to hash function collisions.",
+      "articleUrl": "https://github.com/Layr-Labs/hash-smash",
+      "category": "Security",
+      "filterTags": [
+        "HashSmash",
+        "Cryptanalysis",
+        "Collision",
+        "AI"
+      ],
+      "publishedAt": "2026-10-11T16:45:52+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "b11558",
+      "title": "b11558",
+      "dek": "opencl: fix image limit for q4_k dense bin kernels, q4_0 bcast and rm…",
+      "aiSummary": "This commit addresses a bug in the OpenCL implementation regarding image limits. It specifically fixes issues related to q4_k dense binary kernels, as well as q4_0 broadcast and reduction operations.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11558",
+      "category": "Machine Learning",
+      "filterTags": [
+        "OpenCL",
+        "q4_k",
+        "q4_0",
+        "bin kernels",
+        "bcast",
+        "rm"
+      ],
+      "publishedAt": "2026-10-11T16:41:29+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Performance Optimization"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "self-hosting-an-ai-agent-environment-with-opencode-and-shared-memory",
+      "title": "Self-hosting an AI agent environment with OpenCode and shared memory",
+      "dek": "Setting up a personal AI agent system using OpenCode and shared memory.",
+      "aiSummary": "The article describes the process of self-hosting an AI agent environment. It specifically utilizes OpenCode and incorporates shared memory to facilitate the setup.",
+      "articleUrl": "https://smalldata.tech/blog/2026/10/11/self-hosting-an-ai-agent-environment-with-opencode-and-shared-memory",
+      "category": "AI",
+      "filterTags": [
+        "OpenCode",
+        "AI Agent",
+        "Self-hosting",
+        "Shared Memory"
+      ],
+      "publishedAt": "2026-10-11T16:25:46+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "show-hn-atlas-runa-e2e-ai-enhanced-language-learning",
+      "title": "Show HN: Atlas Runa – E2E AI-enhanced language learning",
+      "dek": "Show HN: Atlas Runa offers end-to-end AI-powered language learning.",
+      "aiSummary": "Atlas Runa is a platform that uses artificial intelligence to provide comprehensive language learning experiences. It claims to cover all stages of language acquisition, from beginner to advanced, by leveraging machine learning models. The project is showcased on the Show HN community.",
+      "articleUrl": "https://atlasruna.com/",
+      "category": "Education",
+      "filterTags": [
+        "Atlas Runa",
+        "AI",
+        "language learning"
+      ],
+      "publishedAt": "2026-10-11T16:20:34+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Education"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "adt-rumored-to-handle-installations-in-apple-s-smart-home-push",
+      "title": "ADT rumored to handle installations in Apple's smart home push",
+      "dek": "Apple's smart home plans could involve yet another partner, with security company ADT potentially joining the roster alongside LG and Schneider Electric. ADT has been linked to Apple's smart home plans Since early October, the rumor mill has been rife with claims that Apple will ",
+      "aiSummary": "Rumors indicate that security company ADT is likely to handle installations for Apple's upcoming smart home initiative. This potential partnership would add ADT to the list of existing collaborators, which includes LG and Schneider Electric.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/11/adt-rumored-to-handle-installations-in-apples-smart-home-push?utm_source=rss",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Apple",
+        "ADT",
+        "LG",
+        "Schneider Electric",
+        "Smart Home"
+      ],
+      "publishedAt": "2026-10-11T15:52:38+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Home Automation"
+        }
+      ]
+    },
+    {
+      "slug": "feelgood-factor-of-human-interaction-brief-letters",
+      "title": "Feelgood factor of human interaction | Brief letters",
+      "dek": "Happy hormones | Fuel costs | Drive-in parking | Guys and girls | Young or old? | Singapore pollution Re your report ( ‘Pull the plug’: protesters resort to direct action against AI firms, 6 October ), the US neuroscientist Ben Rein has shown that there is a fundamental differenc",
+      "aiSummary": "A reader responds to a report on protests against AI firms by citing US neuroscientist Ben Rein. The letter argues that there is a fundamental difference in the 'feelgood factor' associated with human interaction compared to other forms of engagement.",
+      "articleUrl": "https://www.theguardian.com/science/2026/oct/11/feelgood-factor-of-human-interaction",
+      "category": "AI",
+      "filterTags": [
+        "Ben Rein",
+        "AI",
+        "Neuroscience"
+      ],
+      "publishedAt": "2026-10-11T15:52:20+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Society"
+        }
+      ]
+    },
+    {
+      "slug": "b11557",
+      "title": "b11557",
+      "dek": "rpc : turn GGML_RPC_DEBUG into a verbosity level and add logs ( #29544 ) \n \n rpc : turn GGML_RPC_DEBUG into a verbosity level and add logs \n \n GGML_RPC_DEBUG is now parsed as a number: 0/unset disables debug logs, \n1-3 emit increasingly detailed output (events, per-command trace,",
+      "aiSummary": "The change converts GGML_RPC_DEBUG into a numeric verbosity level. Setting it to 0 or leaving it unset disables debug logs, while values 1 to 3 enable progressively more detailed output, including events and per‑command traces. This adds logging capabilities to the RPC system.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11557",
+      "category": "Software Development",
+      "filterTags": [
+        "GGML_RPC_DEBUG",
+        "RPC",
+        "verbosity level"
+      ],
+      "publishedAt": "2026-10-11T15:14:40+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Debugging"
+        },
+        {
+          "name": "Logging"
+        }
+      ]
+    },
+    {
+      "slug": "there-s-a-vibe-coded-adobe-creative-suite-clone-and-it-s-pretty-good",
+      "title": "There's a vibe-coded Adobe Creative Suite clone, and it's pretty good",
+      "dek": "Vibe-coded alternatives to Adobe Creative Cloud apps such as Photoshop and Premiere have been released. They may help  Mac  users save money, but there are some nuances to the situation. PhotoCraft by ArtCraft. Not Photoshop.  AI has been a major driver of change in the  software",
+      "aiSummary": "New AI-generated alternatives to Adobe Creative Cloud applications, such as Photoshop and Premiere, have been released. While these tools may help Mac users save money, the article notes there are nuances to their usage and capabilities.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/11/theres-a-vibe-coded-adobe-creative-suite-vibecoded-clone-and-its-pretty-good?utm_source=rss",
+      "category": "Software",
+      "filterTags": [
+        "Adobe Creative Cloud",
+        "Photoshop",
+        "Premiere",
+        "PhotoCraft",
+        "ArtCraft",
+        "AI",
+        "Mac"
+      ],
+      "publishedAt": "2026-10-11T15:09:47+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Creative Tools"
+        }
+      ]
+    },
+    {
+      "slug": "unsurprisingly-the-oled-ipad-mini-is-going-to-be-expensive",
+      "title": "Unsurprisingly, the OLED iPad mini is going to be expensive",
+      "dek": "A new report on Sunday says that the new iPad mini will likely cost about $799, versus the current $599. Between RAM price increases, and a costly OLED screen that should come as a surprise to nobody at this point. https://www.bloomberg.com/news/newsletters/2026-10-11/apple-smart",
+      "aiSummary": "A new report indicates that the upcoming iPad mini will likely cost approximately $799, a significant increase from the current model's $599 price. This price hike is attributed to rising RAM costs and the inclusion of an expensive OLED display.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/11/unsurprisingly-the-oled-ipad-mini-is-going-to-be-expensive?utm_source=rss",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Apple",
+        "iPad mini",
+        "OLED",
+        "RAM",
+        "Bloomberg"
+      ],
+      "publishedAt": "2026-10-11T15:08:24+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "xpeng-says-it-can-quickly-adapt-car-autopilot-systems-for-europe",
+      "title": "Xpeng Says It Can Quickly Adapt Car Autopilot Systems for Europe",
+      "dek": "Xpeng Inc. can rapidly adapt its advanced driver-assistance technology to European roads using relatively small amounts of data, allowing it to modify its software capabilities for different markets without rebuilding them from scratch.",
+      "aiSummary": "Xpeng Inc. says its advanced driver‑assist system can be tailored to European roads with only a small amount of data. The company can modify software features for different markets without rebuilding the system from scratch.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-11/xpeng-says-it-can-quickly-adapt-car-autopilot-systems-for-europe",
+      "category": "Automotive",
+      "filterTags": [
+        "Xpeng",
+        "advanced driver-assistance",
+        "autopilot",
+        "software adaptation",
+        "European roads"
+      ],
+      "publishedAt": "2026-10-11T14:31:53+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Automotive"
+        },
+        {
+          "name": "Software"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "is-ai-crowding-everyone-else-out-of-the-bond-market",
+      "title": "Is AI Crowding Everyone Else Out of the Bond Market?",
+      "dek": "Hyperscalers, data centers and chip companies are borrowing hundreds of billions of dollars to finance the AI buildout, turning the technology boom into one of the biggest new forces in corporate credit. Investors are still buying, but rising concentration, complex data-center fi",
+      "aiSummary": "Major technology firms, including hyperscalers and chip manufacturers, are issuing hundreds of billions of dollars in debt to fund AI infrastructure. This massive borrowing has made the AI boom a significant force in corporate credit, leading to increased concentration and complex financing structures for data centers.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-11/is-ai-crowding-everyone-else-out-of-the-bond-market-video",
+      "category": "Finance",
+      "filterTags": [
+        "AI",
+        "Hyperscalers",
+        "Data Centers",
+        "Chip Companies",
+        "Corporate Credit",
+        "Bond Market"
+      ],
+      "publishedAt": "2026-10-11T14:03:06+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "apple-smart-home-launch-oct-13-plans-homeview-has-mid-november-release",
+      "title": "Apple Smart Home Launch Oct. 13 Plans; HomeView Has Mid-November Release",
+      "dek": "Fresh details on Apple’s HomeView, HomePod mini and new Apple TV, including release dates, colors, chips and features.",
+      "aiSummary": "Apple plans to launch its smart home lineup on October 13, with the HomeView device scheduled for a mid‑November release. The announcement also covers the HomePod mini and a new Apple TV, detailing their release dates, available colors, chipsets, and key features.",
+      "articleUrl": "https://www.bloomberg.com/news/newsletters/2026-10-11/apple-smart-home-launch-oct-13-plans-homeview-has-mid-november-release",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Apple",
+        "HomeView",
+        "HomePod mini",
+        "Apple TV"
+      ],
+      "publishedAt": "2026-10-11T14:00:02+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Smart Home"
+        },
+        {
+          "name": "Audio"
+        },
+        {
+          "name": "Video"
+        }
+      ]
+    },
+    {
+      "slug": "a-practical-guide-to-openai-s-new-decisions-api",
+      "title": "A Practical Guide to OpenAI's New Decisions API",
+      "dek": "Is this the JEV killer? \n The post  A Practical Guide to OpenAI's New Decisions API  appeared first on  Towards Data Science .",
+      "aiSummary": "The article provides a practical guide to OpenAI's newly launched Decisions API. It explores whether this new tool serves as a solution to the Jevons paradox in the context of AI usage.",
+      "articleUrl": "https://towardsdatascience.com/a-practical-guide-to-openais-new-decisions-api/",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "Decisions API",
+        "Jevons paradox"
+      ],
+      "publishedAt": "2026-10-11T14:00:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "APIs"
+        }
+      ]
+    },
+    {
+      "slug": "these-execs-think-voice-ai-hasn-t-reached-its-chatgpt-moment-yet",
+      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+      "dek": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+      "aiSummary": "Voice AI frequently fails to capture key contextual information, leading to breakdowns in the entire processing pipeline. Executives argue that the technology has not yet achieved the sophistication of ChatGPT.",
+      "articleUrl": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Voice AI",
+        "ChatGPT"
+      ],
+      "publishedAt": "2026-10-11T14:00:00+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Voice Technology"
+        }
+      ]
+    },
+    {
+      "slug": "b11556",
+      "title": "b11556",
+      "dek": "model :  support for Prism Bonsai 2 27B ( #29600 ) \n \n Runtime support for Prism Bonsai 2 27B \n \n Assisted-by: Claude Code \n \n \n address prism hadamard runtime feedback \n \n \n move hadamard tensors into method, define folded weight \n \n \n load_* hadamard fixes \n \n \n cont : clean-up",
+      "aiSummary": "This update introduces runtime support for the Prism Bonsai 2 27B model. It includes specific fixes for Hadamard tensor loading and weight folding, with contributions assisted by Claude Code.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11556",
+      "category": "AI",
+      "filterTags": [
+        "Prism Bonsai 2",
+        "Hadamard",
+        "Claude Code"
+      ],
+      "publishedAt": "2026-10-11T13:34:31+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "ai-is-automating-coding-so-why-are-software-developer-job-postings-on-the-rise",
+      "title": "AI is automating coding. So why are software developer job postings on the rise?",
+      "dek": "Software developer job postings are rebounding, led by senior and AI-focused roles, even as AI automates more coding and entry-level hiring weakens.",
+      "aiSummary": "Job postings for software developers are increasing again, especially for senior and AI-specialized positions. At the same time, AI is automating more coding tasks, and hiring for entry-level roles is slowing.",
+      "articleUrl": "https://www.cnbc.com/2026/10/11/ai-software-developer-jobs.html",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AI",
+        "software development",
+        "programming"
+      ],
+      "publishedAt": "2026-10-11T13:30:01+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Employment Trends"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1791737615-handle-symbolic-mask-sizes-in-scalar-setitem-fast-path-200412",
+      "title": "viable/strict/1791737615: Handle symbolic mask sizes in scalar setitem fast path (#200412)",
+      "dek": "Linked issue or supporting maintainer \n Fixes  #200396  reported by  @ydshieh \n Supported by  @atalman   @ngimel \n BC-breaking? \n No \n Summary \n This is a followup to  #188330  which fixes the fast path for unbacked symbolic dimensions. As suggested by  @ahlag  in  #200396 (comme",
+      "aiSummary": "This pull request addresses a bug in the scalar setitem fast path regarding the handling of symbolic mask sizes. It serves as a follow-up to a previous fix for unbacked symbolic dimensions and resolves issue #200396.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1791737615",
+      "category": "Machine Learning",
+      "filterTags": [
+        "PyTorch",
+        "symbolic dimensions",
+        "setitem",
+        "viable/strict"
+      ],
+      "publishedAt": "2026-10-11T12:59:01+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "why-every-company-now-needs-to-think-and-operate-like-a-lab-team-josh-woodward-google-labs-gemini-ai-studio",
+      "title": "Why every company now needs to think and operate like a lab team | Josh Woodward (Google Labs, Gemini, AI Studio)",
+      "dek": "Listen now (62 mins) | Josh Woodward of Google Labs on where great ideas come from, knowing when to kill them, and building for a world where what’s possible changes every week",
+      "aiSummary": "Josh Woodward from Google Labs discusses how companies can benefit from a lab-style approach. He explains where innovative ideas originate, how to decide when to abandon projects, and how to build products in a rapidly changing environment. The talk emphasizes continuous experimentation and adaptability.",
+      "articleUrl": "https://www.lennysnewsletter.com/p/why-every-company-now-needs-to-think",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Google Labs",
+        "Gemini",
+        "AI Studio",
+        "Josh Woodward"
+      ],
+      "publishedAt": "2026-10-11T12:31:59+00:00",
+      "publisher": {
+        "name": "Lenny's Newsletter",
+        "domain": "lennysnewsletter.com",
+        "website": "https://www.lennysnewsletter.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=lennysnewsletter.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=lennysnewsletter.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Product Development"
+        },
+        {
+          "name": "Innovation Management"
+        }
+      ]
+    },
+    {
+      "slug": "agentic-systems-a-practitioner-s-guide-to-6-advanced-architectural-patterns",
+      "title": "Agentic Systems: A Practitioner's Guide to 6 Advanced Architectural Patterns",
+      "dek": "Beyond basic ReAct loops: six production-oriented architectures for building autonomous, reliable, and scalable LLM agents. \n The post  Agentic Systems: A Practitioner's Guide to 6 Advanced Architectural Patterns  appeared first on  Towards Data Science .",
+      "aiSummary": "This article outlines six production-oriented architectural patterns for developing autonomous, reliable, and scalable LLM agents. It moves beyond basic ReAct loops to provide practitioners with advanced frameworks for agentic system design.",
+      "articleUrl": "https://towardsdatascience.com/agentic-systems-a-practitioners-guide-to-6-advanced-architectural-patterns/",
+      "category": "AI",
+      "filterTags": [
+        "LLM",
+        "Agentic Systems",
+        "ReAct",
+        "Architecture"
+      ],
+      "publishedAt": "2026-10-11T12:00:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1791730369",
+      "title": "viable/strict/1791730369",
+      "dek": "[inductor] Materialize symbolic extern kernel arguments ( #200241 ) ( #2 …",
+      "aiSummary": "The issue titled 'Materialize symbolic extern kernel arguments' addresses adding support for symbolic external kernel arguments in the inductor backend. It references issue #200241 and appears to be part of a larger discussion or series of related issues. The discussion likely involves changes to how kernel arguments are handled in the compilation pipeline.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1791730369",
+      "category": "Machine Learning",
+      "filterTags": [
+        "inductor",
+        "symbolic extern kernel arguments"
+      ],
+      "publishedAt": "2026-10-11T10:29:40+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Compiler"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1791725274-dynamo-fix-silently-omitted-maxlen-for-deque-inputs-200528",
+      "title": "viable/strict/1791725274: [dynamo] Fix silently omitted `maxlen` for `deque` inputs (#200528)",
+      "dek": "Replay input  deque  mutations through  deque.__init__  with the final contents and  maxlen , preserving the original object’s identity. This supports bounded mutations and explicit reinitialization with a different limit;  clear()  followed by  extend()  would retain the old lim",
+      "aiSummary": "The patch replays deque mutations by calling deque.__init__ with the final contents and maxlen, keeping the original object's identity. It allows bounded mutations and explicit reinitialization with a new limit, so that a clear() followed by extend() keeps the old limit.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1791725274",
+      "category": "Programming Languages",
+      "filterTags": [
+        "deque",
+        "maxlen",
+        "deque.__init__",
+        "clear()",
+        "extend()",
+        "Dynamo"
+      ],
+      "publishedAt": "2026-10-11T09:31:51+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Programming Languages"
+        },
+        {
+          "name": "Data Structures"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    }
+  ]
+}
