@@ -1,0 +1,1617 @@
+{
+  "news": [
+    {
+      "slug": "burnham-accepts-brexit-result-legitimate-despite-russian-interference-says-no-10-uk-politics-live",
+      "title": "Burnham accepts Brexit result ‘legitimate’ despite Russian interference, says No 10 – UK politics live",
+      "dek": "PM ‘absolutely accepts referendum result’, says spokesperson Burnham to urge MPs to embrace closer ties with EU Zia Yusuf , Reform UK’s home affairs spokesperson, is speaking now. He started his speech with an account of a 73-year-old woman dying in North Wales after having to wa",
+      "aiSummary": "A spokesperson for Number 10 stated that Prime Minister Burnham fully accepts the Brexit referendum result as legitimate, despite allegations of Russian interference. Additionally, Burnham is expected to encourage Members of Parliament to support closer relationships with the European Union.",
+      "articleUrl": "https://www.theguardian.com/politics/live/2026/oct/12/uk-politics-live-tories-andy-burnham-russian-interference-brexit-eu-latest",
+      "category": "Politics",
+      "filterTags": [
+        "UK Politics",
+        "Brexit",
+        "Reform UK",
+        "Number 10"
+      ],
+      "publishedAt": "2026-10-12T13:55:19+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "International Relations"
+        }
+      ]
+    },
+    {
+      "slug": "cyber-attack-like-openai-medicare-breach-seems-likely-in-uk-says-minister",
+      "title": "Cyber-attack like OpenAI Medicare breach ‘seems likely’ in UK, says minister",
+      "dek": "Kanishka Narayan, concerned by Australian incident, says British cyber defences could be bypassed by AI agent UK politics live – latest updates An AI-driven cyber-attack like the OpenAI  breach of Australia’s healthcare system  is likely, “if not inevitable”, in the UK, according",
+      "aiSummary": "UK minister Kanishka Narayan stated that an AI-driven cyber-attack resembling the OpenAI breach of Australia's healthcare system is likely, if not inevitable, in the UK. He expressed concern that British cyber defences could be bypassed by AI agents.",
+      "articleUrl": "https://www.theguardian.com/technology/2026/oct/12/cyber-attack-like-openai-medicare-breach-seems-likely-in-uk-says-minister",
+      "category": "Cybersecurity",
+      "filterTags": [
+        "OpenAI",
+        "AI",
+        "Cybersecurity",
+        "UK Government"
+      ],
+      "publishedAt": "2026-10-12T13:52:55+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Politics"
+        }
+      ]
+    },
+    {
+      "slug": "b11570",
+      "title": "b11570",
+      "dek": "tests : link each test against only the libraries it uses ( #30299 ) \n Give llama_build() and llama_build_and_test() a LINK keyword (default: \nllama-common) so call sites can declare what a test actually needs: \n \n ggml-only tests now link just ggml: test-opt, test-metal-graph-op",
+      "aiSummary": "The update introduces a LINK keyword to llama_build() and llama_build_and_test() functions, allowing test call sites to specify their exact library dependencies. This change enables tests that rely solely on ggml, such as test-opt and test-metal-graph-op, to link only against ggml rather than the default llama-common library.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11570",
+      "category": "Open Source",
+      "filterTags": [
+        "llama",
+        "ggml",
+        "CMake",
+        "linking"
+      ],
+      "publishedAt": "2026-10-12T13:43:44+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "why-financing-markets-might-be-a-bottleneck-for-ai",
+      "title": "Why Financing Markets Might Be a Bottleneck for AI",
+      "dek": "Broadcom CEO Hock Tan likened AI investing to gambling, saying many investors do not understand what they are backing and have extreme expectations. Bloomberg Intelligence’s Mandeep Singh has more on financing markets and AI on \"Bloomberg Open Interest.\" (Source: Bloomberg)",
+      "aiSummary": "Broadcom CEO Hock Tan compared AI investment to gambling, noting that many investors lack understanding of the technology and hold unrealistic expectations. Bloomberg Intelligence's Mandeep Singh discusses how financing markets could become a bottleneck for AI development on Bloomberg Open Interest.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-12/why-financing-markets-might-be-a-bottleneck-for-ai-video",
+      "category": "AI",
+      "filterTags": [
+        "Broadcom",
+        "Hock Tan",
+        "Bloomberg Intelligence",
+        "Mandeep Singh",
+        "Bloomberg Open Interest"
+      ],
+      "publishedAt": "2026-10-12T13:40:10+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Investment"
+        }
+      ]
+    },
+    {
+      "slug": "understanding-the-ai-that-drives-robots",
+      "title": "Understanding the AI That Drives Robots",
+      "dek": "Explaining the artificial intelligence technology that powers robotic systems.",
+      "aiSummary": "The provided text does not contain any article body or description to summarize. Only the title 'Understanding the AI That Drives Robots' is available.",
+      "articleUrl": "https://www.construction-physics.com/p/understanding-the-ai-that-drives",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Robotics"
+      ],
+      "publishedAt": "2026-10-12T13:40:03+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Robotics"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-605260d09526b2fad33658892a8eab2750665041",
+      "title": "trunk/605260d09526b2fad33658892a8eab2750665041",
+      "dek": "[BE][MPS] Remove duplicate view and indexing tests from test_mps.py (…",
+      "aiSummary": "The commit removes duplicate view and indexing tests from the test_mps.py file. This change is part of a backend modification for the MPS module.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F605260d09526b2fad33658892a8eab2750665041",
+      "category": "Software Engineering",
+      "filterTags": [
+        "MPS",
+        "test_mps.py",
+        "Python"
+      ],
+      "publishedAt": "2026-10-12T13:35:23+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Testing"
+        }
+      ]
+    },
+    {
+      "slug": "show-hn-remove-ai-metadata-offline-in-browser",
+      "title": "Show HN: Remove AI Metadata Offline in Browser",
+      "dek": "Show HN: Delete AI metadata from your browser while offline",
+      "aiSummary": "",
+      "articleUrl": "https://freeaiwiper.com/",
+      "category": "AI",
+      "filterTags": [
+        "Show HN",
+        "AI Metadata",
+        "Browser"
+      ],
+      "publishedAt": "2026-10-12T13:35:05+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Web Development"
+        },
+        {
+          "name": "Privacy"
+        }
+      ]
+    },
+    {
+      "slug": "yandex-taxi-map-services-curbed-after-ukraine-hits-data-centers",
+      "title": "Yandex Taxi, Map Services Curbed After Ukraine Hits Data Centers",
+      "dek": "Yandex users in Russia faced widespread disruptions to ride-hailing, navigation and payment services after Ukraine struck several of the technology company’s data centers with drones.",
+      "aiSummary": "Ukraine struck several of Yandex's data centers with drones, causing widespread disruptions to the company's services in Russia. Users experienced significant issues with ride-hailing, navigation, and payment systems as a result of the attacks.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-12/yandex-taxi-map-services-curbed-after-ukraine-hits-data-centers",
+      "category": "Technology",
+      "filterTags": [
+        "Yandex",
+        "Ukraine",
+        "Drones",
+        "Data Centers"
+      ],
+      "publishedAt": "2026-10-12T13:31:26+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Geopolitics"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "where-apple-focused-engineering-so-the-iphone-duo-could-have-desktop-like-performance",
+      "title": "Where Apple focused engineering so the iPhone Duo could have desktop-like performance",
+      "dek": "To make the  iPhone Duo  as thin as it is, Apple needed to make a lot of design choices to fend off heat. Here's what they did, how they did it, and where in the device the innovations live. iPhone Duo Folding devices like the iPhone Duo often raise engineering challenges due to ",
+      "aiSummary": "Apple had to carefully design the iPhone Duo to stay thin while preventing overheating. The company used a combination of materials, cooling solutions, and component placement to achieve desktop-like performance. These innovations are located throughout the device, especially in the folding mechanism and internal architecture.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/12/where-apple-focused-engineering-so-the-iphone-duo-could-have-desktop-like-performance?utm_source=rss",
+      "category": "Hardware",
+      "filterTags": [
+        "Apple",
+        "iPhone Duo",
+        "folding devices"
+      ],
+      "publishedAt": "2026-10-12T13:30:49+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Mobile Devices"
+        },
+        {
+          "name": "Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-44a2fc7a82c445a97a7ec0d0203b228b5c2e124f-dynamo-cpython-testfix-cycle-2-194615",
+      "title": "trunk/44a2fc7a82c445a97a7ec0d0203b228b5c2e124f: [Dynamo] Cpython Testfix Cycle 2 (#194615)",
+      "dek": "Please see each commit's comment for change description. Each commit should be reviewed independently as they're focusing on individual CPython fixes. \n Authored with the assistance of an AI coding agent. \n Pull Request resolved:  #194615 \nApproved by:  https://github.com/guilher",
+      "aiSummary": "This pull request, identified as #194615, contains a series of commits that each address separate CPython fixes. Reviewers are encouraged to examine each commit individually. The work was assisted by an AI coding agent and has been approved by a contributor.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F44a2fc7a82c445a97a7ec0d0203b228b5c2e124f",
+      "category": "Software Development",
+      "filterTags": [
+        "Dynamo",
+        "CPython",
+        "AI coding agent",
+        "GitHub"
+      ],
+      "publishedAt": "2026-10-12T13:30:41+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Programming Languages"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "french-supermarket-refrigeration-sites-hit-by-cyberattacks",
+      "title": "French Supermarket Refrigeration Sites Hit by Cyberattacks",
+      "dek": "Hundreds of supermarkets in France were targeted by cyberattacks on Sunday night, disabling refrigeration systems and forcing stores to throw out damaged food.",
+      "aiSummary": "Hundreds of French supermarkets were hit by cyberattacks on Sunday night, which disabled their refrigeration systems. The outages forced many stores to discard spoiled food.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-12/french-supermarket-refrigeration-sites-hit-by-cyberattacks",
+      "category": "Cybersecurity",
+      "filterTags": [
+        "Cyberattack",
+        "Refrigeration",
+        "French supermarkets"
+      ],
+      "publishedAt": "2026-10-12T13:22:12+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "Retail"
+        },
+        {
+          "name": "Food Safety"
+        }
+      ]
+    },
+    {
+      "slug": "build-a-basic-ai-agent-from-scratch-memory",
+      "title": "Build a Basic AI Agent from Scratch: Memory",
+      "dek": "Create a simple AI agent from the ground up, focusing on memory.",
+      "aiSummary": "No article content was provided. Therefore, no summary can be generated.",
+      "articleUrl": "https://www.ruxu.dev/articles/ai/build-an-ai-agent-memory/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AI Agent",
+        "Memory"
+      ],
+      "publishedAt": "2026-10-12T13:21:48+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "b11569",
+      "title": "b11569",
+      "dek": "metal : fix mul_mat_id with duplicate ids ( #30373 ) \n \n \n metal : fix mul_mat_id limits and kernel name \n \n \n metal : fix mul_mat_id with duplicate ids \n \n \n kernel_mul_mm_id_map0 assumed at most one match per token and a fixed \ncapacity of ne21 entries per expert, which produce",
+      "aiSummary": "The commit addresses problems in the metal library related to the mul_mat_id function, fixing duplicate ID handling, limits, and kernel naming. It also corrects assumptions about the kernel_mul_mm_id_map0 kernel, which previously assumed at most one match per token and a fixed capacity of 21 entries per expert. These changes improve the correctness and performance of the metal code.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11569",
+      "category": "Software Development",
+      "filterTags": [
+        "metal",
+        "mul_mat_id",
+        "kernel_mul_mm_id_map0"
+      ],
+      "publishedAt": "2026-10-12T13:19:19+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "endangered-indigenous-languages-are-being-saved-by-the-iphone",
+      "title": "Endangered indigenous languages are being saved by the iPhone",
+      "dek": "Apple supports over 200 languages on the iPhone, but doing that takes years of continual effort and consultation with indigenous cultures around the world. Apple's iPhone supports over 200 languages. As far back  as 2010 ,  Apple has partnered with members of indigenous cultures ",
+      "aiSummary": "Apple's iPhone supports over 200 languages, a capability that requires years of continuous effort and collaboration with indigenous communities. Since 2010, Apple has partnered with members of these cultures to ensure accurate language representation on the device.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/12/endangered-indigenous-languages-are-being-saved-by-the-iphone?utm_source=rss",
+      "category": "Technology",
+      "filterTags": [
+        "Apple",
+        "iPhone",
+        "Indigenous Languages",
+        "Localization"
+      ],
+      "publishedAt": "2026-10-12T13:07:10+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Culture"
+        },
+        {
+          "name": "Linguistics"
+        }
+      ]
+    },
+    {
+      "slug": "ai-minister-warns-likely-uk-s-cyber-defences-will-be-breached",
+      "title": "AI minister warns 'likely' UK's cyber defences will be breached",
+      "dek": "Kanishka Narayan said the government will use advanced AI to strengthen the UK against cyber attacks.",
+      "aiSummary": "Kanishka Narayan, the AI minister, warned that the UK's cyber defenses are likely to be breached. He said the government plans to use advanced AI to strengthen defenses against cyber attacks.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "cyber security",
+        "UK government"
+      ],
+      "publishedAt": "2026-10-12T13:06:18+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "Government"
+        }
+      ]
+    },
+    {
+      "slug": "intel-broadcom-ceos-warn-capital-crunch-could-become-ai-s-biggest-bottleneck",
+      "title": "Intel, Broadcom CEOs warn capital crunch could become AI's biggest bottleneck",
+      "dek": "The CEOs of Intel and Broadcom warned that access to capital could emerge as a major constraint on the artificial intelligence boom.",
+      "aiSummary": "The CEOs of Intel and Broadcom have warned that limited access to capital could become a significant constraint on the artificial intelligence boom. They suggest that financial resources may be the primary bottleneck hindering further expansion in the sector.",
+      "articleUrl": "https://www.cnbc.com/2026/10/12/intel-broadcom-ceos-warn-capital-crunch-could-become-ai-bottleneck.html",
+      "category": "AI",
+      "filterTags": [
+        "Intel",
+        "Broadcom",
+        "AI",
+        "Capital"
+      ],
+      "publishedAt": "2026-10-12T13:04:31+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Semiconductors"
+        }
+      ]
+    },
+    {
+      "slug": "microsoft-to-rely-more-on-homegrown-ai-chips-reducing-dependence-on-nvidia",
+      "title": "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia",
+      "dek": "By increasingly counting on its own chips, Microsoft stands to expand margins and bolster its AI stack.",
+      "aiSummary": "Microsoft is shifting toward its own AI chips, which could increase its profit margins and strengthen its AI capabilities. This move reduces reliance on Nvidia for AI hardware. The strategy aims to improve cost efficiency and control over its AI infrastructure.",
+      "articleUrl": "https://www.cnbc.com/2026/10/12/microsoft-will-mainly-use-its-maia-chips-for-ai-inference.html",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Microsoft",
+        "Nvidia",
+        "AI chips"
+      ],
+      "publishedAt": "2026-10-12T13:00:01+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Business Strategy"
+        }
+      ]
+    },
+    {
+      "slug": "microsoft-s-new-ai-chip-makes-it-less-reliant-on-nvidia-s-gpus",
+      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+      "dek": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's also more capable of han",
+      "aiSummary": "Microsoft has unveiled its third-generation Maia in-house AI chip, designated as the primary system for AI inference across its products and services. The Maia 300 is designed to enhance the cost-efficiency and capability of running AI workloads in the cloud.",
+      "articleUrl": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+      "category": "AI",
+      "filterTags": [
+        "Microsoft",
+        "Maia 300",
+        "Nvidia",
+        "AI inference",
+        "Cloud"
+      ],
+      "publishedAt": "2026-10-12T13:00:00+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Cloud Computing"
+        }
+      ]
+    },
+    {
+      "slug": "google-s-new-fitbit-edge-solves-my-biggest-gripe-with-the-pixel-watch",
+      "title": "Google’s new Fitbit Edge solves my biggest gripe with the Pixel Watch",
+      "dek": "Google’s watches are too dang chunky.",
+      "aiSummary": "Google has introduced the Fitbit Edge, a new smartwatch designed to address the bulkiness of the Pixel Watch. The device aims to solve the primary complaint regarding the thickness of Google's previous wearable offerings.",
+      "articleUrl": "https://www.zdnet.com/tech/googles-new-fitbit-edge-solves-my-biggest-gripe-with-the-pixel-watch/",
+      "category": "Hardware",
+      "filterTags": [
+        "Google",
+        "Fitbit Edge",
+        "Pixel Watch"
+      ],
+      "publishedAt": "2026-10-12T13:00:00+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Wearables"
+        }
+      ]
+    },
+    {
+      "slug": "new-windows-games-play-really-well-on-m5-max-mac-studio",
+      "title": "New Windows games play really well on M5 Max Mac Studio",
+      "dek": "Long-time modern Mac gaming enthusiast Andrew Tsai has documented how fast some modern Windows games like  Gears of War E-Day  run on a M5 Max Mac Studio, and how to get them going. While the setup method varies across the 17 games he tested in his latest video, we'll be talking ",
+      "aiSummary": "Mac gaming enthusiast Andrew Tsai has demonstrated that modern Windows games, such as Gears of War E-Day, perform well on the M5 Max Mac Studio. He documented the performance of 17 different titles and outlined the varying setup methods required to run them.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/12/new-windows-games-play-really-well-on-m5-max-mac-studio?utm_source=rss",
+      "category": "Hardware",
+      "filterTags": [
+        "M5 Max",
+        "Mac Studio",
+        "Windows",
+        "Gears of War E-Day",
+        "Andrew Tsai"
+      ],
+      "publishedAt": "2026-10-12T12:48:52+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Gaming"
+        }
+      ]
+    },
+    {
+      "slug": "former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background",
+      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+      "dek": "Ambi is releasing apps for iPhone, Mac, and Apple Watch that enables ambient capture",
+      "aiSummary": "Ambi, an AI application developed by a former Plaud executive, has raised $26 million to support its launch. The app will be available on iPhone, Mac, and Apple Watch, and it uses ambient capture to listen to users in the background.",
+      "articleUrl": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Plaud",
+        "Ambi",
+        "iPhone",
+        "Mac",
+        "Apple Watch",
+        "AI",
+        "ambient capture"
+      ],
+      "publishedAt": "2026-10-12T12:47:59+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Mobile"
+        },
+        {
+          "name": "Startup Funding"
+        }
+      ]
+    },
+    {
+      "slug": "amazon-has-over-1-million-robot-workers-what-s-next-for-human-employees",
+      "title": "Amazon has over 1 million robot workers. What’s next for human employees?",
+      "dek": "The second-largest corporate employer has bet big on robot workers to scale.",
+      "aiSummary": "Amazon, the second-largest corporate employer, has invested heavily in robotic workers to expand its operations. This significant shift toward automation prompts inquiries regarding the subsequent impact on human employees.",
+      "articleUrl": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
+      "category": "Logistics",
+      "filterTags": [
+        "Amazon",
+        "Robotics",
+        "Automation"
+      ],
+      "publishedAt": "2026-10-12T12:43:10+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Logistics"
+        },
+        {
+          "name": "Workforce"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "trump-s-energy-efforts-european-bonds-retailers-inventory-balancing-act-and-more-in-morning-squawk",
+      "title": "Trump's energy efforts, European bonds, retailers' inventory balancing act and more in Morning Squawk",
+      "dek": "Here are five key things investors need to know to start the trading day.",
+      "aiSummary": "The article presents five key points that investors should consider at the start of the trading day. It serves as a quick briefing for traders to prepare for market activity. The focus is on current market developments and investor considerations.",
+      "articleUrl": "https://www.cnbc.com/2026/10/12/5-things-to-know-before-the-stock-market-opens.html",
+      "category": "Energy",
+      "filterTags": [],
+      "publishedAt": "2026-10-12T12:40:34+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Energy"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Retail"
+        },
+        {
+          "name": "Financial Markets"
+        }
+      ]
+    },
+    {
+      "slug": "we-specified-an-ai-agent-in-2016-we-called-it-analytics",
+      "title": "We Specified an AI Agent in 2016. We Called It Analytics.",
+      "dek": "Re-reading my own IBM patent on real-time concert feedback as what it actually was: an agentic loop with multimodal perception, memory-grounded inference, and a human in the loop. What it got right, and what a decade of hindsight teaches agent builders today. \n The post  We Speci",
+      "aiSummary": "The author revisits an IBM patent from 2016 that described real‑time concert feedback as an agentic loop featuring multimodal perception, memory‑grounded inference, and a human in the loop. They discuss what the patent got right and the lessons it offers to today’s agent builders after a decade of hindsight.",
+      "articleUrl": "https://towardsdatascience.com/we-specified-an-ai-agent-in-2016-we-called-it-analytics/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "IBM",
+        "AI agent",
+        "multimodal perception",
+        "memory‑grounded inference",
+        "human in the loop"
+      ],
+      "publishedAt": "2026-10-12T12:30:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Human‑Computer Interaction"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "b11567",
+      "title": "b11567",
+      "dek": "llama : report compute graph reallocations during inference ( #30329 ) \n Add an optional ggml_backend_sched_realloc_callback that user code registers with \nggml_backend_sched_set_realloc_callback to be notified when the buffers reserved for a \ngraph are not sufficient and have to",
+      "aiSummary": "The text describes a feature addition for Llama that reports compute graph reallocations during inference. It introduces an optional callback function, ggml_backend_sched_realloc_callback, which allows user code to be notified when reserved buffers for a graph are insufficient and require reallocation.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11567",
+      "category": "AI",
+      "filterTags": [
+        "Llama",
+        "ggml",
+        "inference",
+        "compute graph"
+      ],
+      "publishedAt": "2026-10-12T12:29:12+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "how-meta-designed-muse-an-ai-agent-people-actually-want-to-talk-to-alex-cornell-design-director",
+      "title": "How Meta designed Muse: an AI agent people actually want to talk to | Alex Cornell (Design Director)",
+      "dek": "Listen now | 🎙️Alex Cornell explains how Muse serves your mom and an engineer with the same interface, and demos a SkyMall-style catalog, golf recaps, and a blog turned podcast",
+      "aiSummary": "Alex Cornell, Meta's Design Director, details the design philosophy behind Muse, an AI agent intended to be engaging for diverse users ranging from non-technical individuals to engineers. The presentation includes demonstrations of features such as a product catalog, sports recaps, and the conversion of blog posts into podcasts.",
+      "articleUrl": "https://www.lennysnewsletter.com/p/how-meta-designed-muse-an-ai-agent",
+      "category": "AI",
+      "filterTags": [
+        "Meta",
+        "Muse",
+        "AI Agent",
+        "Alex Cornell"
+      ],
+      "publishedAt": "2026-10-12T12:03:55+00:00",
+      "publisher": {
+        "name": "Lenny's Newsletter",
+        "domain": "lennysnewsletter.com",
+        "website": "https://www.lennysnewsletter.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=lennysnewsletter.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=lennysnewsletter.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Product Design"
+        },
+        {
+          "name": "Consumer Technology"
+        }
+      ]
+    },
+    {
+      "slug": "ai-regulation-must-mimic-industrial-revolution-laws-uk-minister-says",
+      "title": "AI regulation must mimic Industrial Revolution laws, UK minister says",
+      "dek": "Kanishka Narayan tells companies not to release frontier models ‘if you can’t adequately control the risks’",
+      "aiSummary": "UK minister Kanishka Narayan stated that AI regulation should mirror the legal frameworks established during the Industrial Revolution. He advised companies against releasing frontier models if they cannot sufficiently manage the associated risks.",
+      "articleUrl": "https://www.ft.com/content/ba28b7cd-293e-4eee-a073-ad81aaefced3?syn-25a6b1a6=1",
+      "category": "AI",
+      "filterTags": [
+        "AI regulation",
+        "Kanishka Narayan",
+        "frontier models",
+        "UK"
+      ],
+      "publishedAt": "2026-10-12T12:01:51+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Policy"
+        },
+        {
+          "name": "Regulation"
+        }
+      ]
+    },
+    {
+      "slug": "as-us-medical-debt-grows-ai-will-be-used-more-to-collect-it",
+      "title": "As US medical debt grows, AI will be used more to collect it",
+      "dek": "The debt-collection ecosystem will change as AI takes notes in exam rooms, codes visits and sends billing messages Medical debt is expected to grow in coming years as Republican-led health cuts come into force this winter. As it does, a changing world of medical billing and debt ",
+      "aiSummary": "AI will be employed to take notes in exam rooms, code visits, and send billing messages. Medical debt is expected to grow in coming years as Republican‑led health cuts take effect this winter. The debt‑collection ecosystem will change accordingly.",
+      "articleUrl": "https://www.theguardian.com/us-news/2026/oct/12/ai-medical-debt-billing",
+      "category": "Healthcare",
+      "filterTags": [
+        "AI",
+        "medical billing",
+        "debt collection"
+      ],
+      "publishedAt": "2026-10-12T12:00:55+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Healthcare"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "why-ai-won-t-kill-the-creative-class",
+      "title": "Why AI won’t kill the creative class",
+      "dek": "Used right, the technology can unleash human creativity rather than destroy it",
+      "aiSummary": "The article argues that artificial intelligence, when utilized correctly, serves to enhance human creativity rather than replace it. It suggests that the technology acts as a tool to unleash creative potential instead of destroying the creative class.",
+      "articleUrl": "https://www.ft.com/content/f17779e4-adcd-46af-9fe5-3ede05833058",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Creative Class"
+      ],
+      "publishedAt": "2026-10-12T11:00:02+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Creative Industries"
+        }
+      ]
+    },
+    {
+      "slug": "ai-agent-benchmarks-explained-swe-bench-gaia-webarena-and-more",
+      "title": "AI Agent Benchmarks Explained: SWE-Bench, GAIA, WebArena, and More",
+      "dek": "In this article, you will learn what the major AI agent benchmarks measure, how they differ from traditional model benchmarks, and how to use them...",
+      "aiSummary": "The article explains the major benchmarks used to measure AI agent capabilities, including SWE-Bench, GAIA, and WebArena. It details how these specific tests differ from traditional model benchmarks and provides guidance on how to utilize them for evaluation.",
+      "articleUrl": "https://machinelearningmastery.com/ai-agent-benchmarks-explained-swe-bench-gaia-webarena-and-more/",
+      "category": "AI",
+      "filterTags": [
+        "SWE-Bench",
+        "GAIA",
+        "WebArena",
+        "AI Agents"
+      ],
+      "publishedAt": "2026-10-12T11:00:00+00:00",
+      "publisher": {
+        "name": "Jason Brownlee",
+        "domain": "machinelearningmastery.com",
+        "website": "https://machinelearningmastery.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=machinelearningmastery.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=machinelearningmastery.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Evaluation"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "i-built-a-trap-for-ai-image-judges-they-walked-into-a-different-one",
+      "title": "I Built a Trap for AI Image Judges. They Walked Into a Different One.",
+      "dek": "Three vision AI models ignored the pretty image, yet GPT-4o invented answers and Claude kept answering B. \n The post  I Built a Trap for AI Image Judges. They Walked Into a Different One.  appeared first on  Towards Data Science .",
+      "aiSummary": "The author created a trap that caused three vision AI models to overlook a visually appealing image. While GPT-4o generated invented responses, Claude consistently answered with option B.",
+      "articleUrl": "https://towardsdatascience.com/i-built-a-trap-for-ai-image-judges-they-walked-into-a-different-one/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "GPT-4o",
+        "Claude"
+      ],
+      "publishedAt": "2026-10-12T11:00:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Computer Vision"
+        },
+        {
+          "name": "AI Evaluation"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1791812968-inductor-extend-partitioned-scatter-to-additional-ops-194078",
+      "title": "viable/strict/1791812968: [inductor] Extend partitioned scatter to additional ops (#194078)",
+      "dek": "The partitioned scatter pass only matched  aten.index_put  /  aten.index_put_ , so it missed ops that emit the exact same contended  atomic_add  store. This extends the pass to cover them and tightens the partition cap so the rewrite cannot cost more memory traffic than the scatt",
+      "aiSummary": "The existing partitioned scatter pass in Inductor was limited to `aten.index_put` and `aten.index_put_` operations, causing it to overlook other operations that generate similar contended `atomic_add` stores. This update expands the pass to include these additional operations and also refines the partition cap to prevent increased memory traffic.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1791812968",
+      "category": "Software Development",
+      "filterTags": [
+        "Inductor",
+        "aten.index_put",
+        "aten.index_put_",
+        "atomic_add"
+      ],
+      "publishedAt": "2026-10-12T09:41:55+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Optimization"
+        },
+        {
+          "name": "Compilers"
+        }
+      ]
+    },
+    {
+      "slug": "is-universal-basic-income-the-answer-to-a-i-fueled-job-losses",
+      "title": "Is Universal Basic Income the Answer to A.I.-Fueled Job Losses?",
+      "dek": "For more than a year, The New York Times followed recipients of universal basic income programs, which Elon Musk and other tech leaders have promoted as a solution to A.I.-fueled job losses.",
+      "aiSummary": "The New York Times has spent over a year tracking individuals who receive universal basic income, a policy promoted by tech leaders like Elon Musk as a remedy for job displacement driven by artificial intelligence.",
+      "articleUrl": "https://www.nytimes.com/2026/10/12/technology/universal-basic-income-silicon-valley.html",
+      "category": "Economics",
+      "filterTags": [
+        "Universal Basic Income",
+        "Elon Musk",
+        "Artificial Intelligence",
+        "The New York Times"
+      ],
+      "publishedAt": "2026-10-12T09:00:17+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Economics"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Social Policy"
+        }
+      ]
+    },
+    {
+      "slug": "top-12-ai-live-translation-tools-in-2026-latency-languages-pricing",
+      "title": "Top 12 AI Live Translation Tools in 2026: Latency, Languages, Pricing",
+      "dek": "We checked 12 AI live translation tools, including Palabra.ai, Google Live Translate, DeepL Voice, Teams Interpreter and Wordly, against official pages for languages, latency, platforms and pricing. \n The post  Top 12 AI Live Translation Tools in 2026: Latency, Languages, Pricing",
+      "aiSummary": "The article reviews 12 AI live translation tools, evaluating them on language coverage, latency, platform availability, and pricing. Tools examined include Palabra.ai, Google Live Translate, DeepL Voice, Teams Interpreter, and Wordly, among others.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/12/top-12-ai-live-translation-tools-2026/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Palabra.ai",
+        "Google",
+        "DeepL",
+        "Microsoft Teams",
+        "Wordly"
+      ],
+      "publishedAt": "2026-10-12T08:20:49+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Translation Services"
+        },
+        {
+          "name": "Software Tools"
+        }
+      ]
+    },
+    {
+      "slug": "n8n-2-42-7",
+      "title": "n8n@2.42.7",
+      "dek": "2.42.7  (2026-10-12) \n Bug Fixes \n \n core:  Keep concurrent credential tests from sharing one node type registry ( #40783 ) ( c17fdee ) \n core:  Resume tool calls for deferred tools that a skill loaded ( #40747 ) ( fd2586e )",
+      "aiSummary": "n8n has released version 2.42.7, which includes bug fixes for the core system. The update ensures that concurrent credential tests do not share a single node type registry and allows tool calls to resume for deferred tools loaded by a skill.",
+      "articleUrl": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.42.7",
+      "category": "Workflow Automation",
+      "filterTags": [
+        "n8n",
+        "core",
+        "credential tests",
+        "node type registry",
+        "tool calls"
+      ],
+      "publishedAt": "2026-10-12T07:37:55+00:00",
+      "publisher": {
+        "name": "n8n-io",
+        "domain": "github.com",
+        "website": "https://github.com/n8n-io/n8n",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Workflow Automation"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "n8n-2-43-4",
+      "title": "n8n@2.43.4",
+      "dek": "2.43.4  (2026-10-12) \n Bug Fixes \n \n core:  Handle each Chat Hub segment once in queue mode ( #40816 ) ( dc77062 ) \n core:  Resume tool calls for deferred tools that a skill loaded ( #40746 ) ( ea448c6 )",
+      "aiSummary": "The 2.43.4 update for n8n includes bug fixes that ensure each Chat Hub segment is processed only once when operating in queue mode, and that tool calls for deferred tools are resumed correctly when a skill is loaded. These changes improve reliability in queued workflows and tool execution.",
+      "articleUrl": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.43.4",
+      "category": "Open Source",
+      "filterTags": [
+        "n8n",
+        "Chat Hub",
+        "queue mode",
+        "deferred tools"
+      ],
+      "publishedAt": "2026-10-12T07:26:17+00:00",
+      "publisher": {
+        "name": "n8n-io",
+        "domain": "github.com",
+        "website": "https://github.com/n8n-io/n8n",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Automation"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "llm-batching-explained-static-vs-dynamic-vs-continuous-batching",
+      "title": "LLM Batching Explained: Static vs Dynamic vs Continuous Batching",
+      "dek": "Imagine four people booking a ride to the same destination. If each person takes a separate taxi, four vehicles make the same trip. But if they travel together in a bus, everyone reaches the destination in a single trip. The bus carries more people at once and makes better use of",
+      "aiSummary": "The article uses a taxi‑vs‑bus analogy to illustrate how batching works for large language models. It compares static batching, where requests are grouped in fixed-size batches; dynamic batching, which adapts batch size based on incoming requests; and continuous batching, which keeps a rolling queue to maximize throughput. The goal is to improve efficiency and reduce latency by processing multiple requests together.",
+      "articleUrl": "https://www.analyticsvidhya.com/blog/2026/10/llm-batching/",
+      "category": "AI",
+      "filterTags": [
+        "LLM",
+        "batching",
+        "static batching",
+        "dynamic batching",
+        "continuous batching"
+      ],
+      "publishedAt": "2026-10-12T06:19:14+00:00",
+      "publisher": {
+        "name": "Analytics Vidhya",
+        "domain": "analyticsvidhya.com",
+        "website": "https://www.analyticsvidhya.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=analyticsvidhya.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=analyticsvidhya.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Performance Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "ftav-s-further-read",
+      "title": "FTAV’s further read",
+      "dek": "Trump vs Norway; chōsen-seki; mathematicians and AI, RIP Quartz; Wallace and Gromit",
+      "aiSummary": "The article presents a series of brief commentary pieces, including discussions on Trump and Norway, the term 'chōsen-seki', and the relationship between mathematicians and AI. It also notes the closure of Quartz and references Wallace and Gromit.",
+      "articleUrl": "https://www.ft.com/content/b01366df-466d-44ee-91c6-1c71932da89e",
+      "category": "Politics",
+      "filterTags": [
+        "Trump",
+        "Norway",
+        "AI",
+        "Quartz",
+        "Wallace and Gromit"
+      ],
+      "publishedAt": "2026-10-12T05:30:05+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Media"
+        }
+      ]
+    },
+    {
+      "slug": "faithfulness-without-anchors-a-position-paper-on-the-structural-misalignments-of-explainable-ai-faithfulness-metrics-for",
+      "title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
+      "dek": "arXiv:2610.12493v1 Announce Type: new \nAbstract: Explainable Artificial Intelligence (XAI) tools have often been presented as methods to increase trust in machine learning models by making aspects of their algorithms more human-understandable. However, evidence accumulated over t",
+      "aiSummary": "Explainable Artificial Intelligence (XAI) tools are frequently presented as a means to build trust in machine learning models by making their algorithms more comprehensible to humans. However, the article suggests that accumulating evidence points to structural misalignments in the faithfulness metrics used for XAI, particularly regarding feature importance.",
+      "articleUrl": "https://arxiv.org/abs/2610.12493",
+      "category": "AI",
+      "filterTags": [
+        "Explainable Artificial Intelligence",
+        "XAI",
+        "Machine Learning",
+        "Feature Importance"
+      ],
+      "publishedAt": "2026-10-12T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv cs.AI",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.AI",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Research"
+        },
+        {
+          "name": "Ethics"
+        }
+      ]
+    },
+    {
+      "slug": "elitetable-self-improving-program-search-for-executable-control-policies",
+      "title": "EliteTable: Self-Improving Program Search for Executable Control Policies",
+      "dek": "arXiv:2610.12536v1 Announce Type: new \nAbstract: EliteTable is a self-improving program-search algorithm guided by large language models (LLMs) that uses a fixed-capacity table of high-scoring solutions to guide new proposals, edits of existing solutions, and remixes of several s",
+      "aiSummary": "EliteTable is a self-improving algorithm that utilizes large language models to search for executable control policies. It employs a fixed-capacity table of high-scoring solutions to guide the generation of new proposals, edits to existing ones, and remixes of multiple solutions.",
+      "articleUrl": "https://arxiv.org/abs/2610.12536",
+      "category": "AI",
+      "filterTags": [
+        "EliteTable",
+        "LLMs",
+        "Program Search",
+        "Control Policies"
+      ],
+      "publishedAt": "2026-10-12T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv cs.AI",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.AI",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Robotics"
+        },
+        {
+          "name": "Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "equal-budget-monte-carlo-tree-search-versus-randomized-restart-list-scheduling-for-dag-workflows-a-controlled-equal-budg",
+      "title": "Equal-Budget Monte Carlo Tree Search versus Randomized-Restart List Scheduling for DAG Workflows: A Controlled Equal-Budget Computational Study",
+      "dek": "arXiv:2610.12542v1 Announce Type: new \nAbstract: Monte Carlo Tree Search (MCTS) is often proposed for scheduling directed-acyclic-graph (DAG) workflows, yet most studies never run the comparison that could refute it - giving a much simpler method the same search effort. We run th",
+      "aiSummary": "The paper compares Monte Carlo Tree Search (MCTS) and Randomized-Restart List Scheduling for directed‑acyclic‑graph (DAG) workflows, ensuring both methods receive the same computational budget. It highlights that many prior studies do not provide a fair comparison by giving simpler methods the same search effort. The authors conduct a controlled equal‑budget computational study to evaluate the two approaches.",
+      "articleUrl": "https://arxiv.org/abs/2610.12542",
+      "category": "Algorithms",
+      "filterTags": [
+        "Monte Carlo Tree Search",
+        "MCTS",
+        "Directed Acyclic Graph",
+        "DAG",
+        "Randomized-Restart List Scheduling",
+        "Computational Study",
+        "arXiv"
+      ],
+      "publishedAt": "2026-10-12T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv cs.AI",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.AI",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Algorithms"
+        },
+        {
+          "name": "Scheduling"
+        },
+        {
+          "name": "Graph Theory"
+        },
+        {
+          "name": "Computational Research"
+        }
+      ]
+    },
+    {
+      "slug": "quaternion-gaussian-probes-for-tensor-frobenius-norm-estimation",
+      "title": "Quaternion Gaussian Probes for Tensor Frobenius-Norm Estimation",
+      "dek": "arXiv:2610.12534v1 Announce Type: new \nAbstract: Large-scale tensors arising in science and engineering are often too large to form or store explicitly. Their multilinear contractions, however, can frequently be evaluated efficiently, which makes randomized Frobenius-norm estimat",
+      "aiSummary": "The paper introduces a method for estimating the Frobenius norm of large-scale tensors that are too big to store explicitly. It leverages the fact that multilinear contractions of these tensors can be evaluated efficiently to perform randomized estimation.",
+      "articleUrl": "https://arxiv.org/abs/2610.12534",
+      "category": "Mathematics",
+      "filterTags": [
+        "Quaternion Gaussian Probes",
+        "Tensor",
+        "Frobenius Norm",
+        "arXiv"
+      ],
+      "publishedAt": "2026-10-12T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Mathematics"
+        },
+        {
+          "name": "Scientific Computing"
+        }
+      ]
+    },
+    {
+      "slug": "predictive-context-loo-bayesian-model-comparison-with-pretrained-predictive-learners",
+      "title": "Predictive-Context LOO: Bayesian Model Comparison with Pretrained Predictive Learners",
+      "dek": "arXiv:2610.12688v1 Announce Type: new \nAbstract: Leave-one-out (LOO) cross-validation, a standard tool for Bayesian model assessment, evaluates each observation using a LOO predictive distribution derived from the model itself. In this work, we introduce an alternative constructi",
+      "aiSummary": "Leave-one-out (LOO) cross-validation is a standard technique for Bayesian model assessment, which evaluates each observation using a predictive distribution derived from the model itself. This work proposes an alternative construction to the traditional LOO method.",
+      "articleUrl": "https://arxiv.org/abs/2610.12688",
+      "category": "Machine Learning",
+      "filterTags": [
+        "Bayesian Model Comparison",
+        "Leave-one-out (LOO) cross-validation",
+        "Pretrained Predictive Learners",
+        "arXiv"
+      ],
+      "publishedAt": "2026-10-12T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Statistics"
+        },
+        {
+          "name": "Research"
+        }
+      ]
+    },
+    {
+      "slug": "product-monte-carlo-expectation-under-a-product-of-densities",
+      "title": "Product Monte Carlo: Expectation Under a Product of Densities",
+      "dek": "arXiv:2610.12702v1 Announce Type: new \nAbstract: Aggregating independently computed sub-sample inferences is a well-known challenge in large-scale Bayesian computation, federated learning, and opinion pooling. The core problem is to approximate a distribution whose density is pro",
+      "aiSummary": "The paper addresses the challenge of aggregating inferences from independent sub-samples in large-scale Bayesian computation and federated learning. It proposes a method to approximate distributions where the density is a product of other densities, facilitating opinion pooling and statistical aggregation.",
+      "articleUrl": "https://arxiv.org/abs/2610.12702",
+      "category": "Statistics",
+      "filterTags": [
+        "Bayesian computation",
+        "federated learning",
+        "opinion pooling",
+        "arXiv"
+      ],
+      "publishedAt": "2026-10-12T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Statistics"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Mathematics"
+        }
+      ]
+    },
+    {
+      "slug": "tii-releases-falcon-asr-1-6b-arabic-speech-model-hits-20-92-wer",
+      "title": "TII Releases Falcon-ASR: 1.6B Arabic Speech Model Hits 20.92% WER",
+      "dek": "TII has released Falcon-ASR, a 1.6B speech recognition model for Arabic with an Emirati focus. It reports 20.92% average WER on 6 Arabic test sets, but weights and an API are not yet available. \n The post  TII Releases Falcon-ASR: 1.6B Arabic Speech Model Hits 20.92% WER  appeare",
+      "aiSummary": "TII has released Falcon-ASR, a 1.6 billion parameter Arabic speech recognition model focused on Emirati dialects. The model achieves an average word error rate of 20.92% across six Arabic test sets. However, the model weights and an API are not yet available.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/11/tii-falcon-asr-arabic-speech-recognition/",
+      "category": "AI",
+      "filterTags": [
+        "TII",
+        "Falcon-ASR",
+        "Arabic",
+        "Emirati",
+        "WER"
+      ],
+      "publishedAt": "2026-10-12T03:16:09+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Speech Recognition"
+        },
+        {
+          "name": "Natural Language Processing"
+        }
+      ]
+    },
+    {
+      "slug": "inside-muse-apple-homeview-ai-experimentation",
+      "title": "Inside Muse 🤖, Apple HomeView 🏠, AI experimentation 👨‍💻",
+      "dek": "A look inside Muse, Apple HomeView, and AI experiments.",
+      "aiSummary": "",
+      "articleUrl": "https://tldr.tech/tech/2026-10-12",
+      "category": "AI",
+      "filterTags": [],
+      "publishedAt": "2026-10-12T00:00:00+00:00",
+      "publisher": {
+        "name": "TLDR",
+        "domain": "tldr.tech",
+        "website": "https://tldr.tech/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=tldr.tech&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=tldr.tech&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Home Automation"
+        }
+      ]
+    }
+  ]
+}
