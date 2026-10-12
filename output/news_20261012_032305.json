@@ -1,0 +1,474 @@
+{
+  "news": [
+    {
+      "slug": "ciflow-xpu-200510",
+      "title": "ciflow/xpu/200510",
+      "dek": "[XPU] Narrow complex arange test skips",
+      "aiSummary": "The XPU test suite indicates that the narrow complex arange test is being skipped. This means the test is not run during the test run.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fxpu%2F200510",
+      "category": "Testing",
+      "filterTags": [
+        "XPU"
+      ],
+      "publishedAt": "2026-10-12T10:37:00+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Testing"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "ciflow-trunk-200510",
+      "title": "ciflow/trunk/200510",
+      "dek": "[XPU] Narrow complex arange test skips",
+      "aiSummary": "This commit focuses on the XPU narrow complex arange tests. It addresses test skips that were occurring. The changes likely adjust test conditions or skip logic.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Ftrunk%2F200510",
+      "category": "Testing",
+      "filterTags": [
+        "XPU",
+        "arange",
+        "test"
+      ],
+      "publishedAt": "2026-10-12T10:37:00+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Testing"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "ciflow-xpu-197120",
+      "title": "ciflow/xpu/197120",
+      "dek": "Refactor test_torch.py and enable xpu",
+      "aiSummary": "The update involves refactoring the test_torch.py file. This change is intended to enable xpu functionality.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fxpu%2F197120",
+      "category": "Testing",
+      "filterTags": [
+        "ciflow",
+        "xpu",
+        "torch",
+        "test_torch.py"
+      ],
+      "publishedAt": "2026-10-12T03:16:57+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Testing"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "firmus-fiasco-wipes-out-700-million-of-early-backer-maas-value",
+      "title": "Firmus Fiasco Wipes Out $700 Million of Early Backer Maas’ Value",
+      "dek": "Maas Group Holdings Ltd. has lost more than A$1 billion ($699 million) in market value as Firmus Grid Ltd.’s initial public offering unraveled, with the shares extending their decline to a fifth day after Jefferies Financial Group Inc. downgraded its rating.",
+      "aiSummary": "Maas Group Holdings Ltd. has lost over A$1 billion in market value following the unraveling of Firmus Grid Ltd.'s initial public offering. The decline was exacerbated by a rating downgrade from Jefferies Financial Group Inc., causing Firmus shares to fall for a fifth consecutive day.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-12/firmus-fiasco-wipes-out-700-million-of-early-backer-maas-value",
+      "category": "Finance",
+      "filterTags": [
+        "Maas Group Holdings",
+        "Firmus Grid",
+        "Jefferies Financial Group",
+        "IPO"
+      ],
+      "publishedAt": "2026-10-12T03:12:06+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Energy"
+        },
+        {
+          "name": "Investment"
+        }
+      ]
+    },
+    {
+      "slug": "show-hn-skills-hub-a-desktop-app-for-managing-ai-agent-skills",
+      "title": "Show HN: Skills Hub, a desktop app for managing AI agent skills",
+      "dek": "Skills Hub: a computer program that lets you keep track of AI agent abilities",
+      "aiSummary": "Skills Hub is a desktop application that helps users organize and manage skills for AI agents. It is posted on Show HN, indicating it is a community project.",
+      "articleUrl": "https://github.com/qufei1993/skills-hub",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Skills Hub",
+        "desktop app",
+        "AI agent"
+      ],
+      "publishedAt": "2026-10-12T02:48:19+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "dongshan-said-to-gauge-demand-for-up-to-3-billion-hk-listing",
+      "title": "Dongshan Said to Gauge Demand for Up to $3 Billion HK Listing",
+      "dek": "Printed circuit board maker Suzhou Dongshan Precision Manufacturing Co. has started gauging investor interest for a Hong Kong listing that may raise $2 billion to $3 billion, according to people familiar with the matter.",
+      "aiSummary": "Suzhou Dongshan Precision Manufacturing Co. has begun assessing investor interest for a Hong Kong stock listing. The company aims to raise between $2 billion and $3 billion through the offering.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-12/dongshan-said-to-gauge-demand-for-up-to-3-billion-hk-listing",
+      "category": "Finance",
+      "filterTags": [
+        "Suzhou Dongshan Precision Manufacturing",
+        "PCB",
+        "IPO",
+        "Hong Kong Stock Exchange"
+      ],
+      "publishedAt": "2026-10-12T02:46:37+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Manufacturing"
+        }
+      ]
+    },
+    {
+      "slug": "flow-state-the-dinner-rush-and-ai-brain-fry",
+      "title": "Flow state, the dinner rush and AI brain fry",
+      "dek": "The article explores the concepts of flow state, the dinner rush, and AI-induced mental fatigue.",
+      "aiSummary": "The provided text does not contain an article body, only a title. Therefore, no factual summary can be generated based on the content.",
+      "articleUrl": "https://jamespember.substack.com/p/flow-state-the-dinner-rush-and-ai",
+      "category": "AI",
+      "filterTags": [
+        "AI"
+      ],
+      "publishedAt": "2026-10-12T02:45:48+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Psychology"
+        }
+      ]
+    },
+    {
+      "slug": "website-uses-ai-to-generate-northern-indigenous-news-correspondents",
+      "title": "Website uses AI to generate northern Indigenous news 'correspondents'",
+      "dek": "A site is using artificial intelligence to create news reporters for northern Indigenous communities.",
+      "aiSummary": "A website has developed AI-generated correspondents to produce news for northern Indigenous communities. These AI correspondents produce content tailored to Indigenous audiences, potentially increasing coverage of local issues.",
+      "articleUrl": "https://www.cbc.ca/news/canada/north/artificial-intelligence-indigenous-journalists-9.7345554",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Indigenous news"
+      ],
+      "publishedAt": "2026-10-12T02:39:07+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Media"
+        },
+        {
+          "name": "Social Impact"
+        }
+      ]
+    },
+    {
+      "slug": "bain-s-bridge-data-centres-seeks-to-upsize-loan-to-6-6-billion",
+      "title": "Bain’s Bridge Data Centres Seeks to Upsize Loan to $6.6 Billion",
+      "dek": "Bain Capital-owned Bridge Data Centres is in talks with banks to more than double the size of an existing loan to about $6.6 billion, people familiar with the matter said, in what would be one of the largest deals for the sector in Asia.",
+      "aiSummary": "Bridge Data Centres, owned by Bain Capital, is in discussions with banks to more than double the size of its existing loan to approximately $6.6 billion. This potential financing arrangement would represent one of the largest deals in the data center sector in Asia.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-12/bain-s-bridge-data-centres-seeks-to-upsize-loan-to-6-6-billion",
+      "category": "Finance",
+      "filterTags": [
+        "Bain Capital",
+        "Bridge Data Centres",
+        "Data Centers",
+        "Banking"
+      ],
+      "publishedAt": "2026-10-12T02:29:55+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "Real Estate"
+        }
+      ]
+    },
+    {
+      "slug": "v1-13-0-dev40",
+      "title": "v1.13.0.dev40",
+      "dek": "Langflow nightly v1.13.0.dev40",
+      "aiSummary": "Langflow has released a nightly development build identified as version 1.13.0.dev40. This update represents the current state of the software's ongoing development cycle.",
+      "articleUrl": "https://github.com/langflow-ai/langflow/releases/tag/v1.13.0.dev40",
+      "category": "Open Source",
+      "filterTags": [
+        "Langflow"
+      ],
+      "publishedAt": "2026-10-12T00:47:42+00:00",
+      "publisher": {
+        "name": "langflow-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langflow-ai/langflow",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "meet-cloudflare-clef-omni-a-30b-a3b-multimodal-decision-model-for-audio-video-image-and-text",
+      "title": "Meet Cloudflare Clef-omni: A 30B-A3B Multimodal Decision Model for Audio, Video, Image and Text",
+      "dek": "Cloudflare released Clef-omni, an Apache-2.0 multimodal decision model built on Qwen3-Omni-30B-A3B. It scores text, images, audio and video in one call for $0.15 per million input tokens, while Clef-flash drops to $0.038. \n The post  Meet Cloudflare Clef-omni: A 30B-A3B Multimoda",
+      "aiSummary": "Cloudflare has released Clef-omni, an Apache-2.0 licensed multimodal decision model built on Qwen3-Omni-30B-A3B. The model can score text, images, audio, and video in a single call, costing $0.15 per million input tokens, while its lighter version Clef-flash costs $0.038 per million tokens.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/11/cloudflare-clef-omni-multimodal-decision-model/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Cloudflare",
+        "Clef-omni",
+        "Qwen3-Omni-30B-A3B",
+        "Apache-2.0",
+        "Clef-flash"
+      ],
+      "publishedAt": "2026-10-11T23:15:52+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Cloud Computing"
+        }
+      ]
+    },
+    {
+      "slug": "ai-is-less-regulated-than-milk-says-microsoft-president",
+      "title": "AI is less regulated than milk, says Microsoft president",
+      "dek": "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge.",
+      "aiSummary": "Microsoft President Brad Smith argues that AI is currently less regulated than milk and is calling for the establishment of global rules for the technology. He specifically suggests that the UK is in the best position to lead the effort in creating these international standards.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
+      "category": "AI",
+      "filterTags": [
+        "Microsoft",
+        "Brad Smith",
+        "AI Regulation",
+        "UK"
+      ],
+      "publishedAt": "2026-10-11T23:07:35+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Policy"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "uk-to-strengthen-cyber-defences-as-minister-calls-for-ai-firms-to-increase-safety-efforts",
+      "title": "UK to strengthen cyber defences as minister calls for AI firms to increase safety efforts",
+      "dek": "Kanishka Narayan to say Britain cannot rely entirely on tech companies amid rising global concern over AI dangers Companies building the most advanced AI systems must increase safety efforts, the UK’s AI minister will say, as he announces a strengthening of Britain’s cyber defenc",
+      "aiSummary": "UK AI minister Kanishka Narayan will announce stronger cyber defenses and say Britain cannot rely solely on tech firms. He will also call on companies building advanced AI systems to increase safety efforts amid growing global concerns about AI dangers.",
+      "articleUrl": "https://www.theguardian.com/technology/2026/oct/12/uk-strengthen-cyber-defences-minister-ai-firms-safety",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "tech companies"
+      ],
+      "publishedAt": "2026-10-11T23:01:39+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "Policy"
+        }
+      ]
+    },
+    {
+      "slug": "what-is-decision-3-0-vllm-semantic-router-s-new-open-decision-models",
+      "title": "What is Decision 3.0? vLLM Semantic Router’s New Open Decision Models",
+      "dek": "vLLM Semantic Router released Decision 3.0, 5 Apache-2.0 multimodal decision models from 0.8B to 27B. They answer choice, yes/no and score questions about text and images in one call, without generating text. \n The post  What is Decision 3.0? vLLM Semantic Router’s New Open Decis",
+      "aiSummary": "vLLM Semantic Router has released Decision 3.0, a suite of five Apache-2.0 licensed multimodal decision models ranging from 0.8B to 27B parameters. These models are designed to answer choice, yes/no, and scoring questions regarding text and images in a single call without generating text.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/11/what-is-decision-3-0-vllm-semantic-routers-new-open-decision-models/",
+      "category": "AI",
+      "filterTags": [
+        "vLLM",
+        "Semantic Router",
+        "Decision 3.0",
+        "Apache-2.0",
+        "Multimodal"
+      ],
+      "publishedAt": "2026-10-11T21:43:41+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    }
+  ]
+}
