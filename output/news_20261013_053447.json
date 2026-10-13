@@ -1,0 +1,948 @@
+{
+  "news": [
+    {
+      "slug": "v0-40-4",
+      "title": "v0.40.4",
+      "dek": "What's Changed \n \n llama: update llama.cpp to b11521 for decision models and EmbeddingGemma 2 by  @jmorganca  in  #18917 \n server: reuse verified manifests and loaded models in inference routes by  @dhiltgen  in  #18947 \n mlx: compact restored recurrent state after speculative ro",
+      "aiSummary": "The v0.40.4 release updates llama.cpp to build b11521 to support decision models and EmbeddingGemma 2. It also introduces server-side optimizations to reuse verified manifests and loaded models in inference routes, along with MLX improvements for compacting restored recurrent state.",
+      "articleUrl": "https://github.com/ollama/ollama/releases/tag/v0.40.4-rc1",
+      "category": "AI",
+      "filterTags": [
+        "llama.cpp",
+        "EmbeddingGemma 2",
+        "MLX",
+        "inference"
+      ],
+      "publishedAt": "2026-10-13T05:26:17+00:00",
+      "publisher": {
+        "name": "ollama",
+        "domain": "github.com",
+        "website": "https://github.com/ollama/ollama",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "china-s-cxmt-claims-memory-breakthrough-ahead-of-samsung-hynix",
+      "title": "China’s CXMT Claims Memory Breakthrough Ahead of Samsung, Hynix",
+      "dek": "CXMT Corp. declared it achieved a breakthrough in chip technology that rivals like Samsung Electronics Co. had pursued for years, an unsubstantiated claim that jolted stocks and reflects China’s aggressive push into a critical sphere.",
+      "aiSummary": "CXMT Corp. announced it had achieved a breakthrough in memory chip technology, a claim that has not been substantiated. The announcement has caused a stir in the market and highlights China's push into critical technology sectors. The claim positions CXMT ahead of competitors like Samsung Electronics and Hynix.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-13/china-s-cxmt-claims-memory-breakthrough-ahead-of-samsung-hynix",
+      "category": "Semiconductors",
+      "filterTags": [
+        "CXMT Corp.",
+        "Samsung Electronics",
+        "Hynix",
+        "memory chip",
+        "chip technology"
+      ],
+      "publishedAt": "2026-10-13T05:07:13+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "from-earth-to-orbit-france-s-ecosystem-delivers-agentic-computing-at-scale-with-nvidia",
+      "title": "From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA",
+      "dek": "Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country’s ecosystem has moved from ambition to application.  France’s progress sits on deliberate groundwork.",
+      "aiSummary": "French companies are deploying agentic computing in sectors such as space, finance, public sector, and scientific research. This demonstrates the ecosystem’s shift from ambition to real-world application, built on deliberate groundwork.",
+      "articleUrl": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
+      "category": "AI",
+      "filterTags": [
+        "NVIDIA",
+        "agentic computing"
+      ],
+      "publishedAt": "2026-10-13T05:00:31+00:00",
+      "publisher": {
+        "name": "NVIDIA",
+        "domain": "nvidia.com",
+        "website": "https://blogs.nvidia.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Space"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Public Sector"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-0476f0bcaefcbd3225a98beb253658e70e3643d0-windows-depend-on-pypi-cuda-runtime-packages-in-wheels-194056",
+      "title": "trunk/0476f0bcaefcbd3225a98beb253658e70e3643d0: [Windows] Depend on PyPI CUDA runtime packages in wheels (#194056)",
+      "dek": "Summary \n This PR teaches Windows PyTorch CUDA wheels to locate their CUDA runtime DLLs from installed NVIDIA PyPI packages (via cuda-pathfinder) rather than bundling them inside torch/lib/. It adds per-OS wheel dependency metadata, updates the build matrix generator, adjusts CMa",
+      "aiSummary": "The pull request changes Windows PyTorch CUDA wheels so they find CUDA runtime DLLs in installed NVIDIA PyPI packages using cuda-pathfinder, instead of including them in torch/lib. It adds per-OS wheel dependency metadata, updates the build matrix generator, and adjusts CMake configuration.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F0476f0bcaefcbd3225a98beb253658e70e3643d0",
+      "category": "Machine Learning",
+      "filterTags": [
+        "Windows",
+        "PyTorch",
+        "CUDA",
+        "PyPI",
+        "NVIDIA",
+        "cuda-pathfinder",
+        "wheel",
+        "CMake"
+      ],
+      "publishedAt": "2026-10-13T05:00:23+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Operating Systems"
+        }
+      ]
+    },
+    {
+      "slug": "revolut-and-vinted-backer-sprints-raises-725-million-fund",
+      "title": "Revolut and Vinted Backer Sprints Raises €725 Million Fund",
+      "dek": "Sprints, a venture capital firm that backed Revolut early, has closed its fifth fund of €725 million ($810 million).",
+      "aiSummary": "Sprints, a venture capital firm known for its early investment in Revolut, has completed the closing of its fifth fund. The new fund totals €725 million, which is equivalent to $810 million.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-13/revolut-and-vinted-backer-sprints-raises-725-million-fund",
+      "category": "Finance",
+      "filterTags": [
+        "Sprints",
+        "Revolut",
+        "Vinted",
+        "Venture Capital"
+      ],
+      "publishedAt": "2026-10-13T05:00:00+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Investment"
+        }
+      ]
+    },
+    {
+      "slug": "things-we-ve-learned-about-building-ai-products",
+      "title": "Things we've learned about building AI products",
+      "dek": "Key insights gained from the process of developing artificial intelligence applications.",
+      "aiSummary": "The provided text does not contain any article body or description to summarize. Only the title 'Things we've learned about building AI products' is available, which indicates a focus on lessons learned in AI product development but offers no specific facts or details.",
+      "articleUrl": "https://newsletter.posthog.com/p/38-things-weve-learned-about-building",
+      "category": "AI",
+      "filterTags": [
+        "AI"
+      ],
+      "publishedAt": "2026-10-13T04:59:02+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Product Development"
+        }
+      ]
+    },
+    {
+      "slug": "tech-giants-to-outpace-us-in-issuing-long-term-debt-sunak-says",
+      "title": "Tech Giants to Outpace US in Issuing Long-Term Debt, Sunak Says",
+      "dek": "Technology companies are on track to become larger net issuers of long-term debt than the US government in 2027, former UK Prime Minister Rishi Sunak said, describing the scale of capital demand driven by artificial intelligence investment.",
+      "aiSummary": "Former UK Prime Minister Rishi Sunak stated that technology companies are projected to surpass the US government as net issuers of long-term debt by 2027. He attributed this shift to the massive capital requirements driven by investments in artificial intelligence.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-13/tech-giants-to-outpace-us-in-issuing-long-term-debt-sunak-says",
+      "category": "Finance",
+      "filterTags": [
+        "Rishi Sunak",
+        "Artificial Intelligence",
+        "Debt Issuance",
+        "US Government"
+      ],
+      "publishedAt": "2026-10-13T04:54:50+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Macroeconomics"
+        }
+      ]
+    },
+    {
+      "slug": "imf-warns-bond-yields-could-see-a-disorderly-spike-as-debt-inflation-risks-worsen",
+      "title": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
+      "dek": "The IMF says risks in the government bond market have worsened and that yields could jump sharply and disorderly.",
+      "aiSummary": "The International Monetary Fund (IMF) has issued a warning that risks in the government bond market have deteriorated. Consequently, the organization predicts that bond yields could experience a sharp and disorderly increase driven by worsening debt and inflation pressures.",
+      "articleUrl": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html",
+      "category": "Finance",
+      "filterTags": [
+        "IMF",
+        "bond yields",
+        "government bonds",
+        "inflation",
+        "debt"
+      ],
+      "publishedAt": "2026-10-13T04:54:07+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Macroeconomics"
+        },
+        {
+          "name": "Public Debt"
+        }
+      ]
+    },
+    {
+      "slug": "software-engineers-don-t-get-to-be-luddites-about-ai",
+      "title": "Software engineers don't get to be Luddites about AI",
+      "dek": "Software developers can't ignore AI.",
+      "aiSummary": "",
+      "articleUrl": "https://www.seangoedecke.com/software-engineers-dont-get-to-be-luddites-about-ai/",
+      "category": "Software Engineering",
+      "filterTags": [],
+      "publishedAt": "2026-10-13T04:48:45+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Technology Ethics"
+        }
+      ]
+    },
+    {
+      "slug": "don-t-feed-the-ai",
+      "title": "Don't Feed the AI",
+      "dek": "Avoid giving input to the AI.",
+      "aiSummary": "",
+      "articleUrl": "https://github.com/zeroc00I/DontFeedTheAI",
+      "category": "Artificial Intelligence",
+      "filterTags": [],
+      "publishedAt": "2026-10-13T04:45:41+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": []
+    },
+    {
+      "slug": "trunk-057b17cd29a79360252512fb8ec949dd4c364876-size-the-output-of-rrelu-with-noise-196087",
+      "title": "trunk/057b17cd29a79360252512fb8ec949dd4c364876: Size the output of rrelu_with_noise   (#196087)",
+      "dek": "rrelu_with_noise.out is not structured, so nothing sizes out before the kernel writes self.numel() elements into it; a shorter out corrupts the heap. resize_output fixes that. noise has the same defect through an expanded tensor whose storage holds fewer elements than its size cl",
+      "aiSummary": "The rrelu_with_noise output was unstructured, causing heap corruption if the output was shorter than the number of elements written by the kernel. The fix uses resize_output to ensure correct sizing. Additionally, the noise tensor had a similar defect where its storage held fewer elements than its size.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F057b17cd29a79360252512fb8ec949dd4c364876",
+      "category": "Machine Learning",
+      "filterTags": [
+        "PyTorch",
+        "rrelu_with_noise",
+        "heap corruption",
+        "resize_output"
+      ],
+      "publishedAt": "2026-10-13T04:05:46+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "b11580",
+      "title": "b11580",
+      "dek": "hexagon: extend scalar DMA broadcasting support for binary ops ( #30245 ) \n \n tests: cover weighted scalar broadcasts \n \n Assisted-by: OpenCode \n \n ggml : support extended scalar DMA binary ops \n \n Assisted-by: OpenCode \n \n \n hex-binary: remove all non-dma paths \n \n \n hex-binary:",
+      "aiSummary": "The update extends scalar DMA broadcasting for binary operations on the Hexagon architecture, adding support for weighted scalar broadcasts. The changes also extend ggml's binary ops to use DMA and remove non-DMA paths in hex-binary. The work was assisted by OpenCode.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11580",
+      "category": "Hardware",
+      "filterTags": [
+        "Hexagon",
+        "DMA",
+        "ggml",
+        "OpenCode"
+      ],
+      "publishedAt": "2026-10-13T04:05:33+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "who-s-really-hiring-you-hr-or-cyber-security",
+      "title": "Who’s really hiring you — HR or cyber security?",
+      "dek": "Fraudulent use of AI in the jobs process is forcing the warm and fuzzy realms of the former to work with the suspicious minds of the latter",
+      "aiSummary": "The increasing use of fraudulent AI in the recruitment process is creating a conflict between human resources and cybersecurity teams. This trend forces the traditionally welcoming HR department to collaborate with security professionals who are focused on detecting suspicious activity.",
+      "articleUrl": "https://www.ft.com/content/16e1d29b-3680-4712-b8e7-ed4a4125041a?syn-25a6b1a6=1",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "HR",
+        "Cybersecurity",
+        "Recruitment"
+      ],
+      "publishedAt": "2026-10-13T04:00:19+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Human Resources"
+        }
+      ]
+    },
+    {
+      "slug": "criminals-could-walk-free-without-controls-on-ai-use-police-watchdog-warns",
+      "title": "Criminals could walk free without controls on AI use, police watchdog warns",
+      "dek": "Guidelines are vital to ensure overstretched forces in England and Wales can use the systems to speed up investigations",
+      "aiSummary": "The police watchdog emphasizes the need for guidelines to help police forces in England and Wales use AI systems effectively. Proper controls are essential to prevent criminals from exploiting unregulated AI. The guidelines aim to support overstretched forces in speeding up investigations.",
+      "articleUrl": "https://www.ft.com/content/2caa52e1-637a-4934-802e-418b649b4c12?syn-25a6b1a6=1",
+      "category": "Law Enforcement",
+      "filterTags": [
+        "AI"
+      ],
+      "publishedAt": "2026-10-13T04:00:19+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Law Enforcement"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Policy"
+        }
+      ]
+    },
+    {
+      "slug": "will-accenture-survive-or-thrive-in-the-age-of-ai",
+      "title": "Will Accenture survive or thrive in the age of AI?",
+      "dek": "The technology consultancy seeks to calm jitters with an investor day this week",
+      "aiSummary": "The technology consultancy Accenture is holding an investor day this week to address concerns about its future. The event aims to reassure stakeholders regarding the company's ability to navigate the challenges and opportunities presented by the rise of artificial intelligence.",
+      "articleUrl": "https://www.ft.com/content/15ae6a2e-6010-4d78-a752-2eeeca1e1c55?syn-25a6b1a6=1",
+      "category": "Consulting",
+      "filterTags": [
+        "Accenture",
+        "AI",
+        "Investor Day"
+      ],
+      "publishedAt": "2026-10-13T04:00:10+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consulting"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Business Strategy"
+        }
+      ]
+    },
+    {
+      "slug": "threat-of-ai-share-crash-puts-world-financial-stability-at-risk-says-imf",
+      "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
+      "dek": "High valuations and debt put sector in danger, while fund also warns on government borrowing and cyber-attacks The threat of an AI share price crash rippling out across global markets is putting world financial stability at risk, the International Monetary fund has warned. In its",
+      "aiSummary": "The International Monetary Fund has issued a warning that a potential crash in AI share prices poses a significant risk to global financial stability. The report highlights that high valuations and debt levels within the sector are primary drivers of this danger, while also noting concerns regarding government borrowing and cyber-attacks.",
+      "articleUrl": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+      "category": "Finance",
+      "filterTags": [
+        "IMF",
+        "AI",
+        "Financial Stability",
+        "Cyber-attacks"
+      ],
+      "publishedAt": "2026-10-13T03:15:12+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Economics"
+        }
+      ]
+    },
+    {
+      "slug": "sk-hynix-softbank-shares-plunge-as-tech-stocks-in-asia-track-wall-street-chip-sell-off",
+      "title": "SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off",
+      "dek": "Asian technology stocks tumbled Tuesday as a sell-off in U.S. semiconductor shares spilled into regional markets.",
+      "aiSummary": "Asian technology stocks experienced a significant decline on Tuesday due to a sell-off in U.S. semiconductor shares. This market movement caused shares of SK Hynix and SoftBank to plunge as regional markets tracked the Wall Street trend.",
+      "articleUrl": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
+      "category": "Markets",
+      "filterTags": [
+        "SK Hynix",
+        "SoftBank",
+        "semiconductors",
+        "Wall Street"
+      ],
+      "publishedAt": "2026-10-13T02:49:17+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Markets"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-8923d3f93a54f0651abe51ad3f07320c7fb28413",
+      "title": "trunk/8923d3f93a54f0651abe51ad3f07320c7fb28413",
+      "dek": "[pytorch][aten] isfinite: stop reporting NaN as finite for Float8_e8m…",
+      "aiSummary": "PyTorch’s ATen library has updated the isfinite function so that NaN values are no longer treated as finite for the Float8_e8m data type. This change corrects the previous behavior where NaNs were incorrectly reported as finite.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F8923d3f93a54f0651abe51ad3f07320c7fb28413",
+      "category": "Machine Learning",
+      "filterTags": [
+        "PyTorch",
+        "ATen",
+        "isfinite",
+        "Float8_e8m"
+      ],
+      "publishedAt": "2026-10-13T02:27:36+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "b11579",
+      "title": "b11579",
+      "dek": "ci : build OpenVINO releases with GGML_NATIVE=OFF and CPU backend var…",
+      "aiSummary": "The CI pipeline is set to build OpenVINO releases with the GGML_NATIVE option turned off and a CPU backend variable configured.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11579",
+      "category": "Software Development",
+      "filterTags": [
+        "OpenVINO",
+        "GGML_NATIVE",
+        "CPU backend",
+        "CI"
+      ],
+      "publishedAt": "2026-10-13T02:22:05+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "b11578",
+      "title": "b11578",
+      "dek": "ci: fix OpenVINO download links ( #30401 )",
+      "aiSummary": "The commit addresses an issue with OpenVINO download links within the CI pipeline. This change is associated with pull request #30401.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11578",
+      "category": "DevOps",
+      "filterTags": [
+        "OpenVINO",
+        "CI"
+      ],
+      "publishedAt": "2026-10-13T02:20:04+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "imf-warns-global-economy-could-soon-test-the-limits-of-resilience",
+      "title": "IMF warns global economy ‘could soon test the limits of resilience’",
+      "dek": "World Economic Outlook says states’ oil stocks are low and budgets are overstretched, as it upgrades UK GDP growth forecast for 2026 Developing nations face triple shock, UN warns The global economy “could soon test the limits of resilience”, as emergency oil stocks run low and g",
+      "aiSummary": "The IMF warns that the global economy may soon reach its limits of resilience, citing low emergency oil stocks and strained budgets. The World Economic Outlook also raised the UK’s GDP growth forecast for 2026. Developing countries are facing a triple shock, according to the UN.",
+      "articleUrl": "https://www.theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026",
+      "category": "Economics",
+      "filterTags": [
+        "IMF",
+        "World Economic Outlook",
+        "UK",
+        "UN"
+      ],
+      "publishedAt": "2026-10-13T02:00:11+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Economics"
+        },
+        {
+          "name": "Energy"
+        },
+        {
+          "name": "International Development"
+        }
+      ]
+    },
+    {
+      "slug": "bumble-shares-soar-after-report-dating-firm-in-1bn-takeover-talks",
+      "title": "Bumble shares soar after report dating firm in $1bn takeover talks",
+      "dek": "The jump pushed Bumble's stock market valuation to more than $580m but that is still far below their peak of more than $14bn.",
+      "aiSummary": "Bumble shares surged after reports indicated the dating firm is in talks for a $1 billion takeover. This increase raised the company's market valuation to over $580 million, although this figure remains significantly lower than its previous peak of more than $14 billion.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
+      "category": "Business",
+      "filterTags": [
+        "Bumble"
+      ],
+      "publishedAt": "2026-10-13T01:50:47+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Business"
+        },
+        {
+          "name": "Mergers & Acquisitions"
+        }
+      ]
+    },
+    {
+      "slug": "nasa-s-perseverance-rover-sets-a-mars-driving-record",
+      "title": "NASA’s Perseverance Rover Sets a Mars Driving Record",
+      "dek": "Advances in self-driving technology have made it easier to traverse distant worlds.",
+      "aiSummary": "The Perseverance rover set a new driving record on Mars, showcasing the progress of autonomous navigation. This achievement highlights how advances in self‑driving technology are making it easier to explore distant worlds.",
+      "articleUrl": "https://www.nytimes.com/2026/10/12/science/mars-rover-sets-record.html",
+      "category": "Space Exploration",
+      "filterTags": [
+        "NASA",
+        "Perseverance",
+        "Mars rover",
+        "self-driving technology"
+      ],
+      "publishedAt": "2026-10-13T01:20:10+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Space Exploration"
+        },
+        {
+          "name": "Autonomous Vehicles"
+        },
+        {
+          "name": "Robotics"
+        }
+      ]
+    },
+    {
+      "slug": "v1-13-0-dev41",
+      "title": "v1.13.0.dev41",
+      "dek": "Langflow nightly v1.13.0.dev41",
+      "aiSummary": "Langflow has released a new nightly development build identified as version 1.13.0.dev41. This update represents the latest iteration of the software's development cycle.",
+      "articleUrl": "https://github.com/langflow-ai/langflow/releases/tag/v1.13.0.dev41",
+      "category": "Open Source",
+      "filterTags": [
+        "Langflow"
+      ],
+      "publishedAt": "2026-10-13T00:44:37+00:00",
+      "publisher": {
+        "name": "langflow-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langflow-ai/langflow",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "openai-decisions-api-what-it-is-and-how-to-use-it",
+      "title": "OpenAI Decisions API: What it is and how to use it?",
+      "dek": "Imagine building an AI agent that has to decide whether a customer complaint needs human intervention, which department should handle a query, or whether a submitted delivery photo is valid. Getting these decisions right matters. A false positive can trigger an unnecessary escala",
+      "aiSummary": "The OpenAI Decisions API is designed to help AI agents make specific judgments, such as determining if a customer complaint requires human intervention or if a delivery photo is valid. Accurate decision-making is critical to avoid false positives that could lead to unnecessary escalations.",
+      "articleUrl": "https://www.analyticsvidhya.com/blog/2026/10/openai-decisions-api/",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "Decisions API",
+        "AI agents"
+      ],
+      "publishedAt": "2026-10-13T00:39:00+00:00",
+      "publisher": {
+        "name": "Analytics Vidhya",
+        "domain": "analyticsvidhya.com",
+        "website": "https://www.analyticsvidhya.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=analyticsvidhya.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=analyticsvidhya.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "APIs"
+        }
+      ]
+    },
+    {
+      "slug": "zimacube-2-review-a-tinkerer-s-nas-at-a-good-price-point",
+      "title": "Zimacube 2 review: A tinkerer's NAS, at a good price point",
+      "dek": "The ZimaCube 2 is a six-bay NAS with no software lock-in. At $799, the Standard model suits tinkerers, though the company's Thunderbolt connection claims aren't accurate. ZimaCube 2 review Once upon a time, I had a spare PowerMac 6500. Maybe it was a Performa —  that specific is ",
+      "aiSummary": "The ZimaCube 2 is a six-bay Network Attached Storage device priced at $799 that appeals to tinkerers due to its lack of software lock-in. However, the review notes that the company's claims regarding its Thunderbolt connection capabilities are not accurate.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/13/zimacube-2-review-a-tinkerers-nas-at-a-good-price-point?utm_source=rss",
+      "category": "Hardware",
+      "filterTags": [
+        "ZimaCube 2",
+        "NAS",
+        "Thunderbolt"
+      ],
+      "publishedAt": "2026-10-13T00:06:34+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Networking"
+        }
+      ]
+    },
+    {
+      "slug": "david-pocock-concerned-senior-albanese-adviser-vetted-bipartisan-ai-letter-that-was-sent-to-pm",
+      "title": "David Pocock concerned senior Albanese adviser ‘vetted’ bipartisan AI letter that was sent to PM",
+      "dek": "Committee chair rejects criticism that letter was ‘pre-determined’ by the government Follow our Australia politics live blog for latest updates Get our  new political email ,  free app  or  daily news podcast Anthony Albanese’s office signed off on language in a bipartisan letter",
+      "aiSummary": "David Pocock has expressed concern that a senior adviser to Prime Minister Anthony Albanese reviewed and approved the language of a bipartisan letter regarding AI before it was sent. The committee chair has rejected claims that the letter's content was predetermined by the government.",
+      "articleUrl": "https://www.theguardian.com/technology/2026/oct/13/senior-albanese-adviser-vetted-bipartisan-ai-letter-politics-ntwnfb",
+      "category": "Politics",
+      "filterTags": [
+        "David Pocock",
+        "Anthony Albanese",
+        "AI"
+      ],
+      "publishedAt": "2026-10-13T00:03:19+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "web-edit-0-1a0",
+      "title": "web-edit 0.1a0",
+      "dek": "Release:   web-edit 0.1a0 \n I was working on a project from my phone using Codex Remote when I found myself wanting to edit a credentials file without round-tripping those credentials through the LLM itself. \n So... I had Codex and GPT-6 Astra Extra High build this Python web app",
+      "aiSummary": "The developer created a Python web application to edit credential files directly from a mobile device without exposing sensitive data to an LLM. The tool was built using Codex and GPT-6 Astra Extra High during a remote work session.",
+      "articleUrl": "https://simonwillison.net/2026/Oct/12/web-edit/",
+      "category": "Developer Tools",
+      "filterTags": [
+        "web-edit",
+        "Python",
+        "Codex",
+        "GPT-6 Astra Extra High"
+      ],
+      "publishedAt": "2026-10-12T15:54:36+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Developer Tools"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    }
+  ]
+}
