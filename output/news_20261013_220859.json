@@ -1,0 +1,1725 @@
+{
+  "news": [
+    {
+      "slug": "b11603",
+      "title": "b11603",
+      "dek": "vulkan: Optimize pool_2d when the pooling window is large ( #30119 ) \n When the window is larger than a subgroup, use a whole subgroup to \ncompute each output. \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/55607759 \n \n",
+      "aiSummary": "This update optimizes the pool_2d function in the Vulkan backend of llama.cpp. When the pooling window exceeds the size of a subgroup, the implementation now uses an entire subgroup to compute each output.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11603",
+      "category": "AI",
+      "filterTags": [
+        "Vulkan",
+        "llama.cpp",
+        "pool_2d",
+        "subgroup"
+      ],
+      "publishedAt": "2026-10-13T22:04:54+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Performance Optimization"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "v0-40-4",
+      "title": "v0.40.4",
+      "dek": "What's Changed \n \n llama: update llama.cpp to b11521 for decision models and EmbeddingGemma 2 by  @jmorganca  in  #18917 \n server: reuse verified manifests and loaded models in inference routes by  @dhiltgen  in  #18947 \n mlx: compact restored recurrent state after speculative ro",
+      "aiSummary": "The v0.40.4 release updates llama.cpp to build b11521 to support decision models and EmbeddingGemma 2. It also introduces server-side optimizations to reuse verified manifests and loaded models in inference routes, along with MLX improvements for compacting restored recurrent state.",
+      "articleUrl": "https://github.com/ollama/ollama/releases/tag/v0.40.4-rc2",
+      "category": "AI",
+      "filterTags": [
+        "llama.cpp",
+        "EmbeddingGemma 2",
+        "MLX",
+        "inference"
+      ],
+      "publishedAt": "2026-10-13T22:03:22+00:00",
+      "publisher": {
+        "name": "ollama",
+        "domain": "github.com",
+        "website": "https://github.com/ollama/ollama",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "b11602",
+      "title": "b11602",
+      "dek": "meta: recreate all subgraphs when the arena is reallocated ( #30453 ) \n \n \n meta: recreate all subgraphs when the arena is reallocated \n \n \n chore: revert added test cases \n \n \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestati",
+      "aiSummary": "This update to the llama.cpp project addresses memory management by recreating all subgraphs whenever the arena is reallocated. The change includes a revert of previously added test cases and is associated with pull request #30453.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11602",
+      "category": "Open Source",
+      "filterTags": [
+        "llama.cpp",
+        "ggml",
+        "C++",
+        "Memory Management"
+      ],
+      "publishedAt": "2026-10-13T21:50:47+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "AI Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "v1-13-0",
+      "title": "v1.13.0",
+      "dek": "fix(release): restore published Microsoft bundle metadata",
+      "aiSummary": "The v1.13.0 release includes a fix that restores the published Microsoft bundle metadata. This update addresses a specific issue related to the release process.",
+      "articleUrl": "https://github.com/langflow-ai/langflow/releases/tag/v1.13.0",
+      "category": "Software Development",
+      "filterTags": [
+        "Microsoft",
+        "v1.13.0"
+      ],
+      "publishedAt": "2026-10-13T21:45:35+00:00",
+      "publisher": {
+        "name": "langflow-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langflow-ai/langflow",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Release Management"
+        }
+      ]
+    },
+    {
+      "slug": "vista-equity-ceo-smith-on-growth-of-ai-agentic-software",
+      "title": "Vista Equity CEO Smith on Growth of AI, Agentic Software",
+      "dek": "Robert F. Smith, Vista Equity Partners founder, chairman and CEO, talks about the growth of artificial intelligence, agentic software and the importance of learning how to use an AI agent. He speaks to Dani Burger at CAIS in Beverly Hills, California.  (Source: Bloomberg)",
+      "aiSummary": "Robert F. Smith, the founder and CEO of Vista Equity Partners, discusses the rapid growth of artificial intelligence and agentic software. He emphasizes the critical importance of learning how to utilize AI agents during a conversation with Dani Burger at CAIS in Beverly Hills.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-13/vista-s-smith-on-growth-of-ai-agentic-software-video",
+      "category": "AI",
+      "filterTags": [
+        "Vista Equity Partners",
+        "Robert F. Smith",
+        "AI",
+        "Agentic Software",
+        "Bloomberg"
+      ],
+      "publishedAt": "2026-10-13T21:45:21+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Venture Capital"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "fbi-arrests-saudi-openai-employee-who-allegedly-planted-recording-device-in-conference-room",
+      "title": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
+      "dek": "The Tuesday incident comes as the ChatGPT-maker, along with competitors, faces heightened scrutiny over its safety practices.",
+      "aiSummary": "The FBI arrested a Saudi national working for OpenAI on Tuesday for allegedly placing a recording device in a conference room. This incident occurs while OpenAI and its competitors are under increased scrutiny regarding their safety protocols.",
+      "articleUrl": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
+      "category": "AI",
+      "filterTags": [
+        "FBI",
+        "OpenAI",
+        "ChatGPT"
+      ],
+      "publishedAt": "2026-10-13T21:44:46+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Corporate Governance"
+        }
+      ]
+    },
+    {
+      "slug": "apple-homeview-accessories-will-expand-what-is-possible-with-the-home-hub",
+      "title": "Apple HomeView accessories will expand what is possible with the home hub",
+      "dek": "Choosing USB-C connections for both the audio base and wall-mounted Apple  HomeView  means accessory makers will be able to make bespoke products that transform the 7-inch tablet. Apple HomeView will gain new features thanks to third-party accessories If you were excited for a po",
+      "aiSummary": "Apple HomeView accessories will utilize USB-C connections for both the audio base and wall-mounted unit, enabling third-party manufacturers to create bespoke products. These accessories are expected to transform the 7-inch tablet and introduce new features to the home hub.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/13/apple-homeview-accessories-will-expand-what-is-possible-with-the-home-hub?utm_source=rss",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Apple",
+        "HomeView",
+        "USB-C",
+        "accessories"
+      ],
+      "publishedAt": "2026-10-13T21:38:03+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Smart Home"
+        }
+      ]
+    },
+    {
+      "slug": "b11601",
+      "title": "b11601",
+      "dek": "hexagon: add configurable HTP DCVS/HMX power mode ( #30423 ) \n \n \n hexagon: add configurable HTP DCVS/HMX power mode \n \n \n hexagon: address PR review feedback (drop CLI flag, align QAIRT power modes, comment/log cleanup) \n \n \n hexagon: add --hex-power-mode flag to run.py \n \n \n Ho",
+      "aiSummary": "The update introduces a configurable power mode for Hexagon HTP DCVS and HMX, addressing previous pull request review feedback by removing a CLI flag and aligning QAIRT power modes. Additionally, a --hex-power-mode flag has been added to the run.py script to facilitate this configuration.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11601",
+      "category": "Hardware",
+      "filterTags": [
+        "Hexagon",
+        "HTP",
+        "HMX",
+        "DCVS",
+        "QAIRT",
+        "run.py"
+      ],
+      "publishedAt": "2026-10-13T21:33:39+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Embedded Systems"
+        },
+        {
+          "name": "Performance Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "applied-materials-ceo-on-doubling-revenue-thanks-to-ai",
+      "title": "Applied Materials CEO on Doubling Revenue Thanks To AI",
+      "dek": "Applied Materials CEO Gary Dickerson says he expects revenue to double over the next few years. He notes that Applied Materials had opened a $5 billion research and development center in Silicon Valley to speed development of next-generation chips. He speaks with Ed Ludlow on \"Th",
+      "aiSummary": "Applied Materials CEO Gary Dickerson projects that the company's revenue will double in the coming years due to demand for AI. To support this growth, the company has opened a $5 billion research and development center in Silicon Valley to accelerate the development of next-generation chips.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-13/applied-materials-ceo-on-doubling-revenue-thanks-to-ai-video",
+      "category": "Semiconductors",
+      "filterTags": [
+        "Applied Materials",
+        "Gary Dickerson",
+        "AI",
+        "Silicon Valley",
+        "Chips"
+      ],
+      "publishedAt": "2026-10-13T21:32:08+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Corporate Strategy"
+        }
+      ]
+    },
+    {
+      "slug": "f-b-i-arrests-openai-employee-accused-of-planting-bug-in-office",
+      "title": "F.B.I. Arrests OpenAI Employee Accused of Planting Bug in Office",
+      "dek": "OpenAI said that the employee had placed a device built to evade detection and that he had planned to secretly record meetings in other sensitive spaces.",
+      "aiSummary": "OpenAI confirmed that the arrested employee installed a covert device designed to avoid detection. The employee allegedly intended to use it to secretly record meetings in other sensitive areas.",
+      "articleUrl": "https://www.nytimes.com/2026/10/13/technology/openai-worker-arrested-bugging.html",
+      "category": "Security",
+      "filterTags": [
+        "OpenAI",
+        "FBI",
+        "bug",
+        "covert device"
+      ],
+      "publishedAt": "2026-10-13T21:31:17+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Privacy"
+        }
+      ]
+    },
+    {
+      "slug": "v0-40-0",
+      "title": "v0.40.0",
+      "dek": "What's Changed \n \n [Server.py] Update CSP to allow  blob:  and  data:  by  @S0yKaf  in  #15565 \n Add comfy_attention and AttentionTensorContainer support to rest of models by  @comfyanonymous  in  #16806 \n Implement the asset export API locally (CORE-454) by  @jtydhr88  in  #1657",
+      "aiSummary": "The v0.40.0 release includes an update to the Content Security Policy in Server.py to permit blob: and data: sources. It also adds support for comfy_attention and AttentionTensorContainer to the remaining models and implements the asset export API locally.",
+      "articleUrl": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.40.0",
+      "category": "Open Source",
+      "filterTags": [
+        "ComfyUI",
+        "Server.py",
+        "CSP",
+        "comfy_attention",
+        "AttentionTensorContainer"
+      ],
+      "publishedAt": "2026-10-13T21:29:16+00:00",
+      "publisher": {
+        "name": "comfyanonymous",
+        "domain": "github.com",
+        "website": "https://github.com/comfyanonymous/ComfyUI",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "heterogeneity-in-ai-pathways-from-inference-to-compound-systems-dissertation",
+      "title": "Heterogeneity in AI: Pathways from Inference to Compound Systems (Dissertation)",
+      "dek": "A dissertation exploring the evolution of AI from basic inference to complex compound systems.",
+      "aiSummary": "The provided text consists only of a title indicating a dissertation on heterogeneity in AI. It suggests a focus on the progression from inference tasks to compound systems, but no further details are available in the snippet.",
+      "articleUrl": "https://doi.org/10.26153/tsw/64881",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Inference",
+        "Compound Systems"
+      ],
+      "publishedAt": "2026-10-13T21:24:52+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Research"
+        }
+      ]
+    },
+    {
+      "slug": "judge-says-musk-engaged-in-intimidation-of-ex-fema-cfo-mary-comans-clears-her-name",
+      "title": "Judge says Musk engaged in intimidation of ex-FEMA CFO Mary Comans, clears her name",
+      "dek": "Ex-FEMA CFO Mary Comans' name was cleared by a federal judge after Elon Musk and other government officials falsely accused her of criminal actions in 2025.",
+      "aiSummary": "A federal judge cleared former FEMA chief Mary Comans of wrongdoing after Elon Musk and other officials falsely accused her of criminal actions in 2025. The judge determined that Musk had intimidated her. The ruling restored Comans' reputation.",
+      "articleUrl": "https://www.cnbc.com/2026/10/13/judge-says-elon-musk-engaged-intimidation-of-ex-fema-cfo-mary-comans.html",
+      "category": "Legal",
+      "filterTags": [
+        "Elon Musk",
+        "FEMA"
+      ],
+      "publishedAt": "2026-10-13T21:15:32+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Government"
+        },
+        {
+          "name": "Public Administration"
+        }
+      ]
+    },
+    {
+      "slug": "psp-s-momei-qu-on-anthropic-s-pre-ipo-investor-day",
+      "title": "PSP’s Momei Qu on Anthropic’s Pre-IPO Investor Day",
+      "dek": "Ahead of Anthropic’s pre-IPO investor day, Momei Qu of PSP Growth says public-market investors may disagree over whether fast-growing AI companies deserve lower margins and heavy capital spending—or must prove stronger returns and profitability. Recent IPO setbacks, including a c",
+      "aiSummary": "Momei Qu of PSP Growth warned that public‑market investors may disagree on whether fast‑growing AI firms should accept lower margins and heavy capital spending or must demonstrate stronger returns. He noted recent IPO setbacks as a backdrop to the discussion.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-13/psp-s-momei-qu-on-anthropic-s-pre-ipo-investor-day-video",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Anthropic",
+        "PSP Growth",
+        "AI"
+      ],
+      "publishedAt": "2026-10-13T21:11:41+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Capital Markets"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-to-disclose-new-revenue-numbers-as-ai-lab-financials-become-central-to-tech-trade",
+      "title": "Anthropic to disclose new revenue numbers as AI lab financials become central to tech trade",
+      "dek": "Anthropic will release updated financials to a group of investors gathering at its headquarters this week, according to people familiar with the matter.",
+      "aiSummary": "Anthropic is set to disclose its latest financial results to investors at its headquarters this week. The move comes as attention to AI lab finances grows in the tech sector.",
+      "articleUrl": "https://www.cnbc.com/2026/10/13/anthropic-q3-financials-ipo.html",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Anthropic"
+      ],
+      "publishedAt": "2026-10-13T21:02:52+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Tech Industry"
+        }
+      ]
+    },
+    {
+      "slug": "surveys-on-ai-and-writing",
+      "title": "Surveys on AI and Writing",
+      "dek": "Studies examining the relationship between artificial intelligence and writing.",
+      "aiSummary": "The provided text contains only the title 'Surveys on AI and Writing' and no descriptive content. Consequently, no specific facts, findings, or details regarding the surveys can be extracted or summarized.",
+      "articleUrl": "https://news.ycombinator.com/item?id=50078659",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Writing"
+      ],
+      "publishedAt": "2026-10-13T20:59:31+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Research"
+        }
+      ]
+    },
+    {
+      "slug": "ai-in-your-oven-anthropic-warns-models-months-away-from-self-replication-on-smart-devices",
+      "title": "AI in your oven? Anthropic warns models ‘months away’ from self-replication on smart devices",
+      "dek": "Researchers say ‘AI worms’ could soon infiltrate internet-connected devices amid calls for increased guardrails Anthropic is warning that some of its artificial intelligence models could soon become “self-replicating” and find ways to infiltrate internet-connected devices, such a",
+      "aiSummary": "Anthropic researchers warn that their AI models are months away from achieving self-replication capabilities on internet-connected devices. This development raises concerns about 'AI worms' potentially infiltrating smart hardware, prompting calls for stronger safety guardrails.",
+      "articleUrl": "https://www.theguardian.com/technology/2026/oct/13/anthropic-ai-replicators-warning",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "AI",
+        "self-replication",
+        "smart devices",
+        "AI worms"
+      ],
+      "publishedAt": "2026-10-13T20:55:04+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "the-ai-curiosity-trap",
+      "title": "The AI Curiosity Trap",
+      "dek": "A warning about how curiosity can lead to pitfalls in AI.",
+      "aiSummary": "",
+      "articleUrl": "https://plpxsk.github.io/2026/10/13/curiosity-trap.html",
+      "category": "Artificial Intelligence",
+      "filterTags": [],
+      "publishedAt": "2026-10-13T20:47:04+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": []
+    },
+    {
+      "slug": "openai-employee-arrested-for-allegedly-planting-a-bug-in-a-conference-room",
+      "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+      "dek": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national. Alfozan is charged with using or endeavoring to use a device to ",
+      "aiSummary": "OpenAI announced that a sophisticated recording device was found in one of its offices and that engineer Abdulrahman Alfozan was arrested. The 35‑year‑old Saudi national faces charges related to the device.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+      "category": "Security",
+      "filterTags": [
+        "OpenAI",
+        "recording device",
+        "bug"
+      ],
+      "publishedAt": "2026-10-13T20:45:25+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Privacy"
+        }
+      ]
+    },
+    {
+      "slug": "judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case",
+      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+      "dek": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
+      "aiSummary": "A federal judge ordered OpenAI to hand over hiring records in a trade secrets lawsuit involving Apple. The ruling allows Apple to obtain interview materials that involve former Apple employees, along with private messages and testimony from key figures.",
+      "articleUrl": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+      "category": "Legal",
+      "filterTags": [
+        "OpenAI",
+        "Apple"
+      ],
+      "publishedAt": "2026-10-13T20:36:44+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Intellectual Property"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "ios-27-2-beta-4-apple-music-goes-black-and-white-apple-health-redesign-pulled",
+      "title": "iOS 27.2 beta 4: Apple Music goes black-and-white, Apple Health redesign pulled",
+      "dek": "While  iOS 27.2  beta 4 brought a new look for Apple Music and a reference to a new HomePod setting, it also curiously removed an upcoming Apple Health upgrade. Here's what you need to know. Apple's redesigned Health app is missing from the fourth beta of iOS 27.2. On Tuesday, sh",
+      "aiSummary": "iOS 27.2 beta 4 introduces a black-and-white visual style for Apple Music and includes a reference to a new HomePod setting. However, the update notably excludes a previously anticipated redesign of the Apple Health app.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/13/ios-272-beta-4-apple-music-goes-black-and-white-apple-health-redesign-pulled?utm_source=rss",
+      "category": "Mobile Software",
+      "filterTags": [
+        "iOS 27.2",
+        "Apple Music",
+        "Apple Health",
+        "HomePod",
+        "Apple"
+      ],
+      "publishedAt": "2026-10-13T20:12:11+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Mobile Software"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "building-agents-that-transact-with-anchor-browser-and-agentcore-payments",
+      "title": "Building agents that transact with Anchor Browser and AgentCore payments",
+      "dek": "Learn how the AWS Generative AI Innovation Center Partner Agent Factory and Anchor Browser built AI agents that autonomously pay for x402-protected web resources and APIs. Amazon Bedrock AgentCore payments checks budgets, signs transactions, and retries requests without exposing ",
+      "aiSummary": "The article explains how the AWS Generative AI Innovation Center Partner Agent Factory and Anchor Browser collaborated to build AI agents that autonomously pay for x402‑protected web resources and APIs. Amazon Bedrock AgentCore payments verifies budgets, signs transactions, and retries requests while keeping sensitive data hidden.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AWS",
+        "Amazon Bedrock",
+        "AgentCore",
+        "Anchor Browser",
+        "Agent Factory",
+        "x402"
+      ],
+      "publishedAt": "2026-10-13T20:10:33+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Payments"
+        },
+        {
+          "name": "Cloud Computing"
+        }
+      ]
+    },
+    {
+      "slug": "apple-tv-4k-gen-4-vs-gen-3-what-four-years-of-tech-advancement-gets-you",
+      "title": "Apple TV 4K Gen 4 vs Gen 3: What four years of tech advancement gets you",
+      "dek": "The fourth-generation  Apple TV 4K  is here, complete with Siri AI enhancements and Find My on the Siri Remote. Here's how much difference four years makes over the previous model. Apple TV 4K Gen 4 vs Apple TV 4K Gen 3 Before the October 13 update, Apple's last change to the App",
+      "aiSummary": "The fourth-generation Apple TV 4K has been released, featuring Siri AI enhancements and Find My integration on the Siri Remote. This update marks the first significant change to the device since October 13, highlighting the technological advancements made over the four years since the previous generation.",
+      "articleUrl": "https://appleinsider.com/inside/apple-tv-4k/vs/apple-tv-4k-gen-4-vs-gen-3-what-four-years-of-tech-advancement-gets-you?utm_source=rss",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Apple TV 4K",
+        "Siri",
+        "Find My",
+        "Siri Remote"
+      ],
+      "publishedAt": "2026-10-13T20:00:23+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Apple Ecosystem"
+        }
+      ]
+    },
+    {
+      "slug": "tech-life",
+      "title": "Tech Life",
+      "dek": "The plan for an orbiting data centre involves linking satellites around Earth.",
+      "aiSummary": "A proposal has been made to create a data center in orbit, using a network of satellites around Earth. The concept would link these satellites to form a distributed computing platform.",
+      "articleUrl": "https://www.bbc.co.uk/sounds/play/w3ct8jyk?at_medium=RSS&at_campaign=rss",
+      "category": "Space Technology",
+      "filterTags": [
+        "Orbiting Data Center",
+        "Satellites",
+        "Distributed Computing"
+      ],
+      "publishedAt": "2026-10-13T19:45:00+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Space Technology"
+        },
+        {
+          "name": "Data Centers"
+        },
+        {
+          "name": "Distributed Computing"
+        }
+      ]
+    },
+    {
+      "slug": "developing-gemini-4-argon-responsibly-and-safely",
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "dek": "Creating Gemini 4 Argon in a responsible and safe way.",
+      "aiSummary": "The article covers the responsible and safe development of Gemini 4 Argon. It emphasizes best practices and safety protocols.",
+      "articleUrl": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+      "category": "AI",
+      "filterTags": [],
+      "publishedAt": "2026-10-13T19:43:07+00:00",
+      "publisher": {
+        "name": "Google DeepMind",
+        "domain": "deepmind.google",
+        "website": "https://deepmind.google/",
+        "logoUrl": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/icons/google_deepmind_2x_96dp.png",
+        "faviconUrl": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/icons/google_deepmind_2x_96dp.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Safety"
+        }
+      ]
+    },
+    {
+      "slug": "shopify-opens-its-catalog-up-to-more-ai-agents",
+      "title": "Shopify opens its catalog up to more AI agents",
+      "dek": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their behalf, giving more agents acces",
+      "aiSummary": "Shopify announced that shoppers can configure AI agents to browse and purchase from its listings. This expands the company's agentic commerce strategy. The change will enable more AI agents to access Shopify's catalog.",
+      "articleUrl": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+      "category": "E-commerce",
+      "filterTags": [
+        "Shopify",
+        "AI agents"
+      ],
+      "publishedAt": "2026-10-13T19:42:42+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "E-commerce"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Commerce Technology"
+        }
+      ]
+    },
+    {
+      "slug": "openai-and-anthropic-tell-british-lawmakers-regulate-us",
+      "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
+      "dek": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to create new bioweapons.",
+      "aiSummary": "OpenAI and Anthropic representatives appeared before a UK parliamentary session alongside whistleblowers and security experts, urging lawmakers to regulate AI. Meanwhile, the British intelligence chief cautioned that AI could facilitate the development of new bioweapons.",
+      "articleUrl": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "Anthropic",
+        "AI"
+      ],
+      "publishedAt": "2026-10-13T19:35:29+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Policy"
+        }
+      ]
+    },
+    {
+      "slug": "xbox-is-officially-embracing-the-chaos-of-ai-powered-game-ports",
+      "title": "Xbox is officially embracing the chaos of AI-powered game ports",
+      "dek": "Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different games into a single new experience. Microsoft has witnessed skateboarding being modded",
+      "aiSummary": "Retro gaming is experiencing a surge in activity driven by decompilations and recompilations that allow players to port classic titles to new devices or merge code from different games. Microsoft has observed these community-driven modifications, such as skateboarding games being modded, as part of this broader trend.",
+      "articleUrl": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
+      "category": "Gaming",
+      "filterTags": [
+        "Xbox",
+        "Microsoft",
+        "AI",
+        "Retro Gaming",
+        "Decompilation",
+        "Recompilation"
+      ],
+      "publishedAt": "2026-10-13T19:00:48+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads",
+      "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+      "dek": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
+      "aiSummary": "Flox Intelligence is developing edge devices that detect wildlife and emit species‑specific sounds to repel them from critical infrastructure such as trains, airports, and roads. The system uses AI to identify animals and then plays tailored deterrent sounds to keep them away.",
+      "articleUrl": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Flox Intelligence",
+        "edge devices",
+        "AI",
+        "species-specific sounds"
+      ],
+      "publishedAt": "2026-10-13T18:30:00+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Wildlife Conservation"
+        },
+        {
+          "name": "Infrastructure Safety"
+        },
+        {
+          "name": "Edge Computing"
+        }
+      ]
+    },
+    {
+      "slug": "your-agent-doesn-t-need-more-freedom",
+      "title": "Your Agent Doesn't Need More Freedom",
+      "dek": "Agents got good. The hard part now is everything around them. \n The post  Your Agent Doesn't Need More Freedom  appeared first on  Towards Data Science .",
+      "aiSummary": "The article argues that while AI agents have become proficient, the primary challenge now lies in the infrastructure and environment surrounding them rather than the agents themselves. It suggests that the focus should shift from granting agents more freedom to improving the systems that support them.",
+      "articleUrl": "https://towardsdatascience.com/your-agent-doesnt-need-more-freedom/",
+      "category": "AI",
+      "filterTags": [
+        "AI Agents",
+        "Towards Data Science"
+      ],
+      "publishedAt": "2026-10-13T18:28:09+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "disney-offers-20m-for-character-ai-s-scandal-plagued-chatbot-tech",
+      "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
+      "dek": "Disney may acquire tech from one of the first chatbot makers linked to child suicide.",
+      "aiSummary": "Disney is considering purchasing technology from Character.AI, a chatbot company that has faced controversy. The company has been linked to a child suicide incident. Disney's offer is reportedly $20 million.",
+      "articleUrl": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Disney",
+        "Character.AI",
+        "chatbot"
+      ],
+      "publishedAt": "2026-10-13T18:23:33+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Mergers & Acquisitions"
+        },
+        {
+          "name": "AI Ethics"
+        }
+      ]
+    },
+    {
+      "slug": "facebook-is-giving-users-more-control-over-their-algorithm",
+      "title": "Facebook is giving users more control over their algorithm",
+      "dek": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
+      "aiSummary": "Meta has introduced a new AI-powered feature called “Your Algorithm” to Facebook. This tool, which was previously launched on Instagram, aims to give users greater control over their algorithmic feed.",
+      "articleUrl": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+      "category": "Social Media",
+      "filterTags": [
+        "Meta",
+        "Facebook",
+        "Instagram",
+        "AI",
+        "Algorithm"
+      ],
+      "publishedAt": "2026-10-13T18:05:24+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Social Media"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "User Experience"
+        }
+      ]
+    },
+    {
+      "slug": "github-s-model-for-secret-detection-finding-more-secrets-with-less-noise",
+      "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
+      "dek": "GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. \n The post  GitHub’s model for secret detection: Finding more secrets with less noise  appeared first on  The GitHub Blog .",
+      "aiSummary": "GitHub's new context-aware secret classifier improves detection quality, raising weighted acceptance by 11.5% and reducing median scan execution time by 86%. The upgrade helps developers locate more secrets with less noise and speeds up scanning processes.",
+      "articleUrl": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
+      "category": "Security",
+      "filterTags": [
+        "GitHub",
+        "secret detection",
+        "context-aware classifier"
+      ],
+      "publishedAt": "2026-10-13T17:56:33+00:00",
+      "publisher": {
+        "name": "GitHub Blog",
+        "domain": "github.blog",
+        "website": "https://github.blog",
+        "logoUrl": "https://github.blog/wp-content/uploads/2019/01/cropped-github-favicon-512.png?fit=180%2C180",
+        "faviconUrl": "https://github.githubassets.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1791928250",
+      "title": "viable/strict/1791928250",
+      "dek": "[CI] Remove unused EC2 runner labels and arc.yaml runner_mapping ( #20 …",
+      "aiSummary": "This Continuous Integration (CI) update focuses on removing obsolete configurations. Specifically, it targets the removal of unused EC2 runner labels and the associated `runner_mapping` within the `arc.yaml` file.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1791928250",
+      "category": "DevOps",
+      "filterTags": [
+        "EC2",
+        "CI",
+        "arc.yaml"
+      ],
+      "publishedAt": "2026-10-13T17:55:08+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Continuous Integration"
+        }
+      ]
+    },
+    {
+      "slug": "apple-introduces-homeview-a-299-tablet-for-the-home",
+      "title": "Apple Introduces HomeView, a $299 Tablet for the Home",
+      "dek": "Apple unveiled the device as it continues its foray into artificial intelligence and tries to prove it can still innovate.",
+      "aiSummary": "Apple has unveiled the HomeView, a $299 tablet intended for home environments. The launch is part of the company's ongoing efforts to expand into artificial intelligence and demonstrate its continued capacity for innovation.",
+      "articleUrl": "https://www.nytimes.com/2026/10/13/technology/apple-homeview-tablet.html",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Apple",
+        "HomeView",
+        "Tablet",
+        "Artificial Intelligence"
+      ],
+      "publishedAt": "2026-10-13T17:23:29+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "manage-private-pricing-offers-for-amazon-bedrock-with-managed-entitlements",
+      "title": "Manage private pricing offers for Amazon Bedrock with managed entitlements",
+      "dek": "Managing AI model access across dozens or hundreds of AWS accounts creates friction when each account must accept AWS Marketplace Private Pricing Offers individually. This post shows two ways to activate MPPO entitlements in AWS License Manager: a lightweight script for a one-tim",
+      "aiSummary": "Managing AI model access across numerous AWS accounts is difficult when each must individually accept AWS Marketplace Private Pricing Offers. This article demonstrates two methods for activating these entitlements via AWS License Manager, including a lightweight script for one-time setup.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/manage-private-pricing-offers-for-amazon-bedrock-with-managed-entitlements/",
+      "category": "Cloud Computing",
+      "filterTags": [
+        "Amazon Bedrock",
+        "AWS Marketplace",
+        "AWS License Manager",
+        "MPPO"
+      ],
+      "publishedAt": "2026-10-13T17:17:25+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "run-fast-private-agents-on-device-with-lfm2-5-24b-a2b",
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "dek": "Execute quick, confidential AI agents locally using the LFM2.5-24B-A2B model.",
+      "aiSummary": "The LFM2.5-24B-A2B model is designed to run fast and private agents directly on-device. This approach allows for local execution of AI tasks without relying on external servers.",
+      "articleUrl": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "category": "AI",
+      "filterTags": [
+        "LFM2.5-24B-A2B",
+        "On-device AI",
+        "Agents"
+      ],
+      "publishedAt": "2026-10-13T17:05:48+00:00",
+      "publisher": {
+        "name": "Hugging Face",
+        "domain": "huggingface.co",
+        "website": "https://huggingface.co/",
+        "logoUrl": "https://huggingface.co/front/thumbnails/v2-2.png",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Edge Computing"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1791926670",
+      "title": "viable/strict/1791926670",
+      "dek": "Fix stream race in test_nested_current_device_stream_observation_unde…",
+      "aiSummary": "The article reports a fix for a race condition in the test_nested_current_device_stream_observation_unde test. The patch resolves concurrency issues in the stream handling logic.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1791926670",
+      "category": "Software Development",
+      "filterTags": [
+        "stream",
+        "race condition",
+        "test"
+      ],
+      "publishedAt": "2026-10-13T17:00:54+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Testing"
+        },
+        {
+          "name": "Concurrency"
+        }
+      ]
+    },
+    {
+      "slug": "google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store",
+      "title": "Google wants to host your personal vibe-coded apps in the Play Store",
+      "dek": "Google plans to help turn those personal AI-generated apps into wide releases.",
+      "aiSummary": "Google is planning a new initiative to support the distribution of personal applications generated by AI. The company aims to facilitate the transition of these 'vibe-coded' apps from personal use to wide public release through the Play Store.",
+      "articleUrl": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/",
+      "category": "AI",
+      "filterTags": [
+        "Google",
+        "Play Store",
+        "AI-generated apps",
+        "vibe-coded"
+      ],
+      "publishedAt": "2026-10-13T17:00:39+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Mobile Development"
+        },
+        {
+          "name": "App Distribution"
+        }
+      ]
+    },
+    {
+      "slug": "google-lets-you-make-personal-android-apps-for-free-now-with-just-prompts",
+      "title": "Google lets you make personal Android apps for free now – with just prompts",
+      "dek": "It just got a whole lot easier to vibe code the exact Android app you need – no developer experience required.",
+      "aiSummary": "Google has introduced a new feature that allows users to create personal Android apps for free using prompts. The tool simplifies app development, eliminating the need for developer experience.",
+      "articleUrl": "https://www.zdnet.com/tech/custom-android-apps-google-ai-studio/",
+      "category": "Software Development",
+      "filterTags": [
+        "Google",
+        "Android",
+        "No-code"
+      ],
+      "publishedAt": "2026-10-13T17:00:00+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Mobile"
+        },
+        {
+          "name": "No-code"
+        }
+      ]
+    },
+    {
+      "slug": "tai-226-the-ai-model-race-needs-better-tests",
+      "title": "TAI #226: The AI Model Race Needs Better Tests",
+      "dek": "Also, Meta’s Muse Wonder, Claude Haiku 5.5, OpenAI’s Ultrafast tier, Mistral Large 4, Reflection Beam, and new rivals to Jev.",
+      "aiSummary": "The article lists several new AI models that have entered the market, including Meta’s Muse Wonder, Claude Haiku 5.5, OpenAI’s Ultrafast tier, Mistral Large 4, and Reflection Beam, as well as emerging competitors to Jev. These models represent a growing diversity in AI capabilities and highlight the need for improved testing standards. The discussion underscores the rapid pace of innovation in the AI model race.",
+      "articleUrl": "https://newsletter.towardsai.net/p/tai-226-the-ai-model-race-needs-better",
+      "category": "AI",
+      "filterTags": [
+        "Meta",
+        "Muse Wonder",
+        "Claude Haiku 5.5",
+        "OpenAI",
+        "Ultrafast tier",
+        "Mistral Large 4",
+        "Reflection Beam",
+        "Jev"
+      ],
+      "publishedAt": "2026-10-13T16:45:39+00:00",
+      "publisher": {
+        "name": "Towards AI",
+        "domain": "newsletter.towardsai.net",
+        "website": "https://newsletter.towardsai.net/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=newsletter.towardsai.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=newsletter.towardsai.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Innovation"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1791924755-ci-distribtued-install-nccl4py-in-distributed-ci-configs-195904",
+      "title": "viable/strict/1791924755: [CI] [Distribtued] Install nccl4py in distributed CI configs  (#195904)",
+      "dek": "Summary \n Installs nccl4py into the distributed builds so CI for  NCCL4PyBackend  and  TokenSwitch  as well as other distributed functionalities that depend on it runs. \n The version is currently a manual pin, looking for suggestions to automate that. \nPull Request resolved:  #19",
+      "aiSummary": "This pull request installs the nccl4py package into distributed CI configurations to enable testing for NCCL4PyBackend and TokenSwitch. The version is currently manually pinned, with a note seeking suggestions for automating this process.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1791924755",
+      "category": "DevOps",
+      "filterTags": [
+        "nccl4py",
+        "CI",
+        "NCCL4PyBackend",
+        "TokenSwitch"
+      ],
+      "publishedAt": "2026-10-13T16:35:49+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Distributed Systems"
+        }
+      ]
+    },
+    {
+      "slug": "why-your-sandbox-never-quite-matches-production-and-why-that-s-fine",
+      "title": "Why Your Sandbox Never Quite Matches Production (And Why That's Fine)",
+      "dek": "Sandbox testing works best when you stop chasing production parity. Learn what environment drift actually costs and which parts are worth fixing.",
+      "aiSummary": "Sandbox testing is most effective when you accept that the sandbox won't match production exactly. The article explains the costs of environment drift and identifies which differences are worth addressing.",
+      "articleUrl": "https://stackoverflow.blog/2026/10/13/why-your-sandbox-never-quite-matches-production-and-why-that-s-fine/",
+      "category": "Testing",
+      "filterTags": [
+        "sandbox testing",
+        "environment drift",
+        "production parity"
+      ],
+      "publishedAt": "2026-10-13T16:35:35+00:00",
+      "publisher": {
+        "name": "Stack Overflow Blog",
+        "domain": "stackoverflow.blog",
+        "website": "https://stackoverflow.blog",
+        "logoUrl": "https://stackoverflow.blog/apple-touch-icon.png",
+        "faviconUrl": "https://stackoverflow.blog/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Testing"
+        },
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "apple-unveils-new-smart-home-devices-that-showcase-upgraded-siri-ai",
+      "title": "Apple unveils new smart home devices that showcase upgraded Siri AI",
+      "dek": "New products from Apple include the HomeView, an iPad-like device that acts as a hub for other smart home gadgets Apple on Tuesday began showing off a ⁠new round of smart home products, including an iPad-like device dubbed the HomeView, meant to hang on walls or perch on tabletop",
+      "aiSummary": "Apple showcased new smart home products on Tuesday, including the HomeView, an iPad-like hub that can be mounted on walls or placed on tables. The HomeView serves as a central hub for other smart home devices.",
+      "articleUrl": "https://www.theguardian.com/technology/2026/oct/13/apple-new-smart-home-device-ai",
+      "category": "Hardware",
+      "filterTags": [
+        "Apple",
+        "HomeView",
+        "Siri",
+        "iPad"
+      ],
+      "publishedAt": "2026-10-13T16:25:22+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Smart Home"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "building-resilient-ai-powered-software-and-planning-for-when-things-go-wrong",
+      "title": "Building resilient AI-powered software, and planning for when things go wrong",
+      "dek": "How to handle uncertainty with AI vendors and disaster recovery (DR) approaches to consider. An excerpt from the book Building Resilient Distributed Systems by Sam Newman",
+      "aiSummary": "This excerpt from Sam Newman's book 'Building Resilient Distributed Systems' discusses strategies for managing uncertainty when working with AI vendors. It also outlines disaster recovery approaches to ensure software resilience when systems fail.",
+      "articleUrl": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Disaster Recovery",
+        "Sam Newman",
+        "Distributed Systems"
+      ],
+      "publishedAt": "2026-10-13T16:03:33+00:00",
+      "publisher": {
+        "name": "Pragmatic Engineer",
+        "domain": "newsletter.pragmaticengineer.com",
+        "website": "https://newsletter.pragmaticengineer.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=newsletter.pragmaticengineer.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=newsletter.pragmaticengineer.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Resilience"
+        }
+      ]
+    },
+    {
+      "slug": "natural-language-security-queries-at-orca-security-using-amazon-bedrock",
+      "title": "Natural language security queries at Orca Security using Amazon Bedrock",
+      "dek": "Orca Security built Discovery AI, a natural language query agent on Amazon Bedrock that converts plain-English questions into Sonar queries. The post shares the multi-stage architecture and the results: 90% lower query cost, 93% fewer input tokens, and 75% lower latency than the ",
+      "aiSummary": "Orca Security developed Discovery AI, a natural language query agent built on Amazon Bedrock that translates plain-English questions into Sonar queries. The system utilizes a multi-stage architecture to achieve significant efficiency gains, including a 90% reduction in query costs, 93% fewer input tokens, and 75% lower latency.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/natural-language-security-queries-at-orca-security-using-amazon-bedrock/",
+      "category": "Security",
+      "filterTags": [
+        "Orca Security",
+        "Amazon Bedrock",
+        "Discovery AI",
+        "Sonar",
+        "Natural Language Processing"
+      ],
+      "publishedAt": "2026-10-13T16:03:31+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "gemini-4-argon-for-robotics",
+      "title": "Gemini 4 Argon for Robotics",
+      "dek": "Gemini 4 Argon is a robotics product",
+      "aiSummary": "",
+      "articleUrl": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "category": "Robotics",
+      "filterTags": [
+        "Gemini 4",
+        "Argon"
+      ],
+      "publishedAt": "2026-10-13T16:01:58+00:00",
+      "publisher": {
+        "name": "Google DeepMind",
+        "domain": "deepmind.google",
+        "website": "https://deepmind.google/",
+        "logoUrl": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/icons/google_deepmind_2x_96dp.png",
+        "faviconUrl": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/icons/google_deepmind_2x_96dp.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Robotics"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "gemini-4-argon-built-to-solve-your-hardest-problems",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "dek": "Gemini 4 Argon is a new system designed to tackle very difficult issues.",
+      "aiSummary": "The title introduces Gemini 4 Argon. It positions this offering as a tool specifically developed to address highly complex challenges.",
+      "articleUrl": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "category": "AI",
+      "filterTags": [
+        "Gemini 4 Argon"
+      ],
+      "publishedAt": "2026-10-13T16:01:52+00:00",
+      "publisher": {
+        "name": "Google DeepMind",
+        "domain": "deepmind.google",
+        "website": "https://deepmind.google/",
+        "logoUrl": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/icons/google_deepmind_2x_96dp.png",
+        "faviconUrl": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/icons/google_deepmind_2x_96dp.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay",
+      "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
+      "dek": "Developers will get 50 percent discounted API rates through November.",
+      "aiSummary": "Google has started rolling out the Gemini 4 Argon model to the Gemini app and Antigravity, restricting access to paying users. Additionally, developers can access API rates at a 50 percent discount through November.",
+      "articleUrl": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/",
+      "category": "AI",
+      "filterTags": [
+        "Gemini 4 Argon",
+        "Gemini app",
+        "Antigravity",
+        "API"
+      ],
+      "publishedAt": "2026-10-13T16:00:02+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Services"
+        }
+      ]
+    },
+    {
+      "slug": "apple-s-smart-home-event-all-7-devices-prices-and-release-dates",
+      "title": "Apple’s smart home event: All 7 devices, prices, and release dates",
+      "dek": "Apple’s “Welcome Home” event featured all the new smart home hardware coming to the Apple lineup.",
+      "aiSummary": "Apple’s Welcome Home event showcased all of its new smart home hardware. The event highlighted the devices that will join the Apple lineup.",
+      "articleUrl": "https://www.zdnet.com/uncategorized/apple-smart-home-event-homeview-homepod-mini-new-apple-tv/",
+      "category": "Hardware",
+      "filterTags": [
+        "Apple",
+        "Welcome Home",
+        "smart home"
+      ],
+      "publishedAt": "2026-10-13T15:37:27+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Smart Home"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    }
+  ]
+}
