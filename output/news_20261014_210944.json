@@ -1,0 +1,1591 @@
+{
+  "news": [
+    {
+      "slug": "veda-an-ai-native-operating-system-built-from-the-ground-up",
+      "title": "Veda – An AI-Native Operating System Built from the Ground Up",
+      "dek": "Veda is a new operating system designed specifically for artificial intelligence.",
+      "aiSummary": "The article introduces Veda, an operating system that is described as AI-native and built from the ground up. No further details regarding its features, architecture, or development team are provided in the text.",
+      "articleUrl": "https://github.com/vahmoh25/Veda/commit/4ff28a2a4530799f72117057c428a4eed3392bb4",
+      "category": "AI",
+      "filterTags": [
+        "Veda",
+        "Operating System",
+        "AI"
+      ],
+      "publishedAt": "2026-10-14T20:53:20+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software"
+        }
+      ]
+    },
+    {
+      "slug": "apple-to-release-ai-platform-in-mainland-china",
+      "title": "Apple to Release AI Platform in Mainland China",
+      "dek": "Apple is planning to launch Apple Intelligence in mainland China in December. This is a huge market for the company. Bloomberg's Mark Gurman broke the news and has more on \"Bloomberg The Close.\" (Source: Bloomberg)",
+      "aiSummary": "Apple intends to release Apple Intelligence in mainland China in December. This launch targets a significant market for the company, as reported by Bloomberg's Mark Gurman.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-14/apple-to-release-ai-platform-in-mainland-china-video",
+      "category": "AI",
+      "filterTags": [
+        "Apple",
+        "Apple Intelligence",
+        "Bloomberg",
+        "Mark Gurman"
+      ],
+      "publishedAt": "2026-10-14T20:50:55+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "coreweave-shares-tumble-as-bond-yields-near-15-on-concern-about-ai-borrowing-binge",
+      "title": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge",
+      "dek": "Shares of CoreWeave sank 15%, while yields in its bonds blew out further.",
+      "aiSummary": "CoreWeave shares fell by 15% as bond yields approached 15%, driven by market concerns regarding the company's aggressive borrowing for AI infrastructure. The rising cost of debt has negatively impacted investor sentiment toward the firm.",
+      "articleUrl": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html",
+      "category": "AI",
+      "filterTags": [
+        "CoreWeave",
+        "AI",
+        "Bond Yields"
+      ],
+      "publishedAt": "2026-10-14T20:46:32+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "us-chip-stocks-slide-as-inflation-and-ai-debt-fears-unsettle-investors",
+      "title": "US chip stocks slide as inflation and AI debt fears unsettle investors",
+      "dek": "Investors rush into Treasuries as sell-off triggers demand for haven assets",
+      "aiSummary": "US chip stocks experienced a decline as investors grew concerned about inflation and the debt associated with artificial intelligence. This sell-off prompted a rush into US Treasuries as investors sought safe haven assets.",
+      "articleUrl": "https://www.ft.com/content/fb258413-e88d-47fe-98c8-f645adaea1e1?syn-25a6b1a6=1",
+      "category": "Semiconductors",
+      "filterTags": [
+        "US chip stocks",
+        "inflation",
+        "AI debt",
+        "Treasuries"
+      ],
+      "publishedAt": "2026-10-14T20:36:40+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "lab-in-the-loop-at-compute-speed-ian-quigley-leash-bio",
+      "title": "Lab-in-the-Loop at Compute Speed — Ian Quigley, Leash Bio",
+      "dek": "How Leash Bio tamed DELs, the assay that traumatizes everyone, and used the data to catch cheating models. And why that same data is perfect for AI agents learning to think like chemists.",
+      "aiSummary": "Leash Bio describes their approach to handling Directed Evolution Library (DEL) assays, a complex process often considered difficult to manage. They utilized this data to identify inaccuracies in machine learning models and to train AI agents to emulate the reasoning capabilities of chemists.",
+      "articleUrl": "https://www.latent.space/p/lab-in-the-loop-at-compute-speed",
+      "category": "AI",
+      "filterTags": [
+        "Leash Bio",
+        "DEL",
+        "AI agents",
+        "cheminformatics"
+      ],
+      "publishedAt": "2026-10-14T20:35:09+00:00",
+      "publisher": {
+        "name": "Latent Space",
+        "domain": "latent.space",
+        "website": "https://www.latent.space/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Biotechnology"
+        },
+        {
+          "name": "Data Science"
+        }
+      ]
+    },
+    {
+      "slug": "openai-accuses-employee-who-left-for-apple-of-leaking-plans-for-unreleased-device",
+      "title": "OpenAI accuses employee who left for Apple of leaking plans for unreleased device",
+      "dek": "Hours before Apple and the ChatGPT maker were due to face off in court, a new allegation delayed the showdown  An ⁠ OpenAI  employee who left the  ChatGPT  maker for  Apple  sent more than 100 files about an unreleased product to a personal ⁠account and later ⁠made a presentation",
+      "aiSummary": "OpenAI has accused a former employee who recently joined Apple of leaking over 100 files related to an unreleased product to a personal account. This new allegation caused a delay in the scheduled court proceedings between the two companies.",
+      "articleUrl": "https://www.theguardian.com/technology/2026/oct/14/openai-apple-employee-leak-lawsuit",
+      "category": "Legal",
+      "filterTags": [
+        "OpenAI",
+        "Apple",
+        "ChatGPT"
+      ],
+      "publishedAt": "2026-10-14T20:31:15+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Corporate"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "eight-states-accuse-openai-of-coaching-children-to-harm-themselves-in-lawsuit",
+      "title": "Eight states accuse OpenAI of coaching children to harm themselves in lawsuit",
+      "dek": "US states sue ChatGPT maker and seek to force the company to change how its products work for young users  Eight US states sued OpenAI Wednesday, alleging the ChatGPT maker is harming children en masse. Kansas, Arizona, Montana and five others alleged the company’s products coaxe",
+      "aiSummary": "Eight US states, including Kansas, Arizona, and Montana, have sued OpenAI, alleging that its products harm children by coaching them to hurt themselves. The lawsuit seeks to compel the company to modify how its services function for young users.",
+      "articleUrl": "https://www.theguardian.com/technology/2026/oct/14/openai-child-self-harm-lawsuit",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "ChatGPT",
+        "Lawsuit",
+        "Child Safety"
+      ],
+      "publishedAt": "2026-10-14T20:26:30+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Regulation"
+        }
+      ]
+    },
+    {
+      "slug": "anduril-employee-tender-offer-would-value-the-defense-tech-startup-at-90-billion",
+      "title": "Anduril employee tender offer would value the defense tech startup at $90 billion",
+      "dek": "Anduril has been a major winner of the growing U.S. defense tech boom and President Donald Trump's plans to reindustrialize the U.S. military",
+      "aiSummary": "Anduril is facing a tender offer for its employees that would value the defense technology startup at $90 billion. The company has been a significant beneficiary of the expanding U.S. defense tech sector and President Donald Trump's initiatives to reindustrialize the U.S. military.",
+      "articleUrl": "https://www.cnbc.com/2026/10/14/anduril-tender-offer-valuation.html",
+      "category": "Defense",
+      "filterTags": [
+        "Anduril",
+        "Defense Tech",
+        "Donald Trump"
+      ],
+      "publishedAt": "2026-10-14T20:24:13+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Defense"
+        },
+        {
+          "name": "Startups"
+        },
+        {
+          "name": "Government Policy"
+        }
+      ]
+    },
+    {
+      "slug": "the-ai-labor-apocalypse-is-on-hold-for-now",
+      "title": "The AI labor apocalypse is on hold (for now)",
+      "dek": "The predicted AI-driven job crisis has been paused for the time being.",
+      "aiSummary": "",
+      "articleUrl": "https://english.elpais.com/economy-and-business/2026-10-11/the-ai-labor-apocalypse-is-on-hold-for-now.html",
+      "category": "Artificial Intelligence",
+      "filterTags": [],
+      "publishedAt": "2026-10-14T20:23:12+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": []
+    },
+    {
+      "slug": "apple-intelligence-finally-gets-a-release-window-for-its-debut-in-china",
+      "title": "Apple Intelligence finally gets a release window for its debut in China",
+      "dek": "Apple will bring its 2024  Apple Intelligence  features to China as soon as December if a new rumor is correct. It is expected as a part of the iOS 27.3 release. Apple's older version of Apple Intelligence will finally arrive in China Apple has  been working  to get Apple Intelli",
+      "aiSummary": "Apple is expected to release its 2024 Apple Intelligence features in China as early as December. This rollout is anticipated to coincide with the release of iOS 27.3.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/14/apple-intelligence-finally-gets-a-release-window-for-its-debut-in-china?utm_source=rss",
+      "category": "AI",
+      "filterTags": [
+        "Apple",
+        "Apple Intelligence",
+        "iOS 27.3",
+        "China"
+      ],
+      "publishedAt": "2026-10-14T20:21:12+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "apple-homeview-hands-on-so-many-questions-but-i-like-it",
+      "title": "Apple HomeView hands on: So many questions, but I like it",
+      "dek": "At Apple's NYC experience, I got an early look at  HomeView , its new smart home display. I still have unanswered questions but my early take is that I like it. A lot. HomeView with the customizable home modular face that be outfitted with different widgets or home accessories Mo",
+      "aiSummary": "The author received an early look at Apple's new smart home display, HomeView, at an event in New York City. While there are still unanswered questions about the device, the reviewer's initial impression is positive, noting that they like the product a lot.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/14/apple-homeview-hands-on-so-many-questions-but-i-like-it?utm_source=rss",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Apple",
+        "HomeView",
+        "smart home"
+      ],
+      "publishedAt": "2026-10-14T20:20:07+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Smart Home"
+        }
+      ]
+    },
+    {
+      "slug": "dell-stock-plunges-11-leading-data-center-sell-off-as-fears-mount-about-enterprise-ai-timing",
+      "title": "Dell stock plunges 11%, leading data center sell-off as fears mount about 'enterprise AI timing'",
+      "dek": "Barclays downgraded Dell, HPE, and NetApp on concerns that enterprise AI adoption is lagging.",
+      "aiSummary": "Dell stock fell by 11%, leading a sell-off in data center equities driven by concerns over the timing of enterprise AI adoption. Barclays downgraded Dell, HPE, and NetApp, citing fears that corporate adoption of AI is lagging behind expectations.",
+      "articleUrl": "https://www.cnbc.com/2026/10/14/dell-stock-barclays-enterprise-ai.html",
+      "category": "Technology",
+      "filterTags": [
+        "Dell",
+        "HPE",
+        "NetApp",
+        "Barclays",
+        "Data Center",
+        "Enterprise AI"
+      ],
+      "publishedAt": "2026-10-14T20:19:25+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "making-3d-model-with-meta-oakley-ai-glasses-and-digital-tape-measure-video",
+      "title": "Making 3D Model with Meta Oakley AI Glasses and Digital Tape Measure [video]",
+      "dek": "Creating a 3D model using Meta Oakley AI glasses and a digital tape measure",
+      "aiSummary": "The video demonstrates how to build a 3D model by using Meta Oakley AI glasses along with a digital tape measure. It shows the process of capturing measurements with the glasses and converting them into a digital model.",
+      "articleUrl": "https://www.youtube.com/shorts/g2mN4-uiW58",
+      "category": "Hardware",
+      "filterTags": [
+        "Meta",
+        "Oakley",
+        "AI Glasses",
+        "Digital Tape Measure"
+      ],
+      "publishedAt": "2026-10-14T20:14:35+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Augmented Reality"
+        },
+        {
+          "name": "3D Modeling"
+        }
+      ]
+    },
+    {
+      "slug": "b11624",
+      "title": "b11624",
+      "dek": "ggml : improve RPC tensor transfer logs ( #30481 ) \n \n add rpc_log_format_size() and print byte counts in KiB/MiB/GiB across the \nRPC client, server and transport traces \n add rpc_log_format_tensor() and include tensor name, op, type and shape in \nthe set/get/memset/copy/init ten",
+      "aiSummary": "The update enhances RPC tensor transfer logs by adding functions to format size and tensor details. It now prints byte counts in human-readable units like KiB and MiB across client, server, and transport traces, while also including tensor names, operations, types, and shapes in logs.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11624",
+      "category": "Machine Learning",
+      "filterTags": [
+        "ggml",
+        "RPC",
+        "tensor",
+        "logging"
+      ],
+      "publishedAt": "2026-10-14T20:13:15+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "openai-claims-employee-sent-secret-device-information-to-apple",
+      "title": "OpenAI claims employee sent secret device information to Apple",
+      "dek": "Tech companies face off in court as ChatGPT maker prepares to unveil AI device designed by Sir Jony Ive",
+      "aiSummary": "OpenAI alleges that an employee shared confidential device information with Apple, sparking a legal dispute. The case comes as the company gears up to launch an AI-powered device co-designed with Sir Jony Ive. The lawsuit highlights tensions between the two tech giants over proprietary technology.",
+      "articleUrl": "https://www.ft.com/content/18b65495-9e2a-45d6-be85-7641442ab61a?syn-25a6b1a6=1",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "Apple",
+        "ChatGPT",
+        "AI device",
+        "Sir Jony Ive"
+      ],
+      "publishedAt": "2026-10-14T20:07:06+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "github-availability-report-september-2026",
+      "title": "GitHub availability report: September 2026",
+      "dek": "In September, we experienced two incidents that resulted in degraded performance across GitHub services.   \n The post  GitHub availability report: September 2026  appeared first on  The GitHub Blog .",
+      "aiSummary": "In September, GitHub experienced two incidents that caused degraded performance across its services. These incidents impacted the overall availability of GitHub. The report outlines the incidents and their effect on service performance.",
+      "articleUrl": "https://github.blog/news-insights/company-news/github-availability-report-september-2026/",
+      "category": "Software Development",
+      "filterTags": [
+        "GitHub"
+      ],
+      "publishedAt": "2026-10-14T20:01:35+00:00",
+      "publisher": {
+        "name": "GitHub Blog",
+        "domain": "github.blog",
+        "website": "https://github.blog",
+        "logoUrl": "https://github.blog/wp-content/uploads/2019/01/cropped-github-favicon-512.png?fit=180%2C180",
+        "faviconUrl": "https://github.githubassets.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "Reliability"
+        }
+      ]
+    },
+    {
+      "slug": "iphone-18-pro-demand-takes-apple-to-a-5-trillion-market-valuation",
+      "title": "iPhone 18 Pro demand takes Apple to a $5 trillion market valuation",
+      "dek": "Apple has briefly touched the $5 trillion valuation mark before, but its seemingly unstoppable rise has now taken it back up there again on the back of strong  iPhone  demand. Apple stocks closed at a new record high Back in October 2025, Apple closed at over $4 trillion for the ",
+      "aiSummary": "Apple has once again reached a $5 trillion market cap thanks to strong demand for the iPhone 18 Pro. The company’s stock closed at a record high, and in October 2025 its valuation was over $4 trillion.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/14/iphone-18-pro-demand-takes-apple-to-a-5-trillion-market-valuation?utm_source=rss",
+      "category": "Technology",
+      "filterTags": [
+        "Apple",
+        "iPhone 18 Pro"
+      ],
+      "publishedAt": "2026-10-14T20:01:19+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "b11623",
+      "title": "b11623",
+      "dek": "cuda : use SIMT implicit GEMM conv2d on AMD without WMMA ( #30325 ) \n \n cuda : use SIMT implicit GEMM conv2d on AMD without WMMA \n \n Assisted-by: Claude Opus \n \n \n cuda : update conv2d SIMT comment \n \n \n cuda : skip SIMT conv2d on AMD for short reductions \n \n \n Co-authored-by: th",
+      "aiSummary": "The article discusses updates to the CUDA conv2d implementation on AMD GPUs, specifically using SIMT implicit GEMM without WMMA. It includes changes to skip SIMT conv2d for short reductions and updates to comments. The work was assisted by Claude Opus and co-authored by th.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11623",
+      "category": "GPU Computing",
+      "filterTags": [
+        "CUDA",
+        "SIMT",
+        "GEMM",
+        "conv2d",
+        "AMD",
+        "WMMA"
+      ],
+      "publishedAt": "2026-10-14T19:54:20+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "GPU Computing"
+        },
+        {
+          "name": "Deep Learning"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "nuclear-startup-kairos-raises-643-million-for-tennessee-project",
+      "title": "Nuclear Startup Kairos Raises $643 Million for Tennessee Project",
+      "dek": "Kairos Power LLC, a nuclear-energy startup, lined up $643 million in private and government funding to support construction of its demonstration reactor in Tennessee.",
+      "aiSummary": "Kairos Power LLC has secured $643 million in combined private and government funding. This capital will support the construction of its demonstration nuclear reactor located in Tennessee.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-14/nuclear-startup-kairos-raises-643-million-for-tennessee-project",
+      "category": "Energy",
+      "filterTags": [
+        "Kairos Power",
+        "Nuclear Energy",
+        "Tennessee"
+      ],
+      "publishedAt": "2026-10-14T19:53:46+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Energy"
+        },
+        {
+          "name": "Nuclear"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "apple-prepares-to-debut-first-ai-features-in-china-in-december",
+      "title": "Apple Prepares to Debut First AI Features in China in December",
+      "dek": "Apple Inc. is gearing up to release its artificial intelligence platform in mainland China, following a lengthy regulatory delay that has kept the company’s AI features out of one of its most important markets.",
+      "aiSummary": "Apple Inc. is preparing to release its artificial intelligence platform in mainland China. The launch has been delayed by regulatory hurdles, keeping the company’s AI features out of a key market. The upcoming release will bring AI capabilities to China.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-14/apple-prepares-to-debut-first-ai-features-in-china-in-december",
+      "category": "Technology",
+      "filterTags": [
+        "Apple",
+        "Artificial Intelligence",
+        "China",
+        "Regulatory Delay"
+      ],
+      "publishedAt": "2026-10-14T19:50:37+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "v0-40-5",
+      "title": "v0.40.5",
+      "dek": "What's Changed \n \n mlx: port the Metal custom kernels to CUDA by  @dhiltgen  in  #18657 \n docs: model recs and language standardization by  @anra8571  in  #18981 \n openai: accept custom tool calls in Responses history by  @hoyyeva  in  #18911 \n app: clarify cloud payment errors b",
+      "aiSummary": "The v0.40.5 release includes a port of Metal custom kernels to CUDA for the mlx module. It also features documentation updates for model recommendations and language standardization, as well as support for custom tool calls in OpenAI Responses history.",
+      "articleUrl": "https://github.com/ollama/ollama/releases/tag/v0.40.5-rc0",
+      "category": "Machine Learning",
+      "filterTags": [
+        "mlx",
+        "Metal",
+        "CUDA",
+        "OpenAI",
+        "Responses API"
+      ],
+      "publishedAt": "2026-10-14T19:45:22+00:00",
+      "publisher": {
+        "name": "ollama",
+        "domain": "github.com",
+        "website": "https://github.com/ollama/ollama",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Developer Tools"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "b11622",
+      "title": "b11622",
+      "dek": "jinja : write floats in tojson as Python does ( #30362 ) \n tojson printed floats through a C++ stream (6 significant digits, no \n\".0\"), so 48.858844 became 48.8588 and 1.0 became 1 in tool definitions, \ntool-call arguments and other template output. Write the shortest digits \ntha",
+      "aiSummary": "The Jinja library previously output floating-point numbers with only six significant digits and omitted trailing zeros, causing values like 48.858844 to appear as 48.8588. This update modifies the tojson function to write floats using Python's standard formatting, ensuring accurate representation in tool definitions and template outputs.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11622",
+      "category": "Open Source",
+      "filterTags": [
+        "Jinja",
+        "Python",
+        "tojson"
+      ],
+      "publishedAt": "2026-10-14T19:35:53+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "slug": "openai-s-london-staff-receive-average-of-2-3m-per-person-annually",
+      "title": "OpenAI’s London staff receive average of £2.3m per person annually",
+      "dek": "Accounts for the Westminster-based company behind ChatGPT show that 110 staff shared £87m in salaries and £168m in shares last year OpenAI’s London staff each received £2,318,181 on average last year, as the ChatGPT-maker poured Premier League football salaries into its bid to do",
+      "aiSummary": "OpenAI, the Westminster-based company behind ChatGPT, paid its 110 London employees a combined £87 million in salaries and £168 million in shares last year, giving each employee an average annual compensation of £2.318 million. The company reportedly used salaries comparable to Premier League football wages to attract talent.",
+      "articleUrl": "https://www.theguardian.com/technology/2026/oct/14/openai-london-staff-earnings-2million-per-person",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "OpenAI",
+        "ChatGPT"
+      ],
+      "publishedAt": "2026-10-14T19:15:14+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Business"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "from-2-500-requests-to-24-rebuilding-star-history-without-the-stargazers",
+      "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
+      "dek": "Our new repo star history API now provides trends without returning individual identities or requiring unbounded database work. These are the engineering tradeoffs we made. \n The post  From 2,500 requests to 24: Rebuilding star history without the stargazers  appeared first on  T",
+      "aiSummary": "The article explains that the new repository star history API delivers trend data without exposing individual stargazers or performing extensive database queries. It highlights the engineering tradeoffs involved in achieving this efficiency.",
+      "articleUrl": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/",
+      "category": "Software Engineering",
+      "filterTags": [
+        "API",
+        "database",
+        "stargazers"
+      ],
+      "publishedAt": "2026-10-14T19:11:33+00:00",
+      "publisher": {
+        "name": "GitHub Blog",
+        "domain": "github.blog",
+        "website": "https://github.blog",
+        "logoUrl": "https://github.blog/wp-content/uploads/2019/01/cropped-github-favicon-512.png?fit=180%2C180",
+        "faviconUrl": "https://github.githubassets.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Data Management"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-296101d35a7ab06f3cc8a4c3ec70f4bb020d5a9e-caffe2-use-thread-local-cache-for-n-bit-embedding-bags-200898",
+      "title": "trunk/296101d35a7ab06f3cc8a4c3ec70f4bb020d5a9e: [caffe2] Use thread-local cache for N-bit embedding bags (#200898)",
+      "dek": "Summary: Opts the quantized CPU embedding-bag implementation into FBGEMM's thread-local dense and row-wise-sparse N-bit kernel caches, removing global cache lock contention from the production lookup path while retaining compatibility with older FBGEMM versions. \n Test Plan: All ",
+      "aiSummary": "The Caffe2 project has updated its quantized CPU embedding-bag implementation to utilize FBGEMM's thread-local dense and row-wise-sparse N-bit kernel caches. This change eliminates global cache lock contention in the production lookup path while maintaining compatibility with older FBGEMM versions.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F296101d35a7ab06f3cc8a4c3ec70f4bb020d5a9e",
+      "category": "Machine Learning",
+      "filterTags": [
+        "Caffe2",
+        "FBGEMM",
+        "N-bit embedding bags",
+        "thread-local cache"
+      ],
+      "publishedAt": "2026-10-14T19:08:39+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Performance Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "the-ai-race-is-back-on",
+      "title": "The AI race is back on",
+      "dek": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, h",
+      "aiSummary": "Anthropic and OpenAI have advanced their models, leaving competitors behind. Google lags behind, and Meta has invested billions to revive its AI efforts.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Anthropic",
+        "OpenAI",
+        "Google",
+        "Meta"
+      ],
+      "publishedAt": "2026-10-14T19:06:03+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "now-that-character-ai-is-going-bankrupt-what-happens-to-all-of-its-users-8217-data",
+      "title": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
+      "dek": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding. James is among 40 bipartisan AGs who filed a notice of interest in Charact",
+      "aiSummary": "New York Attorney General Letitia James disclosed a multi‑state investigation into Character.AI and is pushing for consumer data protection in the company’s bankruptcy proceedings. She is one of 40 bipartisan AGs who filed a notice of interest in the case.",
+      "articleUrl": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+      "category": "Legal",
+      "filterTags": [
+        "Character.AI",
+        "bankruptcy",
+        "consumer data",
+        "Attorney General"
+      ],
+      "publishedAt": "2026-10-14T18:47:54+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Data Privacy"
+        },
+        {
+          "name": "Artificial Intelligence"
+        }
+      ]
+    },
+    {
+      "slug": "youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms",
+      "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+      "dek": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
+      "aiSummary": "YouTube Music is launching new labels to distinguish songs that are entirely or partially generated by AI. These labels will be displayed on the player page to indicate when AI was used in the composition or vocals.",
+      "articleUrl": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+      "category": "AI",
+      "filterTags": [
+        "YouTube Music",
+        "AI-generated music",
+        "streaming platforms"
+      ],
+      "publishedAt": "2026-10-14T18:23:46+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Entertainment"
+        }
+      ]
+    },
+    {
+      "slug": "youtube-sticks-new-labels-on-ai-generated-songs",
+      "title": "YouTube sticks new labels on AI-generated songs",
+      "dek": "YouTube is adding a \"Made with AI\" label to tracks that were \"altered or fully generated\" using AI, with a similar approach to its existing process for applying AI labels to videos. It doesn't sound like this will apply to any and all use of AI tools in making music, but accordin",
+      "aiSummary": "YouTube is adding a \"Made with AI\" label to tracks that were altered or fully generated using AI, mirroring its existing AI labeling for videos. The move may not cover all uses of AI tools in music production. The label helps identify AI involvement in song creation.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
+      "category": "AI",
+      "filterTags": [
+        "YouTube",
+        "AI",
+        "Made with AI"
+      ],
+      "publishedAt": "2026-10-14T18:22:56+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Music"
+        },
+        {
+          "name": "Social Media"
+        }
+      ]
+    },
+    {
+      "slug": "ai-came-for-math-now-it-s-chasing-the-rest-of-science",
+      "title": "AI Came for Math. Now It’s Chasing the Rest of Science",
+      "dek": "AI may soon be the default way to solve theoretical problems in economics, high-energy physics, and other fields, MIT researchers tell WIRED.",
+      "aiSummary": "MIT researchers indicate that AI is becoming the standard method for solving theoretical problems in fields such as economics and high-energy physics. This trend suggests a broader application of AI tools across various scientific domains.",
+      "articleUrl": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "MIT",
+        "economics",
+        "high-energy physics"
+      ],
+      "publishedAt": "2026-10-14T18:15:00+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Science"
+        }
+      ]
+    },
+    {
+      "slug": "apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence",
+      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+      "dek": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
+      "aiSummary": "Apate.ai employs AI agents to act undercover and intentionally get scammed, gathering fraud intelligence. This approach contrasts with typical uses of AI agents for speeding up product shipping or workflow efficiency.",
+      "articleUrl": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Apate.ai",
+        "AI agents"
+      ],
+      "publishedAt": "2026-10-14T18:00:00+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Business Process Automation"
+        }
+      ]
+    },
+    {
+      "slug": "langchain-1-4-6",
+      "title": "langchain==1.4.6",
+      "dek": "Changes since langchain==1.4.5 \n release(langchain): 1.4.6 ( #41247 ) \nfeat(langchain): add opt-in per-call interrupts to HITL middleware ( #41062 )",
+      "aiSummary": "LangChain has released version 1.4.6, which introduces an opt-in feature for per-call interrupts within its Human-in-the-Loop (HITL) middleware. This update follows version 1.4.5 and is associated with pull requests #41247 and #41062.",
+      "articleUrl": "https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D1.4.6",
+      "category": "AI",
+      "filterTags": [
+        "LangChain",
+        "HITL",
+        "middleware"
+      ],
+      "publishedAt": "2026-10-14T17:28:08+00:00",
+      "publisher": {
+        "name": "langchain-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langchain-ai/langchain",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "your-next-job-doesn-t-have-a-title-yet-emerging-role-skills-q-a-with-corey-hymel-of-andela",
+      "title": "Your next job doesn’t have a title yet: Emerging role skills Q&A with Corey Hymel of Andela",
+      "dek": "While the whispers say that everyone is becoming a generalist, that's not where headcount is going.",
+      "aiSummary": "Despite common belief that the workforce is shifting towards generalist roles, current hiring trends indicate a different direction. The article suggests that new, specialized positions are emerging, which may not yet have established titles.",
+      "articleUrl": "https://stackoverflow.blog/2026/10/14/your-next-job-doesn-t-have-a-title-yet-emerging-role-skills-q-and-a-with-corey-hymel-of-andela/",
+      "category": "Career Development",
+      "filterTags": [
+        "Andela"
+      ],
+      "publishedAt": "2026-10-14T17:12:00+00:00",
+      "publisher": {
+        "name": "Stack Overflow Blog",
+        "domain": "stackoverflow.blog",
+        "website": "https://stackoverflow.blog",
+        "logoUrl": "https://stackoverflow.blog/apple-touch-icon.png",
+        "faviconUrl": "https://stackoverflow.blog/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Career Development"
+        },
+        {
+          "name": "Workforce Trends"
+        }
+      ]
+    },
+    {
+      "slug": "researchers-use-ai-to-design-proteins-that-cut-up-other-proteins",
+      "title": "Researchers use AI to design proteins that cut up other proteins",
+      "dek": "AI design tools make proteins that break bonds that are stable for hundreds of years.",
+      "aiSummary": "Researchers have utilized AI design tools to engineer proteins capable of breaking chemical bonds that are typically stable for hundreds of years. These newly designed proteins function by cutting up other proteins.",
+      "articleUrl": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Protein Design",
+        "Bioengineering"
+      ],
+      "publishedAt": "2026-10-14T17:10:15+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Biotechnology"
+        }
+      ]
+    },
+    {
+      "slug": "uber-s-ai-infra-from-the-inside",
+      "title": "Uber’s AI infra, from the inside",
+      "dek": "Uber Distinguished Engineer Uday Kiran Medisetty shares how Uber builds internal developer tools, integrates AI agents into engineering workflows, and measures their impact on productivity.",
+      "aiSummary": "Uber's Distinguished Engineer Uday Kiran Medisetty explains how the company develops internal developer tools and incorporates AI agents into engineering workflows. He also discusses how Uber measures the productivity gains from these AI integrations.",
+      "articleUrl": "https://newsletter.pragmaticengineer.com/p/ubers-ai-infra-from-the-inside",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Uber",
+        "AI",
+        "internal developer tools",
+        "AI agents",
+        "engineering workflows"
+      ],
+      "publishedAt": "2026-10-14T17:06:56+00:00",
+      "publisher": {
+        "name": "Pragmatic Engineer",
+        "domain": "newsletter.pragmaticengineer.com",
+        "website": "https://newsletter.pragmaticengineer.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=newsletter.pragmaticengineer.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=newsletter.pragmaticengineer.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Productivity"
+        }
+      ]
+    },
+    {
+      "slug": "v1-107-0-dev-1",
+      "title": "v1.107.0-dev.1",
+      "dek": "Verify Docker Image Signature \n All LiteLLM Docker images are signed with  cosign . Every release is signed with the same key introduced in  commit  0112e53 . \n Verify using the pinned commit hash (recommended): \n A commit hash is cryptographically immutable, so this is the stron",
+      "aiSummary": "LiteLLM has released version 1.107.0-dev.1, which includes documentation on verifying Docker image signatures using cosign. The release notes recommend verifying signatures using a pinned commit hash to ensure cryptographic immutability and security.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.107.0-dev.1",
+      "category": "DevOps",
+      "filterTags": [
+        "LiteLLM",
+        "Docker",
+        "cosign"
+      ],
+      "publishedAt": "2026-10-14T17:02:35+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "recording-device-hidden-in-toilet-paper-found-in-top-secret-openai-meeting-room",
+      "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
+      "dek": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
+      "aiSummary": "The FBI has filed foreign spy charges against an OpenAI engineer, who could face up to five years in prison and a $250,000 fine. The investigation is ongoing.",
+      "articleUrl": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "FBI"
+      ],
+      "publishedAt": "2026-10-14T16:41:49+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Legal"
+        }
+      ]
+    },
+    {
+      "slug": "ai-is-mass-decompiling-games-that-s-both-awesome-and-scary",
+      "title": "AI is mass decompiling games. That's both awesome and scary.",
+      "dek": "AI is mass decompiling games. That's both awesome and scary. \nIndie game developer Popcar talks about the recent wave of AI-powered decompilation of existing games, enabling weird mashups between existing games, and producing a boom in game preservation projects to get old games ",
+      "aiSummary": "Indie developer Popcar discusses the recent surge in AI-powered decompilation of existing games. This technology allows for the creation of unusual mashups between different titles and is driving a significant increase in game preservation efforts for older software.",
+      "articleUrl": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "decompilation",
+        "game preservation",
+        "Popcar"
+      ],
+      "publishedAt": "2026-10-14T16:26:53+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "Software Preservation"
+        }
+      ]
+    },
+    {
+      "slug": "build-self-improving-document-processing-using-amazon-bedrock-agentcore",
+      "title": "Build self-improving document processing using Amazon Bedrock AgentCore",
+      "dek": "Learn how to build an agentic intelligent document processing (IDP) system using Amazon Bedrock AgentCore that classifies, extracts, validates, and learns from business documents with minimal human intervention, automatically handling new document formats without manual template ",
+      "aiSummary": "The article explains how to build an agentic IDP system with Amazon Bedrock AgentCore. It shows how the system can classify, extract, and validate business documents while learning from them, reducing the need for human input. The solution automatically adapts to new document formats without requiring manual templates.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Amazon Bedrock",
+        "AgentCore",
+        "Intelligent Document Processing",
+        "IDP"
+      ],
+      "publishedAt": "2026-10-14T16:24:07+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Automation"
+        },
+        {
+          "name": "Cloud Computing"
+        }
+      ]
+    },
+    {
+      "slug": "autogpt-platform-beta-v0-8-4",
+      "title": "autogpt-platform-beta-v0.8.4",
+      "dek": "🚀 Release  autogpt-platform-beta-v0.8.4 \n Date:  October 2026 \n \n 🔥 What's New? \n New Features \n \n #15089  - Run Copilot chat on a turn runtime that resumes at its cursor on one connection (by  @Pwuts ) \n #15199  - Expert integrations connect through MCP first (by  @0ubbe ) \n #15",
+      "aiSummary": "This announcement details the release of autogpt-platform-beta-v0.8.4, scheduled for October 2026. Key new features include the ability to run Copilot chat on a turn runtime that resumes its cursor on a single connection, and expert integrations now connecting through MCP first.",
+      "articleUrl": "https://github.com/Significant-Gravitas/AutoGPT/releases/tag/autogpt-platform-beta-v0.8.4",
+      "category": "Software Release",
+      "filterTags": [
+        "autogpt-platform",
+        "Copilot",
+        "MCP"
+      ],
+      "publishedAt": "2026-10-14T16:22:16+00:00",
+      "publisher": {
+        "name": "Significant-Gravitas",
+        "domain": "github.com",
+        "website": "https://github.com/Significant-Gravitas/AutoGPT",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Release"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Platform Development"
+        }
+      ]
+    },
+    {
+      "slug": "how-to-do-ai-well",
+      "title": "How to do AI well",
+      "dek": "Blended teams of humans and AI agents add an extra layer of complexity, and require careful management",
+      "aiSummary": "The article discusses how teams that combine humans and AI agents become more complex. It emphasizes that managing these blended teams demands careful planning and coordination.",
+      "articleUrl": "https://www.ft.com/content/71a46593-e922-428d-9e62-3827c5bfb8a8?syn-25a6b1a6=1",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AI agents",
+        "human-AI collaboration"
+      ],
+      "publishedAt": "2026-10-14T16:15:03+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Team Management"
+        },
+        {
+          "name": "Human-Computer Interaction"
+        }
+      ]
+    },
+    {
+      "slug": "research-2026-10-ways-we-re-amplifying-human-ingenuity",
+      "title": "Research@ 2026: 10 ways we're amplifying human ingenuity",
+      "dek": "General Science",
+      "aiSummary": "The provided text identifies the subject as 'General Science' and references a 2026 research initiative focused on amplifying human ingenuity. No specific details, methods, or findings are included in the snippet.",
+      "articleUrl": "https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity/",
+      "category": "Science",
+      "filterTags": [],
+      "publishedAt": "2026-10-14T16:14:34+00:00",
+      "publisher": {
+        "name": "Google Research",
+        "domain": "research.google",
+        "website": "https://research.google/",
+        "logoUrl": "https://www.gstatic.com/images/branding/googleg_gradient/1x/googleg_gradient_standard_20dp.png",
+        "faviconUrl": "https://www.gstatic.com/images/branding/googleg_gradient/1x/googleg_gradient_standard_20dp.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Science"
+        },
+        {
+          "name": "Research"
+        }
+      ]
+    },
+    {
+      "slug": "putting-earth-ai-to-work-geospatial-agents-for-our-planet-s-biggest-challenges",
+      "title": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges",
+      "dek": "Earth AI",
+      "aiSummary": "This initiative applies location-based AI to solve large-scale environmental problems.",
+      "articleUrl": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/",
+      "category": "AI",
+      "filterTags": [
+        "Earth AI",
+        "geospatial",
+        "AI"
+      ],
+      "publishedAt": "2026-10-14T16:14:00+00:00",
+      "publisher": {
+        "name": "Google Research",
+        "domain": "research.google",
+        "website": "https://research.google/",
+        "logoUrl": "https://www.gstatic.com/images/branding/googleg_gradient/1x/googleg_gradient_standard_20dp.png",
+        "faviconUrl": "https://www.gstatic.com/images/branding/googleg_gradient/1x/googleg_gradient_standard_20dp.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Geospatial"
+        },
+        {
+          "name": "Environment"
+        }
+      ]
+    },
+    {
+      "slug": "analyzing-technical-documents-with-deep-review",
+      "title": "Analyzing technical documents with Deep Review",
+      "dek": "General Science",
+      "aiSummary": "The article discusses the use of Deep Review for analyzing technical documents. It is categorized under General Science.",
+      "articleUrl": "https://research.google/blog/analyzing-technical-documents-with-deep-review/",
+      "category": "AI",
+      "filterTags": [
+        "Deep Review"
+      ],
+      "publishedAt": "2026-10-14T16:14:00+00:00",
+      "publisher": {
+        "name": "Google Research",
+        "domain": "research.google",
+        "website": "https://research.google/",
+        "logoUrl": "https://www.gstatic.com/images/branding/googleg_gradient/1x/googleg_gradient_standard_20dp.png",
+        "faviconUrl": "https://www.gstatic.com/images/branding/googleg_gradient/1x/googleg_gradient_standard_20dp.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Research"
+        }
+      ]
+    },
+    {
+      "slug": "hiro-acev2-simulating-extreme-weather-at-3-km-resolution-for-a-fraction-of-the-cost",
+      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "dek": "New model simulates severe weather in high detail at much lower cost.",
+      "aiSummary": "The HiRO-ACEv2 model enables the simulation of extreme weather events at a 3 km resolution. This approach achieves high-fidelity weather modeling at a significantly reduced cost compared to previous methods.",
+      "articleUrl": "https://huggingface.co/blog/allenai/hiro-acev2",
+      "category": "Climate Science",
+      "filterTags": [
+        "HiRO-ACEv2",
+        "Weather Simulation",
+        "High-Resolution Modeling"
+      ],
+      "publishedAt": "2026-10-14T16:12:42+00:00",
+      "publisher": {
+        "name": "Hugging Face",
+        "domain": "huggingface.co",
+        "website": "https://huggingface.co/",
+        "logoUrl": "https://huggingface.co/front/thumbnails/v2-2.png",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Climate Science"
+        },
+        {
+          "name": "Computational Science"
+        }
+      ]
+    },
+    {
+      "slug": "amp-puts-ai-agents-to-work-beyond-code-with-openai-models",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "dek": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "aiSummary": "Amp is leveraging OpenAI models to extend the functionality of AI agents beyond code generation. The company is utilizing specific models including GPT-6 Astra, Ultrafast, and GPT-Live-1, along with Sign in with ChatGPT, to push the boundaries of what these agents can accomplish.",
+      "articleUrl": "https://openai.com/index/amp-beyond-coding",
+      "category": "AI",
+      "filterTags": [
+        "Amp",
+        "OpenAI",
+        "GPT-6 Astra",
+        "Ultrafast",
+        "GPT-Live-1",
+        "ChatGPT"
+      ],
+      "publishedAt": "2026-10-14T12:00:00+00:00",
+      "publisher": {
+        "name": "OpenAI",
+        "domain": "openai.com",
+        "website": "https://openai.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "sentinelone-cuts-malware-analysis-from-weeks-to-hours",
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "dek": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+      "aiSummary": "SentinelOne has reduced the time needed for malware analysis from weeks to hours by using OpenAI Daybreak. This improvement increases the company's ability to investigate more threats.",
+      "articleUrl": "https://openai.com/index/sentinelone",
+      "category": "Cybersecurity",
+      "filterTags": [
+        "SentinelOne",
+        "OpenAI Daybreak"
+      ],
+      "publishedAt": "2026-10-14T12:00:00+00:00",
+      "publisher": {
+        "name": "OpenAI",
+        "domain": "openai.com",
+        "website": "https://openai.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "Artificial Intelligence"
+        }
+      ]
+    }
+  ]
+}
