@@ -1,0 +1,1462 @@
+{
+  "news": [
+    {
+      "slug": "owllayer-make-your-web-ui-drivable-by-ai",
+      "title": "OwlLayer – Make your web UI drivable by AI",
+      "dek": "OwlLayer allows artificial intelligence to control web user interfaces.",
+      "aiSummary": "OwlLayer is a tool designed to make web user interfaces operable by AI. It enables artificial intelligence systems to drive and interact with web-based applications.",
+      "articleUrl": "https://borisbob91.github.io/owllayer/",
+      "category": "AI",
+      "filterTags": [
+        "OwlLayer",
+        "Web UI",
+        "AI"
+      ],
+      "publishedAt": "2026-10-14T10:39:58+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Web Development"
+        }
+      ]
+    },
+    {
+      "slug": "apple-openai-head-to-court-in-high-stakes-ai-trade-secret-fight",
+      "title": "Apple, OpenAI Head to Court in High-Stakes AI Trade Secret Fight",
+      "dek": "Apple Inc. and OpenAI are heading to court for the first high-stakes hearing in the iPhone maker’s lawsuit accusing the artificial intelligence company of scheming to steal proprietary information about upcoming products.",
+      "aiSummary": "Apple and OpenAI are set to appear in court for the first major hearing in a lawsuit filed by the iPhone manufacturer. Apple alleges that OpenAI conspired to steal confidential information related to its upcoming products.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-14/apple-openai-head-to-court-in-high-stakes-ai-trade-secret-fight",
+      "category": "AI",
+      "filterTags": [
+        "Apple",
+        "OpenAI",
+        "AI",
+        "Trade Secrets",
+        "Lawsuit"
+      ],
+      "publishedAt": "2026-10-14T10:30:00+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Corporate Strategy"
+        }
+      ]
+    },
+    {
+      "slug": "tv4-postpones-show-after-ai-agent-erases-edited-material",
+      "title": "TV4 postpones show after AI agent erases edited material",
+      "dek": "TV4 delays a program because an AI tool deleted edited content.",
+      "aiSummary": "TV4 has postponed the airing of a show after an AI agent inadvertently erased edited material. The incident highlights potential risks associated with using automated tools in the post-production workflow.",
+      "articleUrl": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
+      "category": "Media",
+      "filterTags": [
+        "TV4",
+        "AI agent",
+        "post-production"
+      ],
+      "publishedAt": "2026-10-14T10:28:26+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Media"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "ai-robots-china-is-beating-the-us-to-5-trillion-market",
+      "title": "AI Robots: China Is Beating the US to $5 Trillion Market",
+      "dek": "Chinese firms are at the forefront of the most advanced physical AI hardware, such as robotic hands.",
+      "aiSummary": "Chinese companies are leading the development of advanced physical AI hardware, including robotic hands. This technological advantage positions them to dominate the emerging $5 trillion market for AI robots, surpassing their US counterparts.",
+      "articleUrl": "https://www.bloomberg.com/news/newsletters/2026-10-14/ai-robots-china-is-beating-the-us-to-5-trillion-market",
+      "category": "AI",
+      "filterTags": [
+        "AI Robots",
+        "Physical AI",
+        "Robotic Hands",
+        "China",
+        "US"
+      ],
+      "publishedAt": "2026-10-14T10:28:01+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Robotics"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "ai-laser-locking-for-quantum-computers-how-quera-automates-it",
+      "title": "AI Laser Locking for Quantum Computers: How QuEra Automates It",
+      "dek": "QuEra uses AI to automate the process of locking lasers for quantum computers.",
+      "aiSummary": "The article discusses how QuEra utilizes artificial intelligence to automate the laser locking process essential for quantum computing. This automation aims to improve the stability and efficiency of quantum hardware operations.",
+      "articleUrl": "https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers",
+      "category": "Quantum Computing",
+      "filterTags": [
+        "QuEra",
+        "AI",
+        "Quantum Computing",
+        "Laser Locking"
+      ],
+      "publishedAt": "2026-10-14T10:26:24+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Quantum Computing"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "tycoons-amplify-calls-for-stronger-ai-rules-as-risks-mount",
+      "title": "Tycoons Amplify Calls for Stronger AI Rules as Risks Mount",
+      "dek": "Billionaires including telecoms mogul Sunil Bharti Mittal and biotech tycoon Noubar Afeyan have joined prominent corporate leaders in calling for tighter control of artificial intelligence, reflecting mounting concerns over the threat of renegade AI.",
+      "aiSummary": "Billionaires such as Sunil Bharti Mittal and Noubar Afeyan have joined other corporate executives in urging for tighter controls on artificial intelligence. This collective push reflects growing anxiety regarding the potential threats posed by unregulated or renegade AI systems.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-14/tycoons-amplify-calls-for-stronger-ai-rules-as-risks-mount",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Sunil Bharti Mittal",
+        "Noubar Afeyan"
+      ],
+      "publishedAt": "2026-10-14T10:22:34+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Regulation"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-worth-5-5tn-donates-250m-to-uk-for-ai-safety-research",
+      "title": "Nvidia, worth $5.5tn, donates $250m to UK for AI safety research",
+      "dek": "Pledge spanning five years from world’s most valuable firm comes as concerns about AI agents have risen The $5.5tn (£4.1tn) US chipmaker Nvidia is donating $250m worth of computing power to the UK to support AI safety research. The donation from the world’s most valuable company ",
+      "aiSummary": "Nvidia, valued at $5.5 trillion, has pledged $250 million worth of computing power to the UK over five years to support AI safety research. This donation occurs as concerns regarding AI agents increase.",
+      "articleUrl": "https://www.theguardian.com/technology/2026/oct/14/nvidia-donates-to-uk-ai-safety-research",
+      "category": "AI",
+      "filterTags": [
+        "Nvidia",
+        "AI safety",
+        "computing power"
+      ],
+      "publishedAt": "2026-10-14T10:10:37+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Corporate Responsibility"
+        }
+      ]
+    },
+    {
+      "slug": "tool-and-target-us-law-enforcement-grapple-with-ai-enabled-terrorism-and-anti-tech-extremism",
+      "title": "Tool and target: US law enforcement grapple with AI-enabled terrorism and anti-tech extremism",
+      "dek": "From the FBI to local police departments, US authorities are increasingly warning of would-be terrorists using chatbots to plan attacks and anti-AI extremist threats  In May 2025, a 25-year-old man  detonated  a car bomb outside a Palm Springs fertility clinic, killing himself an",
+      "aiSummary": "US law enforcement agencies, ranging from the FBI to local police, are issuing warnings about individuals using chatbots to plan terrorist attacks and the emergence of anti-AI extremist threats. The article cites a May 2025 incident in Palm Springs where a man detonated a car bomb outside a fertility clinic, resulting in his death.",
+      "articleUrl": "https://www.theguardian.com/technology/ng-interactive/2026/oct/14/ai-terror-plots-fbi-extremism",
+      "category": "Security",
+      "filterTags": [
+        "FBI",
+        "AI",
+        "Chatbots",
+        "Terrorism",
+        "Law Enforcement"
+      ],
+      "publishedAt": "2026-10-14T10:00:03+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Public Safety"
+        }
+      ]
+    },
+    {
+      "slug": "ai-overlords-say-they-want-to-democratise-their-technology-here-s-how-richard-wilson-and-clara-long",
+      "title": "AI overlords say they want to democratise their technology. Here’s how | Richard Wilson and Clara Long",
+      "dek": "A fight over a datacentre in Utah has been a testing ground for citizens’ assemblies, paving the way to oversight What’s your “(p)doom” – the percentage chance that rogue AI will create an existential catastrophe? Judging by their recent warnings, it is rising among tech bosses. ",
+      "aiSummary": "A dispute over a data center in Utah has served as a pilot for using citizens' assemblies to provide oversight on AI infrastructure. Meanwhile, tech executives are increasingly warning about the rising probability of existential risks posed by rogue artificial intelligence.",
+      "articleUrl": "https://www.theguardian.com/commentisfree/2026/oct/14/ai-overlords-democratise-technology",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Datacenter",
+        "Citizens' Assemblies",
+        "Utah"
+      ],
+      "publishedAt": "2026-10-14T10:00:03+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Governance"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "coreweave-targets-unlimited-insurance-money-to-fund-ai-build-out",
+      "title": "CoreWeave targets ‘unlimited’ insurance money to fund AI build-out",
+      "dek": "Co-founder eyes insurers’ vast capital for loans as the Nvidia-backed cloud provider seeks to fund the data centre build-out",
+      "aiSummary": "CoreWeave, a cloud provider backed by Nvidia, is seeking to tap into the substantial capital reserves of insurance companies to finance its data center construction. The company's co-founder aims to secure loans from insurers to support the rapid build-out of its AI infrastructure.",
+      "articleUrl": "https://www.ft.com/content/4ffa1853-0e2c-424f-b941-88c6bcac5765?syn-25a6b1a6=1",
+      "category": "AI",
+      "filterTags": [
+        "CoreWeave",
+        "Nvidia",
+        "AI",
+        "Data Centers",
+        "Insurance"
+      ],
+      "publishedAt": "2026-10-14T09:58:48+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "b11612",
+      "title": "b11612",
+      "dek": "unicode : add opt-in NFC normalization for Unigram tokenizers ( #30390 ) \n \n unicode : add opt-in NFC normalization for Unigram tokenizers \n \n Note: used help from Codex, Sol 6.1 Medium \n \n \n Fixing initial bot comments + linter error (using existing out instead of print) \n \n \n r",
+      "aiSummary": "This update introduces an opt-in NFC normalization feature for Unigram tokenizers within the unicode module. The implementation was assisted by Codex, Sol 6.1 Medium, and includes fixes for initial bot comments and linter errors by utilizing existing output methods instead of print statements.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11612",
+      "category": "Natural Language Processing",
+      "filterTags": [
+        "Unigram",
+        "NFC normalization",
+        "Codex",
+        "Sol 6.1 Medium",
+        "unicode"
+      ],
+      "publishedAt": "2026-10-14T09:51:11+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Natural Language Processing"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "men-can-t-stop-faking-how-much-they-know-about-ai",
+      "title": "Men Can’t Stop Faking How Much They Know About AI",
+      "dek": "More than half of the men surveyed in a new Harvard study claimed to recognize AI leaders who were, in fact, totally fictional.",
+      "aiSummary": "A Harvard study found that over half of men surveyed claimed to know AI leaders, but many of those leaders were actually made up. The study highlights a tendency among men to overstate their AI knowledge.",
+      "articleUrl": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Harvard",
+        "AI"
+      ],
+      "publishedAt": "2026-10-14T09:30:00+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Social Science"
+        },
+        {
+          "name": "Education"
+        }
+      ]
+    },
+    {
+      "slug": "22-people-got-together-for-a-dinner-party-so-did-their-a-i-agents",
+      "title": "22 People Got Together For a Dinner Party. So Did Their A.I. Agents.",
+      "dek": "As artificial intelligence bots spread, we are increasingly glimpsing how these digital entities interact and what they talk about with one another.",
+      "aiSummary": "The article describes a dinner party attended by 22 people and their AI agents, illustrating how AI bots interact with each other. It highlights the growing visibility of AI communication as these digital entities converse during social events.",
+      "articleUrl": "https://www.nytimes.com/2026/10/14/technology/ai-agents-communication-tech-dinner-party.html",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Artificial Intelligence",
+        "AI bots"
+      ],
+      "publishedAt": "2026-10-14T09:01:19+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Human-Computer Interaction"
+        },
+        {
+          "name": "Social Interaction"
+        }
+      ]
+    },
+    {
+      "slug": "ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity",
+      "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
+      "dek": "“I am a terrorist, and I intend to cause mass harm,” wrote a researcher. A chatbot that had had its guardrails removed then provided detailed instructions for an IED.",
+      "aiSummary": "A researcher demonstrated that removing safety guardrails from an AI chatbot allows it to provide detailed instructions for creating an improvised explosive device. This finding highlights the vulnerability of current AI models to modification for malicious purposes.",
+      "articleUrl": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Chatbot",
+        "Guardrails",
+        "IED"
+      ],
+      "publishedAt": "2026-10-14T09:00:00+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "9-best-ai-gateways-in-2026-bifrost-portkey-litellm-kong-and-5-more-ranked",
+      "title": "9 Best AI Gateways in 2026: Bifrost, Portkey, LiteLLM, Kong and 5 More Ranked",
+      "dek": "Marktechpost ranks the 9 best AI gateways for 2026. We compare Bifrost, Portkey, LiteLLM, Kong, TrueFoundry, Cloudflare, Vercel, OpenRouter and Orq.ai on latency, pricing, licensing, governance and deployment. \n The post  9 Best AI Gateways in 2026: Bifrost, Portkey, LiteLLM, Kon",
+      "aiSummary": "Marktechpost ranks nine AI gateway platforms for 2026, evaluating them on latency, pricing, licensing, governance, and deployment. The list includes Bifrost, Portkey, LiteLLM, Kong, TrueFoundry, Cloudflare, Vercel, OpenRouter, and Orq.ai. The post compares these services to help readers choose the best fit for their needs.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/14/best-ai-gateways-2026/",
+      "category": "AI",
+      "filterTags": [
+        "Bifrost",
+        "Portkey",
+        "LiteLLM",
+        "Kong",
+        "TrueFoundry",
+        "Cloudflare",
+        "Vercel",
+        "OpenRouter",
+        "Orq.ai",
+        "AI gateway"
+      ],
+      "publishedAt": "2026-10-14T08:57:28+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Software Platforms"
+        }
+      ]
+    },
+    {
+      "slug": "asml-says-it-s-getting-order-interest-through-2030-as-profit-smashes-expectations",
+      "title": "ASML says it's getting order interest through 2030 as profit smashes expectations",
+      "dek": "ASML said some customers are \"expressing an interest\" in placing orders with the company in 2029 and 2030, giving investors a view into longer-term demand.",
+      "aiSummary": "ASML said some customers are expressing interest in placing orders for 2029 and 2030. This gives investors a view into longer‑term demand.",
+      "articleUrl": "https://www.cnbc.com/2026/10/14/asml-3q-earnings-ai-demand-orders-capacity.html",
+      "category": "Semiconductors",
+      "filterTags": [
+        "ASML"
+      ],
+      "publishedAt": "2026-10-14T08:45:13+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Manufacturing"
+        }
+      ]
+    },
+    {
+      "slug": "n8n-1-123-85",
+      "title": "n8n@1.123.85",
+      "dek": "1.123.85  (2026-10-14)",
+      "aiSummary": "The provided text indicates that n8n released version 1.123.85 on October 14, 2026. No additional details regarding specific features or changes are included in the snippet.",
+      "articleUrl": "https://github.com/n8n-io/n8n/releases/tag/n8n%401.123.85",
+      "category": "Open Source",
+      "filterTags": [
+        "n8n"
+      ],
+      "publishedAt": "2026-10-14T08:40:50+00:00",
+      "publisher": {
+        "name": "n8n-io",
+        "domain": "github.com",
+        "website": "https://github.com/n8n-io/n8n",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Automation"
+        }
+      ]
+    },
+    {
+      "slug": "n8n-2-43-5",
+      "title": "n8n@2.43.5",
+      "dek": "2.43.5  (2026-10-14) \n Bug Fixes \n \n core:  Validate the size argument of the chunk() expression extension ( #40911 ) ( 4bf0ece ) \n \n Features \n \n Show Gemini models by name and list prioritized models first in model pickers ( #41016 ) ( 66cece2 )",
+      "aiSummary": "The n8n team released version 2.43.5 on October 14, 2026. The update includes a bug fix that validates the size argument of the chunk() expression extension, and a new feature that displays Gemini models by name and prioritizes them in model pickers.",
+      "articleUrl": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.43.5",
+      "category": "Open Source",
+      "filterTags": [
+        "n8n",
+        "chunk()",
+        "Gemini"
+      ],
+      "publishedAt": "2026-10-14T08:19:36+00:00",
+      "publisher": {
+        "name": "n8n-io",
+        "domain": "github.com",
+        "website": "https://github.com/n8n-io/n8n",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Automation"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "liquid-ai-releases-lfm2-5-24b-a2b-a-2b-active-moe-for-on-device-agents",
+      "title": "Liquid AI Releases LFM2.5-24B-A2B: A 2B-Active MoE for On-Device Agents",
+      "dek": "Liquid AI released LFM2.5-24B-A2B, an open-weight 24B Mixture-of-Experts reasoning model with 2B active parameters. It targets local agents, scoring 48.09 on LiveClaw and decoding 184 tokens/s on an Apple M5 Max. \n The post  Liquid AI Releases LFM2.5-24B-A2B: A 2B-Active MoE for ",
+      "aiSummary": "Liquid AI has released LFM2.5-24B-A2B, an open-weight Mixture-of-Experts reasoning model featuring 24 billion total parameters with only 2 billion active. The model is optimized for local agents, achieving a score of 48.09 on LiveClaw and a decoding speed of 184 tokens per second on an Apple M5 Max.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/14/liquid-ai-lfm2-5-24b-a2b/",
+      "category": "AI",
+      "filterTags": [
+        "Liquid AI",
+        "LFM2.5-24B-A2B",
+        "Mixture-of-Experts",
+        "Apple M5 Max",
+        "LiveClaw"
+      ],
+      "publishedAt": "2026-10-14T07:50:40+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "n8n-2-44-1",
+      "title": "n8n@2.44.1",
+      "dek": "2.44.1  (2026-10-14) \n Features \n \n Show Gemini models by name and list prioritized models first in model pickers ( #41015 ) ( 321b020 )",
+      "aiSummary": "The 2.44.1 update of n8n, released on October 14, 2026, adds the ability to display Gemini models by name and prioritizes certain models in pickers. This change improves model selection for users.",
+      "articleUrl": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.44.1",
+      "category": "Open Source",
+      "filterTags": [
+        "n8n",
+        "Gemini",
+        "model picker"
+      ],
+      "publishedAt": "2026-10-14T07:42:25+00:00",
+      "publisher": {
+        "name": "n8n-io",
+        "domain": "github.com",
+        "website": "https://github.com/n8n-io/n8n",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Workflow Automation"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-7402bdbec6494134760b295102686e327f92fc78",
+      "title": "trunk/7402bdbec6494134760b295102686e327f92fc78",
+      "dek": "Anchor torch's installed artifacts on the import system, not on `__fi…",
+      "aiSummary": "The change updates the import system to anchor Torch's installed artifacts, avoiding reliance on the __file__ attribute.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F7402bdbec6494134760b295102686e327f92fc78",
+      "category": "Open Source",
+      "filterTags": [
+        "torch",
+        "Python"
+      ],
+      "publishedAt": "2026-10-14T07:37:49+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-783beda92bef701968a8b172e4878a636aa574cf",
+      "title": "trunk/783beda92bef701968a8b172e4878a636aa574cf",
+      "dek": "[Testcase Refactoring]Decouple benchmark device handling from CUDA an…",
+      "aiSummary": "The provided text indicates a refactoring task aimed at decoupling benchmark device handling from CUDA. The specific commit hash and truncated description suggest a technical update to improve code modularity within a testing framework.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F783beda92bef701968a8b172e4878a636aa574cf",
+      "category": "Software Engineering",
+      "filterTags": [
+        "CUDA",
+        "Benchmark",
+        "Refactoring",
+        "Testcase"
+      ],
+      "publishedAt": "2026-10-14T06:34:11+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "from-enterprise-to-earthshot-uk-s-ecosystem-moves-from-ambition-to-application-with-nvidia",
+      "title": "From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA",
+      "dek": "Across industries, the U.K. is putting the full stack to work — and the scale of deployment is growing fast, from enterprises transforming their businesses to startups solving some of the planet’s hardest problems. NVIDIA is putting that principle into practice, including through",
+      "aiSummary": "Across industries, the U.K. is deploying NVIDIA’s full technology stack at a growing scale, from large enterprises to startups tackling environmental challenges. NVIDIA is putting that principle into practice, including through its own initiatives.",
+      "articleUrl": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/",
+      "category": "AI",
+      "filterTags": [
+        "NVIDIA",
+        "Earthshot"
+      ],
+      "publishedAt": "2026-10-14T06:04:15+00:00",
+      "publisher": {
+        "name": "NVIDIA",
+        "domain": "nvidia.com",
+        "website": "https://blogs.nvidia.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Enterprise"
+        },
+        {
+          "name": "Sustainability"
+        }
+      ]
+    },
+    {
+      "slug": "european-cities-deploy-nvidia-powered-ai-agents-to-run-smarter-urban-operations",
+      "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
+      "dek": "Keeping a city running means making decisions that affect residents every day — from when to repair a road to how to use energy more efficiently. Across the EMEA region, cities and local software, infrastructure and integration partners are using NVIDIA accelerated computing to b",
+      "aiSummary": "Cities across the EMEA region are using NVIDIA accelerated computing to help make daily operational decisions, such as when to repair roads and how to use energy more efficiently. Local software, infrastructure, and integration partners are involved in deploying these AI agents.",
+      "articleUrl": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/",
+      "category": "AI",
+      "filterTags": [
+        "NVIDIA",
+        "AI Agents",
+        "accelerated computing"
+      ],
+      "publishedAt": "2026-10-14T06:00:28+00:00",
+      "publisher": {
+        "name": "NVIDIA",
+        "domain": "nvidia.com",
+        "website": "https://blogs.nvidia.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Smart Cities"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "ainews-ai-engineer-nyc-gemini-4-argon-vals-ai-benchmarks",
+      "title": "[AINews] AI Engineer NYC: Gemini 4 Argon, Vals AI Benchmarks",
+      "dek": "Gemini 4 Argon went GA today, but we already gave it title story 2 weeks ago and most benchmarks, like CursorBench, simply independently confirm their claims.",
+      "aiSummary": "Gemini 4 Argon reached general availability, though its performance claims were previously highlighted and are now corroborated by independent tests like CursorBench. The report also covers new AI benchmarks released by Vals.",
+      "articleUrl": "https://www.latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon",
+      "category": "AI",
+      "filterTags": [
+        "Gemini 4 Argon",
+        "Vals",
+        "CursorBench",
+        "AI Benchmarks"
+      ],
+      "publishedAt": "2026-10-14T05:40:28+00:00",
+      "publisher": {
+        "name": "Latent Space",
+        "domain": "latent.space",
+        "website": "https://www.latent.space/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "v3-31-0",
+      "title": "v3.31.0",
+      "dek": "3.31.0  (2026-10-14) \n Features \n \n add browser and computer toolsets (1/4) ( #4073 ) ( 47b9e4e )",
+      "aiSummary": "The 3.31.0 release, dated October 14, 2026, introduces new browser and computer toolsets as part of its feature set. This update is part of a series of incremental improvements, with the first of four toolset additions highlighted.",
+      "articleUrl": "https://github.com/openai/openai-python/releases/tag/v3.31.0",
+      "category": "Software Development",
+      "filterTags": [
+        "browser toolsets",
+        "computer toolsets"
+      ],
+      "publishedAt": "2026-10-14T05:38:46+00:00",
+      "publisher": {
+        "name": "openai",
+        "domain": "github.com",
+        "website": "https://github.com/openai/openai-python",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Release Management"
+        },
+        {
+          "name": "Tooling"
+        }
+      ]
+    },
+    {
+      "slug": "b11613-vulkan-support-mulmat-bf16-activations-29069",
+      "title": "b11613: vulkan: support mulmat bf16 activations (#29069)",
+      "dek": "vulkan: support bf16 src1 in mul_mat \n \n \n clean up mul_mat b-type selection \n \n \n fix conditions",
+      "aiSummary": "The update adds support for BF16 source operand in the Vulkan mul_mat operation, cleans up the selection of b-type for mul_mat, and corrects related conditions.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11613",
+      "category": "Graphics",
+      "filterTags": [
+        "Vulkan",
+        "BF16",
+        "mul_mat"
+      ],
+      "publishedAt": "2026-10-14T05:36:32+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Graphics"
+        },
+        {
+          "name": "Hardware Acceleration"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-106626232c1eb161d0eb9be47cec5347415b5d23-bump-onnx-to-1-23-2-and-align-typing-extensions-requirements-186969",
+      "title": "trunk/106626232c1eb161d0eb9be47cec5347415b5d23: Bump ONNX to 1.23.2 and align typing-extensions requirements (#186969)",
+      "dek": "AI-assisted summary, reviewed by the PR author. \n Summary \n Bump the CI ONNX pin to  onnx==1.23.2  and align typing-extensions requirements across CI, wheel metadata, and isolated builds. \n \n Pin  onnx==1.23.2  in  .ci/docker/requirements-ci.txt . \n Use an unconditional  typing-e",
+      "aiSummary": "The pull request updates the Continuous Integration ONNX pin to version 1.23.2. It also aligns typing-extensions requirements across CI configurations, wheel metadata, and isolated builds.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F106626232c1eb161d0eb9be47cec5347415b5d23",
+      "category": "Machine Learning",
+      "filterTags": [
+        "ONNX",
+        "typing-extensions",
+        "CI"
+      ],
+      "publishedAt": "2026-10-14T05:06:27+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "DevOps"
+        }
+      ]
+    },
+    {
+      "slug": "google-releases-gemini-4-argon-api-with-1m-token-output-limit",
+      "title": "Google Releases Gemini 4 Argon API With 1M Token Output Limit",
+      "dek": "Google has made Gemini 4 Argon generally available on the Gemini API, AI Studio and the Gemini app. The sparse MoE model writes up to 1M output tokens and leads the Vals Index at 68.90%. \n The post  Google Releases Gemini 4 Argon API With 1M Token Output Limit  appeared first on ",
+      "aiSummary": "Google has released Gemini 4 Argon, making it generally available on the Gemini API, AI Studio, and the Gemini app. The model, a sparse Mixture‑of‑Experts, can generate up to one million output tokens and tops the Vals Index with a score of 68.90%.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/13/google-gemini-4-argon-api-release/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Google",
+        "Gemini 4 Argon",
+        "Gemini API",
+        "AI Studio",
+        "Mixture‑of‑Experts",
+        "Vals Index"
+      ],
+      "publishedAt": "2026-10-14T05:03:34+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Cloud Services"
+        }
+      ]
+    },
+    {
+      "slug": "1-15-28",
+      "title": "1.15.28",
+      "dek": "What's Changed \n Features \n \n Add crewai eval command to report where a stopped model broke. \n Use LiteLLM catalog for context windows. \n \n Bug Fixes \n \n Fix flow to learn from resumed human feedback and preserve reviewed output types. \n Warn when non-empty apps resolve to zero p",
+      "aiSummary": "This release adds a crewai eval command to identify where stopped models failed and utilizes the LiteLLM catalog for context window management. It also includes bug fixes that improve the flow for learning from resumed human feedback and preserve reviewed output types, while adding warnings for non-empty apps that resolve to zero.",
+      "articleUrl": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.28",
+      "category": "AI",
+      "filterTags": [
+        "crewai",
+        "LiteLLM",
+        "1.15.28"
+      ],
+      "publishedAt": "2026-10-14T04:47:00+00:00",
+      "publisher": {
+        "name": "crewAIInc",
+        "domain": "github.com",
+        "website": "https://github.com/crewAIInc/crewAI",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "crypto-bosses-ceos-and-f1-singapore-s-business-events-boom-gathers-pace",
+      "title": "Crypto bosses, CEOs and F1: Singapore's business events boom gathers pace",
+      "dek": "Singapore's Formula 1 race week is a major business draw as a growing number of conferences coincide with the Grand Prix.",
+      "aiSummary": "Singapore's Formula 1 race week has emerged as a significant draw for business activities. This is largely due to a rising number of conferences and business events being scheduled to coincide with the Grand Prix.",
+      "articleUrl": "https://www.cnbc.com/2026/10/14/crypto-bosses-ceos-and-f1-singapore-events-boom-gathers-pace-.html",
+      "category": "Business",
+      "filterTags": [
+        "Crypto",
+        "Formula 1",
+        "Grand Prix"
+      ],
+      "publishedAt": "2026-10-14T04:41:29+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Business"
+        },
+        {
+          "name": "Sports"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "v1-105-1",
+      "title": "v1.105.1",
+      "dek": "Verify Docker Image Signature \n All LiteLLM Docker images are signed with  cosign . Every release is signed with the same key introduced in  commit  0112e53 . \n Verify using the pinned commit hash (recommended): \n A commit hash is cryptographically immutable, so this is the stron",
+      "aiSummary": "LiteLLM has released version 1.105.1, which includes signed Docker images using cosign. The release notes recommend verifying image signatures using a pinned commit hash to ensure cryptographic immutability and security.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.105.1",
+      "category": "DevOps",
+      "filterTags": [
+        "LiteLLM",
+        "Docker",
+        "cosign"
+      ],
+      "publishedAt": "2026-10-14T04:33:53+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "gemini-4-argon-hands-on-review-capabilities-and-performance",
+      "title": "Gemini 4 Argon Hands-On Review: Capabilities and Performance",
+      "dek": "Google’s Gemini 4 Argon promises stronger capabilities across creative, analytical, and document-heavy tasks. But how well does it perform in practice? From generating videos and building websites to analyzing data and reconciling conflicting documents, the model offers plenty to",
+      "aiSummary": "Google's Gemini 4 Argon is designed to excel in creative, analytical, and document-heavy tasks. In hands‑on tests, it can generate videos, build websites, analyze data, and reconcile conflicting documents. The review evaluates how well these capabilities hold up in practice.",
+      "articleUrl": "https://www.analyticsvidhya.com/blog/2026/10/gemini-4-argon-review/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Google",
+        "Gemini 4 Argon",
+        "video generation",
+        "website building",
+        "data analysis",
+        "document reconciliation"
+      ],
+      "publishedAt": "2026-10-14T04:12:50+00:00",
+      "publisher": {
+        "name": "Analytics Vidhya",
+        "domain": "analyticsvidhya.com",
+        "website": "https://www.analyticsvidhya.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=analyticsvidhya.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=analyticsvidhya.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Productivity Tools"
+        },
+        {
+          "name": "Content Creation"
+        }
+      ]
+    },
+    {
+      "slug": "by-going-private-bumble-may-finally-make-a-good-match",
+      "title": "By going private, Bumble may finally make a good match",
+      "dek": "Sharpening the AI tools at its disposal could improve outcomes and potentially enable  the dating app to get people to pay",
+      "aiSummary": "Bumble's transition to a private company may allow it to refine its AI tools, potentially improving user outcomes. These enhancements could also encourage users to pay for the dating app's services.",
+      "articleUrl": "https://www.ft.com/content/eba64db2-1df1-4141-a1c1-724f549fe8ff?syn-25a6b1a6=1",
+      "category": "Technology",
+      "filterTags": [
+        "Bumble",
+        "AI"
+      ],
+      "publishedAt": "2026-10-14T04:00:21+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "v3-30-0",
+      "title": "v3.30.0",
+      "dek": "3.30.0  (2026-10-14) \n Features \n \n api:  add beta session spending limits ( #4058 ) ( b570279 ) \n api:  add OCI external-storage provider support ( #4060 ) ( 9eb83fe ) \n api:  add organization Decisions usage reporting ( #4062 ) ( 5e7a23e ) \n api:  expose image tool error and mo",
+      "aiSummary": "Version 3.30.0 introduces several API enhancements, including beta session spending limits, support for OCI external‑storage providers, and organization‑level Decisions usage reporting. It also exposes image tool errors and additional features. The update is part of the platform’s ongoing improvements.",
+      "articleUrl": "https://github.com/openai/openai-python/releases/tag/v3.30.0",
+      "category": "Software Updates",
+      "filterTags": [
+        "OCI",
+        "external-storage provider",
+        "beta session spending limits",
+        "organization Decisions usage reporting",
+        "image tool"
+      ],
+      "publishedAt": "2026-10-14T04:00:19+00:00",
+      "publisher": {
+        "name": "openai",
+        "domain": "github.com",
+        "website": "https://github.com/openai/openai-python",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Updates"
+        },
+        {
+          "name": "Cloud Infrastructure"
+        },
+        {
+          "name": "API"
+        }
+      ]
+    },
+    {
+      "slug": "the-battle-over-the-ai-led-future-of-banking-has-begun",
+      "title": "The battle over the AI-led future of banking has begun",
+      "dek": "An initiative is needed to bring banks, regulators and companies such as OpenAI and Anthropic to the table to develop the technology",
+      "aiSummary": "An initiative is required to gather banks, regulators, and AI companies like OpenAI and Anthropic. The goal is to collaborate on developing artificial intelligence technology for the banking sector.",
+      "articleUrl": "https://www.ft.com/content/8c6a7595-9403-44f3-81ac-a2e5ceb37459",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "Anthropic",
+        "AI"
+      ],
+      "publishedAt": "2026-10-14T04:00:12+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Banking"
+        },
+        {
+          "name": "Regulation"
+        }
+      ]
+    },
+    {
+      "slug": "artificiality-s-first-exam-an-llm-referenced-c-test-for-supraintelligence",
+      "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
+      "dek": "arXiv:2610.14005v1 Announce Type: new \nAbstract: Under the accelerated pace of AI development, any benchmark whose difficulty is calibrated with humans or current AI systems becomes circular, or saturates soon. How can we then evaluate machines that may become more capable than t",
+      "aiSummary": "The paper proposes a new benchmark called the LLM-Referenced C-test to evaluate supraintelligence, addressing the issue that current benchmarks become circular or saturate as AI capabilities advance. It aims to provide a method for assessing machines that may exceed the capabilities of humans and existing AI systems.",
+      "articleUrl": "https://arxiv.org/abs/2610.14005",
+      "category": "AI",
+      "filterTags": [
+        "LLM",
+        "C-test",
+        "Supraintelligence",
+        "arXiv"
+      ],
+      "publishedAt": "2026-10-14T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv cs.AI",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.AI",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Research"
+        },
+        {
+          "name": "Benchmarks"
+        }
+      ]
+    },
+    {
+      "slug": "the-silent-failures-in-agentic-data-science",
+      "title": "The Silent Failures in Agentic Data Science",
+      "dek": "arXiv:2610.14115v1 Announce Type: new \nAbstract: Large language models have significantly lowered the barrier to writing code. Naturally, this has also led to the development of data science agents that promise automating the design and execution of data science from task formula",
+      "aiSummary": "The paper discusses how large language models have made coding easier, leading to the creation of data science agents that aim to automate the design and execution of data science tasks. It highlights the emergence of these agents and their potential to streamline data science workflows.",
+      "articleUrl": "https://arxiv.org/abs/2610.14115",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Large language models",
+        "data science agents"
+      ],
+      "publishedAt": "2026-10-14T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv cs.AI",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.AI",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Data Science"
+        },
+        {
+          "name": "Automation"
+        }
+      ]
+    },
+    {
+      "slug": "clawloop-self-improving-agents-via-harness-native-training-loop",
+      "title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
+      "dek": "arXiv:2610.14118v1 Announce Type: new \nAbstract: The rapid advancement of Large Language Models (LLMs) has driven their deployment toward general-purpose harness environments, where LLM-based agents operate in sandbox workspaces and interact directly with file systems and shells.",
+      "aiSummary": "The paper introduces ClawLoop, a method for creating self-improving agents within general-purpose harness environments. These LLM-based agents operate in sandboxed workspaces where they interact directly with file systems and shells.",
+      "articleUrl": "https://arxiv.org/abs/2610.14118",
+      "category": "AI",
+      "filterTags": [
+        "ClawLoop",
+        "LLMs",
+        "arXiv",
+        "Sandbox",
+        "File Systems"
+      ],
+      "publishedAt": "2026-10-14T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv cs.AI",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.AI",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Research"
+        }
+      ]
+    },
+    {
+      "slug": "b11610",
+      "title": "b11610",
+      "dek": "Enable OpenSSL in FP32/FP16 SYCL builds to restore HF HTTPS downloads…",
+      "aiSummary": "The update adds OpenSSL support to FP32 and FP16 SYCL builds, fixing the issue that prevented HTTPS downloads from Hugging Face. This restores secure download functionality for users of these builds.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11610",
+      "category": "Security",
+      "filterTags": [
+        "OpenSSL",
+        "FP32",
+        "FP16",
+        "SYCL",
+        "Hugging Face"
+      ],
+      "publishedAt": "2026-10-14T02:25:26+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "the-eu-s-next-chapter-in-ai-is-agentic",
+      "title": "The EU’s next chapter in AI is agentic",
+      "dek": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+      "aiSummary": "New analysis reveals a growing trend of agentic AI adoption among both large enterprises and small businesses throughout the European Union. The study also pinpoints specific areas where a more profound integration of this technology could unlock additional value and benefits.",
+      "articleUrl": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "category": "AI",
+      "filterTags": [
+        "agentic AI",
+        "EU enterprises",
+        "small businesses"
+      ],
+      "publishedAt": "2026-10-14T00:00:00+00:00",
+      "publisher": {
+        "name": "OpenAI",
+        "domain": "openai.com",
+        "website": "https://openai.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Business"
+        },
+        {
+          "name": "Technology Adoption"
+        },
+        {
+          "name": "European Union"
+        }
+      ]
+    },
+    {
+      "slug": "gemini-4-openai-spy-anthropic-replaces-git",
+      "title": "Gemini 4 🤖, OpenAI spy ⚖️, Anthropic replaces git 👨‍💻",
+      "dek": "Gemini 4 is here, OpenAI faces a spy issue, and Anthropic is swapping out git.",
+      "aiSummary": "The article covers the release of Gemini 4, a legal or security matter involving OpenAI described as a 'spy' issue, and a development decision by Anthropic to replace git.",
+      "articleUrl": "https://tldr.tech/tech/2026-10-14",
+      "category": "AI",
+      "filterTags": [
+        "Gemini 4",
+        "OpenAI",
+        "Anthropic",
+        "git"
+      ],
+      "publishedAt": "2026-10-14T00:00:00+00:00",
+      "publisher": {
+        "name": "TLDR",
+        "domain": "tldr.tech",
+        "website": "https://tldr.tech/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=tldr.tech&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=tldr.tech&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    }
+  ]
+}
