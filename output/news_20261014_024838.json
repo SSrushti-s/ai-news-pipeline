@@ -1,0 +1,1341 @@
+{
+  "news": [
+    {
+      "slug": "trunk-6c3e5b90e491b4a98a5ac98761a8601666147975",
+      "title": "trunk/6c3e5b90e491b4a98a5ac98761a8601666147975",
+      "dek": "[xpu][test] Port 3 distributed tests (fsdp folder)  cases on Intel GP…",
+      "aiSummary": "The commit updates the trunk branch to port three distributed test cases from the FSDP folder. These tests are specifically adapted for Intel GPUs as part of the xpu testing suite.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F6c3e5b90e491b4a98a5ac98761a8601666147975",
+      "category": "Hardware",
+      "filterTags": [
+        "Intel GPU",
+        "FSDP",
+        "xpu",
+        "distributed tests"
+      ],
+      "publishedAt": "2026-10-14T02:38:27+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Testing"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-640f90e15bc0e9af5caaa054939015d14a086131-flex-gemm-compose-paired-fragment-reductions-192894",
+      "title": "trunk/640f90e15bc0e9af5caaa054939015d14a086131: flex_gemm: compose paired fragment reductions (#192894)",
+      "dek": "Human Note \n At a high level we are now allowing chunking + reductions along the n axis. So this is two forms of reductions; \n1 is the chunked or interleave pairing and the other is the reduction along the N axis follwing this up. Below we have 2 for the first and then 32 for the",
+      "aiSummary": "The update introduces support for chunking and reductions along the n-axis in the flex_gemm component. It implements two forms of reduction: chunked or interleave pairing, followed by a reduction along the N axis.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F640f90e15bc0e9af5caaa054939015d14a086131",
+      "category": "Machine Learning",
+      "filterTags": [
+        "flex_gemm",
+        "fragment reductions",
+        "n-axis"
+      ],
+      "publishedAt": "2026-10-14T02:38:09+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Performance Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-7de327d9302fff6dc5b4271e04a7b5edadf12e33-flex-gemm-trim-per-call-cpu-overhead-in-the-quack-launch-path-200712",
+      "title": "trunk/7de327d9302fff6dc5b4271e04a7b5edadf12e33: flex_gemm: trim per-call CPU overhead in the QuACK launch path (#200712)",
+      "dek": "Human Note \n Reduce FlexGEMM host overhead on the runtime launch path. Need for speed baby \n Agent note \n \n Every compiled FlexGEMM call entered  torch.cuda.stream(torch.cuda.ExternalStream(stream))  and rebuilt the frozen  GemmConfig  from the codegen config tuple. Generated wra",
+      "aiSummary": "The update optimizes the FlexGEMM runtime launch path by reducing host-side overhead. It eliminates the creation of external CUDA streams and the reconstruction of frozen GemmConfig objects for every compiled call.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F7de327d9302fff6dc5b4271e04a7b5edadf12e33",
+      "category": "AI Infrastructure",
+      "filterTags": [
+        "FlexGEMM",
+        "QuACK",
+        "CUDA",
+        "PyTorch"
+      ],
+      "publishedAt": "2026-10-14T02:38:09+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI Infrastructure"
+        },
+        {
+          "name": "Performance Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "v0-40-4",
+      "title": "v0.40.4",
+      "dek": "Decision models in the CLI \n Decision models can now be used directly from the terminal with  ollama run  — ask yes/no questions, classify text into labels, or score against a rubric: \n ollama run nimble --ask \"Is a refund being requested?\" < ticket.txt \n What's Changed \n \n Kev d",
+      "aiSummary": "Ollama version 0.40.4 introduces support for decision models directly within the CLI. Users can now utilize the 'ollama run' command to perform tasks such as answering yes/no questions, classifying text, or scoring against a rubric.",
+      "articleUrl": "https://github.com/ollama/ollama/releases/tag/v0.40.4",
+      "category": "AI",
+      "filterTags": [
+        "Ollama",
+        "CLI",
+        "Decision Models",
+        "Terminal"
+      ],
+      "publishedAt": "2026-10-14T02:23:26+00:00",
+      "publisher": {
+        "name": "ollama",
+        "domain": "github.com",
+        "website": "https://github.com/ollama/ollama",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "ocp-2026-agentic-ai-pushes-the-data-center-from-chip-to-grid",
+      "title": "OCP 2026: Agentic AI Pushes the Data Center from Chip to Grid",
+      "dek": "The 2026 Open Compute Project event highlights how agentic AI is transforming data centers from individual chips to the entire power grid.",
+      "aiSummary": "The OCP 2026 event focuses on the impact of agentic AI on data center infrastructure. It examines how this technology is driving changes across the entire system, ranging from chip-level design to grid-level power management.",
+      "articleUrl": "https://www.datacenterfrontier.com/hyperscale/article/55411534/ocp-2026-agentic-ai-pushes-the-data-center-from-chip-to-grid",
+      "category": "AI",
+      "filterTags": [
+        "OCP",
+        "Agentic AI",
+        "Data Center",
+        "Grid"
+      ],
+      "publishedAt": "2026-10-14T02:19:16+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "Energy"
+        }
+      ]
+    },
+    {
+      "slug": "malaysia-taps-china-s-satellite-tech-for-earlier-flood-warnings",
+      "title": "Malaysia Taps China’s Satellite Tech for Earlier Flood Warnings",
+      "dek": "Malaysia is turning to Chinese satellite technology for earlier warnings of floods that hit the country during its annual northeast monsoon, Bernama reported.",
+      "aiSummary": "Malaysia is adopting Chinese satellite technology to provide earlier warnings for floods caused by the annual northeast monsoon. This initiative aims to improve disaster preparedness during the monsoon season.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-14/malaysia-taps-china-s-satellite-tech-for-earlier-flood-warnings",
+      "category": "Disaster Management",
+      "filterTags": [
+        "Malaysia",
+        "China",
+        "Satellite Technology",
+        "Flood Warning"
+      ],
+      "publishedAt": "2026-10-14T02:13:32+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Disaster Management"
+        },
+        {
+          "name": "Space Technology"
+        },
+        {
+          "name": "Geopolitics"
+        }
+      ]
+    },
+    {
+      "slug": "v1-13-0-dev42",
+      "title": "v1.13.0.dev42",
+      "dek": "Langflow nightly v1.13.0.dev42",
+      "aiSummary": "Langflow has released version 1.13.0.dev42. This update is part of the project's nightly development cycle.",
+      "articleUrl": "https://github.com/langflow-ai/langflow/releases/tag/v1.13.0.dev42",
+      "category": "AI",
+      "filterTags": [
+        "Langflow"
+      ],
+      "publishedAt": "2026-10-14T02:12:39+00:00",
+      "publisher": {
+        "name": "langflow-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langflow-ai/langflow",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "google-deepmind-and-singapore-government-announce-new-ai-tool-to-protect-citizens-against-scams",
+      "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+      "dek": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+      "aiSummary": "Google DeepMind and GovTech Singapore have developed an AI tool that uses lightweight on-device Gemma models to detect conversational scams in private chats. The system operates locally to ensure zero cloud data egress, protecting user privacy while intercepting fraudulent interactions.",
+      "articleUrl": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "category": "AI",
+      "filterTags": [
+        "Google DeepMind",
+        "GovTech Singapore",
+        "Gemma",
+        "On-device AI",
+        "Scam Detection"
+      ],
+      "publishedAt": "2026-10-14T02:00:14+00:00",
+      "publisher": {
+        "name": "Google DeepMind",
+        "domain": "deepmind.google",
+        "website": "https://deepmind.google/",
+        "logoUrl": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/icons/google_deepmind_2x_96dp.png",
+        "faviconUrl": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/icons/google_deepmind_2x_96dp.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "Government Technology"
+        }
+      ]
+    },
+    {
+      "slug": "us-arrests-saudi-employee-of-openai-for-allegedly-bugging-its-offices",
+      "title": "US arrests Saudi employee of OpenAI for allegedly bugging its offices",
+      "dek": "AI lab discovered a recording device concealed behind a television in a conference room",
+      "aiSummary": "US authorities have arrested a Saudi employee of OpenAI who is accused of bugging the company's offices. The AI lab reportedly discovered a hidden recording device concealed behind a television in one of its conference rooms.",
+      "articleUrl": "https://www.ft.com/content/2c3b583a-3ddc-4920-a350-9698c119435c?syn-25a6b1a6=1",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "Surveillance",
+        "Security Breach"
+      ],
+      "publishedAt": "2026-10-14T01:59:24+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "ai-scaling-vs-human-scaling",
+      "title": "AI Scaling vs. Human Scaling",
+      "dek": "A comparison of how artificial intelligence expands versus how human capabilities grow.",
+      "aiSummary": "The provided text does not contain an article body, only a title. Therefore, no factual summary can be generated based on the content.",
+      "articleUrl": "https://www.tobyord.com/writing/ai-scaling-vs-human-scaling",
+      "category": "AI",
+      "filterTags": [
+        "AI"
+      ],
+      "publishedAt": "2026-10-14T01:50:17+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "ask-hn-what-do-you-think-will-be-hot-in-2027-with-on-device-ai",
+      "title": "Ask HN: What do you think will be hot in 2027 with on-device AI",
+      "dek": "What trends will define local AI processing in 2027?",
+      "aiSummary": "The provided text contains only a question asking for predictions on what will be popular regarding on-device AI in 2027. No specific facts, arguments, or details are included in the snippet to form a factual summary.",
+      "articleUrl": "https://news.ycombinator.com/item?id=50081396",
+      "category": "AI",
+      "filterTags": [
+        "on-device AI"
+      ],
+      "publishedAt": "2026-10-14T01:47:10+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-urges-court-in-washington-d-c-to-rehear-appeal-of-pentagon-blacklisting",
+      "title": "Anthropic urges court in Washington, D.C. to rehear appeal of Pentagon blacklisting",
+      "dek": "Anthropic is asking a federal court in Washington, D.C. to rehear its appeal in a case concerning the Pentagon's blacklisting of the company's AI models.",
+      "aiSummary": "Anthropic has petitioned a federal court in Washington, D.C., to rehear its appeal regarding the Department of Defense's blacklisting of the company's AI models. The legal action seeks to overturn or review the government's decision to restrict the use of Anthropic's technology.",
+      "articleUrl": "https://www.cnbc.com/2026/10/13/anthropic-wants-court-in-dc-to-rehear-appeal-of-pentagon-blacklist-.html",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "Pentagon",
+        "AI models",
+        "blacklisting",
+        "federal court"
+      ],
+      "publishedAt": "2026-10-14T01:35:51+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Defense"
+        }
+      ]
+    },
+    {
+      "slug": "china-s-producer-prices-jolted-by-oil-as-inflation-rebounds",
+      "title": "China’s Producer Prices Jolted by Oil as Inflation Rebounds",
+      "dek": "China’s producer inflation swung higher last month, as escalating hostilities in the Middle East sent oil prices surging past $100 a barrel and goods related to AI became more expensive.",
+      "aiSummary": "China's producer inflation increased last month. Rising Middle East tensions pushed oil prices above $100 per barrel, contributing to the rise. Prices for AI-related goods also climbed.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-14/china-s-producer-prices-jolted-by-100-oil-as-inflation-rebounds",
+      "category": "Economics",
+      "filterTags": [
+        "AI",
+        "Oil"
+      ],
+      "publishedAt": "2026-10-14T01:32:36+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Economics"
+        },
+        {
+          "name": "Energy"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "b11609",
+      "title": "b11609",
+      "dek": "webgpu: (Fix CI) fix mul_mat_id with duplicate expert ids ( #30451 ) \n \n \n Fix mm-id of webgpu in the case of ids duplication \n \n \n formatting \n \n \n fix comments to avoid breaking up sentences in comments \n \n \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github",
+      "aiSummary": "This update fixes a bug in the WebGPU backend where the multiplication of matrix IDs failed when duplicate expert IDs were present. The patch also includes formatting adjustments and comment refinements to improve code readability.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11609",
+      "category": "AI",
+      "filterTags": [
+        "WebGPU",
+        "CI",
+        "llama.app"
+      ],
+      "publishedAt": "2026-10-14T00:55:13+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "apple-has-appealed-the-5-7b-taction-verdict-arguing-jury-got-it-all-wrong",
+      "title": "Apple has appealed the $5.7B Taction verdict, arguing jury got it all wrong",
+      "dek": "A new filing suggests that not only does Apple not violate Taction's patents, but the jury arrived at the record $5.7 billion in damages \"based on guesswork\" and should be tossed. Apple is facing a record fine over patents In April 2021, Taction Technology sued Apple for  alleged",
+      "aiSummary": "Apple filed a new document arguing it does not infringe Taction Technology’s patents and that the jury’s $5.7 billion damages award was based on guesswork and should be overturned. Taction sued Apple in April 2021 over alleged patent infringement.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/14/apple-has-appealed-the-57b-taction-verdict-arguing-jury-got-it-all-wrong?utm_source=rss",
+      "category": "Intellectual Property",
+      "filterTags": [
+        "Apple",
+        "Taction Technology",
+        "patents"
+      ],
+      "publishedAt": "2026-10-14T00:43:25+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Intellectual Property"
+        },
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "b11608",
+      "title": "b11608",
+      "dek": "server : escape the special tokens without std::regex ( #30243 ) \n The d1-omni and kev prompts escape \"<|name|>\" in the request text with \nstd::regex_replace. libstdc++ recurses for each char of the name, so a \nstate of \"<|\" and 30000 letters overflows the stack of the HTTP threa",
+      "aiSummary": "The d1-omni and kev prompts previously used std::regex_replace to escape special tokens in request text, which caused stack overflows in the HTTP thread when processing long names due to libstdc++ recursion. This change removes the dependency on std::regex to prevent these crashes.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11608",
+      "category": "Backend",
+      "filterTags": [
+        "std::regex",
+        "libstdc++",
+        "HTTP",
+        "d1-omni",
+        "kev"
+      ],
+      "publishedAt": "2026-10-14T00:38:42+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Backend"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Performance"
+        }
+      ]
+    },
+    {
+      "slug": "b11607",
+      "title": "b11607",
+      "dek": "chat: replace output string with parts ( #30389 ) \n \n \n chat: replace output string with parts \n \n \n reserve first \n \n \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/55639755 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm6",
+      "aiSummary": "The article discusses a chat feature that replaces output strings with parts, referencing issue #30389. It mentions the llama.app website, attestations on GitHub, and support for macOS/iOS on Apple Silicon.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11607",
+      "category": "Open Source",
+      "filterTags": [
+        "llama.cpp",
+        "GitHub",
+        "Apple Silicon",
+        "macOS",
+        "iOS",
+        "llama.app"
+      ],
+      "publishedAt": "2026-10-14T00:21:56+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "v1-106-0-rc-2",
+      "title": "v1.106.0-rc.2",
+      "dek": "Verify Docker Image Signature \n All LiteLLM Docker images are signed with  cosign . Every release is signed with the same key introduced in  commit  0112e53 . \n Verify using the pinned commit hash (recommended): \n A commit hash is cryptographically immutable, so this is the stron",
+      "aiSummary": "LiteLLM Docker images are signed with cosign, and the v1.106.0-rc.2 release uses the same signing key introduced in commit 0112e53. Users are advised to verify the signature using the pinned commit hash, which provides cryptographic immutability.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.106.0-rc.2",
+      "category": "Security",
+      "filterTags": [
+        "cosign",
+        "LiteLLM",
+        "Docker"
+      ],
+      "publishedAt": "2026-10-13T23:59:21+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Containerization"
+        },
+        {
+          "name": "Software Release"
+        }
+      ]
+    },
+    {
+      "slug": "an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office",
+      "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
+      "dek": "Chatbot prompts reveal the engineer’s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-level executives.",
+      "aiSummary": "An OpenAI engineer is alleged to have used a chatbot to help install a covert recording device in the office. The incident occurred days before a listening device was discovered in a meeting room utilized by senior executives.",
+      "articleUrl": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "Chatbot",
+        "Surveillance"
+      ],
+      "publishedAt": "2026-10-13T23:17:59+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient",
+      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+      "dek": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+      "aiSummary": "Science Corporation implanted its vision-restoring chip into its first patient with Stargardt disease. Max Hodak, former president and co-founder of Neuralink, spoke at TechCrunch Disrupt about his company's work with PRIMA as part of a path toward a novel brain‑computer interface.",
+      "articleUrl": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+      "category": "Healthcare",
+      "filterTags": [
+        "Science Corporation",
+        "Stargardt disease",
+        "Neuralink",
+        "PRIMA",
+        "brain‑computer interface",
+        "TechCrunch Disrupt"
+      ],
+      "publishedAt": "2026-10-13T23:13:31+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Healthcare"
+        },
+        {
+          "name": "Neuroscience"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "cerebras-ceo-says-we-re-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home",
+      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+      "dek": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+      "aiSummary": "Cerebras CEO Andrew Feldman says personal AI assistants will soon be as common as household appliances. He envisions them operating partly on local devices and partly in the cloud.",
+      "articleUrl": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Cerebras",
+        "AI assistants",
+        "cloud computing"
+      ],
+      "publishedAt": "2026-10-13T23:05:34+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "how-long-will-humans-be-needed-for-translation",
+      "title": "How long will humans be needed for translation?",
+      "dek": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
+      "aiSummary": "Artificial intelligence has taken over most translation services, yet experts say that for critical or sensitive projects, human translators remain essential. The industry is shifting toward AI for routine work while reserving human oversight for high‑stakes content.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "translation"
+      ],
+      "publishedAt": "2026-10-13T23:05:29+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Translation"
+        }
+      ]
+    },
+    {
+      "slug": "is-it-ok-for-jobseekers-or-employers-to-use-ai",
+      "title": "Is it OK for jobseekers or employers to use AI?",
+      "dek": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
+      "aiSummary": "Research shows that many graduates are using AI to falsify information on job applications. Some argue that their peers feel pressured to do so. The study highlights concerns about authenticity and fairness in hiring.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
+      "category": "AI",
+      "filterTags": [
+        "AI"
+      ],
+      "publishedAt": "2026-10-13T23:04:39+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Human Resources"
+        },
+        {
+          "name": "Ethics"
+        }
+      ]
+    },
+    {
+      "slug": "use-of-ai-in-job-interviews-on-the-rise-but-uk-recruiters-say-they-can-spot-the-cheats",
+      "title": "Use of AI in job interviews on the rise – but UK recruiters say they can spot the cheats",
+      "dek": "Body representing some of Britain’s biggest graduate employers reveals misconduct is at a record high It is obvious when someone is using AI to drum up answers in a job interview, according to Chris Morrow, who runs a recruitment agency in Manchester. “It’s like they are reading ",
+      "aiSummary": "A body representing major British graduate employers reports that misconduct in job interviews is at a record high. Chris Morrow, a recruitment agency owner in Manchester, states that it is obvious when candidates use AI to generate answers during interviews.",
+      "articleUrl": "https://www.theguardian.com/technology/2026/oct/14/use-of-ai-job-interviews-on-rise-uk-recruiters-cheats",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Recruitment",
+        "Job Interviews",
+        "UK"
+      ],
+      "publishedAt": "2026-10-13T23:01:38+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Human Resources"
+        }
+      ]
+    },
+    {
+      "slug": "redesigning-source-control-at-anthropic",
+      "title": "Redesigning source control at Anthropic",
+      "dek": "Redesigning source control at Anthropic \nInteresting piece from Anthropic describing why and how they built their own custom alternative to Git, based on the dramatic increase in rate of changes to their code after the past six months. \n \n In May 2026, Anthropic averaged around 2",
+      "aiSummary": "Anthropic has built a custom alternative to Git to handle a dramatic increase in code changes over the past six months. The new system aims to improve workflow efficiency for their developers. In May 2026, Anthropic averaged around 2.",
+      "articleUrl": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
+      "category": "Software Development",
+      "filterTags": [
+        "Anthropic",
+        "Git"
+      ],
+      "publishedAt": "2026-10-13T23:00:06+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks",
+      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+      "dek": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
+      "aiSummary": "Industrial Next assists manufacturers in automating complex and delicate tasks that have historically relied on human labor. The company's goal is to allow factory robots to switch between different tasks in a matter of minutes instead of weeks.",
+      "articleUrl": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+      "category": "Robotics",
+      "filterTags": [
+        "Industrial Next",
+        "factory robots",
+        "manufacturing",
+        "automation"
+      ],
+      "publishedAt": "2026-10-13T23:00:00+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Robotics"
+        },
+        {
+          "name": "Manufacturing"
+        },
+        {
+          "name": "Automation"
+        }
+      ]
+    },
+    {
+      "slug": "openai-employee-arrested-after-recording-device-found-in-office",
+      "title": "OpenAI employee arrested after recording device found in office",
+      "dek": "Discovery of ‘sophisticated’ gadget adds to company’s list of privacy concerns after hackings by rogue agents OpenAI said it has found a hidden recording device in one of its offices and has referred the matter to the FBI. One of its employees has been arrested. In a  statement  ",
+      "aiSummary": "OpenAI reported discovering a sophisticated hidden recording device in one of its offices and has referred the incident to the FBI. One employee has been arrested in connection with the finding, which adds to the company's recent privacy concerns following previous hacking incidents.",
+      "articleUrl": "https://www.theguardian.com/technology/2026/oct/13/openai-employee-arrested-hidden-recording-device",
+      "category": "Security",
+      "filterTags": [
+        "OpenAI",
+        "FBI",
+        "recording device"
+      ],
+      "publishedAt": "2026-10-13T22:59:55+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Corporate Governance"
+        }
+      ]
+    },
+    {
+      "slug": "meta-launches-muse-wonder-and-muse-wonder-full-benchmarks-pricing-and-how-to-use-it",
+      "title": "Meta Launches Muse Wonder and Muse Wonder Full: Benchmarks, Pricing and How to Use It",
+      "dek": "Meta released Muse Wonder and Muse Wonder Full, 1M-context agent models. Muse Wonder costs $4/$20 per million tokens on Meta Model API. Wonder Full, on Muse Code plans, leads DeepSWE and SWE-Marathon. \n The post  Meta Launches Muse Wonder and Muse Wonder Full: Benchmarks, Pricing",
+      "aiSummary": "Meta has launched two new 1‑million‑token‑context agent models, Muse Wonder and Muse Wonder Full. Muse Wonder is priced at $4 or $20 per million tokens via the Meta Model API, while Muse Wonder Full is available on Muse Code plans and is used in DeepSWE and SWE‑Marathon competitions.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/13/meta-muse-wonder-muse-wonder-full-release/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Meta",
+        "Muse Wonder",
+        "Muse Wonder Full",
+        "Meta Model API",
+        "Muse Code",
+        "DeepSWE",
+        "SWE-Marathon"
+      ],
+      "publishedAt": "2026-10-13T22:53:44+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "here-s-where-jim-cramer-stands-on-this-newly-public-ai-infrastructure-stock",
+      "title": "Here's where Jim Cramer stands on this newly public AI infrastructure stock",
+      "dek": "CNBC’s Jim Cramer said investors should hold off on buying newly public AI infrastructure company Accelevation Holdings.",
+      "aiSummary": "CNBC's Jim Cramer recommends that investors wait before purchasing shares of Accelevation Holdings. He specifically advises holding off on buying the newly public AI infrastructure company.",
+      "articleUrl": "https://www.cnbc.com/2026/10/13/jim-cramer-accelevation-stock.html",
+      "category": "AI",
+      "filterTags": [
+        "Accelevation Holdings",
+        "Jim Cramer",
+        "CNBC"
+      ],
+      "publishedAt": "2026-10-13T22:47:07+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "llm-gemini-0-35",
+      "title": "llm-gemini 0.35",
+      "dek": "Release:   llm-gemini 0.35 \n I added support to  llm-gemini  for the  new Gemini 4 Argon  model, made available today via the Gemini API and for customers of their $100/month subscription plan. \n Here are  the low, medium and high pelicans . As expected, they are all excellent: G",
+      "aiSummary": "The llm-gemini library released version 0.35, adding support for the new Gemini 4 Argon model available through the Gemini API. This update also extends compatibility to users on the $100/month subscription plan. The release notes also reference low, medium, and high pelican models, described as excellent.",
+      "articleUrl": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
+      "category": "AI",
+      "filterTags": [
+        "llm-gemini",
+        "Gemini 4 Argon",
+        "Gemini API"
+      ],
+      "publishedAt": "2026-10-13T22:28:54+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "dyna-2-general-purpose-physical-agents-with-hour-long-autonomy-jason-ma-dyna-robotics",
+      "title": "Dyna-2: General Purpose Physical Agents with Hour-Long Autonomy — Jason Ma, Dyna Robotics",
+      "dek": "Our first robotics pod with Dyna’s Chief Scientist on their big bet on World Action Models & the Next Frontier of Physical AI",
+      "aiSummary": "Dyna Robotics has unveiled Dyna-2, a general-purpose physical agent designed to operate with hour-long autonomy. The company's Chief Scientist, Jason Ma, discusses the development of this robotics pod and the firm's strategic focus on World Action Models as the next frontier in physical AI.",
+      "articleUrl": "https://www.latent.space/p/dyna",
+      "category": "Robotics",
+      "filterTags": [
+        "Dyna Robotics",
+        "Dyna-2",
+        "World Action Models",
+        "Physical AI",
+        "Jason Ma"
+      ],
+      "publishedAt": "2026-10-13T22:25:55+00:00",
+      "publisher": {
+        "name": "Latent Space",
+        "domain": "latent.space",
+        "website": "https://www.latent.space/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Robotics"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-asks-appeals-court-to-rehear-fight-over-security-risk",
+      "title": "Anthropic Asks Appeals Court to Rehear Fight Over Security Risk",
+      "dek": "Anthropic PBC urged the federal appeals court in Washington to revisit its decision upholding the Trump administration’s designation of the artificial intelligence company as a supply-chain risk to US national security.",
+      "aiSummary": "Anthropic PBC has urged the federal appeals court in Washington to revisit its previous decision. The company is contesting the Trump administration's classification of it as an artificial intelligence firm posing a supply-chain risk to U.S. national security.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-13/anthropic-asks-appeals-court-to-rehear-fight-over-security-risk",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "Artificial Intelligence"
+      ],
+      "publishedAt": "2026-10-13T22:24:46+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "National Security"
+        }
+      ]
+    },
+    {
+      "slug": "jim-cramer-isn-t-giving-up-on-semiconductor-stocks-despite-the-sell-off-here-s-why",
+      "title": "Jim Cramer isn't giving up on semiconductor stocks despite the sell off. Here's why",
+      "dek": "CNBC’s Jim Cramer said investors shouldn't give up on semiconductor stocks despite the recent sell-off.",
+      "aiSummary": "Jim Cramer, host of CNBC's show, told investors not to abandon semiconductor stocks even though the sector has recently fallen. He believes the industry still holds potential for growth.",
+      "articleUrl": "https://www.cnbc.com/2026/10/13/jim-cramer-semiconductor-stocks-sell-off.html",
+      "category": "Finance",
+      "filterTags": [
+        "Jim Cramer",
+        "CNBC",
+        "semiconductor"
+      ],
+      "publishedAt": "2026-10-13T22:19:29+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Investing"
+        }
+      ]
+    },
+    {
+      "slug": "apple-will-get-some-openai-documents-but-not-everything-it-asked-for-in-court",
+      "title": "Apple will get some OpenAI documents, but not everything it asked for in court",
+      "dek": "As part of a new ruling in Apple's trade secret lawsuit against OpenAI, Apple has been granted access to the testimony of OpenAI employees and select related documents. Apple will get some of the OpenAI documents it requested in court. Apple alleges that its former employees, Tan",
+      "aiSummary": "In a new ruling regarding Apple's trade secret lawsuit against OpenAI, the court granted Apple access to testimony from OpenAI employees and specific related documents. This decision provides Apple with some of the materials it sought, although not all of the requested items were approved.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/13/apple-will-get-some-openai-documents-but-not-everything-it-asked-for-in-court?utm_source=rss",
+      "category": "Legal",
+      "filterTags": [
+        "Apple",
+        "OpenAI",
+        "trade secret lawsuit",
+        "court ruling"
+      ],
+      "publishedAt": "2026-10-13T22:14:52+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Corporate"
+        }
+      ]
+    },
+    {
+      "slug": "how-to-use-meta-s-rebalancer-for-task-placement-optimization",
+      "title": "How to Use Meta’s Rebalancer for Task Placement & Optimization",
+      "dek": "In this comprehensive coding tutorial, we explore Meta's Rebalancer assignment solver using its C++ core and Python bindings. Learn how to build datacenters, manage task placements across racks, handle constraints and goal priorities, and compare local search against the exact Hi",
+      "aiSummary": "The tutorial explains how to use Meta’s Rebalancer assignment solver, covering its C++ core and Python bindings. It shows how to build datacenters, manage task placements across racks, and handle constraints and goal priorities. It also compares local search methods with exact solutions.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/13/how-to-use-metas-rebalancer-for-task-placement-optimization/",
+      "category": "Software Development",
+      "filterTags": [
+        "Meta",
+        "Rebalancer",
+        "C++",
+        "Python"
+      ],
+      "publishedAt": "2026-10-13T22:14:20+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Optimization"
+        },
+        {
+          "name": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "slug": "web-edit-0-1a1",
+      "title": "web-edit 0.1a1",
+      "dek": "Release:   web-edit 0.1a1 \n Includes  performance optimizations  written  by Claude Opus 5.5  after I fed it  this Python 3.15 profiling report  generated by GPT-6 Astra. \n Tags:  profiling ,  projects",
+      "aiSummary": "The web-edit project has released version 0.1a1, which includes performance optimizations. These improvements were developed by Claude Opus 5.5 based on a Python 3.15 profiling report generated by GPT-6 Astra.",
+      "articleUrl": "https://simonwillison.net/2026/Oct/13/web-edit/",
+      "category": "Software Development",
+      "filterTags": [
+        "web-edit",
+        "Claude Opus 5.5",
+        "Python 3.15",
+        "GPT-6 Astra",
+        "profiling"
+      ],
+      "publishedAt": "2026-10-13T01:40:05+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Performance Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "nightly-bisect-c",
+      "title": "nightly-bisect/c",
+      "dek": "Add an opt-in chunked causal-LM loss that keeps no full-vocabulary FP…",
+      "aiSummary": "This update introduces an opt-in chunked causal language model loss function. This new loss mechanism is designed to operate without retaining full-vocabulary floating-point representations.",
+      "articleUrl": "https://github.com/deepspeedai/DeepSpeed/releases/tag/nightly-bisect%2Fc",
+      "category": "AI",
+      "filterTags": [
+        "causal-LM",
+        "chunked loss",
+        "floating-point"
+      ],
+      "publishedAt": "2026-10-11T23:58:32+00:00",
+      "publisher": {
+        "name": "microsoft",
+        "domain": "github.com",
+        "website": "https://github.com/microsoft/DeepSpeed",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Performance"
+        }
+      ]
+    },
+    {
+      "slug": "nightly-bisect-b-autosp-honor-seq-dim-when-autosp-shards-inputs-8720",
+      "title": "nightly-bisect/b: [AutoSP] Honor seq_dim when AutoSP shards inputs (#8720)",
+      "dek": "Split from  #8457 . \n Problem \n prepare_autosp_inputs()  takes a  seq_dim  argument, but only passes it \nto  mark_dynamic . The AutoSP graph passes ignore it: \n pass_shard_seq_dim  and  shard_tensor_node  always read the sequence \nlength from  shape[1]  and slice dimension 1. \n S",
+      "aiSummary": "The bug was that prepare_autosp_inputs() accepted a seq_dim argument but only forwarded it to mark_dynamic, while the AutoSP graph ignored it and always used shape[1] for the sequence length. This caused incorrect sharding of inputs. The fix ensures seq_dim is honored during sharding.",
+      "articleUrl": "https://github.com/deepspeedai/DeepSpeed/releases/tag/nightly-bisect%2Fb",
+      "category": "AI",
+      "filterTags": [
+        "AutoSP",
+        "seq_dim",
+        "prepare_autosp_inputs",
+        "sharding"
+      ],
+      "publishedAt": "2026-10-11T22:46:09+00:00",
+      "publisher": {
+        "name": "microsoft",
+        "domain": "github.com",
+        "website": "https://github.com/microsoft/DeepSpeed",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Performance Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "nightly-bisect-a-bug-fix-fix-cpuadagrad-updates-with-nonzero-weight-decay-8781",
+      "title": "nightly-bisect/a: [Bug Fix] Fix CPUAdagrad updates with nonzero weight decay (#8781)",
+      "dek": "Fix CPUAdagrad to use the weight-decay-adjusted gradient in both the \naccumulator and parameter update, matching   torch.optim.Adagrad  . \nPreviously, the update numerator incorrectly used the original gradient. \nCovers scalar and SIMD implementations, including the XPU copies. A",
+      "aiSummary": "The update fixes CPUAdagrad to use the weight-decay-adjusted gradient for both the accumulator and parameter updates, aligning it with torch.optim.Adagrad. This correction addresses a previous error where the original gradient was used in the update numerator and covers scalar, SIMD, and XPU implementations.",
+      "articleUrl": "https://github.com/deepspeedai/DeepSpeed/releases/tag/nightly-bisect%2Fa",
+      "category": "Machine Learning",
+      "filterTags": [
+        "CPUAdagrad",
+        "torch.optim.Adagrad",
+        "weight decay",
+        "SIMD",
+        "XPU"
+      ],
+      "publishedAt": "2026-10-11T15:21:59+00:00",
+      "publisher": {
+        "name": "microsoft",
+        "domain": "github.com",
+        "website": "https://github.com/microsoft/DeepSpeed",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    }
+  ]
+}
