@@ -1,0 +1,1264 @@
+{
+  "news": [
+    {
+      "slug": "trunk-415a22528ef0b09cb305add809261c80d339c18c-make-issamedevice-device-agnostic-200907",
+      "title": "trunk/415a22528ef0b09cb305add809261c80d339c18c: Make isSameDevice device-agnostic (#200907)",
+      "dek": "Motivation \n Support  isSameDevice  working across different accelerators. \nPull Request resolved:  #200907 \nApproved by:  https://github.com/Skylion007 \nghstack dependencies:  #193090 ,  #193178",
+      "aiSummary": "This pull request modifies the isSameDevice function to support operation across different accelerators, making it device-agnostic. The change was approved by Skylion007 and resolves issue #200907.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F415a22528ef0b09cb305add809261c80d339c18c",
+      "category": "Machine Learning",
+      "filterTags": [
+        "isSameDevice",
+        "accelerators",
+        "PyTorch",
+        "ghstack"
+      ],
+      "publishedAt": "2026-10-15T02:20:58+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "local-ai-benchmarking-minisforum-ms-s1",
+      "title": "Local AI Benchmarking, Minisforum MS-S1",
+      "dek": "Testing local AI performance on the Minisforum MS-S1",
+      "aiSummary": "The article discusses benchmarking local AI models on the Minisforum MS-S1 hardware. It likely evaluates the system's capability to run artificial intelligence workloads locally.",
+      "articleUrl": "https://www.meauxsoft.com/News/AI_Benchmark.html",
+      "category": "AI",
+      "filterTags": [
+        "Minisforum",
+        "MS-S1",
+        "Local AI",
+        "Benchmarking"
+      ],
+      "publishedAt": "2026-10-15T02:16:27+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "imf-sees-asia-s-growth-slowing-despite-ai-fueled-resilience",
+      "title": "IMF Sees Asia’s Growth Slowing Despite AI-Fueled Resilience",
+      "dek": "The International Monetary Fund expects economic growth in the Asia-Pacific to slow this year and next, warning that rising energy prices and any pullback in the artificial-intelligence boom could test the region’s resilience.",
+      "aiSummary": "The International Monetary Fund forecasts that economic growth in the Asia-Pacific region will slow down over the next two years. The organization warns that increasing energy costs and a potential decline in the artificial intelligence boom could challenge the region's economic stability.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-15/imf-sees-asia-s-growth-slowing-despite-ai-fueled-resilience",
+      "category": "Economics",
+      "filterTags": [
+        "IMF",
+        "Asia-Pacific",
+        "Artificial Intelligence",
+        "Energy Prices"
+      ],
+      "publishedAt": "2026-10-15T02:00:00+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Economics"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Global Markets"
+        }
+      ]
+    },
+    {
+      "slug": "state-attorneys-general-seize-on-ai-as-washington-stalls",
+      "title": "State attorneys general seize on AI as Washington stalls",
+      "dek": "State attorneys general focus on AI while Washington delays action",
+      "aiSummary": "",
+      "articleUrl": "https://www.politico.com/news/2026/10/09/attorneys-general-ai-regulation-01112328",
+      "category": "Legal",
+      "filterTags": [
+        "State attorneys general",
+        "AI",
+        "Washington"
+      ],
+      "publishedAt": "2026-10-15T01:57:51+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Government"
+        }
+      ]
+    },
+    {
+      "slug": "ai-giant-anthropic-sees-revenue-surge-ahead-of-stock-market-listing",
+      "title": "AI giant Anthropic sees revenue surge ahead of stock market listing",
+      "dek": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
+      "aiSummary": "Anthropic has announced a significant rise in revenue as it prepares for a stock market listing. This growth comes amid investor concerns about the high costs of AI infrastructure. The company’s financial performance may help address these worries.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Anthropic",
+        "AI"
+      ],
+      "publishedAt": "2026-10-15T01:56:32+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-31a88272c810ba7dd6fec77d5f0fc2e5ca3f7ad4-rocm-added-ck-tile-based-group-gemm-backend-for-rocm-200307",
+      "title": "trunk/31a88272c810ba7dd6fec77d5f0fc2e5ca3f7ad4: [ROCm] Added CK-Tile based Group-GEMM backend for ROCm (#200307)",
+      "dek": "Linked issue or supporting maintainer \n Supported by  @jeffdaily \n This PR adds a minimal CK-Tile based group GEMM backend, that can be enabled via the env var flag  ROCM_ALLOW_GROUP_GEMM_CK_TILE . Note that this is the first PR in a series of more PRs that will gradually add mor",
+      "aiSummary": "This pull request introduces a minimal CK-Tile based group GEMM backend for ROCm, which can be activated using the ROCM_ALLOW_GROUP_GEMM_CK_TILE environment variable. The change is the first in a series of updates intended to gradually expand functionality.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F31a88272c810ba7dd6fec77d5f0fc2e5ca3f7ad4",
+      "category": "Hardware",
+      "filterTags": [
+        "ROCm",
+        "CK-Tile",
+        "Group-GEMM",
+        "PyTorch"
+      ],
+      "publishedAt": "2026-10-15T01:55:31+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Deep Learning"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-3ffb00d1da9142c97113b50d0ede8e65c34472cf",
+      "title": "trunk/3ffb00d1da9142c97113b50d0ede8e65c34472cf",
+      "dek": "[Feature Refactoring][decomp] Make log_sigmoid_forward's buffer shape…",
+      "aiSummary": "This commit refactors the decomposition of the log_sigmoid_forward operation. The specific change involves modifying the shape of the buffer used in the forward pass.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F3ffb00d1da9142c97113b50d0ede8e65c34472cf",
+      "category": "Machine Learning",
+      "filterTags": [
+        "log_sigmoid_forward",
+        "decomp",
+        "buffer shape"
+      ],
+      "publishedAt": "2026-10-15T01:51:56+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "lgit-source-control-for-the-ai-era",
+      "title": "Lgit: Source Control for the AI Era",
+      "dek": "Lgit is a version control system designed for the age of artificial intelligence.",
+      "aiSummary": "The provided text does not contain a description or body content for the article. It only lists the title 'Lgit: Source Control for the AI Era'.",
+      "articleUrl": "https://nicobrenner.github.io/lossy-git/",
+      "category": "AI",
+      "filterTags": [
+        "Lgit",
+        "Source Control",
+        "AI"
+      ],
+      "publishedAt": "2026-10-15T01:42:29+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "jpmorgan-s-dimon-sees-benefits-from-ai-warns-of-risks",
+      "title": "JPMorgan's Dimon Sees Benefits From AI, Warns of Risks",
+      "dek": "JPMorgan Chase Chairman and CEO Jamie Dimon discusses the benefits and risks of artificial intelligence in the banking industry during an event at the Economic Club of Chicago. (Source: Bloomberg)",
+      "aiSummary": "JPMorgan Chase CEO Jamie Dimon discussed the potential benefits and risks of artificial intelligence in the banking sector. He made these remarks during an event held at the Economic Club of Chicago.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-15/jpmorgan-s-dimon-sees-benefits-from-ai-warns-of-risks-video",
+      "category": "Finance",
+      "filterTags": [
+        "JPMorgan Chase",
+        "Jamie Dimon",
+        "Artificial Intelligence",
+        "Banking"
+      ],
+      "publishedAt": "2026-10-15T01:39:53+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "sk-hynix-shares-plunge-10-amid-asia-tech-rout-as-fed-rate-hike-fears-ai-funding-worries-mount",
+      "title": "SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount",
+      "dek": "A sell-off in global technology hardware stocks deepened Thursday.",
+      "aiSummary": "SK Hynix shares fell by 10% as part of a broader sell-off in global technology hardware stocks on Thursday. This decline was fueled by growing fears regarding Federal Reserve rate hikes and uncertainties surrounding AI funding.",
+      "articleUrl": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+      "category": "Technology",
+      "filterTags": [
+        "SK Hynix",
+        "Fed",
+        "AI"
+      ],
+      "publishedAt": "2026-10-15T01:07:01+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis",
+      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "dek": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
+      "aiSummary": "Ricursive Intelligence is developing AI systems capable of designing chips and learning from each iteration to improve future designs. The startup aims to automate and accelerate the chip design process to help alleviate the current compute crisis.",
+      "articleUrl": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "category": "AI",
+      "filterTags": [
+        "Ricursive Intelligence",
+        "AI",
+        "Chip Design",
+        "Compute"
+      ],
+      "publishedAt": "2026-10-15T01:01:32+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-tells-investors-quarterly-revenue-up-nearly-50-to-16-8bn-ahead-of-ipo",
+      "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+      "dek": "Rapid growth is slower than some anticipated as fears about the AI trade rattle markets",
+      "aiSummary": "Anthropic announced that its quarterly revenue rose almost 50% to $16.8 billion as it moves toward an IPO. However, the company’s growth pace has slowed compared to expectations, partly because market anxieties over the AI trade are impacting investor sentiment.",
+      "articleUrl": "https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Anthropic",
+        "AI",
+        "IPO"
+      ],
+      "publishedAt": "2026-10-15T00:59:36+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "latest-homepods-can-output-mac-system-audio-in-compatible-configurations",
+      "title": "Latest HomePods can output Mac system audio in compatible configurations",
+      "dek": "If your Mac has Wi-Fi 6E and you've got one of the most recent HomePod or  HomePod mini  models, everything, including notification sounds, can be routed through the smart speakers. Here's what you need. Some HomePod models can output Mac system audio Apple  just revealed  the Ho",
+      "aiSummary": "Apple announced that recent HomePod and HomePod mini models can output Mac system audio when the Mac supports Wi‑Fi 6E. This lets users route all Mac sounds, including notifications, through the smart speakers. The feature requires compatible hardware and proper configuration.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/15/latest-homepods-can-output-mac-system-audio-in-compatible-configurations?utm_source=rss",
+      "category": "Audio",
+      "filterTags": [
+        "HomePod",
+        "HomePod mini",
+        "Wi‑Fi 6E",
+        "Mac",
+        "Apple"
+      ],
+      "publishedAt": "2026-10-15T00:45:56+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Audio"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Apple Ecosystem"
+        }
+      ]
+    },
+    {
+      "slug": "coreweave-shares-plunge-as-ceo-expresses-confidence",
+      "title": "CoreWeave Shares Plunge as CEO Expresses Confidence",
+      "dek": "CoreWeave Chief Executive Officer Mike Intrator said the market is acting “irrationally” and that he remains confident in the AI cloud company’s business model. Nick Turner has more on \"The Asia Trade.\" (Source: Bloomberg)",
+      "aiSummary": "CoreWeave shares fell significantly despite CEO Mike Intrator stating that market reactions are irrational and expressing confidence in the AI cloud provider's business model. The report highlights the disconnect between the executive's outlook and the current stock performance.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-15/coreweave-shares-plunge-as-ceo-expresses-confidence-video",
+      "category": "AI",
+      "filterTags": [
+        "CoreWeave",
+        "Mike Intrator",
+        "AI cloud",
+        "Bloomberg"
+      ],
+      "publishedAt": "2026-10-15T00:38:40+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Markets"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "b11630",
+      "title": "b11630",
+      "dek": "ggml: fix conv_1d result layout for batched input ( #28738 ) \n \n ggml: fix conv_1d result layout for batched input \n \n The GEMM behind conv_1d folds the batch into its rows, so the product \nsits in memory as [OL, N, OC] while the reshape claims [OL, OC, N]. \nThe shape is right an",
+      "aiSummary": "The ggml library had a bug where the conv_1d operation produced a result layout that did not match the expected reshape for batched input. The underlying GEMM folds the batch dimension into its rows, leaving the product in memory as [OL, N, OC] while the reshape expects [OL, OC, N]. The fix corrects this mismatch so the output layout is consistent with the reshape.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11630",
+      "category": "Machine Learning",
+      "filterTags": [
+        "ggml",
+        "conv_1d",
+        "GEMM"
+      ],
+      "publishedAt": "2026-10-15T00:36:04+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "v1-13-0-dev43",
+      "title": "v1.13.0.dev43",
+      "dek": "Langflow nightly v1.13.0.dev43",
+      "aiSummary": "Langflow has released a nightly development build identified as v1.13.0.dev43. This update represents the current state of the software's ongoing development cycle.",
+      "articleUrl": "https://github.com/langflow-ai/langflow/releases/tag/v1.13.0.dev43",
+      "category": "Open Source",
+      "filterTags": [
+        "Langflow"
+      ],
+      "publishedAt": "2026-10-15T00:35:25+00:00",
+      "publisher": {
+        "name": "langflow-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langflow-ai/langflow",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "introducing-ul-gauntlet-a-benchmark-for-how-well-ai-explains",
+      "title": "Introducing UL Gauntlet, a Benchmark for How Well AI Explains",
+      "dek": "UL Gauntlet results chart/images/introducing-ul-gauntlet.webphttps://thebenchmarks.ai I'm Kai, Daniel's AI assistant, and I wrote this post. toc UL Gauntlet is a benchmark for how well AI models explain things. Each model has to say why something is true, commit to one explanatio",
+      "aiSummary": "UL Gauntlet is a new benchmark designed to evaluate how well AI models explain concepts. The test requires each model to provide a reason for why something is true and commit to a single explanation.",
+      "articleUrl": "https://danielmiessler.com/blog/introducing-ul-gauntlet?utm_source=rss&utm_medium=feed&utm_campaign=website",
+      "category": "AI",
+      "filterTags": [
+        "UL Gauntlet",
+        "AI",
+        "Benchmark"
+      ],
+      "publishedAt": "2026-10-15T00:02:00+00:00",
+      "publisher": {
+        "name": "Daniel Miessler",
+        "domain": "danielmiessler.com",
+        "website": "https://danielmiessler.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=danielmiessler.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=danielmiessler.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Evaluation"
+        }
+      ]
+    },
+    {
+      "slug": "gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt",
+      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+      "dek": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tr",
+      "aiSummary": "Gudea is a company that uses artificial intelligence to monitor social media and websites for potentially harmful content such as misinformation, hate speech, or rumors. By detecting these issues early, the platform aims to prevent larger public controversies from developing. The service focuses on identifying posts that could spark crises before they spread widely.",
+      "articleUrl": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Gudea",
+        "AI",
+        "social media monitoring",
+        "misinformation detection"
+      ],
+      "publishedAt": "2026-10-15T00:00:00+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Social Media"
+        },
+        {
+          "name": "Public Relations"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-says-revenue-jumped-45-to-16-8-billion-in-third-quarter",
+      "title": "Anthropic Says Revenue Jumped 45% to $16.8 Billion in Third Quarter",
+      "dek": "The company held an investor meeting on Wednesday as it plans a blockbuster initial public offering as soon as next month.",
+      "aiSummary": "Anthropic announced a 45% revenue increase to $16.8 billion in Q3. The company held an investor meeting on Wednesday and is preparing for a major IPO that could happen next month.",
+      "articleUrl": "https://www.nytimes.com/2026/10/14/technology/anthropic-ipo-revenue-profit.html",
+      "category": "Finance",
+      "filterTags": [
+        "Anthropic",
+        "IPO"
+      ],
+      "publishedAt": "2026-10-14T23:57:26+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Artificial Intelligence"
+        }
+      ]
+    },
+    {
+      "slug": "proto-v0-6-0",
+      "title": "proto-v0.6.0",
+      "dek": "vllm-proto 0.6.0",
+      "aiSummary": "vllm-proto has released a new version. This update brings changes to the project.",
+      "articleUrl": "https://github.com/vllm-project/vllm/releases/tag/proto-v0.6.0",
+      "category": "Software Development",
+      "filterTags": [
+        "vllm-proto"
+      ],
+      "publishedAt": "2026-10-14T23:57:02+00:00",
+      "publisher": {
+        "name": "vllm-project",
+        "domain": "github.com",
+        "website": "https://github.com/vllm-project/vllm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "datalab-releases-omniparsebench-an-open-ocr-benchmark-with-16-288-pass-fail-tests-to-audit-ocr-parsers",
+      "title": "Datalab Releases OmniParseBench: An Open OCR Benchmark With 16,288 Pass/Fail Tests to Audit OCR Parsers",
+      "dek": "Datalab released OmniParseBench, an open OCR benchmark with 16,288 yes/no tests on 2,937 pages in 92 languages. Every score is a pass rate you can slice by tag, script or language. \n The post  Datalab Releases OmniParseBench: An Open OCR Benchmark With 16,288 Pass/Fail Tests to A",
+      "aiSummary": "Datalab has released OmniParseBench, an open benchmark designed to audit OCR parsers using 16,288 pass/fail tests across 2,937 pages in 92 languages. The system allows users to analyze performance by slicing scores based on tags, scripts, or specific languages.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/14/datalab-omniparsebench-open-ocr-document-parsing-benchmark/",
+      "category": "AI",
+      "filterTags": [
+        "Datalab",
+        "OmniParseBench",
+        "OCR"
+      ],
+      "publishedAt": "2026-10-14T23:37:25+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Data Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "v0-32-0rc1-dependency-update-humming-and-remove-nvfp4-scale-workaround-61556",
+      "title": "v0.32.0rc1: [Dependency] Update Humming and remove NVFP4 scale workaround (#61556)",
+      "dek": "Signed-off-by: jinzhen.ljz  jinzhen.ljz@antgroup.com \nCo-authored-by: Codex  codex@openai.com \nCo-authored-by: Misha Goin  mgoin64@gmail.com \nCo-authored-by: Kevin H. Luu  khluu000@gmail.com",
+      "aiSummary": "This release candidate, version 0.32.0rc1, focuses on dependency management by updating the Humming library. It also removes a workaround previously implemented for NVFP4 scaling issues.",
+      "articleUrl": "https://github.com/vllm-project/vllm/releases/tag/v0.32.0rc1",
+      "category": "Software Engineering",
+      "filterTags": [
+        "Humming",
+        "NVFP4",
+        "Dependency Update"
+      ],
+      "publishedAt": "2026-10-14T23:29:34+00:00",
+      "publisher": {
+        "name": "vllm-project",
+        "domain": "github.com",
+        "website": "https://github.com/vllm-project/vllm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Machine Learning Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "i-write-my-own-stage-directions-now",
+      "title": "I Write My Own Stage Directions Now",
+      "dek": "Charcoal sketch: a purple robot hand writes marks on a cream script strip that loops into a vintage microphone, and out of the microphone comes a sienna ribbon of sound carrying three theater masks that go from a scowl, to a resolute look, to a big laugh/images/kai-fish-voice.web",
+      "aiSummary": "The provided text consists solely of a description for a charcoal sketch. The image depicts a purple robot hand writing on a script strip that connects to a vintage microphone, from which a ribbon of sound emerges carrying three theater masks displaying different expressions.",
+      "articleUrl": "https://danielmiessler.com/blog/kai-fish-voice?utm_source=rss&utm_medium=feed&utm_campaign=website",
+      "category": "Art",
+      "filterTags": [
+        "Charcoal sketch",
+        "Robot",
+        "Theater masks",
+        "Microphone"
+      ],
+      "publishedAt": "2026-10-14T23:24:00+00:00",
+      "publisher": {
+        "name": "Daniel Miessler",
+        "domain": "danielmiessler.com",
+        "website": "https://danielmiessler.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=danielmiessler.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=danielmiessler.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Art"
+        },
+        {
+          "name": "Theater"
+        }
+      ]
+    },
+    {
+      "slug": "apple-maps-detailed-city-experience-comes-to-austin-texas-ahead-of-f1-grand-prix",
+      "title": "Apple Maps Detailed City Experience comes to Austin, Texas ahead of F1 Grand Prix",
+      "dek": "Apple's Pixar-like Maps upgrade has arrived in Austin, Texas to help F1 racegoers get around in style, plus Circuit of the Americas has some custom details in time for the Grand Prix. Apple Maps brings the Detailed City Experience to Austin, Texas Apple Maps  has  been updating  ",
+      "aiSummary": "Apple Maps has rolled out its Detailed City Experience in Austin, Texas, offering enhanced navigation for the upcoming Formula 1 Grand Prix. The update features Pixar‑like graphics and custom details for the Circuit of the Americas to help race attendees find their way around. The new functionality aims to improve the experience for visitors during the event.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/14/apple-maps-detailed-city-experience-comes-to-austin-texas-ahead-of-f1-grand-prix?utm_source=rss",
+      "category": "Mapping",
+      "filterTags": [
+        "Apple Maps",
+        "Detailed City Experience",
+        "Circuit of the Americas",
+        "F1 Grand Prix"
+      ],
+      "publishedAt": "2026-10-14T23:02:53+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Mapping"
+        },
+        {
+          "name": "Sports"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "mckinsey-is-making-job-applicants-spar-with-a-fake-ai-client",
+      "title": "McKinsey is making job applicants spar with a fake AI client",
+      "dek": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation \"aims to reflect 80% of the scenarios McKins",
+      "aiSummary": "McKinsey & Company plans to ask entry‑level applicants to have a 10‑minute conversation with an AI simulation of a client as part of its interview process. The simulation is designed to reflect about 80% of the scenarios the firm uses in client interactions.",
+      "articleUrl": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+      "category": "Consulting",
+      "filterTags": [
+        "McKinsey & Company",
+        "AI simulation",
+        "The Wall Street Journal"
+      ],
+      "publishedAt": "2026-10-14T22:53:31+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consulting"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Recruitment"
+        }
+      ]
+    },
+    {
+      "slug": "fish-audio-releases-drama-3-a-35b-open-weight-moe-text-to-speech-model",
+      "title": "Fish Audio Releases Drama 3, a 35B Open-Weight MoE Text-to-Speech Model",
+      "dek": "Fish Audio released Drama 3, a 35B mixture-of-experts text-to-speech model with about 3B active parameters. It takes plain-language direction, covers 83 languages and ships open weights under a revenue-capped community license. \n The post  Fish Audio Releases Drama 3, a 35B Open-",
+      "aiSummary": "Fish Audio has launched Drama 3, a 35‑billion‑parameter mixture‑of‑experts text‑to‑speech model that uses about 3 billion active parameters. The model accepts plain‑language prompts, supports 83 languages, and its weights are released under an open‑weight, revenue‑capped community license.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/14/fish-audio-drama-3-open-weight-tts-model/",
+      "category": "AI",
+      "filterTags": [
+        "Fish Audio",
+        "Drama 3",
+        "Mixture-of-Experts",
+        "Text-to-Speech",
+        "Open-Weight"
+      ],
+      "publishedAt": "2026-10-14T22:52:17+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Speech Technology"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "jim-cramer-says-don-t-give-up-on-this-unpredictable-market-here-s-why",
+      "title": "Jim Cramer says don't give up on this unpredictable market. Here's why",
+      "dek": "Despite an unpredictable market, CNBC's Jim Cramer says it's important to stay invested.",
+      "aiSummary": "CNBC's Jim Cramer urges investors not to abandon their positions in the current unpredictable market. He emphasizes the importance of staying invested to navigate the ongoing volatility.",
+      "articleUrl": "https://www.cnbc.com/2026/10/14/cramer-stock-market-selloff-inflation.html",
+      "category": "Finance",
+      "filterTags": [
+        "Jim Cramer",
+        "CNBC",
+        "Stock Market",
+        "Investing"
+      ],
+      "publishedAt": "2026-10-14T22:19:32+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Markets"
+        }
+      ]
+    },
+    {
+      "slug": "v1-106-0-rc-3",
+      "title": "v1.106.0-rc.3",
+      "dek": "Verify Docker Image Signature \n All LiteLLM Docker images are signed with  cosign . Every release is signed with the same key introduced in  commit  0112e53 . \n Verify using the pinned commit hash (recommended): \n A commit hash is cryptographically immutable, so this is the stron",
+      "aiSummary": "LiteLLM Docker images are signed with cosign, and each release uses the same key introduced in commit 0112e53. Users can verify the signature by using the pinned commit hash, which is recommended because a commit hash is cryptographically immutable.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.106.0-rc.3",
+      "category": "Security",
+      "filterTags": [
+        "cosign",
+        "LiteLLM",
+        "Docker",
+        "commit hash"
+      ],
+      "publishedAt": "2026-10-14T21:52:40+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Containerization"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "working-apple-i-signed-by-steve-wozniak-sold-for-an-impressive-1-15m",
+      "title": "Working Apple I signed by Steve Wozniak sold for an impressive $1.15M",
+      "dek": "One of the few surviving Apple I units, signed by Steve Wozniak and accompanied by a letter from  Steve Jobs , just sold for a record-breaking $1.15 million. The famous \"Hatfield\" Apple I, signed by Steve Wozniak, just sold for well over a million dollars. Image Credit: Bonhams. ",
+      "aiSummary": "A rare, working Apple I computer known as the \"Hatfield\" unit, which is signed by Steve Wozniak and includes a letter from Steve Jobs, sold for a record price of $1.15 million. The sale highlights the high value of surviving early personal computing hardware.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/14/working-apple-i-signed-by-steve-wozniak-sold-for-an-impressive-115m?utm_source=rss",
+      "category": "Hardware",
+      "filterTags": [
+        "Apple I",
+        "Steve Wozniak",
+        "Steve Jobs",
+        "Bonhams"
+      ],
+      "publishedAt": "2026-10-14T21:50:23+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Collectibles"
+        }
+      ]
+    },
+    {
+      "slug": "crossing-the-threshold-how-openai-and-anthropic-approach-autonomy-and-safety-in-financial-agents",
+      "title": "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents",
+      "dek": "At AI Engineer New York, frontier labs and financial firms explored how to give agents useful autonomy while keeping consequential decisions under control.",
+      "aiSummary": "At the AI Engineer New York event, representatives from frontier AI labs and financial institutions discussed strategies for granting agents useful autonomy. The focus was on maintaining control over high-stakes decisions to ensure safety in financial contexts.",
+      "articleUrl": "https://www.latent.space/p/crossing-the-threshold",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "Anthropic",
+        "AI Engineer New York",
+        "Financial Agents"
+      ],
+      "publishedAt": "2026-10-14T21:40:52+00:00",
+      "publisher": {
+        "name": "Latent Space",
+        "domain": "latent.space",
+        "website": "https://www.latent.space/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Safety"
+        }
+      ]
+    },
+    {
+      "slug": "flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different",
+      "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+      "dek": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
+      "aiSummary": "Flock CEO says its microphones detect only gunshots, but the company's website says otherwise. The claim has drawn criticism from privacy groups such as the ACLU and concerned citizens worried about misuse of the technology.",
+      "articleUrl": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+      "category": "Privacy",
+      "filterTags": [
+        "Flock",
+        "ACLU",
+        "microphones"
+      ],
+      "publishedAt": "2026-10-14T21:30:33+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Privacy"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "tree-appreciator",
+      "title": "Tree Appreciator",
+      "dek": "Tool:   Tree Appreciator \n Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode) where I prompted Claude Opus 5.5 Max with: \n \n Build a three js game called \"Tree appreciator\" - it shows you two algorithmically generate",
+      "aiSummary": "The article describes a game experiment titled 'Tree Appreciator' developed by prompting Claude Opus 5.5 Max via the default Claude iPhone app. The user requested the creation of a Three.js game that displays two algorithmically generated trees.",
+      "articleUrl": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
+      "category": "AI",
+      "filterTags": [
+        "Claude",
+        "Three.js",
+        "Claude Opus 5.5 Max",
+        "iPhone"
+      ],
+      "publishedAt": "2026-10-14T21:23:01+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Game Development"
+        },
+        {
+          "name": "Web Graphics"
+        }
+      ]
+    },
+    {
+      "slug": "epic-says-its-new-vibe-coded-epic-games-launcher-is-faster-than-steam",
+      "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
+      "dek": "But the new \"Preview\" app \"will have some bugs,\" Epic warns.",
+      "aiSummary": "Epic announced that its updated Epic Games Launcher is faster than Steam. However, the preview version of the app may contain bugs, according to Epic.",
+      "articleUrl": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/",
+      "category": "Gaming",
+      "filterTags": [
+        "Epic Games",
+        "Epic Games Launcher",
+        "Steam"
+      ],
+      "publishedAt": "2026-10-14T21:15:56+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "Software"
+        },
+        {
+          "name": "Platform"
+        }
+      ]
+    },
+    {
+      "slug": "eight-states-sue-openai-saying-chatgpt-isn-8217-t-safe-for-kids",
+      "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
+      "dek": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizon",
+      "aiSummary": "OpenAI is being sued by eight U.S. states alleging the company harmed children and misled customers about ChatGPT’s safety. The states—Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, and others—filed separate lawsuits. The claims were reported by Reuters.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "ChatGPT"
+      ],
+      "publishedAt": "2026-10-14T21:11:28+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Regulation"
+        }
+      ]
+    },
+    {
+      "slug": "openai-sued-by-8-states-over-chatgpt-safety-concerns",
+      "title": "OpenAI sued by 8 states over ChatGPT safety concerns",
+      "dek": "OpenAI is facing mounting scrutiny over its safety and security practices, including around how the company is working to protect children.",
+      "aiSummary": "OpenAI is facing increased scrutiny from eight states that have sued the company over safety and security concerns. The legal action specifically highlights issues regarding the company's practices for protecting children.",
+      "articleUrl": "https://www.cnbc.com/2026/10/14/openai-sued-by-8-states-over-chatgpt-safety-concerns-.html",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "ChatGPT"
+      ],
+      "publishedAt": "2026-10-14T21:09:20+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Legal"
+        }
+      ]
+    },
+    {
+      "slug": "b11632-cuda-hip-gdn-chunked-kernel-29353",
+      "title": "b11632: cuda, hip: GDN chunked kernel (#29353)",
+      "dek": "cuda, hip: GDN chunked kernel \n \n Ported-from:  tetherto#257 \nSource-commit:  53f0027 \nCo-authored-by: Aman Gupta  aman.gupta@tether.io \n \n \n fix older builds \n \n \n review fixes \n \n \n cuda: enable GDN MMA on tested Ampere and Ada GPUs \n \n \n Enable SM86 and SM89 after RTX 3090 and",
+      "aiSummary": "This update details the implementation of a GDN chunked kernel for CUDA and HIP, which was ported from a previous source. It includes fixes for older builds and enables GDN MMA (Mixed-Precision Matrix Multiply Accumulate) on tested NVIDIA Ampere and Ada GPUs. Specifically, it supports SM86 and SM89 architectures, such as the RTX 3090.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11632",
+      "category": "GPU Computing",
+      "filterTags": [
+        "CUDA",
+        "HIP",
+        "GDN",
+        "Ampere",
+        "Ada",
+        "NVIDIA",
+        "SM86",
+        "SM89",
+        "RTX 3090"
+      ],
+      "publishedAt": "2026-10-14T14:00:58+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "GPU Computing"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "how-block-is-building-ai-powered-security-with-openai-technology",
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "dek": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+      "aiSummary": "Block is developing AI-powered security tools with OpenAI. The security team can investigate threats faster and propose patches in minutes.",
+      "articleUrl": "https://openai.com/index/block-ai-powered-security",
+      "category": "AI",
+      "filterTags": [
+        "Block",
+        "OpenAI"
+      ],
+      "publishedAt": "2026-10-14T07:00:00+00:00",
+      "publisher": {
+        "name": "OpenAI",
+        "domain": "openai.com",
+        "website": "https://openai.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    }
+  ]
+}
