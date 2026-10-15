@@ -1,0 +1,1733 @@
+{
+  "news": [
+    {
+      "slug": "why-your-platform-team-shouldn-t-build-an-ai-context-layer-even-though-they-probably-could",
+      "title": "Why your platform team shouldn't build an AI context layer (even though they probably could)",
+      "dek": "Most engineering teams capable of building an internal AI knowledge system think they should. But six months later, it's a platform team's full-time job. Building an in-house AI context layer costs more money and energy than you think.",
+      "aiSummary": "Although many engineering teams believe they should build internal AI knowledge systems, doing so often becomes a full-time burden for platform teams. The article argues that developing an in-house AI context layer is more expensive and resource-intensive than initially anticipated.",
+      "articleUrl": "https://stackoverflow.blog/2026/10/15/your-team-shouldnt-build-an-ai-context-layer/",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Platform Engineering",
+        "Knowledge Management"
+      ],
+      "publishedAt": "2026-10-15T17:00:00+00:00",
+      "publisher": {
+        "name": "Stack Overflow Blog",
+        "domain": "stackoverflow.blog",
+        "website": "https://stackoverflow.blog",
+        "logoUrl": "https://stackoverflow.blog/apple-touch-icon.png",
+        "faviconUrl": "https://stackoverflow.blog/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "v0-41-0",
+      "title": "v0.41.0",
+      "dek": "ComfyUI v0.41.0",
+      "aiSummary": "ComfyUI has released version 0.41.0. The provided text contains only the version number and project name without further details on specific features or changes.",
+      "articleUrl": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.41.0",
+      "category": "AI",
+      "filterTags": [
+        "ComfyUI"
+      ],
+      "publishedAt": "2026-10-15T15:56:50+00:00",
+      "publisher": {
+        "name": "comfyanonymous",
+        "domain": "github.com",
+        "website": "https://github.com/comfyanonymous/ComfyUI",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "apple-s-m5-macbook-air-with-24gb-ram-1tb-ssd-drops-to-1-599",
+      "title": "Apple's M5 MacBook Air with 24GB RAM, 1TB SSD drops to $1,599",
+      "dek": "Save $200 on Apple's  upgraded 13-inch MacBook Air M5  that's equipped with 24GB of RAM and 1TB of storage. Save $200 on Apple's M5 MacBook Air with 24GB RAM, 1TB SSD - Image credit: Apple Amazon's mid-October MacBook Air sale delivers  $200 in savings  on a popular configuration",
+      "aiSummary": "Amazon is offering a $200 discount on the 13-inch MacBook Air equipped with the M5 chip, 24GB of RAM, and 1TB of SSD storage. This mid-October sale reduces the price of the popular configuration to $1,599.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/15/apples-m5-macbook-air-with-24gb-ram-1tb-ssd-drops-to-1599?utm_source=rss",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Apple",
+        "MacBook Air",
+        "M5",
+        "Amazon"
+      ],
+      "publishedAt": "2026-10-15T15:51:26+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "tsmc-chip-capacity-is-fierce-battleground-for-ai-customers-amid-record-quarter",
+      "title": "TSMC chip capacity is ‘fierce’ battleground for AI customers, amid record quarter",
+      "dek": "TSMC had a record quarter, but it can't make chips for everyone as Nvidia, Apple, Broadcom and AMD fight for capacity.",
+      "aiSummary": "TSMC reported a record quarter but faces intense competition from major clients like Nvidia, Apple, Broadcom, and AMD for its limited chip manufacturing capacity. The company cannot currently meet the demand from all these high-profile customers simultaneously.",
+      "articleUrl": "https://www.cnbc.com/2026/10/15/nvidia-apple-broadcom-in-fierce-battle-to-make-chips-at-tsmc.html",
+      "category": "Semiconductors",
+      "filterTags": [
+        "TSMC",
+        "Nvidia",
+        "Apple",
+        "Broadcom",
+        "AMD",
+        "AI"
+      ],
+      "publishedAt": "2026-10-15T15:51:23+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Supply Chain"
+        }
+      ]
+    },
+    {
+      "slug": "b11662",
+      "title": "b11662",
+      "dek": "sync : ggml \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/56327800 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silicon (arm64, KleidiAI enabled)  DISABLED \n macOS Intel (x64) \n iOS XCFramework \n \n Linu",
+      "aiSummary": "The release notes for version b11662 of llama.cpp indicate a synchronization update with the ggml library. The build is available for macOS Apple Silicon, macOS Intel, and iOS XCFramework, with specific support for KleidiAI on Apple Silicon.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11662",
+      "category": "AI",
+      "filterTags": [
+        "llama.cpp",
+        "ggml",
+        "KleidiAI",
+        "Apple Silicon",
+        "iOS"
+      ],
+      "publishedAt": "2026-10-15T15:44:30+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "report-ftc-probes-anthropic-openai-after-trump-dismissed-ai-fears-as-hoax",
+      "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
+      "dek": "FTC may fine AI firms on par with companies that delay data breach reports.",
+      "aiSummary": "The Federal Trade Commission is investigating Anthropic and OpenAI after President Trump dismissed concerns about artificial intelligence as a hoax. The agency may impose fines on these AI companies similar to those levied against firms that delay reporting data breaches.",
+      "articleUrl": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
+      "category": "AI",
+      "filterTags": [
+        "FTC",
+        "Anthropic",
+        "OpenAI",
+        "Trump",
+        "AI"
+      ],
+      "publishedAt": "2026-10-15T15:43:24+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Regulation"
+        },
+        {
+          "name": "Policy"
+        }
+      ]
+    },
+    {
+      "slug": "ternus-spent-15-years-planning-the-iphone-duo",
+      "title": "Ternus spent 15 years planning the iPhone Duo",
+      "dek": "New CEO  John Ternus  believes Apple should get designs right rather than launch early or emulate rivals, and the iPhone Duo is an example of that. John Ternus and the iPhone Duo - image credit: Apple. Ternus was named as  Tim Cook 's successor in April 2026, around 25 years afte",
+      "aiSummary": "John Ternus, who succeeded Tim Cook as Apple CEO in April 2026, prioritized perfecting product designs over early launches or copying competitors. The iPhone Duo serves as a key example of this strategy, having been in the planning phase for 15 years.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/15/ternus-spent-15-years-planning-the-iphone-duo?utm_source=rss",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Apple",
+        "John Ternus",
+        "Tim Cook",
+        "iPhone Duo"
+      ],
+      "publishedAt": "2026-10-15T15:32:26+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Corporate Leadership"
+        }
+      ]
+    },
+    {
+      "slug": "how-to-design-for-failures",
+      "title": "How to Design for Failures",
+      "dek": "In this article, we’ll look at the various strategies that can help developers deal with failures in their systems.",
+      "aiSummary": "The article outlines various strategies that developers can use to manage failures within their systems. It focuses on practical approaches to dealing with these issues.",
+      "articleUrl": "https://blog.bytebytego.com/p/how-to-design-for-failures",
+      "category": "Software Engineering",
+      "filterTags": [
+        "System Design",
+        "Error Handling",
+        "Resilience"
+      ],
+      "publishedAt": "2026-10-15T15:31:01+00:00",
+      "publisher": {
+        "name": "ByteByteGo",
+        "domain": "bytebytego.com",
+        "website": "https://bytebytego.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bytebytego.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bytebytego.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "System Architecture"
+        }
+      ]
+    },
+    {
+      "slug": "jev-your-engines-seven-open-decision-models-vs-a-generative-llm",
+      "title": "Jev Your Engines: Seven Open Decision Models vs. a Generative LLM",
+      "dek": "A hands-on Jev repo comparison of routing accuracy, latency, and output reliability \n The post  Jev Your Engines: Seven Open Decision Models vs. a Generative LLM  appeared first on  Towards Data Science .",
+      "aiSummary": "The article presents a hands-on comparison using the Jev repository to evaluate seven open decision models against a generative LLM. The analysis focuses on specific performance metrics, including routing accuracy, latency, and output reliability.",
+      "articleUrl": "https://towardsdatascience.com/jev-your-engines-seven-open-decision-models-vs-a-generative-llm/",
+      "category": "AI",
+      "filterTags": [
+        "Jev",
+        "Generative LLM",
+        "Decision Models",
+        "Towards Data Science"
+      ],
+      "publishedAt": "2026-10-15T15:30:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-ceo-huang-says-coreweave-improving-no-backstop-needed",
+      "title": "Nvidia CEO Huang Says CoreWeave Improving, No Backstop Needed",
+      "dek": "Nvidia Corp. Chief Executive Officer Jensen Huang said CoreWeave Inc., a data center operator that his company supplies with computers, is getting financially stronger.",
+      "aiSummary": "Nvidia CEO Jensen Huang stated that CoreWeave, a data center operator supplied by Nvidia, is becoming financially stronger. He indicated that the company is improving and does not need a financial backstop.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-15/nvidia-ceo-huang-says-coreweave-improving-no-backstop-needed",
+      "category": "Technology",
+      "filterTags": [
+        "Nvidia",
+        "CoreWeave",
+        "Jensen Huang",
+        "Data Centers"
+      ],
+      "publishedAt": "2026-10-15T15:27:52+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "tale-of-two-markets-our-3-biggest-winners-and-losers-over-the-past-five-weeks",
+      "title": "Tale of two markets: Our 3 biggest winners and losers over the past five weeks",
+      "dek": "A divided market created big winners and losers. Here's how our stocks fared since the last Monthly Meeting.",
+      "aiSummary": "A divided market has resulted in significant performance differences among stocks over the last five weeks. The article details the three biggest winners and losers from the portfolio since the previous Monthly Meeting.",
+      "articleUrl": "https://www.cnbc.com/investingclub/2026/10/15/tale-of-two-markets-our-3-biggest-winners-and-losers-over-the-past-five-weeks.html",
+      "category": "Finance",
+      "filterTags": [
+        "Stocks",
+        "Market Performance",
+        "Portfolio"
+      ],
+      "publishedAt": "2026-10-15T15:25:18+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Investing"
+        }
+      ]
+    },
+    {
+      "slug": "singer-or-clanker-youtube-music-will-tell-you-with-new-gen-ai-labeling",
+      "title": "Singer or clanker? YouTube Music will tell you with new gen AI labeling",
+      "dek": "The AI music labels are rolling out now in YouTube Music and will come to YouTube soon.",
+      "aiSummary": "YouTube Music is launching AI-generated music labels that identify whether a track is by a singer or a clanker. The feature is currently available in YouTube Music and is expected to expand to the main YouTube platform shortly.",
+      "articleUrl": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/",
+      "category": "AI",
+      "filterTags": [
+        "YouTube Music",
+        "AI",
+        "music labeling"
+      ],
+      "publishedAt": "2026-10-15T15:12:58+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Music"
+        },
+        {
+          "name": "Streaming"
+        }
+      ]
+    },
+    {
+      "slug": "v1-106-0-rc-4",
+      "title": "v1.106.0-rc.4",
+      "dek": "Verify Docker Image Signature \n All LiteLLM Docker images are signed with  cosign . Every release is signed with the same key introduced in  commit  0112e53 . \n Verify using the pinned commit hash (recommended): \n A commit hash is cryptographically immutable, so this is the stron",
+      "aiSummary": "LiteLLM has released version 1.106.0-rc.4, which includes signed Docker images using cosign. The release documentation recommends verifying image signatures using a pinned commit hash to ensure cryptographic immutability and security.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.106.0-rc.4",
+      "category": "DevOps",
+      "filterTags": [
+        "LiteLLM",
+        "Docker",
+        "cosign"
+      ],
+      "publishedAt": "2026-10-15T15:12:32+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "v0-40-5",
+      "title": "v0.40.5",
+      "dek": "What's Changed \n \n mlx: port the Metal custom kernels to CUDA by  @dhiltgen  in  #18657 \n docs: model recs and language standardization by  @anra8571  in  #18981 \n openai: accept custom tool calls in Responses history by  @hoyyeva  in  #18911 \n app: clarify cloud payment errors b",
+      "aiSummary": "The v0.40.5 release brings multiple updates. It ports Metal custom kernels to CUDA, updates documentation for model recommendations and language standardization, and adds support for custom tool calls in OpenAI responses history. Additionally, it clarifies cloud payment errors in the app.",
+      "articleUrl": "https://github.com/ollama/ollama/releases/tag/v0.40.5-rc1",
+      "category": "Software Development",
+      "filterTags": [
+        "Metal",
+        "CUDA",
+        "OpenAI",
+        "mlx",
+        "custom tool calls"
+      ],
+      "publishedAt": "2026-10-15T15:07:44+00:00",
+      "publisher": {
+        "name": "ollama",
+        "domain": "github.com",
+        "website": "https://github.com/ollama/ollama",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Computing"
+        }
+      ]
+    },
+    {
+      "slug": "ryan-israel-on-investing-beyond-ai",
+      "title": "Ryan Israel on Investing Beyond AI",
+      "dek": "As AI stocks retreat and rates remain a concern, Pershing Square CIO Ryan Israel joins Bloomberg Open Interest to explain why the firm is focused on durable businesses at attractive prices. He discusses the long-term cases for the eye-care company Alcon and Netflix, when a macro ",
+      "aiSummary": "Pershing Square CIO Ryan Israel explains why the firm is concentrating on durable businesses at attractive prices as AI stocks retreat and rates remain a concern. He highlights long‑term opportunities in the eye‑care company Alcon and streaming giant Netflix, while noting macro‑economic factors.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-15/ryan-israel-on-investing-beyond-ai-video",
+      "category": "Finance",
+      "filterTags": [
+        "Pershing Square",
+        "Ryan Israel",
+        "Alcon",
+        "Netflix",
+        "Bloomberg Open Interest",
+        "AI"
+      ],
+      "publishedAt": "2026-10-15T15:05:50+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Healthcare"
+        }
+      ]
+    },
+    {
+      "slug": "trust-in-depth-giving-agents-more-autonomy-without-losing-control",
+      "title": "Trust in Depth: Giving agents more autonomy without losing control",
+      "dek": "Enterprise leaders want AI agents to take on more work but don't fully trust them to act correctly every time. Trust in Depth is AWS's layered approach-scope, know, bound, observe, and prove-that lets agents act on their own when their actions can be verified, reserving human jud",
+      "aiSummary": "Enterprise leaders seek to increase AI agent autonomy but remain concerned about reliability. AWS proposes 'Trust in Depth,' a layered framework involving scope, knowledge, bounds, observation, and proof, which allows agents to act autonomously only when their actions are verifiable.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/trust-in-depth-giving-agents-more-autonomy-without-losing-control/",
+      "category": "AI",
+      "filterTags": [
+        "AWS",
+        "AI agents",
+        "Trust in Depth"
+      ],
+      "publishedAt": "2026-10-15T15:05:35+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Enterprise Software"
+        }
+      ]
+    },
+    {
+      "slug": "ai-agents-are-coming-to-rivian-s-cars",
+      "title": "AI agents are coming to Rivian’s cars",
+      "dek": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
+      "aiSummary": "Rivian plans to introduce AI agents in its vehicles. Details are expected to be announced at the company's AI & Autonomy Day event in December.",
+      "articleUrl": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+      "category": "Automotive",
+      "filterTags": [
+        "Rivian",
+        "AI agents",
+        "Autonomy"
+      ],
+      "publishedAt": "2026-10-15T15:02:36+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Automotive"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Autonomous Vehicles"
+        }
+      ]
+    },
+    {
+      "slug": "open-from-data-center-to-desktop-nvidia-expands-nemotron-family-with-highest-efficiency-super-vl-and-bolt-models",
+      "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+      "dek": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents. Joining it are two new edge models: Nemotron 3.5 Bolt 74B-A9B 24GB, optimized to balance intelligence ",
+      "aiSummary": "NVIDIA has released Nemotron 3.5 Super VL, an open 120-billion-parameter model designed for specialized always-on agents with high accuracy and speed. The release also includes Nemotron 3.5 Bolt 74B-A9B 24GB, an edge model optimized to balance intelligence and efficiency.",
+      "articleUrl": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+      "category": "AI",
+      "filterTags": [
+        "NVIDIA",
+        "Nemotron",
+        "Super VL",
+        "Bolt",
+        "LLM"
+      ],
+      "publishedAt": "2026-10-15T15:00:24+00:00",
+      "publisher": {
+        "name": "NVIDIA",
+        "domain": "nvidia.com",
+        "website": "https://blogs.nvidia.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-s-new-nemotron-3-5-super-vl-is-another-step-forward-for-us-open-weight-ai",
+      "title": "Nvidia’s new Nemotron 3.5 Super VL is another step forward for US open-weight AI",
+      "dek": "Nvidia’s new models join a wave of open-weight releases from US labs on the heels of the Hugging Face hack.",
+      "aiSummary": "Nvidia has introduced new models, including the Nemotron 3.5 Super VL, as part of a growing trend of open-weight AI releases from U.S. labs following the recent Hugging Face hack. The launch follows a wave of open-weight releases from U.S. labs after the Hugging Face hack.",
+      "articleUrl": "https://www.zdnet.com/innovation/nvidia-nemotron-3-5-super-vl-model-us-open-weight-ai/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Nvidia",
+        "Nemotron 3.5 Super VL",
+        "Hugging Face"
+      ],
+      "publishedAt": "2026-10-15T15:00:00+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "how-windows-is-being-optimized-for-nvidia-s-rtx-spark-laptops",
+      "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
+      "dek": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area. A day after the media event, I was invited to a quieter Nvidia event to hear [",
+      "aiSummary": "Microsoft and Nvidia hosted a launch party in San Francisco for the first wave of RTX Spark laptops, showcasing a new line of AI PCs that drew a packed crowd and hands‑on demos. The author attended a quieter Nvidia event the following day to hear more details.",
+      "articleUrl": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
+      "category": "Hardware",
+      "filterTags": [
+        "Microsoft",
+        "Nvidia",
+        "RTX Spark",
+        "AI PCs"
+      ],
+      "publishedAt": "2026-10-15T14:30:00+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software"
+        }
+      ]
+    },
+    {
+      "slug": "google-s-universal-cart-shopping-tool-launches-in-the-us",
+      "title": "Google’s Universal Cart shopping tool launches in the US",
+      "dek": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+      "aiSummary": "Google has launched its Universal Cart shopping tool in the U.S. The feature is accessible through both Google Search and the Gemini app.",
+      "articleUrl": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+      "category": "E-commerce",
+      "filterTags": [
+        "Google",
+        "Universal Cart",
+        "Gemini",
+        "Google Search"
+      ],
+      "publishedAt": "2026-10-15T14:29:33+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "E-commerce"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Search"
+        }
+      ]
+    },
+    {
+      "slug": "gta-6-all-you-need-to-know-about-rockstar-s-blockbuster-game",
+      "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
+      "dek": "A new launch trailer for Grand Theft Auto VI reveals more details about what's set to be the biggest game of the year.",
+      "aiSummary": "Rockstar released a new launch trailer for Grand Theft Auto VI, offering additional details about the game. The trailer highlights features that position it as the biggest game of the year.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/c9q20djz4wno?at_medium=RSS&at_campaign=rss",
+      "category": "Gaming",
+      "filterTags": [
+        "Rockstar",
+        "Grand Theft Auto VI"
+      ],
+      "publishedAt": "2026-10-15T14:25:48+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "Entertainment"
+        }
+      ]
+    },
+    {
+      "slug": "apple-donated-25-million-to-white-house-ballroom-project",
+      "title": "Apple donated $25 million to White House ballroom project",
+      "dek": "The  Washington Post  claims to have the goods on who's chipped in a total of $330 million for the controversial White House demolition and ballroom project. Apple is said to have donated $25 million, as has Nvidia. Microsoft is in for $10 million, and so is Lockheed Martin. The ",
+      "aiSummary": "The Washington Post reports that a total of $330 million has been pledged for the White House demolition and ballroom project. Apple contributed $25 million, along with Nvidia, while Microsoft and Lockheed Martin each pledged $10 million.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/15/apple-donated-25-million-to-white-house-ballroom-project?utm_source=rss",
+      "category": "Politics",
+      "filterTags": [
+        "Apple",
+        "Nvidia",
+        "Microsoft",
+        "Lockheed Martin",
+        "White House"
+      ],
+      "publishedAt": "2026-10-15T14:25:07+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Construction"
+        },
+        {
+          "name": "Corporate Philanthropy"
+        }
+      ]
+    },
+    {
+      "slug": "copilotkit-releases-clif-a-continual-learning-platform-that-turns-agent-traces-and-user-actions-into-skills-evals-and-fi",
+      "title": "CopilotKit Releases CLiF: A Continual Learning Platform That Turns Agent Traces and User Actions into Skills, Evals, and Fine-Tuning Data",
+      "dek": "Introduction Teams shipping AI agents at scale keep running into the same pattern. Even agents built on top-tier models like Fable and Astra struggle to carry out complex, end-to-end tasks inside a specific product consistently enough to deploy. So teams grind out evals for the w",
+      "aiSummary": "CopilotKit has released CLiF, a continual learning platform designed to address the consistency challenges teams face when deploying AI agents for complex tasks. The tool converts agent traces and user actions into skills, evaluations, and fine-tuning data to improve agent reliability in specific product environments.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/15/copilotkit-releases-clif-a-continual-learning-platform-that-turns-agent-traces-and-user-actions-into-skills-evals-and-fine-tuning-data/",
+      "category": "AI",
+      "filterTags": [
+        "CopilotKit",
+        "CLiF",
+        "AI Agents",
+        "Fine-Tuning",
+        "Evals"
+      ],
+      "publishedAt": "2026-10-15T14:19:27+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Developer Tools"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "aws-anthropic-race-to-deploy-army-of-specialized-engineers-key-to-proving-ai-spending-will-pay-off",
+      "title": "AWS, Anthropic race to deploy army of specialized engineers key to proving AI spending will pay off",
+      "dek": "AWS, Anthropic, OpenAI and Google are racing to build forward deployed engineering teams as companies seek returns on their AI investments.",
+      "aiSummary": "AWS, Anthropic, OpenAI, and Google are competing to create forward‑deployed engineering teams. These teams aim to prove that spending on AI technologies yields returns for the companies.",
+      "articleUrl": "https://www.cnbc.com/2026/10/15/aws-anthropic-racing-to-deploy-army-of-specialized-ai-engineers.html",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AWS",
+        "Anthropic",
+        "OpenAI",
+        "Google"
+      ],
+      "publishedAt": "2026-10-15T14:10:14+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Enterprise Technology"
+        },
+        {
+          "name": "Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "nobody-is-safe-from-celebrity-ai-deepfakes",
+      "title": "Nobody is safe from celebrity AI deepfakes",
+      "dek": "In hindsight, the post on Instagram should have raised more red flags. The image purported to show actress Mia Goth, just days after filing for divorce from actor and filmmaker Shia LaBeouf, posing in a T-shirt with a pointed message: MY EX IS MY BIGGEST FAN. To really drive home",
+      "aiSummary": "An Instagram post circulated an image that appeared to show actress Mia Goth wearing a T‑shirt with the caption \"MY EX IS MY BIGGEST FAN.\" The photo was released shortly after she filed for divorce from Shia LaBeouf, raising concerns about the authenticity of celebrity deepfakes. The post should have triggered more caution about AI‑generated content.",
+      "articleUrl": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
+      "category": "Social Media",
+      "filterTags": [
+        "Instagram",
+        "AI deepfakes"
+      ],
+      "publishedAt": "2026-10-15T14:03:42+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Social Media"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "coreweave-credit-risk-hits-record-as-default-odds-top-60-on-borrowing-plans",
+      "title": "CoreWeave Credit Risk Hits Record as Default Odds Top 60% on Borrowing Plans",
+      "dek": "A measure of CoreWeave Inc.’s credit risk climbed to an all-time high Thursday as its high-yield bonds extended declines, rattled by the AI cloud-computing company’s talk of tapping vast pools of capital from insurers.",
+      "aiSummary": "CoreWeave's credit risk measure hit an all-time high on Thursday as its high-yield bonds continued to decline. This market reaction was triggered by the AI cloud-computing company's plans to access significant capital from insurers.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-15/coreweave-risk-gauge-hits-record-pricing-60-odds-of-default",
+      "category": "Finance",
+      "filterTags": [
+        "CoreWeave",
+        "high-yield bonds",
+        "AI cloud-computing"
+      ],
+      "publishedAt": "2026-10-15T14:01:51+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "what-openai-s-719-math-papers-mean-for-data-science",
+      "title": "What OpenAI’s 719 Math Papers Mean for Data Science",
+      "dek": "Matching messy text, choosing representative examples, and generating comparison data. \n The post  What OpenAI’s 719 Math Papers Mean for Data Science  appeared first on  Towards Data Science .",
+      "aiSummary": "The post discusses how OpenAI’s 719 math papers influence data science, focusing on methods for matching messy text, selecting representative examples, and generating comparison data. These techniques aim to streamline data preprocessing and improve model evaluation. The article was published on Towards Data Science.",
+      "articleUrl": "https://towardsdatascience.com/what-openais-719-math-papers-mean-for-data-science/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "OpenAI",
+        "data science",
+        "Towards Data Science"
+      ],
+      "publishedAt": "2026-10-15T14:00:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Data Science"
+        },
+        {
+          "name": "Research"
+        }
+      ]
+    },
+    {
+      "slug": "techcrunch-disrupt-2026-last-day",
+      "title": "TechCrunch Disrupt 2026: Last day",
+      "dek": "Last day to join TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
+      "aiSummary": "TechCrunch Disrupt 2026 is currently in its final registration phase, inviting over 10,000 tech leaders to attend. Attendees can secure a pass with a 75% discount to participate in a day focused on professional connections and industry insights.",
+      "articleUrl": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
+      "category": "Events",
+      "filterTags": [
+        "TechCrunch Disrupt 2026"
+      ],
+      "publishedAt": "2026-10-15T14:00:00+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Events"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "benn-jordan-on-flock-privacy-and-the-new-surveillance-backlash",
+      "title": "Benn Jordan on Flock, privacy, and the new surveillance backlash",
+      "dek": "Today, I’m talking with Benn Jordan, musician, YouTuber, researcher, and investigative journalist. You might know Benn from those first two titles — he’s got a prolific discography of experimental music dating back decades. But in the last couple of years, he’s become a high-prof",
+      "aiSummary": "Benn Jordan, a musician, YouTuber, researcher, and investigative journalist, discusses Flock, privacy, and the new surveillance backlash. He has a long history of experimental music and has become a high‑profile figure in recent years.",
+      "articleUrl": "https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy",
+      "category": "Privacy",
+      "filterTags": [
+        "Benn Jordan",
+        "Flock",
+        "privacy",
+        "surveillance",
+        "YouTube"
+      ],
+      "publishedAt": "2026-10-15T14:00:00+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Privacy"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Music"
+        },
+        {
+          "name": "Media"
+        }
+      ]
+    },
+    {
+      "slug": "b11669",
+      "title": "b11669",
+      "dek": "llama.cpp : bump version to 0.7.0 ( #30603 )",
+      "aiSummary": "The llama.cpp project has released version 0.7.0. This update is associated with pull request #30603.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11669",
+      "category": "Open Source",
+      "filterTags": [
+        "llama.cpp",
+        "0.7.0"
+      ],
+      "publishedAt": "2026-10-15T13:48:22+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "tokenomics-smart-strategies-to-deal-with-the-costs-of-ai-and-infrastructure",
+      "title": "Tokenomics: smart strategies to deal with the costs of AI and infrastructure",
+      "dek": "AI expenditure is growing rapidly, demanding a rethink of capital deployment",
+      "aiSummary": "Rapidly increasing AI spending is forcing organizations to reconsider how they allocate capital. The article discusses strategic approaches to managing the rising costs associated with AI and infrastructure.",
+      "articleUrl": "https://www.ft.com/content/3effd703-591f-43c5-828e-dd11839653eb",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Infrastructure",
+        "Tokenomics",
+        "Capital Deployment"
+      ],
+      "publishedAt": "2026-10-15T13:30:56+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Technology Strategy"
+        }
+      ]
+    },
+    {
+      "slug": "openkylin-outlines-its-vision-for-reimagining-linux-in-the-ai-era-at-open-source-summit-europe-2026",
+      "title": "openKylin Outlines Its Vision for Reimagining Linux in the AI Era at Open Source Summit Europe 2026",
+      "dek": "At Open Source Summit Europe 2026, openKylin outlined its vision for transitioning from resource management to intent management in the AI era. The community introduced KART, a unified AI runtime, alongside core desktop features in openKylin 3.0 like the AI Assistant, Global Inte",
+      "aiSummary": "At the Open Source Summit Europe 2026, openKylin announced a shift from resource management to intent management for the AI era. The community unveiled KART, a unified AI runtime, and highlighted new desktop features in openKylin 3.0, including an AI Assistant and a Global Interface.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/15/openkylin-outlines-its-vision-for-reimagining-linux-in-the-ai-era-at-open-source-summit-europe-2026/",
+      "category": "Open Source",
+      "filterTags": [
+        "openKylin",
+        "KART",
+        "AI runtime",
+        "openKylin 3.0",
+        "AI Assistant",
+        "Global Interface"
+      ],
+      "publishedAt": "2026-10-15T13:23:45+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Operating Systems"
+        }
+      ]
+    },
+    {
+      "slug": "b11658",
+      "title": "b11658",
+      "dek": "models : add maion-coder ( #29778 ) \n \n \n Add Support to maion-coder arch \n \n \n iAdd Support to support Draft models \n \n \n Address comments \n \n \n Remove maion context shift function \n \n \n \n Co-authored-by: Karthik Vijayan  kavijay@microsoft.com \n \n Website: \n \n https://llama.app ",
+      "aiSummary": "The update introduces support for the maion-coder architecture and draft models. It also includes the removal of the maion context shift function and was co-authored by Karthik Vijayan.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11658",
+      "category": "AI",
+      "filterTags": [
+        "maion-coder",
+        "Draft models",
+        "Microsoft"
+      ],
+      "publishedAt": "2026-10-15T13:14:19+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-tells-investors-quarterly-revenue-up-nearly-50-to-16-8bn-ahead-of-ipo",
+      "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+      "dek": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO \nThe phrase \"told investors\" appears four times in this FT article, which reports on Anthropic's day of hosting investors on Wednesday. Lots of details in here from \" people with knowledge of the ma",
+      "aiSummary": "Anthropic announced to investors that its quarterly revenue increased by nearly 50% to $16.8bn as it moves toward an IPO. The FT article covers the company's investor day held on Wednesday, noting that the phrase 'told investors' appears multiple times.",
+      "articleUrl": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "IPO",
+        "Financial Times"
+      ],
+      "publishedAt": "2026-10-15T13:04:03+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "dial-up-the-cloud-nvidia-dlss-4-5-controls-arrive-on-geforce-now",
+      "title": "Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW",
+      "dek": "Dial in the next gaming session this GFN Thursday. New NVIDIA DLSS 4.5 controls give GeForce NOW members more choice over how supported games look and perform in the cloud, even without the latest hardware. Then, step into the Shroud as Keen Games’ Enshrouded leaves early access ",
+      "aiSummary": "NVIDIA has introduced new DLSS 4.5 controls for GeForce NOW, allowing users to customize the visual quality and performance of supported cloud games without requiring the latest local hardware. Additionally, the game Enshrouded by Keen Games is leaving early access.",
+      "articleUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/",
+      "category": "Cloud Gaming",
+      "filterTags": [
+        "NVIDIA",
+        "DLSS 4.5",
+        "GeForce NOW",
+        "Keen Games",
+        "Enshrouded"
+      ],
+      "publishedAt": "2026-10-15T13:00:59+00:00",
+      "publisher": {
+        "name": "NVIDIA",
+        "domain": "nvidia.com",
+        "website": "https://blogs.nvidia.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cloud Gaming"
+        },
+        {
+          "name": "Graphics Technology"
+        },
+        {
+          "name": "Gaming"
+        }
+      ]
+    },
+    {
+      "slug": "teaching-students-to-think-and-learn-through-questions",
+      "title": "Teaching students to think and learn through questions",
+      "dek": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+      "aiSummary": "The article invites educators to celebrate Teachers’ Day using AI tools in Brazilian Portuguese. It highlights Study Mode, which assists teachers in fostering active, step-by-step learning.",
+      "articleUrl": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "category": "Education",
+      "filterTags": [
+        "AI for Educators",
+        "Study Mode"
+      ],
+      "publishedAt": "2026-10-15T13:00:00+00:00",
+      "publisher": {
+        "name": "OpenAI",
+        "domain": "openai.com",
+        "website": "https://openai.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Education"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Language Learning"
+        }
+      ]
+    },
+    {
+      "slug": "google-s-new-universal-cart-tracks-prices-on-items-you-want-now-plus-3-other-tricks",
+      "title": "Google’s new Universal Cart tracks prices on items you want now – plus 3 other tricks",
+      "dek": "Google unveiled two new shopping tools ahead of the holiday buying season. Here’s what to know.",
+      "aiSummary": "Google has introduced two new shopping tools designed to assist consumers during the upcoming holiday buying season. One of these features is the Universal Cart, which tracks prices for items users wish to purchase, and the release includes three other related tricks or functionalities.",
+      "articleUrl": "https://www.zdnet.com/tech/google-universal-cart-when-to-buy-guide/",
+      "category": "E-commerce",
+      "filterTags": [
+        "Google",
+        "Universal Cart",
+        "Shopping"
+      ],
+      "publishedAt": "2026-10-15T13:00:00+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "E-commerce"
+        },
+        {
+          "name": "Consumer Technology"
+        }
+      ]
+    },
+    {
+      "slug": "power-corner-why-led-backlights-are-the-new-battery-bottleneck-in-1s-laptops",
+      "title": "Power Corner: Why LED Backlights Are the New Battery Bottleneck in 1S Laptops",
+      "dek": "Splitting boost and charge-pump stages extends battery life in modern single-cell laptop LED backlight drivers today. \n The post  Power Corner: Why LED Backlights Are the New Battery Bottleneck in 1S Laptops   appeared first on  Power Electronics News .",
+      "aiSummary": "In modern single-cell laptops, LED backlights have emerged as a significant factor limiting battery life. Engineers are addressing this by splitting boost and charge-pump stages in the backlight drivers to improve efficiency and extend usage time.",
+      "articleUrl": "https://www.powerelectronicsnews.com/power-corner-why-led-backlights-are-the-new-battery-bottleneck-in-1s-laptops/",
+      "category": "Hardware",
+      "filterTags": [
+        "LED Backlights",
+        "Battery Life",
+        "Charge-Pump",
+        "Boost Stages",
+        "Power Electronics"
+      ],
+      "publishedAt": "2026-10-15T13:00:00+00:00",
+      "publisher": {
+        "name": "Power Electronics News",
+        "domain": "powerelectronicsnews.com",
+        "website": "https://www.powerelectronicsnews.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Power Management"
+        }
+      ]
+    },
+    {
+      "slug": "how-many-guesses-does-it-take-to-crack-an-ai-s-random-number",
+      "title": "How Many Guesses Does It Take to Crack an AI's \"Random\" Number?",
+      "dek": "I read the exact answer distribution from the logits of open models, base and instruction-tuned, and turned it into bits and guesses-to-crack. \n The post  How Many Guesses Does It Take to Crack an AI's \"Random\" Number?  appeared first on  Towards Data Science .",
+      "aiSummary": "The article analyzes the answer distribution from the logits of open AI models, both base and instruction-tuned, converting these logits into a measure of randomness expressed in bits and the number of guesses required to crack the model’s output. It demonstrates how many attempts would be needed to predict the model’s \"random\" number.",
+      "articleUrl": "https://towardsdatascience.com/how-many-guesses-does-it-take-to-crack-an-ais-random-number/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "logits",
+        "AI models",
+        "instruction-tuned"
+      ],
+      "publishedAt": "2026-10-15T12:30:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Data Science"
+        }
+      ]
+    },
+    {
+      "slug": "can-ai-help-experts-get-their-message-across",
+      "title": "Can AI help experts get their message across?",
+      "dek": "One economist has used it to turn years of painstaking policy research into an animated explainer",
+      "aiSummary": "An economist used AI to turn years of detailed policy research into an animated explainer video. The tool condensed complex findings into a visual format that is easier for audiences to understand.",
+      "articleUrl": "https://www.ft.com/content/2a744ab5-e40c-49f3-a9dd-2feee4cff4d8?syn-25a6b1a6=1",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "animated explainer"
+      ],
+      "publishedAt": "2026-10-15T11:30:07+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Communication"
+        },
+        {
+          "name": "Policy"
+        }
+      ]
+    },
+    {
+      "slug": "is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-video",
+      "title": "Is your boss watching you? The rise of AI surveillance at work - video",
+      "dek": "Workers have always been monitored by their bosses, first through output targets, and then via computer software labelled ‘bossware’. But AI is transforming the capabilities of these systems, processing huge volumes of data to provide minute-by-minute accounts of activity, and pr",
+      "aiSummary": "While workplace monitoring has historically relied on output targets and traditional software, AI is now enhancing these systems to process large volumes of data. This technology allows for minute-by-minute tracking of employee activity, significantly expanding the scope of surveillance.",
+      "articleUrl": "https://www.theguardian.com/science/video/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-video",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "bossware",
+        "workplace surveillance"
+      ],
+      "publishedAt": "2026-10-15T11:10:25+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Workplace"
+        },
+        {
+          "name": "Privacy"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1792078227-testcase-refactoring-classify-dynamo-graph-tests-by-hardware-192935",
+      "title": "viable/strict/1792078227: [Testcase Refactoring] Classify Dynamo graph tests by hardware (#192935)",
+      "dek": "Summary \n Classifies global, graph deduplication, graph region tracker, guard exclusion, and input attribute tracking Dynamo tests with generic hardware metadata. \n Changes \n \n Add HardwareClassification coverage for global tests. \n Add HardwareClassification coverage for graph d",
+      "aiSummary": "The update classifies various Dynamo tests, including global, graph deduplication, and guard exclusion tests, with generic hardware metadata. This change adds HardwareClassification coverage to these specific test categories to improve test organization.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1792078227",
+      "category": "Testing",
+      "filterTags": [
+        "Dynamo",
+        "HardwareClassification",
+        "Test Refactoring"
+      ],
+      "publishedAt": "2026-10-15T11:02:54+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Testing"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "choosing-a-chunking-strategy-for-your-llm-apps-a-decision-tree-approach",
+      "title": "Choosing a Chunking Strategy for Your LLM Apps: A Decision-Tree Approach",
+      "dek": "In this article, you will learn how to choose the right chunking strategy for a retrieval-augmented generation system by working through a structured decision tree...",
+      "aiSummary": "The article explains how to select an appropriate chunking method for retrieval-augmented generation systems. It presents a structured decision tree that guides readers through key considerations such as token limits, overlap, and semantic coherence. By following the tree, developers can determine the best strategy for their LLM applications.",
+      "articleUrl": "https://machinelearningmastery.com/choosing-a-chunking-strategy-for-your-llm-apps-a-decision-tree-approach/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "LLM",
+        "retrieval-augmented generation",
+        "chunking strategy",
+        "decision tree"
+      ],
+      "publishedAt": "2026-10-15T11:00:00+00:00",
+      "publisher": {
+        "name": "Jason Brownlee",
+        "domain": "machinelearningmastery.com",
+        "website": "https://machinelearningmastery.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=machinelearningmastery.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=machinelearningmastery.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "navitas-nvidia-develop-24-kw-800v-to-12v-power-board",
+      "title": "Navitas, NVIDIA Develop 24 kW 800V-to-12V Power Board",
+      "dek": "The GaN-based platform targets 97% full-load efficiency and over 2,000 W/in³ power density while simplifying high-power compute tray designs. \n The post  Navitas, NVIDIA Develop 24 kW 800V-to-12V Power Board  appeared first on  Power Electronics News .",
+      "aiSummary": "Navitas and NVIDIA have developed a 24 kW power board that converts 800V to 12V using a GaN-based platform. The design aims for 97% full-load efficiency and a power density exceeding 2,000 W/in³ to simplify high-power compute tray designs.",
+      "articleUrl": "https://www.powerelectronicsnews.com/navitas-nvidia-develop-24-kw-800v-to-12v-power-board/",
+      "category": "Hardware",
+      "filterTags": [
+        "Navitas",
+        "NVIDIA",
+        "GaN",
+        "Power Electronics",
+        "800V",
+        "12V"
+      ],
+      "publishedAt": "2026-10-15T11:00:00+00:00",
+      "publisher": {
+        "name": "Power Electronics News",
+        "domain": "powerelectronicsnews.com",
+        "website": "https://www.powerelectronicsnews.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Power Systems"
+        },
+        {
+          "name": "Semiconductors"
+        }
+      ]
+    },
+    {
+      "slug": "microchip-launches-rad-tolerant-20a-gan-converter-for-space",
+      "title": "Microchip Launches Rad-Tolerant 20A GaN Converter for Space",
+      "dek": "The device supports FPGA, ASIC and MCU power rails with a 4.75V to 13.2V input range and radiation characterization up to 50 krad. \n The post  Microchip Launches Rad-Tolerant 20A GaN Converter for Space  appeared first on  Power Electronics News .",
+      "aiSummary": "Microchip has launched a rad‑tolerant 20‑amp GaN converter designed for space applications. The converter can power FPGA, ASIC, and MCU rails and accepts input voltages from 4.75 V to 13.2 V. It has been tested to withstand up to 50 krad of radiation.",
+      "articleUrl": "https://www.powerelectronicsnews.com/microchip-launches-rad-tolerant-20a-gan-converter-for-space/",
+      "category": "Power Electronics",
+      "filterTags": [
+        "Microchip",
+        "GaN",
+        "FPGA",
+        "ASIC",
+        "MCU",
+        "radiation tolerance",
+        "50 krad"
+      ],
+      "publishedAt": "2026-10-15T11:00:00+00:00",
+      "publisher": {
+        "name": "Power Electronics News",
+        "domain": "powerelectronicsnews.com",
+        "website": "https://www.powerelectronicsnews.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Power Electronics"
+        },
+        {
+          "name": "Space Technology"
+        },
+        {
+          "name": "Semiconductors"
+        }
+      ]
+    },
+    {
+      "slug": "apertus-1-5-release-notes",
+      "title": "Apertus 1.5 Release Notes",
+      "dek": "This document outlines the new features and changes introduced in version 1.5 of Apertus.",
+      "aiSummary": "No article text was provided, so a summary cannot be generated.",
+      "articleUrl": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+      "category": "Software Development",
+      "filterTags": [
+        "Apertus",
+        "Release Notes"
+      ],
+      "publishedAt": "2026-10-15T09:08:45+00:00",
+      "publisher": {
+        "name": "Hugging Face",
+        "domain": "huggingface.co",
+        "website": "https://huggingface.co/",
+        "logoUrl": "https://huggingface.co/front/thumbnails/v2-2.png",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Updates"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1792061552",
+      "title": "viable/strict/1792061552",
+      "dek": "[jit] Add flag to release SimpleGraphExecutorImpl's base graph after …",
+      "aiSummary": "The update introduces a flag to the JIT compiler that enables the release of the base graph held by SimpleGraphExecutorImpl. This change is part of a specific commit identified by the hash 1792061552.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1792061552",
+      "category": "Software Engineering",
+      "filterTags": [
+        "JIT",
+        "SimpleGraphExecutorImpl",
+        "viable"
+      ],
+      "publishedAt": "2026-10-15T06:41:34+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Compiler Technology"
+        }
+      ]
+    },
+    {
+      "slug": "welcome-flux-3-image-klein-in-diffusers",
+      "title": "Welcome FLUX.3 Image Klein in Diffusers",
+      "dek": "FLUX.3 Image Klein is now available in Diffusers.",
+      "aiSummary": "The article announces the addition of the FLUX.3 Image Klein model to the Diffusers library. This integration allows users to leverage the new model within the Diffusers framework.",
+      "articleUrl": "https://huggingface.co/blog/flux-3",
+      "category": "AI",
+      "filterTags": [
+        "FLUX.3",
+        "Image Klein",
+        "Diffusers"
+      ],
+      "publishedAt": "2026-10-15T00:00:00+00:00",
+      "publisher": {
+        "name": "Hugging Face",
+        "domain": "huggingface.co",
+        "website": "https://huggingface.co/",
+        "logoUrl": "https://huggingface.co/front/thumbnails/v2-2.png",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "inside-gta-anthropic-revenue-jump-agentic-verification",
+      "title": "Inside GTA 🚗, Anthropic revenue jump 📈, agentic verification 🤖",
+      "dek": "A look at the inner workings of GTA, a significant increase in Anthropic's earnings, and the use of AI agents for verification.",
+      "aiSummary": "The article covers three distinct topics: an analysis of the internal mechanics of the game GTA, a report on a substantial rise in revenue for the AI company Anthropic, and an exploration of agentic verification systems.",
+      "articleUrl": "https://tldr.tech/tech/2026-10-15",
+      "category": "Gaming",
+      "filterTags": [
+        "GTA",
+        "Anthropic",
+        "Agentic Verification"
+      ],
+      "publishedAt": "2026-10-15T00:00:00+00:00",
+      "publisher": {
+        "name": "TLDR",
+        "domain": "tldr.tech",
+        "website": "https://tldr.tech/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=tldr.tech&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=tldr.tech&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    }
+  ]
+}
