@@ -1,0 +1,1623 @@
+{
+  "news": [
+    {
+      "slug": "into-the-unknown-benchmarking-ai-agents-on-open-scientific-research-problems",
+      "title": "Into the Unknown: Benchmarking AI agents on open scientific research problems",
+      "dek": "Researchers test AI agents on unsolved scientific questions.",
+      "aiSummary": "The article discusses a new benchmark designed to evaluate AI agents on open scientific research problems. It explores how these systems perform when tackling unknown or unsolved scientific challenges.",
+      "articleUrl": "https://arxiv.org/abs/2610.19159",
+      "category": "AI",
+      "filterTags": [
+        "AI agents",
+        "Benchmarking",
+        "Scientific research"
+      ],
+      "publishedAt": "2026-10-15T20:39:56+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Research"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-taps-nonprofits-metr-and-securebio-to-help-assess-risks-and-safety-practices",
+      "title": "Anthropic taps nonprofits METR and SecureBio to help assess risks and safety practices",
+      "dek": "The company is also engaged in early-stage discussions with other organizations, including Hugging Face.",
+      "aiSummary": "Anthropic has partnered with the nonprofits METR and SecureBio to assist in assessing risks and safety practices. The company is also holding early-stage discussions with other organizations, including Hugging Face.",
+      "articleUrl": "https://www.cnbc.com/2026/10/15/anthropic-metr-securebio-ai-safety-evaluators.html",
+      "category": "AI Safety",
+      "filterTags": [
+        "Anthropic",
+        "METR",
+        "SecureBio",
+        "Hugging Face"
+      ],
+      "publishedAt": "2026-10-15T20:35:21+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI Safety"
+        },
+        {
+          "name": "Corporate Partnerships"
+        }
+      ]
+    },
+    {
+      "slug": "granite-switch-4-1-chat-decisions-and-speech-from-one-endpoint",
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "dek": "Granite Switch 4.1 lets you chat, make decisions, and speak from a single device.",
+      "aiSummary": "Granite Switch 4.1 is a new software release that integrates messaging, judgment, and vocal interaction from a single platform.",
+      "articleUrl": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "category": "Software",
+      "filterTags": [
+        "Granite Switch",
+        "Granite Switch 4.1"
+      ],
+      "publishedAt": "2026-10-15T20:34:01+00:00",
+      "publisher": {
+        "name": "Hugging Face",
+        "domain": "huggingface.co",
+        "website": "https://huggingface.co/",
+        "logoUrl": "https://huggingface.co/front/thumbnails/v2-2.png",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Voice"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-and-cisco-confirm-multimillion-dollar-donations-to-trump-s-white-house-ballroom",
+      "title": "Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ballroom",
+      "dek": "Big Tech gave millions to Trump's White House ballroom, documents show",
+      "aiSummary": "Nvidia and Cisco have confirmed that they made multimillion-dollar donations to the Trump White House ballroom. Documents indicate that these contributions were part of a broader effort by Big Tech companies to fund the project.",
+      "articleUrl": "https://www.cnbc.com/2026/10/15/trump-ballroom-nvidia-cisco-donations.html",
+      "category": "Politics",
+      "filterTags": [
+        "Nvidia",
+        "Cisco",
+        "Trump",
+        "White House"
+      ],
+      "publishedAt": "2026-10-15T20:31:48+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "ai-race-heats-up-again-a-month-after-calls-for-a-slowdown",
+      "title": "AI Race Heats Up Again a Month After Calls for a Slowdown",
+      "dek": "The competition to build more advanced AI remains as fierce as ever.",
+      "aiSummary": "The race to create more advanced artificial intelligence continues with high intensity. This surge in competition occurs one month after there were calls to slow down development efforts.",
+      "articleUrl": "https://www.bloomberg.com/news/newsletters/2026-10-15/ai-race-heats-up-again-a-month-after-calls-for-a-slowdown",
+      "category": "AI",
+      "filterTags": [
+        "AI"
+      ],
+      "publishedAt": "2026-10-15T20:30:01+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "show-hn-brod-quick-cloud-to-deploy-ai-apps",
+      "title": "Show HN: Brod – Quick cloud to deploy AI apps",
+      "dek": "Brod is a fast cloud platform for launching AI applications.",
+      "aiSummary": "Brod is a cloud service designed to allow users to quickly deploy AI applications. The tool aims to simplify the process of getting AI projects live in the cloud.",
+      "articleUrl": "https://github.com/brodsh/brod",
+      "category": "AI",
+      "filterTags": [
+        "Brod",
+        "AI",
+        "Cloud Deployment"
+      ],
+      "publishedAt": "2026-10-15T20:29:56+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "don-t-see-canary-in-coal-mine-for-ai-khoda",
+      "title": "Don't See Canary in Coal Mine For AI: Khoda",
+      "dek": "Neha Khoda, head of US credit strategy at BofA Securities, and Stephanie Doyle, fixed income portfolio manager at JPMorgan Investment Management, join Scarlet Fu on \"Bloomberg Real Yield.\" A measure of CoreWeave’s credit risk climbed to an all-time high Thursday as some of its hi",
+      "aiSummary": "Neha Khoda, head of US credit strategy at BofA Securities, and Stephanie Doyle, fixed income portfolio manager at JPMorgan Investment Management, discuss market trends on Bloomberg Real Yield. The segment notes that a measure of CoreWeave’s credit risk reached an all-time high on Thursday.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-15/don-t-see-canary-in-coal-mine-for-ai-khoda-video",
+      "category": "Finance",
+      "filterTags": [
+        "BofA Securities",
+        "JPMorgan Investment Management",
+        "CoreWeave",
+        "Bloomberg Real Yield"
+      ],
+      "publishedAt": "2026-10-15T20:28:17+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Credit Markets"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "taskriz-ai-agents-send-people-tiny-native-uis-written-in-smalltalk",
+      "title": "Taskriz – AI agents send people tiny native UIs, written in Smalltalk",
+      "dek": "A system that uses artificial intelligence to deliver compact, built‑in interfaces to users.",
+      "aiSummary": "Taskriz is an AI system that sends users tiny native UIs. It is written in Smalltalk.",
+      "articleUrl": "https://www.taskriz.com/developers/",
+      "category": "AI",
+      "filterTags": [
+        "Taskriz",
+        "Smalltalk",
+        "AI"
+      ],
+      "publishedAt": "2026-10-15T20:26:36+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Programming Languages"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "treasuries-rally-as-investors-seek-shelter-from-ai-turbulence",
+      "title": "Treasuries rally as investors seek shelter from AI turbulence",
+      "dek": "Global chip stocks caught up in volatile trading amid fears over sustainability of AI boom",
+      "aiSummary": "U.S. Treasury bonds rallied as investors sought a safe haven while global chip stocks traded wildly amid concerns about the long‑term sustainability of the AI boom.",
+      "articleUrl": "https://www.ft.com/content/cf5f1209-da29-4ce1-b425-0e83818bf9ec?syn-25a6b1a6=1",
+      "category": "Finance",
+      "filterTags": [
+        "AI",
+        "chip stocks"
+      ],
+      "publishedAt": "2026-10-15T20:20:36+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt",
+      "title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
+      "dek": "Signs of distressed deepened in CoreWeave on Thursday.",
+      "aiSummary": "CoreWeave's credit default swaps reached distress levels on Thursday, indicating deepening signs of financial distress. This market reaction reflects growing investor skepticism regarding the company's AI-related debt obligations.",
+      "articleUrl": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html",
+      "category": "Finance",
+      "filterTags": [
+        "CoreWeave",
+        "Credit Default Swaps",
+        "AI Debt"
+      ],
+      "publishedAt": "2026-10-15T20:18:02+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "don-t-let-iphone-duo-go-unprotected-these-are-the-best-case-options-so-far",
+      "title": "Don't let iPhone Duo go unprotected, these are the best case options so far",
+      "dek": "The best  iPhone Duo  cases protect Apple's foldable without getting in the way of its hinge, with options ranging from slim MagSafe shells to rugged designs with reinforced protection. iPhone Duo cases A conventional iPhone case only needs to fit around one solid body. The iPhon",
+      "aiSummary": "The article highlights the best case options for the iPhone Duo, a foldable device from Apple. These cases are designed to protect the phone without interfering with its hinge, offering a range of styles from slim MagSafe shells to rugged designs with reinforced protection.",
+      "articleUrl": "https://appleinsider.com/inside/iphone-duo/best/best-iphone-duo-cases?utm_source=rss",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "iPhone Duo",
+        "Apple",
+        "MagSafe",
+        "Foldable"
+      ],
+      "publishedAt": "2026-10-15T20:11:30+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Mobile Devices"
+        }
+      ]
+    },
+    {
+      "slug": "what-ceos-see-as-the-biggest-risks-to-their-businesses",
+      "title": "What CEOs See as the Biggest Risks to Their Businesses",
+      "dek": "Tim Walsh, chairman and CEO at KPMG US, says CEOs broadly recognize AI’s importance and are investing, but measurable business transformation and returns are taking time. He speaks on \"Bloomberg The Close.\" (Source: Bloomberg)",
+      "aiSummary": "Tim Walsh, chairman and CEO of KPMG US, states that while CEOs acknowledge the importance of AI and are investing in it, achieving measurable business transformation and returns is a slow process. He discusses these views on Bloomberg The Close.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-15/what-ceos-see-as-the-biggest-risks-to-their-businesses-video",
+      "category": "Business Strategy",
+      "filterTags": [
+        "KPMG",
+        "AI",
+        "Bloomberg"
+      ],
+      "publishedAt": "2026-10-15T20:08:46+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Business Strategy"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "meta-launches-an-open-weight-ai-model-that-runs-on-macs",
+      "title": "Meta launches an open-weight AI model that runs on Macs",
+      "dek": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+      "aiSummary": "Meta has launched Muse Spark Open, a new open-weight AI model designed to run locally on Apple silicon. The release marks a collaboration between Meta and Apple to enable the social media giant's latest technology to operate on Mac devices.",
+      "articleUrl": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "category": "AI",
+      "filterTags": [
+        "Meta",
+        "Apple",
+        "Muse Spark Open",
+        "Apple silicon",
+        "open-weight"
+      ],
+      "publishedAt": "2026-10-15T20:04:53+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Software"
+        }
+      ]
+    },
+    {
+      "slug": "meta-and-apple-team-up-on-ai-model-tailored-for-mac-computers",
+      "title": "Meta and Apple team up on AI model tailored for Mac computers",
+      "dek": "Partnership between Big Tech rivals offers ‘open’ system that users can download to their own devices",
+      "aiSummary": "Meta and Apple have partnered to develop an AI model specifically for Mac computers. The model is part of an open system that users can download and run on their own devices.",
+      "articleUrl": "https://www.ft.com/content/3568dbda-ac85-45b3-815a-3a8ec853a78d?syn-25a6b1a6=1",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Meta",
+        "Apple",
+        "AI",
+        "Mac"
+      ],
+      "publishedAt": "2026-10-15T20:00:23+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "the-ai-boom-stumbles",
+      "title": "The AI boom stumbles",
+      "dek": "Should investors prepare for an AI bust? And if so, how?",
+      "aiSummary": "The article poses the question of whether investors should prepare for a potential downturn in the artificial intelligence sector. It also asks how such preparation should be conducted if a bust is indeed expected.",
+      "articleUrl": "https://www.ft.com/content/dd74f024-4eeb-44e3-9f62-5338ba7a863c?syn-25a6b1a6=1",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Investors"
+      ],
+      "publishedAt": "2026-10-15T20:00:00+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "bluesky-8217-s-ai-tool-now-lets-you-make-games-and-apps-to-share-on-social",
+      "title": "Bluesky&#8217;s AI tool now lets you make games and apps to share on social",
+      "dek": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch Disrupt",
+      "aiSummary": "Bluesky has expanded its Attie AI tool to enable users to build small social applications, including games, polls, and dashboards. These creations can be shared with other users as standalone websites, marking an evolution from the tool's initial focus on building custom feeds.",
+      "articleUrl": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+      "category": "Social Media",
+      "filterTags": [
+        "Bluesky",
+        "Attie",
+        "AI",
+        "TechCrunch Disrupt"
+      ],
+      "publishedAt": "2026-10-15T19:57:16+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Social Media"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Web Development"
+        }
+      ]
+    },
+    {
+      "slug": "amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps",
+      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+      "dek": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
+      "aiSummary": "At TechCrunch Disrupt, Amazon's devices chief Panos Panay talked about a future where ambient AI devices operate in the background, predicting user needs without requiring commands. He suggested that such devices would replace the need to use traditional apps.",
+      "articleUrl": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+      "category": "AI",
+      "filterTags": [
+        "Amazon",
+        "Panos Panay",
+        "TechCrunch Disrupt",
+        "ambient AI"
+      ],
+      "publishedAt": "2026-10-15T19:55:25+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "ms-martians-and-guacamole-their-first-time-in-the-times",
+      "title": "Ms., Martians and Guacamole: Their First Time in The Times",
+      "dek": "Our reporters share a compendium of debuts, discoveries and (sometimes overdue) appearances in the paper.",
+      "aiSummary": "The article compiles various first-time appearances and discoveries reported in the newspaper. It highlights several debuts, including Ms., Martians, and Guacamole, and notes some overdue appearances.",
+      "articleUrl": "https://www.nytimes.com/2026/10/15/us/175-anniversary-history-corrections-pulitzer-martian.html",
+      "category": "Media",
+      "filterTags": [
+        "Ms.",
+        "Martians",
+        "Guacamole",
+        "The Times"
+      ],
+      "publishedAt": "2026-10-15T19:50:16+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Media"
+        },
+        {
+          "name": "Entertainment"
+        },
+        {
+          "name": "Journalism"
+        }
+      ]
+    },
+    {
+      "slug": "chirp-pong",
+      "title": "Chirp Pong",
+      "dek": "Tool:   Chirp Pong \n Another game experiment - I wanted to see if it was feasible to have a two player game on two separate phones running in static HTML where the networking code uses chirps sent via the microphone. It seems to work! \n \n Build a two player competitive pong like ",
+      "aiSummary": "Chirp Pong is a two-player competitive game experiment that runs on separate phones using static HTML. The networking mechanism relies on chirps sent via the microphone, which the developer confirms appears to work effectively.",
+      "articleUrl": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
+      "category": "Gaming",
+      "filterTags": [
+        "Chirp Pong",
+        "HTML",
+        "Microphone",
+        "Networking"
+      ],
+      "publishedAt": "2026-10-15T19:47:52+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "Web Development"
+        },
+        {
+          "name": "Audio Technology"
+        }
+      ]
+    },
+    {
+      "slug": "the-next-developer-interface-is-ambient-intelligence",
+      "title": "The next developer interface is ambient intelligence",
+      "dek": "AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building. \n The post  The next developer interface is ambient intelligence  appeared first on  The GitHub Blog .",
+      "aiSummary": "AI, agents, voice, and physical controls are changing how developers work, moving from operating tools to expressing intent. These technologies help developers stay focused on building.",
+      "articleUrl": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "agents",
+        "voice",
+        "physical controls",
+        "ambient intelligence"
+      ],
+      "publishedAt": "2026-10-15T19:39:27+00:00",
+      "publisher": {
+        "name": "GitHub Blog",
+        "domain": "github.blog",
+        "website": "https://github.blog",
+        "logoUrl": "https://github.blog/wp-content/uploads/2019/01/cropped-github-favicon-512.png?fit=180%2C180",
+        "faviconUrl": "https://github.githubassets.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Developer Tools"
+        },
+        {
+          "name": "Human-Computer Interaction"
+        }
+      ]
+    },
+    {
+      "slug": "shogun-2-complete-edition-release-crashes-and-burns",
+      "title": "'Shogun 2 - Complete Edition' release crashes and burns",
+      "dek": "Sega and Creative Assembly have acknowledged the incredibly bad response and massive amount of bugs in the Windows and Mac re-release of the product on Steam. As such, the new version has been removed from sale, and the original reinstated, while they figure out how and why the \"",
+      "aiSummary": "Sega and Creative Assembly have admitted that the Windows and Mac re-release of Shogun 2 Complete Edition on Steam received a very negative response and contains many bugs. As a result, the new version has been taken off sale and the original version has been restored. The companies are working to determine the cause and fix the issues.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/15/shogun-2---complete-edition-release-crashes-and-burns?utm_source=rss",
+      "category": "Gaming",
+      "filterTags": [
+        "Sega",
+        "Creative Assembly",
+        "Steam",
+        "Windows",
+        "Mac"
+      ],
+      "publishedAt": "2026-10-15T19:20:39+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "Software Bugs"
+        },
+        {
+          "name": "Platform Issues"
+        }
+      ]
+    },
+    {
+      "slug": "v0-40-5",
+      "title": "v0.40.5",
+      "dek": "NVIDIA Nemotron 3.5 Super \n NVIDIA Nemotron 3.5 Super  is a vision-language model for coding, reasoning, tool use, and document understanding. It pairs a 120B-parameter hybrid Mamba-2/Transformer mixture-of-experts backbone (12B active per token) with a C-RADIO vision encoder, an",
+      "aiSummary": "NVIDIA Nemotron 3.5 Super is a vision-language model designed for coding, reasoning, tool use, and document understanding. It features a 120B-parameter hybrid Mamba-2/Transformer mixture-of-experts backbone with 12B active parameters per token, paired with a C-RADIO vision encoder.",
+      "articleUrl": "https://github.com/ollama/ollama/releases/tag/v0.40.5",
+      "category": "AI",
+      "filterTags": [
+        "NVIDIA",
+        "Nemotron 3.5 Super",
+        "Mamba-2",
+        "Transformer",
+        "C-RADIO"
+      ],
+      "publishedAt": "2026-10-15T19:18:39+00:00",
+      "publisher": {
+        "name": "ollama",
+        "domain": "github.com",
+        "website": "https://github.com/ollama/ollama",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access",
+      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+      "dek": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
+      "aiSummary": "Anthropic has allowed METR researchers to access employee-level information, enabling METR to publish independent assessments of the company's risks, incidents, and practices. The company has relinquished its ability to block these assessments.",
+      "articleUrl": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Anthropic",
+        "METR"
+      ],
+      "publishedAt": "2026-10-15T19:14:26+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Transparency"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "the-5-trillion-ai-bet-you-re-already-paying-for",
+      "title": "The $5 Trillion AI Bet You’re Already Paying For",
+      "dek": "Co-executive director Amba Kak joins Agents of Tech to unpack the consolidation of power among tech monopolies, the slow bailout of AI companies that the public is footing, regulation for the industry, and more. \n The post  The $5 Trillion AI Bet You’re Already Paying For  appear",
+      "aiSummary": "Co-executive director Amba Kak discusses the consolidation of power among tech monopolies and the implicit public bailout of AI companies. The conversation also covers the need for industry regulation and the broader economic implications of these trends.",
+      "articleUrl": "https://ainowinstitute.org/news/the-5-trillion-ai-bet-youre-already-paying-for",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Tech Monopolies",
+        "Regulation",
+        "Amba Kak"
+      ],
+      "publishedAt": "2026-10-15T19:12:34+00:00",
+      "publisher": {
+        "name": "AI Now Institute",
+        "domain": "ainowinstitute.org",
+        "website": "https://ainowinstitute.org/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ainowinstitute.org&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ainowinstitute.org&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Policy"
+        },
+        {
+          "name": "Economics"
+        }
+      ]
+    },
+    {
+      "slug": "apple-s-homeview-is-300-at-a-minimum-and-it-s-not-really-clear-who-it-s-for",
+      "title": "Apple's HomeView is $300 at a minimum, and it's not really clear who it's for",
+      "dek": "Apple's  HomeView  is trying to do a lot. So much, in fact, that it makes me wonder if there was a point where Apple ever thought to ask if it was doing too much. Apple's new $300 HomeView: who is it for? When Apple announced the Apple HomeView, I was neither surprised nor impres",
+      "aiSummary": "Apple's new HomeView, priced at $300 or more, attempts to incorporate many features, raising questions about its intended users. The author notes that Apple may have overextended the product. The announcement did not clarify the target market.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/15/apples-homeview-is-300-at-a-minimum-and-its-not-really-clear-who-its-for?utm_source=rss",
+      "category": "Hardware",
+      "filterTags": [
+        "Apple",
+        "HomeView"
+      ],
+      "publishedAt": "2026-10-15T18:59:52+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "langchain-core-1-6-11",
+      "title": "langchain-core==1.6.11",
+      "dek": "Changes since langchain-core==1.6.10 \n release(core): 1.6.11 ( #41260 ) \nfeat(core): accept address inside LangChainTracer ( #41006 )",
+      "aiSummary": "The langchain-core library has released version 1.6.11, which includes updates since version 1.6.10. A key feature in this release is the ability for the LangChainTracer to accept an address parameter.",
+      "articleUrl": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.11",
+      "category": "AI",
+      "filterTags": [
+        "langchain-core",
+        "LangChainTracer",
+        "Python"
+      ],
+      "publishedAt": "2026-10-15T18:32:37+00:00",
+      "publisher": {
+        "name": "langchain-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langchain-ai/langchain",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "meta-and-apple-team-up-to-make-muse-ai-models-run-better-on-macs",
+      "title": "Meta and Apple team up to make Muse AI models run better on Macs",
+      "dek": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX fra",
+      "aiSummary": "Meta announced the Muse Spark open-weight AI model, claiming it is the most capable US model to date. The model is also the first in its class that can run on a desktop using two Apple M5 Ultra Mac Studios with the latest MLX framework.",
+      "articleUrl": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Meta",
+        "Apple",
+        "Muse Spark",
+        "MLX",
+        "Apple M5 Ultra Mac Studio"
+      ],
+      "publishedAt": "2026-10-15T18:15:36+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Software"
+        }
+      ]
+    },
+    {
+      "slug": "release-v5-20-0",
+      "title": "Release v5.20.0",
+      "dek": "Release v5.20.0 \n New Model additions \n Muse Spark Open \n \n Muse Spark Open is a multimodal mixture-of-experts model from Meta that takes text, images, audio, and video as input and generates text. It has 816B total parameters (42B active per token) and a context window of up to ",
+      "aiSummary": "The v5.20.0 release introduces the Muse Spark Open model, a multimodal mixture-of-experts system from Meta. This model accepts text, images, audio, and video inputs to generate text, featuring 816B total parameters with 42B active per token.",
+      "articleUrl": "https://github.com/huggingface/transformers/releases/tag/v5.20.0",
+      "category": "AI",
+      "filterTags": [
+        "Meta",
+        "Muse Spark Open",
+        "Mixture-of-Experts",
+        "Multimodal"
+      ],
+      "publishedAt": "2026-10-15T18:05:36+00:00",
+      "publisher": {
+        "name": "huggingface",
+        "domain": "github.com",
+        "website": "https://github.com/huggingface/transformers",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "meta-s-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart",
+      "title": "Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart",
+      "dek": "Muse Spark Open, Meta's coding-optimized open-weight model, is now available in Amazon SageMaker JumpStart. Deploy it to a SageMaker AI endpoint in your own AWS account using SageMaker Studio or the SageMaker Python SDK, and run your first inference request.",
+      "aiSummary": "Meta's Muse Spark Open, a coding-optimized open-weight model, has been added to Amazon SageMaker JumpStart. Users can deploy it to a SageMaker AI endpoint in their AWS account via SageMaker Studio or the SageMaker Python SDK, and then run inference requests.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart/",
+      "category": "AI",
+      "filterTags": [
+        "Meta",
+        "Muse Spark Open",
+        "Amazon SageMaker",
+        "SageMaker JumpStart",
+        "SageMaker Studio",
+        "SageMaker Python SDK",
+        "AWS"
+      ],
+      "publishedAt": "2026-10-15T17:43:35+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "v0-7-0",
+      "title": "v0.7.0",
+      "dek": "Overview \n llama.cpp v0.7.0 adds the LiliCorr speculative decoding technique and MTP for GLM5-Next, a new GPU cache for MoE experts kept in host memory ( --moe-cache-mib , up to ~2.2x decode speedup when experts are offloaded), and a large batch of new models: K2 Horizon (dense a",
+      "aiSummary": "llama.cpp v0.7.0 introduces LiliCorr speculative decoding and MTP support for GLM5-Next. It also features a new GPU cache for MoE experts stored in host memory, which can provide up to a 2.2x decode speedup, alongside a batch of new models including K2 Horizon.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.7.0",
+      "category": "AI",
+      "filterTags": [
+        "llama.cpp",
+        "LiliCorr",
+        "MTP",
+        "GLM5-Next",
+        "MoE",
+        "K2 Horizon"
+      ],
+      "publishedAt": "2026-10-15T17:15:35+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "be-there-for-the-beginning-celebrate-the-launch-of-nvidia-rtx-spark",
+      "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
+      "dek": "A new beginning for Windows PCs starts tomorrow with the launch of NVIDIA RTX Spark — one PC built for creators, gamers and AI agents. All are invited to celebrate with NVIDIA and partners at launch events around the world. Share Your Spark Every PC has a story. What was your fir",
+      "aiSummary": "NVIDIA is launching the RTX Spark, a Windows PC built for creators, gamers, and AI agents, starting tomorrow. The company invites users to join launch events worldwide to celebrate. A campaign encourages sharing personal stories about the PC.",
+      "articleUrl": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/",
+      "category": "Hardware",
+      "filterTags": [
+        "NVIDIA",
+        "RTX Spark",
+        "Windows PC",
+        "AI"
+      ],
+      "publishedAt": "2026-10-15T17:00:23+00:00",
+      "publisher": {
+        "name": "NVIDIA",
+        "domain": "nvidia.com",
+        "website": "https://blogs.nvidia.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "Artificial Intelligence"
+        }
+      ]
+    },
+    {
+      "slug": "the-pulse-openai-software-engineer-accused-of-spying",
+      "title": "The Pulse: OpenAI software engineer accused of spying",
+      "dek": "Also: insider details on how and why Anthropic moved off Git, a new trend of AI-assisted coding rounds inside of Big Tech, and more",
+      "aiSummary": "An OpenAI software engineer has been accused of spying. The piece also explains Anthropic's move away from Git and highlights a new trend of AI-assisted coding rounds at big tech firms.",
+      "articleUrl": "https://newsletter.pragmaticengineer.com/p/the-pulse-openai-software-engineer",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "OpenAI",
+        "Anthropic",
+        "Git",
+        "AI-assisted coding"
+      ],
+      "publishedAt": "2026-10-15T16:55:18+00:00",
+      "publisher": {
+        "name": "Pragmatic Engineer",
+        "domain": "newsletter.pragmaticengineer.com",
+        "website": "https://newsletter.pragmaticengineer.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=newsletter.pragmaticengineer.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=newsletter.pragmaticengineer.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "tell-us-have-you-used-ai-to-help-with-online-dating",
+      "title": "Tell us: have you used AI to help with online dating?",
+      "dek": "From chat-up lines to social coaching, we’d like to hear from people who use AI to assist them navigating the online dating world We’d like to understand more about the different ways that people are using AI to assist with online dating. Perhaps you have used an AI assistant to ",
+      "aiSummary": "The article invites readers to share how they use AI tools for online dating, from generating chat-up lines to receiving social coaching. It seeks to gather insights into the various ways people employ AI to navigate the dating world.",
+      "articleUrl": "https://www.theguardian.com/technology/2026/oct/15/using-ai-online-dating-tell-us",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AI"
+      ],
+      "publishedAt": "2026-10-15T16:47:25+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Online Dating"
+        },
+        {
+          "name": "Social Media"
+        }
+      ]
+    },
+    {
+      "slug": "v0-41-1",
+      "title": "v0.41.1",
+      "dek": "ComfyUI v0.41.1",
+      "aiSummary": "ComfyUI has released version 0.41.1. The provided text contains only the version number and project name without additional details.",
+      "articleUrl": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.41.1",
+      "category": "AI",
+      "filterTags": [
+        "ComfyUI"
+      ],
+      "publishedAt": "2026-10-15T16:32:44+00:00",
+      "publisher": {
+        "name": "comfyanonymous",
+        "domain": "github.com",
+        "website": "https://github.com/comfyanonymous/ComfyUI",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "friends-don-8217-t-let-friends-feed-their-data-to-ai-agents",
+      "title": "Friends don&#8217;t let friends feed their data to AI agents",
+      "dek": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like Meta's Muse, you're being cheerfully asked n",
+      "aiSummary": "The article highlights how consumer tech gadgets are increasingly collecting data without consent, and how AI personal assistants like Meta's Muse are encouraging users to share personal information. It raises concerns about privacy and data ownership.",
+      "articleUrl": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
+      "category": "AI",
+      "filterTags": [
+        "Meta",
+        "Muse",
+        "AI personal assistants"
+      ],
+      "publishedAt": "2026-10-15T16:21:45+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Privacy"
+        },
+        {
+          "name": "Consumer Technology"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1792096016-dynamo-lazily-load-current-stream-argument-199169",
+      "title": "viable/strict/1792096016: [dynamo] Lazily load current stream argument (#199169)",
+      "dek": "Save ~3 µs on warm-cache kernel loads that don't utilize the current stream by not loading it in cases where it's unused. \n Code primarily authored via Claude Opus 5.5. \n Pull Request resolved:  #199169 \nApproved by:  https://github.com/guilhermeleobas ,  https://github.com/eelli",
+      "aiSummary": "This pull request optimizes Dynamo by lazily loading the current stream argument, saving approximately 3 microseconds on warm-cache kernel loads that do not use the stream. The code was primarily authored using Claude Opus 5.5 and has been approved by Guilherme Leobas and Eelli.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1792096016",
+      "category": "Machine Learning",
+      "filterTags": [
+        "Dynamo",
+        "PyTorch",
+        "Claude Opus 5.5",
+        "Kernel Optimization"
+      ],
+      "publishedAt": "2026-10-15T16:19:26+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Performance Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "renting-these-2-new-apple-smart-home-devices-are-worth-your-money-and-these-5-are-not",
+      "title": "Renting? These 2 new Apple smart home devices are worth your money (and these 5 are not)",
+      "dek": "Eyeing Apple’s new Home Collection products? Renters should check their lease agreement before installing.",
+      "aiSummary": "The article warns renters about Apple’s new Home Collection devices, advising them to review lease agreements before installing. It highlights that two of the new Apple smart home products are considered worthwhile, while five others are not recommended.",
+      "articleUrl": "https://www.zdnet.com/home-and-office/is-the-apple-home-collection-right-for-renters/",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Apple",
+        "Home Collection"
+      ],
+      "publishedAt": "2026-10-15T16:19:16+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Smart Home"
+        },
+        {
+          "name": "Housing"
+        }
+      ]
+    },
+    {
+      "slug": "apple-s-first-touchscreen-macbook-is-days-away-with-another-oled-surprise",
+      "title": "Apple’s first touchscreen MacBook is days away – with another OLED surprise",
+      "dek": "Apple reportedly set a date to unveil its new touchscreen MacBooks. Here’s what else we expect.",
+      "aiSummary": "Apple is reportedly scheduled to announce its new touchscreen MacBooks in the coming days. The event is also expected to include a surprise announcement regarding OLED technology.",
+      "articleUrl": "https://www.zdnet.com/tech/apple-touchscreen-macbook-oled-ipad-mini-october-event/",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Apple",
+        "MacBook",
+        "OLED",
+        "Touchscreen"
+      ],
+      "publishedAt": "2026-10-15T16:18:57+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "v0-40-5-rc2",
+      "title": "v0.40.5-rc2",
+      "dek": "llama.cpp: version bump b11669 ( #19032 )",
+      "aiSummary": "The llama.cpp project has been bumped to version 0.40.5-rc2, with commit b11669 referenced in issue #19032.",
+      "articleUrl": "https://github.com/ollama/ollama/releases/tag/v0.40.5-rc2",
+      "category": "Open Source",
+      "filterTags": [
+        "llama.cpp"
+      ],
+      "publishedAt": "2026-10-15T16:11:12+00:00",
+      "publisher": {
+        "name": "ollama",
+        "domain": "github.com",
+        "website": "https://github.com/ollama/ollama",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "accelerating-the-search-for-antimicrobial-peptides-with-google-antigravity",
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "dek": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+      "aiSummary": "The article describes the use of Google Antigravity for Science to accelerate the search for novel antimicrobial peptides. This approach aims to streamline the identification of new compounds that can combat microbial infections.",
+      "articleUrl": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "category": "Biotechnology",
+      "filterTags": [
+        "Google Antigravity",
+        "antimicrobial peptides",
+        "Google"
+      ],
+      "publishedAt": "2026-10-15T16:08:03+00:00",
+      "publisher": {
+        "name": "Google DeepMind",
+        "domain": "deepmind.google",
+        "website": "https://deepmind.google/",
+        "logoUrl": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/icons/google_deepmind_2x_96dp.png",
+        "faviconUrl": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/icons/google_deepmind_2x_96dp.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Biotechnology"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Healthcare"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1792093886",
+      "title": "viable/strict/1792093886",
+      "dek": "[inductor][test] Gate device-TMA static launcher test on CUDA SM90+ (…",
+      "aiSummary": "This test checks the Gate device‑TMA static launcher on CUDA SM90+ GPUs as part of the inductor test suite. It verifies correct operation of the static launcher on the newer GPU architecture.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1792093886",
+      "category": "Hardware",
+      "filterTags": [
+        "inductor",
+        "CUDA",
+        "SM90+",
+        "Gate device-TMA",
+        "static launcher"
+      ],
+      "publishedAt": "2026-10-15T16:03:09+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Software Testing"
+        },
+        {
+          "name": "GPU Computing"
+        }
+      ]
+    },
+    {
+      "slug": "proof-based-general-purpose-computing-with-magnetar",
+      "title": "Proof-based general-purpose computing with Magnetar",
+      "dek": "Zero-knowledge proofs can verify computing results without rerunning workloads or exposing sensitive data. Magnetar helps bring them into the mainstream with support for standard programming languages, major speed gains, and quantum-resistant security. \n The post  Proof-based gen",
+      "aiSummary": "Magnetar aims to mainstream zero-knowledge proofs by allowing the verification of computing results without rerunning workloads or exposing sensitive data. The platform supports standard programming languages, offers significant speed improvements, and provides quantum-resistant security.",
+      "articleUrl": "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/",
+      "category": "Cryptography",
+      "filterTags": [
+        "Magnetar",
+        "Zero-knowledge proofs",
+        "Quantum-resistant security"
+      ],
+      "publishedAt": "2026-10-15T16:00:00+00:00",
+      "publisher": {
+        "name": "Microsoft Research",
+        "domain": "microsoft.com",
+        "website": "https://www.microsoft.com/en-us/research/",
+        "logoUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2024/07/About-page-promo_1066x600.jpg",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cryptography"
+        },
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1792082435-docs-add-accelerator-backend-test-reuse-guide-189376",
+      "title": "viable/strict/1792082435: [Docs] Add accelerator backend test reuse guide (#189376)",
+      "dek": "Summary \n This PR adds a guideline document for out-of-tree (OOT) accelerator backend developers on reusing PyTorch's upstream test suite. \n The guide covers: \n \n Test categorization and the role of hardware classification in selecting applicable tests. \n Test reuse strategies fo",
+      "aiSummary": "This pull request introduces a guideline document for out-of-tree (OOT) accelerator backend developers. The guide focuses on how to reuse PyTorch's upstream test suite, covering test categorization, hardware classification for selecting applicable tests, and various test reuse strategies.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1792082435",
+      "category": "Documentation",
+      "filterTags": [
+        "PyTorch",
+        "accelerator backend",
+        "out-of-tree (OOT)"
+      ],
+      "publishedAt": "2026-10-15T12:23:12+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Documentation"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Testing"
+        },
+        {
+          "name": "Hardware Acceleration"
+        }
+      ]
+    },
+    {
+      "slug": "local-and-distributed-large-llm-inference-with-mlx-and-rdma-on-mac-studio",
+      "title": "Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio",
+      "dek": "MLX  on Mac with Apple silicon lets AI researchers and developers experiment locally with the latest models and methods in a private environment. The open-source array framework leverages the unified memory architecture of Apple silicon, enabling anyone to run new inference and f",
+      "aiSummary": "The article describes how the MLX framework enables local and distributed inference of large language models on Mac Studio hardware. It leverages Apple silicon's unified memory architecture and RDMA to allow developers to run complex AI models in a private environment.",
+      "articleUrl": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+      "category": "AI",
+      "filterTags": [
+        "MLX",
+        "RDMA",
+        "Mac Studio",
+        "Apple Silicon",
+        "LLM Inference"
+      ],
+      "publishedAt": "2026-10-15T00:00:00+00:00",
+      "publisher": {
+        "name": "Apple",
+        "domain": "machinelearning.apple.com",
+        "website": "https://machinelearning.apple.com/",
+        "logoUrl": "https://machinelearning.apple.com/favicon.ico",
+        "faviconUrl": "https://machinelearning.apple.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "selection-based-structured-reasoning-toward-efficient-multimodal-search-agents",
+      "title": "Selection-Based Structured Reasoning: Toward Efficient Multimodal Search Agents",
+      "dek": "Multimodal agents commonly generate freeform reasoning before each action. For small models, limited model capacity can result in lengthy reasoning that provides little useful guidance for action generation while incurring substantial inference cost. To address this challenge, we",
+      "aiSummary": "Multimodal agents often produce freeform reasoning before acting, but small models can generate long, unhelpful reasoning that adds cost. The authors propose a selection-based structured reasoning approach to reduce unnecessary reasoning and improve efficiency.",
+      "articleUrl": "https://machinelearning.apple.com/research/selection-structured-reasoning",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "multimodal agents",
+        "structured reasoning",
+        "inference cost",
+        "model capacity"
+      ],
+      "publishedAt": "2026-10-15T00:00:00+00:00",
+      "publisher": {
+        "name": "Apple",
+        "domain": "machinelearning.apple.com",
+        "website": "https://machinelearning.apple.com/",
+        "logoUrl": "https://machinelearning.apple.com/favicon.ico",
+        "faviconUrl": "https://machinelearning.apple.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Human-Computer Interaction"
+        }
+      ]
+    },
+    {
+      "slug": "plan-or-retrieve-first-a-scale-study-of-tool-discovery-architectures",
+      "title": "Plan or Retrieve First? A Scale Study of Tool Discovery Architectures",
+      "dek": "Tool-augmented LLM agents discover relevant APIs from large registries before planning execution, yet finite context windows prohibit injecting all tool definitions into a single prompt. The dominant approach, which we term Retrieve-then-Plan (RtP), embeds the user query and retr",
+      "aiSummary": "Tool-augmented LLM agents must discover relevant APIs from extensive registries, but their limited context windows prevent injecting all tool definitions into a single prompt. The prevalent method, termed Retrieve-then-Plan (RtP), involves embedding the user query to retrieve tools before planning execution.",
+      "articleUrl": "https://machinelearning.apple.com/research/plan-retrieve-tool-discovery",
+      "category": "AI",
+      "filterTags": [
+        "LLM agents",
+        "APIs",
+        "Retrieve-then-Plan",
+        "Tool Discovery Architectures"
+      ],
+      "publishedAt": "2026-10-15T00:00:00+00:00",
+      "publisher": {
+        "name": "Apple",
+        "domain": "machinelearning.apple.com",
+        "website": "https://machinelearning.apple.com/",
+        "logoUrl": "https://machinelearning.apple.com/favicon.ico",
+        "faviconUrl": "https://machinelearning.apple.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Architecture"
+        },
+        {
+          "name": "Natural Language Processing"
+        }
+      ]
+    },
+    {
+      "slug": "welcome-muse-spark-open-open-weight-frontier-multimodal-mixture-of-experts-model-from-meta",
+      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "dek": "Meta releases Muse Spark Open, a new open-weight multimodal AI model.",
+      "aiSummary": "Meta has introduced Muse Spark Open, a frontier multimodal mixture-of-experts model. The release is characterized by its open-weight nature, allowing for broader access and integration.",
+      "articleUrl": "https://huggingface.co/blog/meta-muse-spark-open",
+      "category": "AI",
+      "filterTags": [
+        "Meta",
+        "Muse Spark Open",
+        "Mixture-of-Experts",
+        "Multimodal"
+      ],
+      "publishedAt": "2026-10-15T00:00:00+00:00",
+      "publisher": {
+        "name": "Hugging Face",
+        "domain": "huggingface.co",
+        "website": "https://huggingface.co/",
+        "logoUrl": "https://huggingface.co/front/thumbnails/v2-2.png",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    }
+  ]
+}
