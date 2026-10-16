@@ -1,0 +1,1449 @@
+{
+  "news": [
+    {
+      "slug": "europe-s-answer-to-spacex-rises-18-as-ukraine-s-starshield-limits-raise-concerns",
+      "title": "Europe's answer to SpaceX rises 18% as Ukraine's Starshield limits raise concerns",
+      "dek": "Eutelsat's shares soared this week and continued climbing on Friday as its competitor Starshield drew criticism over its limitations in Ukraine.",
+      "aiSummary": "Eutelsat shares rose 18% this week, continuing their climb on Friday, as its competitor Starshield faced criticism regarding its operational limitations in Ukraine. This development has positioned Eutelsat as a key European alternative to SpaceX-affiliated services.",
+      "articleUrl": "https://www.cnbc.com/2026/10/16/eutelsat-starshield-ukraine-spacex.html",
+      "category": "Aerospace",
+      "filterTags": [
+        "Eutelsat",
+        "Starshield",
+        "SpaceX",
+        "Ukraine"
+      ],
+      "publishedAt": "2026-10-16T15:45:35+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Aerospace"
+        },
+        {
+          "name": "Defense"
+        },
+        {
+          "name": "Telecommunications"
+        }
+      ]
+    },
+    {
+      "slug": "meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees",
+      "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+      "dek": "Meta “streamlined” its commercial TOS. Legal experts warn it’s an AI power grab.",
+      "aiSummary": "Meta has updated its commercial terms of service, a move that legal experts describe as an aggressive attempt to secure AI rights. Critics warn that these changes could allow the company to avoid paying millions in licensing fees.",
+      "articleUrl": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
+      "category": "Legal",
+      "filterTags": [
+        "Meta",
+        "AI",
+        "Licensing",
+        "Terms of Service"
+      ],
+      "publishedAt": "2026-10-16T15:41:00+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Corporate Strategy"
+        }
+      ]
+    },
+    {
+      "slug": "pry-a-browser-agent-that-redacts-private-data-before-anything-reaches-ai-model",
+      "title": "Pry, a browser agent that redacts private data before anything reaches AI model",
+      "dek": "A new browser tool called Pry hides personal information before it is sent to AI systems.",
+      "aiSummary": "Pry is a browser agent designed to protect user privacy by removing sensitive data from web content. It ensures that private information is redacted before any data is transmitted to an AI model.",
+      "articleUrl": "https://chromewebstore.google.com/detail/pry-agent/aocmnoompdjlgbfjlimikkpoebooolog",
+      "category": "Privacy",
+      "filterTags": [
+        "Pry",
+        "Browser Agent",
+        "Data Redaction",
+        "AI"
+      ],
+      "publishedAt": "2026-10-16T15:34:45+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Privacy"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Web Security"
+        }
+      ]
+    },
+    {
+      "slug": "jev-is-vercel-s-fastest-adopted-ai-model-ever",
+      "title": "Jev is Vercel’s fastest-adopted AI model ever",
+      "dek": "The data comes from the Vercel's AI gateway, a unified API service similar to OpenRouter.",
+      "aiSummary": "Jev is the fastest-adopted AI model ever on Vercel. This data is derived from Vercel's AI gateway, a unified API service comparable to OpenRouter.",
+      "articleUrl": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+      "category": "AI",
+      "filterTags": [
+        "Vercel",
+        "Jev",
+        "AI gateway",
+        "OpenRouter"
+      ],
+      "publishedAt": "2026-10-16T15:33:49+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "russian-man-linked-to-deadly-london-hospitals-hack-arrested",
+      "title": "Russian man linked to deadly London hospitals hack arrested",
+      "dek": "The 28-year-old detained by German police is accused of being part of the cyber-crime gang that hacked blood-test firm Synnovis in 2024.",
+      "aiSummary": "German police have arrested a 28-year-old Russian man accused of being part of the cyber-crime gang responsible for hacking blood-test firm Synnovis in 2024. The incident is linked to a deadly cyberattack on London hospitals.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/c9vgr61kml3mo?at_medium=RSS&at_campaign=rss",
+      "category": "Cybersecurity",
+      "filterTags": [
+        "Synnovis",
+        "Cyber-crime",
+        "Germany",
+        "Russia"
+      ],
+      "publishedAt": "2026-10-16T15:31:33+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "Healthcare"
+        },
+        {
+          "name": "Law Enforcement"
+        }
+      ]
+    },
+    {
+      "slug": "do-you-still-own-the-code-your-ai-wrote-i-built-codeownership-to-measure-it",
+      "title": "Do You Still Own the Code Your AI Wrote? I Built CodeOwnership to Measure It",
+      "dek": "I rated my confidence 4 out of 5, then couldn’t find a planted bug in 8 minutes. Here is the tool, the run, and its limits. \n The post  Do You Still Own the Code Your AI Wrote? I Built CodeOwnership to Measure It  appeared first on  Towards Data Science .",
+      "aiSummary": "The author built a tool named CodeOwnership to measure their understanding of AI-generated code after failing to locate a planted bug within eight minutes. The article details the tool's functionality, the specific test run, and its limitations.",
+      "articleUrl": "https://towardsdatascience.com/do-you-still-own-the-code-your-ai-wrote-i-built-codeownership-to-measure-it/",
+      "category": "AI",
+      "filterTags": [
+        "CodeOwnership",
+        "AI",
+        "Towards Data Science"
+      ],
+      "publishedAt": "2026-10-16T15:30:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "build-offline-first-apps-to-earn-trust-in-ai-saas-slop-era",
+      "title": "Build offline-first apps to earn trust in AI SaaS slop era",
+      "dek": "Create applications that work without internet to gain user confidence during the age of low-quality AI software.",
+      "aiSummary": "The article argues that building offline-first applications is a strategic way to earn user trust. This approach is presented as a countermeasure to the current era of low-quality, AI-generated SaaS products.",
+      "articleUrl": "http://blog.geckocode.pl/2026/10/16/privacy-first-apps.html",
+      "category": "Software Development",
+      "filterTags": [
+        "offline-first",
+        "SaaS",
+        "AI"
+      ],
+      "publishedAt": "2026-10-16T15:27:53+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Product Strategy"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-rtx-spark-ai-platform-laptop-chip-and-dlss-5",
+      "title": "Nvidia RTX Spark: AI Platform, Laptop Chip and DLSS 5",
+      "dek": "Nvidia unveils the RTX Spark, a new AI platform featuring laptop chips and DLSS 5 technology.",
+      "aiSummary": "The provided text does not contain an article body, only a title. Therefore, no factual summary can be generated based on the description.",
+      "articleUrl": "https://www.igorslab.de/en/nvidia-rtx-spark-ai-superchip-laptop-platform-dlss-push/",
+      "category": "Hardware",
+      "filterTags": [
+        "Nvidia",
+        "RTX Spark",
+        "DLSS 5"
+      ],
+      "publishedAt": "2026-10-16T15:25:49+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws",
+      "title": "Introducing Reflection Beam: an open-weight model for agentic coding on AWS",
+      "dek": "Reflection AI's Beam is an open-weight model for agentic coding and long-horizon tasks. This post shows how to deploy Beam on AWS: start with an Amazon SageMaker JumpStart real-time endpoint, or use Amazon SageMaker HyperPod Inference with JumpStart, SGLang, or vLLM for Kubernete",
+      "aiSummary": "Reflection AI has introduced Beam, an open-weight model designed for agentic coding and long-horizon tasks. The article details how to deploy Beam on AWS using Amazon SageMaker JumpStart real-time endpoints or Amazon SageMaker HyperPod Inference with SGLang or vLLM for Kubernetes.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws/",
+      "category": "AI",
+      "filterTags": [
+        "Reflection AI",
+        "Beam",
+        "AWS",
+        "Amazon SageMaker",
+        "JumpStart",
+        "HyperPod",
+        "SGLang",
+        "vLLM",
+        "Kubernetes"
+      ],
+      "publishedAt": "2026-10-16T15:23:10+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "debt-worries-keep-driving-down-coreweave-stock",
+      "title": "Debt Worries Keep Driving Down CoreWeave Stock",
+      "dek": "CoreWeave's stock dropped 20% during the first three trading sessions of this week, then Nvidia CEO Jensen Huang stepped in to say he had confidence in the company. But will that be enough to prop up the stock? Mandeep Singh of Bloomberg Intelligence has more.  (Source: Bloomberg",
+      "aiSummary": "CoreWeave's stock declined by 20% over the first three trading days of the week due to debt concerns. Nvidia CEO Jensen Huang expressed confidence in the company, but it remains uncertain if this endorsement will stabilize the stock price.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-16/debt-worries-keep-driving-down-coreweave-stock-video",
+      "category": "Technology",
+      "filterTags": [
+        "CoreWeave",
+        "Nvidia",
+        "Jensen Huang",
+        "Bloomberg Intelligence",
+        "Mandeep Singh"
+      ],
+      "publishedAt": "2026-10-16T15:21:02+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "china-s-cxmt-swings-to-profit-after-memory-chip-prices-surge",
+      "title": "China’s CXMT Swings to Profit After Memory Chip Prices Surge",
+      "dek": "Chinese chipmaker CXMT Corp. reported a surge in preliminary profit and sales during the first nine months of the year after global demand for memory sent prices of the components soaring.",
+      "aiSummary": "Chinese chipmaker CXMT Corp. reported a significant increase in preliminary profits and sales for the first nine months of the year. This financial improvement was driven by soaring global demand for memory components, which caused the prices of these chips to rise sharply.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-16/china-s-cxmt-swings-to-profit-after-memory-chip-prices-surge",
+      "category": "Semiconductors",
+      "filterTags": [
+        "CXMT",
+        "Memory Chips",
+        "Semiconductors"
+      ],
+      "publishedAt": "2026-10-16T15:19:50+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Economy"
+        }
+      ]
+    },
+    {
+      "slug": "b11699-common-honor-http-proxy-https-proxy-env-vars-in-http-client-21752",
+      "title": "b11699: common: honor HTTP_PROXY/HTTPS_PROXY env vars in http client (#21752)",
+      "dek": "common: honor HTTP_PROXY/HTTPS_PROXY env vars in http client \n \n common_http_client() was ignoring standard proxy env vars, causing \ndownloads via -hf and similar flags to fail silently in environments \nbehind an HTTP proxy (corporate networks, air-gapped infra, etc.). \n Checks H",
+      "aiSummary": "The common_http_client function was ignoring the standard HTTP_PROXY and HTTPS_PROXY environment variables, causing silent failures when downloading files with flags like -hf in proxy‑enabled environments. The change adds checks for these variables so downloads work correctly behind corporate or air‑gapped networks.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11699",
+      "category": "Networking",
+      "filterTags": [
+        "HTTP_PROXY",
+        "HTTPS_PROXY",
+        "http client"
+      ],
+      "publishedAt": "2026-10-16T15:01:37+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Networking"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "openai-saudi-national-bugging-case-shows-threat-to-u-s-leadership-in-ai-dni-clayton",
+      "title": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI: DNI Clayton",
+      "dek": "AI \"amplifies\" existing cybersecurity risks toward U.S. digital infrastructure, Clayton said on \"Squawk Box.\"",
+      "aiSummary": "Director of National Intelligence Avril Haines, referred to as DNI Clayton in the text, stated that the case of an OpenAI employee of Saudi nationality illustrates the threat to U.S. leadership in AI. Clayton explained on 'Squawk Box' that artificial intelligence amplifies existing cybersecurity risks directed at U.S. digital infrastructure.",
+      "articleUrl": "https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "AI",
+        "Cybersecurity",
+        "DNI Clayton",
+        "Squawk Box"
+      ],
+      "publishedAt": "2026-10-16T15:01:34+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Geopolitics"
+        }
+      ]
+    },
+    {
+      "slug": "a-week-with-rtx-spark-everything-we-ve-learned-using-nvidia-s-new-laptops",
+      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+      "dek": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best ",
+      "aiSummary": "Nvidia has released the RTX Spark N1X processor, a high‑performance Arm‑based SoC aimed at laptops and small desktops. The author and others have tested many laptops equipped with the chip, gathering insights into its capabilities. The Spark is positioned to compete with top offerings in the market.",
+      "articleUrl": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+      "category": "Hardware",
+      "filterTags": [
+        "Nvidia",
+        "RTX Spark",
+        "N1X",
+        "Arm"
+      ],
+      "publishedAt": "2026-10-16T15:00:00+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Laptops"
+        }
+      ]
+    },
+    {
+      "slug": "maybe-chatbots-shouldn-t-get-to-say-i-or-me",
+      "title": "Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’",
+      "dek": "MIT professor Sherry Turkle warns that people have become dangerously enmeshed with chatbots.",
+      "aiSummary": "MIT professor Sherry Turkle cautions that people are becoming dangerously entangled with chatbots. She argues that allowing chatbots to use personal pronouns like 'I' or 'me' could deepen this unhealthy relationship. Turkle suggests limiting such language to protect users.",
+      "articleUrl": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/",
+      "category": "AI",
+      "filterTags": [
+        "Chatbot"
+      ],
+      "publishedAt": "2026-10-16T15:00:00+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Ethics"
+        },
+        {
+          "name": "Human-Computer Interaction"
+        }
+      ]
+    },
+    {
+      "slug": "japan-s-cyberattacks-are-an-ai-warning",
+      "title": "Japan’s Cyberattacks Are an AI Warning",
+      "dek": "As ransomware attacks surge in Japan, hackers have struck karaoke operators and other businesses. Bloomberg Opinion columnist Catherine Thorbecke says AI is making old security flaws easier to exploit, requiring a more coordinated response from governments and technology companie",
+      "aiSummary": "Ransomware attacks are increasing in Japan, targeting karaoke operators and other businesses. Bloomberg Opinion columnist Catherine Thorbecke argues that AI is making existing security weaknesses easier to exploit, and calls for a coordinated response from governments and technology companies.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-16/opinion-japan-s-cyberattacks-are-an-ai-warning-video",
+      "category": "Cybersecurity",
+      "filterTags": [
+        "AI",
+        "ransomware",
+        "Bloomberg"
+      ],
+      "publishedAt": "2026-10-16T14:54:44+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Governance"
+        }
+      ]
+    },
+    {
+      "slug": "vocal-developers-dismayed-at-doj-considering-antitrust-settlement-with-apple",
+      "title": "Vocal developers dismayed at DOJ considering antitrust settlement with Apple",
+      "dek": "Epic Games now fears that the Department of Justice will let Apple off its antitrust suit with a settlement that does nothing to deter future App Store behavior. Apple's long-running dispute with the DOJ may be coming to an end. Image source: Apple More than two years on from whe",
+      "aiSummary": "Epic Games is concerned that the Department of Justice may resolve its antitrust lawsuit against Apple through a settlement that fails to prevent future App Store misconduct. The potential resolution marks a possible end to the long-standing legal dispute between the two parties.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/16/vocal-developers-dismayed-at-doj-considering-antitrust-settlement-with-apple?utm_source=rss",
+      "category": "Legal",
+      "filterTags": [
+        "Epic Games",
+        "Apple",
+        "DOJ",
+        "Antitrust",
+        "App Store"
+      ],
+      "publishedAt": "2026-10-16T14:45:50+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy",
+      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+      "dek": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+      "aiSummary": "He expressed his approval of using AI in filmmaking as long as it enhances the creative process. He emphasized that AI should be used responsibly and not replace human effort.",
+      "articleUrl": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "filmmaking"
+      ],
+      "publishedAt": "2026-10-16T14:26:51+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Entertainment"
+        }
+      ]
+    },
+    {
+      "slug": "blue-origin-plans-330-million-florida-expansion-to-ramp-new-glenn-launches",
+      "title": "Blue Origin plans $330 million Florida expansion to ramp New Glenn launches",
+      "dek": "Blue Origin said it's targeting multiple flights per week of its New Glenn rocket by the end of the decade.",
+      "aiSummary": "Blue Origin plans a $330 million expansion in Florida to boost New Glenn launches. The company aims to achieve multiple New Glenn flights per week by the end of the decade.",
+      "articleUrl": "https://www.cnbc.com/2026/10/16/blue-origin-new-glenn-florida-expansion.html",
+      "category": "Aerospace",
+      "filterTags": [
+        "Blue Origin",
+        "New Glenn",
+        "Florida"
+      ],
+      "publishedAt": "2026-10-16T14:26:05+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Aerospace"
+        },
+        {
+          "name": "Space Launch"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "meta-s-new-terms-may-allow-it-to-train-ai-on-news-sites-for-free",
+      "title": "Meta’s new terms may allow it to train AI on news sites for free",
+      "dek": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outs",
+      "aiSummary": "Meta's new terms of service, effective October 30th, reportedly grant the company permission to crawl and scrape websites associated with its business users, including online publishers. This change allows Meta to potentially use content from these news sites to train its artificial intelligence models without compensation.",
+      "articleUrl": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+      "category": "AI",
+      "filterTags": [
+        "Meta",
+        "AI",
+        "Web Scraping",
+        "Nieman Lab"
+      ],
+      "publishedAt": "2026-10-16T14:02:40+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Legal & Policy"
+        },
+        {
+          "name": "Media"
+        }
+      ]
+    },
+    {
+      "slug": "super-scam-me-documentary-shows-what-it-takes-to-catch-a-romance-scammer",
+      "title": "Super Scam Me documentary shows what it takes to catch a romance scammer",
+      "dek": "Watch an exclusive clip from  Super Scam Me  where a victim tracks down her scammer.",
+      "aiSummary": "The clip from the documentary 'Super Scam Me' shows a victim tracking down her romance scammer. It offers a behind‑the‑scenes look at the investigation and the tactics used to expose the fraudster.",
+      "articleUrl": "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/",
+      "category": "Crime",
+      "filterTags": [
+        "Super Scam Me"
+      ],
+      "publishedAt": "2026-10-16T14:00:59+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Crime"
+        },
+        {
+          "name": "Documentary"
+        },
+        {
+          "name": "Fraud"
+        }
+      ]
+    },
+    {
+      "slug": "i-built-a-claim-checker-for-writing-with-codex-it-passed-a-wrong-claim",
+      "title": "I Built a Claim-Checker for Writing With Codex. It Passed a Wrong Claim.",
+      "dek": "The tool found the right passage but missed the mismatch, and the audit shows where rule-based checks break down. \n The post  I Built a Claim-Checker for Writing With Codex. It Passed a Wrong Claim.  appeared first on  Towards Data Science .",
+      "aiSummary": "The author built a claim-checking tool that uses Codex to verify statements in writing. While the tool correctly identified the relevant passage, it failed to detect a mismatch in the claim, highlighting limitations of rule-based verification. An audit of the tool’s performance reveals specific weaknesses in its approach.",
+      "articleUrl": "https://towardsdatascience.com/i-built-a-claim-checker-for-writing-with-codex-it-passed-a-wrong-claim/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Codex",
+        "OpenAI"
+      ],
+      "publishedAt": "2026-10-16T14:00:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Natural Language Processing"
+        }
+      ]
+    },
+    {
+      "slug": "veritas-expands-its-anti-counterfeit-chip-to-jewelry-trophies-and-fragrance-bottles",
+      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+      "dek": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
+      "aiSummary": "Counterfeiters are increasingly producing high-quality duplicates known as 'superfakes' that mimic brand marks. To address this, the startup Veritas is expanding the use of its verification chip to secure products such as jewelry, trophies, and fragrance bottles.",
+      "articleUrl": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+      "category": "Security",
+      "filterTags": [
+        "Veritas",
+        "anti-counterfeit",
+        "superfakes",
+        "verification chip"
+      ],
+      "publishedAt": "2026-10-16T14:00:00+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Consumer Goods"
+        },
+        {
+          "name": "Supply Chain"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-755182b4f34e5c96d0e35d7503f67b4d66596395-stable-abi-add-torch-stable-add-196762",
+      "title": "trunk/755182b4f34e5c96d0e35d7503f67b4d66596395: [Stable-ABI] Add torch::stable::add. (#196762)",
+      "dek": "Adds  torch::stable::add  to the stable ABI, gated on a new  TORCH_VERSION_2_16_0 . This is needed for the torchvision stable-ABI port, which currently works around the missing op with  subtract(self, other, -1.0) . \n Summary \n \n Introduces  torch::stable::add(self, other, double",
+      "aiSummary": "The `torch::stable::add` function has been added to the stable Application Binary Interface (ABI), requiring `TORCH_VERSION_2_16_0`. This inclusion is essential for the torchvision stable-ABI port, which previously used a workaround for the missing operation. The new function introduces `torch::stable::add(self, other, double)`.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F755182b4f34e5c96d0e35d7503f67b4d66596395",
+      "category": "Software Development",
+      "filterTags": [
+        "torch::stable::add",
+        "Stable-ABI",
+        "TORCH_VERSION_2_16_0",
+        "torchvision",
+        "PyTorch"
+      ],
+      "publishedAt": "2026-10-16T13:49:08+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Libraries"
+        },
+        {
+          "name": "AI/ML Frameworks"
+        }
+      ]
+    },
+    {
+      "slug": "amazon-cuts-2026-apple-tv-4k-homeview-prices-with-preorder-deals",
+      "title": "Amazon cuts 2026 Apple TV 4K, HomeView prices with preorder deals",
+      "dek": "Amazon has issued 2026 Apple TV 4K and HomeView discounts today, despite the devices being announced mere days ago. Grab preorder Apple TV 4K and HomeView deals - Image credit: Apple You can grab a  $10 preorder discount  on the 2026 Apple TV 4K at Amazon, bringing the price down",
+      "aiSummary": "Amazon has launched preorder discounts for the 2026 Apple TV 4K and HomeView devices shortly after their announcement. Customers can currently secure a $10 discount on the Apple TV 4K by preordering the product.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/16/amazon-cuts-2026-apple-tv-4k-homeview-prices-with-preorder-deals?utm_source=rss",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Amazon",
+        "Apple TV 4K",
+        "HomeView",
+        "Apple"
+      ],
+      "publishedAt": "2026-10-16T13:24:30+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Retail"
+        }
+      ]
+    },
+    {
+      "slug": "release-v5-20-1",
+      "title": "Release v5.20.1",
+      "dek": "Release v5.20.1 \n Special surprise including the new model Beam from Reflection AI 🥳 \n \n Beam is a token-efficient, frontier-scale model focused on coding and agentic use cases. It is built for teams that want to run a powerful model on their own hardware, infrastructure, or clou",
+      "aiSummary": "Version 5.20.1 has been released, introducing the new Beam model from Reflection AI. Beam is a token-efficient, frontier-scale model specifically designed for coding and agentic use cases. It is built for teams that wish to run a powerful model on their own hardware, infrastructure, or cloud environments.",
+      "articleUrl": "https://github.com/huggingface/transformers/releases/tag/v5.20.1",
+      "category": "AI",
+      "filterTags": [
+        "Beam",
+        "Reflection AI",
+        "coding",
+        "agentic use cases"
+      ],
+      "publishedAt": "2026-10-16T13:02:29+00:00",
+      "publisher": {
+        "name": "huggingface",
+        "domain": "github.com",
+        "website": "https://github.com/huggingface/transformers",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Machine Learning Models"
+        }
+      ]
+    },
+    {
+      "slug": "why-no-one-can-look-away-from-elizabeth-holmes",
+      "title": "Why No One Can Look Away From Elizabeth Holmes",
+      "dek": "“I felt like there were some moments in the film where she was just brazenly lying.”",
+      "aiSummary": "The article discusses the intense public fascination with Elizabeth Holmes, noting that her behavior in a film was perceived as brazenly deceptive.",
+      "articleUrl": "https://www.nytimes.com/2026/10/16/podcasts/hardfork-elizabeth-holmes.html",
+      "category": "Media",
+      "filterTags": [
+        "Elizabeth Holmes"
+      ],
+      "publishedAt": "2026-10-16T13:00:28+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Media"
+        },
+        {
+          "name": "Biography"
+        }
+      ]
+    },
+    {
+      "slug": "onsemi-and-sungrow-target-99-3-efficiency-in-utility-scale-bess",
+      "title": "onsemi and Sungrow Target 99.3% Efficiency in Utility-Scale BESS",
+      "dek": "The PowerTitan 3.0 platform supports conversion units up to 450 kW and could save over 475 MWh annually in a 100 MW installation. \n The post  onsemi and Sungrow Target 99.3% Efficiency in Utility-Scale BESS  appeared first on  Power Electronics News .",
+      "aiSummary": "The PowerTitan 3.0 platform, developed by onsemi and Sungrow, is designed to support conversion units up to 450 kW. This system is projected to save over 475 MWh annually in a 100 MW installation, highlighting its potential for significant energy efficiency.",
+      "articleUrl": "https://www.powerelectronicsnews.com/onsemi-and-sungrow-target-99-3-efficiency-in-utility-scale-bess/",
+      "category": "Energy Storage",
+      "filterTags": [
+        "onsemi",
+        "Sungrow",
+        "PowerTitan 3.0",
+        "BESS"
+      ],
+      "publishedAt": "2026-10-16T13:00:00+00:00",
+      "publisher": {
+        "name": "Power Electronics News",
+        "domain": "powerelectronicsnews.com",
+        "website": "https://www.powerelectronicsnews.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Energy Storage"
+        },
+        {
+          "name": "Power Electronics"
+        },
+        {
+          "name": "Renewable Energy"
+        }
+      ]
+    },
+    {
+      "slug": "china-unveils-draft-export-controls-on-ai-technologies-and-chips",
+      "title": "China unveils draft export controls on AI technologies and chips",
+      "dek": "Expanded restrictions highlight Beijing’s determination to prevent transfer of most advanced technology overseas",
+      "aiSummary": "China has released a draft of new export controls targeting AI technologies and semiconductor chips. The measures aim to curb the overseas transfer of advanced tech, reflecting Beijing's resolve to restrict such exports.",
+      "articleUrl": "https://www.ft.com/content/e0a1295c-4492-4fdd-aaf5-55678a9ef9bf?syn-25a6b1a6=1",
+      "category": "Policy",
+      "filterTags": [
+        "AI technologies",
+        "Semiconductor chips",
+        "Export controls",
+        "China"
+      ],
+      "publishedAt": "2026-10-16T12:51:49+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Policy"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "International Relations"
+        }
+      ]
+    },
+    {
+      "slug": "deploying-data-science-tools-part-1",
+      "title": "Deploying Data Science Tools: Part 1",
+      "dek": "Getting your data science code running anywhere \n The post  Deploying Data Science Tools: Part 1  appeared first on  Towards Data Science .",
+      "aiSummary": "This article, the first in a series, focuses on the practical aspect of making data science code operational. It addresses the challenge of deploying data science tools to run in various environments.",
+      "articleUrl": "https://towardsdatascience.com/deploying-data-science-tools-part-1/",
+      "category": "Data Science",
+      "filterTags": [
+        "Data Science Tools",
+        "Data Science Code"
+      ],
+      "publishedAt": "2026-10-16T12:30:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Data Science"
+        },
+        {
+          "name": "Deployment"
+        }
+      ]
+    },
+    {
+      "slug": "save-up-to-1-200-on-apple-s-iphone-duo",
+      "title": "Save up to $1,200 on Apple's iPhone Duo",
+      "dek": "Wireless carriers are competing for your business with iPhone Duo incentives offering up to $1,200 in bill credits. Get up to $1,200 off an iPhone Duo - Image credit: Apple Apple's first foldable iPhone, the iPhone Duo, is finally available for preorder, and wireless carriers AT&",
+      "aiSummary": "Wireless carriers are offering significant incentives, including up to $1,200 in bill credits, for Apple's new iPhone Duo. This device, described as Apple's first foldable iPhone, is now available for preorder through participating carriers such as AT&T.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/16/save-up-to-1200-on-apples-iphone-duo?utm_source=rss",
+      "category": "Mobile Technology",
+      "filterTags": [
+        "Apple",
+        "iPhone Duo",
+        "AT&T"
+      ],
+      "publishedAt": "2026-10-16T12:13:21+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Mobile Technology"
+        },
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Telecommunications"
+        },
+        {
+          "name": "Retail"
+        }
+      ]
+    },
+    {
+      "slug": "how-many-jobs-is-your-state-losing-to-ai-this-dashboard-tracks-the-cuts-and-the-cost",
+      "title": "How many jobs is your state losing to AI? This dashboard tracks the cuts – and the cost",
+      "dek": "CAIS’ Wage Loss Dashboard puts AI-related job cuts into dollars and cents.",
+      "aiSummary": "The CAIS Wage Loss Dashboard provides a financial quantification of job cuts linked to artificial intelligence, expressing these losses in monetary terms.",
+      "articleUrl": "https://www.zdnet.com/innovation/ai-job-cuts-wage-loss-by-state-tracker/",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "CAIS",
+        "Dashboard"
+      ],
+      "publishedAt": "2026-10-16T11:47:39+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Economics"
+        },
+        {
+          "name": "Labor Market"
+        },
+        {
+          "name": "Data Analytics"
+        }
+      ]
+    },
+    {
+      "slug": "b11696",
+      "title": "b11696",
+      "dek": "hexagon: correct HMX FA sinks ( #30581 ) \n \n \n hexagon: correct HMX FA sinks \n \n \n hex-fa: vectorize sinks in hmx kernels \n \n \n \n Co-authored-by: Max Krasnyansky  maxk@qti.qualcomm.com \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/",
+      "aiSummary": "This update addresses corrections and vectorization for HMX FA sinks within Hexagon and hex-fa kernels. The work, co-authored by Max Krasnyansky from Qualcomm, aims to improve these components. Related information points to llama.app and the ggml-org/llama.cpp repository.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11696",
+      "category": "Software Development",
+      "filterTags": [
+        "Hexagon",
+        "HMX FA sinks",
+        "hex-fa",
+        "hmx kernels",
+        "Qualcomm",
+        "llama.app",
+        "llama.cpp",
+        "ggml-org"
+      ],
+      "publishedAt": "2026-10-16T11:29:17+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "AI/ML"
+        }
+      ]
+    },
+    {
+      "slug": "b11695",
+      "title": "b11695",
+      "dek": "model : MTP support for Mellum2.1 ( #30612 ) \n \n \n model : MTP support for Mellum \n \n \n model : inline rope construction in Mellum \n \n \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/56634767 \n \n macOS/iOS: \n \n macOS App",
+      "aiSummary": "The provided information details MTP support for Mellum, including version 2.1, and mentions inline rope construction within Mellum. It also links to the llama.app website and attestations on the ggml-org/llama.cpp GitHub repository, indicating a connection to the llama.cpp project and its macOS/iOS application.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11695",
+      "category": "AI",
+      "filterTags": [
+        "MTP",
+        "Mellum",
+        "Mellum2.1",
+        "llama.app",
+        "ggml-org",
+        "llama.cpp",
+        "macOS",
+        "iOS"
+      ],
+      "publishedAt": "2026-10-16T11:16:03+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Mobile Development"
+        }
+      ]
+    },
+    {
+      "slug": "iterators-and-generators-for-memory-efficient-processing",
+      "title": "Iterators and Generators for Memory-Efficient Processing",
+      "dek": "Laziness is not a religion.",
+      "aiSummary": "The article discusses the use of iterators and generators as tools for processing data in a memory-efficient manner. It emphasizes that this approach is a practical technical strategy rather than a rigid ideology.",
+      "articleUrl": "https://machinelearningmastery.com/iterators-and-generators-for-memory-efficient-processing/",
+      "category": "Programming",
+      "filterTags": [
+        "Iterators",
+        "Generators",
+        "Memory Efficiency"
+      ],
+      "publishedAt": "2026-10-16T11:00:00+00:00",
+      "publisher": {
+        "name": "Jason Brownlee",
+        "domain": "machinelearningmastery.com",
+        "website": "https://machinelearningmastery.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=machinelearningmastery.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=machinelearningmastery.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Programming"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content",
+      "title": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
+      "dek": "A network of AI-generated models is using comics’ material to funnel views to their OnlyFans and Fanvue accounts—and there’s not much comedians can do about it.",
+      "aiSummary": "A network of AI-generated models is appropriating material from comedians to drive traffic to their OnlyFans and Fanvue accounts. This practice allows them to boost views for their adult content, leaving comedians with limited recourse to stop the infringement.",
+      "articleUrl": "https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "OnlyFans",
+        "Fanvue"
+      ],
+      "publishedAt": "2026-10-16T11:00:00+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Intellectual Property"
+        },
+        {
+          "name": "Content Creation"
+        },
+        {
+          "name": "Digital Platforms"
+        }
+      ]
+    },
+    {
+      "slug": "ferric-s-new-dual-sided-ivr-for-in-package-integration-monolithically-integrated-algan-gan-diode-and-transistor-building",
+      "title": "Ferric’s New Dual-Sided IVR for In-Package Integration, Monolithically Integrated AlGaN/GaN Diode and Transistor, Building a Simple Boost Converter in QSPICE: Power Electronics Week Insights",
+      "dek": "Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on Ferric’s New Dual-Sided IVR for In-Package Integration, Monolithically Integrated AlGaN/GaN Diode and Transistor, and Building a Simple Boost Converter in QSPICE! \n The post  Ferric’s",
+      "aiSummary": "This weekly roundup highlights three key developments in power electronics. It covers Ferric's introduction of a dual-sided IVR for in-package integration, the creation of a monolithically integrated AlGaN/GaN diode and transistor, and a tutorial on building a simple boost converter using QSPICE.",
+      "articleUrl": "https://www.powerelectronicsnews.com/ferrics-new-dual-sided-ivr-for-in-package-integration-monolithically-integrated-algan-gan-diode-and-transistor-building-a-simple-boost-converter-in-qspice-power-electronics-week-insights/",
+      "category": "Power Electronics",
+      "filterTags": [
+        "Ferric",
+        "IVR",
+        "AlGaN",
+        "GaN",
+        "QSPICE",
+        "Boost Converter"
+      ],
+      "publishedAt": "2026-10-16T11:00:00+00:00",
+      "publisher": {
+        "name": "Power Electronics News",
+        "domain": "powerelectronicsnews.com",
+        "website": "https://www.powerelectronicsnews.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Power Electronics"
+        },
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Simulation"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1792162361",
+      "title": "viable/strict/1792162361",
+      "dek": "[FSDP2] Copy every all-gather extension payload on a size-1 shard mes…",
+      "aiSummary": "The article discusses an FSDP2 feature that copies every all‑gather extension payload on a size‑1 shard message. It explains how this operation works and its implications for distributed training, providing implementation details and potential performance considerations.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1792162361",
+      "category": "Machine Learning",
+      "filterTags": [
+        "FSDP2",
+        "all-gather",
+        "shard"
+      ],
+      "publishedAt": "2026-10-16T10:34:54+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Distributed Computing"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1792150087",
+      "title": "viable/strict/1792150087",
+      "dek": "[inductor] Split persistent and looped reductions in combo kernel def…",
+      "aiSummary": "A modification has been made within the 'inductor' component. This change involves separating persistent reductions from looped reductions in the definition of a combo kernel, likely to optimize or refine its behavior.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1792150087",
+      "category": "Software Development",
+      "filterTags": [
+        "inductor",
+        "reductions",
+        "kernel"
+      ],
+      "publishedAt": "2026-10-16T07:17:36+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Compilers"
+        },
+        {
+          "name": "Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "welcome-beam-a-501b-open-model-you-can-own-customize-and-scale",
+      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "dek": "Beam is a new open model that allows users to own, modify, and expand it.",
+      "aiSummary": "The article introduces Beam, an open model released under the 501B license. It highlights the model's features, specifically that users can own, customize, and scale it.",
+      "articleUrl": "https://huggingface.co/blog/reflection-beam",
+      "category": "AI",
+      "filterTags": [
+        "Beam",
+        "501B",
+        "Open Model"
+      ],
+      "publishedAt": "2026-10-16T00:00:00+00:00",
+      "publisher": {
+        "name": "Hugging Face",
+        "domain": "huggingface.co",
+        "website": "https://huggingface.co/",
+        "logoUrl": "https://huggingface.co/front/thumbnails/v2-2.png",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "tesla-roadster-muse-spark-open-internal-vibe-coding",
+      "title": "Tesla Roadster 🚗, Muse Spark Open ✨, internal vibe coding 👨‍💻",
+      "dek": "This article touches on the Tesla Roadster, a project named Muse Spark Open, and the concept of internal vibe coding.",
+      "aiSummary": "The provided article text is empty. Therefore, a factual summary of the content cannot be generated.",
+      "articleUrl": "https://tldr.tech/tech/2026-10-16",
+      "category": "Automotive",
+      "filterTags": [
+        "Tesla",
+        "Roadster",
+        "Muse Spark Open",
+        "Coding"
+      ],
+      "publishedAt": "2026-10-16T00:00:00+00:00",
+      "publisher": {
+        "name": "TLDR",
+        "domain": "tldr.tech",
+        "website": "https://tldr.tech/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=tldr.tech&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=tldr.tech&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Automotive"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    }
+  ]
+}
