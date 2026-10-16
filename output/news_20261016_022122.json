@@ -1,0 +1,1168 @@
+{
+  "news": [
+    {
+      "slug": "v1-13-0-dev44",
+      "title": "v1.13.0.dev44",
+      "dek": "Langflow nightly v1.13.0.dev44",
+      "aiSummary": "Langflow has released a new nightly development build identified as version 1.13.0.dev44. This update represents the latest pre-release iteration of the Langflow platform.",
+      "articleUrl": "https://github.com/langflow-ai/langflow/releases/tag/v1.13.0.dev44",
+      "category": "AI",
+      "filterTags": [
+        "Langflow",
+        "v1.13.0.dev44"
+      ],
+      "publishedAt": "2026-10-16T02:18:00+00:00",
+      "publisher": {
+        "name": "langflow-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langflow-ai/langflow",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "space-ai-agent-containment-sandbox-software-open-source",
+      "title": "Space (AI agent containment sandbox) software open source",
+      "dek": "The AI agent sandbox software called Space has been released as open source.",
+      "aiSummary": "The software known as Space, which functions as a containment sandbox for AI agents, has been made available as open source. This release allows developers to access and utilize the codebase for securing and isolating AI agent operations.",
+      "articleUrl": "https://au.finance.yahoo.com/news/perplexity-open-source-tool-used-180212360.html",
+      "category": "AI",
+      "filterTags": [
+        "Space",
+        "AI agents",
+        "sandbox",
+        "open source"
+      ],
+      "publishedAt": "2026-10-16T02:10:22+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "gemini-4-argon-in-antigravity-to-paid-google-ai-pro",
+      "title": "Gemini 4 Argon in Antigravity to Paid Google AI Pro",
+      "dek": "Google's Gemini 4 Argon model is moving from the Antigravity platform to the paid AI Pro subscription.",
+      "aiSummary": "The provided text does not contain sufficient information to generate a factual summary of the article's content. The title indicates a transition of the Gemini 4 Argon model to a paid service, but no supporting details are available in the description.",
+      "articleUrl": "https://twitter.com/antigravity/status/2110866531932316011",
+      "category": "AI",
+      "filterTags": [
+        "Gemini 4 Argon",
+        "Antigravity",
+        "Google AI Pro"
+      ],
+      "publishedAt": "2026-10-16T02:08:44+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Services"
+        }
+      ]
+    },
+    {
+      "slug": "zombie-ai-trend",
+      "title": "Zombie AI Trend",
+      "dek": "The rise of the zombie AI trend",
+      "aiSummary": "The provided text does not contain any information regarding the zombie AI trend. No facts, details, or context were available in the description to summarize.",
+      "articleUrl": "https://www.zombieai.co",
+      "category": "AI",
+      "filterTags": [],
+      "publishedAt": "2026-10-16T02:04:34+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "scaling-indic-pretraining-2-8-trillion-tokens-and-an-open-data-generation-pipeline",
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "dek": "Researchers expand training for Indian languages using 2.8 trillion tokens and a public data creation system.",
+      "aiSummary": "The article details the scaling of pretraining for Indic languages using a dataset of 2.8 trillion tokens. It highlights the development of an open data generation pipeline to support this expansion.",
+      "articleUrl": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "category": "AI",
+      "filterTags": [
+        "Indic Languages",
+        "Pretraining",
+        "Data Generation",
+        "NLP"
+      ],
+      "publishedAt": "2026-10-16T01:44:47+00:00",
+      "publisher": {
+        "name": "Hugging Face",
+        "domain": "huggingface.co",
+        "website": "https://huggingface.co/",
+        "logoUrl": "https://huggingface.co/front/thumbnails/v2-2.png",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Natural Language Processing"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-partner-gmi-cloud-calls-coreweave-s-15-yield-insane",
+      "title": "Nvidia Partner GMI Cloud Calls CoreWeave’s 15% Yield ‘Insane’",
+      "dek": "The founder of a cloud computing company with a similar business model to CoreWeave Inc. said the 15% yield on the latter’s bonds is “insane,” compared with the roughly 3.45% rate his company secured on a recent Taiwan dollar loan.",
+      "aiSummary": "The founder of GMI Cloud, a cloud computing firm with a business model similar to CoreWeave, described CoreWeave's 15% bond yield as \"insane.\" He contrasted this high rate with the approximately 3.45% interest rate his own company secured on a recent loan denominated in Taiwan dollars.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-16/nvidia-partner-gmi-cloud-calls-coreweave-s-15-yield-insane",
+      "category": "Finance",
+      "filterTags": [
+        "Nvidia",
+        "GMI Cloud",
+        "CoreWeave",
+        "Cloud Computing",
+        "Bonds"
+      ],
+      "publishedAt": "2026-10-16T01:44:29+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "apple-inadvertently-reveals-new-ipad-mini-model-exists",
+      "title": "Apple inadvertently reveals new iPad mini model exists",
+      "dek": "An  iPad mini  refresh with an OLED panel is expected at the end of October, but it seems Apple may have leaked its existence early thanks to a French Regulatory website. A new iPad mini is on the way There may be a lot of rumors and anonymous tipsters out there trying to reveal ",
+      "aiSummary": "A French regulatory website appears to have leaked information that Apple is preparing a new iPad mini with an OLED display, expected to launch at the end of October. The leak suggests the device is already in development, and rumors are circulating among tipsters.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/16/apple-inadvertently-reveals-new-ipad-mini-model-exists?utm_source=rss",
+      "category": "Hardware",
+      "filterTags": [
+        "Apple",
+        "iPad mini",
+        "OLED",
+        "French Regulatory website"
+      ],
+      "publishedAt": "2026-10-16T01:39:11+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "ciflow-trunk-200904",
+      "title": "ciflow/trunk/200904",
+      "dek": "[inductor] Consistent optimization hints for compile-time autotune ex…",
+      "aiSummary": "This change introduces consistent optimization hints for compile-time autotuning in the inductor module. It improves the autotuning process by providing reliable hints during compilation. The update enhances performance tuning capabilities.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Ftrunk%2F200904",
+      "category": "Compiler",
+      "filterTags": [
+        "inductor",
+        "compile-time autotune",
+        "optimization hints"
+      ],
+      "publishedAt": "2026-10-16T01:34:36+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Compiler"
+        },
+        {
+          "name": "Performance Optimization"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "taiwan-to-fund-4-billion-texas-complex-for-ai-nvidia-partners",
+      "title": "Taiwan to Fund $4 Billion Texas Complex for AI, Nvidia Partners",
+      "dek": "Taiwan plans to raise billions of dollars to develop industrial parks in the US that would build a base for a comprehensive supply chain for Nvidia Corp. and other AI hardware makers in the country.",
+      "aiSummary": "Taiwan plans to raise billions of dollars to build industrial parks in the United States, creating a supply chain base for Nvidia and other AI hardware makers. The project focuses on Texas and aims to support the growth of AI hardware manufacturing.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-16/taiwan-to-fund-4-billion-texas-complex-for-ai-nvidia-partners",
+      "category": "Hardware",
+      "filterTags": [
+        "Taiwan",
+        "Texas",
+        "Nvidia",
+        "AI hardware"
+      ],
+      "publishedAt": "2026-10-16T01:32:57+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Supply Chain"
+        },
+        {
+          "name": "International Investment"
+        }
+      ]
+    },
+    {
+      "slug": "india-s-billionaire-family-offices-are-betting-big-on-homegrown-ai-startups",
+      "title": "India’s Billionaire Family Offices are Betting Big on Homegrown AI Startups",
+      "dek": "The artificial intelligence boom has cemented US and Chinese tech dominance and created fortunes across North Asia’s chip supply chain. Now, India’s billionaire family offices and wealthy investors are betting on homegrown startups to gain ground in the global AI race.",
+      "aiSummary": "The AI boom has solidified U.S. and Chinese dominance and built wealth in North Asia's chip industry. In response, India's wealthy family offices and investors are putting money into domestic AI startups to compete globally.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-16/india-s-billionaire-family-offices-are-betting-big-on-homegrown-ai-startups",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Artificial Intelligence",
+        "Chip Supply Chain",
+        "Family Offices",
+        "India"
+      ],
+      "publishedAt": "2026-10-16T01:31:07+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Investment"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "ciflow-trunk-201138-rocm-ci-remove-the-unused-amd-dpx-runner-determinator-experiment",
+      "title": "ciflow/trunk/201138: [ROCm][CI] Remove the unused amd-dpx runner-determinator experiment.",
+      "dek": "After the MI350 workflow migration hardcodes linux.rocm.gpu.mi350[.dpx].N \nlabels, nothing reads amd-dpx-label-type. Drop the experiment output, tests, \nand docs so the dead prefix cannot be reintroduced by accident. \n Made with Cursor \n Co-authored-by: Cursor  cursoragent@cursor",
+      "aiSummary": "The CI job removes the unused amd-dpx runner-determinator experiment because the MI350 workflow migration hardcodes linux.rocm.gpu.mi350[.dpx].N labels, making the experiment obsolete. The experiment’s output, tests, and documentation are deleted to prevent accidental reintroduction.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Ftrunk%2F201138",
+      "category": "Software Development",
+      "filterTags": [
+        "ROCm",
+        "MI350",
+        "amd-dpx",
+        "runner-determinator",
+        "linux.rocm.gpu.mi350",
+        "CI"
+      ],
+      "publishedAt": "2026-10-16T01:23:52+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Continuous Integration"
+        },
+        {
+          "name": "GPU Computing"
+        }
+      ]
+    },
+    {
+      "slug": "ciflow-trunk-198383-rocm-ci-keep-runner-determinator-amd-dpx-cleanup-out-of-this-pr",
+      "title": "ciflow/trunk/198383: [ROCm][CI] Keep runner-determinator amd-dpx cleanup out of this PR.",
+      "dek": "Split Huy's review request: this branch keeps the MI350 workflow migration \nonly. The amd-dpx runner-determinator deletions move to a follow-up PR. \n Made with Cursor \n Co-authored-by: Cursor  cursoragent@cursor.com",
+      "aiSummary": "The branch focuses only on migrating the MI350 workflow, while the amd-dpx runner-determinator deletions are postponed to a follow-up pull request. This split was requested by Huy for review.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Ftrunk%2F198383",
+      "category": "Software Engineering",
+      "filterTags": [
+        "ROCm",
+        "CI",
+        "amd-dpx",
+        "runner-determinator",
+        "MI350"
+      ],
+      "publishedAt": "2026-10-16T01:23:33+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Continuous Integration"
+        },
+        {
+          "name": "GPU Computing"
+        }
+      ]
+    },
+    {
+      "slug": "v1-107-0-dev-3",
+      "title": "v1.107.0-dev.3",
+      "dek": "Verify Docker Image Signature \n All LiteLLM Docker images are signed with  cosign . Every release is signed with the same key introduced in  commit  0112e53 . \n Verify using the pinned commit hash (recommended): \n A commit hash is cryptographically immutable, so this is the stron",
+      "aiSummary": "The v1.107.0-dev.3 release includes Docker images signed with cosign. All releases use the same signing key introduced in commit 0112e53, and users are encouraged to verify signatures using the pinned commit hash, which is cryptographically immutable.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.107.0-dev.3",
+      "category": "Security",
+      "filterTags": [
+        "LiteLLM",
+        "cosign",
+        "Docker"
+      ],
+      "publishedAt": "2026-10-16T00:50:31+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Containerization"
+        },
+        {
+          "name": "Software Release"
+        }
+      ]
+    },
+    {
+      "slug": "meta-releases-muse-spark-open-a-new-open-weight-ai-model",
+      "title": "Meta releases Muse Spark Open, a new ‘open-weight’ AI model",
+      "dek": "Meta says Muse excels at ‘multi-step reasoning’ and ‘complex software engineering’ as it races to catch up to Chinese rivals Meta on Thursday launched a new open-weight AI model which it claims rivals, and in some cases outperforms, similar products from leading Chinese developer",
+      "aiSummary": "Meta announced Muse Spark Open, an open-weight AI model. The company claims the model excels at multi‑step reasoning and complex software engineering, and that it rivals or outperforms similar products from leading Chinese developers.",
+      "articleUrl": "https://www.theguardian.com/technology/2026/oct/16/meta-releases-muse-spark-open-a-new-open-weight-ai-model",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Meta",
+        "Muse Spark Open",
+        "open-weight AI model",
+        "Chinese AI developers"
+      ],
+      "publishedAt": "2026-10-16T00:34:28+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "b11671",
+      "title": "b11671",
+      "dek": "model: add Muse Spark Open (text, vision and audio) ( #30616 ) \n \n model: add Muse Spark Open (text, vision and audio) \n \n Muse Spark Open is a latent space MoE: the residual stream stays at 8192 \nwhile the 256 experts live in 4096, with a projection down and up around \nthem, top",
+      "aiSummary": "The update introduces Muse Spark Open, a model supporting text, vision, and audio modalities. It is described as a latent space Mixture of Experts (MoE) architecture where the residual stream maintains a dimension of 8192, while 256 experts operate in a 4096-dimensional space with projection layers.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11671",
+      "category": "AI",
+      "filterTags": [
+        "Muse Spark Open",
+        "MoE",
+        "Latent Space",
+        "Vision",
+        "Audio"
+      ],
+      "publishedAt": "2026-10-16T00:21:23+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "ai-weekly-issue-538-the-ftc-wants-openai-s-and-anthropic-s-safety-incident-records",
+      "title": "AI Weekly Issue #538: The FTC wants OpenAI's and Anthropic's safety incident records",
+      "dek": "The FTC sent OpenAI and Anthropic 50-page demands for records on security incidents, safeguards, marketing and privacy, Axios reported. Meta's new business terms, effective October 30, let it scrape and train on publishers' websites. Investors at Anthropic's investor day discusse",
+      "aiSummary": "The FTC has issued 50-page demands to OpenAI and Anthropic for records regarding security incidents, safeguards, marketing, and privacy. Additionally, Meta's new business terms allow it to scrape and train on publishers' websites, while Anthropic's investor day addressed related industry topics.",
+      "articleUrl": "https://aiweekly.co/issues/the-ftc-wants-openais-and-anthropics-safety-incident-records",
+      "category": "AI",
+      "filterTags": [
+        "FTC",
+        "OpenAI",
+        "Anthropic",
+        "Meta",
+        "AI Safety"
+      ],
+      "publishedAt": "2026-10-16T00:00:00+00:00",
+      "publisher": {
+        "name": "AI Weekly",
+        "domain": "aiweekly.co",
+        "website": "https://aiweekly.co/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=aiweekly.co&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=aiweekly.co&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Regulation"
+        },
+        {
+          "name": "Data Privacy"
+        }
+      ]
+    },
+    {
+      "slug": "elon-musk-helps-gop-senate-super-pac-raise-record-273-million",
+      "title": "Elon Musk helps GOP Senate super PAC raise record $273 million",
+      "dek": "Elon Musk gave a record $158 million to the GOP’s Senate Leadership Fund, boosting its war chest as Republicans pour money into Texas to defend Ken Paxton.",
+      "aiSummary": "Elon Musk donated a record $158 million to the GOP's Senate Leadership Fund, significantly increasing its total funds to $273 million. This financial boost supports Republican efforts to defend Ken Paxton in Texas.",
+      "articleUrl": "https://www.cnbc.com/2026/10/15/elon-musk-senate-leadership-fund-fundraising.html",
+      "category": "Politics",
+      "filterTags": [
+        "Elon Musk",
+        "GOP",
+        "Senate Leadership Fund",
+        "Ken Paxton"
+      ],
+      "publishedAt": "2026-10-15T23:53:29+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Fundraising"
+        }
+      ]
+    },
+    {
+      "slug": "b11675-mtmd-add-mtmd-audio-stream-support-voxtral-realtime-30629",
+      "title": "b11675: mtmd: add mtmd_audio_stream + support voxtral-realtime (#30629)",
+      "dek": "mtmd: add mtmd_audio_stream + support voxtral-realtime \n \n \n address review",
+      "aiSummary": "The update introduces the mtmd_audio_stream functionality and adds support for the voxtral-realtime model. This change is part of pull request #30629 and includes addressing review feedback.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11675",
+      "category": "AI",
+      "filterTags": [
+        "mtmd",
+        "voxtral-realtime",
+        "mtmd_audio_stream"
+      ],
+      "publishedAt": "2026-10-15T23:46:42+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Multimodal"
+        }
+      ]
+    },
+    {
+      "slug": "when-it-came-to-cal-ai-s-viral-success-a-small-army-of-influencers-paid-off",
+      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+      "dek": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
+      "aiSummary": "Cal AI achieved viral success and generated over $30 million in revenue within two years, largely due to a small army of influencers. The company was subsequently acquired by MyFitnessPal in March for an undisclosed sum.",
+      "articleUrl": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+      "category": "Marketing",
+      "filterTags": [
+        "Cal AI",
+        "MyFitnessPal",
+        "Influencers"
+      ],
+      "publishedAt": "2026-10-15T23:44:56+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Marketing"
+        },
+        {
+          "name": "Health Tech"
+        },
+        {
+          "name": "Mergers & Acquisitions"
+        }
+      ]
+    },
+    {
+      "slug": "porn-showing-choking-or-incest-to-be-banned-from-early-november-government-says",
+      "title": "Porn showing choking or incest to be banned from early November, government says",
+      "dek": "The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin",
+      "aiSummary": "The UK government announced that pornographic content depicting choking or incest will be prohibited from early November. This decision follows a 2025 review of pornography regulation conducted by Conservative peer Baroness Gabby Bertin.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss",
+      "category": "Policy",
+      "filterTags": [
+        "Baroness Gabby Bertin",
+        "Conservative",
+        "UK government"
+      ],
+      "publishedAt": "2026-10-15T23:27:57+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Policy"
+        },
+        {
+          "name": "Media"
+        },
+        {
+          "name": "Sexual content"
+        }
+      ]
+    },
+    {
+      "slug": "living-with-a-stink-technology-might-help",
+      "title": "Living with a stink? Technology might help",
+      "dek": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
+      "aiSummary": "Odors originating from waste disposal sites and industrial plants are now subject to more rigorous monitoring. Technological advancements are being utilized to track and manage these environmental smells more effectively.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
+      "category": "Environmental Technology",
+      "filterTags": [
+        "Odor Monitoring",
+        "Industrial Facilities",
+        "Rubbish Dumps"
+      ],
+      "publishedAt": "2026-10-15T23:18:21+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Environmental Technology"
+        },
+        {
+          "name": "Industrial Operations"
+        }
+      ]
+    },
+    {
+      "slug": "apple-sports-gets-better-live-activities",
+      "title": "Apple Sports gets better Live Activities",
+      "dek": "The new version 4.5 of Apple Sports provides \"key stats\" during breaks in the action you're following. And, there's more soccer league coverage. https://apps.apple.com/us/app/apple-sports/id6446788829   Continue Reading on AppleInsider  |  Discuss on our Forums",
+      "aiSummary": "Apple Sports version 4.5 adds key statistics during game pauses and expands coverage of soccer leagues. The update enhances the Live Activities feature with real‑time stats.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/15/apple-sports-gets-better-live-activities?utm_source=rss",
+      "category": "Sports",
+      "filterTags": [
+        "Apple Sports",
+        "Live Activities",
+        "Version 4.5",
+        "Soccer"
+      ],
+      "publishedAt": "2026-10-15T23:07:19+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Sports"
+        },
+        {
+          "name": "Mobile Apps"
+        },
+        {
+          "name": "Apple Ecosystem"
+        }
+      ]
+    },
+    {
+      "slug": "chatgpt-can-peek-at-your-chrome-tabs-now",
+      "title": "ChatGPT can peek at your Chrome tabs now",
+      "dek": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT'",
+      "aiSummary": "OpenAI has discontinued its ChatGPT Atlas browser, but has upgraded the ChatGPT Google Chrome extension to let it access the tabs you already have open. When the extension is installed, ChatGPT can view your Chrome tabs if you tag Chrome in the chat.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "ChatGPT",
+        "Google Chrome",
+        "Chrome extension",
+        "Atlas browser"
+      ],
+      "publishedAt": "2026-10-15T22:43:23+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Privacy"
+        },
+        {
+          "name": "Browser Extensions"
+        }
+      ]
+    },
+    {
+      "slug": "sega-pulls-total-war-shogun-2-remaster-from-sale-following-disastrous-launch",
+      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+      "dek": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday, an",
+      "aiSummary": "Sega has removed Total War: Shogun 2 - Complete Edition from digital storefronts following a disastrous launch. Users reported significant issues, including bugs and upscaling that appeared to be AI-generated.",
+      "articleUrl": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+      "category": "Gaming",
+      "filterTags": [
+        "Sega",
+        "Total War: Shogun 2",
+        "Remaster",
+        "AI Upscaling"
+      ],
+      "publishedAt": "2026-10-15T22:35:55+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "Video Games"
+        }
+      ]
+    },
+    {
+      "slug": "jim-cramer-says-this-week-s-ai-sell-off-offers-a-crucial-lesson-for-investors",
+      "title": "Jim Cramer says this week's AI sell-off offers a crucial lesson for investors",
+      "dek": "CNBC’s Jim Cramer said Thursday’s AI sell-off underscores the importance of owning stocks outside the market’s hottest trade.",
+      "aiSummary": "Jim Cramer, on CNBC, said that the AI sell‑off that happened on Thursday highlights the need for investors to hold positions in companies that are not part of the current hot trend. He emphasized that diversifying beyond the most popular tech stocks can protect against market swings.",
+      "articleUrl": "https://www.cnbc.com/2026/10/15/jim-cramer-ai-stocks-diversification.html",
+      "category": "Finance",
+      "filterTags": [
+        "AI",
+        "CNBC",
+        "stocks"
+      ],
+      "publishedAt": "2026-10-15T22:16:13+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Investing"
+        }
+      ]
+    },
+    {
+      "slug": "withings-wants-you-to-pay-100-a-year-to-sync-a-scale-with-apple-health",
+      "title": "Withings wants you to pay $100 a year to sync a scale with Apple Health",
+      "dek": "Withings has introduced an  Apple Health  Sync paywall, requiring all new users to pay $99.99 each year to see their weight within Apple's default Health app. Withings will charge new users $99 per year to sync data with Apple Health. Image Credit: Withings. Withings is a French ",
+      "aiSummary": "Withings has implemented a paywall that requires new users to pay $99.99 annually to sync weight data with the Apple Health app. This change means that accessing this specific integration is no longer free for new customers of the French company.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/15/withings-wants-you-to-pay-100-a-year-to-sync-a-scale-with-apple-health?utm_source=rss",
+      "category": "Health Tech",
+      "filterTags": [
+        "Withings",
+        "Apple Health"
+      ],
+      "publishedAt": "2026-10-15T21:53:20+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Health Tech"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "b11672",
+      "title": "b11672",
+      "dek": "mtmd: lightonocr does not require longest edge to always be 1540, nat…",
+      "aiSummary": "The LightOn OCR project has updated its requirements, removing the need for the longest edge to always be 1540. This change provides greater flexibility for image processing tasks.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11672",
+      "category": "Computer Vision",
+      "filterTags": [
+        "lightonocr",
+        "mtmd"
+      ],
+      "publishedAt": "2026-10-15T21:53:02+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Computer Vision"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "the-tech-backlash-is-now-in-theaters",
+      "title": "The tech backlash is now in theaters",
+      "dek": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Reckoning frames Mark Zuckerberg as a robotic villain whose am",
+      "aiSummary": "The year 2026 features an unusually high number of movies that critically examine how Silicon Valley is reshaping reality. Aaron Sorkin's film, The Social Reckoning, specifically portrays Mark Zuckerberg as a robotic villain.",
+      "articleUrl": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+      "category": "Entertainment",
+      "filterTags": [
+        "Aaron Sorkin",
+        "The Social Reckoning",
+        "Mark Zuckerberg",
+        "Silicon Valley"
+      ],
+      "publishedAt": "2026-10-15T21:39:52+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Entertainment"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "we-got-hot-and-heavy-with-meta-s-muse-and-baffled-by-apple-s-homeview",
+      "title": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
+      "dek": "This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI.",
+      "aiSummary": "The latest episode of 'Uncanny Valley' explores a surprising feature in Meta's Muse and the confusing interface of Apple's HomeView. The show also discusses opaque spending by a major pro-AI super PAC and analyzes why men often overstate their knowledge of AI.",
+      "articleUrl": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
+      "category": "Consumer Tech",
+      "filterTags": [
+        "Meta",
+        "Apple",
+        "Muse",
+        "HomeView",
+        "Uncanny Valley",
+        "Super PAC"
+      ],
+      "publishedAt": "2026-10-15T21:18:15+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Tech"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Media"
+        }
+      ]
+    },
+    {
+      "slug": "ai-hacks-leave-a-mess-that-ai-companies-aren-t-paying-for",
+      "title": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
+      "dek": "Powerful AI models continue to cause chaos, but their targets aren’t widely seeking justice. Instead, they’re being encouraged to adopt those same tools.",
+      "aiSummary": "Powerful AI models are causing significant disruption, yet the affected parties are not pursuing legal action against the developers. Instead, these targets are being encouraged to integrate the same AI tools into their own operations.",
+      "articleUrl": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Artificial Intelligence"
+      ],
+      "publishedAt": "2026-10-15T21:00:28+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-releases-nemotron-3-5-super-vl-a-120b-open-multimodal-agent-model",
+      "title": "NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model",
+      "dek": "NVIDIA released Nemotron 3.5 Super VL, an open 120B-parameter multimodal MoE model with 12B active parameters, 1M-token context and NVFP4 weights that run on 1 DGX Spark, plus 2 Bolt edge models. \n The post  NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Mode",
+      "aiSummary": "NVIDIA has released Nemotron 3.5 Super VL, an open multimodal Mixture-of-Experts model featuring 120 billion total parameters with 12 billion active parameters. The model supports a 1 million token context window and utilizes NVFP4 weights, allowing it to run on a single DGX Spark unit, alongside the release of two Bolt edge models.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/15/nvidia-nemotron-3-5-super-vl-release/",
+      "category": "AI",
+      "filterTags": [
+        "NVIDIA",
+        "Nemotron 3.5 Super VL",
+        "MoE",
+        "NVFP4",
+        "DGX Spark"
+      ],
+      "publishedAt": "2026-10-15T19:53:50+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "bringing-gpt-rosalind-to-academic-research-labs",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "dek": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "aiSummary": "OpenAI has launched the Rosalind Academic Plan, which gives qualifying academic laboratories sponsored access to GPT‑Rosalind and related tools. The plan aims to help researchers in life sciences advance their work.",
+      "articleUrl": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "GPT‑Rosalind",
+        "Rosalind Academic Plan"
+      ],
+      "publishedAt": "2026-10-15T19:00:00+00:00",
+      "publisher": {
+        "name": "OpenAI",
+        "domain": "openai.com",
+        "website": "https://openai.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Academic Research"
+        },
+        {
+          "name": "Life Sciences"
+        }
+      ]
+    },
+    {
+      "slug": "staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org",
+      "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
+      "dek": "Put native GitHub features to work to review outside collaborator access and archive stale repositories. \n The post  Staying Evergreen: How we automated secure access and repo hygiene in a shared org  appeared first on  The GitHub Blog .",
+      "aiSummary": "The post explains how to use GitHub’s built‑in tools to review outside collaborator permissions and archive inactive repositories. By automating these tasks, teams can keep a shared organization secure and tidy.",
+      "articleUrl": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/",
+      "category": "Security",
+      "filterTags": [
+        "GitHub"
+      ],
+      "publishedAt": "2026-10-15T18:00:00+00:00",
+      "publisher": {
+        "name": "GitHub Blog",
+        "domain": "github.blog",
+        "website": "https://github.blog",
+        "logoUrl": "https://github.blog/wp-content/uploads/2019/01/cropped-github-favicon-512.png?fit=180%2C180",
+        "faviconUrl": "https://github.githubassets.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Collaboration"
+        }
+      ]
+    },
+    {
+      "slug": "sullivan-cromwell-brings-legal-expertise-into-agreement-review",
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "dek": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+      "aiSummary": "Sullivan & Cromwell has partnered with OpenAI to create Agreement Analyzer, an AI-powered tool designed to identify issues within draft legal agreements. This collaboration integrates the law firm's expertise with artificial intelligence to streamline the contract review process.",
+      "articleUrl": "https://openai.com/index/sullivan-cromwell",
+      "category": "Legal Tech",
+      "filterTags": [
+        "Sullivan & Cromwell",
+        "OpenAI",
+        "Agreement Analyzer",
+        "AI"
+      ],
+      "publishedAt": "2026-10-15T00:00:00+00:00",
+      "publisher": {
+        "name": "OpenAI",
+        "domain": "openai.com",
+        "website": "https://openai.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Legal Tech"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    }
+  ]
+}
