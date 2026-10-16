@@ -1,0 +1,1330 @@
+{
+  "news": [
+    {
+      "slug": "b11690",
+      "title": "b11690",
+      "dek": "common : read ngram cache parts by reference instead of copying ( #30061 ) \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/56620013 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silicon (arm64, KleidiAI en",
+      "aiSummary": "This release of llama.cpp introduces an optimization where ngram cache parts are read by reference rather than being copied. The update is available for macOS and iOS devices, specifically supporting Apple Silicon architectures.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11690",
+      "category": "AI",
+      "filterTags": [
+        "llama.cpp",
+        "ngram cache",
+        "Apple Silicon",
+        "macOS",
+        "iOS"
+      ],
+      "publishedAt": "2026-10-16T10:22:01+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Performance Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "taiwan-to-curb-china-ai-chip-exports-to-align-with-us",
+      "title": "Taiwan to Curb China AI Chip Exports to Align With US",
+      "dek": "Taiwan plans to tighten export controls on AI chips in an effort to further align with US restrictions, joining a Trump administration clampdown on the smuggling of semiconductors to China. Neil Campling reports on Bloomberg Television. (Source: Bloomberg)",
+      "aiSummary": "Taiwan intends to implement stricter export controls on AI chips to align with US restrictions. This move supports the Trump administration's efforts to prevent the smuggling of semiconductors to China.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-16/taiwan-to-curb-china-ai-chip-exports-to-align-with-us-video",
+      "category": "Geopolitics",
+      "filterTags": [
+        "Taiwan",
+        "China",
+        "AI Chips",
+        "Semiconductors",
+        "Export Controls",
+        "Bloomberg"
+      ],
+      "publishedAt": "2026-10-16T10:18:32+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Geopolitics"
+        },
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Trade Policy"
+        }
+      ]
+    },
+    {
+      "slug": "albertcode-an-ai-software-engineering-agent-for-building-applications",
+      "title": "AlbertCode, an AI software engineering agent for building applications",
+      "dek": "A new AI tool called AlbertCode helps developers create software applications.",
+      "aiSummary": "AlbertCode is an AI software engineering agent designed to assist in building applications. The tool leverages artificial intelligence to support the software development process.",
+      "articleUrl": "https://www.albertcode.dev",
+      "category": "AI",
+      "filterTags": [
+        "AlbertCode",
+        "AI",
+        "Software Engineering"
+      ],
+      "publishedAt": "2026-10-16T10:16:12+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "b11688",
+      "title": "b11688",
+      "dek": "cpu : reduce AVX2 tiled accumulators together ( #30296 ) \n Assisted-by: Codex \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/56615050 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silicon (arm64, KleidiAI",
+      "aiSummary": "This update to llama.cpp optimizes CPU performance by reducing AVX2 tiled accumulators. The change was assisted by Codex and supports macOS and iOS on Apple Silicon architectures.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11688",
+      "category": "AI",
+      "filterTags": [
+        "llama.cpp",
+        "AVX2",
+        "Codex",
+        "Apple Silicon",
+        "KleidiAI"
+      ],
+      "publishedAt": "2026-10-16T10:06:56+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "memory-under-noise-why-ai-assistant-memory-engines-lose-the-evidence",
+      "title": "Memory Under Noise: Why AI-Assistant Memory Engines Lose the Evidence",
+      "dek": "AI assistant memory systems often fail to retain key evidence due to noise.",
+      "aiSummary": "The article discusses how memory engines in AI assistants struggle to preserve critical evidence when operating under noisy conditions. It highlights the specific challenges these systems face in maintaining data integrity and accuracy amidst interference.",
+      "articleUrl": "https://www.aai-labs.com/en/research/memory-under-noise",
+      "category": "AI",
+      "filterTags": [
+        "AI Assistants",
+        "Memory Engines",
+        "Data Integrity"
+      ],
+      "publishedAt": "2026-10-16T10:06:26+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Data Management"
+        }
+      ]
+    },
+    {
+      "slug": "is-your-organization-messing-up-ai-adoption",
+      "title": "Is Your Organization Messing Up AI Adoption?",
+      "dek": "What can digital transformation teach us about AI adoption? Paul Boag revisits his book Digital Adaptation to show how lessons from the past can help organizations navigate the challenges of AI today. - AI - Workflow - Business",
+      "aiSummary": "Paul Boag draws on his book 'Digital Adaptation' to explain how past lessons from digital transformation can guide organizations through current AI adoption challenges. The article suggests that understanding historical patterns in business adaptation is key to successfully navigating the integration of artificial intelligence.",
+      "articleUrl": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/",
+      "category": "AI",
+      "filterTags": [
+        "Paul Boag",
+        "Digital Adaptation",
+        "AI Adoption",
+        "Digital Transformation"
+      ],
+      "publishedAt": "2026-10-16T10:00:00+00:00",
+      "publisher": {
+        "name": "Smashing Magazine",
+        "domain": "smashingmagazine.com",
+        "website": "https://www.smashingmagazine.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=smashingmagazine.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=smashingmagazine.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Business Strategy"
+        }
+      ]
+    },
+    {
+      "slug": "show-hn-control-how-much-your-ai-agent-can-spend-with-keydris",
+      "title": "Show HN: Control how much your AI agent can spend with Keydris",
+      "dek": "Manage the spending limits of your AI agents using Keydris.",
+      "aiSummary": "Keydris is a tool designed to allow users to control the financial spending capabilities of their AI agents. It provides a mechanism to set limits on how much an AI agent can spend.",
+      "articleUrl": "https://www.youtube.com/watch?v=fboNucIC3uU",
+      "category": "AI",
+      "filterTags": [
+        "Keydris",
+        "AI agents"
+      ],
+      "publishedAt": "2026-10-16T09:56:12+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "FinTech"
+        }
+      ]
+    },
+    {
+      "slug": "b11687",
+      "title": "b11687",
+      "dek": "ggml-cpu: refactor s309x repack helper functions ( #30588 ) \n Signed-off-by: Aaron Teo  aaron.teo1@ibm.com \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/56608371 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS A",
+      "aiSummary": "This update details a refactoring of s309x repack helper functions within the ggml-cpu component, associated with pull request #30588. The change was signed off by Aaron Teo from IBM and is linked to the llama.cpp project, with attestations available on GitHub. It also notes compatibility with macOS Apple Silicon.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11687",
+      "category": "Software Development",
+      "filterTags": [
+        "ggml-cpu",
+        "s309x",
+        "llama.cpp",
+        "IBM",
+        "macOS",
+        "Apple Silicon",
+        "arm64",
+        "GitHub"
+      ],
+      "publishedAt": "2026-10-16T09:43:55+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "CPU"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Operating Systems"
+        }
+      ]
+    },
+    {
+      "slug": "coreweave-faces-funding-risks-as-costs-rise",
+      "title": "CoreWeave Faces Funding Risks as Costs Rise",
+      "dek": "CoreWeave has been become embroiled in a tug of war between investors who see rising bond yields as a rally-killer for the AI trade and those who think rising demand for computing power justifies the enthusiasm. Bloomberg's Neil Campling reports. (Source: Bloomberg)",
+      "aiSummary": "CoreWeave is facing a conflict between investors who view rising bond yields as a threat to the AI investment trend and those who believe high demand for computing power supports the company's valuation. This situation highlights the tension between market risks and the growing need for AI infrastructure.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-16/coreweave-faces-funding-risks-as-costs-rise-video",
+      "category": "AI",
+      "filterTags": [
+        "CoreWeave",
+        "Bloomberg",
+        "AI",
+        "Bond Yields"
+      ],
+      "publishedAt": "2026-10-16T09:39:34+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "replacing-48-mlccs-with-4-lkz-capacitors-for-compact-cost-effective-robot-joint-motor-controllers",
+      "title": "Replacing 48 MLCCs with 4 LKZ Capacitors for Compact, Cost-Effective Robot Joint Motor Controllers",
+      "dek": "1. Robot Joint Miniaturization Puts Greater Design Pressure on DC-Link Capacitors  High-performance robots, including quadruped robots, are increasingly moving toward higher integration, lower weight, and... \n The post  Replacing 48 MLCCs with 4 LKZ Capacitors for Compact, Cost-E",
+      "aiSummary": "The increasing miniaturization and integration of high-performance robots, including quadruped robots, are placing greater design demands on DC-Link Capacitors. A solution involves replacing a large number of MLCCs with fewer LKZ capacitors to create more compact and cost-effective robot joint motor controllers.",
+      "articleUrl": "https://www.powerelectronicsnews.com/replacing-48-mlccs-with-4-lkz-capacitors-for-compact-cost-effective-robot-joint-motor-controllers/",
+      "category": "Robotics",
+      "filterTags": [
+        "MLCCs",
+        "LKZ Capacitors",
+        "DC-Link Capacitors",
+        "Robot Joint Motor Controllers",
+        "quadruped robots"
+      ],
+      "publishedAt": "2026-10-16T09:00:00+00:00",
+      "publisher": {
+        "name": "Power Electronics News",
+        "domain": "powerelectronicsnews.com",
+        "website": "https://www.powerelectronicsnews.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Robotics"
+        },
+        {
+          "name": "Electronics"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "coreweave-stock-wipeout-exposes-divide-between-ai-fear-and-greed",
+      "title": "CoreWeave Stock Wipeout Exposes Divide Between AI Fear and Greed",
+      "dek": "CoreWeave Inc. has become ground zero in a tug of war between investors who see rising bond yields as a potential rally killer for the AI trade and those who think demand for computing power will make those concerns seem passe before long.",
+      "aiSummary": "CoreWeave Inc. is at the center of a debate among investors regarding the impact of rising bond yields on the AI sector. While some view these yields as a threat to the AI trade, others believe that strong demand for computing power will render such concerns irrelevant.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-16/coreweave-stock-wipeout-exposes-divide-between-ai-fear-and-greed",
+      "category": "AI",
+      "filterTags": [
+        "CoreWeave",
+        "AI",
+        "Bond Yields",
+        "Computing Power"
+      ],
+      "publishedAt": "2026-10-16T08:56:41+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Investment"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "online-apple-store-goes-down-ahead-of-iphone-duo-pre-orders",
+      "title": "Online Apple Store goes down ahead of iPhone Duo pre-orders",
+      "dek": "The online version of the Apple Store has gone temporarily offline, all in preparation for the opening of pre-orders for the iPhone Duo, Apple's first-ever foldable iPhone. Variations on this Apple Store notice are always posted right before a change such as opening pre-orders. I",
+      "aiSummary": "The online Apple Store has temporarily gone offline in preparation for the opening of pre-orders for the iPhone Duo, which is Apple's first foldable iPhone. This type of notice is typically posted right before significant changes, such as the launch of new product pre-orders.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/16/online-apple-store-goes-down-ahead-of-iphone-duo-pre-orders?utm_source=rss",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Apple",
+        "iPhone Duo",
+        "Foldable iPhone"
+      ],
+      "publishedAt": "2026-10-16T08:03:05+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Mobile Technology"
+        }
+      ]
+    },
+    {
+      "slug": "spacex-policy-manager-set-to-testify-as-part-of-nyc-council-ai-safety-investigation",
+      "title": "SpaceX policy manager set to testify as part of NYC Council AI safety investigation",
+      "dek": "SpaceX is sending its head of global government affairs for AI, Gabriela Castillo Madrid, to testify before the New York City Council.",
+      "aiSummary": "SpaceX has designated Gabriela Castillo Madrid, its head of global government affairs for AI, to provide testimony before the New York City Council. This appearance is part of an ongoing investigation into AI safety conducted by the council.",
+      "articleUrl": "https://www.cnbc.com/2026/10/16/spacex-policy-manger-to-testify-in-nyc-council-ai-safety-investigation.html",
+      "category": "AI",
+      "filterTags": [
+        "SpaceX",
+        "AI",
+        "New York City Council",
+        "Gabriela Castillo Madrid"
+      ],
+      "publishedAt": "2026-10-16T08:00:01+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Regulation"
+        },
+        {
+          "name": "Government"
+        }
+      ]
+    },
+    {
+      "slug": "ai-threatens-democracy-but-we-are-not-powerless-here-s-how-to-fight-back-carine-fouteau",
+      "title": "AI threatens democracy. But we are not powerless: here’s how to fight back | Carine Fouteau",
+      "dek": "Tech platforms pillage public-interest journalism for profit. But we have leverage as they sow the seeds of their own downfall Carine Fouteau is president and publishing director of the French investigative news outlet Mediapart Big tech companies pose an immeasurable threat: soc",
+      "aiSummary": "Carine Fouteau, president of Mediapart, argues that big tech companies threaten democracy by exploiting public-interest journalism for profit. She suggests that these platforms are creating their own downfall and that society possesses the leverage to fight back against these threats.",
+      "articleUrl": "https://www.theguardian.com/commentisfree/2026/oct/16/ai-existential-threat-real-journalism-democracy-resistance",
+      "category": "Media",
+      "filterTags": [
+        "Mediapart",
+        "Carine Fouteau",
+        "Big Tech",
+        "Journalism"
+      ],
+      "publishedAt": "2026-10-16T07:49:45+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Media"
+        },
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "ai-says-you-re-right-formal-methods-say-you-re-wrong",
+      "title": "AI says you’re right, formal methods say you’re wrong",
+      "dek": "Ryan is joined by Gabriela Moreira, CEO at Quint, about why formal specification languages like TLA+ are essential for catching system design flaws before writing code, how Quint brings developer-friendly syntax and executability to formal methods, and the ways trace validation a",
+      "aiSummary": "Gabriela Moreira, CEO of Quint, discusses the importance of formal specification languages like TLA+ for identifying system design errors before coding begins. She explains how Quint introduces developer-friendly syntax and executability to formal methods, enhancing the validation process.",
+      "articleUrl": "https://stackoverflow.blog/2026/10/16/formal-methods-say-you-re-wrong/",
+      "category": "Software Engineering",
+      "filterTags": [
+        "Quint",
+        "TLA+",
+        "Formal Methods",
+        "System Design"
+      ],
+      "publishedAt": "2026-10-16T07:40:00+00:00",
+      "publisher": {
+        "name": "Stack Overflow Blog",
+        "domain": "stackoverflow.blog",
+        "website": "https://stackoverflow.blog",
+        "logoUrl": "https://stackoverflow.blog/apple-touch-icon.png",
+        "faviconUrl": "https://stackoverflow.blog/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Verification"
+        }
+      ]
+    },
+    {
+      "slug": "g7-economies-plan-simulated-ai-attacks-on-banks-as-cyber-fears-rise",
+      "title": "G7 economies plan simulated AI attacks on banks as cyber fears rise",
+      "dek": "Finance ministers agree to hold tabletop drills to prepare against future cyber attacks",
+      "aiSummary": "Finance ministers from G7 nations have agreed to conduct tabletop exercises simulating AI-driven cyber attacks on the banking sector. These drills are designed to prepare financial institutions for potential future threats as cyber risks increase.",
+      "articleUrl": "https://www.ft.com/content/ce1b9236-1e53-47f1-b1f9-443a9f430b0d?syn-25a6b1a6=1",
+      "category": "Cybersecurity",
+      "filterTags": [
+        "G7",
+        "AI",
+        "Cybersecurity",
+        "Banking"
+      ],
+      "publishedAt": "2026-10-16T07:36:24+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "n8n-2-43-7",
+      "title": "n8n@2.43.7",
+      "dek": "2.43.7  (2026-10-16) \n Features \n \n core:  Suspend in-flight production executions at worker shutdown ( #40944 ) ( 5863179 )",
+      "aiSummary": "n8n has released version 2.43.7 on October 16, 2026. This update introduces a core feature that allows the system to suspend in-flight production executions when a worker shuts down.",
+      "articleUrl": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.43.7",
+      "category": "Open Source",
+      "filterTags": [
+        "n8n",
+        "workflow automation"
+      ],
+      "publishedAt": "2026-10-16T07:27:47+00:00",
+      "publisher": {
+        "name": "n8n-io",
+        "domain": "github.com",
+        "website": "https://github.com/n8n-io/n8n",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "DevOps"
+        }
+      ]
+    },
+    {
+      "slug": "n8n-2-44-3",
+      "title": "n8n@2.44.3",
+      "dek": "2.44.3  (2026-10-16) \n Bug Fixes \n \n core:  Keep Observer detail lines instead of discarding the response ( #41157 ) ( c09e0a9 )",
+      "aiSummary": "n8n released version 2.44.3 on October 16, 2026. This update includes a bug fix in the core module that preserves Observer detail lines instead of discarding the response.",
+      "articleUrl": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.44.3",
+      "category": "Open Source",
+      "filterTags": [
+        "n8n",
+        "core",
+        "Observer"
+      ],
+      "publishedAt": "2026-10-16T07:26:13+00:00",
+      "publisher": {
+        "name": "n8n-io",
+        "domain": "github.com",
+        "website": "https://github.com/n8n-io/n8n",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Automation"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-841e3dc165963ca6550560eab70a84d1c166b9eb-fsdp2-fix-resharding-to-a-smaller-mesh-after-forward-200985",
+      "title": "trunk/841e3dc165963ca6550560eab70a84d1c166b9eb: [FSDP2] Fix resharding to a smaller mesh after forward (#200985)",
+      "dek": "BC-breaking? \n \n No: configurations that worked on main give the same results, and those that failed now work or raise a named  NotImplementedError . \n \n Summary (human written only) \n Agent details (if applicable) \n \n AI-assisted implementation and summary prepared with Claude C",
+      "aiSummary": "This change is not backward-compatible breaking, as existing configurations continue to function as before. Previously failing configurations now either work correctly or raise a specific NotImplementedError. The implementation and summary of this change were prepared with the assistance of Claude C.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F841e3dc165963ca6550560eab70a84d1c166b9eb",
+      "category": "Software Development",
+      "filterTags": [
+        "FSDP2",
+        "Claude C"
+      ],
+      "publishedAt": "2026-10-16T07:02:47+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Bug Fix"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "liquid-ai-releases-d1-ultra-a-multimodal-decision-model-that-scores-65-on-the-aa-decision-index",
+      "title": "Liquid AI Releases d1-ultra: A Multimodal Decision Model That Scores 65 on the AA Decision Index",
+      "dek": "Liquid AI released d1-ultra, a text and image decision model that returns calibrated probabilities in 1 forward pass. It scores 65 on the Artificial Analysis Decision Index and costs $0.042 per million input tokens. \n The post  Liquid AI Releases d1-ultra: A Multimodal Decision M",
+      "aiSummary": "Liquid AI has released d1-ultra, a multimodal model capable of processing text and images to return calibrated probabilities in a single forward pass. The model achieves a score of 65 on the Artificial Analysis Decision Index and is priced at $0.042 per million input tokens.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/15/liquid-ai-d1-ultra-decision-model/",
+      "category": "AI",
+      "filterTags": [
+        "Liquid AI",
+        "d1-ultra",
+        "Multimodal",
+        "Artificial Analysis"
+      ],
+      "publishedAt": "2026-10-16T06:26:41+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "jev-as-a-hallucination-filter-let-the-llm-write-let-jev-check",
+      "title": "JEV as a Hallucination Filter: Let the LLM Write, Let JEV Check",
+      "dek": "The majority of hallucination checks begin following the initial writing of an answer by the LLM. We then hold someone up to a second standard of judgment, or we hand over dangerous cases to a person. That works but that is looking at the solution only as one-off.   What if the L",
+      "aiSummary": "Current methods for detecting hallucinations in Large Language Models typically involve a secondary check after the LLM has produced its output. These post-generation reviews often necessitate human judgment for critical or dangerous cases. The article implies a need to move beyond these one-off solutions towards more integrated approaches.",
+      "articleUrl": "https://www.analyticsvidhya.com/blog/2026/10/rag-hallucination-filter-using-jev/",
+      "category": "AI",
+      "filterTags": [
+        "JEV",
+        "LLM",
+        "Hallucination"
+      ],
+      "publishedAt": "2026-10-16T05:58:08+00:00",
+      "publisher": {
+        "name": "Analytics Vidhya",
+        "domain": "analyticsvidhya.com",
+        "website": "https://www.analyticsvidhya.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=analyticsvidhya.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=analyticsvidhya.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Natural Language Processing"
+        },
+        {
+          "name": "Verification"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-464738e87dda4a83456581e9c2f7eeb9f82b8df3",
+      "title": "trunk/464738e87dda4a83456581e9c2f7eeb9f82b8df3",
+      "dek": "[subgraph-ac] [inductor] Follow-up to  #193960 : cover cond and the sub…",
+      "aiSummary": "This commit is a follow-up to issue #193960 within the inductor component. It specifically covers the handling of conditional statements and subgraphs.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F464738e87dda4a83456581e9c2f7eeb9f82b8df3",
+      "category": "Machine Learning",
+      "filterTags": [
+        "inductor",
+        "subgraph-ac",
+        "trunk"
+      ],
+      "publishedAt": "2026-10-16T05:30:32+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Compiler Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1792143011-update-onnxruntime-version-to-1-28-0-189331",
+      "title": "viable/strict/1792143011: Update onnxruntime version to 1.28.0 (#189331)",
+      "dek": "Use new ort version to test newer opsets (like cumprod). \nPull Request resolved:  #189331 \nApproved by:  https://github.com/cyyever ,  https://github.com/Skylion007 ,  https://github.com/titaiwangms \n Co-authored-by: copilot-swe-agent[bot]  198982749+Copilot@users.noreply.github.",
+      "aiSummary": "This update to ONNX Runtime version 1.28.0 was implemented to facilitate testing of newer operational sets, such as 'cumprod'. The change was resolved via pull request #189331 and approved by multiple GitHub users, including a copilot-swe-agent bot.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1792143011",
+      "category": "Software Development",
+      "filterTags": [
+        "onnxruntime",
+        "opsets",
+        "cumprod",
+        "GitHub",
+        "copilot-swe-agent"
+      ],
+      "publishedAt": "2026-10-16T05:25:07+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Version Control"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "snapchat-and-instagram-grooming-becoming-easier",
+      "title": "Snapchat and Instagram grooming becoming 'easier'",
+      "dek": "Online grooming is rising, with children as young as five targeted, prompting calls for reform.",
+      "aiSummary": "Online grooming is increasing, with children as young as five being targeted. This trend has led to calls for regulatory reform.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/cq33xd6j1dv5o?at_medium=RSS&at_campaign=rss",
+      "category": "Social Media",
+      "filterTags": [
+        "Snapchat",
+        "Instagram",
+        "Online Grooming"
+      ],
+      "publishedAt": "2026-10-16T05:12:48+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Social Media"
+        },
+        {
+          "name": "Child Safety"
+        },
+        {
+          "name": "Regulation"
+        }
+      ]
+    },
+    {
+      "slug": "v0-41-2",
+      "title": "v0.41.2",
+      "dek": "ComfyUI v0.41.2",
+      "aiSummary": "ComfyUI v0.41.2 has been released. The update is part of the project's ongoing development.",
+      "articleUrl": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.41.2",
+      "category": "Open Source",
+      "filterTags": [
+        "ComfyUI"
+      ],
+      "publishedAt": "2026-10-16T04:58:24+00:00",
+      "publisher": {
+        "name": "comfyanonymous",
+        "domain": "github.com",
+        "website": "https://github.com/comfyanonymous/ComfyUI",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "the-data-centre-ipo-debacle-that-sparked-a-market-meltdown",
+      "title": "The data centre IPO debacle that sparked a market meltdown",
+      "dek": "Decisions by Australian groups Firmus and AirTrunk have added to concerns about the AI borrowing frenzy",
+      "aiSummary": "Concerns regarding the rapid increase in AI-related borrowing have grown. This follows recent decisions made by Australian companies Firmus and AirTrunk.",
+      "articleUrl": "https://www.ft.com/content/537c9a68-7b6f-41a7-80ff-acac5c52e80d?syn-25a6b1a6=1",
+      "category": "Finance",
+      "filterTags": [
+        "Firmus",
+        "AirTrunk",
+        "AI",
+        "IPO",
+        "Data Center"
+      ],
+      "publishedAt": "2026-10-16T04:54:52+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "ainews-agents-disprove-polysemanticity-greatly-improve-interpretability-alignment",
+      "title": "[AINews] Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
+      "dek": "Nick Cammarata out of nowhere with some major claims!",
+      "aiSummary": "Nick Cammarata has made significant claims regarding the capabilities of AI agents. He asserts that these agents have disproven the existence of polysemanticity while substantially improving the interpretability and alignment of AI models.",
+      "articleUrl": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
+      "category": "AI",
+      "filterTags": [
+        "Nick Cammarata",
+        "AI Agents",
+        "Polysemanticity",
+        "Interpretability",
+        "Alignment"
+      ],
+      "publishedAt": "2026-10-16T04:16:45+00:00",
+      "publisher": {
+        "name": "Latent Space",
+        "domain": "latent.space",
+        "website": "https://www.latent.space/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "AI Safety"
+        }
+      ]
+    },
+    {
+      "slug": "wall-street-s-ai-wobbles",
+      "title": "Wall Street’s AI wobbles",
+      "dek": "Investors are dumping data centre bonds and abandoned listings are piling up",
+      "aiSummary": "Investors are divesting from data center bonds, indicating a shift in market sentiment. This trend is also leading to an increase in abandoned listings.",
+      "articleUrl": "https://www.ft.com/content/6a1ecb1a-a998-4cbb-be54-22df550a66ee?syn-25a6b1a6=1",
+      "category": "Finance",
+      "filterTags": [
+        "AI",
+        "Wall Street",
+        "Data Centers",
+        "Bonds",
+        "Investment"
+      ],
+      "publishedAt": "2026-10-16T04:00:27+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Investment"
+        }
+      ]
+    },
+    {
+      "slug": "the-world-won-t-wait-evaluating-and-teaching-agents-under-a-live-clock",
+      "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
+      "dek": "arXiv:2610.20665v1 Announce Type: new \nAbstract: Large language model (LLM) agents can solve complex interactive tasks, yet reasoning and tool calls take time. In continuously changing environments, an otherwise correct action may arrive too late. We introduce RealtimeBench, with",
+      "aiSummary": "Large language model (LLM) agents, despite their ability to solve complex interactive tasks, are constrained by the time required for reasoning and tool calls. This delay can render otherwise correct actions ineffective in rapidly changing environments. To address this, the authors introduce RealtimeBench.",
+      "articleUrl": "https://arxiv.org/abs/2610.20665",
+      "category": "AI",
+      "filterTags": [
+        "LLM",
+        "AI Agents",
+        "RealtimeBench"
+      ],
+      "publishedAt": "2026-10-16T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv cs.AI",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.AI",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Research"
+        },
+        {
+          "name": "Benchmarking"
+        }
+      ]
+    },
+    {
+      "slug": "evaluating-model-capabilities-after-benchmark-saturation",
+      "title": "Evaluating Model Capabilities After Benchmark Saturation",
+      "dek": "arXiv:2610.20667v1 Announce Type: new \nAbstract: Rapid advances in AI capabilities are causing benchmarks to saturate. Once several models approach perfect scores, a benchmark loses its power to differentiate between them, and with it its utility for informing AI safety cases and",
+      "aiSummary": "The paper addresses the issue of benchmark saturation, where rapid AI advancements cause multiple models to achieve near-perfect scores, rendering traditional tests ineffective for differentiation. This loss of utility hinders the ability to use these benchmarks for informing AI safety cases.",
+      "articleUrl": "https://arxiv.org/abs/2610.20667",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Benchmarks",
+        "arXiv"
+      ],
+      "publishedAt": "2026-10-16T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv cs.AI",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.AI",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Research"
+        }
+      ]
+    },
+    {
+      "slug": "value-informed-schedule-trimming-for-accelerated-sequential-monte-carlo-guidance-in-discrete-diffusion",
+      "title": "Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion",
+      "dek": "arXiv:2610.20669v1 Announce Type: new \nAbstract: Reward-guided discrete diffusion enables test-time alignment with downstream objectives, but applying Sequential Monte Carlo (SMC) guidance at every denoising step is computationally expensive. Active guidance steps require additio",
+      "aiSummary": "Reward-guided discrete diffusion models are useful for aligning with downstream objectives during testing. However, applying Sequential Monte Carlo (SMC) guidance at every denoising step is computationally expensive. The article addresses this challenge, particularly concerning the cost of active guidance steps.",
+      "articleUrl": "https://arxiv.org/abs/2610.20669",
+      "category": "Machine Learning",
+      "filterTags": [
+        "Sequential Monte Carlo",
+        "SMC",
+        "Discrete Diffusion",
+        "Diffusion Models"
+      ],
+      "publishedAt": "2026-10-16T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv cs.AI",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.AI",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Computational Methods"
+        }
+      ]
+    },
+    {
+      "slug": "reverse-monte-carlo-modelling-in-reduced-dimensions",
+      "title": "Reverse Monte Carlo Modelling in Reduced Dimensions",
+      "dek": "arXiv:2610.20622v1 Announce Type: new \nAbstract: Physical experiments frequently result in inverse problems, where the recorded response is used to deduce information about the sample, typically yielding only partial recovery. This work presents a reverse Monte Carlo modeling met",
+      "aiSummary": "The paper addresses inverse problems in physical experiments where recorded responses only allow for partial recovery of sample information. It introduces a reverse Monte Carlo modeling method designed for reduced dimensions to improve the deduction of sample properties.",
+      "articleUrl": "https://arxiv.org/abs/2610.20622",
+      "category": "Physics",
+      "filterTags": [
+        "Reverse Monte Carlo",
+        "arXiv",
+        "Inverse Problems"
+      ],
+      "publishedAt": "2026-10-16T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Physics"
+        },
+        {
+          "name": "Computational Science"
+        }
+      ]
+    },
+    {
+      "slug": "a-polylogarithmic-bound-for-list-replicability",
+      "title": "A polylogarithmic bound for list replicability",
+      "dek": "arXiv:2610.20657v1 Announce Type: new \nAbstract: Zhang [Zha26] recently posted a manuscript announcing that the list-replicability number of every class of $M\\ge 2$ binary concepts on $N\\ge 2$ domain points is $O(\\log^2 M\\log N)$, which would be the first polylogarithmic upper bo",
+      "aiSummary": "A recent manuscript by Zhang announces a new polylogarithmic upper bound for the list-replicability number. This bound is specified as $O(\\log^2 M\\log N)$ for classes of $M\\ge 2$ binary concepts on $N\\ge 2$ domain points. This work represents the first time a polylogarithmic upper bound has been established for this particular concept.",
+      "articleUrl": "https://arxiv.org/abs/2610.20657",
+      "category": "Mathematics",
+      "filterTags": [
+        "Zhang",
+        "arXiv",
+        "List Replicability",
+        "Polylogarithmic Bound",
+        "Binary Concepts"
+      ],
+      "publishedAt": "2026-10-16T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Mathematics"
+        },
+        {
+          "name": "Theoretical Computer Science"
+        },
+        {
+          "name": "Algorithms"
+        }
+      ]
+    },
+    {
+      "slug": "latent-annealed-posterior-sampling-with-a-variance-preserving-bridge-for-sparsely-observed-random-fields",
+      "title": "Latent Annealed Posterior Sampling with a Variance-Preserving Bridge for Sparsely Observed Random Fields",
+      "dek": "arXiv:2610.20659v1 Announce Type: new \nAbstract: Posterior inference for random fields from sparse observations presents two major challenges: accurately characterizing complex spatial uncertainty and preventing conditional sampling costs from growing substantially as the spatial",
+      "aiSummary": "The paper introduces a method for posterior inference in random fields based on sparse observations. It addresses the challenges of characterizing complex spatial uncertainty and preventing conditional sampling costs from increasing as spatial dimensions grow.",
+      "articleUrl": "https://arxiv.org/abs/2610.20659",
+      "category": "Machine Learning",
+      "filterTags": [
+        "Posterior Inference",
+        "Random Fields",
+        "Sparse Observations",
+        "arXiv"
+      ],
+      "publishedAt": "2026-10-16T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Statistics"
+        },
+        {
+          "name": "Mathematics"
+        }
+      ]
+    },
+    {
+      "slug": "how-to-manage-your-iphone-notifications-on-ios-27",
+      "title": "How to manage your iPhone notifications on iOS 27",
+      "dek": "If you're feeling overwhelmed with the amount of notifications you're receiving, you're hardly alone — that's why we're here to show you how to manage notifications on your  iPhone . How to manage notifications on iOS 27 For as great as the iPhone is, it can be pretty distracting",
+      "aiSummary": "This article addresses the common problem of excessive iPhone notifications, which can be overwhelming and distracting for users. It provides guidance on how to effectively manage these alerts on devices operating with iOS 27. The aim is to help users regain control over their notification experience.",
+      "articleUrl": "https://appleinsider.com/articles/26/02/12/how-to-manage-your-iphone-notifications-on-ios-26?utm_source=rss",
+      "category": "Mobile Technology",
+      "filterTags": [
+        "iPhone",
+        "iOS 27",
+        "Notifications"
+      ],
+      "publishedAt": "2026-10-16T03:00:54+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Mobile Technology"
+        },
+        {
+          "name": "User Experience"
+        },
+        {
+          "name": "Software"
+        }
+      ]
+    },
+    {
+      "slug": "trade-secret-lawsuit-on-iphone-s-anodization-process-now-being-appealed",
+      "title": "Trade secret lawsuit on iPhone's anodization process now being appealed",
+      "dek": "Apple won against Envirodigm in a trade secret lawsuit surrounding  iPhone's  anodization process, but an appeal has revived the case in the hopes of catching Apple in some wrongdoing. iPhone 6 by iPhone 6s A  little-known lawsuit  was brought against Apple in 2020 by Envirodigm ",
+      "aiSummary": "Apple previously won a trade secret lawsuit against Envirodigm concerning the anodization process used on iPhones. The case has been revived through an appeal, which seeks to identify potential wrongdoing by Apple in the original proceedings.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/16/trade-secret-lawsuit-on-iphones-anodization-process-now-being-appealed?utm_source=rss",
+      "category": "Legal",
+      "filterTags": [
+        "Apple",
+        "iPhone",
+        "Envirodigm",
+        "anodization"
+      ],
+      "publishedAt": "2026-10-16T02:45:05+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "meta-releases-muse-spark-open-816b-open-weight-moe-with-1m-context",
+      "title": "Meta Releases Muse Spark Open: 816B Open-Weight MoE With 1M Context",
+      "dek": "Meta released Muse Spark Open, an 816B-parameter open-weight MoE model with 42B active parameters and a 1M-token context. It leads open models on MCP-Atlas and runs on 2 M5 Ultra Mac Studios. \n The post  Meta Releases Muse Spark Open: 816B Open-Weight MoE With 1M Context  appeare",
+      "aiSummary": "Meta has introduced Muse Spark Open, an 816 billion-parameter open-weight Mixture-of-Experts (MoE) model with 42 billion active parameters. This model, which boasts a 1 million-token context, currently leads other open models on the MCP-Atlas benchmark. Notably, it is capable of running on just two M5 Ultra Mac Studios.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/15/meta-muse-spark-open-816b-open-weight-model/",
+      "category": "AI",
+      "filterTags": [
+        "Meta",
+        "Muse Spark Open",
+        "MoE",
+        "MCP-Atlas",
+        "M5 Ultra Mac Studios"
+      ],
+      "publishedAt": "2026-10-16T02:26:04+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "mcp-standardized-tools-now-we-need-the-infrastructure-around-them",
+      "title": "MCP standardized tools. Now we need the infrastructure around them.",
+      "dek": "The Model Context Protocol has established a standard for tools, but the supporting infrastructure is still missing.",
+      "aiSummary": "The Model Context Protocol (MCP) has successfully standardized the way tools are defined and accessed. However, the article argues that the ecosystem now requires the development of robust infrastructure to support these standardized tools effectively.",
+      "articleUrl": "https://stackoverflow.blog/2026/10/15/mcp-standardized-tools-now-we-need-the-infrastructure-around-them/",
+      "category": "AI",
+      "filterTags": [
+        "MCP",
+        "Model Context Protocol",
+        "Infrastructure"
+      ],
+      "publishedAt": "2026-10-15T20:39:29+00:00",
+      "publisher": {
+        "name": "Stack Overflow Blog",
+        "domain": "stackoverflow.blog",
+        "website": "https://stackoverflow.blog",
+        "logoUrl": "https://stackoverflow.blog/apple-touch-icon.png",
+        "faviconUrl": "https://stackoverflow.blog/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    }
+  ]
+}
