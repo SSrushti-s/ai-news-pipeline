@@ -1,0 +1,888 @@
+{
+  "news": [
+    {
+      "slug": "generative-ai-porn-apps-targeted-in-app-review-guidelines-update",
+      "title": "Generative AI porn apps targeted in App Review Guidelines update",
+      "dek": "Apple has updated the App Review Guidelines once more, in a crackdown on apps creating non-consensual adult imagery that are sold using bait-and-switch tactics to pass the review process. The App Store prohibits nudification apps.  While Apple has a fairly robust  App Store  Revi",
+      "aiSummary": "Apple has updated its App Review Guidelines to target generative AI applications that create non-consensual adult imagery. The update aims to prevent developers from using bait-and-switch tactics to pass the review process for apps that violate the App Store's prohibition on nudification.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/17/generative-ai-porn-apps-targeted-in-app-review-guidelines-update?utm_source=rss",
+      "category": "AI",
+      "filterTags": [
+        "Apple",
+        "App Store",
+        "Generative AI",
+        "App Review Guidelines"
+      ],
+      "publishedAt": "2026-10-17T14:40:29+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Platform Policy"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "convycanvas-ai-tutor-for-euclid-s-elements",
+      "title": "ConvyCanvas – AI Tutor for Euclid's Elements",
+      "dek": "ConvyCanvas is an AI tool that helps teach Euclid's Elements.",
+      "aiSummary": "ConvyCanvas is an AI tutor designed to assist with the study of Euclid's Elements. The provided text does not contain further details regarding its specific features or implementation.",
+      "articleUrl": "https://convycanvas.com/elements/reader/#euclid_i/prop_001",
+      "category": "AI",
+      "filterTags": [
+        "ConvyCanvas",
+        "Euclid's Elements"
+      ],
+      "publishedAt": "2026-10-17T14:37:28+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Education"
+        }
+      ]
+    },
+    {
+      "slug": "the-ai-paradox",
+      "title": "The AI Paradox",
+      "dek": "The contradiction inherent in artificial intelligence.",
+      "aiSummary": "The provided text contains only the title 'The AI Paradox' and an empty description field. Consequently, there is no factual content available to summarize the specific arguments or details of the article.",
+      "articleUrl": "https://www.youtube.com/watch?v=dcolM6W5Odc",
+      "category": "AI",
+      "filterTags": [
+        "AI"
+      ],
+      "publishedAt": "2026-10-17T14:35:52+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "ask-hn-how-are-you-all-ensuring-your-ai-code-isn-t-slop",
+      "title": "Ask HN: How are you all ensuring your AI code isn't slop?",
+      "dek": "What methods are you using to make sure AI-generated code is high quality?",
+      "aiSummary": "The provided text contains only a question asking how developers ensure that AI-generated code is not low quality or 'slop'. No specific methods, tools, or detailed answers are included in the snippet.",
+      "articleUrl": "https://github.com/trypando/pando",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Code Quality"
+      ],
+      "publishedAt": "2026-10-17T14:29:57+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "meta-shakes-up-the-frontiers-open-and-closed",
+      "title": "Meta shakes up the frontiers, open and closed",
+      "dek": "US open weights are back!",
+      "aiSummary": "Meta is restructuring its strategy regarding the development of frontier AI models. The company is shifting its focus to include a renewed emphasis on open-weight models in the United States.",
+      "articleUrl": "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
+      "category": "AI",
+      "filterTags": [
+        "Meta",
+        "Open Weights",
+        "Frontier Models"
+      ],
+      "publishedAt": "2026-10-17T14:06:54+00:00",
+      "publisher": {
+        "name": "Nathan Lambert",
+        "domain": "interconnects.ai",
+        "website": "https://www.interconnects.ai/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=interconnects.ai&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=interconnects.ai&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "b11712",
+      "title": "b11712",
+      "dek": "tests: give the random model generator a per-tensor filler table ( #30674 ) \n \n tests: give the random model generator a per-tensor filler table \n \n Muse Spark makes test-llama-context fail on state_load, cp_h and cp_d on about \nsix percent of the random seeds, with an NMSE of 1.",
+      "aiSummary": "The update introduces a per-tensor filler table to the random model generator in the test suite. This change addresses issues where the Muse Spark model caused test-llama-context to fail on specific parameters for approximately six percent of random seeds.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11712",
+      "category": "Testing",
+      "filterTags": [
+        "Muse Spark",
+        "test-llama-context",
+        "state_load",
+        "cp_h",
+        "cp_d",
+        "NMSE"
+      ],
+      "publishedAt": "2026-10-17T14:04:36+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Testing"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "the-number-your-quantization-gate-doesn-t-have",
+      "title": "The Number Your Quantization Gate Doesn't Have",
+      "dek": "Ten quantization guides, and not one threshold-dependent metric between them — what that gap hides, and the two numbers that close it. \n The post  The Number Your Quantization Gate Doesn't Have  appeared first on  Towards Data Science .",
+      "aiSummary": "The article highlights that ten common quantization guides fail to include a threshold-dependent metric. It explains what this gap obscures and identifies two specific numbers that can resolve the issue.",
+      "articleUrl": "https://towardsdatascience.com/the-number-your-quantization-gate-doesnt-have/",
+      "category": "Machine Learning",
+      "filterTags": [
+        "Quantization",
+        "Towards Data Science"
+      ],
+      "publishedAt": "2026-10-17T14:00:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Data Science"
+        }
+      ]
+    },
+    {
+      "slug": "community-wisdom-prds-for-agents-tracking-competitor-messaging-whether-software-moats-still-exist-exercising-startup-opt",
+      "title": "🧠 Community Wisdom: PRDs for agents, tracking competitor messaging, whether software moats still exist, exercising startup options when you leave, and more",
+      "dek": "Community Wisdom 302",
+      "aiSummary": "This community wisdom edition addresses several key business and technical questions, including how to write PRDs for AI agents and how to track competitor messaging. It also explores whether software moats remain viable in the current market and provides guidance on exercising startup options upon departure.",
+      "articleUrl": "https://www.lennysnewsletter.com/p/community-wisdom-prds-for-agents",
+      "category": "Product Management",
+      "filterTags": [
+        "PRDs",
+        "AI agents",
+        "Competitor analysis",
+        "Software moats",
+        "Startup options"
+      ],
+      "publishedAt": "2026-10-17T13:53:57+00:00",
+      "publisher": {
+        "name": "Lenny's Newsletter",
+        "domain": "lennysnewsletter.com",
+        "website": "https://www.lennysnewsletter.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=lennysnewsletter.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=lennysnewsletter.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Product Management"
+        },
+        {
+          "name": "Business Strategy"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "deepseek-pushes-out-updated-ai-model-it-says-is-faster-leaner",
+      "title": "DeepSeek Pushes Out Updated AI Model It Says Is Faster, Leaner",
+      "dek": "DeepSeek released an update of its AI model this weekend that it says is faster and leaner, ramping up the Chinese company’s challenge to Silicon Valley rivals Anthropic PBC and OpenAI as well as domestic competitors like Moonshot Kimi and Z.ai",
+      "aiSummary": "DeepSeek released an updated AI model over the weekend, claiming it is faster and leaner than previous versions. This release intensifies the Chinese company's competition against Silicon Valley rivals Anthropic and OpenAI, as well as domestic competitors Moonshot Kimi and Z.ai.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-17/deepseek-pushes-out-updated-ai-model-it-says-is-faster-leaner",
+      "category": "AI",
+      "filterTags": [
+        "DeepSeek",
+        "Anthropic",
+        "OpenAI",
+        "Moonshot Kimi",
+        "Z.ai"
+      ],
+      "publishedAt": "2026-10-17T13:47:14+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "b11713-cuda-faster-mmvq-for-low-bit-types-30517",
+      "title": "b11713: CUDA: faster MMVQ for low-bit types (#30517)",
+      "dek": "CUDA: faster MMVQ for low-bit types \n \n \n ggml-cuda: hip: small nwarps GCN fix on Q3_K(ncols=2,3), Q6_K(ncols=4) \n \n \n \n Co-authored-by: thelittlefireman  thelittlefireman3@gmail.com",
+      "aiSummary": "This update introduces faster matrix-vector quantization (MMVQ) operations for low-bit types in the CUDA backend. It also includes a minor fix for warp configuration on GCN architecture for specific quantization types like Q3_K and Q6_K.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11713",
+      "category": "Machine Learning",
+      "filterTags": [
+        "CUDA",
+        "ggml",
+        "MMVQ",
+        "HIP",
+        "GCN"
+      ],
+      "publishedAt": "2026-10-17T13:35:30+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Hardware Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "b11711",
+      "title": "b11711",
+      "dek": "cuda : fix -Wtautological-compare in fattn vec dispatch ( #30519 ) \n Signed-off-by: Adrien Gallouët  angt@huggingface.co \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/56950661 \n \n macOS/iOS: \n \n macOS Apple Silicon (ar",
+      "aiSummary": "A commit by Adrien Gallouët addresses a tautological comparison warning in the CUDA fattn vector dispatch. The change is part of the llama.cpp project and includes attestations for macOS and iOS Apple Silicon platforms.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11711",
+      "category": "AI",
+      "filterTags": [
+        "CUDA",
+        "llama.cpp",
+        "Hugging Face",
+        "macOS",
+        "iOS",
+        "Apple Silicon"
+      ],
+      "publishedAt": "2026-10-17T13:07:20+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "ai-selloff-tests-investor-confidence",
+      "title": "AI Selloff Tests Investor Confidence",
+      "dek": "Ritholtz Wealth Management Chairman and Chief Investment Officer Barry Ritholtz tells Bloomberg This Weekend that AI remains a transformational technology, but investors face a difficult task determining which companies will ultimately emerge as winners and losers. Speaking with ",
+      "aiSummary": "Barry Ritholtz, Chairman of Ritholtz Wealth Management, states that while AI is a transformative technology, investors are struggling to identify which companies will succeed. He notes that the current market environment makes it difficult to distinguish between future winners and losers in the AI sector.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-17/ai-selloff-tests-investor-confidence-video",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Ritholtz Wealth Management",
+        "Bloomberg"
+      ],
+      "publishedAt": "2026-10-17T13:05:53+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Investing"
+        },
+        {
+          "name": "Markets"
+        }
+      ]
+    },
+    {
+      "slug": "inside-the-long-bitter-fight-over-one-man-s-quest-to-build-the-biggest-ai-datacenter-in-california",
+      "title": "Inside the long, bitter fight over one man’s quest to build the biggest AI datacenter in California",
+      "dek": "A modern-day prospector promised rural Imperial thousands of jobs and millions in tax revenue – but his plan has set off a firestorm of resistance Sebastian Rucci zoomed in on a map in late 2024, looking closely at a large block of brown earth. The barren plot sandwiched between ",
+      "aiSummary": "A local developer has proposed building the largest AI data center in California, promising thousands of jobs and significant tax revenue for rural Imperial County. The project has sparked intense opposition from residents and environmental groups, leading to a prolonged and heated dispute. The site is a barren plot of land that the developer is eyeing for the data center.",
+      "articleUrl": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/17/california-datacenter-imperial",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "data center",
+        "Imperial County"
+      ],
+      "publishedAt": "2026-10-17T13:00:31+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "Economic Development"
+        }
+      ]
+    },
+    {
+      "slug": "websites-are-closing-their-doors-to-ai-agents",
+      "title": "Websites are closing their doors to AI agents",
+      "dek": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest o",
+      "aiSummary": "Many websites are blocking AI agents from accessing their content. Companies such as OpenAI, Meta, Google, and Instinct are developing agents that can browse the web to perform tasks like booking reservations or shopping, but site owners are tightening restrictions. The article examines the conflict between AI developers and website owners over web access.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "Meta",
+        "Google",
+        "Instinct",
+        "AI agents"
+      ],
+      "publishedAt": "2026-10-17T13:00:00+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Web"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "plug-in-solar-is-legal-in-these-10-states-now-how-it-could-save-you-money",
+      "title": "Plug-in solar is legal in these 10 states now – how it could save you money",
+      "dek": "So-called balcony solar setups are becoming legal across the US. Here’s the latest.",
+      "aiSummary": "Balcony solar setups, a type of plug-in solar system, are becoming legal in ten US states. This development allows residents to generate their own electricity, potentially saving them money on energy bills.",
+      "articleUrl": "https://www.zdnet.com/uncategorized/plug-in-solar-balcony-solar-legalization-2026/",
+      "category": "Renewable Energy",
+      "filterTags": [
+        "balcony solar",
+        "plug-in solar",
+        "US states"
+      ],
+      "publishedAt": "2026-10-17T13:00:00+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Renewable Energy"
+        },
+        {
+          "name": "Consumer Finance"
+        }
+      ]
+    },
+    {
+      "slug": "zelenskyy-says-starlink-restrictions-on-ukraine-look-deliberate",
+      "title": "Zelenskyy Says Starlink Restrictions on Ukraine Look Deliberate",
+      "dek": "Restrictions on Ukraine’s military use of SpaceX’s Starlink system appear to be deliberate and not the result of any technical problems, President Volodymyr Zelenskyy said on Saturday.",
+      "aiSummary": "President Zelenskyy stated that the restrictions on Ukraine's military use of SpaceX's Starlink are deliberate, not due to technical issues. He made the remarks on Saturday. The statement highlights concerns over the availability of satellite communications for Ukraine.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-17/zelenskyy-says-starlink-restrictions-on-ukraine-look-deliberate",
+      "category": "Technology",
+      "filterTags": [
+        "Starlink",
+        "SpaceX"
+      ],
+      "publishedAt": "2026-10-17T12:47:37+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Defense"
+        },
+        {
+          "name": "Geopolitics"
+        }
+      ]
+    },
+    {
+      "slug": "bending-spoons-wants-to-revive-software-castoffs-berkshire-is-backing-the-plan",
+      "title": "Bending Spoons wants to revive software castoffs. Berkshire is backing the plan",
+      "dek": "Less than four months into life as a public company, Bending Spoons got a big vote of confidence this week from Berkshire Hathaway.",
+      "aiSummary": "Bending Spoons, a company that recently went public, received strong support from Berkshire Hathaway. The investment signals confidence in the company’s strategy to revive older software products.",
+      "articleUrl": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
+      "category": "Technology",
+      "filterTags": [
+        "Bending Spoons",
+        "Berkshire Hathaway"
+      ],
+      "publishedAt": "2026-10-17T12:00:01+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "when-eeg-models-see-the-same-people-in-training-and-testing",
+      "title": "When EEG Models See the Same People in Training and Testing",
+      "dek": "How participant-aware evaluation changed performance across three machine-learning models \n The post  When EEG Models See the Same People in Training and Testing  appeared first on  Towards Data Science .",
+      "aiSummary": "The article examines how participant-aware evaluation impacts the performance of three machine learning models. It highlights the effects of using the same individuals in both training and testing datasets for EEG analysis.",
+      "articleUrl": "https://towardsdatascience.com/when-eeg-models-see-the-same-people-in-training-and-testing/",
+      "category": "AI",
+      "filterTags": [
+        "EEG",
+        "Machine Learning",
+        "Towards Data Science"
+      ],
+      "publishedAt": "2026-10-17T12:00:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Healthcare"
+        },
+        {
+          "name": "Data Science"
+        }
+      ]
+    },
+    {
+      "slug": "the-power-of-ai-is-worrying-senior-labour-figures-as-is-the-fear-of-falling-behind-the-public",
+      "title": "The power of AI is worrying senior Labour figures – as is the fear of ‘falling behind the public’",
+      "dek": "Westminster appears to be waking up to warnings over AI safety, with concerns over its use by extremist groups and bad actors “I have this sense that, within a few months, AI is going to be all anyone is talking about,” said one cabinet minister, with an ominous stare. It was Lab",
+      "aiSummary": "Westminster is becoming aware of warnings about artificial intelligence safety, particularly its potential use by extremist groups and bad actors. A cabinet minister warned that artificial intelligence will dominate public discourse in the coming months. The concerns reflect Labour leaders' unease about the power of artificial intelligence and the risk of falling behind the public.",
+      "articleUrl": "https://www.theguardian.com/technology/2026/oct/17/artificial-intelligence-ai-labour-government-safety-uk-extremism",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Artificial Intelligence",
+        "AI safety",
+        "extremist groups",
+        "bad actors"
+      ],
+      "publishedAt": "2026-10-17T11:33:20+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "fake-linda-and-me-the-agatha-christie-worthy-mystery-of-the-fraudster-who-stole-my-byline",
+      "title": "Fake Linda and me: the Agatha Christie-worthy mystery of the fraudster who stole my byline",
+      "dek": "How a string of bizarre events led writer Linda Geddes to don her sleuthing cap and dig into a world of shadowy impersonators It started with an entirely ordinary interaction on LinkedIn. Someone had tagged me in a post, saying how much they’d enjoyed contributing to a New York P",
+      "aiSummary": "Writer Linda Geddes discovered that someone had stolen her byline after a LinkedIn post tagged her. She began investigating a network of impersonators who were passing off her work as their own. The investigation revealed a complex fraud scheme that threatened her professional reputation.",
+      "articleUrl": "https://www.theguardian.com/technology/2026/oct/17/fake-linda-and-me-mystery-fraudster-stole-my-byline",
+      "category": "Security",
+      "filterTags": [
+        "LinkedIn"
+      ],
+      "publishedAt": "2026-10-17T11:00:30+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Fraud"
+        },
+        {
+          "name": "Media"
+        }
+      ]
+    },
+    {
+      "slug": "boe-s-bailey-tells-g30-they-have-got-to-address-ai-agent-concerns",
+      "title": "BoE’s Bailey tells G30 they ‘have got to address’ AI agent concerns",
+      "dek": "Central Bank governor warns rapid development of AI is a major issue for financial stability",
+      "aiSummary": "Bank of England Governor Bailey warned the G30 that the rapid development of AI agents poses a significant threat to financial stability. He emphasized that the group must address these concerns to ensure economic security.",
+      "articleUrl": "https://www.ft.com/content/3185b4cd-ab35-4efc-9d75-dcecc1631625?syn-25a6b1a6=1",
+      "category": "Finance",
+      "filterTags": [
+        "Bank of England",
+        "G30",
+        "AI agents",
+        "financial stability"
+      ],
+      "publishedAt": "2026-10-17T10:31:21+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Regulation"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1792240397",
+      "title": "viable/strict/1792240397",
+      "dek": "flex_gemm: compose output transforms with captures, aux outputs, and …",
+      "aiSummary": "The article discusses flex_gemm, focusing on composing output transforms with captures and auxiliary outputs. It highlights how these features can be combined to enhance performance or functionality.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1792240397",
+      "category": "Machine Learning",
+      "filterTags": [
+        "flex_gemm"
+      ],
+      "publishedAt": "2026-10-17T10:10:01+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "deepseek-just-released-v4-1-flash-1017-scores-77-0-on-deepswe-opens-search-api",
+      "title": "DeepSeek Just Released V4.1-Flash-1017, Scores 77.0 on DeepSWE, Opens Search API",
+      "dek": "DeepSeek has just released DeepSeek-V4.1-Flash-1017, a new checkpoint of its V4.1-Flash model. It is live on the DeepSeek website, app and API. DeepSeek claims stronger scores, faster task completion and shorter outputs than the September V4.1-Flash release. The company calls it ",
+      "aiSummary": "DeepSeek has released DeepSeek-V4.1-Flash-1017, a new checkpoint of its V4.1-Flash model available on its website, app, and API. The company states that this version offers stronger scores, faster task completion, and shorter outputs compared to the previous September release.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/17/deepseek-just-released-v4-1-flash-1017-scores-77-0-on-deepswe-opens-search-api/",
+      "category": "AI",
+      "filterTags": [
+        "DeepSeek",
+        "DeepSeek-V4.1-Flash-1017",
+        "DeepSWE",
+        "API"
+      ],
+      "publishedAt": "2026-10-17T08:53:58+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1792237854",
+      "title": "viable/strict/1792237854",
+      "dek": "[hardened PR review] Hide an earlier review even if its threads can't…",
+      "aiSummary": "The article discusses a hardened pull request review feature that allows hiding an earlier review even if its threads cannot be resolved. This feature improves code review workflow by letting reviewers conceal outdated feedback while keeping the review history intact.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1792237854",
+      "category": "Software Development",
+      "filterTags": [
+        "PR review",
+        "review threads"
+      ],
+      "publishedAt": "2026-10-17T08:42:15+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Collaboration Tools"
+        },
+        {
+          "name": "Version Control"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1792236256",
+      "title": "viable/strict/1792236256",
+      "dek": "[inductor] Run very large short reductions outside combo kernels ( #20 …",
+      "aiSummary": "The inductor compiler is being updated to run very large short reductions outside of combo kernels, a change that may improve performance or correctness. This modification is linked to issue #20.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1792236256",
+      "category": "Machine Learning",
+      "filterTags": [
+        "inductor",
+        "combo kernels",
+        "reductions"
+      ],
+      "publishedAt": "2026-10-17T08:41:04+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Compiler"
+        },
+        {
+          "name": "Performance Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "ai-weekly-issue-539-ai-made-midterm-ads-top-137-million-and-70-carry-no-ai-label",
+      "title": "AI Weekly Issue #539: AI-made midterm ads top $137 million, and 70% carry no AI label",
+      "dek": "Campaigns and PACs have spent more than $137 million on AI-generated or AI-enhanced midterm ads, and about 70% of them carry no AI label, the New York Times reported. The biggest pro-AI super PAC network paid about $20 million to a Nevada company that exists only as a post office",
+      "aiSummary": "Campaigns and PACs spent more than $137 million on AI-generated or AI-enhanced midterm ads, with roughly 70% of those ads lacking an AI label, according to the New York Times. The largest pro‑AI super PAC network spent about $20 million on a Nevada company that operates only as a post office.",
+      "articleUrl": "https://aiweekly.co/issues/ai-made-midterm-ads-top-137-million-and-70-carry-no-ai-label",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "New York Times",
+        "PACs",
+        "super PAC"
+      ],
+      "publishedAt": "2026-10-17T00:00:00+00:00",
+      "publisher": {
+        "name": "AI Weekly",
+        "domain": "aiweekly.co",
+        "website": "https://aiweekly.co/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=aiweekly.co&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=aiweekly.co&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Political Campaigns"
+        },
+        {
+          "name": "Advertising"
+        }
+      ]
+    }
+  ]
+}
