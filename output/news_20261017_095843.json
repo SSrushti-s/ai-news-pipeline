@@ -1,0 +1,648 @@
+{
+  "news": [
+    {
+      "slug": "deleted-ai-chats-may-leave-clues-behind",
+      "title": "Deleted AI Chats May Leave Clues Behind",
+      "dek": "Even after users delete their conversations with artificial intelligence, traces of those interactions might still be discoverable.",
+      "aiSummary": "",
+      "articleUrl": "https://news.research.gatech.edu/2026/10/13/deleted-ai-chats-may-leave-clues-behind",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Chats"
+      ],
+      "publishedAt": "2026-10-17T09:38:18+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Privacy"
+        },
+        {
+          "name": "Data Security"
+        }
+      ]
+    },
+    {
+      "slug": "chart-of-the-week-the-chip-stock-split",
+      "title": "Chart of the Week: The chip stock split",
+      "dek": "Losses across semi stocks have been unequal",
+      "aiSummary": "The article indicates that semiconductor company stocks have experienced varying degrees of financial decline. It specifically points out that the losses observed across these semi stocks have not been uniform.",
+      "articleUrl": "https://www.ft.com/content/c5ed09fe-dc65-4f05-8c12-8f74f5dc7ccd?syn-25a6b1a6=1",
+      "category": "Finance",
+      "filterTags": [
+        "Chip Stocks",
+        "Semiconductor Stocks"
+      ],
+      "publishedAt": "2026-10-17T09:30:02+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Market Analysis"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "why-ai-isn-t-ready-to-tackle-our-convoluted-genomes",
+      "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
+      "dek": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
+      "aiSummary": "The DNA within our cells is a dynamic and complex system, far beyond a simple set of instructions. Currently, both human scientists and AI models face limitations due to insufficient data, preventing them from properly decoding this intricate genetic information.",
+      "articleUrl": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "DNA",
+        "Genomes"
+      ],
+      "publishedAt": "2026-10-17T09:00:00+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Biology"
+        },
+        {
+          "name": "Genetics"
+        }
+      ]
+    },
+    {
+      "slug": "show-hn-citeladder-open-source-ai-search-visibility-tracker",
+      "title": "Show HN: CiteLadder – open-source AI search visibility tracker",
+      "dek": "CiteLadder is an open-source tool that helps track the visibility of AI search results.",
+      "aiSummary": "",
+      "articleUrl": "https://github.com/abhij1306/CiteLadder",
+      "category": "AI",
+      "filterTags": [
+        "CiteLadder",
+        "Open Source",
+        "AI",
+        "Search Tracking"
+      ],
+      "publishedAt": "2026-10-17T08:49:44+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Search Engines"
+        }
+      ]
+    },
+    {
+      "slug": "ask-hn-local-ai-product-situation",
+      "title": "Ask HN: Local AI product situation",
+      "dek": "A question has been posted on Hacker News concerning the current state of artificial intelligence products that run locally.",
+      "aiSummary": "The provided description is empty, therefore a factual summary of the article's content cannot be generated.",
+      "articleUrl": "https://news.ycombinator.com/item?id=50129150",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AI",
+        "Local AI"
+      ],
+      "publishedAt": "2026-10-17T08:46:16+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Software"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-64373c6e0d225f9809e0f9cb98741a77cf67603d",
+      "title": "trunk/64373c6e0d225f9809e0f9cb98741a77cf67603d",
+      "dek": "[inductor] Run very large short reductions outside combo kernels ( #20 …",
+      "aiSummary": "This change involves the 'inductor' component, focusing on running very large short reductions. The modification specifies that these reductions should now be executed outside of combo kernels, suggesting an architectural or performance-related adjustment.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F64373c6e0d225f9809e0f9cb98741a77cf67603d",
+      "category": "Software Development",
+      "filterTags": [
+        "inductor",
+        "reductions",
+        "combo kernels"
+      ],
+      "publishedAt": "2026-10-17T08:41:04+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Optimization"
+        },
+        {
+          "name": "Performance Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "david-byrne-explains-how-forgotten-ideas-come-back-to-life",
+      "title": "David Byrne Explains How Forgotten Ideas Come Back to Life",
+      "dek": "History is littered with ideas that have been tossed aside, only for them to gain relevance at some later date. Think of Moby-Dick: forgotten in Melville's time, but now regarded as the great American novel. Or the work of economist Hyman Minsky, which became influential a decade",
+      "aiSummary": "History demonstrates that many ideas, initially dismissed, can later achieve renewed importance. Notable examples include Herman Melville's \"Moby-Dick,\" which was largely ignored during his lifetime but is now celebrated, and the economic theories of Hyman Minsky, which gained significant influence a decade after their initial introduction.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-17/david-byrne-on-how-forgotten-ideas-come-back-to-life-video",
+      "category": "History",
+      "filterTags": [
+        "Moby-Dick",
+        "Melville",
+        "Hyman Minsky"
+      ],
+      "publishedAt": "2026-10-17T08:14:24+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "History"
+        },
+        {
+          "name": "Literature"
+        },
+        {
+          "name": "Economics"
+        }
+      ]
+    },
+    {
+      "slug": "b11707",
+      "title": "b11707",
+      "dek": "model : Granite switch decision 256 options ( #30693 ) \n \n feat(convert): Attempt to come up with 256 single-token, semantic option markers \n \n Each switch model needs to identify a collection of single-token option \nmarkers that can be mapped to their respective logits for the o",
+      "aiSummary": "A 'Granite switch decision' model is being developed, focusing on creating 256 unique single-token, semantic option markers. Each of these markers needs to be identified and mapped to its respective logits for the model's functionality.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11707",
+      "category": "AI",
+      "filterTags": [
+        "Granite",
+        "switch decision",
+        "single-token",
+        "option markers",
+        "logits"
+      ],
+      "publishedAt": "2026-10-17T07:53:58+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Model Architecture"
+        }
+      ]
+    },
+    {
+      "slug": "ainews-high-taste-testers-ep-1",
+      "title": "[AINews] High Taste Testers Ep. 1",
+      "dek": "a quiet day lets us pilot a new show",
+      "aiSummary": "A new show is currently being piloted. This pilot episode is taking place on a quiet day.",
+      "articleUrl": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
+      "category": "Media",
+      "filterTags": [],
+      "publishedAt": "2026-10-17T07:47:38+00:00",
+      "publisher": {
+        "name": "Latent Space",
+        "domain": "latent.space",
+        "website": "https://www.latent.space/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Media"
+        },
+        {
+          "name": "Entertainment"
+        },
+        {
+          "name": "Content Production"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-298a1c806b63a44afe7e5d120f281dda30daf851-flex-gemm-rename-the-tuned-kernel-option-to-autotune-201088",
+      "title": "trunk/298a1c806b63a44afe7e5d120f281dda30daf851: flex_gemm: rename the tuned kernel option to autotune (#201088)",
+      "dek": "Human Note \n Change to better name \n Agent note \n \n kernel_options={\"tuned\": True}  becomes  kernel_options={\"autotune\": True} . The option names the action (benchmark candidate configs), matching Inductor's  max_autotune  vocabulary. FlexGEMM is a prototype, so there is no alias",
+      "aiSummary": "A change has been implemented to rename the `tuned` kernel option to `autotune` within the `flex_gemm` project. This modification updates `kernel_options={\"tuned\": True}` to `kernel_options={\"autotune\": True}`. The new name better reflects the action of benchmarking candidate configurations and aligns with the `max_autotune` vocabulary used in Inductor.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F298a1c806b63a44afe7e5d120f281dda30daf851",
+      "category": "Software Development",
+      "filterTags": [
+        "flex_gemm",
+        "kernel_options",
+        "autotune",
+        "tuned",
+        "Inductor"
+      ],
+      "publishedAt": "2026-10-17T07:43:22+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Code Refactoring"
+        },
+        {
+          "name": "Performance Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "20-jev-alternatives-the-decision-models-taking-on-typesafe-in-2026",
+      "title": "20 Jev Alternatives: The Decision Models Taking On TypeSafe in 2026",
+      "dek": "TypeSafe launched Jev on September 15, 2026. It is a decision model, not a chatbot. You define the allowed answers, and Jev returns a label, a score or a yes/no probability. In about 4 weeks, at least 20 Jev alternatives shipped. They come from Cloudflare, OpenAI, Perplexity, Liq",
+      "aiSummary": "TypeSafe launched Jev, a decision model that provides labels, scores, or yes/no probabilities based on defined answers, on September 15, 2026. Within about four weeks of its release, at least 20 competing decision models were introduced by various companies, including Cloudflare, OpenAI, and Perplexity.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/17/20-jev-alternatives-the-decision-models-taking-on-typesafe-in-2026/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Jev",
+        "TypeSafe",
+        "Decision Models",
+        "Cloudflare",
+        "OpenAI",
+        "Perplexity"
+      ],
+      "publishedAt": "2026-10-17T07:26:39+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Software"
+        },
+        {
+          "name": "Competitive Landscape"
+        }
+      ]
+    },
+    {
+      "slug": "stepfun-releases-step-5-preview-open-weights-600b-moe-27b-active-1m-context",
+      "title": "StepFun Releases Step 5 Preview Open Weights: 600B MoE, 27B Active, 1M Context",
+      "dek": "StepFun has released Step 5 Preview as open weights. FP8 and BF16 checkpoints are live on Hugging Face and ModelScope. Step 5 Preview is a sparse Mixture-of-Experts model from StepFun built for long-horizon agentic work. It has 600B total parameters, 27B active per token and up t",
+      "aiSummary": "StepFun has launched its Step 5 Preview model with open weights, making FP8 and BF16 checkpoints accessible on Hugging Face and ModelScope. This sparse Mixture-of-Experts (MoE) model is designed for long-horizon agentic tasks. It boasts 600 billion total parameters, with 27 billion active per token.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/16/stepfun-releases-step-5-preview-open-weights-600b-moe-27b-active-1m-context/",
+      "category": "AI",
+      "filterTags": [
+        "StepFun",
+        "Step 5 Preview",
+        "Mixture-of-Experts",
+        "FP8",
+        "BF16",
+        "Hugging Face",
+        "ModelScope"
+      ],
+      "publishedAt": "2026-10-17T06:29:55+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "AI Platforms"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1792229213",
+      "title": "viable/strict/1792229213",
+      "dek": "[profiler] Don't read poisoned storage data pointers when recording s…",
+      "aiSummary": "",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1792229213",
+      "category": "AI Engineering",
+      "filterTags": [],
+      "publishedAt": "2026-10-17T06:08:13+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": []
+    },
+    {
+      "slug": "some-companies-give-ai-to-everyone-this-ceo-is-doing-the-opposite",
+      "title": "Some companies give AI to everyone. This CEO is doing the opposite",
+      "dek": "Paysend CEO Ben Chisell limits AI tools to top performers as other U.K. companies push broader workplace rollouts.",
+      "aiSummary": "Paysend CEO Ben Chisell is implementing a strategy where artificial intelligence tools are only accessible to the company's top-performing employees. This contrasts with the trend among other U.K. companies, which are generally promoting a wider adoption of AI across their workforces.",
+      "articleUrl": "https://www.cnbc.com/2026/10/17/ai-workplace-tokenmaxxing-paysend.html",
+      "category": "AI",
+      "filterTags": [
+        "Paysend",
+        "AI tools"
+      ],
+      "publishedAt": "2026-10-17T05:00:01+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Business Strategy"
+        },
+        {
+          "name": "Workplace Technology"
+        }
+      ]
+    },
+    {
+      "slug": "v0-41-3",
+      "title": "v0.41.3",
+      "dek": "ComfyUI v0.41.3",
+      "aiSummary": "The announcement details the release of ComfyUI version 0.41.3. This update signifies a new iteration for the ComfyUI platform.",
+      "articleUrl": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.41.3",
+      "category": "Software Updates",
+      "filterTags": [
+        "ComfyUI",
+        "v0.41.3"
+      ],
+      "publishedAt": "2026-10-17T04:26:50+00:00",
+      "publisher": {
+        "name": "comfyanonymous",
+        "domain": "github.com",
+        "website": "https://github.com/comfyanonymous/ComfyUI",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Updates"
+        },
+        {
+          "name": "Tools"
+        }
+      ]
+    },
+    {
+      "slug": "the-dress-rehearsal-for-an-ai-reckoning",
+      "title": "The dress rehearsal for an AI reckoning",
+      "dek": "Ructions point to what a true bursting of the bubble might do to financial markets",
+      "aiSummary": "Recent market disturbances are being interpreted as an indication of the potential severe consequences for financial markets should a speculative bubble truly burst. These current events offer insight into the possible future financial instability.",
+      "articleUrl": "https://www.ft.com/content/3f982af9-3eec-476f-9d29-39145ac485c4?syn-25a6b1a6=1",
+      "category": "AI",
+      "filterTags": [
+        "AI"
+      ],
+      "publishedAt": "2026-10-17T04:00:21+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Economics"
+        }
+      ]
+    },
+    {
+      "slug": "the-moral-case-for-human-music",
+      "title": "The moral case for human music",
+      "dek": "A philosopher of music argues that AI music-generation software ‘is an insult to musicians’",
+      "aiSummary": "A philosopher specializing in music has voiced a strong opinion against AI music-generation software. They contend that such technology is disrespectful to human musicians.",
+      "articleUrl": "https://www.ft.com/content/2c21c250-d186-44e1-822c-f65436d213f4",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Music Generation"
+      ],
+      "publishedAt": "2026-10-17T04:00:11+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Ethics"
+        },
+        {
+          "name": "Music"
+        }
+      ]
+    },
+    {
+      "slug": "arrested-openai-engineer-seeks-bail-denies-planning-to-flee",
+      "title": "Arrested OpenAI Engineer Seeks Bail, Denies Planning to Flee",
+      "dek": "The OpenAI software engineer charged with using a hidden recording device in one of the company’s offices asked to be freed from custody and denied his purchase of a one-way plane ticket to his native Saudi Arabia was part of a plan to flee US justice.",
+      "aiSummary": "An OpenAI software engineer charged with using a hidden recording device in a company office has requested bail. He denied that purchasing a one-way ticket to Saudi Arabia was an attempt to flee US justice.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-17/arrested-openai-engineer-seeks-bail-denies-he-planned-to-flee",
+      "category": "Legal",
+      "filterTags": [
+        "OpenAI",
+        "Bail",
+        "Saudi Arabia"
+      ],
+      "publishedAt": "2026-10-17T03:55:53+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Corporate Governance"
+        }
+      ]
+    },
+    {
+      "slug": "benefit-street-partners-answers-questions-faster-with-codex",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "dek": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "aiSummary": "Anant Kumar has created tools designed to compare loan valuations and analyze credit agreements. These tools incorporate Codex for code review, which facilitates quicker follow-ups and enhances operational efficiency.",
+      "articleUrl": "https://openai.com/index/benefit-street-partners",
+      "category": "Finance",
+      "filterTags": [
+        "Benefit Street Partners",
+        "Codex"
+      ],
+      "publishedAt": "2026-10-16T00:00:00+00:00",
+      "publisher": {
+        "name": "OpenAI",
+        "domain": "openai.com",
+        "website": "https://openai.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    }
+  ]
+}
