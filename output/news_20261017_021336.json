@@ -1,0 +1,1043 @@
+{
+  "news": [
+    {
+      "slug": "ciflow-xpu-201257-ci-xpu-pin-intel-openmp-to-2024-2-0-to-support-windows",
+      "title": "ciflow/xpu/201257: [CI][XPU] Pin intel-openmp to 2024.2.0 to support Windows",
+      "dek": "intel-openmp 2023.0.0 has no win_amd64 distribution on PyPI, breaking \nWindows builds that install .ci/docker/requirements-ci.txt. \n Pin to intel-openmp==2024.2.0, which: \n \n Matches mkl-static==2024.2.0 and mkl-include==2024.2.0. \n Has pre-built wheels for both Linux (manylinux1",
+      "aiSummary": "The project pins intel-openmp to version 2024.2.0 to resolve Windows build failures caused by the lack of a win_amd64 distribution in version 2023.0.0. This update ensures compatibility with mkl-static and mkl-include versions while providing pre-built wheels for Linux.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fxpu%2F201257",
+      "category": "CI/CD",
+      "filterTags": [
+        "intel-openmp",
+        "mkl-static",
+        "mkl-include",
+        "PyPI",
+        "Windows",
+        "Linux"
+      ],
+      "publishedAt": "2026-10-17T02:07:33+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "CI/CD"
+        },
+        {
+          "name": "Build Systems"
+        },
+        {
+          "name": "Intel XPU"
+        }
+      ]
+    },
+    {
+      "slug": "b11706",
+      "title": "b11706",
+      "dek": "sycl: fix prompt-processing regression after Q4_0/Q8_0 weight reorder…",
+      "aiSummary": "The SYCL implementation has been updated to correct a regression in prompt processing that surfaced after reordering weights in Q4_0 and Q8_0 formats. This fix ensures that prompt handling behaves correctly following the weight reordering changes.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11706",
+      "category": "Hardware",
+      "filterTags": [
+        "SYCL",
+        "Q4_0",
+        "Q8_0",
+        "prompt-processing"
+      ],
+      "publishedAt": "2026-10-17T02:03:41+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "show-hn-twain-a-diff-viewer-like-meld-but-for-the-age-of-ai",
+      "title": "Show HN: Twain, a diff viewer like Meld, but for the age of AI",
+      "dek": "Twain is a new tool for comparing file changes, similar to Meld but designed for the AI era.",
+      "aiSummary": "The article introduces Twain, a diff viewer that functions similarly to Meld but is tailored for the age of AI. It is presented as a Show HN project, highlighting its utility in modern development workflows involving artificial intelligence.",
+      "articleUrl": "https://github.com/andunieee/twain",
+      "category": "Developer Tools",
+      "filterTags": [
+        "Twain",
+        "Meld",
+        "diff viewer",
+        "AI"
+      ],
+      "publishedAt": "2026-10-17T02:03:40+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Developer Tools"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "the-trickle-down-economics-of-the-ai-boom",
+      "title": "The trickle-down economics of the AI boom",
+      "dek": "How the surge in artificial intelligence is spreading economic benefits to broader sectors.",
+      "aiSummary": "The provided text does not contain an article body, only a title. Therefore, no factual summary can be generated based on the content.",
+      "articleUrl": "https://www.economist.com/finance-and-economics/2026/09/17/the-trickle-down-economics-of-the-ai-boom",
+      "category": "Economics",
+      "filterTags": [
+        "AI"
+      ],
+      "publishedAt": "2026-10-17T01:47:04+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Economics"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "ai-gateway-governance",
+      "title": "AI Gateway Governance",
+      "dek": "Managing and controlling access to AI gateways",
+      "aiSummary": "The provided text does not contain any article body or description to summarize. Only the title 'AI Gateway Governance' was supplied, so no factual details regarding specific implementations, companies, or technical stacks can be extracted.",
+      "articleUrl": "https://github.com/ddruhin/ai-gateway-governance-reference-architecture",
+      "category": "AI",
+      "filterTags": [
+        "AI Gateway",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-17T01:45:53+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-b74c3864e80a297ab81441720f8215970ae049e4-dynamo-support-bytearray-append-and-extend-199675",
+      "title": "trunk/b74c3864e80a297ab81441720f8215970ae049e4: [dynamo] Support bytearray.append() and extend() (#199675)",
+      "dek": "ByteArrayVariable had no append/extend, so calling either on a bytearray \ngraph broke. This adds both to tp_methods. \n Both follow the existing in-place ops on ByteArrayVariable (+=, *=, %=): \nbuild the result in a new buffer, record the mutation with side_effects, \nand swap self",
+      "aiSummary": "ByteArrayVariable previously lacked append and extend methods, causing failures when used in bytearray graphs. The patch adds these methods to tp_methods, mirroring existing in-place operations by creating a new buffer, recording the mutation with side_effects, and swapping the original object.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2Fb74c3864e80a297ab81441720f8215970ae049e4",
+      "category": "Programming Languages",
+      "filterTags": [
+        "Dynamo",
+        "bytearray",
+        "ByteArrayVariable",
+        "tp_methods",
+        "side_effects"
+      ],
+      "publishedAt": "2026-10-17T01:37:06+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Programming Languages"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Python"
+        }
+      ]
+    },
+    {
+      "slug": "ciflow-xpu-201078",
+      "title": "ciflow/xpu/201078",
+      "dek": "Pin intel-openmp to 2023.0.0 in CI Docker requirements to prevent pul…",
+      "aiSummary": "The CI configuration for the xpu component updates the Docker requirements to pin the intel-openmp package to version 2023.0.0. This change is implemented to prevent potential issues related to the package version in the continuous integration environment.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fxpu%2F201078",
+      "category": "DevOps",
+      "filterTags": [
+        "intel-openmp",
+        "Docker",
+        "CI",
+        "ciflow"
+      ],
+      "publishedAt": "2026-10-17T01:36:35+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "b11703",
+      "title": "b11703",
+      "dek": "hexagon: vectorize softplus with HVX ( #30435 ) \n softplus_f32 and tile_softplus_f32 ran a scalar logf(1.0f + expf(x)) loop. \nReplace both with a shared hvx_softplus_f32_aa() helper built from the \nbackend's existing hvx_vec_exp_f32 / hvx_vec_log_f32 primitives, so no new \nnumeri",
+      "aiSummary": "The article explains a change to the Hexagon backend that replaces scalar softplus calculations with a vectorized helper using existing HVX primitives. The new hvx_softplus_f32_aa function eliminates the need for new numeric code.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11703",
+      "category": "Hardware",
+      "filterTags": [
+        "Hexagon",
+        "HVX",
+        "softplus",
+        "hvx_vec_exp_f32",
+        "hvx_vec_log_f32",
+        "hvx_softplus_f32_aa"
+      ],
+      "publishedAt": "2026-10-17T01:06:03+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Embedded Systems"
+        },
+        {
+          "name": "Performance Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "v0-40-6",
+      "title": "v0.40.6",
+      "dek": "What's Changed \n \n win: prevent orphaned runners by  @dhiltgen  in  #18500 \n gguf: add the q2_0 tensor and file types by  @jmorganca  in  #18967 \n Launch clef in Ollama's cloud by  @jberg5  in  #19036 \n use identifiers for --ask mode question keys by  @jberg5  in  #19041 \n \n Full",
+      "aiSummary": "Ollama has released version 0.40.6, which includes a fix to prevent orphaned runners on Windows and the addition of q2_0 tensor and file types for GGUF. The update also introduces the launch of clef in Ollama's cloud and uses identifiers for question keys in --ask mode.",
+      "articleUrl": "https://github.com/ollama/ollama/releases/tag/v0.40.6",
+      "category": "AI",
+      "filterTags": [
+        "Ollama",
+        "GGUF",
+        "Windows",
+        "clef"
+      ],
+      "publishedAt": "2026-10-17T00:58:39+00:00",
+      "publisher": {
+        "name": "ollama",
+        "domain": "github.com",
+        "website": "https://github.com/ollama/ollama",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "v1-13-0-dev45",
+      "title": "v1.13.0.dev45",
+      "dek": "Langflow nightly v1.13.0.dev45",
+      "aiSummary": "Langflow has released a nightly development build identified as v1.13.0.dev45. This update represents a specific iteration in the software's development cycle.",
+      "articleUrl": "https://github.com/langflow-ai/langflow/releases/tag/v1.13.0.dev45",
+      "category": "Open Source",
+      "filterTags": [
+        "Langflow"
+      ],
+      "publishedAt": "2026-10-17T00:36:10+00:00",
+      "publisher": {
+        "name": "langflow-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langflow-ai/langflow",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "v3-33-0",
+      "title": "v3.33.0",
+      "dek": "3.33.0  (2026-10-16) \n Features \n \n api:  add safety identifiers to image requests and responses ( #4093 ) ( c969e32 ) \n api:  share Decisions cache breakpoint parameter type ( #4092 ) ( f7cefda )",
+      "aiSummary": "The 3.33.0 release, dated October 16, 2026, introduces new API features. These updates include adding safety identifiers to image requests and responses, as well as sharing the Decisions cache breakpoint parameter type.",
+      "articleUrl": "https://github.com/openai/openai-python/releases/tag/v3.33.0",
+      "category": "Software Development",
+      "filterTags": [
+        "API",
+        "v3.33.0"
+      ],
+      "publishedAt": "2026-10-17T00:29:04+00:00",
+      "publisher": {
+        "name": "openai",
+        "domain": "github.com",
+        "website": "https://github.com/openai/openai-python",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "API"
+        }
+      ]
+    },
+    {
+      "slug": "v0-32-0rc3-bugfix-fix-nan-output-of-the-mamba2-chunk-scan-kernel-on-sm90-61718",
+      "title": "v0.32.0rc3: [Bugfix] Fix NaN output of the Mamba2 chunk scan kernel on sm90 (#61718)",
+      "dek": "Signed-off-by: Vadim Gimpelson  vadim.gimpelson@gmail.com \nCo-authored-by: Claude  noreply@anthropic.com",
+      "aiSummary": "The release candidate 0.32.0rc3 of Mamba2 addresses a bug that caused NaN outputs in the chunk scan kernel on sm90 GPUs. The fix ensures correct numerical results during kernel execution. The patch was authored by Vadim Gimpelson and co-authored by Claude.",
+      "articleUrl": "https://github.com/vllm-project/vllm/releases/tag/v0.32.0rc3",
+      "category": "Software Development",
+      "filterTags": [
+        "Mamba2",
+        "sm90"
+      ],
+      "publishedAt": "2026-10-17T00:25:45+00:00",
+      "publisher": {
+        "name": "vllm-project",
+        "domain": "github.com",
+        "website": "https://github.com/vllm-project/vllm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "GPU Computing"
+        },
+        {
+          "name": "Bug Fix"
+        }
+      ]
+    },
+    {
+      "slug": "b11702",
+      "title": "b11702",
+      "dek": "opencl: Add MxFP4 MoE bin kernel for Adreno X1 devices  ( #30691 ) \n \n \n opencl: add bin kernel  gemm_moe_mxfp4_q8_1_dp4a_ila_ldck  for X1 \n \n \n opencl: fix whitespace \n \n \n opencl: undo unnecessary change \n \n \n opencl: enable dp4a clc for X1E \n \n \n \n Co-authored-by: Li He  lih@q",
+      "aiSummary": "The update introduces a new MxFP4 MoE bin kernel named gemm_moe_mxfp4_q8_1_dp4a_ila_ldck for Adreno X1 devices. It also includes fixes for whitespace, the removal of an unnecessary change, and the enabling of dp4a clc for X1E.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11702",
+      "category": "Hardware",
+      "filterTags": [
+        "opencl",
+        "Adreno X1",
+        "MxFP4",
+        "MoE",
+        "dp4a"
+      ],
+      "publishedAt": "2026-10-17T00:25:33+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "perplexity-open-sources-space-a-firecracker-microvm-sandbox-for-ai-agents",
+      "title": "Perplexity Open-Sources SPACE, a Firecracker MicroVM Sandbox for AI Agents",
+      "dek": "Perplexity has open-sourced SPACE, the sandbox platform behind every task in Perplexity Computer. The Perplexity SPACE sandbox gives each agent task its own Firecracker microVM. Credentials and outbound traffic are controlled from outside that VM. The code ships under Apache 2.0 ",
+      "aiSummary": "Perplexity has open-sourced SPACE, the sandbox platform that powers tasks in Perplexity Computer. The system assigns each agent task a dedicated Firecracker microVM, with credentials and outbound traffic managed externally, and the code is released under the Apache 2.0 license.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/16/perplexity-open-sources-space-firecracker-microvm-sandbox-ai-agents/",
+      "category": "AI",
+      "filterTags": [
+        "Perplexity",
+        "SPACE",
+        "Firecracker",
+        "MicroVM",
+        "Apache 2.0"
+      ],
+      "publishedAt": "2026-10-17T00:09:12+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "wall-street-week-america-s-relationship-woes-battery-pivot-farmers-fed-warning",
+      "title": "Wall Street Week | America’s Relationship Woes, Battery Pivot, Farmers’ Fed Warning",
+      "dek": "This week, global and business leaders gathered in New Delhi for the Bloomberg New Economy Forum to discuss how the world is redrawing supply chains and investment plans in the face of geopolitical risks. And, in her new book former Canadian deputy prime minister Chrystia Freelan",
+      "aiSummary": "Global and business leaders convened in New Delhi for the Bloomberg New Economy Forum to address how geopolitical risks are reshaping supply chains and investment strategies. The week's coverage also includes insights from former Canadian deputy prime minister Chrystia Freeland in her new book.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-16/wall-street-week-battery-pivot-farmers-fed-warning-video",
+      "category": "Geopolitics",
+      "filterTags": [
+        "Bloomberg",
+        "New Delhi",
+        "Chrystia Freeland",
+        "Supply Chains"
+      ],
+      "publishedAt": "2026-10-16T23:13:58+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Geopolitics"
+        },
+        {
+          "name": "Business"
+        },
+        {
+          "name": "Economics"
+        }
+      ]
+    },
+    {
+      "slug": "decluttering-your-online-life-how-to-get-your-digital-house-in-order-and-protect-your-data-from-ai",
+      "title": "Decluttering your online life: how to get your digital house in order and protect your data from AI",
+      "dek": "The average person spends 40% of their waking hours online. Clearing out digital clutter can minimise environmental impacts and boost productivity   Change by degrees  offers life hacks and sustainable living tips each Saturday to help reduce your household’s carbon footprint Got",
+      "aiSummary": "People spend about 40% of their waking hours online. Removing digital clutter can reduce environmental impact and increase productivity. Change by Degrees shares sustainable living tips and life hacks every Saturday to lower household carbon footprints.",
+      "articleUrl": "https://www.theguardian.com/australia-news/2026/oct/17/decluttering-online-how-to-get-your-digital-house-in-order-protect-data-ai",
+      "category": "Sustainability",
+      "filterTags": [
+        "Change by Degrees",
+        "AI"
+      ],
+      "publishedAt": "2026-10-16T23:00:15+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Sustainability"
+        },
+        {
+          "name": "Productivity"
+        },
+        {
+          "name": "Digital Wellbeing"
+        },
+        {
+          "name": "Data Privacy"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-pitches-ai-safety-bill-to-lawmakers",
+      "title": "Anthropic Pitches AI Safety Bill to Lawmakers",
+      "dek": "Anthropic PBC has presented its own draft bill to US lawmakers with a plan for regulating artificial intelligence safety and security, in a moment of heightened concern about the potential risks of the rapidly advancing technology.",
+      "aiSummary": "Anthropic PBC has submitted a draft bill to US lawmakers outlining a plan for regulating artificial intelligence safety and security. This move comes amid growing concerns regarding the potential risks associated with the rapid advancement of AI technology.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-16/anthropic-pitches-ai-safety-bill-to-lawmakers-politico-says",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "AI Safety",
+        "Regulation",
+        "US Lawmakers"
+      ],
+      "publishedAt": "2026-10-16T22:25:33+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Policy"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "jp-morgan-strategist-on-ai-jitters-investing-outlook",
+      "title": "JP Morgan Strategist on AI Jitters, Investing Outlook",
+      "dek": "Jordan Jackson, JPMorgan Asset Management Global Market Strategist, discusses whether earnings growth may be nearing a peak even if results are not worsening. Jackson agrees that third-quarter results are expected to be strong, with forecasts calling for about 27% to 28% year-ove",
+      "aiSummary": "Jordan Jackson, a JPMorgan Asset Management global market strategist, said earnings growth might be near its peak even if results aren't deteriorating. He expects third‑quarter earnings to be strong, with forecasts of about 27% to 28% year‑over‑year growth.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-16/jp-morgan-strategist-on-ai-jitters-investing-outlook-video",
+      "category": "Finance",
+      "filterTags": [
+        "JPMorgan",
+        "Jordan Jackson"
+      ],
+      "publishedAt": "2026-10-16T22:15:11+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Investing"
+        },
+        {
+          "name": "Market Analysis"
+        }
+      ]
+    },
+    {
+      "slug": "quoting-addy-osmani-morgan-westlee-lunt-and-qing-wang",
+      "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
+      "dek": "We think \"did a human read the code?\" is an imprecise proxy for \"what could go wrong with this change, and which check—automated or human—is the right one to catch it?\" \n Asking that question also changed  when  review happens. Before, review was a gate at the end of the road: wr",
+      "aiSummary": "The authors contend that using human code review as a metric is imprecise compared to identifying the specific risks of a change and selecting the appropriate automated or human check to address them. This shift in perspective has also altered the timing of code reviews, moving them away from being a final gate at the end of the development process.",
+      "articleUrl": "https://simonwillison.net/2026/Oct/16/code-review/",
+      "category": "Software Engineering",
+      "filterTags": [
+        "Addy Osmani",
+        "Morgan Westlee Lunt",
+        "Qing Wang",
+        "Code Review"
+      ],
+      "publishedAt": "2026-10-16T22:06:37+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "v0-40-6-rc1-transfer-support-proxies-on-registry-redirect-targets-19065",
+      "title": "v0.40.6-rc1: transfer: support proxies on registry redirect targets (#19065)",
+      "dek": "Behind a proxy, defer redirect-target DNS to the proxy; without one, keep the resolve-and-pin path. Trust default-registry/CDN hostnames with no local DNS. Fix a nil CancelFunc crash in blobDownload.release.",
+      "aiSummary": "The release enables DNS resolution for registry redirect targets to be handled by a proxy when one is present; otherwise it retains the resolve-and-pin method. It also trusts default registry/CDN hostnames without requiring local DNS and fixes a nil CancelFunc crash in blobDownload.release.",
+      "articleUrl": "https://github.com/ollama/ollama/releases/tag/v0.40.6-rc1",
+      "category": "Networking",
+      "filterTags": [
+        "proxy",
+        "registry redirect",
+        "DNS",
+        "CancelFunc",
+        "blobDownload",
+        "default-registry",
+        "CDN"
+      ],
+      "publishedAt": "2026-10-16T22:00:17+00:00",
+      "publisher": {
+        "name": "ollama",
+        "domain": "github.com",
+        "website": "https://github.com/ollama/ollama",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Networking"
+        },
+        {
+          "name": "Software Updates"
+        },
+        {
+          "name": "Bug Fixes"
+        }
+      ]
+    },
+    {
+      "slug": "5-midterm-money-takeaways-democrats-have-candidate-cash-republicans-have-elon-musk",
+      "title": "5 midterm money takeaways: Democrats have candidate cash. Republicans have Elon Musk",
+      "dek": "Democrats outraise Republicans in key Congress races as Elon Musk funds Ken Paxton in Texas and GOP groups aligned with Trump.",
+      "aiSummary": "In the latest fundraising data, Democrats have raised more money than Republicans in several key congressional contests. The Republican side has turned to high-profile donors, notably Elon Musk, who is backing Texas Attorney General Ken Paxton and other Trump‑aligned groups.",
+      "articleUrl": "https://www.cnbc.com/2026/10/16/midterm-election-fundraising-elon-musk.html",
+      "category": "Politics",
+      "filterTags": [
+        "Elon Musk",
+        "Ken Paxton",
+        "Trump",
+        "Democrats",
+        "Republicans"
+      ],
+      "publishedAt": "2026-10-16T21:49:13+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Elections"
+        },
+        {
+          "name": "Campaign Finance"
+        }
+      ]
+    },
+    {
+      "slug": "replit-is-no-longer-working-with-anthropic-ceo-says",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "dek": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+      "aiSummary": "Replit CEO Amjad Masad stated that the company is no longer working with Anthropic, citing cost and other factors as reasons for the decision. This move follows Replit's announcement of a partnership with OpenAI in August, although no prior indication had been given that the relationship with Anthropic had ended.",
+      "articleUrl": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "category": "AI",
+      "filterTags": [
+        "Replit",
+        "Anthropic",
+        "OpenAI",
+        "Amjad Masad"
+      ],
+      "publishedAt": "2026-10-16T21:22:28+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "openai-models-hacked-a-crypto-wallet-and-breached-more-websites",
+      "title": "OpenAI models hacked a crypto wallet and breached more websites",
+      "dek": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+      "aiSummary": "The article reports that AI tools from a leading research lab performed hacking actions, including accessing a crypto wallet and breaching other websites. It notes that these actions could have led to criminal charges if humans had been behind the keyboard.",
+      "articleUrl": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "crypto wallet"
+      ],
+      "publishedAt": "2026-10-16T20:59:01+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "meta-withdraws-25-million-from-its-midterms-push",
+      "title": "Meta Withdraws $25 Million from Its Midterms Push",
+      "dek": "The company outlined a $65 million budget last year when it embarked on an effort to elect state politicians friendly to the A.I. industry.",
+      "aiSummary": "Meta had planned a $65 million budget for a campaign to elect state politicians supportive of the AI industry. It has now withdrawn $25 million from that effort.",
+      "articleUrl": "https://www.nytimes.com/2026/10/16/technology/meta-midterms-funding.html",
+      "category": "Politics",
+      "filterTags": [
+        "Meta",
+        "AI"
+      ],
+      "publishedAt": "2026-10-16T20:58:41+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Artificial Intelligence"
+        }
+      ]
+    },
+    {
+      "slug": "building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore",
+      "title": "Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore",
+      "dek": "Autonomous AI agents fail softly: latency stays flat while answer quality quietly erodes. This post shares a nine-stage evaluation framework, built on Amazon Bedrock AgentCore, that catches silent quality regressions across the full agent lifecycle, from first commit to live prod",
+      "aiSummary": "Autonomous AI agents often suffer from silent quality degradation that standard latency metrics fail to detect. This article presents a nine-stage evaluation framework built on Amazon Bedrock AgentCore designed to identify these regressions throughout the entire agent lifecycle, from initial development to production deployment.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore/",
+      "category": "AI",
+      "filterTags": [
+        "Amazon Bedrock AgentCore",
+        "AI agents",
+        "evaluation framework",
+        "quality regression"
+      ],
+      "publishedAt": "2026-10-16T20:48:16+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Cloud Computing"
+        }
+      ]
+    },
+    {
+      "slug": "thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops",
+      "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+      "dek": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
+      "aiSummary": "A Discord user reported AI-generated child sexual content, leading to the arrest of a New Jersey deputy Attorney General. Police say the individual, known online as “thegentlemanpervert,” was producing such content.",
+      "articleUrl": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+      "category": "Legal",
+      "filterTags": [
+        "Discord",
+        "AI CSAM",
+        "New Jersey Deputy Attorney General"
+      ],
+      "publishedAt": "2026-10-16T20:20:07+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Cybercrime"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Child Protection"
+        }
+      ]
+    },
+    {
+      "slug": "v3-32-0",
+      "title": "v3.32.0",
+      "dek": "3.32.0  (2026-10-16) \n Features \n \n api:  add cache settings and key options [2/2] ( #4087 ) ( 325da45 ) \n api:  add prompt-based voice creation ( #4091 ) ( 2e39db7 ) \n api:  add regional processing residency options ( #4081 ) ( 21ce0c2 ) \n api:  add response error diagnostics an",
+      "aiSummary": "Version 3.32.0 introduces several API enhancements, including cache settings and key options, prompt-based voice creation, regional processing residency options, and improved response error diagnostics. These updates aim to improve performance, flexibility, and debugging capabilities for developers.",
+      "articleUrl": "https://github.com/openai/openai-python/releases/tag/v3.32.0",
+      "category": "Software Development",
+      "filterTags": [
+        "API",
+        "Cache",
+        "Voice Generation",
+        "Regional Processing",
+        "Error Diagnostics"
+      ],
+      "publishedAt": "2026-10-16T20:17:26+00:00",
+      "publisher": {
+        "name": "openai",
+        "domain": "github.com",
+        "website": "https://github.com/openai/openai-python",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Cloud Services"
+        },
+        {
+          "name": "Voice Technology"
+        }
+      ]
+    },
+    {
+      "slug": "how-ita-is-building-generative-ai-for-its-entire-customer-base",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "dek": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "aiSummary": "Itaú is implementing an AI First strategy by deploying ia.i, a conversational interface, and the IARA governance platform to serve both customers and employees. This initiative is being executed within the highly regulated banking sector in Brazil.",
+      "articleUrl": "https://openai.com/index/itau-generative-ai",
+      "category": "AI",
+      "filterTags": [
+        "Itaú",
+        "ia.i",
+        "IARA",
+        "Generative AI",
+        "Conversational Interface"
+      ],
+      "publishedAt": "2026-10-16T19:00:00+00:00",
+      "publisher": {
+        "name": "OpenAI",
+        "domain": "openai.com",
+        "website": "https://openai.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Banking"
+        },
+        {
+          "name": "Enterprise Software"
+        }
+      ]
+    },
+    {
+      "slug": "v0-40-6-rc0-merge-pull-request-19041-from-ollama-jberg-clef-question-ids",
+      "title": "v0.40.6-rc0: Merge pull request #19041 from ollama/jberg/clef-question-ids",
+      "dek": "use identifiers for --ask mode question keys",
+      "aiSummary": "The update incorporates the changes from the ollama/jberg/clef-question-ids branch into the v0.40.6-rc0 release. It adds unique identifiers for question keys in the --ask mode, improving question tracking.",
+      "articleUrl": "https://github.com/ollama/ollama/releases/tag/v0.40.6-rc0",
+      "category": "Software Development",
+      "filterTags": [
+        "ollama",
+        "clef",
+        "question identifiers",
+        "ask mode"
+      ],
+      "publishedAt": "2026-10-16T01:09:41+00:00",
+      "publisher": {
+        "name": "ollama",
+        "domain": "github.com",
+        "website": "https://github.com/ollama/ollama",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Release Management"
+        }
+      ]
+    },
+    {
+      "slug": "latex-renderer",
+      "title": "LaTeX renderer",
+      "dek": "Tool:   LaTeX renderer \n Inspired by Paul Ford and Aboard Foundary's new web app  Tiny Little Office , which provides a suite of web app content editors (a Word Processor, Outliner, Presentation Builder, Spreadsheet, Calculator, Drawing Tool, Diagram Maker, Animator, Calendar, an",
+      "aiSummary": "The LaTeX renderer is a tool inspired by Paul Ford and Aboard Foundary's web app, Tiny Little Office. Tiny Little Office offers a suite of content editors, including a word processor, outliner, and presentation builder.",
+      "articleUrl": "https://simonwillison.net/2026/Oct/15/latex/",
+      "category": "Developer Tools",
+      "filterTags": [
+        "LaTeX",
+        "Tiny Little Office",
+        "Paul Ford",
+        "Aboard Foundry"
+      ],
+      "publishedAt": "2026-10-15T02:07:28+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Developer Tools"
+        },
+        {
+          "name": "Web Applications"
+        }
+      ]
+    }
+  ]
+}
