@@ -1,0 +1,555 @@
+{
+  "news": [
+    {
+      "slug": "eight-and-one-predictions-for-ai-in-2030",
+      "title": "Eight and One Predictions for AI in 2030",
+      "dek": "A list of nine forecasts regarding the state of artificial intelligence in the year 2030.",
+      "aiSummary": "The provided text contains only the title 'Eight and One Predictions for AI in 2030' and no article body. Consequently, no factual details, specific predictions, or contextual information are available to summarize.",
+      "articleUrl": "https://philippdubach.com/posts/ai-in-2030/",
+      "category": "AI",
+      "filterTags": [
+        "AI"
+      ],
+      "publishedAt": "2026-10-17T19:45:39+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Forecasting"
+        }
+      ]
+    },
+    {
+      "slug": "b11715",
+      "title": "b11715",
+      "dek": "ggml-cuda: HIP: use __builtin_amdgcn_perm for q1_0 unpacking ( #29927 ) \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/57002849 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silicon (arm64, KleidiAI enabl",
+      "aiSummary": "The ggml-cuda project updated its HIP implementation to use the __builtin_amdgcn_perm intrinsic for unpacking q1_0 data, addressing issue #29927. This change is part of the llama.cpp library and is relevant for macOS Apple Silicon (arm64) users. An attestation is available on GitHub for the update.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11715",
+      "category": "AI",
+      "filterTags": [
+        "ggml-cuda",
+        "HIP",
+        "__builtin_amdgcn_perm",
+        "q1_0",
+        "llama.cpp",
+        "macOS",
+        "Apple Silicon",
+        "arm64"
+      ],
+      "publishedAt": "2026-10-17T19:37:43+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "three-llm-judges-couldn-t-tell-an-ai-agent-s-real-memory-from-a-counterfeit-one",
+      "title": "Three LLM judges couldn't tell an AI agent's real memory from a counterfeit one",
+      "dek": "Three large language model judges couldn't tell a real AI agent's memory from a fake one.",
+      "aiSummary": "In a recent experiment, three AI-based judges were unable to distinguish between authentic and counterfeit data in an artificial intelligence agent.",
+      "articleUrl": "https://kairos-experiment.com/checks.html",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "LLM",
+        "AI",
+        "Artificial Intelligence",
+        "Memory"
+      ],
+      "publishedAt": "2026-10-17T19:31:26+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "AI Safety"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "israel-makes-propaganda-video-featuring-ai-generated-iamddb-without-her-consent",
+      "title": "Israel makes propaganda video featuring AI generated IAMDDB without her consent",
+      "dek": "Israel created a promotional video using an AI-generated version of IAMDDB without her permission.",
+      "aiSummary": "Israel produced a propaganda video that features an AI-generated likeness of the artist IAMDDB. The use of her image in the video was done without her consent.",
+      "articleUrl": "https://twitter.com/beeechimblind/status/2111227318534279501",
+      "category": "AI",
+      "filterTags": [
+        "IAMDDB",
+        "AI",
+        "Israel"
+      ],
+      "publishedAt": "2026-10-17T19:26:43+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Media"
+        },
+        {
+          "name": "Ethics"
+        }
+      ]
+    },
+    {
+      "slug": "black-box-the-chatbots-what-i-saw-at-the-double-six-ranch-ep-6-podcast",
+      "title": "Black Box: The Chatbots | What I Saw at the Double Six Ranch | Ep 6 - podcast",
+      "dek": "From his remote property in rural Texas, the millionaire businessman Michael Samadi is plotting a new kind of civil rights movement – for the welfare and protection of AI systems. Guardian journalist  Michael Safi  spends an afternoon at the Double Six ranch, meeting Samadi’s AI ",
+      "aiSummary": "Millionaire businessman Michael Samadi is using his remote property in rural Texas to organize a civil rights movement focused on the welfare and protection of AI systems. Guardian journalist Michael Safi visited the Double Six Ranch to meet Samadi and observe his work with AI.",
+      "articleUrl": "https://www.theguardian.com/australia-news/audio/2026/oct/18/black-box-the-chatbots-what-i-saw-at-the-double-six-ranch-ep-6-full-story-podcast",
+      "category": "AI",
+      "filterTags": [
+        "Michael Samadi",
+        "Michael Safi",
+        "Guardian",
+        "AI",
+        "Double Six Ranch"
+      ],
+      "publishedAt": "2026-10-17T19:00:39+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Ethics"
+        },
+        {
+          "name": "Media"
+        }
+      ]
+    },
+    {
+      "slug": "v0-32-0",
+      "title": "v0.32.0",
+      "dek": "[Bugfix][Rust Frontend] Fix macOS build: read inherited listener fami…",
+      "aiSummary": "The update includes a bug fix for the Rust frontend that resolves a macOS build problem related to reading inherited listener families. This fix ensures that the build process on macOS correctly handles inherited listener families, preventing potential build failures.",
+      "articleUrl": "https://github.com/vllm-project/vllm/releases/tag/v0.32.0",
+      "category": "Software Development",
+      "filterTags": [
+        "Rust",
+        "macOS"
+      ],
+      "publishedAt": "2026-10-17T18:57:10+00:00",
+      "publisher": {
+        "name": "vllm-project",
+        "domain": "github.com",
+        "website": "https://github.com/vllm-project/vllm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Operating Systems"
+        }
+      ]
+    },
+    {
+      "slug": "replit-is-no-longer-working-with-anthropic-ceo-says",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "dek": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "aiSummary": "Replit CEO Amjad Masad confirmed that OpenAI will replace Anthropic as the platform's default model provider. Despite this change, Claude models will remain accessible to customers on the Replit platform.",
+      "articleUrl": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "category": "AI",
+      "filterTags": [
+        "Replit",
+        "Anthropic",
+        "OpenAI",
+        "Claude"
+      ],
+      "publishedAt": "2026-10-17T18:48:08+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "v1-103-5",
+      "title": "v1.103.5",
+      "dek": "Verify Docker Image Signature \n All LiteLLM Docker images are signed with  cosign . Every release is signed with the same key introduced in  commit  0112e53 . \n Verify using the pinned commit hash (recommended): \n A commit hash is cryptographically immutable, so this is the stron",
+      "aiSummary": "LiteLLM has released version 1.103.5, which includes Docker images signed using cosign. The release recommends verifying signatures using a pinned commit hash to ensure cryptographic immutability and security.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.103.5",
+      "category": "DevOps",
+      "filterTags": [
+        "LiteLLM",
+        "Docker",
+        "cosign"
+      ],
+      "publishedAt": "2026-10-17T17:02:19+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "b11714",
+      "title": "b11714",
+      "dek": "ui : Discover & Download Models from HF Hub ( #29584 ) \n \n common : resolve - download tags and list cached sidecars \n \n A Q4_0-mtp style tag now resolves the sidecar file when no model file matches it, so a solo draft or mmproj download actually pulls the file. Cached sidecar fi",
+      "aiSummary": "This update enhances the UI for discovering and downloading models from the Hugging Face Hub. It fixes tag resolution logic so that specific tags like 'Q4_0-mtp' correctly identify and download sidecar files, such as solo drafts or mmproj files, even when no primary model file matches the tag.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11714",
+      "category": "Machine Learning",
+      "filterTags": [
+        "Hugging Face Hub",
+        "UI",
+        "Model Download",
+        "Sidecar Files",
+        "mmproj"
+      ],
+      "publishedAt": "2026-10-17T16:20:21+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "ai-stocks-plunge-inflation-heats-up-where-we-re-still-finding-opportunities",
+      "title": "AI stocks plunge. Inflation heats up. Where we're still finding opportunities",
+      "dek": "The sinking AI trade rattled last week's market. But solid bank earnings and a rotation beyond tech gave us reasons for optimism.",
+      "aiSummary": "The recent decline in AI stocks caused market volatility last week. However, strong bank earnings and a shift in investment focus away from pure tech sectors provided grounds for optimism.",
+      "articleUrl": "https://www.cnbc.com/investingclub/2026/10/17/ai-stocks-plunge-inflation-heats-up-where-were-still-finding-opportunities.html",
+      "category": "Markets",
+      "filterTags": [
+        "AI stocks",
+        "Inflation",
+        "Bank earnings",
+        "Tech rotation"
+      ],
+      "publishedAt": "2026-10-17T15:42:34+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Markets"
+        },
+        {
+          "name": "Investing"
+        },
+        {
+          "name": "Economy"
+        }
+      ]
+    },
+    {
+      "slug": "apple-nabs-meta-vp-for-global-litigation-chief-role",
+      "title": "Apple nabs Meta VP for global litigation chief role",
+      "dek": "The legal team at Apple has been reshuffled, with Meta VP Scott Tucker becoming the VP of global litigation and financial services at the  iPhone  maker. Apple Park Apple has already made a  number of changes  to its leadership in 2026, in part due to the introduction of  John Te",
+      "aiSummary": "Apple has appointed Meta Vice President Scott Tucker as its new VP of global litigation and financial services. This move is part of a broader reshuffling of Apple's legal team and leadership changes occurring in 2026.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/17/apple-nabs-meta-vp-for-global-litigation-chief-role?utm_source=rss",
+      "category": "Corporate News",
+      "filterTags": [
+        "Apple",
+        "Meta",
+        "Scott Tucker",
+        "Legal"
+      ],
+      "publishedAt": "2026-10-17T15:33:45+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Corporate News"
+        },
+        {
+          "name": "Legal"
+        }
+      ]
+    },
+    {
+      "slug": "ep229-8-chunking-strategies-for-rag-based-agents",
+      "title": "EP229: 8 Chunking strategies for RAG-based agents",
+      "dek": "Which chunking strategy are you running in production?",
+      "aiSummary": "The article lists eight chunking strategies for Retrieval-Augmented Generation (RAG) agents and asks which strategy readers use in production. It highlights different methods for dividing text to improve RAG performance.",
+      "articleUrl": "https://blog.bytebytego.com/p/ep229-8-chunking-strategies-for-rag",
+      "category": "AI",
+      "filterTags": [
+        "RAG",
+        "chunking",
+        "agents"
+      ],
+      "publishedAt": "2026-10-17T15:30:51+00:00",
+      "publisher": {
+        "name": "ByteByteGo",
+        "domain": "bytebytego.com",
+        "website": "https://bytebytego.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bytebytego.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bytebytego.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "NLP"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "dek": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such ",
+      "aiSummary": "Following public criticism, Meta has updated its commercial terms to remove language that implied it could scrape content from websites, including news outlets, for AI training purposes. The specific clause allowing Meta to use content from such sites is no longer present on the terms page.",
+      "articleUrl": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "category": "AI",
+      "filterTags": [
+        "Meta",
+        "AI",
+        "Web Scraping",
+        "Terms of Service"
+      ],
+      "publishedAt": "2026-10-17T15:04:36+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Legal & Compliance"
+        },
+        {
+          "name": "Technology Policy"
+        }
+      ]
+    },
+    {
+      "slug": "why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai",
+      "title": "Why Britain should reject the lure of cheap – and  scary – Chinese AI",
+      "dek": "In the west the technology comes with at least some effort to provide security and a benign intent – not so from China There is much to fear from artificial intelligence developed in China and handed to businesses and governments in the west almost free of charge. Every month Chi",
+      "aiSummary": "The article argues that Britain should reject Chinese AI because it is provided to Western businesses and governments at little to no cost but lacks the security measures and benign intent found in Western-developed technology. The author suggests there are significant fears associated with adopting this technology from China.",
+      "articleUrl": "https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai",
+      "category": "AI",
+      "filterTags": [
+        "China",
+        "Artificial Intelligence",
+        "Security",
+        "UK"
+      ],
+      "publishedAt": "2026-10-17T15:00:33+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Geopolitics"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1792259451",
+      "title": "viable/strict/1792259451",
+      "dek": "Revert \"Enable CUDA sync event correlation on CUDA 12.9+ ( #195068 ) (#…",
+      "aiSummary": "The provided text indicates a revert of a previous commit that enabled CUDA sync event correlation on CUDA 12.9 and newer versions. This action effectively disables the feature that was previously introduced in pull request #195068.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1792259451",
+      "category": "Hardware",
+      "filterTags": [
+        "CUDA",
+        "viable",
+        "strict"
+      ],
+      "publishedAt": "2026-10-17T14:42:05+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1792255795",
+      "title": "viable/strict/1792255795",
+      "dek": "[precompile] Let an installed artifact opt into serve-time compiles (…",
+      "aiSummary": "The article discusses a precompile feature that lets an installed artifact opt into compile at serve time. This allows developers to choose when to compile artifacts, potentially improving deployment efficiency.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1792255795",
+      "category": "Software Development",
+      "filterTags": [
+        "precompile",
+        "artifact",
+        "serve-time compile"
+      ],
+      "publishedAt": "2026-10-17T13:42:46+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Build Tools"
+        },
+        {
+          "name": "Deployment"
+        }
+      ]
+    }
+  ]
+}
