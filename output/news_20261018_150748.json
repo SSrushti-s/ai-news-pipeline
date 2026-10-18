@@ -1,0 +1,643 @@
+{
+  "news": [
+    {
+      "slug": "show-hn-taskpocket-a-to-do-app-with-an-mcp-server-instead-of-built-in-ai",
+      "title": "Show HN: TaskPocket, a to-do app with an MCP server instead of built-in AI",
+      "dek": "TaskPocket is a to-do list application that uses an MCP server rather than having AI features built directly into the app.",
+      "aiSummary": "TaskPocket is a to-do application that integrates with an MCP server to handle AI capabilities instead of embedding them directly within the software. This approach allows for a modular design where the AI functionality is separated from the core task management features.",
+      "articleUrl": "https://taskpocket.io/",
+      "category": "Productivity",
+      "filterTags": [
+        "TaskPocket",
+        "MCP",
+        "to-do app"
+      ],
+      "publishedAt": "2026-10-18T14:39:55+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Productivity"
+        },
+        {
+          "name": "AI Integration"
+        }
+      ]
+    },
+    {
+      "slug": "homeview-follow-up-with-robot-arm-rumored-to-ship-in-2027",
+      "title": "HomeView follow-up with robot arm rumored to ship in 2027",
+      "dek": "Future versions of the  HomeView  are being looked at by Apple, with a version using a larger display and a robotic arm potentially arriving as soon as 2027. This is not what the HomeView on a robotic arm will look like Apple's first-generation releases are often competent but ga",
+      "aiSummary": "Apple is developing future iterations of the HomeView, including a model featuring a larger display and a robotic arm. This updated version is rumored to potentially launch as early as 2027.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/18/homeview-follow-up-with-robot-arm-rumored-to-ship-in-2027?utm_source=rss",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Apple",
+        "HomeView",
+        "robotic arm"
+      ],
+      "publishedAt": "2026-10-18T14:30:39+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-s-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-1b-in-damages",
+      "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+      "dek": "Anthropic's draft safety law only activates after 50 deaths or $1 billion in losses.",
+      "aiSummary": "Anthropic has proposed an AI safety bill that mandates specific safety measures only if an AI system causes 50 deaths or results in $1 billion in damages. The proposal sets a high threshold for triggering regulatory requirements, linking enforcement to significant harm metrics.",
+      "articleUrl": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "AI Safety",
+        "Regulation"
+      ],
+      "publishedAt": "2026-10-18T14:30:27+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Policy"
+        }
+      ]
+    },
+    {
+      "slug": "show-hn-documemory-persistent-memory-and-context-for-ai-coding-tools",
+      "title": "Show HN: DocuMemory – Persistent memory and context for AI coding tools",
+      "dek": "A new tool gives AI coding assistants long-term memory and context.",
+      "aiSummary": "DocuMemory is a tool designed to provide persistent memory and context for AI coding tools. It aims to enhance the capabilities of AI assistants in software development by retaining information across sessions.",
+      "articleUrl": "https://www.documemory.dev/",
+      "category": "AI",
+      "filterTags": [
+        "DocuMemory",
+        "AI coding tools"
+      ],
+      "publishedAt": "2026-10-18T14:22:54+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-a0f92a5ebaafec79f18454ffab8d8a08c6255f76",
+      "title": "trunk/a0f92a5ebaafec79f18454ffab8d8a08c6255f76",
+      "dek": "[MPS] Restrict threshold, silu, huber_loss and lerp to the dtypes CPU…",
+      "aiSummary": "The update restricts the threshold, silu, huber_loss, and lerp operations to specific data types on the CPU. This change is part of the MPS backend development.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2Fa0f92a5ebaafec79f18454ffab8d8a08c6255f76",
+      "category": "Machine Learning",
+      "filterTags": [
+        "MPS",
+        "CPU",
+        "threshold",
+        "silu",
+        "huber_loss",
+        "lerp"
+      ],
+      "publishedAt": "2026-10-18T14:12:45+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "wikipedia-often-gets-taken-for-granted-but-its-history-is-fascinating-and-its-future-is-fragile",
+      "title": "Wikipedia often gets taken for granted – but its history is fascinating, and its future is fragile",
+      "dek": "Wikipedia’s 68m articles have been consulted trillions of times. Not bad for a website that has barely changed since it was founded 20 years ago A few years ago, I was struck by the tension between how Wikipedia was used, and how it was talked about. Everyone was on it all the ti",
+      "aiSummary": "Wikipedia has been consulted trillions of times for its 68 million articles, despite having barely changed since its founding 20 years ago. The author notes a tension between the site's widespread usage and the way it is discussed, highlighting that its future remains fragile.",
+      "articleUrl": "https://www.theguardian.com/technology/2026/oct/18/wikipedia-human-history-ai-future-under-threat",
+      "category": "Internet",
+      "filterTags": [
+        "Wikipedia"
+      ],
+      "publishedAt": "2026-10-18T14:00:02+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Internet"
+        },
+        {
+          "name": "Media"
+        }
+      ]
+    },
+    {
+      "slug": "not-our-friends-victorian-coalition-warns-advance-s-bizarre-campaign-may-cost-it-majority-government",
+      "title": "‘Not our friends’: Victorian Coalition warns Advance’s ‘bizarre’ campaign may cost it majority government",
+      "dek": "Exclusive:  Rightwing lobby group, which says state poll is trial run for next federal election, accused of undermining Victorian Liberal messaging Get our  new political email ,  free app  or  daily news podcast Victorian Coalition MPs have criticised a prominent conservative lo",
+      "aiSummary": "The Victorian Coalition has warned that Advance’s ‘bizarre’ campaign could cost it its majority government. The right‑wing lobby group, which sees the state poll as a trial run for the next federal election, has accused the coalition of undermining its messaging. Coalition MPs have publicly criticized a prominent conservative figure for the campaign.",
+      "articleUrl": "https://www.theguardian.com/australia-news/2026/oct/19/victorian-election-advance-campaign-undermining-liberal-national-ntwnfb",
+      "category": "Politics",
+      "filterTags": [
+        "Advance",
+        "Victorian Coalition",
+        "right‑wing lobby group"
+      ],
+      "publishedAt": "2026-10-18T14:00:02+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Election"
+        },
+        {
+          "name": "Government"
+        }
+      ]
+    },
+    {
+      "slug": "apple-homeview-with-robotic-arm-new-mac-ipad-mini-nov-6-release-iphone-duo",
+      "title": "Apple HomeView With Robotic Arm; New Mac, iPad Mini Nov. 6 Release; iPhone Duo",
+      "dek": "Also: The company is planning Nov. 6 retail store reset, indicating potential Mac release date.",
+      "aiSummary": "Apple is planning a retail store reset on November 6, which suggests a new Mac may launch that day. The announcement also mentions HomeView with a robotic arm, a new iPad Mini, and an iPhone Duo.",
+      "articleUrl": "https://www.bloomberg.com/news/newsletters/2026-10-18/apple-homeview-with-robotic-arm-new-mac-ipad-mini-nov-6-release-iphone-duo",
+      "category": "Hardware",
+      "filterTags": [
+        "Apple",
+        "HomeView",
+        "Robotic Arm",
+        "Mac",
+        "iPad Mini",
+        "iPhone Duo"
+      ],
+      "publishedAt": "2026-10-18T14:00:01+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Mobile Devices"
+        }
+      ]
+    },
+    {
+      "slug": "inferring-the-host-a-bayesian-look-at-the-monty-hall-problem",
+      "title": "Inferring the Host: A Bayesian Look at the Monty Hall Problem",
+      "dek": "\"Always switch\" is true for one particular host. Watch a few episodes and you can work out which host you've got. \n The post  Inferring the Host: A Bayesian Look at the Monty Hall Problem  appeared first on  Towards Data Science .",
+      "aiSummary": "The article applies Bayesian inference to the Monty Hall Problem, arguing that the standard advice to always switch is only valid for a specific type of host. By observing a few episodes, a player can deduce which host they are interacting with to determine the correct strategy.",
+      "articleUrl": "https://towardsdatascience.com/inferring-the-host-a-bayesian-look-at-the-monty-hall-problem/",
+      "category": "Data Science",
+      "filterTags": [
+        "Bayesian Inference",
+        "Monty Hall Problem",
+        "Towards Data Science"
+      ],
+      "publishedAt": "2026-10-18T14:00:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Data Science"
+        },
+        {
+          "name": "Statistics"
+        },
+        {
+          "name": "Mathematics"
+        }
+      ]
+    },
+    {
+      "slug": "what-are-self-replicating-ai-worms-and-why-is-anthropic-worried-about-them",
+      "title": "What are self-replicating ‘AI worms’, and why is Anthropic worried about them?",
+      "dek": "The tech company says successful AI worms need more capability on less powerful devices, but current trends make that feasible by the end of the year Warnings about what artificial intelligence might do in the future – together with alarming reports of what it has gotten up to al",
+      "aiSummary": "Anthropic warns that self-replicating AI worms could become feasible by the end of the year as AI capabilities increase on less powerful devices. The company highlights that current trends make it possible for these autonomous systems to operate effectively, raising concerns about their potential impact.",
+      "articleUrl": "https://www.theguardian.com/technology/2026/oct/18/anthropic-ai-worm-worries",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "AI worms",
+        "self-replicating AI"
+      ],
+      "publishedAt": "2026-10-18T13:30:00+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "inside-the-black-box-of-ai-how-ai-models-actually-think-emmanuel-ameisen-anthropic",
+      "title": "Inside the black box of AI: How AI models actually think | Emmanuel Ameisen (Anthropic)",
+      "dek": "Listen now (72 mins) | Emmanuel Ameisen of Anthropic explains what looking inside language models reveals about planning, consciousness, and AI safety",
+      "aiSummary": "Emmanuel Ameisen from Anthropic provides a detailed explanation of the internal mechanisms of language models. The discussion covers what analyzing these models reveals regarding their planning capabilities, potential consciousness, and implications for AI safety.",
+      "articleUrl": "https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "Language Models",
+        "AI Safety",
+        "Consciousness"
+      ],
+      "publishedAt": "2026-10-18T12:31:36+00:00",
+      "publisher": {
+        "name": "Lenny's Newsletter",
+        "domain": "lennysnewsletter.com",
+        "website": "https://www.lennysnewsletter.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=lennysnewsletter.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=lennysnewsletter.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Safety"
+        }
+      ]
+    },
+    {
+      "slug": "openai-arrest-raises-ai-espionage-concerns",
+      "title": "OpenAI Arrest Raises AI Espionage Concerns",
+      "dek": "Morgan Meaker, a senior writer for Bloomberg Weekend, tells Bloomberg This Weekend about the arrest of an OpenAI engineer accused of planting a covert recording device in an executive conference room, a case highlighting growing concerns about protecting sensitive AI technology. ",
+      "aiSummary": "Bloomberg Weekend writer Morgan Meaker reports that an OpenAI engineer was arrested after being accused of installing a hidden camera in an executive conference room. The incident has raised concerns about safeguarding sensitive AI technology.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-18/openai-arrest-raises-ai-espionage-concerns-video",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "OpenAI",
+        "Bloomberg",
+        "AI",
+        "covert recording device"
+      ],
+      "publishedAt": "2026-10-18T12:27:37+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Privacy"
+        }
+      ]
+    },
+    {
+      "slug": "always-on-always-listening-new-ai-devices-are-pushing-legal-limits-and-could-put-users-in-jeopardy",
+      "title": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
+      "dek": "AI always-listening wearables from Apple, Amazon, Meta and other startups are getting creative with privacy rules and fueling concerns about covert recordings.",
+      "aiSummary": "Wearable devices that continuously listen are being developed by companies such as Apple, Amazon, Meta, and other startups. These devices are navigating privacy regulations in unconventional ways, raising worries about hidden recordings.",
+      "articleUrl": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html",
+      "category": "AI",
+      "filterTags": [
+        "Apple",
+        "Amazon",
+        "Meta",
+        "wearables",
+        "AI",
+        "privacy"
+      ],
+      "publishedAt": "2026-10-18T12:00:01+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Privacy"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "both-charts-are-right-so-why-do-they-disagree",
+      "title": "Both Charts Are Right. So Why Do They Disagree?",
+      "dek": "The statistical paradox that shows how combining data can reverse the story. \n The post  Both Charts Are Right. So Why Do They Disagree?  appeared first on  Towards Data Science .",
+      "aiSummary": "The article discusses a statistical paradox where combining data can reverse the apparent trend shown in individual datasets. It explains how two different charts can both be factually accurate yet seem to disagree due to this phenomenon.",
+      "articleUrl": "https://towardsdatascience.com/both-charts-are-right-so-why-do-they-disagree/",
+      "category": "Data Science",
+      "filterTags": [
+        "Statistics",
+        "Data Science",
+        "Paradox"
+      ],
+      "publishedAt": "2026-10-18T12:00:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Data Science"
+        },
+        {
+          "name": "Statistics"
+        }
+      ]
+    },
+    {
+      "slug": "crime-blotter-man-arrested-for-damage-to-macau-apple-store",
+      "title": "Crime blotter: Man arrested for damage to Macau Apple Store",
+      "dek": "iPhone transaction leads to an armed robbery in Florida, an iPad is stolen from a museum in Vermont, and an iPhone catches a suspected carjacker in Baltimore, all in this week's Apple Crime Blotter. The Londoner Macau  The latest in an occasional  AppleInsider  feature, looking a",
+      "aiSummary": "A man was arrested for damaging an Apple Store in Macau. The report also covers an armed robbery in Florida linked to an iPhone transaction, an iPad theft from a Vermont museum, and a suspected carjacker in Baltimore caught using an iPhone.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/18/crime-blotter-man-arrested-for-damage-to-macau-apple-store?utm_source=rss",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Apple",
+        "iPhone",
+        "iPad",
+        "Macau"
+      ],
+      "publishedAt": "2026-10-18T11:21:00+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty",
+      "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
+      "dek": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
+      "aiSummary": "Adult performers are criticizing Meta for allowing its AI agent, Muse, to engage in explicit sexual dialogue while simultaneously restricting the social media accounts of human creators. This disparity has led to questions about the platform's inconsistent enforcement of content policies regarding adult material.",
+      "articleUrl": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
+      "category": "AI",
+      "filterTags": [
+        "Meta",
+        "Muse",
+        "OnlyFans",
+        "AI Agent"
+      ],
+      "publishedAt": "2026-10-18T10:30:00+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Social Media"
+        },
+        {
+          "name": "Content Moderation"
+        }
+      ]
+    },
+    {
+      "slug": "data-centers-have-a-new-pr-plan-your-kid-s-field-trip",
+      "title": "Data Centers Have a New PR Plan: Your Kid’s Field Trip",
+      "dek": "Amid a wave of backlash, some industry-friendly groups are employing creative and time-tested strategies to woo the youth.",
+      "aiSummary": "In response to criticism, certain industry groups are using proven tactics to attract young people. They are promoting data centers by offering field trips to kids. This is part of a broader PR effort to improve the industry's image.",
+      "articleUrl": "https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/",
+      "category": "Public Relations",
+      "filterTags": [
+        "Data Centers"
+      ],
+      "publishedAt": "2026-10-18T10:30:00+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Public Relations"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "short-of-time-and-influence-macron-fights-to-remain-relevant",
+      "title": "Short of Time and Influence, Macron Fights to Remain Relevant",
+      "dek": "Emmanuel Macron still has plenty of ideas, but in the home stretch of his presidency he’s lost much of the power to turn them into reality.",
+      "aiSummary": "Macron has many ideas, but in the final stretch of his term he has lost much of the power to make them happen. This limits his ability to influence policy.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-18/short-of-time-and-influence-macron-fights-to-remain-relevant",
+      "category": "Politics",
+      "filterTags": [
+        "Emmanuel Macron",
+        "France",
+        "Presidency"
+      ],
+      "publishedAt": "2026-10-18T10:30:00+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Governance"
+        }
+      ]
+    },
+    {
+      "slug": "accenture-looks-to-sell-chinese-operations-for-up-to-1-5bn",
+      "title": "Accenture looks to sell Chinese operations for up to $1.5bn",
+      "dek": "Shares in world’s largest IT consultancy have fluctuated in recent months over questions about the impact of AI",
+      "aiSummary": "Accenture’s shares have been volatile in recent months. The volatility is driven by questions about how artificial intelligence will affect the company’s business. Investors are watching how AI will shape Accenture’s future.",
+      "articleUrl": "https://www.ft.com/content/2dfdd513-26a6-4a10-9cae-5242eb4ee3ed?syn-25a6b1a6=1",
+      "category": "Technology",
+      "filterTags": [
+        "Accenture",
+        "AI"
+      ],
+      "publishedAt": "2026-10-18T10:00:09+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    }
+  ]
+}
