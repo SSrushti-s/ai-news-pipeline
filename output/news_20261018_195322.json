@@ -1,0 +1,522 @@
+{
+  "news": [
+    {
+      "slug": "consumer-apprehension-grows-as-us-retailers-adopt-ai-assisted-pricing-tools",
+      "title": "Consumer apprehension grows as US retailers adopt AI-assisted pricing tools",
+      "dek": "Shoppers are getting worried because American stores are starting to use AI to set prices.",
+      "aiSummary": "Consumer anxiety is increasing as US retailers implement AI-assisted pricing tools. This trend is causing apprehension among shoppers regarding how these technologies influence product costs.",
+      "articleUrl": "https://apnews.com/article/ai-prices-dynamic-customers-technology-64c446cd117d3be664de4ab570fb9857",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Retail",
+        "Pricing Tools",
+        "US Retailers"
+      ],
+      "publishedAt": "2026-10-18T19:39:36+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Retail"
+        },
+        {
+          "name": "Consumer Behavior"
+        }
+      ]
+    },
+    {
+      "slug": "beating-warcraft-iii-s-insane-ai-with-self-play-reinforcement-learning-on-one-pc",
+      "title": "Beating Warcraft III's insane AI with self-play reinforcement learning on one PC",
+      "dek": "Researchers used self-play reinforcement learning on a single computer to defeat the difficult AI in Warcraft III.",
+      "aiSummary": "The article describes a method for overcoming the challenging artificial intelligence in Warcraft III using self-play reinforcement learning. This approach was implemented and executed on a single personal computer.",
+      "articleUrl": "https://warlock.ai/blog/warcraftsim-1/",
+      "category": "AI",
+      "filterTags": [
+        "Warcraft III",
+        "Reinforcement Learning",
+        "Self-Play",
+        "AI"
+      ],
+      "publishedAt": "2026-10-18T19:32:10+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "trustbut-checks-if-an-ai-agent-s-new-tests-fail-without-its-change",
+      "title": "Trustbut checks if an AI agent's new tests fail without its change",
+      "dek": "Trustbut verifies whether an AI agent's new tests fail when its changes are removed.",
+      "aiSummary": "Trustbut is a tool that validates AI agent contributions by checking if the new tests fail without the agent's specific code changes. This process ensures that the tests are actually relevant to the modifications made by the AI.",
+      "articleUrl": "https://github.com/isAlmogK/trustbut",
+      "category": "AI",
+      "filterTags": [
+        "Trustbut",
+        "AI agents",
+        "Testing"
+      ],
+      "publishedAt": "2026-10-18T19:07:31+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "title": "A woman was arrested in Philly for blocking a delivery robot",
+      "dek": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whe",
+      "aiSummary": "Carolyn Marvin was arrested in Philadelphia and charged with disorderly conduct after blocking the path of an Uber delivery robot. She stated that she was protesting the robots because she believes they are taking jobs from human delivery workers.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "category": "Robotics",
+      "filterTags": [
+        "Uber",
+        "delivery robots",
+        "disorderly conduct"
+      ],
+      "publishedAt": "2026-10-18T18:28:10+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Robotics"
+        },
+        {
+          "name": "Labor"
+        },
+        {
+          "name": "Public Safety"
+        }
+      ]
+    },
+    {
+      "slug": "b11721",
+      "title": "b11721",
+      "dek": "cuda : fuse qwen4exp's SCALE -> SIGMOID -> SCALE -> hc_post chain ( #30602 ) \n Port of the Vulkan HC_POST_GATE fusion ( #29520 ). hc_combine builds the \nhc_post weights as 2 sigmoid(inject/hc); dsv4_hc_post_f32 now takes a \ngated template flag and computes scale_out sigmoid(scale",
+      "aiSummary": "This update fuses the SCALE, SIGMOID, and hc_post operations for Qwen4exp into a single CUDA kernel. It ports the logic from a previous Vulkan implementation and modifies dsv4_hc_post_f32 to handle gated templates and compute scaled sigmoid outputs.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11721",
+      "category": "AI",
+      "filterTags": [
+        "CUDA",
+        "Qwen4exp",
+        "Vulkan",
+        "hc_post"
+      ],
+      "publishedAt": "2026-10-18T18:08:15+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Performance Optimization"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-plans-to-shift-some-shares-into-new-public-good-fund",
+      "title": "Anthropic Plans to Shift Some Shares Into New ‘Public Good’ Fund",
+      "dek": "Anthropic PBC said it plans to put 5% of its shares into a new fund that the artificial intelligence company says will enable it to make donations that can address “the public good,” including mitigating AI’s impact on the job market.",
+      "aiSummary": "Anthropic PBC announced plans to allocate 5% of its shares to a new fund designed to support initiatives for the public good. The company stated that this fund will facilitate donations aimed at addressing issues such as the impact of artificial intelligence on the job market.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-18/anthropic-plans-to-shift-some-shares-into-new-public-good-fund",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "AI",
+        "Public Good Fund"
+      ],
+      "publishedAt": "2026-10-18T18:03:03+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Corporate Governance"
+        }
+      ]
+    },
+    {
+      "slug": "b11720",
+      "title": "b11720",
+      "dek": "ggml: support non-contiguous SUM (CPU, CUDA, Vulkan, WebGPU) ( #28851 ) \n \n \n ggml: support non-contiguous SUM (CPU, CUDA) \n \n \n tests: add non-contiguous SUM cases \n \n \n tests: SUM over non-contiguous views \n \n \n vulkan: support non-contiguous SUM \n \n \n webgpu: support non-conti",
+      "aiSummary": "The update introduces support for non-contiguous SUM operations across CPU, CUDA, Vulkan, and WebGPU backends in the ggml library. It also includes the addition of test cases to verify SUM functionality over non-contiguous views.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11720",
+      "category": "Machine Learning",
+      "filterTags": [
+        "ggml",
+        "CUDA",
+        "Vulkan",
+        "WebGPU",
+        "CPU"
+      ],
+      "publishedAt": "2026-10-18T17:40:31+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Hardware Acceleration"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-862dafe801376206e6f37dd27777701111550633-ghf-refresh-reverted-stack-branches-with-the-merge-bot-199717",
+      "title": "trunk/862dafe801376206e6f37dd27777701111550633: [GHF] Refresh reverted stack branches with the merge bot (#199717)",
+      "dek": "Impact:  pytorchmergebot revert flow ( trymerge.py --revert ): after a non-ghstack revert has landed and reopened its PRs, it reads their stack and may push merge commits to their branches. PRs outside a stack, fork PRs and dry runs get no push and no comment \n Risk:  low \n What ",
+      "aiSummary": "This update modifies the PyTorch merge bot's revert flow to refresh reverted stack branches by pushing merge commits to their branches after a non-ghstack revert lands. The change ensures that PRs within a stack are updated, while PRs outside a stack, fork PRs, and dry runs are excluded from receiving pushes or comments.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F862dafe801376206e6f37dd27777701111550633",
+      "category": "Open Source",
+      "filterTags": [
+        "PyTorch",
+        "mergebot",
+        "trymerge.py",
+        "ghstack",
+        "revert"
+      ],
+      "publishedAt": "2026-10-18T17:40:02+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-14c5b96bfa18be17d9845bbb060a095fc762ca8c-ghf-merge-github-native-pr-stacks-with-the-merge-bot-199714",
+      "title": "trunk/14c5b96bfa18be17d9845bbb060a095fc762ca8c: [GHF] Merge GitHub-native PR stacks with the merge bot (#199714)",
+      "dek": "Impact:  pytorchmergebot merge flow ( trymerge.py ) for same-repo PRs based on another PR's branch in a main-based GitHub-native stack, refused today. ghstack PRs, fork PRs and PRs on the default branch are unchanged; other PRs on a non-default base still get a refusal, after one",
+      "aiSummary": "A recent update to the PyTorch merge bot allows it to process GitHub-native pull request stacks where a PR is based on another PR's branch within the same repository. Previously, this specific configuration was refused, but it is now supported while leaving ghstack, fork, and default branch PRs unchanged.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F14c5b96bfa18be17d9845bbb060a095fc762ca8c",
+      "category": "Developer Tools",
+      "filterTags": [
+        "PyTorch",
+        "GitHub",
+        "mergebot",
+        "trymerge.py",
+        "ghstack"
+      ],
+      "publishedAt": "2026-10-18T17:40:02+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Developer Tools"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-17c3e6d45ef7a1473729299be9781f20fbea9f64-ghf-rebase-github-native-pr-stacks-with-the-bot-199716",
+      "title": "trunk/17c3e6d45ef7a1473729299be9781f20fbea9f64: [GHF] Rebase GitHub-native PR stacks with the bot (#199716)",
+      "dek": "Impact:  pytorchbot rebase flow ( tryrebase.py ):  pytorchbot rebase  and  merge -r  on a PR of a main-based GitHub-native stack now merge the target into the stack's branches instead of force-pushing the PR's rebased commits. Forks, and PRs on the default branch that no PR is ba",
+      "aiSummary": "The pytorchbot rebase flow has been updated to handle GitHub-native pull request stacks differently. Instead of force-pushing rebased commits, the bot now merges the target branch into the stack's branches when processing rebase requests.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F17c3e6d45ef7a1473729299be9781f20fbea9f64",
+      "category": "Developer Tools",
+      "filterTags": [
+        "pytorchbot",
+        "GitHub",
+        "pytorch",
+        "tryrebase.py"
+      ],
+      "publishedAt": "2026-10-18T17:39:45+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Developer Tools"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "grab-apple-s-2026-mac-studio-for-2-299-now-200-off",
+      "title": "Grab Apple's 2026 Mac Studio for $2,299, now $200 off",
+      "dek": "The  lowest online Mac Studio price  on the 2026 line is available at Amazon, with a $200 discount on the standard model. Get Apple's Mac Studio desktop for $2,299 at Amazon. Save $200  on Apple's new Mac Studio that's equipped with an M5 Max chip with an 18-core CPU and 32-core ",
+      "aiSummary": "Amazon is offering a $200 discount on the standard model of Apple's 2026 Mac Studio, bringing the price down to $2,299. This configuration features an M5 Max chip with an 18-core CPU and 32-core GPU.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/18/grab-apples-2026-mac-studio-for-2299-now-200-off?utm_source=rss",
+      "category": "Hardware",
+      "filterTags": [
+        "Apple",
+        "Mac Studio",
+        "M5 Max",
+        "Amazon"
+      ],
+      "publishedAt": "2026-10-18T17:13:01+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "disney-agrees-to-hire-the-majority-of-character-ai-s-workforce",
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "dek": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+      "aiSummary": "The filing indicates that most Character.AI employees who received job offers from Disney accepted them. The deal is a stalking-horse bid, meaning another company could still make a higher offer.",
+      "articleUrl": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "category": "M&A",
+      "filterTags": [
+        "Disney",
+        "Character.AI"
+      ],
+      "publishedAt": "2026-10-18T16:30:00+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "M&A"
+        },
+        {
+          "name": "Human Resources"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-gives-outside-ai-watchdog-employee-like-access",
+      "title": "Anthropic gives outside AI watchdog “employee-like” access",
+      "dek": "The outside watchdog can publish its findings without Anthropic's approval.",
+      "aiSummary": "Anthropic has granted an external AI watchdog employee‑like access, enabling it to publish findings independently of Anthropic's approval. This move gives the watchdog more autonomy in reporting on Anthropic's AI practices.",
+      "articleUrl": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Anthropic",
+        "AI watchdog"
+      ],
+      "publishedAt": "2026-10-18T16:25:19+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Governance"
+        }
+      ]
+    },
+    {
+      "slug": "retail-reset-set-for-november-6-as-oled-macbook-pro-looms",
+      "title": "Retail reset set for November 6 as OLED MacBook Pro looms",
+      "dek": "A refresh of Apple Stores taking place on November 6 strongly hints that Apple's OLED iPad mini and touch-enabled  MacBook Pro  will be available to consumers on or around that date. A current non-OLED MacBook Pro display Back in August , there were rumors of a refresh of Apple S",
+      "aiSummary": "Apple is conducting a retail reset on November 6, which signals that the OLED iPad mini and a touch‑enabled MacBook Pro may launch around that time. Earlier rumors in August suggested a refresh of Apple’s silicon lineup.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/18/retail-reset-set-for-november-6-as-oled-macbook-pro-looms?utm_source=rss",
+      "category": "Hardware",
+      "filterTags": [
+        "Apple",
+        "OLED",
+        "iPad mini",
+        "MacBook Pro",
+        "Apple Silicon"
+      ],
+      "publishedAt": "2026-10-18T15:12:52+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Retail"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "inside-andreessen-s-growing-political-influence",
+      "title": "Inside Andreessen’s Growing Political Influence",
+      "dek": "Bloomberg Businessweek features writer Austin Carr tells Bloomberg This Weekend how Andreessen Horowitz co-founder Marc Andreessen became an increasingly influential Republican donor and adviser after years of shifting political allegiances, with disputes over AI, crypto and othe",
+      "aiSummary": "Bloomberg Businessweek writer Austin Carr details how Andreessen Horowitz co-founder Marc Andreessen has evolved into a significant Republican donor and adviser. This shift follows years of changing political views and involves ongoing debates regarding AI, crypto, and other issues.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-18/inside-andreessen-s-growing-political-influence-video",
+      "category": "Politics",
+      "filterTags": [
+        "Marc Andreessen",
+        "Andreessen Horowitz",
+        "Bloomberg Businessweek",
+        "Austin Carr",
+        "AI",
+        "Crypto"
+      ],
+      "publishedAt": "2026-10-18T15:04:47+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Venture Capital"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    }
+  ]
+}
