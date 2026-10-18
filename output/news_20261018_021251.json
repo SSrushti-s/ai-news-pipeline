@@ -1,0 +1,672 @@
+{
+  "news": [
+    {
+      "slug": "ciflow-torchtitan-201289-update-update",
+      "title": "ciflow/torchtitan/201289: [UPDATE] Update",
+      "dek": "[ghstack-poisoned]",
+      "aiSummary": "The provided text indicates a pull request identified as ciflow/torchtitan/201289 with the title '[UPDATE] Update'. The description notes that the pull request is '[ghstack-poisoned]', suggesting a state related to the ghstack tooling, but no further technical details or changes are described.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Ftorchtitan%2F201289",
+      "category": "Machine Learning",
+      "filterTags": [
+        "torchtitan",
+        "ghstack"
+      ],
+      "publishedAt": "2026-10-18T01:47:50+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "ciflow-xpu-201255-update",
+      "title": "ciflow/xpu/201255: Update",
+      "dek": "[ghstack-poisoned]",
+      "aiSummary": "The provided text indicates an update to the ciflow/xpu/201255 component. The description notes that the content is ghstack-poisoned, suggesting a specific state or error in the version control system.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fxpu%2F201255",
+      "category": "DevOps",
+      "filterTags": [
+        "ciflow",
+        "xpu",
+        "ghstack"
+      ],
+      "publishedAt": "2026-10-18T01:46:27+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "ciflow-trunk-201255-update",
+      "title": "ciflow/trunk/201255: Update",
+      "dek": "[ghstack-poisoned]",
+      "aiSummary": "The provided text indicates a specific update to the ciflow/trunk/201255 branch. The description notes that the content is ghstack-poisoned, suggesting a technical issue with the data or stack trace.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Ftrunk%2F201255",
+      "category": "Software Engineering",
+      "filterTags": [
+        "ciflow",
+        "ghstack"
+      ],
+      "publishedAt": "2026-10-18T01:46:27+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "DevOps"
+        }
+      ]
+    },
+    {
+      "slug": "what-will-ai-do-to-our-jobs-and-our-wages-video",
+      "title": "What will AI do to our jobs and our wages? [video]",
+      "dek": "How might artificial intelligence impact employment and pay?",
+      "aiSummary": "The provided text does not contain an article body, only a title indicating a video discussion. The content is expected to address the potential effects of artificial intelligence on job availability and wage levels.",
+      "articleUrl": "https://www.youtube.com/watch?v=kAkpzlR7io8",
+      "category": "AI",
+      "filterTags": [
+        "AI"
+      ],
+      "publishedAt": "2026-10-18T01:30:17+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Economy"
+        }
+      ]
+    },
+    {
+      "slug": "v3-35-1",
+      "title": "v3.35.1",
+      "dek": "3.35.1  (2026-10-18) \n Bug Fixes \n \n preserve beta Realtime byte reads on websockets 13 ( #4102 ) ( 5766349 )",
+      "aiSummary": "Version 3.35.1 was released on October 18, 2026. This update includes a bug fix that preserves beta Realtime byte reads on websockets 13.",
+      "articleUrl": "https://github.com/openai/openai-python/releases/tag/v3.35.1",
+      "category": "Software Development",
+      "filterTags": [
+        "websockets",
+        "Realtime",
+        "v3.35.1"
+      ],
+      "publishedAt": "2026-10-18T01:05:46+00:00",
+      "publisher": {
+        "name": "openai",
+        "domain": "github.com",
+        "website": "https://github.com/openai/openai-python",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Networking"
+        }
+      ]
+    },
+    {
+      "slug": "what-500-minimax-code-tests-revealed-about-ai-saying-done",
+      "title": "What 500 MiniMax Code Tests Revealed About AI Saying \"Done\"",
+      "dek": "Findings from 500 tests on MiniMax code regarding AI completion claims",
+      "aiSummary": "The article discusses insights gained from conducting 500 tests on MiniMax code. It focuses on the reliability of AI systems when they indicate that a task is finished.",
+      "articleUrl": "https://defuzex.ai/blog/what-500-minimax-code-tests-revealed-about-ai-saying-done",
+      "category": "AI",
+      "filterTags": [
+        "MiniMax",
+        "AI",
+        "Code Testing"
+      ],
+      "publishedAt": "2026-10-18T00:59:44+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "drunken-goddess-reflux-public-demo-canceled-over-ai-imitation-concerns",
+      "title": "Drunken Goddess Reflux Public Demo Canceled over AI Imitation Concerns",
+      "dek": "The public demo for Drunken Goddess Reflux has been called off due to worries about AI imitation.",
+      "aiSummary": "The public demo for the game Drunken Goddess Reflux has been canceled. This decision was made due to concerns regarding AI imitation.",
+      "articleUrl": "https://noisypixel.net/drunken-goddess-reflux-public-demo-canceled-ai-imitation-concerns/",
+      "category": "Gaming",
+      "filterTags": [
+        "Drunken Goddess Reflux",
+        "AI"
+      ],
+      "publishedAt": "2026-10-18T00:50:48+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "v1-13-0-dev46",
+      "title": "v1.13.0.dev46",
+      "dek": "Langflow nightly v1.13.0.dev46",
+      "aiSummary": "Langflow has released version 1.13.0.dev46. This update is part of the project's nightly development cycle.",
+      "articleUrl": "https://github.com/langflow-ai/langflow/releases/tag/v1.13.0.dev46",
+      "category": "AI",
+      "filterTags": [
+        "Langflow"
+      ],
+      "publishedAt": "2026-10-18T00:39:37+00:00",
+      "publisher": {
+        "name": "langflow-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langflow-ai/langflow",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "v0-40-7",
+      "title": "v0.40.7",
+      "dek": "What's Changed \n \n openai: allow Responses effort on non-thinking models by  @hoyyeva  in  #19010 \n llama-server: let llama-server infer the draft speculative type by  @dhiltgen  in  #19064 \n mlx: add PPLX Decider v1.2 support by  @dhiltgen  in  #19072 \n \n Full Changelog :  v0.40",
+      "aiSummary": "The v0.40.7 update adds several improvements: openai now supports a Responses effort on non-thinking models, llama-server can infer draft speculative types, and mlx gains support for PPLX Decider v1.2. The full changelog is available under v0.40.",
+      "articleUrl": "https://github.com/ollama/ollama/releases/tag/v0.40.7-rc0",
+      "category": "AI",
+      "filterTags": [
+        "openai",
+        "llama-server",
+        "mlx",
+        "PPLX Decider"
+      ],
+      "publishedAt": "2026-10-18T00:28:57+00:00",
+      "publisher": {
+        "name": "ollama",
+        "domain": "github.com",
+        "website": "https://github.com/ollama/ollama",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "ai-trade-reversal-pierces-asia-s-star-picks-and-shovels-stocks",
+      "title": "AI Trade Reversal Pierces Asia’s Star Picks-and-Shovels Stocks",
+      "dek": "A deepening selloff in US technology stocks is exposing a new vulnerability in Asia’s artificial intelligence trade: mounting financing costs could choke off the spending needed to sustain the boom, threatening earnings across a supply chain that has powered the region’s stock-ma",
+      "aiSummary": "A selloff in US technology stocks is revealing a vulnerability in Asia's AI trade, where rising financing costs may limit the spending required to sustain the boom. This financial pressure threatens earnings across the supply chain that has driven the region's stock market performance.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-18/ai-trade-reversal-pierces-asia-s-star-picks-and-shovels-stocks",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Asia",
+        "US technology stocks",
+        "supply chain"
+      ],
+      "publishedAt": "2026-10-18T00:00:00+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Markets"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "v3-35-0",
+      "title": "v3.35.0",
+      "dek": "3.35.0  (2026-10-17) \n Features \n \n api:  add typed Live sideband events ( #4099 ) ( 8d5cbf0 ) \n api:  add ultrafast service tier for Agents ( #4101 ) ( 100bf8f ) \n \n Bug Fixes \n \n realtime:  preserve byte receives with websockets 13 ( #4098 ) ( 309916e )",
+      "aiSummary": "The 3.35.0 release introduces typed Live sideband events and an ultrafast service tier for Agents. It also includes a bug fix that preserves byte receives with websockets 13.",
+      "articleUrl": "https://github.com/openai/openai-python/releases/tag/v3.35.0",
+      "category": "Software Development",
+      "filterTags": [
+        "websockets",
+        "Agents",
+        "Live sideband events"
+      ],
+      "publishedAt": "2026-10-17T23:13:52+00:00",
+      "publisher": {
+        "name": "openai",
+        "domain": "github.com",
+        "website": "https://github.com/openai/openai-python",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "API"
+        }
+      ]
+    },
+    {
+      "slug": "meta-removes-language-that-raised-scraping-and-ai-training-concerns",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "dek": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "aiSummary": "Meta has removed language from its terms that previously raised concerns regarding web scraping and AI training. A spokesperson for the company stated that this update does not indicate any change in how Meta crawls the web.",
+      "articleUrl": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "category": "AI",
+      "filterTags": [
+        "Meta",
+        "AI",
+        "Web Scraping"
+      ],
+      "publishedAt": "2026-10-17T21:31:32+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Legal & Compliance"
+        }
+      ]
+    },
+    {
+      "slug": "b11716",
+      "title": "b11716",
+      "dek": "hexagon: add support for Q1_0 and Q2_0 ( #30122 ) \n \n \n hexagon: add support for q1_0 quant \n \n \n hexagon: enable Q1_0 weights in the 2D HMX MUL_MAT path \n \n \n hex-q1: cleanup gates, generalize tiling and remove in-loop divs \n \n \n hex-tiling: document tiled formats in developer.m",
+      "aiSummary": "The update introduces support for Q1_0 and Q2_0 quantization formats in the Hexagon backend. It enables Q1_0 weights in the 2D HMX MUL_MAT path and includes cleanup of gates, generalization of tiling, and removal of in-loop divisions.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11716",
+      "category": "Hardware",
+      "filterTags": [
+        "Hexagon",
+        "Q1_0",
+        "Q2_0",
+        "HMX",
+        "MUL_MAT"
+      ],
+      "publishedAt": "2026-10-17T21:15:22+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "inline-rendering-with-document-currentscript",
+      "title": "Inline rendering with document​.currentScript",
+      "dek": "Inline rendering with document​.currentScript \nLean Rada describes a neat trick that takes advantage of the  document.currentScript  property. You can use that to drop in a tiny inline  <script>  element that replaces itself when the page loads: \n The year is <script>\ndocument.cu",
+      "aiSummary": "Lean Rada describes a technique that utilizes the document.currentScript property to allow inline script elements to replace themselves upon page load. This approach enables the direct insertion of dynamic content, such as the current year, directly within the HTML markup.",
+      "articleUrl": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
+      "category": "Web Development",
+      "filterTags": [
+        "document.currentScript",
+        "JavaScript",
+        "HTML",
+        "Lean Rada"
+      ],
+      "publishedAt": "2026-10-17T21:11:12+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Web Development"
+        },
+        {
+          "name": "Frontend Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "rtx-spark-ignites-global-celebration-as-new-windows-pcs-arrive",
+      "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+      "dek": "NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs.  Starting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, con",
+      "aiSummary": "NVIDIA's RTX Spark laptops are now available, featuring Blackwell RTX graphics, up to 128 GB of unified memory, and the full NVIDIA AI platform on slim, premium Windows PCs. They start at $2,399 and are offered by ASUS, Dell, HP, Lenovo, Microsoft, and MSI, providing powerful local AI capabilities.",
+      "articleUrl": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+      "category": "Hardware",
+      "filterTags": [
+        "NVIDIA",
+        "RTX Spark",
+        "Blackwell RTX",
+        "NVIDIA AI platform",
+        "ASUS",
+        "Dell",
+        "HP",
+        "Lenovo",
+        "Microsoft",
+        "MSI",
+        "Windows PCs"
+      ],
+      "publishedAt": "2026-10-17T21:00:13+00:00",
+      "publisher": {
+        "name": "NVIDIA",
+        "domain": "nvidia.com",
+        "website": "https://blogs.nvidia.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "v3-34-0",
+      "title": "v3.34.0",
+      "dek": "3.34.0  (2026-10-17) \n Features \n \n api:  add degraded external storage status ( #4097 ) ( b216cb2 ) \n api:  add Realtime Translation WebSocket sessions ( #4095 ) ( bfada50 )",
+      "aiSummary": "The 3.34.0 release adds new API features, including a degraded external storage status and support for Realtime Translation WebSocket sessions. These updates enhance the system’s monitoring and real‑time translation capabilities.",
+      "articleUrl": "https://github.com/openai/openai-python/releases/tag/v3.34.0",
+      "category": "Software Development",
+      "filterTags": [
+        "API",
+        "WebSocket",
+        "Realtime Translation",
+        "External Storage"
+      ],
+      "publishedAt": "2026-10-17T20:34:04+00:00",
+      "publisher": {
+        "name": "openai",
+        "domain": "github.com",
+        "website": "https://github.com/openai/openai-python",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Web Development"
+        },
+        {
+          "name": "Real-time Communication"
+        }
+      ]
+    },
+    {
+      "slug": "no-further-action-against-government-adviser-s-wife-over-palestine-action-post-police-say",
+      "title": "No further action against government adviser's wife over Palestine Action post, police say",
+      "dek": "Sarah Helm, who is married to Jonathan Powell, was responding to a discussion about the author Sally Rooney.",
+      "aiSummary": "Sarah Helm, married to Jonathan Powell, responded to a discussion about author Sally Rooney. The conversation was about the author’s work.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/cv8ez40yz950o?at_medium=RSS&at_campaign=rss",
+      "category": "Politics",
+      "filterTags": [
+        "Sarah Helm",
+        "Jonathan Powell",
+        "Sally Rooney"
+      ],
+      "publishedAt": "2026-10-17T20:24:32+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Social Media"
+        },
+        {
+          "name": "Public Affairs"
+        }
+      ]
+    },
+    {
+      "slug": "meet-kyutai-reki-the-2-4b-vla-model-bringing-efficient-memory-to-robot-manipulation",
+      "title": "Meet Kyutai REKI: The 2.4B VLA Model Bringing Efficient Memory to Robot Manipulation",
+      "dek": "Kyutai, with Inria and École des Ponts, has released REKI, a 2.4B vision-language-action model (VLA) for robot manipulation. The REKI vision-language-action model is pretrained only on public data. It also carries a cheap memory of its recent past. On three out-of-distribution be",
+      "aiSummary": "Kyutai, in collaboration with Inria and École des Ponts, has released REKI, a 2.4B vision-language-action model for robot manipulation. The model is pretrained exclusively on public data and features a low-cost memory mechanism for tracking recent history.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/17/meet-kyutai-reki-the-2-4b-vla-model-bringing-efficient-memory-to-robot-manipulation/",
+      "category": "AI",
+      "filterTags": [
+        "Kyutai",
+        "REKI",
+        "VLA",
+        "Inria",
+        "École des Ponts",
+        "Robot Manipulation"
+      ],
+      "publishedAt": "2026-10-17T20:22:11+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Robotics"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "dek": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "aiSummary": "Anthropic has noted changes in its workforce composition and work patterns over the last year. The company reports that its employees are less junior and that meeting time has increased.",
+      "articleUrl": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic"
+      ],
+      "publishedAt": "2026-10-17T20:21:19+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Human Resources"
+        }
+      ]
+    },
+    {
+      "slug": "apple-s-m5-pro-macbook-pro-is-back-on-sale-for-2-069-this-weekend",
+      "title": "Apple's M5 Pro MacBook Pro is back on sale for $2,069 this weekend",
+      "dek": "Weekend deals are in effect at Amazon, with Apple's  M5 Pro MacBook Pro  dropping to $2,069 after a $430 discount. You can also save up to $800 on M5 Max configurations. Save $430 on Apple's M5 Pro MacBook Pro this weekend - Image credit: Apple After selling out earlier this week",
+      "aiSummary": "Amazon is offering a $430 discount on Apple's M5 Pro MacBook Pro, bringing the price to $2,069 for the weekend. The deal also includes savings of up to $800 on M5 Max configurations.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/17/apples-m5-pro-macbook-pro-is-back-on-sale-for-2069-this-weekend?utm_source=rss",
+      "category": "Hardware",
+      "filterTags": [
+        "Apple",
+        "Amazon",
+        "M5 Pro",
+        "M5 Max",
+        "MacBook Pro"
+      ],
+      "publishedAt": "2026-10-17T19:54:03+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Retail"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    }
+  ]
+}
