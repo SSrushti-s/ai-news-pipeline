@@ -1,0 +1,790 @@
+{
+  "news": [
+    {
+      "slug": "china-s-economic-growth-picks-up-as-ai-boom-boosts-exports",
+      "title": "China's economic growth picks up as AI boom boosts exports",
+      "dek": "Exports have helped offset weak domestic spending, but trade tensions and AI doubts weigh on the outlook.",
+      "aiSummary": "China's economic growth has accelerated as the AI boom drives export increases, which have helped counterbalance weak domestic spending. However, the future outlook remains uncertain due to ongoing trade tensions and doubts regarding the sustainability of the AI sector.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
+      "category": "Economy",
+      "filterTags": [
+        "China",
+        "AI",
+        "Exports",
+        "Economy"
+      ],
+      "publishedAt": "2026-10-19T02:22:42+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Economy"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Trade"
+        }
+      ]
+    },
+    {
+      "slug": "botline-a-mailbox-for-ai-agents-from-different-vendors",
+      "title": "Botline, a mailbox for AI agents from different vendors",
+      "dek": "Botline is a shared inbox system for AI agents from various providers.",
+      "aiSummary": "Botline functions as a mailbox specifically designed for AI agents. It allows agents from different vendors to communicate and exchange information through a centralized interface.",
+      "articleUrl": "https://github.com/sabotage-dev/botline",
+      "category": "AI",
+      "filterTags": [
+        "Botline",
+        "AI agents"
+      ],
+      "publishedAt": "2026-10-19T02:09:57+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "b11723",
+      "title": "b11723",
+      "dek": "hexagon: FLASH_ATTN_EXT improvements for longer context and SWA models ( #30731 ) \n \n \n hex-fa: support for masked block skipping to reduce DMA fetching \n \n \n hex-fa: finetuning the hmx->hvx crossover thresholds (boosting gemma-4) \n \n \n hex-fa: update hmx gate to account for mdev",
+      "aiSummary": "The update introduces several enhancements to the hexagon platform. It expands FLASH_ATTN_EXT to support longer contexts and SWA models, adds masked block skipping to cut DMA fetches, fine‑tunes the hmx‑to‑hvx crossover thresholds to boost gemma‑4 performance, and revises the hmx gate to consider mdev. These changes aim to improve efficiency and performance across the system.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11723",
+      "category": "Hardware",
+      "filterTags": [
+        "hexagon",
+        "FLASH_ATTN_EXT",
+        "SWA",
+        "hex-fa",
+        "DMA",
+        "hmx",
+        "hvx",
+        "gemma-4",
+        "mdev"
+      ],
+      "publishedAt": "2026-10-19T02:09:04+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Software Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "ciflow-trunk-200603-update-update",
+      "title": "ciflow/trunk/200603: [UPDATE] Update",
+      "dek": "[ghstack-poisoned]",
+      "aiSummary": "The provided text indicates a specific update commit or push to the ciflow/trunk/200603 branch. The description notes that the content is ghstack-poisoned, which typically refers to a state in GitHub's stack-based code review workflow.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Ftrunk%2F200603",
+      "category": "DevOps",
+      "filterTags": [
+        "ciflow",
+        "ghstack",
+        "GitHub"
+      ],
+      "publishedAt": "2026-10-19T01:59:02+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "ciflow-trunk-200602-update-update",
+      "title": "ciflow/trunk/200602: [UPDATE] Update",
+      "dek": "[ghstack-poisoned]",
+      "aiSummary": "The commit ciflow/trunk/200602 is flagged as ghstack-poisoned. This tag suggests the change may have been impacted by the ghstack tool. No further details are provided.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Ftrunk%2F200602",
+      "category": "Software Development",
+      "filterTags": [
+        "ghstack",
+        "ciflow"
+      ],
+      "publishedAt": "2026-10-19T01:59:02+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Version Control"
+        }
+      ]
+    },
+    {
+      "slug": "ciflow-trunk-200601-update-update",
+      "title": "ciflow/trunk/200601: [UPDATE] Update",
+      "dek": "[ghstack-poisoned]",
+      "aiSummary": "The provided text indicates an update was made to the ciflow/trunk/200601 branch. The description notes that the content is ghstack-poisoned, suggesting a specific state or error in the version control system.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Ftrunk%2F200601",
+      "category": "DevOps",
+      "filterTags": [
+        "ciflow",
+        "ghstack"
+      ],
+      "publishedAt": "2026-10-19T01:59:02+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Version Control"
+        }
+      ]
+    },
+    {
+      "slug": "china-s-cxmt-sees-shares-drop-over-6-as-investors-look-past-chipmaker-s-profit-turnaround",
+      "title": "China's CXMT sees shares drop over 6% as investors look past chipmaker's profit turnaround",
+      "dek": "CXMT shares fell over 6% on Monday after the company released its earnings forecast for the first nine months of 2026.",
+      "aiSummary": "CXMT shares declined by over 6% on Monday following the release of its earnings forecast for the first nine months of 2026. Investors appeared to overlook the company's profit turnaround, leading to the significant drop in stock value.",
+      "articleUrl": "https://www.cnbc.com/2026/10/19/china-cxmt-profit-outlook-shares.html",
+      "category": "Semiconductors",
+      "filterTags": [
+        "CXMT",
+        "China",
+        "Semiconductors"
+      ],
+      "publishedAt": "2026-10-19T01:56:34+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Markets"
+        }
+      ]
+    },
+    {
+      "slug": "architecting-for-hw-diversity-meta-s-e2e-co-design-for-ai-training-on-amd-gpus",
+      "title": "Architecting for HW Diversity: Meta's E2E Co-Design for AI Training on AMD GPUs",
+      "dek": "Meta designs end-to-end AI training systems specifically for AMD hardware.",
+      "aiSummary": "Meta is developing an end-to-end co-design approach to optimize AI training workloads on AMD GPUs. This strategy focuses on architecting solutions that accommodate hardware diversity to improve performance and efficiency.",
+      "articleUrl": "https://arxiv.org/abs/2610.22230",
+      "category": "AI",
+      "filterTags": [
+        "Meta",
+        "AMD",
+        "GPUs",
+        "AI Training",
+        "Co-Design"
+      ],
+      "publishedAt": "2026-10-19T01:55:50+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Cloud Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "cornell-university-s-basu-on-us-china-ai-race",
+      "title": "Cornell University’s Basu on US-China AI Race",
+      "dek": "Kaushik Basu, Professor at Cornell University and former Chief Economist at the World Bank, discusses the AI race between the US and China, and impact on the global economy. He speaks with Stephen Engle from the sidelines of the Bund Summit in Shanghai. (Source: Bloomberg)",
+      "aiSummary": "Kaushik Basu, a Cornell University professor and former World Bank Chief Economist, discusses the implications of the US-China AI race on the global economy. He shares these insights during an interview with Stephen Engle at the Bund Summit in Shanghai.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-19/cornell-university-s-basu-on-us-china-ai-race-video",
+      "category": "AI",
+      "filterTags": [
+        "Cornell University",
+        "World Bank",
+        "Bloomberg",
+        "Bund Summit"
+      ],
+      "publishedAt": "2026-10-19T01:54:34+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Geopolitics"
+        },
+        {
+          "name": "Economics"
+        }
+      ]
+    },
+    {
+      "slug": "ai-selloff-nears-turning-point-as-mag-7-earnings-loom",
+      "title": "AI Selloff Nears Turning Point as Mag 7 Earnings Loom",
+      "dek": "The AI trade is in focus as Big Tech earnings are set to test investor sentiment on hyperscaler spending. Bloomberg's Sunny Bangia and Anthony Stephens as well as UBS Financial Adviser and Managing Director Xi Qiao discuss. (Source: Bloomberg)",
+      "aiSummary": "The AI sector is approaching a potential turning point as upcoming earnings reports from the Magnificent 7 companies will test investor confidence regarding hyperscaler spending. Bloomberg analysts Sunny Bangia and Anthony Stephens, along with UBS Financial Adviser Xi Qiao, discuss the implications of these results on market sentiment.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-19/ai-selloff-nears-turning-point-as-mag-7-earnings-loom-video",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Magnificent 7",
+        "Hyperscalers",
+        "Bloomberg",
+        "UBS"
+      ],
+      "publishedAt": "2026-10-19T01:54:26+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Markets"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "b11722",
+      "title": "b11722",
+      "dek": "hexagon: allow multistream FA ( #30218 ) \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/57232684 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silicon (arm64, KleidiAI enabled)  DISABLED \n macOS Intel (x6",
+      "aiSummary": "This release of llama.cpp introduces support for multistream Flash Attention in the Hexagon backend via pull request #30218. The build is available for macOS and iOS platforms, with specific configurations for Apple Silicon and Intel architectures.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11722",
+      "category": "AI",
+      "filterTags": [
+        "llama.cpp",
+        "Hexagon",
+        "Flash Attention",
+        "ggml",
+        "KleidiAI"
+      ],
+      "publishedAt": "2026-10-19T01:54:23+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "ai-agents-trading-stocks-while-you-sleep-charles-schwab-s-ceo-is-skeptical",
+      "title": "AI Agents Trading Stocks While You Sleep? Charles Schwab's CEO Is Skeptical",
+      "dek": "The head of Charles Schwab doubts that AI bots will trade stocks automatically overnight.",
+      "aiSummary": "The provided text contains only the headline and does not include the article body. Therefore, no factual summary can be generated based on the available content.",
+      "articleUrl": "https://www.wsj.com/tech/ai/ai-agents-trading-stocks-while-you-sleep-charles-schwabs-ceo-is-skeptical-3ff1b5c3",
+      "category": "Finance",
+      "filterTags": [
+        "Charles Schwab",
+        "AI Agents",
+        "Stock Trading"
+      ],
+      "publishedAt": "2026-10-19T01:37:48+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "v0-42-1",
+      "title": "v0.42.1",
+      "dek": "Fix some crashing issues a few users experienced when running the MOSS image template workflow.",
+      "aiSummary": "The release v0.42.1 addresses specific crashing issues that affected a small number of users. These fixes target the workflow associated with the MOSS image template.",
+      "articleUrl": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.42.1",
+      "category": "Software Development",
+      "filterTags": [
+        "MOSS",
+        "v0.42.1"
+      ],
+      "publishedAt": "2026-10-19T01:33:54+00:00",
+      "publisher": {
+        "name": "comfyanonymous",
+        "domain": "github.com",
+        "website": "https://github.com/comfyanonymous/ComfyUI",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Bug Fixes"
+        }
+      ]
+    },
+    {
+      "slug": "kylie-minogue-songs-already-used-to-train-ai-as-tech-firms-strong-arm-australian-government-music-body-warns",
+      "title": "Kylie Minogue songs already used to train AI as tech firms ‘strong-arm’ Australian government, music body warns",
+      "dek": "Of the dozens of countries approached to water down their laws, Australia appears to be the only one considering it, publishers’ group says Get our  new political email ,  free app  or  daily news podcast AI has already been trained on the works of Australian artists including Ky",
+      "aiSummary": "A publishers' group warns that AI models have already been trained on the works of Australian artists, including Kylie Minogue. The group states that while dozens of countries were approached to dilute their copyright regulations, Australia is currently the only one considering such changes under pressure from tech firms.",
+      "articleUrl": "https://www.theguardian.com/music/2026/oct/19/australia-music-global-copywright-outlier-ai-music-body-warnsns",
+      "category": "AI",
+      "filterTags": [
+        "Kylie Minogue",
+        "AI",
+        "Copyright",
+        "Australian Government"
+      ],
+      "publishedAt": "2026-10-19T00:57:46+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Entertainment"
+        }
+      ]
+    },
+    {
+      "slug": "ai-will-empower-india-s-space-missions-says-minister",
+      "title": "AI Will Empower India's Space Missions, Says Minister",
+      "dek": "Jitendra Singh, the Indian science & technology minister says that artificial intelligence is a great advantage in empowering India's space missions. Speaking to Bloomberg's Shery Ahn, he says human-led intelligence will need to use AI optimally to charge nuclear and space progra",
+      "aiSummary": "Jitendra Singh, India's science and technology minister, said artificial intelligence is a major advantage for India's space missions. He told Bloomberg that human‑led intelligence must use AI optimally to advance nuclear and space programs. The minister emphasized AI's role in empowering these initiatives.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-19/ai-will-empower-india-s-space-missions-says-minister-video",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Bloomberg",
+        "Jitendra Singh"
+      ],
+      "publishedAt": "2026-10-19T00:49:26+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Space"
+        },
+        {
+          "name": "Government"
+        }
+      ]
+    },
+    {
+      "slug": "v1-13-0-dev47",
+      "title": "v1.13.0.dev47",
+      "dek": "Langflow nightly v1.13.0.dev47",
+      "aiSummary": "Langflow has released a nightly development build identified as v1.13.0.dev47. This update represents the current state of the software's ongoing development cycle.",
+      "articleUrl": "https://github.com/langflow-ai/langflow/releases/tag/v1.13.0.dev47",
+      "category": "Open Source",
+      "filterTags": [
+        "Langflow"
+      ],
+      "publishedAt": "2026-10-19T00:39:14+00:00",
+      "publisher": {
+        "name": "langflow-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langflow-ai/langflow",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "llm-tools-datasette-0-1-1",
+      "title": "llm-tools-datasette 0.1.1",
+      "dek": "Release:   llm-tools-datasette 0.1.1 \n When I switched LLM over to  httpx2  in  LLM 0.33  I forget that this would break any plugins which used  httpx  without directly depending on it.  llm-tools-datasette  was one of those plugins, now fixed. \n Tags:  datasette ,  llm",
+      "aiSummary": "The llm-tools-datasette plugin has been updated to version 0.1.1. The update fixes a compatibility issue caused by switching the LLM library to httpx2, which broke plugins that relied on httpx. The new release restores functionality for llm-tools-datasette.",
+      "articleUrl": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+      "category": "Open Source",
+      "filterTags": [
+        "datasette",
+        "llm",
+        "httpx"
+      ],
+      "publishedAt": "2026-10-18T23:43:09+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Python Libraries"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "don-t-fall-for-this-how-to-protect-yourself-from-ai-scams",
+      "title": "Don't fall for this - how to protect yourself from AI scams",
+      "dek": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
+      "aiSummary": "Trading standards officers warn that AI is amplifying existing scams by creating clones and fake websites. They advise consumers to be cautious and verify authenticity.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
+      "category": "Security",
+      "filterTags": [
+        "AI",
+        "Trading Standards"
+      ],
+      "publishedAt": "2026-10-18T23:24:59+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Consumer Protection"
+        }
+      ]
+    },
+    {
+      "slug": "llm-echo-0-5",
+      "title": "llm-echo 0.5",
+      "dek": "Release:   llm-echo 0.5 \n I'm working towards a new  LLM  release, and testing PRs caused me to revisit the  llm-echo  debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the prompts that have been fed to it. The new release now",
+      "aiSummary": "The author released llm-echo version 0.5, a debug plugin that simply echoes back input prompts. The update followed a revisit of the plugin during testing of pull requests for a new LLM release.",
+      "articleUrl": "https://simonwillison.net/2026/Oct/18/llm-echo/",
+      "category": "AI",
+      "filterTags": [
+        "llm-echo",
+        "debug plugin",
+        "LLM"
+      ],
+      "publishedAt": "2026-10-18T23:16:16+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "v0-42-0",
+      "title": "v0.42.0",
+      "dek": "What's Changed \n \n [Partner Nodes] feat(Krea): add Krea 3 Image node by  @bigcat88  in  #17067 \n Update workflow templates to v0.11.85 by  @comfyui-wiki  in  #17068 \n Use FLUX 3 Image in node display labels by  @MaanavD  in  #17075 \n Better documentation about the comfy quant for",
+      "aiSummary": "Version 0.42.0 adds a new Krea 3 Image node, updates workflow templates to v0.11.85, and changes node display labels to use FLUX 3 Image. Documentation for comfy quant has also been improved.",
+      "articleUrl": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.42.0",
+      "category": "AI",
+      "filterTags": [
+        "Krea",
+        "FLUX 3 Image",
+        "comfy quant",
+        "ComfyUI"
+      ],
+      "publishedAt": "2026-10-18T22:10:38+00:00",
+      "publisher": {
+        "name": "comfyanonymous",
+        "domain": "github.com",
+        "website": "https://github.com/comfyanonymous/ComfyUI",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-says-it-s-committing-5-of-its-shares-to-a-public-benefit-fund",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "dek": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "aiSummary": "Anthropic has announced that it will allocate 5% of its shares to a public benefit fund. This commitment is part of the company's broader strategy to align its operations with public interest goals.",
+      "articleUrl": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "category": "Corporate Governance",
+      "filterTags": [
+        "Anthropic",
+        "Public Benefit Fund",
+        "Equity"
+      ],
+      "publishedAt": "2026-10-18T20:37:40+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Corporate Governance"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "sunday-reboot-homeview-is-an-interesting-smart-home-experiment",
+      "title": "Sunday Reboot: HomeView is an interesting smart home experiment",
+      "dek": "In this week's Sunday Reboot, Apple's  HomeView  is an interesting smart home launch, but it will probably play better in some countries than others. The HomeView looks nice, but probably wouldn't work with my household.  Sunday Reboot is a weekly column covering some of the ligh",
+      "aiSummary": "Apple's new HomeView feature is described as an interesting smart home launch that looks visually appealing. However, the author notes that its utility may vary by country and suggests it might not be compatible with their specific household setup.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/18/sunday-reboot-homeview-is-an-interesting-smart-home-experiment?utm_source=rss",
+      "category": "Consumer Tech",
+      "filterTags": [
+        "Apple",
+        "HomeView",
+        "Smart Home"
+      ],
+      "publishedAt": "2026-10-18T20:04:00+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Tech"
+        },
+        {
+          "name": "Smart Home"
+        }
+      ]
+    },
+    {
+      "slug": "tinyfish-makes-search-free-what-it-really-costs-an-ai-agent-to-read-the-web",
+      "title": "TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web",
+      "dek": "An AI agent that reads the web pays 2 kinds of cost. The first is the retrieval charge: what a search or fetch API bills per request. The second is model processing: content passed from retrieved pages into an AI model consumes tokens, while reasoning and generated responses add ",
+      "aiSummary": "AI agents that browse the web incur two types of costs: a retrieval charge for each search or fetch API request, and a model processing cost based on the tokens used to process retrieved content and generate responses. These token costs arise from both reasoning and output generation.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "TinyFish",
+        "search API",
+        "fetch API",
+        "AI agent",
+        "token cost"
+      ],
+      "publishedAt": "2026-10-18T18:20:28+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "API Services"
+        },
+        {
+          "name": "Cost Management"
+        }
+      ]
+    }
+  ]
+}
