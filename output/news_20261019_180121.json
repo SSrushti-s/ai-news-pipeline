@@ -1,0 +1,1753 @@
+{
+  "news": [
+    {
+      "slug": "b11739",
+      "title": "b11739",
+      "dek": "jinja : implement  unique  filter ( #30819 ) \n \n \n jinja : implement  unique  filter \n \n \n cont : inline key_of \n \n \n cont : fix alignment \n \n \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/57486845 \n \n macOS/iOS: \n \n m",
+      "aiSummary": "The Jinja template engine has implemented a new unique filter as part of pull request #30819. The update also includes changes to inline the key_of function and fix alignment issues.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11739",
+      "category": "Open Source",
+      "filterTags": [
+        "Jinja",
+        "llama.cpp",
+        "ggml-org"
+      ],
+      "publishedAt": "2026-10-19T17:58:11+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Development Tools"
+        }
+      ]
+    },
+    {
+      "slug": "ai-agents-are-only-as-good-as-the-personal-information-you-share",
+      "title": "AI agents are only as good as the personal information you share",
+      "dek": "The effectiveness of AI agents depends on the personal data you provide.",
+      "aiSummary": "The article title suggests that the performance and utility of AI agents are directly tied to the amount and quality of personal information users are willing to share. It implies a trade-off between privacy and the capability of these systems to function effectively.",
+      "articleUrl": "https://apnews.com/article/meta-muse-openai-dot-ai-privacy-449734d41d3750aad7038b761faa49c9",
+      "category": "AI",
+      "filterTags": [
+        "AI agents",
+        "Personal Information",
+        "Data Privacy"
+      ],
+      "publishedAt": "2026-10-19T17:54:04+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Privacy"
+        }
+      ]
+    },
+    {
+      "slug": "solidworks-launches-ai-features-video",
+      "title": "Solidworks launches AI features [video]",
+      "dek": "Solidworks has introduced new artificial intelligence capabilities.",
+      "aiSummary": "Solidworks has launched new AI features for its software platform. The announcement is accompanied by a video demonstration of these capabilities.",
+      "articleUrl": "https://www.youtube.com/watch?v=PdcEehTrux0",
+      "category": "Software",
+      "filterTags": [
+        "Solidworks",
+        "AI"
+      ],
+      "publishedAt": "2026-10-19T17:47:44+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "release-candidates-of-ios-27-2-macos-27-2-land-as-public-version-nears",
+      "title": "Release candidates of iOS 27.2, macOS 27.2 land as public version nears",
+      "dek": "The first release candidates for  iOS 27.2 , iPadOS 27.2, visionOS 27.2, watchOS 27.2, tvOS 27.2, and macOS 27.2 have arrived for testing. iOS 27 on an iPhone The first release candidates for iOS 27.2, iPadOS 27.2, macOS 27.2 Golden Gate, watchOS 27.2, tvOS 27.2, visionOS 27.2, a",
+      "aiSummary": "Apple has released the first release candidates for iOS 27.2, iPadOS 27.2, visionOS 27.2, watchOS 27.2, tvOS 27.2, and macOS 27.2 Golden Gate. These updates are now available for testing as the public versions near their official launch.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/19/release-candidates-of-ios-272-macos-272-land-as-release-nears?utm_source=rss",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Apple",
+        "iOS",
+        "macOS",
+        "iPadOS",
+        "visionOS",
+        "watchOS",
+        "tvOS"
+      ],
+      "publishedAt": "2026-10-19T17:47:11+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Software"
+        }
+      ]
+    },
+    {
+      "slug": "we-were-looking-at-it-wrong-the-explosive-claim-that-s-upended-the-ai-world",
+      "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+      "dek": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautiou",
+      "aiSummary": "Nick Cammarata, a researcher at the AI startup Goodfire, published a 26,000-word blog post claiming to have discovered a new understanding of the nature of neural networks. This publication has significantly impacted the AI community, triggering both intense speculation and cautious reactions regarding the implications of his findings.",
+      "articleUrl": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+      "category": "AI",
+      "filterTags": [
+        "Goodfire",
+        "Nick Cammarata",
+        "neural networks"
+      ],
+      "publishedAt": "2026-10-19T17:45:55+00:00",
+      "publisher": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "website": "https://www.technologyreview.com/",
+        "logoUrl": "https://www.technologyreview.com/static/media/favicon.1cfcdb44759a0f93ddf5feb5405dd4cc.ico",
+        "faviconUrl": "https://www.technologyreview.com/static/media/favicon.1cfcdb44759a0f93ddf5feb5405dd4cc.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Research"
+        }
+      ]
+    },
+    {
+      "slug": "patch-release-v5-20-2",
+      "title": "Patch release v5.20.2",
+      "dek": "Patch release: v5.20.2 \n This patch notably solves an issue where some inputs could loose their original type inside  prepare_inputs_for_generation  in  generate , leading to problems with multimodal models. It also fixes some other issues listed on the below commits. \n It contai",
+      "aiSummary": "The v5.20.2 patch release resolves a bug where inputs could lose their original type within the prepare_inputs_for_generation function during generation, which caused issues with multimodal models. It also addresses other minor issues detailed in the associated commits.",
+      "articleUrl": "https://github.com/huggingface/transformers/releases/tag/v5.20.2",
+      "category": "Software Development",
+      "filterTags": [
+        "v5.20.2",
+        "prepare_inputs_for_generation",
+        "multimodal models"
+      ],
+      "publishedAt": "2026-10-19T17:45:37+00:00",
+      "publisher": {
+        "name": "huggingface",
+        "domain": "github.com",
+        "website": "https://github.com/huggingface/transformers",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "build-a-basic-ai-agent-from-scratch-session-management",
+      "title": "Build a Basic AI Agent from Scratch: Session Management",
+      "dek": "Create a simple AI agent by coding the session management parts yourself.",
+      "aiSummary": "The article guides readers through building a basic AI agent from scratch, with a specific focus on implementing session management. It covers the technical steps required to handle user interactions and state within the agent's architecture.",
+      "articleUrl": "https://www.ruxu.dev/articles/ai/build-an-ai-agent-sessions/",
+      "category": "AI",
+      "filterTags": [
+        "AI Agent",
+        "Session Management"
+      ],
+      "publishedAt": "2026-10-19T17:40:47+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "germany-s-merz-says-russia-s-push-to-destabilize-europe-is-underestimated",
+      "title": "Germany's Merz Says Russia's Push to Destabilize Europe Is Underestimated",
+      "dek": "German Chancellor Friedrich Merz warned against complacency over the dangers posed by Russia, saying that President Vladimir Putin is seeking to not only defeat Ukraine, but to also undermine democracy in Europe and further integration. “My biggest concern is the underestimated R",
+      "aiSummary": "German Chancellor Friedrich Merz warned that Russia's efforts to destabilize Europe are being underestimated. He stated that Vladimir Putin aims not only to defeat Ukraine but also to undermine European democracy and hinder further integration.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-19/merz-russia-s-push-to-destabilize-europe-underestimated-video",
+      "category": "Geopolitics",
+      "filterTags": [
+        "Germany",
+        "Russia",
+        "Friedrich Merz",
+        "Vladimir Putin",
+        "Ukraine",
+        "European Integration"
+      ],
+      "publishedAt": "2026-10-19T17:30:27+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Geopolitics"
+        },
+        {
+          "name": "European Security"
+        },
+        {
+          "name": "International Relations"
+        }
+      ]
+    },
+    {
+      "slug": "apple-announces-product-launch-event-for-oct-28-analysts-expect-touchscreen-laptop",
+      "title": "Apple announces product launch event for Oct. 28. Analysts expect touchscreen laptop",
+      "dek": "Apple sent invitations for an event next week, calling it \"Pro and tell.\"",
+      "aiSummary": "Apple has sent out invitations for an upcoming event on October 28, which it has titled \"Pro and tell.\" Analysts are predicting that the company will unveil a touchscreen laptop at this gathering.",
+      "articleUrl": "https://www.cnbc.com/2026/10/19/apple-product-launch-event-oct-28-analysts-expect-touchscreen-laptop.html",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Apple",
+        "touchscreen laptop"
+      ],
+      "publishedAt": "2026-10-19T17:25:57+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "apple-s-iphone-duo-is-proving-itself-the-catalyst-that-jim-cramer-said-it-would-be",
+      "title": "Apple's iPhone Duo is proving itself the catalyst that Jim Cramer said it would be",
+      "dek": "Preorders of Apple's iPhone Duo are proving Jim Cramer right, as early indications show strong demand.",
+      "aiSummary": "Preorders for Apple's iPhone Duo indicate strong consumer demand, validating Jim Cramer's earlier prediction that the device would serve as a significant market catalyst. Early signs suggest the product is performing well in its initial launch phase.",
+      "articleUrl": "https://www.cnbc.com/investingclub/2026/10/19/apples-iphone-duo-is-proving-the-catalyst-that-jim-cramer-said-it-would-be.html",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Apple",
+        "iPhone Duo",
+        "Jim Cramer"
+      ],
+      "publishedAt": "2026-10-19T17:25:20+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "we-need-to-stop-disinformation-in-uk-political-adverts-here-s-a-chance-to-do-so-letter",
+      "title": "We need to stop disinformation in UK political adverts. Here’s a chance to do so | Letter",
+      "dek": "Alex Tait  on a proposed amendment to the representation of the people bill, and  Dr Joseph Mullen  on Russian interference in the Brexit referendum Andy Burnham’s comments about Russian interference in Brexit ( Report, 11 October ) and the warning by the MI5 chief, Ken McCallum,",
+      "aiSummary": "The letter discusses a proposed amendment to the Representation of the People Bill aimed at stopping disinformation in UK political advertisements. It references comments by Andy Burnham and MI5 chief Ken McCallum regarding Russian interference in the Brexit referendum as context for the need for such regulatory changes.",
+      "articleUrl": "https://www.theguardian.com/politics/2026/oct/19/we-need-to-stop-disinformation-in-uk-political-adverts-heres-a-chance-to-do-so",
+      "category": "Politics",
+      "filterTags": [
+        "Representation of the People Bill",
+        "UK",
+        "MI5",
+        "Brexit",
+        "Andy Burnham",
+        "Ken McCallum"
+      ],
+      "publishedAt": "2026-10-19T17:17:33+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Regulation"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "b11738",
+      "title": "b11738",
+      "dek": "server : fix swa checkpoint invalidation logic ( #30666 ) \n \n server : fix swa checkpoint invalidation logic \n \n Assisted-by: Claude \n \n add testcase that fails with > n_past, but works with > n_prefix \n \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/",
+      "aiSummary": "A recent commit fixes the invalidation logic for SWA checkpoints in the server component. The update includes a new test case designed to fail when using 'n_past' but succeed with 'n_prefix', and the work was assisted by Claude.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11738",
+      "category": "Open Source",
+      "filterTags": [
+        "SWA",
+        "checkpoint",
+        "llama.app",
+        "Claude"
+      ],
+      "publishedAt": "2026-10-19T17:04:01+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "how-to-find-flock-cameras-near-you-with-mapquest-s-new-surveillance-layer",
+      "title": "How to find Flock cameras near you with MapQuest’s new ‘surveillance layer’",
+      "dek": "A name from the past is emerging again to help you stay out of sight of surveillance cameras.",
+      "aiSummary": "MapQuest has introduced a new surveillance layer that helps users find Flock cameras. The feature revives the Flock name, a legacy system, to help people avoid being seen by surveillance cameras.",
+      "articleUrl": "https://www.zdnet.com/tech/how-to-find-flock-cameras-nearby-mapquest-surveillance-layer/",
+      "category": "Mapping",
+      "filterTags": [
+        "MapQuest",
+        "Flock",
+        "surveillance layer"
+      ],
+      "publishedAt": "2026-10-19T16:59:56+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Mapping"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Privacy"
+        }
+      ]
+    },
+    {
+      "slug": "ai-game-clones-are-making-indie-developers-afraid-to-show-their-work",
+      "title": "AI game clones are making indie developers afraid to show their work",
+      "dek": "Delayed Steam Next Fest demo is a sign of a growing problem for indie devs.",
+      "aiSummary": "The article discusses how the delay of a Steam Next Fest demo highlights a broader issue affecting indie developers. It points to increasing concerns about AI-generated game clones that threaten the originality and visibility of independent projects.",
+      "articleUrl": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
+      "category": "Gaming",
+      "filterTags": [
+        "Steam",
+        "AI",
+        "Steam Next Fest"
+      ],
+      "publishedAt": "2026-10-19T16:59:22+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Indie Development"
+        }
+      ]
+    },
+    {
+      "slug": "markets-brace-for-inflation-tech-earnings",
+      "title": "Markets Brace for Inflation, Tech Earnings",
+      "dek": "Get a jump start on the US trading day with Dani Burger on \"Bloomberg Open Interest.\" Inflation fears rattle markets as Meta leads a massive earnings week. Nvidia-backed Nscale faces a valuation reality check, while Trump-Zelenskyy tensions deepen. Plus, Proofpoint’s $6.3 billion",
+      "aiSummary": "Markets are experiencing volatility due to inflation concerns as Meta leads a significant week of earnings releases. Additionally, Nvidia-backed Nscale is undergoing a valuation review, while geopolitical tensions between Trump and Zelenskyy continue to escalate.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-19/open-interest-10-19-2026-video",
+      "category": "Markets",
+      "filterTags": [
+        "Meta",
+        "Nvidia",
+        "Nscale",
+        "Proofpoint",
+        "Bloomberg"
+      ],
+      "publishedAt": "2026-10-19T16:56:00+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Markets"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Geopolitics"
+        }
+      ]
+    },
+    {
+      "slug": "pegasus-1-5-from-twelvelabs-is-now-available-in-amazon-bedrock",
+      "title": "Pegasus 1.5 from TwelveLabs is now available in Amazon Bedrock",
+      "dek": "TwelveLabs Pegasus 1.5 is now available in Amazon Bedrock. The video language model turns long-form video into structured, timestamped metadata: define the moments that matter and get every matching segment back as JSON, with new video segmentation, multimodal prompting with refe",
+      "aiSummary": "Pegasus 1.5, a video language model from TwelveLabs, is now available on Amazon Bedrock. It converts long videos into structured, timestamped metadata, allowing users to define key moments and retrieve matching segments as JSON. The model also offers new video segmentation and multimodal prompting capabilities.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/pegasus-1-5-from-twelvelabs-is-now-available-in-amazon-bedrock/",
+      "category": "AI",
+      "filterTags": [
+        "Pegasus 1.5",
+        "TwelveLabs",
+        "Amazon Bedrock"
+      ],
+      "publishedAt": "2026-10-19T16:49:19+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Video"
+        },
+        {
+          "name": "Cloud Computing"
+        }
+      ]
+    },
+    {
+      "slug": "oled-ipad-mini-and-touchscreen-macbook-pro-what-to-expect-from-pro-and-tell",
+      "title": "OLED iPad mini and touchscreen MacBook Pro: What to expect from 'Pro and Tell'",
+      "dek": "Apple has another release event, and this one is called \"Pro and Tell.\" This is what will make an appearance on the day, including one very long-awaited  MacBook Pro  upgrade. A second October event is expected soon Fall has been unusually busy for Apple in 2026. After surprise  ",
+      "aiSummary": "Apple is hosting a release event titled 'Pro and Tell' that is expected to unveil an OLED iPad mini and a touchscreen MacBook Pro upgrade. The company plans a second event in October, reflecting a busy fall schedule for 2026. The announcement follows a series of surprise releases.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/19/oled-ipad-mini-and-touchscreen-macbook-pro-what-to-expect-from-pro-and-tell?utm_source=rss",
+      "category": "Hardware",
+      "filterTags": [
+        "Apple",
+        "OLED",
+        "iPad mini",
+        "MacBook Pro",
+        "touchscreen"
+      ],
+      "publishedAt": "2026-10-19T16:27:04+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "how-deepgram-optimized-voice-ai-at-scale-with-aws-trainium",
+      "title": "How Deepgram optimized voice AI at scale with AWS Trainium",
+      "dek": "Deepgram worked with the AWS Forward Deployed Engineering team to port its Nova-3 speech-to-text model to AWS Trainium2 for offline batch inference. This post covers porting to the AWS Neuron stack, kernel-level tuning, a data-parallel Rust runtime, and the throughput and cost re",
+      "aiSummary": "Deepgram collaborated with AWS Forward Deployed Engineering to migrate its Nova-3 speech-to-text model to AWS Trainium2 for offline batch inference. The process involved adapting to the AWS Neuron stack, performing kernel-level tuning, and implementing a data-parallel Rust runtime to enhance throughput and reduce costs.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/how-deepgram-optimized-voice-ai-at-scale-with-aws-trainium/",
+      "category": "AI",
+      "filterTags": [
+        "Deepgram",
+        "AWS Trainium",
+        "Nova-3",
+        "AWS Neuron",
+        "Rust"
+      ],
+      "publishedAt": "2026-10-19T16:23:22+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Infrastructure"
+        },
+        {
+          "name": "Speech Recognition"
+        }
+      ]
+    },
+    {
+      "slug": "ex-openai-worker-accused-of-planting-device-had-saudi-support-says-court-filing",
+      "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
+      "dek": "The Saudi government did not immediately respond to BBC requests for comment.",
+      "aiSummary": "A court filing claims that a former OpenAI employee, accused of planting a device, received support from Saudi Arabia. The Saudi government has not yet responded to BBC inquiries about the matter. The case highlights international involvement in alleged espionage activities.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+      "category": "Security",
+      "filterTags": [
+        "OpenAI",
+        "Saudi Arabia"
+      ],
+      "publishedAt": "2026-10-19T16:22:12+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "International Relations"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "us-prosecutors-allege-saudi-royal-links-in-openai-bugging-case",
+      "title": "US prosecutors allege Saudi royal links in OpenAI bugging case",
+      "dek": "Prosecutors argue Abdulrahman Alfozan should continue to be detained in the US due to his ‘considerable support from a foreign government’",
+      "aiSummary": "US prosecutors have argued that Abdulrahman Alfozan should remain in US detention due to his alleged significant support from a foreign government. They are linking these claims to his involvement in a bugging case related to OpenAI.",
+      "articleUrl": "https://www.ft.com/content/9e10eaa4-ed5e-417b-85c5-b5003b064017?syn-25a6b1a6=1",
+      "category": "Legal",
+      "filterTags": [
+        "OpenAI",
+        "Abdulrahman Alfozan",
+        "Saudi Arabia",
+        "US Prosecutors"
+      ],
+      "publishedAt": "2026-10-19T16:13:28+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Geopolitics"
+        }
+      ]
+    },
+    {
+      "slug": "people-are-using-ai-to-make-their-smart-tvs-dumb-again",
+      "title": "People are using AI to make their smart TVs dumb again",
+      "dek": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+      "aiSummary": "Smart TV owners frustrated by ads, tracking, and slow interfaces are using AI agents to remove bloatware and regain control of their devices. The AI tools help simplify the TV experience.",
+      "articleUrl": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "AI",
+        "smart TV",
+        "bloatware"
+      ],
+      "publishedAt": "2026-10-19T16:13:22+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Privacy"
+        }
+      ]
+    },
+    {
+      "slug": "apple-announces-oct-28-event-for-touch-screen-macbook-pro",
+      "title": "Apple Announces Oct. 28 Event for Touch-Screen MacBook Pro",
+      "dek": "Apple Inc. on Monday confirmed that it’s holding a product launch event on Oct. 28, where the company is planning to debut its first touch-screen MacBook.",
+      "aiSummary": "Apple confirmed a product launch event on Oct. 28 to debut its first touch‑screen MacBook Pro. The event will showcase the new MacBook Pro with a touch screen, marking Apple's first such device.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-19/apple-announces-oct-28-event-for-touch-screen-macbook-pro",
+      "category": "Hardware",
+      "filterTags": [
+        "Apple",
+        "MacBook Pro",
+        "touch-screen"
+      ],
+      "publishedAt": "2026-10-19T16:10:12+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Product Launch"
+        }
+      ]
+    },
+    {
+      "slug": "push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm",
+      "title": "Push-based KV transfer to improve TTFT and TPOT for disaggregated inference in vLLM",
+      "dek": "vLLM's prefill-decode disaggregation splits LLM inference across engine instances but must transfer the KV cache between them. This post introduces a push-based NIXL connector that moves transfer coordination off the critical path, delivering up to 3x better TTFT and 30% better T",
+      "aiSummary": "This article introduces a push-based NIXL connector for vLLM that optimizes the transfer of KV caches during prefill-decode disaggregation. By moving transfer coordination off the critical path, the solution achieves up to 3x better Time To First Token (TTFT) and 30% better Time Per Output Token (TPOT).",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm/",
+      "category": "AI",
+      "filterTags": [
+        "vLLM",
+        "NIXL",
+        "KV cache",
+        "LLM inference",
+        "disaggregated inference"
+      ],
+      "publishedAt": "2026-10-19T16:05:17+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "Performance Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot",
+      "title": "WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot",
+      "dek": "Around 80 pages on WhatsApp’s website exposed instructions that were designed for its chatbot, including “WHAT NOT TO SAY.” Meta says a bug caused the issue.",
+      "aiSummary": "WhatsApp's help pages contained about 80 pages of instructions for its chatbot, including a list of prohibited phrases. Meta attributes the leak to a software bug.",
+      "articleUrl": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/",
+      "category": "Social Media",
+      "filterTags": [
+        "WhatsApp",
+        "Meta",
+        "chatbot"
+      ],
+      "publishedAt": "2026-10-19T16:00:00+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Social Media"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "finally-skyrim-the-elder-scrolls-v-can-run-on-mac",
+      "title": "Finally, 'Skyrim: The Elder Scrolls V' can run on Mac",
+      "dek": "It already has a port just on just about every hardware platform released in the last decade, and now there's finally an unofficial one for Mac. The new vibecoded SkyrimMT project is a one-click installer to get and install everything you need to play the title, with mods, on you",
+      "aiSummary": "Skyrim: The Elder Scrolls V already has ports for most hardware platforms released in the last decade. An unofficial Mac port has now been released, thanks to the SkyrimMT project. The project provides a one‑click installer that sets up everything required to play the game, including mods.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/19/finally-skyrim-v-the-elder-scrolls-can-run-on-mac?utm_source=rss",
+      "category": "Gaming",
+      "filterTags": [
+        "Skyrim",
+        "SkyrimMT",
+        "vibecoded",
+        "Mac"
+      ],
+      "publishedAt": "2026-10-19T15:50:22+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "Software"
+        },
+        {
+          "name": "Platform Compatibility"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs",
+      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "dek": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+      "aiSummary": "Nvidia has introduced new open models designed to support AI agents in enterprise data centers and on personal computers. The company is focusing on enabling businesses to run private, on-device AI solutions within their own infrastructure.",
+      "articleUrl": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "category": "AI",
+      "filterTags": [
+        "Nvidia",
+        "AI Agents",
+        "Enterprise",
+        "Open Models"
+      ],
+      "publishedAt": "2026-10-19T15:37:09+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Enterprise Technology"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "production-grade-llms-and-agents-a-field-guide",
+      "title": "Production-grade LLMs and agents: a field guide",
+      "dek": "A maturity model for taking agents from an impressive demo to a system people can depend on — with a self-assessment and the map to a deep-dive on each layer.",
+      "aiSummary": "The article presents a maturity model that helps transition AI agents from demo stages to reliable production systems. It includes a self‑assessment tool and a detailed roadmap for each layer of the model.",
+      "articleUrl": "https://stackoverflow.blog/2026/10/19/production-grade-llms-and-agents-a-field-guide/",
+      "category": "AI",
+      "filterTags": [
+        "LLMs",
+        "agents",
+        "maturity model"
+      ],
+      "publishedAt": "2026-10-19T15:32:01+00:00",
+      "publisher": {
+        "name": "Stack Overflow Blog",
+        "domain": "stackoverflow.blog",
+        "website": "https://stackoverflow.blog",
+        "logoUrl": "https://stackoverflow.blog/apple-touch-icon.png",
+        "faviconUrl": "https://stackoverflow.blog/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Product Management"
+        }
+      ]
+    },
+    {
+      "slug": "how-uber-built-a-genie-to-answer-questions-correctly",
+      "title": "How Uber Built a Genie to Answer Questions Correctly",
+      "dek": "In this article, we will understand how Genie prepares knowledge, retrieves it, and generates answers.",
+      "aiSummary": "The article explains the internal workings of Uber's Genie system, detailing how it prepares knowledge, retrieves relevant information, and generates answers. It focuses on the technical process behind ensuring the system answers questions correctly.",
+      "articleUrl": "https://blog.bytebytego.com/p/how-uber-built-a-genie-to-answer-051",
+      "category": "AI",
+      "filterTags": [
+        "Uber",
+        "Genie",
+        "Knowledge Retrieval",
+        "Answer Generation"
+      ],
+      "publishedAt": "2026-10-19T15:31:03+00:00",
+      "publisher": {
+        "name": "ByteByteGo",
+        "domain": "bytebytego.com",
+        "website": "https://bytebytego.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bytebytego.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bytebytego.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Enterprise Software"
+        }
+      ]
+    },
+    {
+      "slug": "welcome-to-google-gemini-4-argon",
+      "title": "Welcome to Google Gemini 4 Argon",
+      "dek": "A million-token output window changes what you can hand a model in one go, and the benchmarks and the bill show who it actually suits. \n The post  Welcome to Google Gemini 4 Argon  appeared first on  Towards Data Science .",
+      "aiSummary": "The new Google Gemini 4 Argon model features a million-token output window, significantly increasing the amount of data it can process at once. The article suggests that the suitability of this model will be determined by its performance benchmarks and associated costs.",
+      "articleUrl": "https://towardsdatascience.com/welcome-to-google-gemini-4-argon/",
+      "category": "AI",
+      "filterTags": [
+        "Google Gemini 4 Argon",
+        "Large Language Models"
+      ],
+      "publishedAt": "2026-10-19T15:30:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "how-i-ai-meta-muse-wonder-how-brooke-lacey-is-scaling-video-with-ai",
+      "title": "🎙️ How I AI: Meta Muse Wonder + How Brooke Lacey is scaling video with AI",
+      "dek": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "aiSummary": "This episode of the How I AI podcast discusses Meta Muse Wonder and how Brooke Lacey is scaling video production using AI. It is part of the Lenny's Podcast Network and offers weekly insights.",
+      "articleUrl": "https://www.lennysnewsletter.com/p/how-i-ai-meta-muse-wonder-how-brooke",
+      "category": "Podcasting",
+      "filterTags": [
+        "Meta Muse Wonder",
+        "Brooke Lacey",
+        "AI",
+        "Lenny's Podcast Network"
+      ],
+      "publishedAt": "2026-10-19T15:03:35+00:00",
+      "publisher": {
+        "name": "Lenny's Newsletter",
+        "domain": "lennysnewsletter.com",
+        "website": "https://www.lennysnewsletter.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=lennysnewsletter.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=lennysnewsletter.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Podcasting"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Video Production"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-advances-agentic-security-for-media-from-european-public-service-broadcasting-to-global-content-production",
+      "title": "NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production",
+      "dek": "At a creative industry event that took place today in Berlin — hosted in collaboration with Adobe, Bertelsmann, NVIDIA and UFA — the latest advancements in intelligent media were on display. Key to the news: the European Broadcasting Union (EBU) is collaborating with NVIDIA to ex",
+      "aiSummary": "NVIDIA showcased new intelligent media advancements at a Berlin event co-hosted with Adobe, Bertelsmann, and UFA. A key highlight is the collaboration between the European Broadcasting Union (EBU) and NVIDIA to advance agentic security for public service broadcasting and global content production.",
+      "articleUrl": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+      "category": "AI",
+      "filterTags": [
+        "NVIDIA",
+        "Adobe",
+        "Bertelsmann",
+        "UFA",
+        "European Broadcasting Union",
+        "Agentic Security"
+      ],
+      "publishedAt": "2026-10-19T15:00:31+00:00",
+      "publisher": {
+        "name": "NVIDIA",
+        "domain": "nvidia.com",
+        "website": "https://blogs.nvidia.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Media"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits",
+      "title": "Disney found a way to buy Character.AI without buying its lawsuits",
+      "dek": "Character.AI faces claims its bots encouraged minors to self-harm and kill their parents.",
+      "aiSummary": "Disney has identified a strategy to purchase Character.AI without assuming responsibility for its ongoing lawsuits. Character.AI is currently facing allegations that its AI bots encouraged minors to engage in self-harm and harm their parents.",
+      "articleUrl": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+      "category": "AI",
+      "filterTags": [
+        "Disney",
+        "Character.AI"
+      ],
+      "publishedAt": "2026-10-19T14:45:43+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Corporate Strategy"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1792432248-mps-migrate-mse-forward-to-metal-201351",
+      "title": "viable/strict/1792432248: [MPS] Migrate mse forward to metal (#201351)",
+      "dek": "Replace MPSGraph MSE forward with Metal. While perf isn't the best on eager, it matches CPU/CUDA in implementation: an elementwise kernel followed by a separate reduction, this change doesn't affect torch compile which stays the same for perf. \n \n Perf: \n \n \n \n Shape \n Layout \n D",
+      "aiSummary": "The patch replaces the MPSGraph implementation of the MSE forward pass with a Metal kernel. Performance on eager mode is not the best, but it matches the CPU and CUDA implementations. The change does not alter torch compile behavior.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1792432248",
+      "category": "Machine Learning",
+      "filterTags": [
+        "MPS",
+        "Metal",
+        "MPSGraph",
+        "MSE",
+        "torch"
+      ],
+      "publishedAt": "2026-10-19T14:40:30+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Hardware Acceleration"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "jb-pritzker-thinks-ai-could-help-us-live-to-100-or-threaten-us-like-nukes",
+      "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+      "dek": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and",
+      "aiSummary": "Illinois Governor JB Pritzker is sharing his extensive views on artificial intelligence, technology, and privacy. The interviewer posits that these critical issues are driving a significant and potentially unexpected political realignment.",
+      "articleUrl": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Privacy",
+        "JB Pritzker"
+      ],
+      "publishedAt": "2026-10-19T14:30:00+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Governance"
+        }
+      ]
+    },
+    {
+      "slug": "elon-musk-says-he-will-give-a-spacex-share-to-every-kid-in-america",
+      "title": "Elon Musk Says He Will Give a SpaceX Share to ‘Every Kid in America’",
+      "dek": "Anthropic, an A.I. rival to SpaceX, earlier said it would form a “public benefit fund” and other tech moguls have contributed to savings accounts for children.",
+      "aiSummary": "Elon Musk stated that he intends to provide a SpaceX share to every child in America. This announcement follows a similar initiative by Anthropic, an AI company, which proposed creating a public benefit fund, while other tech leaders have also contributed to children's savings accounts.",
+      "articleUrl": "https://www.nytimes.com/2026/10/19/business/elon-musk-spacex-stock-anthropic-giveaway.html",
+      "category": "Business",
+      "filterTags": [
+        "Elon Musk",
+        "SpaceX",
+        "Anthropic",
+        "AI"
+      ],
+      "publishedAt": "2026-10-19T14:23:08+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Business"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Social Impact"
+        }
+      ]
+    },
+    {
+      "slug": "b11734",
+      "title": "b11734",
+      "dek": "cann : refactor  #ifdef  blocks to avoid unreachable code after  return  ( #25273 ) \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/57413259 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silicon (arm64, Kl",
+      "aiSummary": "This release, identified as b11734, refactors #ifdef blocks to eliminate unreachable code following return statements, addressing issue #25273. The update is available for macOS and iOS platforms, specifically supporting Apple Silicon arm64 architectures.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11734",
+      "category": "Open Source",
+      "filterTags": [
+        "llama.cpp",
+        "C",
+        "refactoring",
+        "Apple Silicon",
+        "macOS",
+        "iOS"
+      ],
+      "publishedAt": "2026-10-19T14:11:57+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "LLM"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "submit-a-question-could-anthropic-s-ipo-be-a-turning-point-for-ai",
+      "title": "Submit a question: Could Anthropic’s IPO be a turning point for AI?",
+      "dek": "Join us for a live Ask an Expert Q&A with Richard Waters, the FT’s tech writer at large, and George Hammond, the FT’s venture capital correspondent, at 8am (PDT)/4pm (BST) on Thursday October 22",
+      "aiSummary": "A live Q&A will feature Richard Waters and George Hammond discussing whether Anthropic’s IPO could be a turning point for AI. The session is scheduled for Thursday, October 22, at 8 am PDT/4 pm BST. It will explore the implications of the IPO for the AI industry.",
+      "articleUrl": "https://www.ft.com/content/8cdf338e-d472-460c-8642-a8f033b99462?syn-25a6b1a6=1",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "IPO",
+        "AI"
+      ],
+      "publishedAt": "2026-10-19T14:10:33+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Venture Capital"
+        }
+      ]
+    },
+    {
+      "slug": "calls-to-strengthen-workplace-privacy-in-australia-as-employers-turn-to-ai-to-track-staff",
+      "title": "Calls to strengthen workplace privacy in Australia as employers turn to AI to track staff",
+      "dek": "Monitoring tools common in a range of workplaces, including factories, office jobs, delivery work and in retail – often without employees being informed Get our  breaking news email ,  free app  or  daily news podcast Employers are increasingly using technology, from CCTV to keys",
+      "aiSummary": "Employers in Australia are deploying a range of monitoring tools—including CCTV, key usage tracking, and other technologies—to keep tabs on staff in factories, offices, delivery, and retail settings, often without informing employees. This widespread surveillance has sparked calls for tighter workplace privacy protections.",
+      "articleUrl": "https://www.theguardian.com/technology/2026/oct/20/workplace-privacy-concerns-employers-use-ai-to-monitor-staff",
+      "category": "Privacy",
+      "filterTags": [
+        "AI",
+        "CCTV",
+        "employee monitoring"
+      ],
+      "publishedAt": "2026-10-19T14:00:03+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Privacy"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Workplace Technology"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "can-conformal-prediction-take-you-from-accurate-to-reliable-machine-learning",
+      "title": "Can Conformal Prediction Take You from Accurate to Reliable Machine Learning?",
+      "dek": "ML model adoption doesn't stop with acceptance of accuracy; it starts there. \n The post  Can Conformal Prediction Take You from Accurate to Reliable Machine Learning?  appeared first on  Towards Data Science .",
+      "aiSummary": "The article discusses how adopting machine learning models requires more than just accepting their accuracy. It explores the role of conformal prediction in transitioning models from being merely accurate to being reliable.",
+      "articleUrl": "https://towardsdatascience.com/can-conformal-prediction-take-you-from-accurate-to-reliable-machine-learning/",
+      "category": "AI",
+      "filterTags": [
+        "Conformal Prediction",
+        "Machine Learning"
+      ],
+      "publishedAt": "2026-10-19T14:00:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Data Science"
+        }
+      ]
+    },
+    {
+      "slug": "a-hacker-broke-into-john-deere-and-sharkninja-with-an-army-of-ai-agents",
+      "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+      "dek": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkN",
+      "aiSummary": "A hacker compromised over 100 websites by deploying an army of AI agents that operated largely autonomously. According to findings from AI security firm Norforge and reports from Reuters, the victims included major companies such as John Deere and SharkNinja.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+      "category": "Cybersecurity",
+      "filterTags": [
+        "Norforge",
+        "John Deere",
+        "SharkNinja",
+        "AI agents",
+        "Reuters"
+      ],
+      "publishedAt": "2026-10-19T13:58:41+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "google-says-it-can-build-data-centers-the-right-way-some-experts-and-residents-are-skeptical",
+      "title": "Google says it can build data centers the right way. Some experts and residents are skeptical",
+      "dek": "Google says its Minnesota AI data center will add clean energy to the grid and protect ratepayers. Experts question whether grid upgrades are needed.",
+      "aiSummary": "Google announced that its new AI data center in Minnesota will add clean energy to the local grid and protect ratepayers. Experts question whether the grid needs upgrades to support the facility.",
+      "articleUrl": "https://www.cnbc.com/2026/10/19/how-data-centers-are-reshaping-americas-aging-grid-pine-island-minnesota-google.html",
+      "category": "Technology",
+      "filterTags": [
+        "Google",
+        "AI",
+        "Minnesota",
+        "clean energy",
+        "grid",
+        "data center"
+      ],
+      "publishedAt": "2026-10-19T13:36:41+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Energy"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1792428192-mps-migrate-std-mean-to-metal-201310",
+      "title": "viable/strict/1792428192: [MPS] Migrate std_mean to metal (#201310)",
+      "dek": "Migrates std_mean to metal by reusing existing reduction primitives. \n \n Perf on m5 pro (no regressions): \n \n \n \n Shape \n Reduction dims \n Dtype \n Layout \n Strides \n std_mean  speedup \n var_mean  speedup \n \n \n \n \n (32,) \n all \n fp32 \n contiguous \n (1,) \n 3.36x \n 3.46x \n \n \n (32,)",
+      "aiSummary": "The std_mean operation has been migrated to Metal by reusing existing reduction primitives. Performance testing on an M5 Pro chip shows no regressions, with speedups of up to 3.46x for var_mean on specific shapes.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1792428192",
+      "category": "Hardware",
+      "filterTags": [
+        "Metal",
+        "std_mean",
+        "MPS",
+        "PyTorch"
+      ],
+      "publishedAt": "2026-10-19T13:32:43+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "dual-side-cooling-comes-to-650-v-gan-for-800-v-ai-data-centers",
+      "title": "Dual-Side Cooling Comes to 650-V GaN for 800-V AI Data Centers",
+      "dek": "The purpose, applications, and improvements of the GaN-based dual-side cooled package versus TOLT variants. \n The post  Dual-Side Cooling Comes to 650-V GaN for 800-V AI Data Centers  appeared first on  Power Electronics News .",
+      "aiSummary": "The article explains the purpose, applications, and improvements of GaN-based dual-side cooled packages compared to TOLT variants. It highlights how dual-side cooling enhances performance for 650‑V GaN used in 800‑V AI data centers.",
+      "articleUrl": "https://www.powerelectronicsnews.com/dual-side-cooling-comes-to-650-v-gan-for-800-v-ai-data-centers/",
+      "category": "Power Electronics",
+      "filterTags": [
+        "GaN",
+        "dual-side cooling",
+        "TOLT",
+        "AI data centers"
+      ],
+      "publishedAt": "2026-10-19T13:00:00+00:00",
+      "publisher": {
+        "name": "Power Electronics News",
+        "domain": "powerelectronicsnews.com",
+        "website": "https://www.powerelectronicsnews.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Power Electronics"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Data Centers"
+        }
+      ]
+    },
+    {
+      "slug": "uber-wins-bid-to-throw-out-200m-black-cab-claims",
+      "title": "Uber wins bid to throw out £200m black cab claims",
+      "dek": "Claims that Uber misled TfL over its licence were thrown out because they were brought too late.",
+      "aiSummary": "A lawsuit alleging that Uber misled Transport for London about its licence was dismissed. The court ruled the claims were filed too late and therefore were thrown out.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/cv5ynp1j45x2o?at_medium=RSS&at_campaign=rss",
+      "category": "Legal",
+      "filterTags": [
+        "Uber",
+        "TfL",
+        "black cab",
+        "£200m"
+      ],
+      "publishedAt": "2026-10-19T12:58:39+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Transportation"
+        },
+        {
+          "name": "Regulatory"
+        }
+      ]
+    },
+    {
+      "slug": "minimax-just-launched-m3-1-flash-428b-moe-agentic-model-at-0-15-m-input",
+      "title": "MiniMax Just Launched M3.1 Flash: 428B MoE Agentic Model at $0.15/M Input",
+      "dek": "MiniMax has released M3.1 Flash, a 428B-parameter MoE model with about 23B active parameters and a 1M-token context. API pricing is $0.15/$0.60 per 1M tokens, with weights due October 23 \n The post  MiniMax Just Launched M3.1 Flash: 428B MoE Agentic Model at $0.15/M Input  appear",
+      "aiSummary": "MiniMax has launched M3.1 Flash, a 428B-parameter Mixture of Experts model featuring approximately 23B active parameters and a 1M-token context window. The model is available via API at a price of $0.15 per million input tokens and $0.60 per million output tokens, with open weights scheduled for release on October 23.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/19/minimax-m3-1-flash-release/",
+      "category": "AI",
+      "filterTags": [
+        "MiniMax",
+        "M3.1 Flash",
+        "MoE",
+        "LLM"
+      ],
+      "publishedAt": "2026-10-19T12:37:58+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "how-many-eeg-channels-do-you-actually-need",
+      "title": "How Many EEG Channels Do You Actually Need?",
+      "dek": "Testing sensor reduction, feature ranking, and generalization to unseen\nparticipants \n The post  How Many EEG Channels Do You Actually Need?  appeared first on  Towards Data Science .",
+      "aiSummary": "The study evaluates how reducing the number of EEG sensors affects performance. It uses feature ranking techniques to identify the most informative channels and tests whether models trained on a subset generalize well to new participants.",
+      "articleUrl": "https://towardsdatascience.com/how-many-eeg-channels-do-you-actually-need/",
+      "category": "Data Science",
+      "filterTags": [
+        "EEG",
+        "EEG channels",
+        "sensor reduction",
+        "feature ranking",
+        "generalization"
+      ],
+      "publishedAt": "2026-10-19T12:30:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Data Science"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Neuroscience"
+        }
+      ]
+    },
+    {
+      "slug": "laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world",
+      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "dek": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
+      "aiSummary": "Laplace Intelligence, a profitable University of Michigan spinout, utilizes AI agents and interactive simulations to stress-test robots and self-driving vehicles prior to their deployment. The company is currently competing in the Startup Battlefield at TechCrunch Disrupt in San Francisco.",
+      "articleUrl": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "category": "AI",
+      "filterTags": [
+        "Laplace Intelligence",
+        "University of Michigan",
+        "AI agents",
+        "interactive simulation",
+        "TechCrunch Disrupt"
+      ],
+      "publishedAt": "2026-10-19T12:30:00+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Autonomous Vehicles"
+        },
+        {
+          "name": "Robotics"
+        }
+      ]
+    },
+    {
+      "slug": "claude-cuts-my-tiktok-how-this-creator-is-scaling-video-with-ai-brooke-lacey",
+      "title": "“Claude cuts my TikTok”: How this creator is scaling video with AI | Brooke Lacey",
+      "dek": "Watch now (37 mins) | 🎙️ Brooke Lacey shows live how Claude Code turns a raw phone video into a captioned, jump-cut TikTok in about 15 seconds",
+      "aiSummary": "Brooke Lacey demonstrates how Claude Code can transform a raw phone video into a captioned, jump-cut TikTok in roughly 15 seconds. The live session lasts about 37 minutes.",
+      "articleUrl": "https://www.lennysnewsletter.com/p/claude-cuts-my-tiktok-how-this-creator",
+      "category": "AI",
+      "filterTags": [
+        "Claude",
+        "Claude Code",
+        "TikTok"
+      ],
+      "publishedAt": "2026-10-19T12:04:52+00:00",
+      "publisher": {
+        "name": "Lenny's Newsletter",
+        "domain": "lennysnewsletter.com",
+        "website": "https://www.lennysnewsletter.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=lennysnewsletter.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=lennysnewsletter.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Social Media"
+        },
+        {
+          "name": "Video Editing"
+        }
+      ]
+    },
+    {
+      "slug": "is-smart-farming-really-smart-business",
+      "title": "Is smart farming really smart business?",
+      "dek": "From eerie driverless tractors to precision spraying and sowing, AI is transforming America’s agricultural life",
+      "aiSummary": "Artificial intelligence is reshaping American agriculture through the adoption of driverless tractors and precision spraying and sowing techniques. The article examines whether these technological advancements translate into viable business opportunities for farmers.",
+      "articleUrl": "https://www.ft.com/content/aeb432cd-5d95-4062-b7a8-f494592adb34",
+      "category": "Agriculture",
+      "filterTags": [
+        "AI",
+        "smart farming",
+        "driverless tractors",
+        "precision agriculture"
+      ],
+      "publishedAt": "2026-10-19T12:02:52+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Agriculture"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "democrats-think-cracking-down-on-ai-could-give-them-an-edge",
+      "title": "Democrats think cracking down on AI could give them an edge",
+      "dek": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which wo",
+      "aiSummary": "Democrats are considering using stricter AI regulations as a strategy to regain congressional control. Polls suggest they could flip at least one chamber in the upcoming midterms. The party must decide how to handle AI policy.",
+      "articleUrl": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+      "category": "Politics",
+      "filterTags": [
+        "AI"
+      ],
+      "publishedAt": "2026-10-19T12:00:00+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Technology Policy"
+        }
+      ]
+    }
+  ]
+}
