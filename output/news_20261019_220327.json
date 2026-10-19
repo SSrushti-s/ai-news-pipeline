@@ -1,0 +1,942 @@
+{
+  "news": [
+    {
+      "slug": "big-take-coreweave-and-the-fragile-ai-economy",
+      "title": "Big Take: CoreWeave And The Fragile AI Economy",
+      "dek": "CoreWeave’s debt is rattling some investors. Today on the Big Take podcast, what the company’s financial strain reveals about the AI boom and what lies ahead for cloud infrastructure providers. (Source: Bloomberg)",
+      "aiSummary": "CoreWeave's debt is causing concern among investors. The Big Take podcast discusses how the company's financial strain highlights broader issues within the AI boom and the future of cloud infrastructure providers.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-19/big-take-coreweave-and-the-fragile-ai-economy",
+      "category": "AI",
+      "filterTags": [
+        "CoreWeave",
+        "AI",
+        "Cloud Infrastructure",
+        "Bloomberg"
+      ],
+      "publishedAt": "2026-10-19T22:00:52+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Cloud Computing"
+        }
+      ]
+    },
+    {
+      "slug": "big-tech-earnings-could-validate-ai-ives-says",
+      "title": "Big Tech Earnings Could Validate AI, Ives Says",
+      "dek": "Dan Ives, partner and senior managing director at Yorkville, Ives, and Company, says the upcoming earnings from major technology companies will be an important test of confidence in AI. He also talks about giving investors a chance to invest in private ai companies. \n (Source: Bl",
+      "aiSummary": "Dan Ives, a senior managing director at Yorkville, Ives, and Company, states that upcoming earnings reports from major technology firms will serve as a critical test for investor confidence in artificial intelligence. He also discusses providing investors with opportunities to invest in private AI companies.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-19/big-tech-earnings-could-validate-ai-ives-says-video",
+      "category": "AI",
+      "filterTags": [
+        "Dan Ives",
+        "Yorkville, Ives, and Company",
+        "AI",
+        "Big Tech",
+        "Earnings"
+      ],
+      "publishedAt": "2026-10-19T21:48:25+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "show-hn-accessibility-context-for-ui-with-ai",
+      "title": "Show HN: Accessibility Context for UI with AI",
+      "dek": "A tool that uses AI to provide accessibility context for user interfaces.",
+      "aiSummary": "The article introduces a tool designed to enhance user interface accessibility by leveraging artificial intelligence. It provides contextual information to improve the accessibility of UI elements.",
+      "articleUrl": "https://www.typeui.sh/ui-foundations/configurator",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Accessibility",
+        "UI"
+      ],
+      "publishedAt": "2026-10-19T21:46:15+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Web Development"
+        }
+      ]
+    },
+    {
+      "slug": "tenstorrent-ceo-on-new-funding-round-ai-progress",
+      "title": "Tenstorrent CEO on New Funding Round, AI Progress",
+      "dek": "Tenstorrent CEO Jim Keller discussed the chip startup’s $1.5 billion funding round, which values the company at about $6.2 billion. He said the company is focused on scaling its Galaxy server program and developing AI intellectual property, rather than pursuing a sale. He speaks ",
+      "aiSummary": "Tenstorrent CEO Jim Keller announced that the chip startup has secured a $1.5 billion funding round, valuing the company at approximately $6.2 billion. Keller stated that the company is prioritizing the expansion of its Galaxy server program and the development of AI intellectual property over pursuing a sale.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-19/tenstorrent-ceo-on-new-funding-round-ai-progress-video",
+      "category": "Hardware",
+      "filterTags": [
+        "Tenstorrent",
+        "Jim Keller",
+        "AI",
+        "Galaxy server"
+      ],
+      "publishedAt": "2026-10-19T21:44:10+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Venture Capital"
+        }
+      ]
+    },
+    {
+      "slug": "lessons-from-watching-an-ai-agent-swarm-self-organize",
+      "title": "Lessons from Watching an AI Agent Swarm Self-Organize",
+      "dek": "Key takeaways from observing a group of AI agents organize themselves without central control.",
+      "aiSummary": "The article discusses insights gained from observing a swarm of AI agents as they self-organize. It highlights the dynamics and lessons learned from this decentralized coordination process.",
+      "articleUrl": "https://goteleport.com/blog/ai-agent-swarm-security-lessons/",
+      "category": "AI",
+      "filterTags": [
+        "AI Agents",
+        "Swarm Intelligence",
+        "Self-Organization"
+      ],
+      "publishedAt": "2026-10-19T21:38:09+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Multi-Agent Systems"
+        }
+      ]
+    },
+    {
+      "slug": "homepod-mini-2-s-sound-glow-feature-is-coming-to-other-homepod-models",
+      "title": "HomePod mini 2's Sound Glow feature is coming to other HomePod models",
+      "dek": "With the tvOS 27.2 and HomePod Software 27.2 release candidates, Apple has added support for surround sound on the 2026  Apple TV 4K  and for Sound Glow on select HomePods. HomePod mini 2 has a Sound Glow feature that shows colors and beats with the music On October 13, as part o",
+      "aiSummary": "Apple has introduced support for the Sound Glow feature on select HomePod models through the tvOS 27.2 and HomePod Software 27.2 release candidates. This update, which also adds surround sound support for the 2026 Apple TV 4K, brings the color and beat visualization capabilities of the HomePod mini 2 to a wider range of devices.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/19/homepod-mini-2s-sound-glow-feature-is-coming-to-other-homepod-models?utm_source=rss",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Apple",
+        "HomePod",
+        "tvOS 27.2",
+        "HomePod Software 27.2",
+        "Apple TV 4K",
+        "Sound Glow"
+      ],
+      "publishedAt": "2026-10-19T21:37:09+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Smart Home"
+        },
+        {
+          "name": "Software Updates"
+        }
+      ]
+    },
+    {
+      "slug": "b11742",
+      "title": "b11742",
+      "dek": "hybrid dna tokenizer fixes ( #30825 ) \n \n vocab : support Carbon-14B HybridDNA tokenizer \n \n Carbon-14B auto-tags untagged DNA runs and uses N-padded tail tokens \n(tail=pad_n). Also strip whitespace inside  tags and handle a stray \n like the HF tokenizer. \n \n convert : fix specia",
+      "aiSummary": "The update introduces support for the Carbon-14B HybridDNA tokenizer, which automatically tags untagged DNA runs and utilizes N-padded tail tokens. Additionally, the changes include fixes for whitespace handling within tags and corrections to the conversion specification.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11742",
+      "category": "Bioinformatics",
+      "filterTags": [
+        "HybridDNA",
+        "Carbon-14B",
+        "Tokenizer",
+        "DNA"
+      ],
+      "publishedAt": "2026-10-19T21:34:38+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Bioinformatics"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "saudis-aided-family-of-engineer-accused-of-bugging-openai-prosecutors-say",
+      "title": "Saudis Aided Family of Engineer Accused of Bugging OpenAI, Prosecutors Say",
+      "dek": "Saudi officials paid for his wife and son to fly out of the U.S. and offered to cover his bail, according to court filings. A judge ordered the engineer to remain in custody.",
+      "aiSummary": "Prosecutors allege that Saudi officials paid for the wife and son of an engineer accused of bugging OpenAI to leave the United States and offered to cover his bail. A judge has ordered the engineer to remain in custody.",
+      "articleUrl": "https://www.nytimes.com/2026/10/19/technology/saudis-aided-family-openai-engineer.html",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "Saudi Arabia",
+        "Bail",
+        "Surveillance"
+      ],
+      "publishedAt": "2026-10-19T21:17:42+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Geopolitics"
+        }
+      ]
+    },
+    {
+      "slug": "technocapitalist-ai-powered-blues",
+      "title": "Technocapitalist AI-Powered Blues",
+      "dek": "A look at the intersection of technocapitalism and AI-driven blues music.",
+      "aiSummary": "The provided text does not contain any article body or description to summarize. Only the title 'Technocapitalist AI-Powered Blues' is available, which suggests a topic regarding the fusion of artificial intelligence, economic systems, and the blues genre.",
+      "articleUrl": "https://jamiesimon.io/blog/technocapitalist-ai-powered-blues/",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Blues",
+        "Technocapitalism"
+      ],
+      "publishedAt": "2026-10-19T21:15:44+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Music"
+        },
+        {
+          "name": "Economics"
+        }
+      ]
+    },
+    {
+      "slug": "amazon-sagemaker-jumpstart-2026-year-to-date-in-review",
+      "title": "Amazon SageMaker JumpStart: 2026 year-to-date in review",
+      "dek": "Amazon SageMaker JumpStart onboarded over 100 new models from 30 providers in the first three quarters of 2026. This recap covers the model-onboarding highlights and JumpStart enhancements, including the simplified Model Hub, pre-configured deployment options, and Hugging Face de",
+      "aiSummary": "Amazon SageMaker JumpStart has integrated more than 100 new models from 30 different providers during the first three quarters of 2026. The platform has also introduced several enhancements, including a simplified Model Hub, pre-configured deployment options, and Hugging Face integration.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-2026-year-to-date-in-review/",
+      "category": "Cloud Computing",
+      "filterTags": [
+        "Amazon SageMaker",
+        "JumpStart",
+        "Hugging Face",
+        "Model Hub"
+      ],
+      "publishedAt": "2026-10-19T21:14:44+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says",
+      "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+      "dek": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
+      "aiSummary": "The FBI reports that an alleged OpenAI spy kept a folder titled \"Saudi Gov Docs.\" U.S. officials fear that the Saudi government could help the former engineer escape spying charges.",
+      "articleUrl": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+      "category": "Security",
+      "filterTags": [
+        "OpenAI",
+        "FBI",
+        "Saudi government"
+      ],
+      "publishedAt": "2026-10-19T20:21:53+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Law Enforcement"
+        },
+        {
+          "name": "International Relations"
+        }
+      ]
+    },
+    {
+      "slug": "b11741",
+      "title": "b11741",
+      "dek": "opencl: add cooperative-k dp4a gemm for q4_0, q4_k and q6_k ( #30741 ) \n \n \n opencl: add cooperative-k dp4a GEMM for q4_0 \n \n \n opencl: add cooperative-k dp4a GEMM for q4_k \n \n \n opencl: add cooperative-k dp4a GEMM for q6_k \n \n \n opencl: fix alignment \n \n \n \n Website: \n \n https:/",
+      "aiSummary": "The update introduces cooperative-k dp4a GEMM support for q4_0, q4_k, and q6_k quantization types in OpenCL. It also includes a fix for alignment issues.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11741",
+      "category": "Machine Learning",
+      "filterTags": [
+        "OpenCL",
+        "GEMM",
+        "dp4a",
+        "q4_0",
+        "q4_k",
+        "q6_k"
+      ],
+      "publishedAt": "2026-10-19T20:17:05+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Performance Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool",
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "dek": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+      "aiSummary": "Amazon has introduced TorchNeuron, a development tool designed to let developers run PyTorch models on alternative hardware, including Amazon's own chips. The move seeks to reduce Nvidia’s hold on the popular AI framework and encourage use of other chips.",
+      "articleUrl": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Amazon",
+        "Nvidia",
+        "PyTorch",
+        "TorchNeuron",
+        "Amazon chips"
+      ],
+      "publishedAt": "2026-10-19T20:09:24+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "b11740",
+      "title": "b11740",
+      "dek": "opencl: add get_rows for i32, cpy for i32 and f32 ( #30756 ) \n \n \n opencl: support i32 GET_ROWS \n \n \n opencl: support i32 and f32 copy conversions \n \n \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/57528236 \n \n macOS/iO",
+      "aiSummary": "The update adds support for retrieving row counts for 32‑bit integer tensors and enables copy conversions between 32‑bit integer and floating‑point tensors in OpenCL. These changes improve compatibility and performance for llama.cpp on macOS and iOS platforms.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11740",
+      "category": "Open Source",
+      "filterTags": [
+        "OpenCL",
+        "llama.cpp",
+        "i32",
+        "f32",
+        "macOS",
+        "iOS"
+      ],
+      "publishedAt": "2026-10-19T20:02:01+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody",
+      "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
+      "dek": "A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “blank check.”",
+      "aiSummary": "A judge ordered Abdulrahman Alfozan, a former OpenAI engineer accused of spying on executives, to remain in custody. The court rejected the Saudi government's offer to secure his release, describing it as a \"blank check.\"",
+      "articleUrl": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
+      "category": "Legal",
+      "filterTags": [
+        "OpenAI",
+        "Abdulrahman Alfozan",
+        "Saudi Arabia"
+      ],
+      "publishedAt": "2026-10-19T19:49:17+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Corporate Governance"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts",
+      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "dek": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+      "aiSummary": "OpenCode, an open-source AI coding agent, has been targeted by hackers who accessed part of its online platform and stole users’ API keys. The stolen keys led to unauthorized usage, causing users to incur additional charges on their AI accounts. Attempts to use other AI tools to investigate the breach were unsuccessful as those tools refused to process the malicious code.",
+      "articleUrl": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "category": "AI",
+      "filterTags": [
+        "OpenCode",
+        "Claude Code",
+        "Cursor",
+        "API keys"
+      ],
+      "publishedAt": "2026-10-19T19:28:34+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help",
+      "title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
+      "dek": "In the cavernous hall of Kraftwerk, a former power station in Berlin, German Chancellor Friedrich Merz and NVIDIA founder and CEO Jensen Huang sat down to discuss Germany’s AI roadmap, and in particular, the industrial applications of AI. Huang opened by tracing NVIDIA’s longstan",
+      "aiSummary": "German Chancellor Friedrich Merz met NVIDIA CEO Jensen Huang at Berlin’s Kraftwerk to discuss Germany’s AI roadmap, focusing on industrial applications. Huang highlighted NVIDIA’s long-standing role in AI technology and its potential to support Germany’s industrial AI ambitions. The meeting underscored a partnership aimed at positioning Germany at the forefront of industrial AI innovation.",
+      "articleUrl": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "NVIDIA",
+        "Artificial Intelligence",
+        "Industrial AI"
+      ],
+      "publishedAt": "2026-10-19T19:27:08+00:00",
+      "publisher": {
+        "name": "NVIDIA",
+        "domain": "nvidia.com",
+        "website": "https://blogs.nvidia.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Government Policy"
+        },
+        {
+          "name": "Industry 4.0"
+        }
+      ]
+    },
+    {
+      "slug": "apple-s-latest-design-showcase-explores-how-furniture-can-inspire-us-to-stay-present",
+      "title": "Apple's latest design showcase explores how furniture can inspire us to stay present",
+      "dek": "Apple's latest design showcase uses familiar objects to explore how people connect with their surroundings and each other. Image credit: Design Miami/Paris (left) Apple (right) Apple's second Designers of Tomorrow showcase brings four emerging design practices to Design Miami Par",
+      "aiSummary": "Apple's second Designers of Tomorrow showcase features four emerging design practices at Design Miami Paris. The exhibition uses familiar objects to explore how individuals connect with their surroundings and one another.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/19/apples-latest-design-showcase-explores-how-furniture-can-inspire-us-to-stay-present?utm_source=rss",
+      "category": "Design",
+      "filterTags": [
+        "Apple",
+        "Design Miami Paris",
+        "Designers of Tomorrow"
+      ],
+      "publishedAt": "2026-10-19T19:10:34+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Design"
+        },
+        {
+          "name": "Art"
+        },
+        {
+          "name": "Consumer Technology"
+        }
+      ]
+    },
+    {
+      "slug": "tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life",
+      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+      "dek": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
+      "aiSummary": "AI companion app Tolan secured an additional $30 million in funding. The company now boasts over 250,000 active users.",
+      "articleUrl": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Tolan",
+        "AI companion app",
+        "AI"
+      ],
+      "publishedAt": "2026-10-19T19:00:12+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Consumer Apps"
+        },
+        {
+          "name": "Venture Capital"
+        }
+      ]
+    },
+    {
+      "slug": "how-to-continue-a-github-copilot-app-session-in-vs-code",
+      "title": "How to continue a GitHub Copilot app session in VS Code",
+      "dek": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. \n The post  How to continue a GitHub Copilot app session in VS Code  appeared first on  The GitHub Blog .",
+      "aiSummary": "The article explains how to transfer a GitHub Copilot app session into VS Code while preserving the conversation, code edits, and context. It provides step‑by‑step instructions to maintain continuity between the app and the editor.",
+      "articleUrl": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
+      "category": "Developer Tools",
+      "filterTags": [
+        "GitHub Copilot",
+        "VS Code"
+      ],
+      "publishedAt": "2026-10-19T18:47:22+00:00",
+      "publisher": {
+        "name": "GitHub Blog",
+        "domain": "github.blog",
+        "website": "https://github.blog",
+        "logoUrl": "https://github.blog/wp-content/uploads/2019/01/cropped-github-favicon-512.png?fit=180%2C180",
+        "faviconUrl": "https://github.githubassets.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Developer Tools"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else",
+      "title": "Making the internet better for AI agents might make it worse for everyone else",
+      "dek": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automate",
+      "aiSummary": "The article discusses how the traditional division of internet users into bots and people is becoming obsolete. It suggests that efforts to make the internet more accessible to AI agents may inadvertently degrade the experience for human users.",
+      "articleUrl": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "category": "AI",
+      "filterTags": [
+        "AI agents",
+        "The Algorithm"
+      ],
+      "publishedAt": "2026-10-19T18:22:47+00:00",
+      "publisher": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "website": "https://www.technologyreview.com/",
+        "logoUrl": "https://www.technologyreview.com/static/media/favicon.1cfcdb44759a0f93ddf5feb5405dd4cc.ico",
+        "faviconUrl": "https://www.technologyreview.com/static/media/favicon.1cfcdb44759a0f93ddf5feb5405dd4cc.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Web Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "us-bans-deepseek-ai-from-government-use-as-tech-tension-with-china-continues",
+      "title": "US bans DeepSeek AI from government use as tech tension with China continues",
+      "dek": "DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China.",
+      "aiSummary": "The United States has banned the use of DeepSeek AI in government operations. DeepSeek is a powerful, popular, and relatively inexpensive AI model developed in China.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "DeepSeek",
+        "AI",
+        "China"
+      ],
+      "publishedAt": "2026-10-19T18:21:54+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Technology Policy"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1792443110-revert-dynamo-enable-nested-graph-breaks-in-pytorch-tests-198949",
+      "title": "viable/strict/1792443110: Revert \"[dynamo] Enable nested graph breaks in PyTorch tests (#198949)\"",
+      "dek": "This reverts commit  ad0210d . \n Reverted  #198949  on behalf of  https://github.com/pytorch-auto-revert  due to Reverted automatically by pytorch's autorevert, to avoid this behaviour add the tag autorevert: disable ( comment )",
+      "aiSummary": "A commit enabling nested graph breaks in PyTorch tests has been reverted. The change was automatically undone by the pytorch-auto-revert system to prevent specific behaviors, with a note that the tag 'autorevert: disable' can be added to avoid this.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1792443110",
+      "category": "Machine Learning",
+      "filterTags": [
+        "PyTorch",
+        "Dynamo",
+        "Graph Breaks",
+        "pytorch-auto-revert"
+      ],
+      "publishedAt": "2026-10-19T18:09:31+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1792439537-torchci-write-test-run-reports-in-all-ci-jobs-except-xpu-201255",
+      "title": "viable/strict/1792439537: [torchci] Write test run reports in all CI jobs except XPU (#201255)",
+      "dek": "Summary: \nFinish the rollout:  run_test.py  writes reports in every pytorch/pytorch CI job ( GITHUB_REPOSITORY ), not just trunk, pull, slow, inductor and periodic-strict; other repos' CI writes none. XPU builds write none until their CI image has  pyzes , which lets the writer c",
+      "aiSummary": "The update completes the rollout of run_test.py so that it writes test run reports in every PyTorch CI job, except XPU builds. Previously only trunk, pull, slow, inductor, and periodic‑strict jobs produced reports, and other repositories’ CI jobs did not. XPU builds will still not generate reports until their CI image includes pyzes.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1792439537",
+      "category": "Continuous Integration",
+      "filterTags": [
+        "torchci",
+        "run_test.py",
+        "XPU",
+        "pyzes",
+        "PyTorch"
+      ],
+      "publishedAt": "2026-10-19T16:48:46+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Continuous Integration"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Testing"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1792437841",
+      "title": "viable/strict/1792437841",
+      "dek": "[Kineto] Drop Kineto stress test from lintrunner as it's been deleted…",
+      "aiSummary": "The Kineto team has removed the Kineto stress test from the lintrunner tool because the test has been deleted. This change updates the lintrunner configuration to exclude the now-removed test. The removal ensures lintrunner no longer references a non-existent test.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1792437841",
+      "category": "Software Testing",
+      "filterTags": [
+        "Kineto",
+        "lintrunner",
+        "stress test"
+      ],
+      "publishedAt": "2026-10-19T16:39:33+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Testing"
+        },
+        {
+          "name": "Continuous Integration"
+        }
+      ]
+    },
+    {
+      "slug": "torchneuron-running-hf-models-on-aws-trainium-is-easier-than-ever",
+      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "dek": "Using Hugging Face models on AWS Trainium has become much simpler with TorchNeuron.",
+      "aiSummary": "TorchNeuron facilitates the execution of Hugging Face models on AWS Trainium infrastructure. The tool aims to simplify the deployment process, making it easier for developers to run these models on the specified hardware.",
+      "articleUrl": "https://huggingface.co/blog/hf-torchneuron",
+      "category": "AI",
+      "filterTags": [
+        "TorchNeuron",
+        "Hugging Face",
+        "AWS Trainium"
+      ],
+      "publishedAt": "2026-10-19T00:00:00+00:00",
+      "publisher": {
+        "name": "Hugging Face",
+        "domain": "huggingface.co",
+        "website": "https://huggingface.co/",
+        "logoUrl": "https://huggingface.co/front/thumbnails/v2-2.png",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "ai-weekly-issue-540-ai-is-finding-software-flaws-faster-than-teams-can-fix-them",
+      "title": "AI Weekly Issue #540: AI is finding software flaws faster than teams can fix them",
+      "dek": "This Applied AI edition looks at what organizations actually did with AI over the past two weeks, drawn from our Use-Case Library and from SEC filings. Three things stand out: AI now finds security flaws at record volume, AI agents do a large share of the work at some companies, ",
+      "aiSummary": "The issue reviews recent AI applications in the past two weeks, drawing from a use‑case library and SEC filings. It highlights that AI is detecting security flaws at an unprecedented rate and that AI agents are handling a large portion of work in some companies.",
+      "articleUrl": "https://aiweekly.co/issues/ai-is-finding-software-flaws-faster-than-teams-can-fix-them",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AI",
+        "security",
+        "AI agents"
+      ],
+      "publishedAt": "2026-10-19T00:00:00+00:00",
+      "publisher": {
+        "name": "AI Weekly",
+        "domain": "aiweekly.co",
+        "website": "https://aiweekly.co/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=aiweekly.co&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=aiweekly.co&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    }
+  ]
+}
