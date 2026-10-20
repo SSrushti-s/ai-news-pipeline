@@ -1,0 +1,1758 @@
+{
+  "news": [
+    {
+      "slug": "called-to-serve-tech-research-and-positive-impact",
+      "title": "Called to serve: Tech, research, and positive impact",
+      "dek": "Lab Director Chris White has worked on research challenges with real-world implications—from new approaches to wartime data analysis to tools for combating human trafficking. He talks to program manager Weishung Liu about the influences that led to the work and more. \n The post  ",
+      "aiSummary": "Lab Director Chris White discusses his research efforts focused on real-world challenges, including new methods for wartime data analysis and tools to combat human trafficking. In a conversation with program manager Weishung Liu, White shares the influences that have shaped his work.",
+      "articleUrl": "https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white/",
+      "category": "Research",
+      "filterTags": [
+        "Chris White",
+        "Weishung Liu",
+        "Data Analysis",
+        "Human Trafficking"
+      ],
+      "publishedAt": "2026-10-20T16:00:00+00:00",
+      "publisher": {
+        "name": "Microsoft Research",
+        "domain": "microsoft.com",
+        "website": "https://www.microsoft.com/en-us/research/",
+        "logoUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2024/07/About-page-promo_1066x600.jpg",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Research"
+        },
+        {
+          "name": "Social Impact"
+        },
+        {
+          "name": "Data Science"
+        }
+      ]
+    },
+    {
+      "slug": "plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language",
+      "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+      "dek": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
+      "aiSummary": "Electric Plant has developed an AI-powered translator designed to interpret the subtle electrical signals traveling through plant stems. The system aims to help humans understand the communication methods used by plants.",
+      "articleUrl": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+      "category": "AI",
+      "filterTags": [
+        "Electric Plant",
+        "AI",
+        "Plant Communication",
+        "Electrical Signals"
+      ],
+      "publishedAt": "2026-10-20T16:00:00+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Biotechnology"
+        }
+      ]
+    },
+    {
+      "slug": "how-eon-built-multi-cloud-investigation-with-an-mcp-gateway-on-amazon-bedrock-agentcore",
+      "title": "How Eon built multi-cloud investigation with an MCP Gateway on Amazon Bedrock AgentCore",
+      "dek": "Learn how Eon replaced per-tool credentials and local MCP processes across AWS, GCP, and Azure with a single authenticated Amazon Bedrock AgentCore gateway, giving more than 100 developers and autonomous agents unified access to production investigation and cutting new-engineer o",
+      "aiSummary": "Eon replaced individual tool credentials and local MCP processes across AWS, GCP, and Azure with a single authenticated Amazon Bedrock AgentCore gateway. This setup provides over 100 developers and autonomous agents with unified access to production investigation capabilities.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/how-eon-built-multi-cloud-investigation-with-an-mcp-gateway-on-amazon-bedrock-agentcore/",
+      "category": "Cloud Computing",
+      "filterTags": [
+        "Eon",
+        "Amazon Bedrock AgentCore",
+        "MCP Gateway",
+        "AWS",
+        "GCP",
+        "Azure"
+      ],
+      "publishedAt": "2026-10-20T15:57:57+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "AI Infrastructure"
+        },
+        {
+          "name": "DevOps"
+        }
+      ]
+    },
+    {
+      "slug": "sony-s-xr-patent-sale-to-meta-is-a-problem-for-apple-vision-pro-gaming",
+      "title": "Sony's XR patent sale to Meta is a problem for Apple Vision Pro gaming",
+      "dek": "Sony sold over 400 XR patents to Meta, which is bad news for the future of VR gaming on PlayStation. It will become a problem for  Apple Vision Pro  gamers. PS VR2 controllers with an Apple Vision Pro The sale of patents between companies isn't a new phenomenon, but sometimes the",
+      "aiSummary": "Sony has sold more than 400 extended reality patents to Meta, a move that poses challenges for the future of VR gaming on PlayStation. This patent transfer is also expected to negatively impact gamers using the Apple Vision Pro.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/20/sonys-xr-patent-sale-to-meta-is-a-problem-for-apple-vision-pro-gaming?utm_source=rss",
+      "category": "Hardware",
+      "filterTags": [
+        "Sony",
+        "Meta",
+        "Apple Vision Pro",
+        "XR",
+        "PS VR2",
+        "Patents"
+      ],
+      "publishedAt": "2026-10-20T15:55:27+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "Intellectual Property"
+        }
+      ]
+    },
+    {
+      "slug": "partners-group-cuts-fees-as-blue-owl-goes-all-in-on-ai",
+      "title": "Partners Group Cuts Fees as Blue Owl Goes All In on AI",
+      "dek": "Partners Group is lowering management fees on its $7.4 billion global value fund and seeking shareholder approval for a restructuring while Blue Owl is emphasizing digital infrastructure, continuing to promote its software portfolio and launching retail-focused funds tied to the ",
+      "aiSummary": "Partners Group is lowering management fees for its $7.4 billion global value fund and seeking shareholder approval for a restructuring. Meanwhile, Blue Owl is emphasizing digital infrastructure, promoting its software portfolio, and launching retail-focused funds tied to the sector.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-20/partners-group-cuts-fees-as-blue-owl-goes-all-in-on-ai-video",
+      "category": "Private Equity",
+      "filterTags": [
+        "Partners Group",
+        "Blue Owl",
+        "AI",
+        "Digital Infrastructure"
+      ],
+      "publishedAt": "2026-10-20T15:53:26+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Private Equity"
+        },
+        {
+          "name": "Asset Management"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "steam-users-beg-for-no-ai-filter-as-vibecoders-flood-next-fest",
+      "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
+      "dek": "Steam players are asking for a way to hide AI-made games because too many low-effort titles are appearing in the festival.",
+      "aiSummary": "Steam users are requesting a \"No AI\" filter for the platform's Next Fest event. This demand stems from an influx of low-quality, AI-generated games, often referred to as \"vibecoded\" titles, which are flooding the festival and frustrating players.",
+      "articleUrl": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
+      "category": "Gaming",
+      "filterTags": [
+        "Steam",
+        "AI",
+        "Vibecoding",
+        "Next Fest"
+      ],
+      "publishedAt": "2026-10-20T15:48:26+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Platform Policy"
+        }
+      ]
+    },
+    {
+      "slug": "bodycommit-movement-breaks-in-vs-code-cursor-while-your-ai-agent-works",
+      "title": "BodyCommit – movement breaks in VS Code/Cursor while your AI agent works",
+      "dek": "BodyCommit allows you to take movement breaks in VS Code or Cursor while your AI agent is working.",
+      "aiSummary": "BodyCommit is a tool that enables users to take movement breaks within the VS Code or Cursor environments. It is designed to function while an AI agent is actively working.",
+      "articleUrl": "https://marketplace.visualstudio.com/items?itemName=bodycommit.bodycommit",
+      "category": "Developer Tools",
+      "filterTags": [
+        "BodyCommit",
+        "VS Code",
+        "Cursor",
+        "AI agent"
+      ],
+      "publishedAt": "2026-10-20T15:47:38+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Developer Tools"
+        },
+        {
+          "name": "Productivity"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "ai-pricing-is-about-to-shock-everyone-why-the-20-month-era-is-ending",
+      "title": "AI Pricing Is About to Shock Everyone: Why the $20/Month Era Is Ending",
+      "dek": "The era of cheap $20 monthly AI subscriptions is coming to an end.",
+      "aiSummary": "The article suggests that current low-cost AI pricing models are unsustainable and will soon change. It implies that consumers should expect significant price increases as the industry moves away from the $20/month standard.",
+      "articleUrl": "https://www.mindstudio.ai/blog/ai-pricing-shock-end-of-cheap-subscriptions",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Pricing",
+        "Subscriptions"
+      ],
+      "publishedAt": "2026-10-20T15:45:34+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "wall-street-s-ai-debt-fears-deepen",
+      "title": "Wall Street's AI Debt Fears Deepen",
+      "dek": "CoreWeave stock fell more than 3% in premarket trading Tuesday as concerns over the AI cloud provider’s rising borrowing costs and heavy debt continued to weigh on investor sentiment.\nTyler Radke, Co-Head US Software Equity Research at Citi, discusses the AI boom and risks to the",
+      "aiSummary": "CoreWeave stock dropped over 3% in premarket trading due to investor concerns regarding the company's rising borrowing costs and significant debt load. Citi analyst Tyler Radke is discussing the broader AI boom and the associated financial risks.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-20/wall-street-s-ai-debt-fears-deepen-video",
+      "category": "Finance",
+      "filterTags": [
+        "CoreWeave",
+        "Citi",
+        "AI",
+        "Debt"
+      ],
+      "publishedAt": "2026-10-20T15:41:02+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "simplicity-and-siri-ai-are-the-homeview-s-killer-features-says-apple",
+      "title": "Simplicity and Siri AI are the HomeView's killer features, says Apple",
+      "dek": "The new Siri AI is the \"magic\" of  HomeView , according to Apple execs, but part of that is how little users should have to interact with it. Apple's HomeView. HomeView is Apple's new  $299 home hub  device, and it was long rumored to be ready but waiting for  Siri AI . Now that ",
+      "aiSummary": "Apple executives describe the new Siri AI as the 'magic' behind the HomeView, a $299 home hub device. The company emphasizes that the device's key feature is its simplicity, requiring minimal user interaction to function effectively.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/20/simplicity-and-siri-ai-are-the-homeviews-killer-features-says-apple?utm_source=rss",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Apple",
+        "Siri AI",
+        "HomeView"
+      ],
+      "publishedAt": "2026-10-20T15:40:50+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "build-a-semantic-layer-for-agentic-ai-on-aws-with-denodo-and-amazon-bedrock-agentcore",
+      "title": "Build a semantic layer for agentic AI on AWS with Denodo and Amazon Bedrock AgentCore",
+      "dek": "Build a governed semantic layer for agentic AI on AWS with the Denodo Platform and Amazon Bedrock AgentCore. It federates Amazon Aurora, Amazon Redshift, and an on-premises PostgreSQL database into a single customer 360 view an agent queries in VQL, with identity propagation and ",
+      "aiSummary": "The article explains how to build a governed semantic layer for agentic AI on AWS using Denodo Platform and Amazon Bedrock AgentCore. It integrates data from Amazon Aurora, Amazon Redshift, and an on-premises PostgreSQL database into a unified customer 360 view that agents can query using VQL, while supporting identity propagation.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-denodo-and-amazon-bedrock-agentcore/",
+      "category": "AI",
+      "filterTags": [
+        "Denodo",
+        "Amazon Bedrock AgentCore",
+        "Amazon Aurora",
+        "Amazon Redshift",
+        "PostgreSQL",
+        "AWS",
+        "VQL"
+      ],
+      "publishedAt": "2026-10-20T15:39:04+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Data Integration"
+        },
+        {
+          "name": "Cloud Computing"
+        }
+      ]
+    },
+    {
+      "slug": "build-a-semantic-layer-for-agentic-ai-on-aws-with-strategy-mosaic-and-amazon-bedrock-agentcore",
+      "title": "Build a semantic layer for agentic AI on AWS with Strategy Mosaic and Amazon Bedrock AgentCore",
+      "dek": "The third post in our semantic-layer series builds a customer 360 across Amazon Redshift and Amazon Aurora with Strategy Mosaic, exposes it to a Strands agent on Amazon Bedrock AgentCore through the Mosaic MCP server, and enforces per-user row and column security end-to-end.",
+      "aiSummary": "The article describes the third installment of a semantic-layer series that builds a customer 360 view across Amazon Redshift and Amazon Aurora with Strategy Mosaic. It then exposes this data to a Strands agent on Amazon Bedrock AgentCore via the Mosaic MCP server while enforcing end-to-end per-user row and column security.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-strategy-mosaic-and-amazon-bedrock-agentcore/",
+      "category": "AI",
+      "filterTags": [
+        "Strategy Mosaic",
+        "Amazon Bedrock AgentCore",
+        "Amazon Redshift",
+        "Amazon Aurora",
+        "Strands",
+        "Mosaic MCP server"
+      ],
+      "publishedAt": "2026-10-20T15:36:39+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Data Management"
+        },
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "why-shopify-migrated-from-react-native",
+      "title": "Why Shopify Migrated From React Native",
+      "dek": "In this article, we’ll look at how Shopify decided to move out of React Native and how they migrated to native mobile development.",
+      "aiSummary": "Shopify has decided to migrate away from React Native in favor of native mobile development. This article examines the decision-making process and the execution of this transition.",
+      "articleUrl": "https://blog.bytebytego.com/p/why-shopify-migrated-from-react-native",
+      "category": "Mobile Development",
+      "filterTags": [
+        "Shopify",
+        "React Native",
+        "Native Mobile Development"
+      ],
+      "publishedAt": "2026-10-20T15:31:07+00:00",
+      "publisher": {
+        "name": "ByteByteGo",
+        "domain": "bytebytego.com",
+        "website": "https://bytebytego.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bytebytego.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bytebytego.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Mobile Development"
+        },
+        {
+          "name": "Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "synthetic-to-real-transfer-with-frozen-dinov3-features",
+      "title": "Synthetic-to-Real Transfer with Frozen DINOv3 Features",
+      "dek": "Training models on procedurally generated datasets for card detection and segmentation \n The post  Synthetic-to-Real Transfer with Frozen DINOv3 Features  appeared first on  Towards Data Science .",
+      "aiSummary": "The article discusses training models for card detection and segmentation using procedurally generated datasets. It explores the application of frozen DINOv3 features to facilitate the transfer of these models from synthetic environments to real-world scenarios.",
+      "articleUrl": "https://towardsdatascience.com/synthetic-to-real-transfer-with-frozen-dinov3-features/",
+      "category": "Computer Vision",
+      "filterTags": [
+        "DINOv3",
+        "Card Detection",
+        "Segmentation",
+        "Synthetic-to-Real Transfer"
+      ],
+      "publishedAt": "2026-10-20T15:30:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Computer Vision"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "could-this-be-a-deep-blue-moment-for-the-cryptic-crossword",
+      "title": "Could this be a Deep Blue moment for the cryptic crossword?",
+      "dek": "A computer program has finally outdone humans at solving cryptic crosswords. Plus, more from around the puzzleverse •  Don’t get Cluesletter, our weekly puzzles newsletter, delivered to your inbox? Sign up here When the IBM supercomputer Deep Blue beat Garry Kasparov at chess in ",
+      "aiSummary": "A computer program has outperformed humans at solving cryptic crosswords. The article also references IBM’s Deep Blue supercomputer’s victory over Garry Kasparov in chess.",
+      "articleUrl": "https://www.theguardian.com/puzzles/crossword-blog/2026/oct/20/could-this-be-a-deep-blue-moment-for-the-cryptic-crossword",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "IBM",
+        "Deep Blue"
+      ],
+      "publishedAt": "2026-10-20T15:27:50+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "Puzzles"
+        }
+      ]
+    },
+    {
+      "slug": "ipados-27-breaks-the-ability-to-keep-a-presentation-on-screen-while-using-other-apps",
+      "title": "iPadOS 27 breaks the ability to keep a presentation on screen while using other apps",
+      "dek": "Presenting over AirPlay in  iPadOS 27  risks exposing private windows to your audience whenever you switch apps. There's no fix, and it may be a \"feature.\" iPadOS 27 AirPlay change exposes private windows AirPlay  in iPadOS 27 now shows the entire  iPad  screen when presenters sw",
+      "aiSummary": "In iPadOS 27, AirPlay presentations now reveal the entire iPad screen when the presenter switches apps, exposing private windows to viewers. The change has no known fix and may be intentional. This affects users who rely on keeping a presentation visible while using other apps.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/20/ipados-27-breaks-the-ability-to-keep-a-presentation-on-screen-while-using-other-apps?utm_source=rss",
+      "category": "Mobile OS",
+      "filterTags": [
+        "iPadOS",
+        "AirPlay"
+      ],
+      "publishedAt": "2026-10-20T15:23:24+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Mobile OS"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Productivity"
+        }
+      ]
+    },
+    {
+      "slug": "v0-19-8-patch-release",
+      "title": "v0.19.8 Patch Release",
+      "dek": "What's Changed \n \n Deprecate leftovers of compression library by  @hwchen2017  in  #8535 \n Update version.txt after 0.19.7 release by  @loadams  in  #8555 \n Deprecate loco zero++ by  @hwchen2017  in  #8534 \n Deprecate sparse_gradients by  @pengdurice  in  #8504 \n docs: stop Codex",
+      "aiSummary": "The v0.19.8 patch release removes remaining parts of the compression library, deprecates the loco zero++ and sparse_gradients modules, and updates the version.txt file following the 0.19.7 release. Documentation changes include stopping Codex references.",
+      "articleUrl": "https://github.com/deepspeedai/DeepSpeed/releases/tag/v0.19.8",
+      "category": "Software Development",
+      "filterTags": [
+        "compression library",
+        "loco zero++",
+        "sparse_gradients",
+        "Codex"
+      ],
+      "publishedAt": "2026-10-20T15:21:47+00:00",
+      "publisher": {
+        "name": "microsoft",
+        "domain": "github.com",
+        "website": "https://github.com/microsoft/DeepSpeed",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Release Management"
+        },
+        {
+          "name": "Documentation"
+        }
+      ]
+    },
+    {
+      "slug": "the-new-economics-of-enterprise-ai",
+      "title": "The new economics of enterprise AI",
+      "dek": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from “ca",
+      "aiSummary": "The article uses an analogy of electricity adoption to explain how enterprise AI shifts from a low-consumption novelty to critical infrastructure. As AI becomes embedded in every process, the focus shifts from initial value to managing efficiency and consumption costs.",
+      "articleUrl": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+      "category": "AI",
+      "filterTags": [
+        "Enterprise AI",
+        "Infrastructure",
+        "Cost Efficiency"
+      ],
+      "publishedAt": "2026-10-20T15:20:25+00:00",
+      "publisher": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "website": "https://www.technologyreview.com/",
+        "logoUrl": "https://www.technologyreview.com/static/media/favicon.1cfcdb44759a0f93ddf5feb5405dd4cc.ico",
+        "faviconUrl": "https://www.technologyreview.com/static/media/favicon.1cfcdb44759a0f93ddf5feb5405dd4cc.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Business Strategy"
+        }
+      ]
+    },
+    {
+      "slug": "altk-evolve-how-learned-memory-tops-the-bench-leaderboard-on-customer-service-tasks-without-a-frontier-model",
+      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "dek": "A new system called ALTK-Evolve uses learned memory to achieve top results on customer service benchmarks without relying on large frontier models.",
+      "aiSummary": "ALTK-Evolve has reached the top of the τ²-bench leaderboard for customer service tasks. It achieves this performance by utilizing learned memory mechanisms rather than depending on a frontier model.",
+      "articleUrl": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+      "category": "AI",
+      "filterTags": [
+        "ALTK-Evolve",
+        "τ²-bench",
+        "learned memory",
+        "customer service"
+      ],
+      "publishedAt": "2026-10-20T15:19:48+00:00",
+      "publisher": {
+        "name": "Hugging Face",
+        "domain": "huggingface.co",
+        "website": "https://huggingface.co/",
+        "logoUrl": "https://huggingface.co/front/thumbnails/v2-2.png",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Natural Language Processing"
+        }
+      ]
+    },
+    {
+      "slug": "an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding",
+      "title": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
+      "dek": "Hysteria over the agent's appearance in a 7,500-person group reveals that internet experts have outdated notions of privacy.",
+      "aiSummary": "An AI agent unexpectedly joined a 7,500-member listserv of top internet researchers, causing widespread confusion and chaotic reply-all messages. The incident highlights that many internet experts still hold outdated views about privacy and how information is shared.",
+      "articleUrl": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AI",
+        "Listserv",
+        "Privacy"
+      ],
+      "publishedAt": "2026-10-20T15:07:43+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Privacy"
+        },
+        {
+          "name": "Internet"
+        }
+      ]
+    },
+    {
+      "slug": "oracle-data-center-fight-hands-activists-path-to-us-wide-blitz",
+      "title": "Oracle Data Center Fight Hands Activists Path to US-Wide Blitz",
+      "dek": "After successfully disrupting Oracle Corp.’s data center plans in New Mexico, environmental activists say they’ve now got a blueprint for waging similar campaigns against hyperscalers across the US.",
+      "aiSummary": "Environmental activists disrupted Oracle Corp.'s data center plans in New Mexico. They now claim to have a blueprint for similar campaigns against hyperscalers nationwide.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-20/oracle-data-center-fight-hands-activists-path-to-us-wide-blitz",
+      "category": "Technology",
+      "filterTags": [
+        "Oracle",
+        "hyperscalers"
+      ],
+      "publishedAt": "2026-10-20T15:00:00+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Activism"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "deepseek-open-sources-deepinfer-the-inference-framework-behind-deepseek-v4-1-flash",
+      "title": "DeepSeek Open-Sources DeepInfer, the Inference Framework Behind DeepSeek-V4.1-Flash",
+      "dek": "DeepSeek has open-sourced DeepInfer, the Apache 2.0 inference framework that serves DeepSeek-V4.1-Flash in production. It targets NVIDIA SM100 GPUs and Huawei Ascend 950 NPUs, and ships offline inference only. \n The post  DeepSeek Open-Sources DeepInfer, the Inference Framework B",
+      "aiSummary": "DeepSeek has released DeepInfer, an Apache 2.0 licensed inference framework used in production for the DeepSeek-V4.1-Flash model. The framework is designed to support NVIDIA SM100 GPUs and Huawei Ascend 950 NPUs, and it currently provides offline inference capabilities only.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/20/deepseek-deepinfer-open-source-inference-framework/",
+      "category": "AI",
+      "filterTags": [
+        "DeepSeek",
+        "DeepInfer",
+        "DeepSeek-V4.1-Flash",
+        "NVIDIA",
+        "Huawei Ascend",
+        "Apache 2.0"
+      ],
+      "publishedAt": "2026-10-20T14:31:59+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "the-dangers-of-letting-tech-billionaires-shape-our-world",
+      "title": "The dangers of letting tech billionaires shape our world",
+      "dek": "As SpaceX impacts Ukraine and AI-generated music divides artists and fans, critics are asking what happens when technology has too much control over our lives This was originally published in TechScape, a newsletter about how technology shapes our lives.  Sign up to receive it he",
+      "aiSummary": "SpaceX’s activities in Ukraine and the rise of AI‑generated music are sparking debate about the influence of technology on society. Critics question what happens when tech leaders wield too much power over everyday life.",
+      "articleUrl": "https://www.theguardian.com/global/2026/oct/19/musk-ukraine-ai-music",
+      "category": "Technology",
+      "filterTags": [
+        "SpaceX",
+        "AI-generated music",
+        "tech billionaires"
+      ],
+      "publishedAt": "2026-10-20T14:31:45+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Geopolitics"
+        },
+        {
+          "name": "Music"
+        }
+      ]
+    },
+    {
+      "slug": "latest-windows-update-disables-key-security-setting-but-there-s-a-workaround",
+      "title": "Latest Windows update disables key security setting – but there’s a workaround",
+      "dek": "A bug in Microsoft’s October Windows update prevents you from turning on a security setting that blocks malicious or suspicious apps. A Registry hack fixes the glitch.",
+      "aiSummary": "Microsoft's October Windows update contains a bug that stops users from enabling a security setting that blocks malicious or suspicious apps. The issue can be resolved with a registry hack.",
+      "articleUrl": "https://www.zdnet.com/tech/microsoft-october-windows-update-disables-security-setting-workaround/",
+      "category": "Security",
+      "filterTags": [
+        "Microsoft",
+        "Windows",
+        "Registry"
+      ],
+      "publishedAt": "2026-10-20T14:26:05+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Operating Systems"
+        },
+        {
+          "name": "Software Updates"
+        }
+      ]
+    },
+    {
+      "slug": "spotify-pulled-50-million-ai-slop-and-spam-tracks-from-its-recommendations",
+      "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+      "dek": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music ma",
+      "aiSummary": "Spotify has removed more than 50 million songs that it classified as AI-generated slop or spam from user recommendations over the past year. The company announced the cleanup on Tuesday and said it also updated its recommendation engine to better highlight quality music.",
+      "articleUrl": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+      "category": "Music Streaming",
+      "filterTags": [
+        "Spotify",
+        "AI-generated music",
+        "spam"
+      ],
+      "publishedAt": "2026-10-20T14:18:37+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Music Streaming"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Content Moderation"
+        }
+      ]
+    },
+    {
+      "slug": "figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol",
+      "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+      "dek": "Figma said it plans to support as many standards as possible without exposing all of its data",
+      "aiSummary": "Figma co-founder Dylan Field stated that the Model Context Protocol (MCP) is not a perfect protocol. The company plans to support as many standards as possible while ensuring it does not expose all of its data.",
+      "articleUrl": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+      "category": "AI",
+      "filterTags": [
+        "Figma",
+        "Dylan Field",
+        "MCP"
+      ],
+      "publishedAt": "2026-10-20T14:13:32+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Design Tools"
+        },
+        {
+          "name": "Standards"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-in-talks-with-neocloud-nscale-over-second-multibillion-dollar-deal-source-tells-cnbc",
+      "title": "Anthropic in talks with neocloud Nscale over second multibillion-dollar deal, source tells CNBC",
+      "dek": "Anthropic and Nscale previously inked a similar deal for a data center on the same site in the U.S.",
+      "aiSummary": "Anthropic is in talks with neocloud Nscale for a second multibillion-dollar agreement. The companies had already signed a similar deal for a data center on the same U.S. site.",
+      "articleUrl": "https://www.cnbc.com/2026/10/20/anthropic-nscale-data-center-deal.html",
+      "category": "Cloud Computing",
+      "filterTags": [
+        "Anthropic",
+        "neocloud Nscale"
+      ],
+      "publishedAt": "2026-10-20T14:12:38+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Business Deals"
+        }
+      ]
+    },
+    {
+      "slug": "salesforce-announces-5-66-billion-deal-for-braze-sending-brze-stock-soaring-50",
+      "title": "Salesforce announces $5.66 billion deal for Braze, sending BRZE stock soaring 50%",
+      "dek": "The company's latest acquisition is expected to close in fiscal 2028, and will see Braze shareholders receive $47.50 in cash per share.",
+      "aiSummary": "Salesforce has agreed to acquire Braze in a $5.66 billion transaction, which is projected to close in fiscal 2028. As a result of the announcement, Braze stock surged by 50%, with shareholders set to receive $47.50 in cash per share.",
+      "articleUrl": "https://www.cnbc.com/2026/10/20/salesforce-braze-acquisition-deal.html",
+      "category": "Business",
+      "filterTags": [
+        "Salesforce",
+        "Braze",
+        "BRZE",
+        "M&A"
+      ],
+      "publishedAt": "2026-10-20T14:09:16+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Business"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "labor-and-the-coalition-are-poised-to-take-a-reckless-gamble-on-ai-haven-t-they-realised-community-support-has-collapsed",
+      "title": "Labor and the Coalition are poised to take a reckless gamble on AI. Haven’t they realised community support has collapsed? | Edward Santow and Sarah Sacher",
+      "dek": "Australian workers expect the government to act to protect them from AI harms. There is a clear reform solution at hand Get our  new political email ,  free app  or  daily news podcast Australia’s major political parties are edging towards rare consensus. Labor and the Coalition ",
+      "aiSummary": "Australian workers are demanding government action to protect them from AI harms. A clear reform solution exists, and the major parties, Labor and the Coalition, are moving toward a rare consensus on the issue.",
+      "articleUrl": "https://www.theguardian.com/technology/commentisfree/2026/oct/21/labor-coalition-poised-to-take-reckless-gamble-on-ai-joint-select-committee",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AI",
+        "Labor",
+        "Coalition",
+        "Australia"
+      ],
+      "publishedAt": "2026-10-20T14:00:38+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Labor Rights"
+        }
+      ]
+    },
+    {
+      "slug": "skill-or-mcp-server-ask-what-stops-the-llm-from-disobeying",
+      "title": "Skill or MCP Server? Ask What Stops the LLM From Disobeying",
+      "dek": "Towards Spec-Driven Test Automation, Part 4 \n The post  Skill or MCP Server? Ask What Stops the LLM From Disobeying  appeared first on  Towards Data Science .",
+      "aiSummary": "This post, part four of a series on 'Spec-Driven Test Automation,' discusses the factors that prevent Large Language Models from disobeying. It was originally published on Towards Data Science.",
+      "articleUrl": "https://towardsdatascience.com/skill-or-mcp-server-ask-what-stops-the-llm-from-disobeying/",
+      "category": "AI",
+      "filterTags": [
+        "LLM",
+        "Spec-Driven Test Automation",
+        "MCP Server"
+      ],
+      "publishedAt": "2026-10-20T14:00:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Software Testing"
+        },
+        {
+          "name": "AI Safety"
+        }
+      ]
+    },
+    {
+      "slug": "b11756",
+      "title": "b11756",
+      "dek": "server : pass id_slot through the Anthropic /v1/messages conversion ( #28554 ) \n \n server : pass id_slot through the Anthropic /v1/messages conversion \n \n server_chat_convert_anthropic_to_oai copies a small whitelist of common \nparams from the Anthropic request into the internal ",
+      "aiSummary": "The update modifies the server to pass the id_slot parameter through the Anthropic /v1/messages conversion process. This change affects the server_chat_convert_anthropic_to_oai function, which copies a whitelist of common parameters from Anthropic requests into the internal format.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11756",
+      "category": "API Integration",
+      "filterTags": [
+        "Anthropic",
+        "server_chat_convert_anthropic_to_oai",
+        "id_slot"
+      ],
+      "publishedAt": "2026-10-20T13:52:00+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "API Integration"
+        },
+        {
+          "name": "Backend Development"
+        }
+      ]
+    },
+    {
+      "slug": "us-orders-federal-agencies-to-remove-china-s-deepseek-ai-from-their-systems",
+      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+      "dek": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+      "aiSummary": "The United States has directed federal civilian agencies to remove DeepSeek products and any third-party services utilizing its technology. This action is driven by national security concerns regarding the use of Chinese AI tools in government systems.",
+      "articleUrl": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+      "category": "AI",
+      "filterTags": [
+        "DeepSeek",
+        "US Federal Agencies",
+        "National Security"
+      ],
+      "publishedAt": "2026-10-20T13:07:24+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Government Policy"
+        },
+        {
+          "name": "Cybersecurity"
+        }
+      ]
+    },
+    {
+      "slug": "adobe-lightroom-mobile-can-now-open-closed-eyes-in-photos-with-a-simple-tap",
+      "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
+      "dek": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eyes closed in a photo it will au",
+      "aiSummary": "Adobe’s Lightroom mobile app now uses generative AI to open closed eyes in photos with a single tap. The feature works on iOS, iPadOS, and Android, automatically detecting people with closed eyes and opening them.",
+      "articleUrl": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
+      "category": "Photography",
+      "filterTags": [
+        "Adobe",
+        "Lightroom",
+        "generative AI",
+        "iOS",
+        "iPadOS",
+        "Android"
+      ],
+      "publishedAt": "2026-10-20T13:06:44+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Photography"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Mobile Apps"
+        }
+      ]
+    },
+    {
+      "slug": "google-reports-cloud-disruptions-in-europe",
+      "title": "Google Reports Cloud Disruptions in Europe",
+      "dek": "The disruptions began around 7 a.m. in London after what the tech giant called a “power event.”",
+      "aiSummary": "Google reported cloud disruptions in Europe, starting around 7 a.m. in London. The company attributed the outages to a \"power event\".",
+      "articleUrl": "https://www.nytimes.com/2026/10/20/technology/google-cloud-down-outage-europe.html",
+      "category": "Cloud Computing",
+      "filterTags": [
+        "Google",
+        "Cloud",
+        "Europe",
+        "London",
+        "Power Event"
+      ],
+      "publishedAt": "2026-10-20T13:04:12+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "former-openai-exec-has-quietly-built-1-5-billion-startup-betting-ai-can-revive-u-s-manufacturing",
+      "title": "Former OpenAI exec has quietly built $1.5 billion startup, betting AI can revive U.S. manufacturing",
+      "dek": "Former OpenAI executive Bob McGrew is launching Arda at a $1.5 billion.",
+      "aiSummary": "Bob McGrew, a former executive at OpenAI, is launching a startup named Arda with a valuation of $1.5 billion. The company aims to use artificial intelligence to revitalize the U.S. manufacturing sector.",
+      "articleUrl": "https://www.cnbc.com/2026/10/20/ex-openai-executive-builds-1point5-billion-ai-manufacturing-startup-arda.html",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "Arda",
+        "Bob McGrew",
+        "AI",
+        "Manufacturing"
+      ],
+      "publishedAt": "2026-10-20T13:03:31+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Manufacturing"
+        },
+        {
+          "name": "Startups"
+        }
+      ]
+    },
+    {
+      "slug": "meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations",
+      "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+      "dek": "Meta is suspending the sharing feature while it investigates its privacy.",
+      "aiSummary": "Meta has paused the sharing feature in its Muse app after reports that it exposed users' personal and business secrets. The company is investigating privacy concerns related to the feature.",
+      "articleUrl": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+      "category": "Social Media",
+      "filterTags": [
+        "Meta",
+        "Muse"
+      ],
+      "publishedAt": "2026-10-20T12:33:13+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Social Media"
+        },
+        {
+          "name": "Privacy"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "the-hidden-cost-of-llm-routing-why-switching-models-costs-more",
+      "title": "The Hidden Cost of LLM Routing: Why Switching Models Costs More",
+      "dek": "I tested LLM routing to understand why switching models mid-session can erase the savings promised by cheaper inference \n The post  The Hidden Cost of LLM Routing: Why Switching Models Costs More  appeared first on  Towards Data Science .",
+      "aiSummary": "The author tested LLM routing to investigate why switching between models mid-session can negate the cost savings expected from using cheaper inference options. The findings suggest that the act of switching models incurs hidden costs that outweigh the benefits of using lower-priced alternatives.",
+      "articleUrl": "https://towardsdatascience.com/the-hidden-cost-of-llm-routing-why-switching-models-costs-more/",
+      "category": "AI",
+      "filterTags": [
+        "LLM",
+        "Routing",
+        "Inference",
+        "Towards Data Science"
+      ],
+      "publishedAt": "2026-10-20T12:30:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cost Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "uk-asks-apple-to-widen-access-to-its-payment-tech",
+      "title": "UK asks Apple to widen access to its payment tech",
+      "dek": "Proposed changes could lead to new digital wallets and keys as well as ticketing apps, the regulator says.",
+      "aiSummary": "The UK regulator is proposing changes that would allow Apple to broaden access to its payment technology. These changes could enable new digital wallets, key management solutions, and ticketing applications.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/cqm26zzl0k12o?at_medium=RSS&at_campaign=rss",
+      "category": "FinTech",
+      "filterTags": [
+        "Apple",
+        "digital wallets",
+        "digital keys",
+        "ticketing apps"
+      ],
+      "publishedAt": "2026-10-20T12:29:24+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "FinTech"
+        },
+        {
+          "name": "Regulation"
+        },
+        {
+          "name": "Payments"
+        }
+      ]
+    },
+    {
+      "slug": "ai-adoption-by-industry-shows-what-other-sectors-can-learn",
+      "title": "AI adoption by industry shows what other sectors can learn",
+      "dek": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools matu",
+      "aiSummary": "The article argues that the current focus on AI in Silicon Valley overlooks broader adoption trends, noting that the tech sector is merely the first to adopt these tools. It suggests that as generative AI and automation mature, other industries can draw lessons from this initial wave of implementation.",
+      "articleUrl": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+      "category": "AI",
+      "filterTags": [
+        "Generative AI",
+        "Automation",
+        "Silicon Valley"
+      ],
+      "publishedAt": "2026-10-20T12:00:00+00:00",
+      "publisher": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "website": "https://www.technologyreview.com/",
+        "logoUrl": "https://www.technologyreview.com/static/media/favicon.1cfcdb44759a0f93ddf5feb5405dd4cc.ico",
+        "faviconUrl": "https://www.technologyreview.com/static/media/favicon.1cfcdb44759a0f93ddf5feb5405dd4cc.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Business Strategy"
+        },
+        {
+          "name": "Technology Adoption"
+        }
+      ]
+    },
+    {
+      "slug": "is-coreweave-the-silicon-valley-bank-of-2026",
+      "title": "Is CoreWeave the Silicon Valley Bank of 2026?",
+      "dek": "Perhaps, but not in the way you might think",
+      "aiSummary": "The article questions whether CoreWeave will play a role similar to Silicon Valley Bank in 2026, but suggests the comparison is not straightforward. It hints that the similarities may lie in unexpected ways.",
+      "articleUrl": "https://www.ft.com/content/4fb42dd7-a72c-4e20-9e7c-cdc9d3215159",
+      "category": "Finance",
+      "filterTags": [
+        "CoreWeave",
+        "Silicon Valley Bank"
+      ],
+      "publishedAt": "2026-10-20T11:50:27+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "b11757-cuda-clear-cuda-graphs-after-legacy-memory-pool-flush-26771",
+      "title": "b11757: CUDA: Clear CUDA graphs after legacy memory pool flush (#26771)",
+      "dek": "Assisted-by: Claude Opus 5.5",
+      "aiSummary": "The provided text indicates a specific code change identified as b11757, which involves clearing CUDA graphs after a legacy memory pool flush. The commit is associated with pull request #26771 and was assisted by Claude Opus 5.5.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11757",
+      "category": "Hardware",
+      "filterTags": [
+        "CUDA",
+        "Claude Opus 5.5"
+      ],
+      "publishedAt": "2026-10-20T11:30:50+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "b11755",
+      "title": "b11755",
+      "dek": "metal : fix missing MoE kernel variant for 9 experts per token ( #30610 ) ( #30699 ) \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/57761738 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silicon (arm64, K",
+      "aiSummary": "The metal implementation in llama.cpp has been updated to include a missing MoE kernel variant that supports 9 experts per token, addressing issues #30610 and #30699. The fix is available for macOS and iOS on Apple Silicon (arm64).",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11755",
+      "category": "Open Source",
+      "filterTags": [
+        "Metal",
+        "MoE",
+        "llama.cpp",
+        "Apple Silicon",
+        "arm64"
+      ],
+      "publishedAt": "2026-10-20T11:22:04+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1792504417",
+      "title": "viable/strict/1792504417",
+      "dek": "[Testcase Refactoring] Split test_collective_utils by hardware depend…",
+      "aiSummary": "The article discusses refactoring test cases by splitting the test_collective_utils module based on hardware dependencies. This change aims to improve test organization and maintainability.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1792504417",
+      "category": "Software Development",
+      "filterTags": [
+        "Testcase Refactoring",
+        "test_collective_utils",
+        "hardware dependencies"
+      ],
+      "publishedAt": "2026-10-20T11:13:40+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Testing"
+        },
+        {
+          "name": "Refactoring"
+        }
+      ]
+    },
+    {
+      "slug": "pgvector-vs-dedicated-vector-databases-a-production-benchmark",
+      "title": "pgvector vs. Dedicated Vector Databases: A Production Benchmark",
+      "dek": "Run this on a typical laptop and both systems will report latencies in the low single-digit to tens of milliseconds range, with the exact numbers depending heavily on your CPU, available RAM, and whatever else is running on your machine at the time.",
+      "aiSummary": "The article presents a production benchmark comparing pgvector against dedicated vector databases. It notes that when run on a standard laptop, both systems typically exhibit latencies ranging from low single-digit to tens of milliseconds, with specific results varying based on hardware specifications and system load.",
+      "articleUrl": "https://machinelearningmastery.com/pgvector-vs-dedicated-vector-databases-a-production-benchmark/",
+      "category": "Databases",
+      "filterTags": [
+        "pgvector",
+        "Vector Databases",
+        "Benchmark",
+        "Latency"
+      ],
+      "publishedAt": "2026-10-20T11:00:00+00:00",
+      "publisher": {
+        "name": "Jason Brownlee",
+        "domain": "machinelearningmastery.com",
+        "website": "https://machinelearningmastery.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=machinelearningmastery.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=machinelearningmastery.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Databases"
+        },
+        {
+          "name": "Data Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "techpulse-puts-zdnet-and-4-other-tech-sites-in-one-feed-for-free",
+      "title": "TechPulse puts ZDNET and 4 other tech sites in one feed – for free",
+      "dek": "Choose which CNET Group publications appear in your feed, then catch up on news, reviews, and videos – without an algorithm deciding what you see.",
+      "aiSummary": "TechPulse offers a customizable news feed where users can select specific CNET Group publications. This service allows users to access news, reviews, and videos, emphasizing a non-algorithmic approach to content delivery.",
+      "articleUrl": "https://www.zdnet.com/tech/techpulse-free-tech-news-app-zdnet/",
+      "category": "Technology",
+      "filterTags": [
+        "TechPulse",
+        "ZDNET",
+        "CNET Group"
+      ],
+      "publishedAt": "2026-10-20T11:00:00+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "News Aggregation"
+        },
+        {
+          "name": "Media"
+        }
+      ]
+    },
+    {
+      "slug": "simulation-driven-thermal-modeling-for-sic-and-gan-converters",
+      "title": "Simulation-Driven Thermal Modeling for SiC and GaN Converters",
+      "dek": "SiC and GaN thermal management relies on multiscale simulation spanning device-level FEA to system-level electro-thermal co-simulation. \n The post  Simulation-Driven Thermal Modeling for SiC and GaN Converters  appeared first on  Power Electronics News .",
+      "aiSummary": "Thermal management for SiC and GaN converters depends on multiscale simulation techniques. This approach spans from device-level finite element analysis (FEA) to system-level electro-thermal co-simulation.",
+      "articleUrl": "https://www.powerelectronicsnews.com/simulation-driven-thermal-modeling-for-sic-and-gan-converters/",
+      "category": "Power Electronics",
+      "filterTags": [
+        "SiC",
+        "GaN",
+        "FEA",
+        "Electro-thermal co-simulation",
+        "Power Electronics News"
+      ],
+      "publishedAt": "2026-10-20T11:00:00+00:00",
+      "publisher": {
+        "name": "Power Electronics News",
+        "domain": "powerelectronicsnews.com",
+        "website": "https://www.powerelectronicsnews.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Power Electronics"
+        },
+        {
+          "name": "Thermal Management"
+        },
+        {
+          "name": "Simulation"
+        }
+      ]
+    },
+    {
+      "slug": "embracing-playful-imperfection-with-the-css-random-function",
+      "title": "Embracing Playful Imperfection With The CSS `random()` Function",
+      "dek": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries ",
+      "aiSummary": "The article explores how the CSS random() function can introduce controlled randomness into design systems. Brecht De Ruyte demonstrates this with demos of organic typography, bouncing letters, and splayed cards, all achieved without JavaScript libraries.",
+      "articleUrl": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
+      "category": "Web Development",
+      "filterTags": [
+        "CSS",
+        "random()",
+        "JavaScript"
+      ],
+      "publishedAt": "2026-10-20T10:00:00+00:00",
+      "publisher": {
+        "name": "Smashing Magazine",
+        "domain": "smashingmagazine.com",
+        "website": "https://www.smashingmagazine.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=smashingmagazine.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=smashingmagazine.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Web Development"
+        },
+        {
+          "name": "Design"
+        },
+        {
+          "name": "Front-end"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1792497064-inductor-preserve-dtype-views-in-the-fx-wrapper-201469-201469",
+      "title": "viable/strict/1792497064: [inductor] Preserve dtype views in the FX wrapper (#201469) (#201469)",
+      "dek": "Summary: \n Preserve the logical dtype of  ReinterpretView  aliases in  wrapper_fxir.py . When a reinterpretation changes dtype, emit  aten.view.dtype  after its shape/stride view and use the view dtype for temporary  WorkspaceArg s. This keeps FP8 and other equal-width dtype view",
+      "aiSummary": "This update aims to preserve the logical data type of ReinterpretView aliases within `wrapper_fxir.py`. When a reinterpretation changes the data type, `aten.view.dtype` will be emitted after its shape/stride view. The view's data type will then be used for temporary WorkspaceArgs, ensuring FP8 and other equal-width data type views are maintained.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1792497064",
+      "category": "Software Development",
+      "filterTags": [
+        "inductor",
+        "FX wrapper",
+        "ReinterpretView",
+        "wrapper_fxir.py",
+        "aten.view.dtype",
+        "WorkspaceArgs",
+        "FP8"
+      ],
+      "publishedAt": "2026-10-20T09:12:39+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Compilers"
+        },
+        {
+          "name": "Data Types"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1792493526-test-xpu-refactor-test-torch-py-and-enable-xpu-197120",
+      "title": "viable/strict/1792493526: [Test][XPU] Refactor test_torch.py and enable XPU (#197120)",
+      "dek": "Created TestTorchDeviceSpecific and move cuda specific test into it. \nAdded hw_classification \nRemove redundant @onlyNativeDeviceTypes \nEnabled XPU and skipped cases failed due to known issues. \nPull Request resolved:  #197120 \nApproved by:  https://github.com/CuiYifeng ,  https:",
+      "aiSummary": "The pull request refactors test_torch.py by creating a TestTorchDeviceSpecific class to isolate CUDA-specific tests. It adds hardware classification, removes redundant decorators, and enables XPU support while skipping test cases that fail due to known issues.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1792493526",
+      "category": "Machine Learning",
+      "filterTags": [
+        "PyTorch",
+        "XPU",
+        "CUDA",
+        "Python",
+        "GitHub"
+      ],
+      "publishedAt": "2026-10-20T08:25:53+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Testing"
+        }
+      ]
+    },
+    {
+      "slug": "hugging-face-torchtpu-tpus-natively",
+      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+      "dek": "Hugging Face introduces native support for TPUs via TorchTPU",
+      "aiSummary": "",
+      "articleUrl": "https://huggingface.co/blog/hf-torchtpu",
+      "category": "AI",
+      "filterTags": [
+        "Hugging Face",
+        "TorchTPU",
+        "TPU"
+      ],
+      "publishedAt": "2026-10-20T00:00:00+00:00",
+      "publisher": {
+        "name": "Hugging Face",
+        "domain": "huggingface.co",
+        "website": "https://huggingface.co/",
+        "logoUrl": "https://huggingface.co/front/thumbnails/v2-2.png",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    }
+  ]
+}
