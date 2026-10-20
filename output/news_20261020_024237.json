@@ -1,0 +1,1060 @@
+{
+  "news": [
+    {
+      "slug": "is-this-the-beginning-of-the-end-of-the-ai-stock-market-boom",
+      "title": "Is this the beginning of the end of the AI stock market boom?",
+      "dek": "After a wobble on the tech-heavy Nasdaq, some AI market observers think a reassessment of the potential value of various businesses may be under way Get our  breaking news email ,  free app  or  daily news podcast The world is holding its breath as it waits to find out whether th",
+      "aiSummary": "Following a recent decline in the tech-focused Nasdaq index, some market analysts suggest that a reevaluation of the true value of AI companies is beginning. This shift indicates that investors may be moving away from the previous boom and scrutinizing business fundamentals more closely.",
+      "articleUrl": "https://www.theguardian.com/business/2026/oct/20/ai-stock-market-boom-beginning-of-the-end-imf-wallstreet-nasdaq",
+      "category": "Finance",
+      "filterTags": [
+        "Nasdaq",
+        "AI stocks",
+        "Tech market"
+      ],
+      "publishedAt": "2026-10-20T02:29:19+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Artificial Intelligence"
+        }
+      ]
+    },
+    {
+      "slug": "v1-104-4",
+      "title": "v1.104.4",
+      "dek": "Verify Docker Image Signature \n All LiteLLM Docker images are signed with  cosign . Every release is signed with the same key introduced in  commit  0112e53 . \n Verify using the pinned commit hash (recommended): \n A commit hash is cryptographically immutable, so this is the stron",
+      "aiSummary": "LiteLLM has released version 1.104.4, which includes signed Docker images using cosign. The release notes recommend verifying signatures using a pinned commit hash to ensure cryptographic immutability and security.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.104.4",
+      "category": "DevOps",
+      "filterTags": [
+        "LiteLLM",
+        "Docker",
+        "cosign"
+      ],
+      "publishedAt": "2026-10-20T02:26:46+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "open-your-doors-for-ai-german-chancellor-urges-businesses-to-embrace-ai-as-nvidia-announces-new-investments",
+      "title": "‘Open your doors for AI’: German chancellor urges businesses to embrace AI as Nvidia announces new investments",
+      "dek": "Nvidia announced planned investments in four German startups as Chancellor Friedrich Merz urged businesses to embrace AI at an industry summit in Berlin.",
+      "aiSummary": "Nvidia has announced planned investments in four German startups. This announcement coincided with Chancellor Friedrich Merz urging businesses to embrace AI at an industry summit in Berlin.",
+      "articleUrl": "https://www.cnbc.com/2026/10/20/german-chancellor-urges-businesses-to-embrace-ai.html",
+      "category": "AI",
+      "filterTags": [
+        "Nvidia",
+        "AI",
+        "Friedrich Merz",
+        "Germany"
+      ],
+      "publishedAt": "2026-10-20T02:16:25+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Business"
+        },
+        {
+          "name": "Investment"
+        }
+      ]
+    },
+    {
+      "slug": "alibaba-backs-chinese-robovan-maker-in-400-million-fundraising",
+      "title": "Alibaba Backs Chinese Robovan Maker in $400 Million Fundraising",
+      "dek": "Neolix Technologies Co., a Chinese maker of driverless delivery vehicles, raised $400 million to fuel its global expansion.",
+      "aiSummary": "Neolix Technologies, a Chinese manufacturer of driverless delivery vehicles, has secured $400 million in funding. The capital will be used to support the company's global expansion efforts.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-20/alibaba-backs-chinese-robovan-maker-in-400-million-fundraising",
+      "category": "Autonomous Vehicles",
+      "filterTags": [
+        "Alibaba",
+        "Neolix Technologies",
+        "Robovan",
+        "Autonomous Vehicles"
+      ],
+      "publishedAt": "2026-10-20T02:00:00+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Autonomous Vehicles"
+        },
+        {
+          "name": "Logistics"
+        },
+        {
+          "name": "Investment"
+        }
+      ]
+    },
+    {
+      "slug": "new-ai-tool-can-predict-cancer-survival-by-a-single-patient-selfie",
+      "title": "New AI tool can predict cancer survival by a single patient selfie",
+      "dek": "A new artificial intelligence program can estimate how long a cancer patient will live using just one photo of their face.",
+      "aiSummary": "A new AI tool has been developed that can predict cancer survival rates by analyzing a single patient selfie. The system uses facial features to estimate life expectancy without requiring complex medical imaging or extensive data.",
+      "articleUrl": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Cancer",
+        "Predictive Analytics",
+        "Computer Vision"
+      ],
+      "publishedAt": "2026-10-20T01:50:20+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Healthcare"
+        }
+      ]
+    },
+    {
+      "slug": "us-banning-chinese-ai-deepseek-from-government-agency-it-systems",
+      "title": "US banning Chinese AI DeepSeek from government agency IT systems",
+      "dek": "The US is blocking the Chinese AI tool DeepSeek from being used in government computer systems.",
+      "aiSummary": "The United States has moved to prohibit the Chinese artificial intelligence model DeepSeek from accessing government agency IT systems. This ban aims to secure federal infrastructure against potential security risks associated with foreign AI technologies.",
+      "articleUrl": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+      "category": "AI",
+      "filterTags": [
+        "DeepSeek",
+        "US Government",
+        "AI"
+      ],
+      "publishedAt": "2026-10-20T01:37:45+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "Geopolitics"
+        }
+      ]
+    },
+    {
+      "slug": "ciflow-xpu-196910",
+      "title": "ciflow/xpu/196910",
+      "dek": "address comment",
+      "aiSummary": "The article notes that a comment is being addressed. No further details are provided.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fxpu%2F196910",
+      "category": "Software Development",
+      "filterTags": [],
+      "publishedAt": "2026-10-20T01:34:11+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "ai-experts-to-school-congress-wanted",
+      "title": "AI experts to school Congress wanted",
+      "dek": "There is a desire for artificial intelligence specialists to educate members of Congress.",
+      "aiSummary": "The provided text does not contain an article body, only the title. Therefore, no factual summary can be generated based on the description.",
+      "articleUrl": "https://www.politico.com/live-updates/2026/10/19/congress/what-were-watching-01125931",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Congress"
+      ],
+      "publishedAt": "2026-10-20T01:28:25+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Policy"
+        }
+      ]
+    },
+    {
+      "slug": "mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back",
+      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "dek": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+      "aiSummary": "Mayor Zohran Mamdani stated on Monday night that New Yorkers should reject the idea that an AI takeover is unavoidable. He urged residents to demand regulations that safeguard the public interest and restore power to the people.",
+      "articleUrl": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "category": "Politics",
+      "filterTags": [
+        "Zohran Mamdani",
+        "New York",
+        "AI Regulation"
+      ],
+      "publishedAt": "2026-10-20T01:27:03+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "v1-14-0-dev0",
+      "title": "v1.14.0.dev0",
+      "dek": "Langflow nightly v1.14.0.dev0",
+      "aiSummary": "Langflow has released version 1.14.0.dev0. This update is identified as a nightly build for the platform.",
+      "articleUrl": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev0",
+      "category": "AI",
+      "filterTags": [
+        "Langflow"
+      ],
+      "publishedAt": "2026-10-20T01:16:52+00:00",
+      "publisher": {
+        "name": "langflow-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langflow-ai/langflow",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "citi-global-chief-economist-on-global-growth",
+      "title": "Citi Global Chief Economist on Global Growth",
+      "dek": "Nathan Sheets, Global Chief Economist at Citi, discusses the bank's forecast for global growth amid rising energy costs, persistent inflation and disruptions from AI.\nHe speaks with Haidi Stroud Watts on the sidelines of the Citi ANZ Investment Conference in Sydney on \"Bloomberg:",
+      "aiSummary": "Nathan Sheets, Citi's Global Chief Economist, discussed the bank's outlook for global growth, highlighting rising energy costs, ongoing inflation, and the impact of AI disruptions. He spoke with Haidi Stroud Watts during the Citi ANZ Investment Conference in Sydney, as reported on Bloomberg.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-20/citi-global-chief-economist-on-global-growth-video",
+      "category": "Economics",
+      "filterTags": [
+        "Citi",
+        "AI",
+        "Bloomberg"
+      ],
+      "publishedAt": "2026-10-20T01:07:20+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Economics"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Artificial Intelligence"
+        }
+      ]
+    },
+    {
+      "slug": "citi-australia-ceo-on-anz-market-biz-growth",
+      "title": "Citi Australia CEO on ANZ Market, Biz Growth",
+      "dek": "Mark Woodruff, Citi Australia CEO and Head of ANZ, discusses his outlook for the company's growth and business in the region and says the M&A cycle has been 'really strong' in the Australian market.\nHe speaks with Haidi Stroud Watts on the sidelines of the Citi ANZ Investment Con",
+      "aiSummary": "Mark Woodruff, CEO of Citi Australia and Head of ANZ, discusses the company's growth outlook and business performance in the region. He notes that the merger and acquisition cycle has been particularly strong in the Australian market during his conversation with Haidi Stroud Watts.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-20/citi-australia-ceo-on-anz-market-biz-growth-video",
+      "category": "Finance",
+      "filterTags": [
+        "Citi",
+        "ANZ",
+        "M&A",
+        "Mark Woodruff"
+      ],
+      "publishedAt": "2026-10-20T01:03:19+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Banking"
+        },
+        {
+          "name": "M&A"
+        }
+      ]
+    },
+    {
+      "slug": "ciflow-trunk-201492",
+      "title": "ciflow/trunk/201492",
+      "dek": "update torchtitan commit hash",
+      "aiSummary": "The provided text indicates a specific update to the commit hash associated with torchtitan. No further details regarding the nature of the code changes or the impact of this update are available in the snippet.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Ftrunk%2F201492",
+      "category": "Machine Learning",
+      "filterTags": [
+        "torchtitan"
+      ],
+      "publishedAt": "2026-10-20T00:34:58+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "b11748",
+      "title": "b11748",
+      "dek": "sycl : fix get_rows on reordered quantized weights ( #30430 ) \n Co-authored-by: Sam  sam@garagellm.tail7dd858.ts.net \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/57598742 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64)",
+      "aiSummary": "This commit fixes an issue with the get_rows function when handling reordered quantized weights in the SYCL backend. The change was co-authored by Sam and is part of the llama.cpp project.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11748",
+      "category": "AI",
+      "filterTags": [
+        "SYCL",
+        "llama.cpp",
+        "quantized weights",
+        "C++"
+      ],
+      "publishedAt": "2026-10-20T00:27:18+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-a84b7baa33f893ab92176c08a85b14455e60b2fc",
+      "title": "trunk/a84b7baa33f893ab92176c08a85b14455e60b2fc",
+      "dek": "Revert \"[ROCm][CI] Run MI350 jobs on new labels (mi350.dpx.N and mi35…",
+      "aiSummary": "The provided text indicates a code change that reverts a previous modification. The original modification involved running MI350 jobs on new labels, specifically mi350.dpx.N, within the ROCm CI environment.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2Fa84b7baa33f893ab92176c08a85b14455e60b2fc",
+      "category": "Hardware",
+      "filterTags": [
+        "ROCm",
+        "CI",
+        "MI350"
+      ],
+      "publishedAt": "2026-10-20T00:20:04+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "DevOps"
+        }
+      ]
+    },
+    {
+      "slug": "china-s-villages-pay-the-price-for-beijing-s-ai-ambitions",
+      "title": "China’s villages pay the price for Beijing’s AI ambitions",
+      "dek": "Residents in remote region of Shaoguan hope country’s AI infrastructure push will deliver boom that has long eluded them",
+      "aiSummary": "In Shaoguan, residents in a remote area are awaiting the benefits of China's AI infrastructure expansion. They hope the initiative will bring economic growth that has been missing for years.",
+      "articleUrl": "https://www.ft.com/content/51a0afc0-65f3-4a51-b1af-5c6fb40a313e?syn-25a6b1a6=1",
+      "category": "Technology",
+      "filterTags": [
+        "AI",
+        "China",
+        "Shaoguan"
+      ],
+      "publishedAt": "2026-10-20T00:15:07+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Economy"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "meet-drex-max-nace-ai-s-multimodal-decision-model-for-computer-use-agents-with-a-score-67-59",
+      "title": "Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Agents with a Score 67.59",
+      "dek": "Nace AI released Drex Max, a multimodal decision model that reads text and screenshots and returns calibrated probabilities. Nace reports 67.59 on Decision Index 0.3.2 at $0.06 per 1M input tokens. \n The post  Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Ag",
+      "aiSummary": "Nace AI has released Drex Max, a multimodal decision model capable of processing text and screenshots to return calibrated probabilities. The company reports that the model achieved a score of 67.59 on Decision Index 0.3.2 while costing $0.06 per 1M input tokens.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/19/nace-ai-drex-max-multimodal-decision-model/",
+      "category": "AI",
+      "filterTags": [
+        "Nace AI",
+        "Drex Max",
+        "Multimodal",
+        "Computer-Use Agents",
+        "Decision Index"
+      ],
+      "publishedAt": "2026-10-20T00:03:38+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "b11747",
+      "title": "b11747",
+      "dek": "mtmd : match the transformers Qwen-VL resize ( #30736 ) \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/57593886 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silicon (arm64, KleidiAI enabled)  DISABLED \n ",
+      "aiSummary": "The project involves matching the Qwen-VL transformer model’s resize functionality, as referenced in issue #30736. It includes a website at https://llama.app and an attestations link to the ggml-org/llama.cpp repository. The build targets macOS and iOS on Apple Silicon (arm64), with a disabled KleidiAI option.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11747",
+      "category": "AI",
+      "filterTags": [
+        "Qwen-VL",
+        "transformers",
+        "Apple Silicon",
+        "arm64",
+        "KleidiAI",
+        "llama.cpp",
+        "ggml-org",
+        "llama.app"
+      ],
+      "publishedAt": "2026-10-20T00:02:29+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "my-obituary-for-programming",
+      "title": "My obituary for programming",
+      "dek": "My obituary for programming \nJeremy Scheff poignantly captures the key loss caused by coding agents for career programmers who enjoyed the  puzzle  of developing code: \n \n Programming turned into one of the greatest jobs you could imagine. You got paid to work on tricky little lo",
+      "aiSummary": "Jeremy Scheff laments how AI coding agents are eroding the role of professional programmers, who once found joy in solving complex coding puzzles. He describes programming as once a highly rewarding career, but now threatened by automation.",
+      "articleUrl": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "coding agents",
+        "programming",
+        "AI"
+      ],
+      "publishedAt": "2026-10-19T23:58:25+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Career Impact"
+        }
+      ]
+    },
+    {
+      "slug": "nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45b-compute-deal",
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+      "dek": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
+      "aiSummary": "The potential deal between Nscale and Anthropic would bring their total compute agreements to another $45 billion. If finalized, it would add to a series of large compute contracts Anthropic has secured in the last year.",
+      "articleUrl": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "category": "AI",
+      "filterTags": [
+        "Nscale",
+        "Anthropic",
+        "compute"
+      ],
+      "publishedAt": "2026-10-19T23:39:38+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "structured-outputs-for-anthropic-claude-models-on-amazon-bedrock",
+      "title": "Structured outputs for Anthropic Claude models on Amazon Bedrock",
+      "dek": "Amazon Bedrock now supports structured outputs for all Anthropic Claude models on both the bedrock-runtime and bedrock-mantle endpoints. Receive schema-compliant JSON that conforms to a defined structure, without custom parsing, retry logic, or post-processing, using JSON Schema ",
+      "aiSummary": "Amazon Bedrock now enables structured outputs for all Anthropic Claude models across its bedrock-runtime and bedrock-mantle endpoints. This feature allows users to receive schema-compliant JSON that adheres to a defined structure, eliminating the need for custom parsing, retry logic, or post-processing.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/",
+      "category": "Cloud Computing",
+      "filterTags": [
+        "Amazon Bedrock",
+        "Anthropic",
+        "Claude",
+        "JSON Schema",
+        "bedrock-runtime",
+        "bedrock-mantle"
+      ],
+      "publishedAt": "2026-10-19T23:32:19+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "b11744",
+      "title": "b11744",
+      "dek": "server: add --connect, allow p2p access to server outside LAN ( #28277 ) \n \n \n init \n \n \n wip \n \n \n wire it up \n \n \n make it clear that it's experimental \n \n \n add props.connect_code \n \n \n nits \n \n \n fix windows build \n \n \n server: do not advertise a connect code without the tunn",
+      "aiSummary": "The commit adds a --connect option to the server, enabling peer‑to‑peer access from outside the local network. It marks the feature as experimental, introduces a connect code property, and fixes Windows build issues while ensuring the connect code is not advertised without a tunnel. The work also includes initial setup, wiring, and minor clean‑ups.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11744",
+      "category": "Networking",
+      "filterTags": [
+        "p2p",
+        "connect code",
+        "Windows"
+      ],
+      "publishedAt": "2026-10-19T22:58:29+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Networking"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "embedded-ai-evaluators-won-t-be-an-easy-solution-hugging-face-s-policy-chief-says",
+      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+      "dek": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of ",
+      "aiSummary": "Hugging Face's policy chief states that the concept of embedded evaluators, where neutral third-party observers are stationed within AI organizations, is not an easy solution. This approach has gained traction recently as AI labs face increasing pressure to address safety incidents and potential harms.",
+      "articleUrl": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "category": "AI",
+      "filterTags": [
+        "Hugging Face",
+        "AI safety",
+        "embedded evaluators"
+      ],
+      "publishedAt": "2026-10-19T22:49:27+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Policy"
+        },
+        {
+          "name": "Safety"
+        }
+      ]
+    },
+    {
+      "slug": "jim-cramer-says-don-t-chase-the-ai-rebound-just-yet-here-s-what-needs-to-happen-first",
+      "title": "Jim Cramer says don't chase the AI rebound just yet. Here's what needs to happen first",
+      "dek": "CNBC’s Jim Cramer warned investors against rushing back into AI stocks quite yet.",
+      "aiSummary": "Jim Cramer, a CNBC host, warned investors not to rush back into AI stocks. He urged caution before making such moves.",
+      "articleUrl": "https://www.cnbc.com/2026/10/19/jim-cramer-dont-chase-ai-rebound-yet.html",
+      "category": "Finance",
+      "filterTags": [
+        "CNBC",
+        "AI"
+      ],
+      "publishedAt": "2026-10-19T22:46:33+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Investing"
+        }
+      ]
+    },
+    {
+      "slug": "developers-can-now-access-sagemaker-studio-through-the-new-aws-experience",
+      "title": "Developers can now access SageMaker Studio through the new AWS experience",
+      "dek": "New Amazon SageMaker AI customers can now land in a fully configured SageMaker Studio environment in only a few steps. Sign up with an identity you already have, such as Amazon, Apple, GitHub, or Google, with no advanced AWS account or credit card required for most customers, plu",
+      "aiSummary": "Amazon SageMaker now offers a streamlined onboarding process that lets new AI customers access a fully configured Studio environment quickly. Users can sign up using existing identities such as Amazon, Apple, GitHub, or Google, and most customers don't need a dedicated AWS account or credit card.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/developers-can-now-access-sagemaker-studio-through-the-new-aws-experience/",
+      "category": "AI",
+      "filterTags": [
+        "Amazon SageMaker",
+        "AWS",
+        "SageMaker Studio",
+        "Amazon",
+        "Apple",
+        "GitHub",
+        "Google"
+      ],
+      "publishedAt": "2026-10-19T22:39:24+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-and-nscale-in-talks-for-second-multibillion-dollar-deal",
+      "title": "Anthropic and Nscale in talks for second multibillion-dollar deal",
+      "dek": "AI start-up looks for more computing power from UK data centre group",
+      "aiSummary": "AI start-up Anthropic is in discussions with UK data centre group Nscale regarding a second multibillion-dollar deal. The company is seeking additional computing power to support its operations.",
+      "articleUrl": "https://www.ft.com/content/26a604d8-1a9d-4801-bd73-6ac588b63bdc?syn-25a6b1a6=1",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "Nscale",
+        "Data Centre",
+        "Computing Power"
+      ],
+      "publishedAt": "2026-10-19T22:27:32+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "jim-cramer-says-the-recent-ai-stock-sell-off-echoes-a-crucial-lesson-from-the-1987-market-crash",
+      "title": "Jim Cramer says the recent AI stock sell-off echoes a crucial lesson from the 1987 market crash",
+      "dek": "CNBC’s Jim Cramer said the 1987 stock market crash offers an important lesson that can be applied to the recent AI sell-off.",
+      "aiSummary": "Jim Cramer, speaking on CNBC, said that the 1987 stock market crash offers an important lesson that can be applied to the recent AI sell-off. He implied that the market dynamics of the past may inform current investor behavior.",
+      "articleUrl": "https://www.cnbc.com/2026/10/19/cramer-recent-ai-sell-off-echoes-lesson-1987-crash.html",
+      "category": "Finance",
+      "filterTags": [
+        "CNBC",
+        "Jim Cramer",
+        "AI",
+        "1987 stock market crash"
+      ],
+      "publishedAt": "2026-10-19T22:22:45+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Investing"
+        }
+      ]
+    },
+    {
+      "slug": "elon-musk-says-he-will-give-a-spacex-share-to-every-kid-in-america",
+      "title": "Elon Musk Says He Will Give a SpaceX Share to ‘Every Kid in America’",
+      "dek": "Anthropic, an A.I. rival to SpaceX, earlier said it would form a “public benefit fund” and other tech moguls have contributed to savings accounts for children.",
+      "aiSummary": "Anthropic, an AI competitor of SpaceX, announced plans to create a public benefit fund. Meanwhile, other technology leaders have set up savings accounts for children.",
+      "articleUrl": "https://www.nytimes.com/2026/10/19/technology/elon-musk-spacex-stock-anthropic-giveaway.html",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Anthropic",
+        "SpaceX",
+        "AI"
+      ],
+      "publishedAt": "2026-10-19T22:12:02+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "the-fossil-fuel-comeback-is-here",
+      "title": "The fossil fuel comeback is here",
+      "dek": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more than a decade with more data centers, factories, and electric vehicles plugging ",
+      "aiSummary": "A new report indicates that the US is constructing more fossil fuel infrastructure than it has in ten years, coinciding with a slowdown in renewable energy growth. This trend is driven by a sharp rise in electricity demand from data centers, factories, and electric vehicles.",
+      "articleUrl": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+      "category": "Energy",
+      "filterTags": [
+        "fossil fuel",
+        "renewable energy",
+        "electricity demand",
+        "data centers",
+        "electric vehicles"
+      ],
+      "publishedAt": "2026-10-19T21:48:01+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Energy"
+        },
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "Climate"
+        }
+      ]
+    },
+    {
+      "slug": "coreweave-8217-s-debt-is-becoming-the-whole-ai-industry-8217-s-problem",
+      "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
+      "dek": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and al",
+      "aiSummary": "CoreWeave’s bonds slipped into distressed territory, meaning investors now demand a 1,000‑basis‑point premium over government bonds. The move drew attention from investor Chamath Palihapitiya, who noted the debt issue could signal wider risks for the AI industry. The situation highlights growing financial strain in AI‑focused companies.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+      "category": "Finance",
+      "filterTags": [
+        "CoreWeave",
+        "Chamath Palihapitiya",
+        "SPAC",
+        "distressed debt",
+        "bonds"
+      ],
+      "publishedAt": "2026-10-19T21:28:20+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Investments"
+        }
+      ]
+    },
+    {
+      "slug": "advancing-coding-in-low-resource-programming-languages",
+      "title": "Advancing coding in low‑resource programming languages",
+      "dek": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+      "aiSummary": "OpenAI is enhancing ChatGPT's capabilities in low-resource programming languages by introducing new evaluations. These assessments focus on software engineering tasks, SQLite, and COBOL migration.",
+      "articleUrl": "https://openai.com/index/low-resource-programming-languages",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "ChatGPT",
+        "SQLite",
+        "COBOL"
+      ],
+      "publishedAt": "2026-10-19T12:00:00+00:00",
+      "publisher": {
+        "name": "OpenAI",
+        "domain": "openai.com",
+        "website": "https://openai.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    }
+  ]
+}
