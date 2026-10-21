@@ -1,0 +1,1033 @@
+{
+  "news": [
+    {
+      "slug": "b11774",
+      "title": "b11774",
+      "dek": "mtmd : lfm2 tiles and layout match transformers ( #30261 ) \n \n mtmd : lfm2 tiles stretch the image to the grid \n \n Lfm2VlImageProcessor.crop_image_to_patches resizes the image straight to \n(512 * rows, 512 * cols) before it cuts the tiles. llama.cpp kept the aspect \nratio and add",
+      "aiSummary": "The update modifies the Lfm2VlImageProcessor to resize images directly to specific grid dimensions before cropping, ensuring consistency with the Transformers library. This change addresses a discrepancy where llama.cpp previously preserved aspect ratios, whereas the new implementation stretches images to fit the grid.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11774",
+      "category": "Machine Learning",
+      "filterTags": [
+        "LFM2",
+        "Transformers",
+        "llama.cpp",
+        "Lfm2VlImageProcessor"
+      ],
+      "publishedAt": "2026-10-21T02:35:08+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "b11773",
+      "title": "b11773",
+      "dek": "model : add H2O-Lightning-4B decision model ( #30361 ) \n \n model : add H2O-Lightning-4B decision model \n \n Adds the h2o-lightning decision type for h2oai/h2o-lightning-4b \n(Qwen3.5-4B with a merged decision LoRA). \n None of the existing types match this model. It answers with \" A",
+      "aiSummary": "The update introduces the H2O-Lightning-4B decision model, which is based on Qwen3.5-4B with a merged decision LoRA. This addition is necessary because none of the existing model types are compatible with this specific configuration.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11773",
+      "category": "AI",
+      "filterTags": [
+        "H2O-Lightning-4B",
+        "Qwen3.5-4B",
+        "LoRA",
+        "h2oai"
+      ],
+      "publishedAt": "2026-10-21T02:18:59+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "ciflow-trunk-201582-update-update",
+      "title": "ciflow/trunk/201582: [UPDATE] Update",
+      "dek": "[ghstack-poisoned]",
+      "aiSummary": "The provided text indicates an update was made to the ciflow/trunk/201582 branch. The description notes that the content is ghstack-poisoned, suggesting a technical issue with the data source.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Ftrunk%2F201582",
+      "category": "DevOps",
+      "filterTags": [
+        "ciflow",
+        "ghstack"
+      ],
+      "publishedAt": "2026-10-21T02:09:32+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "citi-s-chang-on-ai-trade-private-credit",
+      "title": "Citi's Chang on AI Trade, Private Credit",
+      "dek": "Cristina Chang, Head of Markets for Australia and New Zealand at Citi, discusses the the AI trade and the investment opportunities in private credit and the nation's financial markets. She speaks with Haidi Stroud-Watts from the sidelines of the Citi Australia and New Zealand Inv",
+      "aiSummary": "Cristina Chang, Head of Markets for Australia and New Zealand at Citi, discusses the AI trade and investment opportunities in private credit. She also addresses trends in the nation's financial markets during a conversation with Haidi Stroud-Watts at the Citi Australia and New Zealand Investment Conference.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-21/citi-s-chang-on-ai-trade-private-credit-video",
+      "category": "Finance",
+      "filterTags": [
+        "Citi",
+        "AI",
+        "Private Credit",
+        "Australia",
+        "New Zealand"
+      ],
+      "publishedAt": "2026-10-21T02:05:26+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Investment"
+        }
+      ]
+    },
+    {
+      "slug": "b11772",
+      "title": "b11772",
+      "dek": "mtmd: fix gemma 4 ffn act ( #30882 ) \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/58032809 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silicon (arm64, KleidiAI enabled)  DISABLED \n macOS Intel (x64) \n",
+      "aiSummary": "A patch has been released to correct the Gemma 4 feed‑forward network activation function, as referenced in issue #30882. The update is available on the llama.app website and includes attestations on GitHub. It supports macOS on Apple Silicon and Intel architectures, with KleidiAI disabled for Apple Silicon.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11772",
+      "category": "Open Source",
+      "filterTags": [
+        "Gemma 4",
+        "FFN",
+        "llama.cpp",
+        "ggml-org",
+        "llama.app",
+        "KleidiAI",
+        "macOS",
+        "Apple Silicon",
+        "Intel"
+      ],
+      "publishedAt": "2026-10-21T02:03:33+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "v0-40-7",
+      "title": "v0.40.7",
+      "dek": "What's Changed \n \n openai: allow Responses effort on non-thinking models by  @hoyyeva  in  #19010 \n llama-server: let llama-server infer the draft speculative type by  @dhiltgen  in  #19064 \n mlx: add PPLX Decider v1.2 support by  @dhiltgen  in  #19072 \n \n Full Changelog :  v0.40",
+      "aiSummary": "The v0.40.7 release introduces support for Responses effort on non-thinking models in OpenAI. It also enables llama-server to infer the draft speculative type and adds support for PPLX Decider v1.2 in MLX.",
+      "articleUrl": "https://github.com/ollama/ollama/releases/tag/v0.40.7-rc1",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "llama-server",
+        "MLX",
+        "PPLX Decider"
+      ],
+      "publishedAt": "2026-10-21T01:58:37+00:00",
+      "publisher": {
+        "name": "ollama",
+        "domain": "github.com",
+        "website": "https://github.com/ollama/ollama",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "elice-ceo-shrugs-off-choppy-ipo-eyes-revenue-boost",
+      "title": "Elice CEO Shrugs Off Choppy IPO, Eyes Revenue Boost",
+      "dek": "Looking past debut turbulence, Elice Group Chief Executive Officer Jae Won Kim aims to double revenue each year by exporting edge data center hardware and capturing sovereign AI contracts. (Source: Bloomberg)",
+      "aiSummary": "Elice Group CEO Jae Won Kim is focusing on growth after a turbulent IPO debut. He plans to double revenue annually by exporting edge data center hardware and securing sovereign AI contracts.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-21/elice-ceo-shrugs-off-choppy-ipo-eyes-revenue-boost-video",
+      "category": "Hardware",
+      "filterTags": [
+        "Elice Group",
+        "edge data center hardware",
+        "AI contracts",
+        "sovereign AI contracts"
+      ],
+      "publishedAt": "2026-10-21T01:51:49+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "v1-14-0-dev1",
+      "title": "v1.14.0.dev1",
+      "dek": "Langflow nightly v1.14.0.dev1",
+      "aiSummary": "Langflow has released a nightly development build labeled v1.14.0.dev1. This update represents the current pre-release state of the Langflow platform.",
+      "articleUrl": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev1",
+      "category": "AI",
+      "filterTags": [
+        "Langflow"
+      ],
+      "publishedAt": "2026-10-21T01:46:49+00:00",
+      "publisher": {
+        "name": "langflow-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langflow-ai/langflow",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "dayone-said-to-weigh-options-for-us-ipo-after-data-center-rout",
+      "title": "DayOne Said to Weigh Options for US IPO After Data Center Rout",
+      "dek": "DayOne Data Centers Ltd. is weighing options for its US initial public offering, including a potential delay or size cut, as volatility around data centers increases, according to people familiar with the matter.",
+      "aiSummary": "DayOne Data Centers Ltd. is evaluating options for its US initial public offering, such as delaying the launch or reducing its size. This decision comes amid increased volatility in the data center market.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-21/dayone-is-said-to-weigh-options-for-us-ipo-amid-data-center-rout",
+      "category": "Finance",
+      "filterTags": [
+        "DayOne Data Centers",
+        "IPO",
+        "Data Centers"
+      ],
+      "publishedAt": "2026-10-21T01:44:57+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "australian-data-center-operator-nextdc-s-shares-plunge-40-after-it-slashes-earnings-forecast",
+      "title": "Australian data center operator NextDC's shares plunge 40% after it slashes earnings forecast",
+      "dek": "The company cited power supply delays at its Melbourne facility amid local community and stakeholder opposition for lowering earnings forecast.",
+      "aiSummary": "Shares of Australian data center operator NextDC fell by 40% after the company significantly reduced its earnings forecast. The firm attributed the downward revision to power supply delays at its Melbourne facility, which were caused by opposition from local communities and stakeholders.",
+      "articleUrl": "https://www.cnbc.com/2026/10/21/australia-data-center-operator-nexdc-datacenter.html",
+      "category": "Infrastructure",
+      "filterTags": [
+        "NextDC",
+        "Data Centers",
+        "Melbourne",
+        "Power Supply"
+      ],
+      "publishedAt": "2026-10-21T01:44:42+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "Energy"
+        },
+        {
+          "name": "Corporate Finance"
+        }
+      ]
+    },
+    {
+      "slug": "ciflow-xpu-195533",
+      "title": "ciflow/xpu/195533",
+      "dek": "Merge branch 'main' into patch-15",
+      "aiSummary": "The provided text indicates a version control operation where the 'main' branch was merged into the 'patch-15' branch. This action is associated with the identifier ciflow/xpu/195533.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fxpu%2F195533",
+      "category": "DevOps",
+      "filterTags": [
+        "ciflow",
+        "xpu",
+        "git"
+      ],
+      "publishedAt": "2026-10-21T01:39:21+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "show-hn-unterm-a-pure-rust-terminal-for-humans-and-ai-agents",
+      "title": "Show HN: Unterm – A pure-Rust terminal for humans and AI agents",
+      "dek": "A new terminal built entirely in Rust is designed for both people and AI agents.",
+      "aiSummary": "The article introduces Unterm, a terminal application written in pure Rust. It is specifically designed to be usable by both human users and AI agents.",
+      "articleUrl": "https://github.com/zhitongblog/unterm",
+      "category": "Developer Tools",
+      "filterTags": [
+        "Rust",
+        "Unterm",
+        "Terminal",
+        "AI Agents"
+      ],
+      "publishedAt": "2026-10-21T01:39:06+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Developer Tools"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "agentitter-a-tiny-plain-text-social-network-you-use-through-your-ai-agent",
+      "title": "Agentitter – a tiny plain-text social network you use through your AI agent",
+      "dek": "Agentitter is a small, text-only social platform that you access via an AI assistant.",
+      "aiSummary": "The platform is a lightweight, text-based community that lets users connect through a virtual helper.",
+      "articleUrl": "https://agentitter.com/",
+      "category": "Social Media",
+      "filterTags": [
+        "Agentitter",
+        "AI"
+      ],
+      "publishedAt": "2026-10-21T01:30:27+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Social Media"
+        },
+        {
+          "name": "Artificial Intelligence"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-ed1fcb4b699c215ddb7b59184d4d9d578f96f12e",
+      "title": "trunk/ed1fcb4b699c215ddb7b59184d4d9d578f96f12e",
+      "dek": "[Testcase Refactoring]Refactor test_torchinductor_opinfo_properties.p…",
+      "aiSummary": "The provided text indicates a refactoring of the test file test_torchinductor_opinfo_properties.py. The specific changes involve updating test cases related to TorchInductor opinfo properties.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2Fed1fcb4b699c215ddb7b59184d4d9d578f96f12e",
+      "category": "Machine Learning",
+      "filterTags": [
+        "TorchInductor",
+        "PyTorch",
+        "Python"
+      ],
+      "publishedAt": "2026-10-21T01:30:00+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "dataville-takes-the-guesswork-out-of-data-for-ai",
+      "title": "Dataville Takes the Guesswork Out of Data for AI",
+      "dek": "Dataville simplifies data handling for AI by removing uncertainty.",
+      "aiSummary": "The provided text does not contain a description or body content for the article. Therefore, no factual summary can be generated based on the available information.",
+      "articleUrl": "https://www.dataville.com/blog/dataville-takes-the-guesswork-out-of-data-for-ai",
+      "category": "Data Management",
+      "filterTags": [
+        "Dataville",
+        "AI"
+      ],
+      "publishedAt": "2026-10-21T01:28:10+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Data Management"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "car-buyers-are-demanding-lower-prices-and-better-tech-automakers-must-deliver-both",
+      "title": "Car buyers are demanding lower prices and better tech. Automakers must deliver both",
+      "dek": "Bain says tech leads purchase considerations in China while price remains No. 1 in the U.S. and Europe, as pressure mounts on Western carmakers.",
+      "aiSummary": "Bain reports that while price is the top factor for car buyers in the U.S. and Europe, technology leads purchase decisions in China. Western automakers are facing increasing pressure to meet these divergent demands for lower prices and better tech.",
+      "articleUrl": "https://www.cnbc.com/2026/10/20/car-buyers-china-tech-price-europe.html",
+      "category": "Automotive",
+      "filterTags": [
+        "Bain",
+        "Automakers",
+        "China",
+        "U.S.",
+        "Europe"
+      ],
+      "publishedAt": "2026-10-21T01:01:01+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Automotive"
+        },
+        {
+          "name": "Consumer Behavior"
+        }
+      ]
+    },
+    {
+      "slug": "ray-2-58-1",
+      "title": "Ray-2.58.1",
+      "dek": "Fixes \n Ray Data \n \n Fix out-of-scope block callbacks being registered on blocks passed through from input to output ( #66369 , cherry-pick  #66404 ). Fixes spurious callback errors on passthrough datasets. \n \n Images \n \n google-cloud-cli  is now installed in the base-extra image",
+      "aiSummary": "The Ray 2.58.1 release includes fixes for Ray Data, addressing issues where out-of-scope block callbacks were incorrectly registered on blocks passed from input to output, and eliminating spurious callback errors on passthrough datasets. Additionally, the base-extra image now includes the google-cloud-cli tool.",
+      "articleUrl": "https://github.com/ray-project/ray/releases/tag/ray-2.58.1",
+      "category": "Open Source",
+      "filterTags": [
+        "Ray",
+        "Ray Data",
+        "google-cloud-cli"
+      ],
+      "publishedAt": "2026-10-21T00:57:42+00:00",
+      "publisher": {
+        "name": "ray-project",
+        "domain": "github.com",
+        "website": "https://github.com/ray-project/ray",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Data Processing"
+        },
+        {
+          "name": "Cloud"
+        }
+      ]
+    },
+    {
+      "slug": "ray-2-57-1",
+      "title": "Ray-2.57.1",
+      "dek": "Fixes \n Ray Data \n \n Fix out-of-scope block callbacks being registered on blocks passed through from input to output ( #66369 , cherry-pick  #66403 ). Fixes spurious callback errors on passthrough datasets. \n \n Images \n \n google-cloud-cli  is now installed in the base-extra image",
+      "aiSummary": "Ray 2.57.1 addresses a bug in Ray Data where out-of-scope block callbacks were incorrectly registered on passthrough datasets, causing spurious errors. Additionally, the release updates the base-extra image to include the google-cloud-cli tool.",
+      "articleUrl": "https://github.com/ray-project/ray/releases/tag/ray-2.57.1",
+      "category": "Data Engineering",
+      "filterTags": [
+        "Ray",
+        "Ray Data",
+        "google-cloud-cli"
+      ],
+      "publishedAt": "2026-10-21T00:57:22+00:00",
+      "publisher": {
+        "name": "ray-project",
+        "domain": "github.com",
+        "website": "https://github.com/ray-project/ray",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Data Engineering"
+        },
+        {
+          "name": "Cloud Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "emudhra-intermediate-ca-compromise",
+      "title": "eMudhra Intermediate CA Compromise",
+      "dek": "eMudhra Intermediate CA Compromise \nThis is very, very bad news: \n \n The private keys of eight eMudhra intermediate CA certificates have been compromised. They chain to roots trusted by the Mozilla, Microsoft, Apple and Chrome root programs and by many downstream trust stores. \n ",
+      "aiSummary": "The private keys of eight eMudhra intermediate CA certificates have been compromised. These certificates are linked to root certificates trusted by major programs including Mozilla, Microsoft, Apple, and Chrome, as well as many downstream trust stores.",
+      "articleUrl": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
+      "category": "Security",
+      "filterTags": [
+        "eMudhra",
+        "CA",
+        "private keys",
+        "Mozilla",
+        "Microsoft",
+        "Apple",
+        "Chrome"
+      ],
+      "publishedAt": "2026-10-20T23:50:25+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Web Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "elon-musk-says-tesla-spacex-merger-being-considered",
+      "title": "Elon Musk says Tesla-SpaceX merger being considered",
+      "dek": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+      "aiSummary": "Elon Musk announced that special committees have been set up at Tesla and SpaceX to explore a potential merger. The committees will investigate the feasibility of combining the two companies.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "category": "Business",
+      "filterTags": [
+        "Tesla",
+        "SpaceX",
+        "Elon Musk"
+      ],
+      "publishedAt": "2026-10-20T23:24:47+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Business"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Space"
+        },
+        {
+          "name": "Automotive"
+        }
+      ]
+    },
+    {
+      "slug": "the-tech-helping-crack-decades-old-cold-cases",
+      "title": "The tech helping crack decades-old cold cases",
+      "dek": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
+      "aiSummary": "Investigative genetic genealogy is being utilized to identify suspects in cold cases that have remained unsolved for decades. While this method aids in catching criminals, it also generates significant concerns regarding individual privacy.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
+      "category": "Forensics",
+      "filterTags": [
+        "Investigative genetic genealogy",
+        "Cold cases",
+        "Privacy"
+      ],
+      "publishedAt": "2026-10-20T23:13:24+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Forensics"
+        },
+        {
+          "name": "Privacy"
+        },
+        {
+          "name": "Law Enforcement"
+        }
+      ]
+    },
+    {
+      "slug": "judge-dismisses-sam-altman-s-sister-s-sexual-abuse-lawsuit",
+      "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+      "dek": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann h",
+      "aiSummary": "US District Judge Zachary Bluestone dismissed Ann Altman's lawsuit against her brother, Sam Altman, the CEO of OpenAI, who she claimed sexually abused her during childhood. The judge referenced the allegations in his ruling.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+      "category": "Legal",
+      "filterTags": [
+        "OpenAI",
+        "Sam Altman"
+      ],
+      "publishedAt": "2026-10-20T23:04:19+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Human Rights"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed",
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "dek": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "aiSummary": "Anthropic has introduced a bill aimed at AI safety that would allow a model to be blocked if it could cause more than 50 deaths. However, the proposal also restricts federal agencies from stopping a model's release without judicial approval.",
+      "articleUrl": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "AI safety",
+        "federal agencies",
+        "judge"
+      ],
+      "publishedAt": "2026-10-20T23:01:23+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Policy"
+        },
+        {
+          "name": "Governance"
+        }
+      ]
+    },
+    {
+      "slug": "v0-42-3",
+      "title": "v0.42.3",
+      "dek": "ComfyUI v0.42.3",
+      "aiSummary": "ComfyUI has released version 0.42.3. The provided text contains only the version number and project name without additional details on specific changes or features.",
+      "articleUrl": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.42.3",
+      "category": "AI",
+      "filterTags": [
+        "ComfyUI"
+      ],
+      "publishedAt": "2026-10-20T22:44:30+00:00",
+      "publisher": {
+        "name": "comfyanonymous",
+        "domain": "github.com",
+        "website": "https://github.com/comfyanonymous/ComfyUI",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "hugging-face-ceo-warns-that-netflix-s-openai-hack-documentary-isn-t-accurate",
+      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+      "dek": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+      "aiSummary": "Clem Delangue, co-founder of Hugging Face, criticized Netflix's documentary \"AI Gone Rogue\" for being inaccurate and overly dramatic. He said the film went \"full doomer mode\" and misrepresented the situation.",
+      "articleUrl": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Netflix",
+        "OpenAI",
+        "Hugging Face"
+      ],
+      "publishedAt": "2026-10-20T22:24:02+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Media & Entertainment"
+        }
+      ]
+    },
+    {
+      "slug": "google-s-more-personalized-gemini-ai-is-heading-to-your-car",
+      "title": "Google’s more personalized Gemini AI is heading to your car",
+      "dek": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you",
+      "aiSummary": "Google is introducing Personal Intelligence to Gemini AI within Android Auto and cars with built-in Google features. This update allows the assistant to access user data from various Google services, such as Gmail, Calendar, Maps, Photos, YouTube, and Search, to provide more personalized responses.",
+      "articleUrl": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+      "category": "AI",
+      "filterTags": [
+        "Google",
+        "Gemini",
+        "Android Auto",
+        "Gmail",
+        "Calendar",
+        "Maps",
+        "Photos",
+        "YouTube",
+        "Search"
+      ],
+      "publishedAt": "2026-10-20T22:11:34+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Automotive"
+        },
+        {
+          "name": "Consumer Tech"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-s-cloud-partnerships-are-getting-messy",
+      "title": "Anthropic’s cloud partnerships are getting messy",
+      "dek": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+      "aiSummary": "Anthropic is having trouble getting enough compute resources from cloud providers, who see it as a competitor. The company’s infrastructure costs are rising as it prepares for a November IPO.",
+      "articleUrl": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "cloud providers",
+        "infrastructure spending",
+        "IPO"
+      ],
+      "publishedAt": "2026-10-20T21:25:22+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "apple-ceo-john-ternus-says-design-still-means-everything-includes-whimsy",
+      "title": "Apple CEO John Ternus says design still means everything & includes whimsy",
+      "dek": "\"Design is how it works\" rings true at Apple today, and  John Ternus  wants to assure everyone that respect for the user and building products that are beneficial is \"job one.\" John Ternus is still focused on design John Ternus may be Apple's new CEO but he's not letting his new ",
+      "aiSummary": "Apple’s new CEO John Ternus emphasizes that design is central to the company’s products. He says respecting users and creating beneficial products is his top priority. Ternus remains focused on design and is not letting his new role distract him.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/20/apple-ceo-john-ternus-says-design-still-means-everything-includes-whimsey?utm_source=rss",
+      "category": "Technology",
+      "filterTags": [
+        "Apple",
+        "John Ternus"
+      ],
+      "publishedAt": "2026-10-20T21:23:24+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Design"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "beyond-the-kv-cache-training-and-serving-i14-s-laplace-3b-linear-attention-model-on-aws-trainium2-with-native-pytorch",
+      "title": "Beyond the KV cache: Training and serving i14’s Laplace 3B linear attention model on AWS Trainium2 with native PyTorch",
+      "dek": "Learn how i14 trained and served Laplace 3B, a linear attention model, on AWS Trainium2 using native PyTorch. Its recurrent state stays fixed at 29.5 MB per sequence regardless of context length, avoiding the growing key-value cache of transformer models and keeping serving memor",
+      "aiSummary": "i14 trained and served the Laplace 3B linear attention model on AWS Trainium2 using native PyTorch. Unlike standard transformers, this model maintains a fixed recurrent state of 29.5 MB per sequence regardless of context length, which eliminates the growing key-value cache and reduces serving memory requirements.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/beyond-the-kv-cache-training-and-serving-i14s-laplace-3b-linear-attention-model-on-aws-trainium2-with-native-pytorch/",
+      "category": "AI",
+      "filterTags": [
+        "i14",
+        "Laplace 3B",
+        "AWS Trainium2",
+        "PyTorch",
+        "linear attention"
+      ],
+      "publishedAt": "2026-10-20T21:14:10+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Infrastructure"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "terminal-x-matches-senior-investor-judgment-88-6-with-gpt-6-1",
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "dek": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+      "aiSummary": "Terminal X's Eval Agent evaluates outputs using a 54‑criterion rubric. It identifies 25% more deviations from a fund’s mandate when using GPT‑6.1 solutions. The system aligns closely with senior investor judgment, achieving 88.6% agreement.",
+      "articleUrl": "https://openai.com/index/terminal-x",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Terminal X",
+        "GPT-6.1",
+        "Eval Agent"
+      ],
+      "publishedAt": "2026-10-20T07:00:00+00:00",
+      "publisher": {
+        "name": "OpenAI",
+        "domain": "openai.com",
+        "website": "https://openai.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Evaluation"
+        }
+      ]
+    }
+  ]
+}
