@@ -1,0 +1,1723 @@
+{
+  "news": [
+    {
+      "slug": "meta-strikes-deal-to-stop-mark-zuckerberg-leaving-california-over-billionaire-tax",
+      "title": "Meta strikes deal to stop Mark Zuckerberg leaving California over billionaire tax",
+      "dek": "The Meta boss said he would exit the state over a wealth tax that has not yet come into force.",
+      "aiSummary": "Meta has reached an agreement to stop Mark Zuckerberg from leaving California in response to a proposed billionaire wealth tax. The Meta CEO had previously stated he would relocate out of the state if the tax, which is not yet in effect, were implemented.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+      "category": "Technology",
+      "filterTags": [
+        "Meta",
+        "Mark Zuckerberg",
+        "California",
+        "Wealth Tax"
+      ],
+      "publishedAt": "2026-10-22T16:16:49+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Public Policy"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "wildwood-s-director-says-ai-is-antithetical-to-everything-that-we-are-at-this-studio",
+      "title": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’",
+      "dek": "Wildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It's a sprawling fantasy adventure that took five years to complete. The process involved more 230 puppets - including 36 of the main character Prue alo",
+      "aiSummary": "Wildwood, the latest ambitious film from stop-motion studio Laika, is a sprawling fantasy adventure that took five years to produce. The project involved creating over 230 puppets, including 36 versions of the main character Prue.",
+      "articleUrl": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
+      "category": "Film",
+      "filterTags": [
+        "Wildwood",
+        "Laika",
+        "stop-motion",
+        "AI"
+      ],
+      "publishedAt": "2026-10-22T16:16:15+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Film"
+        },
+        {
+          "name": "Animation"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "chiron-changes-ai-incident-investigation-on-orca-bench",
+      "title": "Chiron Changes AI Incident Investigation on Orca-Bench",
+      "dek": "Chiron updates how it handles AI incident investigations on the Orca-Bench platform.",
+      "aiSummary": "The provided text does not contain a description or article body to summarize. Only the title is available, indicating that Chiron has modified its approach to AI incident investigation specifically within the Orca-Bench context.",
+      "articleUrl": "https://medium.com/@chironvision_inc/how-chiron-changes-ai-incident-investigation-on-orca-bench-5445b8fdd242",
+      "category": "AI",
+      "filterTags": [
+        "Chiron",
+        "Orca-Bench",
+        "AI Incident Investigation"
+      ],
+      "publishedAt": "2026-10-22T16:11:45+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "olmoearth-v1-3-state-of-the-art-embeddings-for-the-whole-planet",
+      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+      "dek": "OlmoEarth v1.3 offers top-tier data representations for the entire globe.",
+      "aiSummary": "The provided text does not contain an article body, only a title indicating that OlmoEarth v1.3 provides state-of-the-art embeddings for the whole planet. No further factual details are available in the source material.",
+      "articleUrl": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+      "category": "AI",
+      "filterTags": [
+        "OlmoEarth",
+        "embeddings"
+      ],
+      "publishedAt": "2026-10-22T16:11:31+00:00",
+      "publisher": {
+        "name": "Hugging Face",
+        "domain": "huggingface.co",
+        "website": "https://huggingface.co/",
+        "logoUrl": "https://huggingface.co/front/thumbnails/v2-2.png",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Geospatial"
+        }
+      ]
+    },
+    {
+      "slug": "an-interactive-simulator-for-securing-autonomous-ai-agents-in-aws",
+      "title": "An interactive simulator for securing autonomous AI agents in AWS",
+      "dek": "A tool is available for testing the security of self-driving AI systems on Amazon Web Services.",
+      "aiSummary": "The article introduces an interactive simulator designed to help secure autonomous AI agents. This tool operates within the AWS cloud environment to facilitate security testing and validation.",
+      "articleUrl": "https://milieucloud.com/architect-training/",
+      "category": "Cloud Computing",
+      "filterTags": [
+        "AWS",
+        "Autonomous AI",
+        "Security",
+        "Simulator"
+      ],
+      "publishedAt": "2026-10-22T16:11:05+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "AI Security"
+        }
+      ]
+    },
+    {
+      "slug": "ai-use-in-publishing",
+      "title": "AI Use in Publishing",
+      "dek": "The application of artificial intelligence in the publishing industry.",
+      "aiSummary": "The provided text does not contain any specific details, facts, or narrative regarding the use of AI in publishing. No information is available to summarize.",
+      "articleUrl": "https://rhollick.wordpress.com/2026/10/22/ai-use-in-publishing/",
+      "category": "AI",
+      "filterTags": [],
+      "publishedAt": "2026-10-22T16:10:00+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Publishing"
+        }
+      ]
+    },
+    {
+      "slug": "third-party-evaluators-found-vulnerabilities-in-openai-monitoring-system-during-test-pilot",
+      "title": "Third-party evaluators found vulnerabilities in OpenAI monitoring system during test pilot",
+      "dek": "OpenAI CEO Sam Altman pledged to grant independent evaluators \"employee-like access\" to the company to help address mounting safety concerns.",
+      "aiSummary": "Independent evaluators identified vulnerabilities in OpenAI's monitoring system while participating in a test pilot. In response to growing safety concerns, CEO Sam Altman committed to providing these external assessors with access rights similar to those of internal employees.",
+      "articleUrl": "https://www.cnbc.com/2026/10/22/metr-redwood-research-open-ai-test.html",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "Sam Altman",
+        "Security",
+        "Monitoring"
+      ],
+      "publishedAt": "2026-10-22T16:04:43+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "php-security-flaw-sets-off-global-rush-to-patch-leaving-websites-offline",
+      "title": "PHP Security Flaw Sets Off Global Rush to Patch, Leaving Websites Offline",
+      "dek": "Governments and businesses around the world scrambled to prevent hackers from exploiting a vulnerability in PHP, a popular programming language.",
+      "aiSummary": "Governments and businesses globally rushed to patch a vulnerability in the PHP programming language to prevent hacker exploitation. This urgent response led to numerous websites being taken offline.",
+      "articleUrl": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html",
+      "category": "Security",
+      "filterTags": [
+        "PHP",
+        "Security",
+        "Vulnerability"
+      ],
+      "publishedAt": "2026-10-22T16:01:35+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Web Development"
+        }
+      ]
+    },
+    {
+      "slug": "flint-interactive-a-language-for-creating-interactive-data-visualizations",
+      "title": "Flint-interactive: A language for creating interactive data visualizations",
+      "dek": "Flint-interactive gives AI agents a language for creating interactive visualizations. Click a chart, filter data, highlight related content, and explore beyond the view the author originally chose. \n The post  Flint-interactive: A language for creating interactive data visualizat",
+      "aiSummary": "Flint-interactive is a language designed to enable AI agents to generate interactive data visualizations. It allows users to click on charts, filter data, and highlight related content to explore information beyond the initial view selected by the author.",
+      "articleUrl": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/",
+      "category": "AI",
+      "filterTags": [
+        "Flint-interactive",
+        "AI agents",
+        "data visualization"
+      ],
+      "publishedAt": "2026-10-22T16:00:00+00:00",
+      "publisher": {
+        "name": "Microsoft Research",
+        "domain": "microsoft.com",
+        "website": "https://www.microsoft.com/en-us/research/",
+        "logoUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2024/07/About-page-promo_1066x600.jpg",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Data Science"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "uber-puts-all-30-000-employees-on-chatgpt-work",
+      "title": "Uber puts all 30,000 employees on ChatGPT Work",
+      "dek": "The ride share giant previously deployed a much smaller pilot for ChatGPT Work, but is now taking the enterprise agent company-wide.",
+      "aiSummary": "Uber is expanding its use of ChatGPT Work from a small pilot to a company-wide deployment for all 30,000 employees. The ride-sharing company is adopting the enterprise agent across its entire organization.",
+      "articleUrl": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+      "category": "AI",
+      "filterTags": [
+        "Uber",
+        "ChatGPT Work",
+        "Enterprise AI"
+      ],
+      "publishedAt": "2026-10-22T16:00:00+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Enterprise Software"
+        }
+      ]
+    },
+    {
+      "slug": "amazon-s-kindle-unlimited-is-now-kindle-and-the-2-big-changes-include-ai-audiobooks",
+      "title": "Amazon’s Kindle Unlimited is now Kindle+, and the 2 big changes include AI audiobooks",
+      "dek": "Unlike narrated audiobooks from Audible and other providers, the audiobooks created with Virtual Voice in Kindle+ will instead be narrated by AI.",
+      "aiSummary": "Amazon has rebranded its Kindle Unlimited subscription service as Kindle+. The update introduces two significant changes, one of which is the inclusion of audiobooks narrated by AI using the Virtual Voice technology, distinguishing them from human-narrated options available on platforms like Audible.",
+      "articleUrl": "https://www.zdnet.com/tech/kindle-unlimited-kindle-plus-audiobooks-ai/",
+      "category": "E-Commerce",
+      "filterTags": [
+        "Amazon",
+        "Kindle+",
+        "Kindle Unlimited",
+        "Virtual Voice",
+        "AI audiobooks",
+        "Audible"
+      ],
+      "publishedAt": "2026-10-22T15:55:55+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "E-Commerce"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Digital Media"
+        }
+      ]
+    },
+    {
+      "slug": "what-is-php-why-are-government-and-business-websites-going-offline",
+      "title": "What Is PHP? Why Are Government and Business Websites Going Offline?",
+      "dek": "A critical security flaw in the programming language underpinning much of the web has prompted a global rush to patch vulnerable systems.",
+      "aiSummary": "A critical security vulnerability in the PHP programming language has caused a global rush to patch vulnerable systems. This flaw, which underpins much of the web, has resulted in numerous government and business websites going offline.",
+      "articleUrl": "https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html",
+      "category": "Security",
+      "filterTags": [
+        "PHP",
+        "Security",
+        "Web Development"
+      ],
+      "publishedAt": "2026-10-22T15:55:07+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Web Development"
+        }
+      ]
+    },
+    {
+      "slug": "critical-php-vulnerabilities-threaten-your-nas-not-every-vendor-has-a-fix",
+      "title": "Critical PHP vulnerabilities threaten your NAS, not every vendor has a fix",
+      "dek": "Attackers are actively exploiting critical PHP flaws to target internet-exposed NAS devices. If your files and backups are stored there, they're probably at risk. TerraMaster Network Attached Storage PHP2Shell refers to two critical vulnerabilities in PHP, a scripting language us",
+      "aiSummary": "Attackers are actively exploiting critical PHP flaws to target internet‑exposed NAS devices. TerraMaster’s PHP2Shell refers to two such vulnerabilities, putting files and backups stored on affected devices at risk.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/22/critical-php-vulnerabilities-threaten-your-nas-not-every-vendor-has-a-fix?utm_source=rss",
+      "category": "Security",
+      "filterTags": [
+        "PHP",
+        "NAS",
+        "TerraMaster",
+        "PHP2Shell"
+      ],
+      "publishedAt": "2026-10-22T15:52:38+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Networking"
+        }
+      ]
+    },
+    {
+      "slug": "openai-anthropic-and-nvidia-had-record-lobbying-quarters",
+      "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+      "dek": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the group at $2.2 million, followed by Anthropic's $2.1 million and OpenAI's $1.5 m",
+      "aiSummary": "During the July-September quarter, AI companies Anthropic, OpenAI, and Nvidia each recorded their highest lobbying spend. Nvidia led the group with $2.2 million, followed by Anthropic at $2.1 million and OpenAI at $1.5 million.",
+      "articleUrl": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "Anthropic",
+        "Nvidia"
+      ],
+      "publishedAt": "2026-10-22T15:50:30+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Lobbying"
+        }
+      ]
+    },
+    {
+      "slug": "inside-the-iphone-duo-s-groundbreaking-hinge-s-innovations",
+      "title": "Inside the iPhone Duo's groundbreaking hinge's innovations",
+      "dek": "A YouTuber has taken a CT scan of the hinge on the  iPhone Duo  and uncovered both how it works and what its limitations are. HTX Studio used a CT scan and then built a 3D model of the iPhone Duo hinge to examine it - image credit: HTX Studio. One of the surprises at the iPhone D",
+      "aiSummary": "HTX Studio used CT scanning and 3D modeling to analyze the hinge of the iPhone Duo. The investigation revealed the internal mechanics of the device as well as its specific limitations.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/22/inside-the-iphone-duos-groundbreaking-hinges-innovations?utm_source=rss",
+      "category": "Hardware",
+      "filterTags": [
+        "iPhone Duo",
+        "CT scan",
+        "HTX Studio",
+        "3D modeling"
+      ],
+      "publishedAt": "2026-10-22T15:49:44+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "spacex-works-with-apollo-nvidia-on-new-grok-partnership-program",
+      "title": "SpaceX Works With Apollo, Nvidia on New Grok Partnership Program",
+      "dek": "SpaceX is working with Apollo Global Management, Nvidia Corp. and dozens of other firms on a new partnership program to deploy and improve its Grok AI systems, part of a bid to bolster business adoption of its artificial intelligence offerings.",
+      "aiSummary": "SpaceX is collaborating with Apollo Global Management, Nvidia Corp., and many other companies to launch a partnership program aimed at deploying and enhancing its Grok AI systems. The initiative seeks to increase business adoption of SpaceX's AI offerings.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-22/spacex-works-with-apollo-nvidia-on-new-grok-partnership-program",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "SpaceX",
+        "Apollo Global Management",
+        "Nvidia",
+        "Grok AI"
+      ],
+      "publishedAt": "2026-10-22T15:47:59+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Business Partnerships"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "meta-stock-sinks-6-as-ai-spend-pushes-free-cash-flow-negative",
+      "title": "Meta stock sinks 6% as AI spend pushes free cash flow negative",
+      "dek": "Prices for the social media giant's 5-year credit default swaps are reaching all-time highs as investors signal growing credit concerns.",
+      "aiSummary": "Meta's stock price fell by 6% after the company's significant spending on artificial intelligence resulted in negative free cash flow. Concurrently, the prices of the company's 5-year credit default swaps hit record highs, indicating that investors are increasingly concerned about its credit standing.",
+      "articleUrl": "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html",
+      "category": "Technology",
+      "filterTags": [
+        "Meta",
+        "AI",
+        "Free Cash Flow",
+        "Credit Default Swaps"
+      ],
+      "publishedAt": "2026-10-22T15:45:57+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "pandas-3-1-0",
+      "title": "pandas 3.1.0",
+      "dek": "We are pleased to announce the release of pandas 3.1.0. \nThis release includes some new features, bug fixes, and performance improvements. We recommend that all users upgrade to this version. \n Highlights include: \n \n New  DataFrame.select()  and updated  DataFrame.filter()  meth",
+      "aiSummary": "The pandas team has released version 3.1.0, adding new features, bug fixes, and performance improvements. Users are encouraged to upgrade, with highlights including a new DataFrame.select() method and an updated DataFrame.filter() method.",
+      "articleUrl": "https://github.com/pandas-dev/pandas/releases/tag/v3.1.0",
+      "category": "Data Science",
+      "filterTags": [
+        "pandas",
+        "DataFrame"
+      ],
+      "publishedAt": "2026-10-22T15:40:05+00:00",
+      "publisher": {
+        "name": "pandas-dev",
+        "domain": "github.com",
+        "website": "https://github.com/pandas-dev/pandas",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Data Science"
+        },
+        {
+          "name": "Python"
+        }
+      ]
+    },
+    {
+      "slug": "quoting-armin-ronacher",
+      "title": "Quoting Armin Ronacher",
+      "dek": "As fun as AI is, we built so much bad software over the last 30 years, and now the universe is punishing us for our sins. \n —  Armin Ronacher \n Tags:  security ,  generative-ai ,  armin-ronacher ,  ai ,  ai-security-research ,  llms",
+      "aiSummary": "Armin Ronacher remarks that while AI is exciting, the past 30 years of poor software development have led to negative consequences. He suggests that the universe is now punishing us for those mistakes.",
+      "articleUrl": "https://simonwillison.net/2026/Oct/22/armin-ronacher/",
+      "category": "AI",
+      "filterTags": [
+        "security",
+        "generative-ai",
+        "armin-ronacher",
+        "ai",
+        "ai-security-research",
+        "llms"
+      ],
+      "publishedAt": "2026-10-22T15:34:13+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "why-distributed-systems-prefer-independence-over-coordination",
+      "title": "Why Distributed Systems Prefer Independence over Coordination",
+      "dek": "In this article, we’ll look at why coordination is a challenge for distributed systems.",
+      "aiSummary": "The article examines the specific difficulties that coordination presents to distributed systems. It explores the rationale behind these systems prioritizing independence as a solution to these challenges.",
+      "articleUrl": "https://blog.bytebytego.com/p/why-distributed-systems-prefer-independence",
+      "category": "Distributed Computing",
+      "filterTags": [
+        "Distributed Systems",
+        "Coordination",
+        "Independence"
+      ],
+      "publishedAt": "2026-10-22T15:30:47+00:00",
+      "publisher": {
+        "name": "ByteByteGo",
+        "domain": "bytebytego.com",
+        "website": "https://bytebytego.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bytebytego.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bytebytego.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Distributed Computing"
+        },
+        {
+          "name": "System Architecture"
+        }
+      ]
+    },
+    {
+      "slug": "ex-openai-science-head-kevin-weil-launches-startup-with-215-million",
+      "title": "Ex-OpenAI Science Head Kevin Weil Launches Startup With $215 Million",
+      "dek": "Kevin Weil, the former OpenAI executive who led the ChatGPT maker’s AI-for-science efforts, is launching a new startup aimed at using artificial intelligence to speed up a key step of drug development.",
+      "aiSummary": "Kevin Weil, the former head of science at OpenAI, is launching a new startup backed by $215 million. The company aims to use artificial intelligence to accelerate a critical stage of the drug development process.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-22/ex-openai-science-head-kevin-weil-launches-startup-with-215-million",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "Kevin Weil",
+        "AI",
+        "Drug Development"
+      ],
+      "publishedAt": "2026-10-22T15:30:10+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Biotech"
+        }
+      ]
+    },
+    {
+      "slug": "does-agentic-rag-actually-retrieve-better-evidence-i-tested-it-on-298-questions",
+      "title": "Does Agentic RAG Actually Retrieve Better Evidence? I Tested It on 298 Questions",
+      "dek": "I let an AI agent search again whenever it chose. It found some papers plain search had missed, lost some plain search had found, and gained too little to trust. \n The post  Does Agentic RAG Actually Retrieve Better Evidence? I Tested It on 298 Questions  appeared first on  Towar",
+      "aiSummary": "The author let an AI agent perform additional searches when it decided to. The agent discovered some papers that a standard search missed, but also missed some that the plain search had found. Overall, the agent's gains were too small to be reliable.",
+      "articleUrl": "https://towardsdatascience.com/does-agentic-rag-actually-retrieve-better-evidence-i-tested-it-on-298-questions/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "RAG",
+        "AI agent",
+        "retrieval"
+      ],
+      "publishedAt": "2026-10-22T15:30:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Information Retrieval"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability",
+      "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
+      "dek": "Hackers were already probing the bug before defenders were told it existed.",
+      "aiSummary": "Hackers began probing the PHP2Shell vulnerability before it was publicly disclosed. The flaw was discovered by defenders only after the attackers had already started testing it.",
+      "articleUrl": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
+      "category": "Security",
+      "filterTags": [
+        "PHP2Shell",
+        "PHP"
+      ],
+      "publishedAt": "2026-10-22T15:25:02+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Software Vulnerabilities"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-192c546ac13da09d009b31ef0468ec64275863e6-ci-introduce-macos-27-for-binary-builds-and-mps-tests-196384",
+      "title": "trunk/192c546ac13da09d009b31ef0468ec64275863e6: [CI] Introduce macOS 27 for binary builds and MPS tests (#196384)",
+      "dek": "Move binary builds to  xcode-27-xlarge , which now runs macOS 27 and add it to the MPS test matrix. See:  https://github.com/actions/runner-images/blob/main/images/macos/xcode-27-arm64-Readme.md#macos-27 \n Metal toolchain installation conditional is kept because runner is missing",
+      "aiSummary": "The CI pipeline now uses the xcode-27-xlarge runner that runs macOS 27 for binary builds, and this runner is also added to the MPS test matrix. The Metal toolchain installation remains conditional because the runner lacks it.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F192c546ac13da09d009b31ef0468ec64275863e6",
+      "category": "CI/CD",
+      "filterTags": [
+        "GitHub Actions",
+        "macOS 27",
+        "xcode-27-xlarge",
+        "MPS",
+        "Metal"
+      ],
+      "publishedAt": "2026-10-22T15:24:50+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "CI/CD"
+        },
+        {
+          "name": "Operating Systems"
+        },
+        {
+          "name": "Software Testing"
+        }
+      ]
+    },
+    {
+      "slug": "a-i-and-its-dangers-are-embedded-in-the-midterm-elections",
+      "title": "A.I. and Its Dangers Are Embedded In the Midterm Elections",
+      "dek": "The midterms are the first elections in which artificial intelligence is integrated into every major social media platform. Efforts to blunt its harms are uneven.",
+      "aiSummary": "The upcoming midterm elections mark the first time artificial intelligence is fully integrated into all major social media platforms. However, measures designed to mitigate the potential harms of this technology remain inconsistent across the board.",
+      "articleUrl": "https://www.nytimes.com/2026/10/22/business/media/ai-disinfo-chatbots-elections.html",
+      "category": "AI",
+      "filterTags": [
+        "Artificial Intelligence",
+        "Social Media",
+        "Midterm Elections"
+      ],
+      "publishedAt": "2026-10-22T15:21:37+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "the-latest-powertoys-gives-your-mouse-2-new-tricks-for-free-how-to-use-them",
+      "title": "The latest PowerToys gives your mouse 2 new tricks for free – how to use them",
+      "dek": "PowerToys is one of my favorite free Windows utilities. With more than 30 tools, it offers something for everyone from beginners to power users. Here’s what’s new for mousing.",
+      "aiSummary": "PowerToys, a free Windows utility with over 30 tools, has added two new mouse features. These additions are available at no cost and are designed to enhance user experience. The update is aimed at both beginners and power users.",
+      "articleUrl": "https://www.zdnet.com/tech/powertoys-102-windows-mouse-control/",
+      "category": "Software",
+      "filterTags": [
+        "PowerToys",
+        "Windows"
+      ],
+      "publishedAt": "2026-10-22T15:17:56+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software"
+        },
+        {
+          "name": "Operating Systems"
+        },
+        {
+          "name": "Productivity"
+        }
+      ]
+    },
+    {
+      "slug": "credit-s-bear-market-warning",
+      "title": "Credit's Bear Market Warning",
+      "dek": "Credit markets are showing strain after years of tight spreads, as higher rates, a surge in AI-related borrowing, private-credit concerns and geopolitical risks converge. Pearlstone Alternative's Ivelina Green says credit is already in a bear market, with heavy AI debt supply add",
+      "aiSummary": "Credit markets are under pressure after years of tight spreads, driven by higher rates, a surge in AI-related borrowing, private‑credit worries, and geopolitical risks. Pearlstone Alternative’s Ivelina Green says the market is already in a bear phase, citing a large influx of AI debt.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-22/credit-s-bear-market-warning-video",
+      "category": "Finance",
+      "filterTags": [
+        "AI",
+        "Pearlstone Alternative",
+        "private credit"
+      ],
+      "publishedAt": "2026-10-22T15:12:49+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Geopolitics"
+        }
+      ]
+    },
+    {
+      "slug": "php-the-three-little-letters-wreaking-havoc-across-the-web",
+      "title": "PHP: The three little letters wreaking havoc across the web",
+      "dek": "Two vulnerabilities found in the programming language PHP put enormous swaths of the internet in danger. By some accounts, up to 70 percent of websites use PHP in some capacity. It powers Wikipedia, WordPress, Drupal, and a host of other popular sites and platforms, including Dev",
+      "aiSummary": "Two vulnerabilities discovered in the PHP programming language have put a significant portion of the internet at risk. With up to 70 percent of websites utilizing PHP, major platforms such as Wikipedia, WordPress, and Drupal are affected by these security flaws.",
+      "articleUrl": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
+      "category": "Security",
+      "filterTags": [
+        "PHP",
+        "Wikipedia",
+        "WordPress",
+        "Drupal"
+      ],
+      "publishedAt": "2026-10-22T15:12:27+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Web Development"
+        }
+      ]
+    },
+    {
+      "slug": "musk-s-clash-with-ukraine-accelerates-demand-for-starlink-alternatives-few-exist",
+      "title": "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
+      "dek": "Governments or companies looking for an alternative to SpaceX's Starlink are faced with few options, as Amazon, Eutelsat and others are far behind.",
+      "aiSummary": "The conflict between Elon Musk and Ukraine has increased demand for satellite internet alternatives. However, only a handful of providers are available, with Amazon and Eutelsat lagging behind.",
+      "articleUrl": "https://www.cnbc.com/2026/10/22/elon-musk-ukraine-starlink-alternatives.html",
+      "category": "Satellite Communications",
+      "filterTags": [
+        "SpaceX",
+        "Starlink",
+        "Amazon",
+        "Eutelsat"
+      ],
+      "publishedAt": "2026-10-22T15:08:47+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Satellite Communications"
+        },
+        {
+          "name": "Geopolitics"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "spotify-s-current-ai-bet-is-about-being-the-music-service-that-agents-choose",
+      "title": "Spotify’s current AI bet is about being the music service that agents choose",
+      "dek": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
+      "aiSummary": "Spotify co-CEO Gustav Söderström argues that the emergence of AI agents presents a positive opportunity for the company. The strategy focuses on ensuring Spotify becomes the default music service selected by these automated systems.",
+      "articleUrl": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+      "category": "AI",
+      "filterTags": [
+        "Spotify",
+        "AI agents",
+        "Gustav Söderström"
+      ],
+      "publishedAt": "2026-10-22T15:03:58+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Music Streaming"
+        },
+        {
+          "name": "Business Strategy"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-unveils-minerva-to-bring-end-to-end-observability-for-ai-factories",
+      "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+      "dek": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry from infrastructure and AI workloads, then applies purpose-built AI models to turn that data into timely, actionable insigh",
+      "aiSummary": "NVIDIA has launched Minerva, an AIOps platform designed to enhance the productivity of AI factories by enabling teams to detect issues earlier. The system integrates telemetry data from both infrastructure and AI workloads, utilizing specialized AI models to generate timely and actionable insights.",
+      "articleUrl": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
+      "category": "AI",
+      "filterTags": [
+        "NVIDIA",
+        "Minerva",
+        "AIOps",
+        "AI Factories",
+        "Telemetry"
+      ],
+      "publishedAt": "2026-10-22T15:00:02+00:00",
+      "publisher": {
+        "name": "NVIDIA",
+        "domain": "nvidia.com",
+        "website": "https://blogs.nvidia.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Data Center Infrastructure"
+        },
+        {
+          "name": "DevOps"
+        }
+      ]
+    },
+    {
+      "slug": "navitas-launches-2300-v-sic-power-module-for-grid-infrastructure",
+      "title": "Navitas Launches 2300-V SiC Power Module for Grid Infrastructure",
+      "dek": "2300 V SiC technology targets higher efficiency and power density in AI data centers, energy storage, and grid applications. \n The post  Navitas Launches 2300-V SiC Power Module for Grid Infrastructure  appeared first on  Power Electronics News .",
+      "aiSummary": "Navitas has launched a 2300‑volt silicon carbide power module. The technology aims to improve efficiency and power density for AI data centers, energy storage, and grid applications.",
+      "articleUrl": "https://www.powerelectronicsnews.com/navitas-launches-2300-v-sic-power-module-for-grid-infrastructure/",
+      "category": "Semiconductors",
+      "filterTags": [
+        "Navitas",
+        "SiC",
+        "AI data centers",
+        "energy storage",
+        "grid infrastructure"
+      ],
+      "publishedAt": "2026-10-22T15:00:00+00:00",
+      "publisher": {
+        "name": "Power Electronics News",
+        "domain": "powerelectronicsnews.com",
+        "website": "https://www.powerelectronicsnews.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Power Electronics"
+        },
+        {
+          "name": "Energy Storage"
+        },
+        {
+          "name": "Grid Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-6853f8751364564e0b15c6d158cb4c8dae1b2868-mps-be-remove-dead-code-in-sdpa-201743",
+      "title": "trunk/6853f8751364564e0b15c6d158cb4c8dae1b2868: [MPS] [BE] Remove dead code in SDPA (#201743)",
+      "dek": "Removes  sdpa_full_attention_mps  (never dispatched, its  attention_*  kernels went in  #181527 ), the prefill softcapping path (host always passed 1.0) and two unused locals. \nPull Request resolved:  #201743 \nApproved by:  https://github.com/pytorchgreenlight ,  https://github.c",
+      "aiSummary": "The pull request cleans up the MPS backend by removing the unused sdpa_full_attention_mps function, the prefill softcapping path that always used a value of 1.0, and two local variables that were never used. These changes reduce code complexity and potential maintenance overhead. The PR was approved by the PyTorch greenlight team.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F6853f8751364564e0b15c6d158cb4c8dae1b2868",
+      "category": "Machine Learning",
+      "filterTags": [
+        "MPS",
+        "SDPA",
+        "PyTorch"
+      ],
+      "publishedAt": "2026-10-22T14:53:56+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "iphone-duo-buyers-line-up-days-early-despite-high-chance-of-heartbreak",
+      "title": "iPhone Duo buyers line up days early despite high chance of heartbreak",
+      "dek": "Apple's first foldable  iPhone  is drawing buyers to storefronts days before launch, while the first preorders are shipping for Friday delivery. Image credit: Lexus C (@LChenlz) on X People are already lining up at Apple Stores across the globe, hoping for a chance at getting an ",
+      "aiSummary": "Buyers are lining up at Apple Stores days before the launch of the iPhone Duo, Apple's first foldable iPhone. Initial preorders are currently shipping for delivery on Friday.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/22/iphone-duo-buyers-line-up-days-early-despite-high-chance-of-heartbreak?utm_source=rss",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Apple",
+        "iPhone Duo",
+        "Foldable iPhone"
+      ],
+      "publishedAt": "2026-10-22T14:43:19+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Mobile Devices"
+        }
+      ]
+    },
+    {
+      "slug": "know-your-agent-will-be-the-new-rule-of-the-ai-age",
+      "title": "‘Know Your Agent’ will be the new rule of the AI age",
+      "dek": "As autonomous software does more, we need to focus on how to control its behaviour and establish accountability",
+      "aiSummary": "With the increasing capabilities of autonomous software, there is a growing need to prioritize methods for managing its actions. This includes establishing clear accountability for its behavior.",
+      "articleUrl": "https://www.ft.com/content/5116beca-1b6e-418e-99d7-462339b3b57e?syn-25a6b1a6=1",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Autonomous Software",
+        "AI Agents"
+      ],
+      "publishedAt": "2026-10-22T14:38:28+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Ethics"
+        },
+        {
+          "name": "Policy"
+        },
+        {
+          "name": "Software"
+        }
+      ]
+    },
+    {
+      "slug": "beyond-tree-cover-mapping-the-world-s-forest-types",
+      "title": "Beyond tree cover: mapping the world’s forest types",
+      "dek": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+      "aiSummary": "Researchers have created a global map that categorizes every 10-meter patch of land on Earth into distinct forest types. This mapping goes beyond simply measuring tree cover to provide a detailed classification of forest varieties worldwide.",
+      "articleUrl": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "category": "Environment",
+      "filterTags": [
+        "Remote Sensing",
+        "Geography",
+        "Ecology"
+      ],
+      "publishedAt": "2026-10-22T14:30:24+00:00",
+      "publisher": {
+        "name": "Google DeepMind",
+        "domain": "deepmind.google",
+        "website": "https://deepmind.google/",
+        "logoUrl": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/icons/google_deepmind_2x_96dp.png",
+        "faviconUrl": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/icons/google_deepmind_2x_96dp.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Environment"
+        },
+        {
+          "name": "Geospatial Data"
+        }
+      ]
+    },
+    {
+      "slug": "the-pulse-time-to-rethink-software-security-because-of-ai",
+      "title": "The Pulse: Time to rethink software security because of AI?",
+      "dek": "A month’s worth of security breaches in a single day – will things get worse before they improve? Also: Anthropic accused of version control “rip off”, and more",
+      "aiSummary": "The article discusses a surge in security breaches, noting that a month's worth of incidents occurred in a single day, and questions if the situation will deteriorate before improving. It also covers an accusation against Anthropic regarding a version control 'rip off'.",
+      "articleUrl": "https://newsletter.pragmaticengineer.com/p/the-pulse-do-we-need-to-rethink-software",
+      "category": "Security",
+      "filterTags": [
+        "Anthropic",
+        "version control",
+        "security breaches"
+      ],
+      "publishedAt": "2026-10-22T14:08:21+00:00",
+      "publisher": {
+        "name": "Pragmatic Engineer",
+        "domain": "newsletter.pragmaticengineer.com",
+        "website": "https://newsletter.pragmaticengineer.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=newsletter.pragmaticengineer.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=newsletter.pragmaticengineer.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "you-are-the-team-anekha-sokhal-moshi",
+      "title": "You are the Team  — Anekha Sokhal, Moshi",
+      "dek": "How Moshi turns market data into actionable insights, and why AI tools have to fit the trader’s workflow.",
+      "aiSummary": "Moshi transforms market data into actionable insights for traders. The platform emphasizes that AI tools must be tailored to fit the trader’s workflow, ensuring seamless integration into daily trading activities.",
+      "articleUrl": "https://www.latent.space/p/moshi",
+      "category": "Finance",
+      "filterTags": [
+        "Moshi",
+        "AI tools",
+        "market data"
+      ],
+      "publishedAt": "2026-10-22T14:03:40+00:00",
+      "publisher": {
+        "name": "Latent Space",
+        "domain": "latent.space",
+        "website": "https://www.latent.space/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Data Analytics"
+        }
+      ]
+    },
+    {
+      "slug": "raman-spectra-preprocessing-and-non-negative-least-squares-modelling-in-python-monitoring-zeolite-crystallization",
+      "title": "Raman Spectra Preprocessing and Non-Negative Least Squares Modelling in Python: Monitoring Zeolite Crystallization",
+      "dek": "A short, reproducible tutorial on spectral unmixing using real in situ interzeolite conversion data \n The post  Raman Spectra Preprocessing and Non-Negative Least Squares Modelling in Python: Monitoring Zeolite Crystallization  appeared first on  Towards Data Science .",
+      "aiSummary": "This article presents a reproducible tutorial on spectral unmixing for monitoring zeolite crystallization. It demonstrates the application of Raman spectra preprocessing and non-negative least squares modelling in Python using real in situ interzeolite conversion data.",
+      "articleUrl": "https://towardsdatascience.com/raman-spectra-preprocessing-and-non-negative-least-squares-modelling-in-python-monitoring-zeolite-crystallization/",
+      "category": "Data Science",
+      "filterTags": [
+        "Python",
+        "Raman Spectra",
+        "Non-Negative Least Squares",
+        "Zeolite"
+      ],
+      "publishedAt": "2026-10-22T14:00:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Data Science"
+        },
+        {
+          "name": "Chemistry"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "claude-duet-app-is-anthropic-s-bet-on-agents",
+      "title": "Claude Duet app is Anthropic’s bet on agents",
+      "dek": "Claude Duet is available through waitlist for Pro and Max plan users.",
+      "aiSummary": "Claude Duet, Anthropic's new app, is currently accessible only via a waitlist for users on the Pro and Max plans. The waitlist indicates limited early access, and users must be on higher-tier plans to join.",
+      "articleUrl": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "category": "AI",
+      "filterTags": [
+        "Claude Duet",
+        "Anthropic"
+      ],
+      "publishedAt": "2026-10-22T13:53:26+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software"
+        }
+      ]
+    },
+    {
+      "slug": "the-internet-has-broken-again-shouldn-t-the-tech-firms-that-make-billions-from-it-pay-to-fix-it-chris-stokel-walker",
+      "title": "The internet has broken – again. Shouldn’t the tech firms that make billions from it pay to fix it? | Chris Stokel-Walker",
+      "dek": "I’ve been banging the drum about these vulnerabilities for years. It will take more than a handful of exhausted developers to keep us safe Parts of the internet are going dark. In the Netherlands, government websites, including its digital ID login service, have become unavailabl",
+      "aiSummary": "The author has long warned about internet vulnerabilities and notes that fixing them will require more than a few tired developers. Recent outages, such as the Dutch government’s digital ID login service, illustrate how parts of the web are going dark.",
+      "articleUrl": "https://www.theguardian.com/commentisfree/2026/oct/22/website-shutdowns-ai-human-inaction-developers",
+      "category": "Cybersecurity",
+      "filterTags": [
+        "Internet",
+        "Vulnerabilities",
+        "Digital ID login service",
+        "Netherlands"
+      ],
+      "publishedAt": "2026-10-22T13:46:26+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "Governance"
+        }
+      ]
+    },
+    {
+      "slug": "build-ai-employees-in-python-that-work-while-you-sleep",
+      "title": "Build AI Employees in Python That Work While You Sleep",
+      "dek": "It’s Friday, 8 a.m. Your weekly tech newsletter is drafted, fact-checked and waiting for one click of approval. You didn’t write it. You were asleep. Three AI employees did. A researcher found the week’s best links. A writer turned them into a draft. An editor caught the writer i",
+      "aiSummary": "The article describes a system where multiple AI agents, including a researcher, writer, and editor, collaborate to draft and fact-check a weekly tech newsletter overnight. This setup allows the user to approve the completed work in the morning without having written it themselves.",
+      "articleUrl": "https://www.analyticsvidhya.com/blog/2026/10/build-an-ai-employee-in-python/",
+      "category": "AI",
+      "filterTags": [
+        "Python",
+        "AI Agents",
+        "Automation"
+      ],
+      "publishedAt": "2026-10-22T13:38:55+00:00",
+      "publisher": {
+        "name": "Analytics Vidhya",
+        "domain": "analyticsvidhya.com",
+        "website": "https://www.analyticsvidhya.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=analyticsvidhya.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=analyticsvidhya.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "cloud-deployment-incoming-call-of-duty-modern-warfare-4-arrives-on-geforce-now",
+      "title": "Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ Arrives on GeForce NOW",
+      "dek": "Lock in and load out this GFN Thursday. Call of Duty: Modern Warfare 4 arrives on GeForce NOW at launch, bringing a new campaign, multiplayer action and DMZ, high-stakes extraction mode to supported devices. The campaign also gets an enhanced look: GeForce RTX 5080-class performa",
+      "aiSummary": "Call of Duty: Modern Warfare 4 is launching on GeForce NOW, bringing a new campaign, multiplayer action, and a DMZ extraction mode. The game will be accessible on supported devices and features enhanced visuals, including GeForce RTX 5080-class performance.",
+      "articleUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/",
+      "category": "Cloud Gaming",
+      "filterTags": [
+        "Call of Duty: Modern Warfare 4",
+        "GeForce NOW",
+        "GeForce RTX 5080",
+        "DMZ"
+      ],
+      "publishedAt": "2026-10-22T13:00:20+00:00",
+      "publisher": {
+        "name": "NVIDIA",
+        "domain": "nvidia.com",
+        "website": "https://blogs.nvidia.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cloud Gaming"
+        },
+        {
+          "name": "Video Games"
+        },
+        {
+          "name": "Gaming Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "meet-mori-a-cute-robot-mushroom-that-doesn-t-really-say-or-do-anything",
+      "title": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
+      "dek": "Step one in convincing people to live with robots with cameras on their faces? Disguise them as cute home decor.",
+      "aiSummary": "The article discusses a robot mushroom called Mori, designed to look like a cute home decoration. It has cameras but does not speak or perform actions, aiming to make people comfortable with robots that have facial cameras. The strategy is to disguise such robots as harmless decor.",
+      "articleUrl": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
+      "category": "Robotics",
+      "filterTags": [
+        "Mori",
+        "robot",
+        "camera",
+        "home decor"
+      ],
+      "publishedAt": "2026-10-22T13:00:00+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Robotics"
+        },
+        {
+          "name": "Human-Computer Interaction"
+        },
+        {
+          "name": "Product Design"
+        }
+      ]
+    },
+    {
+      "slug": "power-corner-how-to-test-solid-state-and-line-frequency-transformers-for-ai-data-centers",
+      "title": "Power Corner: How to Test Solid-State and Line-Frequency Transformers for AI Data Centers",
+      "dek": "Rohde & Schwarz’s Patrick Fuchs explains how to test data center transformers and SSTs with power analyzers. \n The post  Power Corner: How to Test Solid-State and Line-Frequency Transformers for AI Data Centers   appeared first on  Power Electronics News .",
+      "aiSummary": "Rohde & Schwarz expert Patrick Fuchs details methods for testing solid-state and line-frequency transformers used in AI data centers. The article focuses on the application of power analyzers for these specific power electronics components.",
+      "articleUrl": "https://www.powerelectronicsnews.com/power-corner-how-to-test-solid-state-and-line-frequency-transformers-for-ai-data-centers/",
+      "category": "Power Electronics",
+      "filterTags": [
+        "Rohde & Schwarz",
+        "Power Analyzers",
+        "Solid-State Transformers",
+        "Line-Frequency Transformers",
+        "AI Data Centers"
+      ],
+      "publishedAt": "2026-10-22T13:00:00+00:00",
+      "publisher": {
+        "name": "Power Electronics News",
+        "domain": "powerelectronicsnews.com",
+        "website": "https://www.powerelectronicsnews.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Power Electronics"
+        },
+        {
+          "name": "Data Centers"
+        },
+        {
+          "name": "Testing & Measurement"
+        }
+      ]
+    },
+    {
+      "slug": "b11819",
+      "title": "b11819",
+      "dek": "nemotron : support non-standard GQA, BPE tokenizer and domyn-small pre-type ( #23343 ) \n \n \n nemotron : support non-standard GQA, BPE tokenizer and domyn-small pre-type \n \n \n gguf-py : write Metaspace prepend_scheme as GGUF metadata \n \n \n vocab : parse metaspace prepend_scheme in",
+      "aiSummary": "The update introduces support for non-standard Grouped Query Attention (GQA), BPE tokenizers, and the domyn-small pre-type in the Nemotron project. Additionally, it modifies the gguf-py library to write Metaspace prepend_scheme as GGUF metadata and updates the vocabulary parser to handle this scheme.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11819",
+      "category": "Machine Learning",
+      "filterTags": [
+        "Nemotron",
+        "GQA",
+        "BPE",
+        "gguf-py",
+        "GGUF",
+        "Metaspace"
+      ],
+      "publishedAt": "2026-10-22T12:57:38+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "LLM Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-30f2f72b441ef0621a81d1d53ada4e43e542ee89-testcase-refactoring-classify-function-tests-by-hardware-193120",
+      "title": "trunk/30f2f72b441ef0621a81d1d53ada4e43e542ee89: [Testcase Refactoring] Classify function tests by hardware (#193120)",
+      "dek": "Summary \n Add hardware classification metadata for Dynamo function tests and move accelerator-specific coverage into device-instantiated classes. \n Changes \n \n Import HardwareClassification and device-type test helpers for the test file. \n Mark generic function test classes as Ha",
+      "aiSummary": "The commit adds hardware classification metadata to Dynamo function tests and reorganizes accelerator-specific tests into device-instantiated classes. It imports HardwareClassification and device-type test helpers, and marks generic function test classes accordingly.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F30f2f72b441ef0621a81d1d53ada4e43e542ee89",
+      "category": "Software Testing",
+      "filterTags": [
+        "HardwareClassification",
+        "Dynamo",
+        "device-type test helpers"
+      ],
+      "publishedAt": "2026-10-22T12:47:16+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Testing"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "b11820",
+      "title": "b11820",
+      "dek": "vulkan: replace std::aligned_alloc with posix_memalign for termux com…",
+      "aiSummary": "The article details a technical modification concerning memory allocation within the Vulkan graphics API. This modification involves substituting the `std::aligned_alloc` function with `posix_memalign` specifically for Termux compatibility.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11820",
+      "category": "Graphics",
+      "filterTags": [
+        "Vulkan",
+        "std::aligned_alloc",
+        "posix_memalign",
+        "Termux",
+        "C++",
+        "POSIX"
+      ],
+      "publishedAt": "2026-10-22T12:40:13+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Graphics"
+        },
+        {
+          "name": "Memory Management"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Operating Systems"
+        }
+      ]
+    },
+    {
+      "slug": "the-tech-bro-fight-club-is-real-the-titans-of-ai-get-the-succession-treatment-in-a-wild-new-tv-show",
+      "title": "‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show",
+      "dek": "The Audacity is a fearless satire taking on Silicon Valley’s ‘egomaniac weirdos’. Its creator and stars talk ayahuasca ceremonies, mining kids for data – and punching CEOs Showrunner Jonathan Glatzer wanted the tagline of his latest TV creation to be: “We’re so fucked.” He laughs",
+      "aiSummary": "The new TV show 'The Audacity' offers a satirical look at Silicon Valley's AI executives, describing them as egomaniacs. The series creator and cast discuss themes involving ayahuasca ceremonies, data mining, and conflicts between CEOs.",
+      "articleUrl": "https://www.theguardian.com/tv-and-radio/2026/oct/22/the-audacity-hbo-max-billionaires-succession-treatment",
+      "category": "Entertainment",
+      "filterTags": [
+        "The Audacity",
+        "Silicon Valley",
+        "AI",
+        "Jonathan Glatzer"
+      ],
+      "publishedAt": "2026-10-22T12:34:33+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Entertainment"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "b11818",
+      "title": "b11818",
+      "dek": "server : support typed content input for RERANK endpoint ( #29625 ) \n \n server : support typed content input for rerank endpoint \n \n Assisted-by: Opencode/Qwen3.8 27B \n \n server : address rerank multimodal review findings \n \n \n reject multimodal rerank input when the model has no",
+      "aiSummary": "The update adds support for typed content input to the RERANK endpoint on the server. It also addresses review findings regarding multimodal rerank inputs by rejecting them when the model does not support them.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11818",
+      "category": "Backend Development",
+      "filterTags": [
+        "RERANK",
+        "multimodal",
+        "server",
+        "Opencode",
+        "Qwen3.8"
+      ],
+      "publishedAt": "2026-10-22T12:30:38+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Backend Development"
+        },
+        {
+          "name": "AI Infrastructure"
+        }
+      ]
+    }
+  ]
+}
