@@ -1,0 +1,1316 @@
+{
+  "news": [
+    {
+      "slug": "hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched",
+      "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
+      "dek": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They're now being “broadly exploited” across the internet.",
+      "aiSummary": "Amazon Web Services recorded attempts to exploit the PHP2Shell vulnerabilities four days prior to the report. These bugs are now being widely exploited across the internet.",
+      "articleUrl": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
+      "category": "Security",
+      "filterTags": [
+        "PHP",
+        "PHP2Shell",
+        "Amazon Web Services"
+      ],
+      "publishedAt": "2026-10-22T02:24:17+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Web Development"
+        }
+      ]
+    },
+    {
+      "slug": "show-hn-hn-sieve-every-show-hn-scored-and-summarized-by-ai",
+      "title": "Show HN: HN Sieve – every Show HN scored and summarized by AI",
+      "dek": "A tool that uses AI to rate and summarize all Show HN posts.",
+      "aiSummary": "The author presents a tool called HN Sieve that automatically scores and summarizes every Show HN submission using AI. This system aims to help users quickly evaluate new projects shared on Hacker News.",
+      "articleUrl": "https://hnsieve.com",
+      "category": "AI",
+      "filterTags": [
+        "Show HN",
+        "AI",
+        "Hacker News"
+      ],
+      "publishedAt": "2026-10-22T02:24:10+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "deepseek-raises-15-billion-in-challenge-to-leading-us-labs",
+      "title": "DeepSeek Raises $15 Billion in Challenge to Leading US Labs",
+      "dek": "The Chinese AI pioneer DeepSeek has raised about 100 billion yuan ($15 billion) in its latest fundraising round, one of the country’s largest ever and a sign of the startup’s ambitions to compete globally with the likes of Anthropic PBC and OpenAI.",
+      "aiSummary": "Chinese AI startup DeepSeek has raised approximately 100 billion yuan ($15 billion) in its latest funding round. This significant investment marks one of the largest in China's history and signals the company's intent to compete globally with leading US labs such as Anthropic and OpenAI.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-22/deepseek-raises-15-billion-in-challenge-to-leading-us-labs",
+      "category": "AI",
+      "filterTags": [
+        "DeepSeek",
+        "Anthropic",
+        "OpenAI",
+        "AI"
+      ],
+      "publishedAt": "2026-10-22T02:17:34+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Venture Capital"
+        },
+        {
+          "name": "China Tech"
+        }
+      ]
+    },
+    {
+      "slug": "can-ai-generate-reliable-product-demos-directly-from-source-code",
+      "title": "Can AI generate reliable product demos directly from source code?",
+      "dek": "Is it possible for artificial intelligence to create trustworthy product demonstrations straight from the underlying code?",
+      "aiSummary": "The provided text does not contain an article body, only a title. Therefore, no factual summary can be generated based on the content.",
+      "articleUrl": "https://news.ycombinator.com/item?id=50190257",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Source Code",
+        "Product Demos"
+      ],
+      "publishedAt": "2026-10-22T02:03:30+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "ai-overlay-that-lives-on-your-desktop",
+      "title": "AI Overlay that Lives on your Desktop",
+      "dek": "A smart assistant tool that sits directly on your computer screen.",
+      "aiSummary": "The article introduces an AI overlay application designed to reside on the user's desktop. It functions as a persistent interface for interacting with artificial intelligence features directly within the operating system environment.",
+      "articleUrl": "https://www.lumenoverlay.com",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Desktop",
+        "Overlay"
+      ],
+      "publishedAt": "2026-10-22T02:01:57+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Productivity"
+        }
+      ]
+    },
+    {
+      "slug": "southeast-asia-is-hungry-for-ai-and-the-money-isn-t-just-in-subscriptions",
+      "title": "Southeast Asia is hungry for AI — and the money isn't just in subscriptions",
+      "dek": "Southeast Asia's rapid AI adoption is creating business opportunities beyond paid consumer subscriptions, a partner at Bain & Company, told CNBC.",
+      "aiSummary": "A partner at Bain & Company told CNBC that the rapid adoption of AI in Southeast Asia is generating business opportunities that go beyond paid consumer subscriptions. This indicates a broader market potential for AI services in the region.",
+      "articleUrl": "https://www.cnbc.com/2026/10/22/southeasaisa-singapore-bain-temasek-google-.html",
+      "category": "AI",
+      "filterTags": [
+        "Bain & Company",
+        "CNBC",
+        "AI",
+        "Southeast Asia"
+      ],
+      "publishedAt": "2026-10-22T02:01:48+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Business Strategy"
+        },
+        {
+          "name": "Emerging Markets"
+        }
+      ]
+    },
+    {
+      "slug": "gridcraft-is-the-open-source-excel-clone-for-linux-i-ve-been-waiting-for",
+      "title": "GridCraft is the open-source Excel clone for Linux I’ve been waiting for",
+      "dek": "If spreadsheets are your thing, but Microsoft Office isn’t, you might want to give the open-source clone, GridCraft, a try.",
+      "aiSummary": "GridCraft is an open‑source spreadsheet application for Linux, offering an alternative to Microsoft Office. It provides Excel‑like functionality and is available for users who prefer free software. The article encourages readers to try it if they need spreadsheet capabilities without Office.",
+      "articleUrl": "https://www.zdnet.com/tech/gridcraft-excel-clone-hands-on/",
+      "category": "Software",
+      "filterTags": [
+        "GridCraft",
+        "Excel",
+        "Linux",
+        "Microsoft Office",
+        "open-source"
+      ],
+      "publishedAt": "2026-10-22T02:00:00+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Productivity"
+        }
+      ]
+    },
+    {
+      "slug": "ciflow-trunk-198393-update-update",
+      "title": "ciflow/trunk/198393: [UPDATE] Update",
+      "dek": "[ghstack-poisoned]",
+      "aiSummary": "The update is marked as ghstack-poisoned, indicating it may have been affected by a ghstack issue. No further details are provided in the snippet.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Ftrunk%2F198393",
+      "category": "Software Development",
+      "filterTags": [
+        "ciflow",
+        "ghstack"
+      ],
+      "publishedAt": "2026-10-22T01:33:38+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Version Control"
+        }
+      ]
+    },
+    {
+      "slug": "ciflow-trunk-198392-update-update",
+      "title": "ciflow/trunk/198392: [UPDATE] Update",
+      "dek": "[ghstack-poisoned]",
+      "aiSummary": "The provided text indicates an update was made to the ciflow/trunk/198392 branch. The description notes that the content is ghstack-poisoned, suggesting a technical issue with the data source.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Ftrunk%2F198392",
+      "category": "DevOps",
+      "filterTags": [
+        "ciflow",
+        "ghstack"
+      ],
+      "publishedAt": "2026-10-22T01:33:38+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "v0-40-9",
+      "title": "v0.40.9",
+      "dek": "What's Changed \n \n llama.cpp update \n \n Full Changelog :  v0.40.8...v0.40.9-rc0",
+      "aiSummary": "The release v0.40.9 includes updates to llama.cpp. The full changelog covers changes from v0.40.8 to v0.40.9-rc0.",
+      "articleUrl": "https://github.com/ollama/ollama/releases/tag/v0.40.9-rc1",
+      "category": "Open Source",
+      "filterTags": [
+        "llama.cpp"
+      ],
+      "publishedAt": "2026-10-22T01:33:10+00:00",
+      "publisher": {
+        "name": "ollama",
+        "domain": "github.com",
+        "website": "https://github.com/ollama/ollama",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "b11804",
+      "title": "b11804",
+      "dek": "opencl: add F32-to-I32 ARGMAX ( #30897 ) \n \n opencl: add F32-to-I32 ARGMAX \n \n Assisted-by: OpenCode \n \n opencl: init to 0 to be consistent with cpu \n \n \n Co-authored-by: Li He  lih@qti.qualcomm.com \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-",
+      "aiSummary": "The commit introduces F32-to-I32 ARGMAX functionality to the OpenCL backend of the ggml library. It also includes a change to initialize values to zero for consistency with the CPU implementation.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11804",
+      "category": "Machine Learning",
+      "filterTags": [
+        "OpenCL",
+        "ggml",
+        "ARGMAX",
+        "F32",
+        "I32"
+      ],
+      "publishedAt": "2026-10-22T01:30:26+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Hardware Acceleration"
+        }
+      ]
+    },
+    {
+      "slug": "how-mark-zuckerberg-pushed-meta-to-shield-him-from-california-s-proposed-wealth-tax",
+      "title": "How Mark Zuckerberg Pushed Meta to Shield Him From California’s Proposed Wealth Tax",
+      "dek": "The billionaire told Meta’s board that he planned to list his Silicon Valley home for sale. The company remade its stock structure to help him pay the tax if voters pass it.",
+      "aiSummary": "Mark Zuckerberg informed Meta's board of his intention to sell his Silicon Valley home in response to a proposed California wealth tax. Consequently, the company restructured its stock to assist him in covering the tax liability if the measure is approved by voters.",
+      "articleUrl": "https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html",
+      "category": "Corporate Governance",
+      "filterTags": [
+        "Meta",
+        "Mark Zuckerberg",
+        "California",
+        "Wealth Tax",
+        "Stock Structure"
+      ],
+      "publishedAt": "2026-10-22T01:21:13+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Corporate Governance"
+        },
+        {
+          "name": "Tax Policy"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "canadian-publisher-bor-al-ends-relationship-with-novelist-th-lyson-or-lien-over-alleged-use-of-ai",
+      "title": "Canadian publisher Boréal ends relationship with novelist Thélyson Orélien over alleged use of AI",
+      "dek": "Author withdrawn from France’s Prix Goncourt last month has repeatedly denied using artificial intelligence to write novel The publisher of top-selling Haitian Canadian writer Thélyson Orélien,  who was removed from France’s most prestigious literary prize list  last month, has c",
+      "aiSummary": "Boréal, the publisher of Haitian-Canadian writer Thélyson Orélien, has ended their professional relationship over allegations that the author used artificial intelligence to write their novel. Orélien, who was recently removed from the shortlist for France's Prix Goncourt, has consistently denied using AI in the creation of the book.",
+      "articleUrl": "https://www.theguardian.com/culture/2026/oct/22/canadian-publisher-boreal-ends-relationship-author-thelyson-orelien-over-ai",
+      "category": "Publishing",
+      "filterTags": [
+        "Boréal",
+        "Thélyson Orélien",
+        "AI",
+        "Prix Goncourt"
+      ],
+      "publishedAt": "2026-10-22T01:13:01+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Publishing"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Literature"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-37f56e48ce431907080585a595c437f9edb23411-bump-scikit-build-core-to-1-1-1-and-make-use-of-its-features-200913",
+      "title": "trunk/37f56e48ce431907080585a595c437f9edb23411: Bump scikit-build-core to 1.1.1 and make use of its features (#200913)",
+      "dek": "Go through the following checklist \n \n  Passes lint ( spin fixlint ) \n   Added/updated tests \n  Updated documentation (if applicable) \n   Included benchmark results (for PRs impacting perf) \n \n \n Linked issue or supporting maintainer \n Fixes  #194945 . Fixes  #196619 . \n BC-break",
+      "aiSummary": "The commit bumps scikit-build-core to 1.1.1, adds and updates tests, documentation, linting, and benchmark results. It also fixes issues #194945 and #196619 and introduces a backward‑compatibility break.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F37f56e48ce431907080585a595c437f9edb23411",
+      "category": "Build Tools",
+      "filterTags": [
+        "scikit-build-core"
+      ],
+      "publishedAt": "2026-10-22T01:08:14+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Build Tools"
+        },
+        {
+          "name": "Python"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "critical-web-security-flaws-spark-global-alarm-as-google-openai-and-amazon-respond",
+      "title": "Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond",
+      "dek": "Critical PHP security flaws trigger global warnings as Google, OpenAI and Amazon respond to potential cyber threats.",
+      "aiSummary": "Critical PHP security vulnerabilities have prompted worldwide alerts. Major tech companies including Google, OpenAI, and Amazon are responding to the potential cyber threats.",
+      "articleUrl": "https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html",
+      "category": "Cybersecurity",
+      "filterTags": [
+        "PHP",
+        "Google",
+        "OpenAI",
+        "Amazon"
+      ],
+      "publishedAt": "2026-10-22T01:05:15+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "Web Development"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "not-impressed-with-google-maps-make-waze-your-default-on-pixel-here-s-how",
+      "title": "Not impressed with Google Maps? Make Waze your default on Pixel – here’s how",
+      "dek": "If you’re tired of Google Maps failing to get you where you need to go, set Waze as the default on your Pixel. I’ve finally figured out how.",
+      "aiSummary": "The article explains how to set Waze as the default navigation app on a Pixel phone because Google Maps is unreliable. The author has discovered the steps to make Waze the default.",
+      "articleUrl": "https://www.zdnet.com/tech/waze-your-way-to-a-different-default-map-app-on-pixel/",
+      "category": "Mobile",
+      "filterTags": [
+        "Google Maps",
+        "Waze",
+        "Pixel"
+      ],
+      "publishedAt": "2026-10-22T01:00:00+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Mobile"
+        },
+        {
+          "name": "Navigation"
+        },
+        {
+          "name": "Software"
+        }
+      ]
+    },
+    {
+      "slug": "v1-14-0-dev2",
+      "title": "v1.14.0.dev2",
+      "dek": "Langflow nightly v1.14.0.dev2",
+      "aiSummary": "Langflow has released a nightly build, version 1.14.0.dev2. The update is part of the ongoing development cycle.",
+      "articleUrl": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev2",
+      "category": "Software Development",
+      "filterTags": [
+        "Langflow"
+      ],
+      "publishedAt": "2026-10-22T00:36:47+00:00",
+      "publisher": {
+        "name": "langflow-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langflow-ai/langflow",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "securing-quick-access-from-corporate-networks-with-aws-privatelink",
+      "title": "Securing Quick access from corporate networks with AWS PrivateLink",
+      "dek": "Learn how to connect on-premises data sources to Amazon Quick privately with AWS PrivateLink, keeping analytics traffic off the public internet. This walkthrough covers VPC endpoints for user and API access, VPC connections for data sources, DNS and endpoint policies, identity fe",
+      "aiSummary": "The article explains how to use AWS PrivateLink to privately connect on‑premises data sources to Amazon Quick, keeping analytics traffic off the public internet. It details setting up VPC endpoints for user and API access, VPC connections for data sources, and configuring DNS, endpoint policies, and identity settings.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink/",
+      "category": "Cloud Networking",
+      "filterTags": [
+        "AWS PrivateLink",
+        "Amazon Quick",
+        "VPC endpoint",
+        "VPC connection",
+        "DNS",
+        "endpoint policy"
+      ],
+      "publishedAt": "2026-10-21T23:38:38+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cloud Networking"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Data Analytics"
+        }
+      ]
+    },
+    {
+      "slug": "5-production-challenges-in-multi-agent-systems-and-how-deep-insight-solved-them",
+      "title": "5 production challenges in multi-agent systems and how Deep Insight solved them",
+      "dek": "Many teams build a multi-agent AI prototype in days but hit a wall in production. This post defines five production challenges (orchestration, per-agent model selection, reliable operation, secure code execution, and monitoring) and shows how Deep Insight, an open source multi-ag",
+      "aiSummary": "Teams often struggle to transition multi-agent AI prototypes to production due to challenges in orchestration, model selection, reliability, security, and monitoring. The article outlines how Deep Insight, an open-source multi-agent framework, addresses these specific production hurdles.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/5-production-challenges-in-multi-agent-systems-and-how-deep-insight-solved-them/",
+      "category": "AI",
+      "filterTags": [
+        "Deep Insight",
+        "multi-agent systems",
+        "AI",
+        "orchestration",
+        "code execution"
+      ],
+      "publishedAt": "2026-10-21T23:36:47+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "v0-42-4",
+      "title": "v0.42.4",
+      "dek": "ComfyUI v0.42.4",
+      "aiSummary": "ComfyUI has released version 0.42.4. The provided text contains only the version number and project name without additional details on specific changes or features.",
+      "articleUrl": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.42.4",
+      "category": "AI",
+      "filterTags": [
+        "ComfyUI"
+      ],
+      "publishedAt": "2026-10-21T23:31:22+00:00",
+      "publisher": {
+        "name": "comfyanonymous",
+        "domain": "github.com",
+        "website": "https://github.com/comfyanonymous/ComfyUI",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "trump-s-green-card-curbs-test-indian-tech-workers-american-dream",
+      "title": "Trump's green card curbs test Indian tech workers' American dream",
+      "dek": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians.",
+      "aiSummary": "Immigration curbs and reduced foreign hiring by tech companies are making US residency increasingly difficult for Indian workers. These changes are testing the feasibility of the American dream for many professionals in the sector.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
+      "category": "Immigration",
+      "filterTags": [
+        "Immigration",
+        "Green Card",
+        "Indian Tech Workers",
+        "US Residency"
+      ],
+      "publishedAt": "2026-10-21T23:06:37+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Immigration"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Labor Market"
+        }
+      ]
+    },
+    {
+      "slug": "meta-offers-zuckerberg-new-shares-to-shield-him-from-wealth-tax",
+      "title": "Meta Offers Zuckerberg New Shares to Shield Him From Wealth Tax",
+      "dek": "Meta signed an agreement with Mark Zuckerberg to keep him living in the same jurisdiction as the company’s headquarters after the CEO said he was weighing leaving California if the state passes a wealth tax. Ed Ludlow has more. (Source: Bloomberg)",
+      "aiSummary": "Meta has signed an agreement with CEO Mark Zuckerberg to grant him new shares, aiming to keep him in the same jurisdiction as the company's headquarters. This move follows Zuckerberg's statement that he might leave California if the state enacts a wealth tax.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-21/meta-offers-zuckerberg-new-shares-to-shield-him-from-wealth-tax",
+      "category": "Corporate Governance",
+      "filterTags": [
+        "Meta",
+        "Mark Zuckerberg",
+        "Wealth Tax",
+        "Bloomberg"
+      ],
+      "publishedAt": "2026-10-21T22:59:34+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Corporate Governance"
+        },
+        {
+          "name": "Tax Policy"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "comcast-planning-significant-jobs-cuts-as-part-of-reorganization",
+      "title": "Comcast Planning Significant Jobs Cuts as Part of Reorganization",
+      "dek": "Comcast Corp. is planning a significant number of job cuts as part of an overall restructuring of its cable-TV, broadband and wireless businesses, according to people familiar with the company’s thinking.",
+      "aiSummary": "Comcast Corp. is planning to eliminate a large number of positions as part of a broader restructuring of its cable-TV, broadband, and wireless divisions. The cuts are part of an overall reorganization effort, according to sources familiar with the company's plans.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-21/comcast-planning-significant-jobs-cuts-as-part-of-reorganization",
+      "category": "Telecommunications",
+      "filterTags": [
+        "Comcast",
+        "cable-TV",
+        "broadband",
+        "wireless"
+      ],
+      "publishedAt": "2026-10-21T22:53:38+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Telecommunications"
+        },
+        {
+          "name": "Corporate Restructuring"
+        },
+        {
+          "name": "Employment"
+        }
+      ]
+    },
+    {
+      "slug": "blackstone-s-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown",
+      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "dek": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+      "aiSummary": "Jas Khaira, the head of AI at Blackstone, stated that market anxieties regarding debt financing for artificial intelligence buildouts are overblown. The private equity firm is not panicked by current market jitters surrounding these investments.",
+      "articleUrl": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "category": "Finance",
+      "filterTags": [
+        "Blackstone",
+        "Jas Khaira",
+        "AI",
+        "Debt"
+      ],
+      "publishedAt": "2026-10-21T22:51:22+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Private Equity"
+        }
+      ]
+    },
+    {
+      "slug": "apple-doj-antitrust-suit-reaches-impasse-over-document-collection",
+      "title": "Apple & DOJ antitrust suit reaches impasse over document collection",
+      "dek": "The DOJ's antitrust case has run long, and now the DOJ fears some new evidence may have emerged in the previous year that will prove once and for all Apple is in the wrong. But document collection has ended. DOJ's antitrust lawsuit against Apple hits another wall Apple is being s",
+      "aiSummary": "The Department of Justice's antitrust lawsuit against Apple has reached an impasse regarding the collection of documents. The DOJ is concerned that new evidence from the past year could prove Apple's wrongdoing, but the document collection process has concluded.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/21/apple-doj-antitrust-suit-reaches-impasse-over-document-collection?utm_source=rss",
+      "category": "Legal",
+      "filterTags": [
+        "Apple",
+        "DOJ",
+        "Antitrust"
+      ],
+      "publishedAt": "2026-10-21T22:49:12+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure",
+      "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
+      "dek": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
+      "aiSummary": "Meta’s board feared that the CEO’s departure could disrupt its AI ambitions. They offered a new stock agreement to provide financial incentives for him to stay. The agreement secured his decision to remain in the state.",
+      "articleUrl": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
+      "category": "Technology",
+      "filterTags": [
+        "Meta",
+        "AI",
+        "stock agreement",
+        "California"
+      ],
+      "publishedAt": "2026-10-21T22:39:50+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Corporate Governance"
+        },
+        {
+          "name": "Tax"
+        }
+      ]
+    },
+    {
+      "slug": "recursive-releases-flint-an-open-weight-40b-moe-local-coding-model-for-agents-with-2-5b-active-params",
+      "title": "Recursive Releases Flint, an Open-Weight 40B MoE Local Coding Model for Agents with 2.5B Active Params",
+      "dek": "Recursive has released Flint, an Apache 2.0 local coding model with 40B total and 2.5B active parameters. It reports 74.2% on SWE-bench Verified and 125+ tokens per second on an M4 Pro MacBook Pro. \n The post  Recursive Releases Flint, an Open-Weight 40B MoE Local Coding Model fo",
+      "aiSummary": "Recursive has released Flint, an Apache 2.0 licensed local coding model featuring a Mixture of Experts architecture with 40 billion total parameters and 2.5 billion active parameters. The model achieves a 74.2% score on SWE-bench Verified and generates over 125 tokens per second on an M4 Pro MacBook Pro.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/21/recursive-flint-local-coding-model/",
+      "category": "AI",
+      "filterTags": [
+        "Recursive",
+        "Flint",
+        "MoE",
+        "SWE-bench",
+        "M4 Pro",
+        "Apache 2.0"
+      ],
+      "publishedAt": "2026-10-21T22:39:41+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "b11803",
+      "title": "b11803",
+      "dek": "models : add Flint model (FlintForCausalLM) ( #30928 ) \n \n \n Add Flint model (FlintForCausalLM). Assisted by Codex \n \n \n cleanup \n \n \n one more \n \n \n \n Co-authored-by: Sigbjørn Skjæret  sigbjorn.skjaeret@huggingface.co \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n http",
+      "aiSummary": "The update adds the FlintForCausalLM model to the repository, with contributions from Sigbjørn Skjæret and assistance from Codex. The change includes cleanup tasks and is associated with the llama.app website.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11803",
+      "category": "AI",
+      "filterTags": [
+        "FlintForCausalLM",
+        "Codex",
+        "Hugging Face"
+      ],
+      "publishedAt": "2026-10-21T22:34:41+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "data-centers-could-erase-decades-of-air-quality-gains",
+      "title": "Data centers could erase decades of air quality gains",
+      "dek": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How de",
+      "aiSummary": "Texas is seeing a surge in data centers that power generative AI, and the resulting high electricity demand could raise air pollution to levels last seen in the 2000s, potentially reversing decades of air quality gains. The expansion threatens to bring pollution back to earlier decades' levels.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+      "category": "AI",
+      "filterTags": [
+        "Generative AI",
+        "Data Centers",
+        "Texas"
+      ],
+      "publishedAt": "2026-10-21T22:33:44+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Environment"
+        },
+        {
+          "name": "Energy"
+        }
+      ]
+    },
+    {
+      "slug": "b11802",
+      "title": "b11802",
+      "dek": "jinja : fix namespace attributes shadowed by dict methods ( #30941 ) \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/58411998 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silicon (arm64, KleidiAI enabled)",
+      "aiSummary": "This entry identifies build b11802, which includes a fix for Jinja namespace attributes being shadowed by dictionary methods. The release is available for macOS and iOS on Apple Silicon arm64 architecture, with an option for KleidiAI enabled.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11802",
+      "category": "Software Development",
+      "filterTags": [
+        "Jinja",
+        "llama.cpp",
+        "KleidiAI",
+        "Apple Silicon"
+      ],
+      "publishedAt": "2026-10-21T22:17:39+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "AI Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "vercel-open-sources-durable-harness-for-crash-proof-coding-agents",
+      "title": "Vercel Open-Sources durable-harness for Crash-Proof Coding Agents",
+      "dek": "Vercel released durable-harness, an open-source package that logs every model and tool call so Pi, OpenCode, Claude Code and Codex sessions resume after crashes, timeouts and redeploys on Vercel, Postgres or a laptop. \n The post  Vercel Open-Sources durable-harness for Crash-Proo",
+      "aiSummary": "Vercel has launched durable-harness, an open-source package designed to ensure coding sessions can resume seamlessly after interruptions. This tool achieves crash-proof operation by logging all model and tool calls, allowing sessions from platforms like Pi, OpenCode, Claude Code, and Codex to recover from crashes, timeouts, or redeployments across various environments including Vercel, Postgres, or local machines.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/21/vercel-durable-harness-crash-proof-coding-agents/",
+      "category": "Open Source",
+      "filterTags": [
+        "Vercel",
+        "durable-harness",
+        "Pi",
+        "OpenCode",
+        "Claude Code",
+        "Codex",
+        "Postgres"
+      ],
+      "publishedAt": "2026-10-21T22:15:39+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Computing"
+        }
+      ]
+    },
+    {
+      "slug": "langchain-1-4-7",
+      "title": "langchain==1.4.7",
+      "dek": "Changes since langchain==1.4.6 \n chore(langchain): update lockfile ( #41402 ) \nrelease(langchain): 1.4.7 ( #41401 ) \nchore(deps): bump certifi from 2025.11.12 to 2026.10.19 in /libs/langchain_v1 ( #41370 ) \nfeat(core,langchain,standard-tests): read  tool-call-delta  in stream con",
+      "aiSummary": "LangChain has released version 1.4.7, which includes updates to the lockfile and a dependency bump for certifi. The release also introduces a feature to read tool-call-delta in stream contexts across core, langchain, and standard-tests modules.",
+      "articleUrl": "https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D1.4.7",
+      "category": "AI",
+      "filterTags": [
+        "LangChain",
+        "certifi",
+        "Python"
+      ],
+      "publishedAt": "2026-10-21T21:39:18+00:00",
+      "publisher": {
+        "name": "langchain-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langchain-ai/langchain",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "meta-to-create-a-new-class-of-shares-to-fund-ai-push",
+      "title": "Meta to create a new class of shares to fund AI push",
+      "dek": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027.",
+      "aiSummary": "Meta announced it will issue a new class of non‑voting shares to fund AI projects, acquisitions, and employee compensation. The shares will start trading in 2027, as disclosed in its Q3 earnings report.",
+      "articleUrl": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+      "category": "Finance",
+      "filterTags": [
+        "Meta",
+        "AI",
+        "non-voting shares"
+      ],
+      "publishedAt": "2026-10-21T21:30:02+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Capital Markets"
+        }
+      ]
+    },
+    {
+      "slug": "adaptive-agentic-intelligence-framework-using-strands-agents",
+      "title": "Adaptive agentic intelligence framework using Strands Agents",
+      "dek": "The Adaptive Agentic Intelligence Framework (AAIF), built with Strands Agents, handles routine tasks locally with small language models and routes complex requests to cloud models through Amazon Bedrock. This post walks through building AAIF with local SLMs through Ollama and Ama",
+      "aiSummary": "The Adaptive Agentic Intelligence Framework (AAIF) utilizes Strands Agents to process routine tasks using local small language models while routing complex requests to cloud-based models via Amazon Bedrock. The article details the construction of this framework, specifically highlighting the integration of local SLMs through Ollama.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/adaptive-agentic-intelligence-framework-using-strands-agents/",
+      "category": "AI",
+      "filterTags": [
+        "Strands Agents",
+        "Amazon Bedrock",
+        "Ollama",
+        "SLMs"
+      ],
+      "publishedAt": "2026-10-21T21:23:26+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Computing"
+        }
+      ]
+    },
+    {
+      "slug": "techcrunch-founder-summit-2026-everything-you-need-to-know",
+      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+      "dek": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+      "aiSummary": "The TechCrunch Founder Summit 2026 will take place in Boston on November 4. The full-day event brings founders at all stages together with leading venture capitalists and seasoned entrepreneurs to share practical advice on building and scaling businesses.",
+      "articleUrl": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+      "category": "Entrepreneurship",
+      "filterTags": [
+        "TechCrunch",
+        "VCs",
+        "Entrepreneurs",
+        "Boston"
+      ],
+      "publishedAt": "2026-10-21T21:16:20+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Entrepreneurship"
+        },
+        {
+          "name": "Venture Capital"
+        },
+        {
+          "name": "Startup Events"
+        }
+      ]
+    },
+    {
+      "slug": "meta-says-muse-has-over-10m-users-with-shopping-a-top-activity",
+      "title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "dek": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+      "aiSummary": "Meta announced during its Q3 earnings call that the Muse app has reached over 10 million users. The company noted that shopping and personal productivity are among the top activities for users of the AI application.",
+      "articleUrl": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "category": "AI",
+      "filterTags": [
+        "Meta",
+        "Muse",
+        "AI",
+        "Q3 earnings"
+      ],
+      "publishedAt": "2026-10-21T21:14:19+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Consumer Tech"
+        },
+        {
+          "name": "E-commerce"
+        }
+      ]
+    },
+    {
+      "slug": "broad-access-through-consistent-standards",
+      "title": "Broad access through consistent standards",
+      "dek": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+      "aiSummary": "OpenAI collaborates with its distribution partners to maintain uniform safeguards. This effort ensures responsible access to their services and clarifies expectations through their Usage Policies.",
+      "articleUrl": "https://openai.com/index/broad-access-through-consistent-standards",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "Usage Policies"
+      ],
+      "publishedAt": "2026-10-21T21:00:00+00:00",
+      "publisher": {
+        "name": "OpenAI",
+        "domain": "openai.com",
+        "website": "https://openai.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Policy"
+        },
+        {
+          "name": "Partnerships"
+        }
+      ]
+    },
+    {
+      "slug": "cloudflare-links-vulnerability-discovery-to-defense-with-openai",
+      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+      "dek": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+      "aiSummary": "Cloudflare employs OpenAI's Daybreak to analyze security vulnerabilities and suggest fixes. Developers also use Codex to accelerate development and enhance code quality.",
+      "articleUrl": "https://openai.com/index/cloudflare-cyber",
+      "category": "Cybersecurity",
+      "filterTags": [
+        "Cloudflare",
+        "OpenAI",
+        "Daybreak",
+        "Codex"
+      ],
+      "publishedAt": "2026-10-21T00:00:00+00:00",
+      "publisher": {
+        "name": "OpenAI",
+        "domain": "openai.com",
+        "website": "https://openai.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    }
+  ]
+}
