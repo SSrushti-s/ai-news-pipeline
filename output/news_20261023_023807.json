@@ -1,0 +1,1134 @@
+{
+  "news": [
+    {
+      "slug": "microsoft-says-its-ai-tool-is-better-than-doctors-at-diagnosing-conditions",
+      "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+      "dek": "Microsoft claims its artificial intelligence software outperforms medical professionals in identifying health issues.",
+      "aiSummary": "Microsoft has stated that its AI tool is superior to doctors in diagnosing medical conditions. The company asserts that the technology offers better diagnostic accuracy than human medical professionals.",
+      "articleUrl": "https://zordt.com/",
+      "category": "AI",
+      "filterTags": [
+        "Microsoft",
+        "AI",
+        "Diagnosis"
+      ],
+      "publishedAt": "2026-10-23T02:25:18+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Healthcare"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-launches-minerva-to-catch-failing-parts-in-giant-ai-data-centres",
+      "title": "Nvidia launches Minerva to catch failing parts in giant AI data centres",
+      "dek": "Nvidia introduces Minerva to detect defective components in large-scale AI data centers.",
+      "aiSummary": "Nvidia has launched a tool called Minerva designed to identify failing parts within massive AI data centers. The system aims to improve reliability by catching hardware issues before they cause significant disruptions.",
+      "articleUrl": "https://thenextweb.com/news/nvidia-minerva-aiops-ai-factory-monitoring",
+      "category": "AI",
+      "filterTags": [
+        "Nvidia",
+        "Minerva",
+        "AI data centers",
+        "Hardware"
+      ],
+      "publishedAt": "2026-10-23T02:21:45+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Data Centers"
+        }
+      ]
+    },
+    {
+      "slug": "ai-tech-fears-push-global-credit-spreads-to-17-month-high",
+      "title": "AI Tech Fears Push Global Credit Spreads to 17-Month High",
+      "dek": "Metrics across global bond markets are signaling their biggest risk-off sentiment in more than a year, as a selloff in AI stocks and growing geopolitical tensions caused investors to seek out safe-haven assets.",
+      "aiSummary": "Bond market metrics show the strongest risk‑off mood in over a year. A decline in AI stocks and rising geopolitical tensions have pushed investors toward safe‑haven assets, widening global credit spreads.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-23/ai-tech-fears-push-global-credit-spreads-to-17-month-high",
+      "category": "Finance",
+      "filterTags": [
+        "AI",
+        "Credit Spreads",
+        "Geopolitical Tensions",
+        "Bond Markets"
+      ],
+      "publishedAt": "2026-10-23T02:13:32+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Geopolitics"
+        }
+      ]
+    },
+    {
+      "slug": "v0-40-9",
+      "title": "v0.40.9",
+      "dek": "Speech \n Ollama can now generate  speech  with Phonon on Apple Silicon.  ollama run  plays text or a chat model's reply aloud as the audio is generated, and apps can stream audio through the OpenAI-compatible  /v1/audio/speech  endpoint. \n ollama run phonon  \" Hello from Ollama. ",
+      "aiSummary": "Ollama version 0.40.9 adds speech synthesis using Phonon on Apple Silicon. The new command plays text or model replies aloud while generating audio, and developers can stream audio via an OpenAI‑compatible /v1/audio/speech endpoint.",
+      "articleUrl": "https://github.com/ollama/ollama/releases/tag/v0.40.9",
+      "category": "AI",
+      "filterTags": [
+        "Ollama",
+        "Phonon",
+        "Apple Silicon",
+        "OpenAI"
+      ],
+      "publishedAt": "2026-10-23T02:12:47+00:00",
+      "publisher": {
+        "name": "ollama",
+        "domain": "github.com",
+        "website": "https://github.com/ollama/ollama",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "delta-electronics-vp-on-data-centre-demand",
+      "title": "Delta Electronics VP on Data Centre Demand",
+      "dek": "Kelvin Huang, Vice President of Taiwan's Delta Electronics, discusses the outlook for AI data-center demand, and says that the company expects strong growth for years to come.\nHe speaks with Stephen Engle on Bloomberg Tech Asia. (Source: Bloomberg)",
+      "aiSummary": "Kelvin Huang, Vice President of Delta Electronics, stated that the company anticipates strong growth in AI data-center demand for the coming years. He shared this outlook during an interview with Stephen Engle on Bloomberg Tech Asia.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-23/delta-electronics-vp-on-data-centre-demand-video",
+      "category": "Hardware",
+      "filterTags": [
+        "Delta Electronics",
+        "AI",
+        "Data Center",
+        "Bloomberg"
+      ],
+      "publishedAt": "2026-10-23T02:12:37+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "failsafe-president-on-ai-hacking-cybersecurity",
+      "title": "FailSafe President on AI hacking, Cybersecurity",
+      "dek": "Wui Foo, President and Co-founder of cybersecurity firm FailSafe, discusses what institutions should do to protect websites and services from vulnerabilities and AI-driven cyberattacks amid a recent surge in security loopholes. He speaks with Paul Allen and Haidi Stroud-Watts on ",
+      "aiSummary": "Wui Foo, president and co‑founder of FailSafe, explains how institutions can protect websites and services from vulnerabilities and AI‑driven cyberattacks amid a recent surge in security loopholes. He talks about these issues with Paul Allen and Haidi Stroud‑Watts.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-23/failsafe-president-on-ai-hacking-cybersecurity-video",
+      "category": "Cybersecurity",
+      "filterTags": [
+        "FailSafe",
+        "AI hacking",
+        "cybersecurity"
+      ],
+      "publishedAt": "2026-10-23T02:06:53+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "Artificial Intelligence"
+        }
+      ]
+    },
+    {
+      "slug": "kazakhstan-expands-compute-for-its-ai-future",
+      "title": "Kazakhstan Expands Compute for Its AI Future",
+      "dek": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment.  The shift is visible across the full AI stack — from infrastructure to models to applications.  Together, the ecosystem announcements below point to the nation’s increasing supply of accelerated computi",
+      "aiSummary": "Kazakhstan's AI ecosystem is transitioning from planning infrastructure to active deployment across the entire AI stack. This shift is evident in the growing supply of accelerated computing resources, covering infrastructure, models, and applications.",
+      "articleUrl": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
+      "category": "AI",
+      "filterTags": [
+        "Kazakhstan",
+        "AI",
+        "Compute",
+        "Infrastructure"
+      ],
+      "publishedAt": "2026-10-23T02:00:13+00:00",
+      "publisher": {
+        "name": "NVIDIA",
+        "domain": "nvidia.com",
+        "website": "https://blogs.nvidia.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "ciflow-xpu-195997",
+      "title": "ciflow/xpu/195997",
+      "dek": "address comments",
+      "aiSummary": "The article states that comments are being addressed. No further details are provided.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fxpu%2F195997",
+      "category": "Open Source",
+      "filterTags": [
+        "ciflow",
+        "xpu"
+      ],
+      "publishedAt": "2026-10-23T01:56:03+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "meta-s-hunt-for-ai-capital-strikes-a-raw-nerve-on-wall-street",
+      "title": "Meta's Hunt for AI Capital Strikes a Raw Nerve on Wall Street",
+      "dek": "Meta's search for funding for artificial intelligence is causing significant concern among Wall Street investors.",
+      "aiSummary": "The provided text does not contain an article body, only a title. Therefore, no factual summary can be generated based on the specific details of the event, as the description field is empty.",
+      "articleUrl": "https://www.wsj.com/finance/stocks/metas-hunt-for-ai-capital-strikes-a-raw-nerve-on-wall-street-e2de1601",
+      "category": "AI",
+      "filterTags": [
+        "Meta",
+        "AI",
+        "Wall Street"
+      ],
+      "publishedAt": "2026-10-23T01:50:06+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "ciflow-xpu-201788",
+      "title": "ciflow/xpu/201788",
+      "dek": "Update pin commit to b32801",
+      "aiSummary": "A change was made to the pin in the ciflow/xpu project. The pin now points to commit b32801. This update likely reflects a new version or fix.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fxpu%2F201788",
+      "category": "Software Development",
+      "filterTags": [
+        "ciflow",
+        "xpu",
+        "commit",
+        "b32801"
+      ],
+      "publishedAt": "2026-10-23T01:36:56+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Version Control"
+        }
+      ]
+    },
+    {
+      "slug": "release-autogpt-platform-beta-v0-9-0",
+      "title": "🚀 Release `autogpt-platform-beta-v0.9.0`",
+      "dek": "🔥 What's New? \n New Features \n \n #15824  - Add measures and admin tools against multi-account abuse (by  @Pwuts ) \n #14553  - Self-host from the Docker Hub image, with a Windows installer (by  @ntindle ) \n #14981  - Every block declares its effect; Auto judges cheap outward actio",
+      "aiSummary": "The AutoGPT platform has released version 0.9.0, introducing new features including measures to combat multi-account abuse and self-hosting capabilities via Docker Hub with a Windows installer. Additionally, the update ensures that every block declares its effect, allowing the system to judge cheap outward actions.",
+      "articleUrl": "https://github.com/Significant-Gravitas/AutoGPT/releases/tag/autogpt-platform-beta-v0.9.0",
+      "category": "AI",
+      "filterTags": [
+        "AutoGPT",
+        "Docker",
+        "Windows",
+        "Docker Hub"
+      ],
+      "publishedAt": "2026-10-23T01:28:07+00:00",
+      "publisher": {
+        "name": "Significant-Gravitas",
+        "domain": "github.com",
+        "website": "https://github.com/Significant-Gravitas/AutoGPT",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "DevOps"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-8bf2072b6d5e19818b08b9e77fd23615fc553b6c",
+      "title": "trunk/8bf2072b6d5e19818b08b9e77fd23615fc553b6c",
+      "dek": "[module-level kernels] inductor: define Triton kernels at module leve…",
+      "aiSummary": "The provided text describes a code change within the Inductor component that modifies how Triton kernels are defined. Specifically, the update moves the definition of these kernels to the module level.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F8bf2072b6d5e19818b08b9e77fd23615fc553b6c",
+      "category": "Machine Learning",
+      "filterTags": [
+        "Inductor",
+        "Triton",
+        "kernels"
+      ],
+      "publishedAt": "2026-10-23T01:14:38+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Compiler Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "appeals-court-upholds-apple-tv-s-servant-plagiarism-lawsuit-win",
+      "title": "Appeals court upholds Apple TV's 'Servant' plagiarism lawsuit win",
+      "dek": "There's no twist ending for M. Nigh Shyamalan's day in court, as the 9th Circuit Court of Appeals has maintained the ruling that  Apple TV 's \"Servant\" series did not copy a film titled \"The Truth About Emanuel.\" 'Servant' is a dramatic thriller series on Apple TV A lawsuit broug",
+      "aiSummary": "The 9th Circuit Court of Appeals has upheld the previous ruling that Apple TV's series 'Servant' did not plagiarize the film 'The Truth About Emanuel.' This decision concludes the legal dispute regarding the dramatic thriller series.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/23/appeals-court-upholds-apple-tvs-servant-plagiarism-lawsuit-win?utm_source=rss",
+      "category": "Legal",
+      "filterTags": [
+        "Apple TV",
+        "Servant",
+        "9th Circuit Court of Appeals",
+        "M. Nigh Shyamalan"
+      ],
+      "publishedAt": "2026-10-23T01:06:57+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Entertainment"
+        }
+      ]
+    },
+    {
+      "slug": "sk-hynix-shares-slide-after-chipmaker-scraps-solidigm-ipo-plans",
+      "title": "SK Hynix shares slide after chipmaker scraps Solidigm IPO plans",
+      "dek": "SK Hynix has shelved plans for a potential U.S. IPO of Solidigm amid market volatility and share price concerns.",
+      "aiSummary": "SK Hynix decided to drop its plans for a U.S. IPO of its unit Solidigm. The move comes as market volatility and worries about the company's share price influenced the decision.",
+      "articleUrl": "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
+      "category": "Semiconductors",
+      "filterTags": [
+        "SK Hynix",
+        "Solidigm"
+      ],
+      "publishedAt": "2026-10-23T00:53:36+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Stock Market"
+        }
+      ]
+    },
+    {
+      "slug": "spacex-records-561-million-investment-gain-from-stake-in-elon-musk-s-boring-co",
+      "title": "SpaceX records $561 million investment gain from stake in Elon Musk's Boring Co.",
+      "dek": "SpaceX's stake in Boring Co. helped boost its net income in the third quarter.",
+      "aiSummary": "SpaceX reported a $561 million investment gain from its stake in Elon Musk's Boring Company. The gain contributed to the company's net income in the third quarter.",
+      "articleUrl": "https://www.cnbc.com/2026/10/22/spacex-records-561-million-investment-gain-from-stake-in-boring-co.html",
+      "category": "Finance",
+      "filterTags": [
+        "SpaceX",
+        "Boring Company",
+        "Elon Musk"
+      ],
+      "publishedAt": "2026-10-23T00:46:09+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Space"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "left-alone-with-nothing-to-do-ai-agents-started-playing",
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "dek": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+      "aiSummary": "MIT researchers isolated 13 AI agents on a virtual island, where they spontaneously invented games and engaged in social behaviors like mourning a lost ring. Over time, these agents also demonstrated improved performance in their assigned tasks.",
+      "articleUrl": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "category": "AI",
+      "filterTags": [
+        "MIT",
+        "AI agents",
+        "virtual island"
+      ],
+      "publishedAt": "2026-10-23T00:45:37+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Research"
+        }
+      ]
+    },
+    {
+      "slug": "v1-14-0-dev3",
+      "title": "v1.14.0.dev3",
+      "dek": "Langflow nightly v1.14.0.dev3",
+      "aiSummary": "Langflow has released the third development iteration of version 1.14.0. This update is part of the project's nightly build cycle.",
+      "articleUrl": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev3",
+      "category": "Open Source",
+      "filterTags": [
+        "Langflow",
+        "v1.14.0.dev3"
+      ],
+      "publishedAt": "2026-10-23T00:38:41+00:00",
+      "publisher": {
+        "name": "langflow-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langflow-ai/langflow",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "v0-42-5",
+      "title": "v0.42.5",
+      "dek": "ComfyUI v0.42.5",
+      "aiSummary": "ComfyUI has released version 0.42.5. The update is now available for download.",
+      "articleUrl": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.42.5",
+      "category": "Software",
+      "filterTags": [
+        "ComfyUI"
+      ],
+      "publishedAt": "2026-10-23T00:07:14+00:00",
+      "publisher": {
+        "name": "comfyanonymous",
+        "domain": "github.com",
+        "website": "https://github.com/comfyanonymous/ComfyUI",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "b11829",
+      "title": "b11829",
+      "dek": "server: Substitute rerank placeholder from the original template only. ( #30864 ) \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/58867720 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silicon (arm64, Klei",
+      "aiSummary": "This release for llama.cpp addresses a server-side issue by ensuring that rerank placeholders are substituted only from the original template. The update is available for macOS and iOS devices with Apple Silicon architecture.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11829",
+      "category": "AI",
+      "filterTags": [
+        "llama.cpp",
+        "server",
+        "template",
+        "macOS",
+        "iOS",
+        "Apple Silicon"
+      ],
+      "publishedAt": "2026-10-22T23:46:53+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "etsy-bans-ai-generated-recipes-and-patterns-from-its-online-marketplace",
+      "title": "Etsy bans AI-generated recipes and patterns from its online marketplace",
+      "dek": "Etsy also laid out clearer rules around AI usage on its platform, including barring sellers from creating bot-generated listings without any human involvement.",
+      "aiSummary": "Etsy has introduced stricter guidelines for AI use on its platform. The new rules forbid sellers from posting listings that are entirely generated by bots, requiring human involvement in the creation process.",
+      "articleUrl": "https://www.cnbc.com/2026/10/22/etsy-bans-ai-generated-recipes-patterns-from-its-online-marketplace.html",
+      "category": "E-commerce",
+      "filterTags": [
+        "Etsy",
+        "AI",
+        "bot-generated listings"
+      ],
+      "publishedAt": "2026-10-22T23:45:50+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "E-commerce"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Marketplace Policies"
+        }
+      ]
+    },
+    {
+      "slug": "b11828",
+      "title": "b11828",
+      "dek": "server: realtime API: send complete after committed audio drains ( #30994 ) \n \n \n server: realtime API: send complete after committed audio drains \n \n \n server: realtime API: complete a commit at its end row \n \n \n Completion is triggered when the stream runs dry, which is a timin",
+      "aiSummary": "The server’s realtime API is updated to send a completion signal only after the committed audio has fully drained. The commit is finalized at the end row of the stream, and completion is triggered when the stream runs dry, ensuring proper timing.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11828",
+      "category": "Software Development",
+      "filterTags": [
+        "realtime API",
+        "audio",
+        "commit",
+        "stream"
+      ],
+      "publishedAt": "2026-10-22T23:29:03+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Audio Processing"
+        },
+        {
+          "name": "API"
+        }
+      ]
+    },
+    {
+      "slug": "v0-40-9-rc3-support-ga-gradium-phonon-checkpoints-19227",
+      "title": "v0.40.9-rc3: Support GA Gradium Phonon checkpoints (#19227)",
+      "dek": "Replace the prerelease checkpoint path with Gradium's GA format, including default-voice import and speech conditioning. Set the 0.40.9 minimum, update the speech docs, and test import, inference setup, and rejection of the old checkpoint.",
+      "aiSummary": "The update replaces the prerelease checkpoint path with Gradium's GA format, adding default-voice import and speech conditioning. It sets a minimum version of 0.40.9, updates speech documentation, and includes tests for importing, inference setup, and rejecting the old checkpoint.",
+      "articleUrl": "https://github.com/ollama/ollama/releases/tag/v0.40.9-rc3",
+      "category": "AI",
+      "filterTags": [
+        "Gradium",
+        "Phonon",
+        "checkpoint",
+        "speech conditioning",
+        "default-voice import"
+      ],
+      "publishedAt": "2026-10-22T22:51:43+00:00",
+      "publisher": {
+        "name": "ollama",
+        "domain": "github.com",
+        "website": "https://github.com/ollama/ollama",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Speech"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "turning-database-grading-into-rl-rewards-post-training-agents-with-thinkingbox",
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "dek": "Using database grading to create rewards for training AI agents with ThinkingBox.",
+      "aiSummary": "The article discusses a method for post-training AI agents by converting database grading into reinforcement learning rewards. This approach utilizes the ThinkingBox framework to enhance agent performance through specific reward signals derived from data evaluation.",
+      "articleUrl": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "category": "AI",
+      "filterTags": [
+        "ThinkingBox",
+        "Reinforcement Learning",
+        "Post-Training",
+        "Database Grading"
+      ],
+      "publishedAt": "2026-10-22T22:24:34+00:00",
+      "publisher": {
+        "name": "Hugging Face",
+        "domain": "huggingface.co",
+        "website": "https://huggingface.co/",
+        "logoUrl": "https://huggingface.co/front/thumbnails/v2-2.png",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Data Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo",
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "dek": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+      "aiSummary": "OpenAI is currently working on a new capital raise of $30 billion, which would value the company at $1.25 trillion. This round is being conducted ahead of a planned initial public offering and would make OpenAI the most highly valued private company in history.",
+      "articleUrl": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "IPO",
+        "Valuation"
+      ],
+      "publishedAt": "2026-10-22T22:08:24+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Venture Capital"
+        }
+      ]
+    },
+    {
+      "slug": "canva-s-first-ai-image-model-plans-designs-before-generating-them",
+      "title": "Canva’s first AI image model plans designs before generating them",
+      "dek": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing",
+      "aiSummary": "Canva has launched Canva Craft, an AI image generation model that competes with offerings from OpenAI, Microsoft, and Google. The system utilizes a two-stage architecture to plan the design layout before generating the final image.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "category": "AI",
+      "filterTags": [
+        "Canva",
+        "Canva Craft",
+        "OpenAI",
+        "Microsoft",
+        "Google",
+        "AI image generation"
+      ],
+      "publishedAt": "2026-10-22T21:51:25+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Design Tools"
+        },
+        {
+          "name": "Generative AI"
+        }
+      ]
+    },
+    {
+      "slug": "openai-trims-valuation-target-to-1-25tn-after-pitching-higher-price",
+      "title": "OpenAI trims valuation target to $1.25tn after pitching higher price",
+      "dek": "AI lab floated $1.4tn price tag earlier this month, according to documents seen by the FT",
+      "aiSummary": "OpenAI has reduced its valuation target to $1.25 trillion following an earlier attempt to secure a higher price. Documents reviewed by the Financial Times indicate that the AI lab initially proposed a $1.4 trillion price tag earlier this month.",
+      "articleUrl": "https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc?syn-25a6b1a6=1",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "Valuation",
+        "FT"
+      ],
+      "publishedAt": "2026-10-22T21:50:16+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "sharp-drops-for-ai-stocks-overwhelm-markets-worldwide-as-oil-prices-jump",
+      "title": "Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump",
+      "dek": "Datacenter and chip costs fueled sharp decrease in AI sector although non-AI stocks still had a strong showing The latest shudder for stocks in the  AI  industry pulled markets lower worldwide on Thursday, while oil prices hit their highest levels since May on worries about the  ",
+      "aiSummary": "Global markets declined on Thursday as a sharp drop in AI sector stocks outweighed strong performance in non-AI equities. This downturn was driven by rising datacenter and chip costs, while oil prices simultaneously reached their highest levels since May due to market concerns.",
+      "articleUrl": "https://www.theguardian.com/business/2026/oct/22/stock-markets-drop-ai-oil",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Datacenter",
+        "Chip",
+        "Oil"
+      ],
+      "publishedAt": "2026-10-22T21:50:13+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Markets"
+        },
+        {
+          "name": "Energy"
+        }
+      ]
+    },
+    {
+      "slug": "designing-an-ai-serving-harness-built-to-last",
+      "title": "Designing an AI serving harness built to last",
+      "dek": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, lar",
+      "aiSummary": "The article argues that the next competitive advantage in enterprise AI lies in the infrastructure built around models rather than the models themselves. It highlights a shift in focus from model capability to the design of long-lasting serving harnesses.",
+      "articleUrl": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+      "category": "AI",
+      "filterTags": [
+        "AI serving",
+        "Enterprise AI",
+        "Infrastructure"
+      ],
+      "publishedAt": "2026-10-22T21:17:29+00:00",
+      "publisher": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "website": "https://www.technologyreview.com/",
+        "logoUrl": "https://www.technologyreview.com/static/media/favicon.1cfcdb44759a0f93ddf5feb5405dd4cc.ico",
+        "faviconUrl": "https://www.technologyreview.com/static/media/favicon.1cfcdb44759a0f93ddf5feb5405dd4cc.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Enterprise Software"
+        }
+      ]
+    },
+    {
+      "slug": "meta-8217-s-ai-could-still-scrape-news-sites-legal-experts-say",
+      "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
+      "dek": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your product",
+      "aiSummary": "Meta has updated its business terms to remove language that implied it could freely train AI models on news sites. However, legal experts argue that these modifications are insufficient to address their concerns regarding the restrictions on using content associated with the product.",
+      "articleUrl": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+      "category": "AI",
+      "filterTags": [
+        "Meta",
+        "AI",
+        "Legal",
+        "The Verge"
+      ],
+      "publishedAt": "2026-10-22T20:32:05+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "amid-ai-boom-risk-is-spreading-throughout-the-economy-astra-taylor-naomi-klein",
+      "title": "Amid AI Boom, “Risk Is Spreading Throughout the Economy”: Astra Taylor & Naomi Klein",
+      "dek": "Naomi Klein and Astra Taylor join a wide-ranging conversation on the multitrillion-dollar global investment in artificial intelligence and its reverberating effects around the world. \n The post  Amid AI Boom, “Risk Is Spreading Throughout the Economy”: Astra Taylor & Naomi Klein ",
+      "aiSummary": "Naomi Klein and Astra Taylor joined a discussion about the massive global investment in artificial intelligence and its widespread impacts. They explored how the AI boom is spreading risk throughout the economy and affecting societies worldwide.",
+      "articleUrl": "https://ainowinstitute.org/news/amid-ai-boom-risk-is-spreading-throughout-the-economy-astra-taylor-naomi-klein",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Artificial Intelligence",
+        "AI"
+      ],
+      "publishedAt": "2026-10-21T13:19:52+00:00",
+      "publisher": {
+        "name": "AI Now Institute",
+        "domain": "ainowinstitute.org",
+        "website": "https://ainowinstitute.org/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ainowinstitute.org&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ainowinstitute.org&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Economics"
+        },
+        {
+          "name": "Social Impact"
+        }
+      ]
+    },
+    {
+      "slug": "workflow-context-for-ai-agents-with-smartsheet-mcp-on-aws",
+      "title": "Workflow context for AI agents with Smartsheet MCP on AWS",
+      "dek": "The Smartsheet Model Context Protocol (MCP) Server lets AI agents read, update, and act on live data. This post shows two ways to connect it on AWS: Amazon Quick for business teams and Kiro for developers, so your agents can work with Smartsheet without switching tools.",
+      "aiSummary": "The Smartsheet Model Context Protocol (MCP) Server enables AI agents to read, update, and act on live data. The article demonstrates two methods for connecting this server on AWS: using Amazon Quick for business teams and Kiro for developers.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/workflow-context-for-ai-agents-with-smartsheet-mcp-on-aws/",
+      "category": "AI",
+      "filterTags": [
+        "Smartsheet",
+        "MCP",
+        "AWS",
+        "Amazon Quick",
+        "Kiro",
+        "AI agents"
+      ],
+      "publishedAt": "2026-10-20T17:59:07+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Productivity"
+        }
+      ]
+    },
+    {
+      "slug": "mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back",
+      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "dek": "At The People’s AI Assembly, NYC Mayor Zohran Mamdani argued that the technology’s rapid rollout is not inevitable and that public officials should hold AI companies accountable. \n The post  Mamdani says feds have abdicated on AI, urges New Yorkers to push back  appeared first on",
+      "aiSummary": "At The People’s AI Assembly, NYC Mayor Zohran Mamdani said that the rapid rollout of AI is not inevitable and urged officials to hold AI companies accountable. He criticized the federal government for abandoning responsibility over AI regulation.",
+      "articleUrl": "https://ainowinstitute.org/news/press/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "AI companies",
+        "The People’s AI Assembly"
+      ],
+      "publishedAt": "2026-10-19T13:14:58+00:00",
+      "publisher": {
+        "name": "AI Now Institute",
+        "domain": "ainowinstitute.org",
+        "website": "https://ainowinstitute.org/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ainowinstitute.org&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ainowinstitute.org&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Policy"
+        },
+        {
+          "name": "Governance"
+        }
+      ]
+    },
+    {
+      "slug": "new-york-city-mayor-mamdani-on-artificial-intelligence-and-tech-innovation",
+      "title": "New York City Mayor Mamdani on Artificial Intelligence and Tech Innovation",
+      "dek": "New York City Mayor Zohran Mamdani discussed artificial intelligence and tech innovation at an event co-hosted by AI Now Institute and More Perfect Union. \n The post  New York City Mayor Mamdani on Artificial Intelligence and Tech Innovation  appeared first on  AI Now Institute .",
+      "aiSummary": "Mayor Zohran Mamdani spoke about artificial intelligence and tech innovation at an event hosted by AI Now Institute and More Perfect Union. The discussion was covered in a post on the AI Now Institute website.",
+      "articleUrl": "https://ainowinstitute.org/news/new-york-city-mayor-mamdani-on-artificial-intelligence-and-tech-innovation",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AI Now Institute",
+        "More Perfect Union",
+        "Artificial Intelligence"
+      ],
+      "publishedAt": "2026-10-19T13:12:35+00:00",
+      "publisher": {
+        "name": "AI Now Institute",
+        "domain": "ainowinstitute.org",
+        "website": "https://ainowinstitute.org/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ainowinstitute.org&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ainowinstitute.org&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Technology Policy"
+        },
+        {
+          "name": "Urban Governance"
+        }
+      ]
+    }
+  ]
+}
