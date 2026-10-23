@@ -1,0 +1,1356 @@
+{
+  "news": [
+    {
+      "slug": "the-iphone-duo-finally-makes-its-way-into-customers-hands",
+      "title": "The iPhone Duo finally makes its way into customers' hands",
+      "dek": "iPhone Duo preorders are showing up at customers' doorsteps as Apple's first foldable rolls out worldwide. Two of the first customers at Apple Jingan in Shanghai, and their dogs - image credit: Apple Apple opened preorders for the iPhone Duo on October 16 ahead of its October 23 ",
+      "aiSummary": "Apple's first foldable iPhone Duo has begun shipping to customers after preorders opened on October 16. The first deliveries arrived at Apple Jingan in Shanghai on October 23, with two customers receiving the device.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/23/the-iphone-duo-finally-makes-its-way-into-customers-hands?utm_source=rss",
+      "category": "Hardware",
+      "filterTags": [
+        "iPhone Duo",
+        "Apple",
+        "foldable"
+      ],
+      "publishedAt": "2026-10-23T10:40:54+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Mobile Devices"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "show-hn-best-otaku-ai-to-chat-about-anime-with",
+      "title": "Show HN: Best otaku AI to chat about Anime with",
+      "dek": "A new AI tool is available for discussing anime.",
+      "aiSummary": "The article introduces a new AI application designed specifically for otaku to chat about anime. It is presented as a 'Show HN' project, highlighting its utility for fans of the genre.",
+      "articleUrl": "https://otaku.animearray.site/",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Anime",
+        "Otaku",
+        "Chatbot"
+      ],
+      "publishedAt": "2026-10-23T10:36:24+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Entertainment"
+        }
+      ]
+    },
+    {
+      "slug": "deepseek-open-sources-ai-model-as-china-us-restrict-each-other-s-tech",
+      "title": "DeepSeek Open-Sources AI Model as China, US Restrict Each Other’s Tech",
+      "dek": "AI leaders want their models everywhere and under their control. They may not get both.",
+      "aiSummary": "DeepSeek has open-sourced its AI model amidst ongoing technological restrictions between China and the United States. This move occurs as major AI leaders seek to distribute their models widely while maintaining control, a balance that may prove difficult to achieve.",
+      "articleUrl": "https://www.bloomberg.com/news/newsletters/2026-10-23/deepseek-open-sources-ai-model-as-china-us-restrict-each-other-s-tech",
+      "category": "AI",
+      "filterTags": [
+        "DeepSeek",
+        "AI",
+        "China",
+        "US",
+        "Open Source"
+      ],
+      "publishedAt": "2026-10-23T10:28:01+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Geopolitics"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-132fec6b15c8d0c9caf4a7e59b0c39f294a81517",
+      "title": "trunk/132fec6b15c8d0c9caf4a7e59b0c39f294a81517",
+      "dek": "[Feature Refactoring] Support non-CUDA accelerators in ShardedGradSca…",
+      "aiSummary": "The commit refactors the ShardedGradScaler feature to add support for non-CUDA accelerators. It updates the code to handle different hardware backends beyond CUDA, improving compatibility for users on other GPU or CPU accelerators.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F132fec6b15c8d0c9caf4a7e59b0c39f294a81517",
+      "category": "Hardware",
+      "filterTags": [
+        "CUDA",
+        "ShardedGradScaler",
+        "accelerators"
+      ],
+      "publishedAt": "2026-10-23T10:23:43+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "how-generative-ai-is-scaling-transnational-repression",
+      "title": "How Generative AI Is Scaling Transnational Repression",
+      "dek": "The ways in which generative artificial intelligence is expanding the reach of government crackdowns across borders.",
+      "aiSummary": "The provided text does not contain an article body, only a title. Therefore, no factual summary can be generated based on the content.",
+      "articleUrl": "https://www.justsecurity.org/159245/how-generative-ai-scaling-transnational-repression/",
+      "category": "AI",
+      "filterTags": [
+        "Generative AI"
+      ],
+      "publishedAt": "2026-10-23T10:15:11+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Human Rights"
+        }
+      ]
+    },
+    {
+      "slug": "ainews-black-october",
+      "title": "[AINews] Black October",
+      "dek": "the Cyber onslaught continues.",
+      "aiSummary": "The article reports that a significant wave of cyber attacks, referred to as 'Black October,' is still ongoing. It highlights the persistence of this digital onslaught without providing specific details on the targets or methods used.",
+      "articleUrl": "https://latent.space/p/ainews-black-october/",
+      "category": "Security",
+      "filterTags": [
+        "Cybersecurity",
+        "Black October"
+      ],
+      "publishedAt": "2026-10-23T10:09:29+00:00",
+      "publisher": {
+        "name": "Latent Space",
+        "domain": "latent.space",
+        "website": "https://www.latent.space/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Cyber Threats"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-022c55e97874314b7d7fefde62bb6310384bfd27-fix-forward-ad-of-triangular-solve-and-cholesky-solve-198602",
+      "title": "trunk/022c55e97874314b7d7fefde62bb6310384bfd27: Fix forward AD of triangular_solve and cholesky_solve (#198602)",
+      "dek": "Fixing an Issue \n Before submitting, please review: \n \n The Ultimate Guide to PyTorch Contributions \n AI-Assisted Development  policy \n \n \n Issue \n Fixes  #196694 \nFixes  #196707 \n Part of  #198017 . \n Summary \n Forward-mode AD of  triangular_solve  and  cholesky_solve  returned ",
+      "aiSummary": "This commit corrects a bug in PyTorch where forward-mode automatic differentiation for the triangular_solve and cholesky_solve functions returned incorrect results. It resolves issues #196694 and #196707 and is part of the larger #198017 change.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F022c55e97874314b7d7fefde62bb6310384bfd27",
+      "category": "Machine Learning",
+      "filterTags": [
+        "PyTorch",
+        "triangular_solve",
+        "cholesky_solve",
+        "automatic differentiation"
+      ],
+      "publishedAt": "2026-10-23T10:08:25+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Deep Learning"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "spacex-aims-to-secure-80-000-cell-sites-for-new-network",
+      "title": "SpaceX Aims to Secure 80,000 Cell Sites for New Network",
+      "dek": "SpaceX is reportedly in talks to secure a minimum of 80,000 cell sites across the US, a move that would solidify the rocket and satellite giant’s path toward building a fourth nationwide wireless carrier. Ruhell Amin reports on Bloomberg Television. (Source: Bloomberg)",
+      "aiSummary": "SpaceX is reportedly negotiating to secure at least 80,000 cell sites across the United States. This move is intended to support the company's goal of establishing itself as a fourth nationwide wireless carrier.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-23/spacex-aims-to-secure-80-000-cell-sites-for-new-network-video",
+      "category": "Telecommunications",
+      "filterTags": [
+        "SpaceX",
+        "Bloomberg",
+        "Wireless",
+        "Cell Sites"
+      ],
+      "publishedAt": "2026-10-23T10:06:36+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Telecommunications"
+        },
+        {
+          "name": "Space Technology"
+        }
+      ]
+    },
+    {
+      "slug": "ai-and-its-main-promoters-are-not-enterprise-ready-says-gartner",
+      "title": "AI and its main promoters are not enterprise-ready, says Gartner",
+      "dek": "Gartner claims that AI and its key supporters are not yet prepared for business use.",
+      "aiSummary": "Gartner asserts that artificial intelligence and its primary promoters are not currently enterprise-ready. The report suggests that these technologies and their advocates have not yet met the standards required for widespread corporate adoption.",
+      "articleUrl": "https://www.theregister.com/ai-and-ml/2026/09/14/ai-and-its-main-promoters-are-not-enterprise-ready-says-gartner/5296074",
+      "category": "AI",
+      "filterTags": [
+        "Gartner",
+        "AI",
+        "Enterprise"
+      ],
+      "publishedAt": "2026-10-23T10:05:51+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Enterprise Technology"
+        }
+      ]
+    },
+    {
+      "slug": "axel-springer-to-cut-telegraph-jobs-after-buying-uk-newspaper",
+      "title": "Axel Springer to Cut Telegraph Jobs After Buying UK Newspaper",
+      "dek": "Axel Springer SE is cutting roles at Telegraph Media Group Ltd., just months after the German company took control of the British newspaper publisher on the promise of fresh investment.",
+      "aiSummary": "Axel Springer SE is cutting roles at Telegraph Media Group Ltd. The move comes a few months after the German firm acquired the British newspaper publisher, which had pledged new investment.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-23/axel-springer-to-cut-telegraph-jobs-after-buying-uk-newspaper",
+      "category": "Media",
+      "filterTags": [
+        "Axel Springer",
+        "Telegraph Media Group",
+        "UK newspaper"
+      ],
+      "publishedAt": "2026-10-23T10:05:42+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Media"
+        },
+        {
+          "name": "Business"
+        },
+        {
+          "name": "Employment"
+        }
+      ]
+    },
+    {
+      "slug": "is-a-job-guarantee-the-solution-to-mass-ai-unemployment",
+      "title": "Is a job guarantee the solution to mass AI unemployment?",
+      "dek": "An old idea springs anew as a chorus of influential voices predicts that AI may trigger crises of vast magnitude In a preface to his book Capitalism and Freedom, the American economist Milton Friedman famously observed that a crisis can propel once-fringe ideas into the political",
+      "aiSummary": "As influential voices predict that AI may cause massive unemployment crises, the concept of a job guarantee is gaining renewed attention. The article notes that economic crises often push previously fringe ideas into the political mainstream, a dynamic highlighted by Milton Friedman.",
+      "articleUrl": "https://www.theguardian.com/technology/2026/oct/23/job-guarantee-ai-mass-unemployment",
+      "category": "Economics",
+      "filterTags": [
+        "Milton Friedman",
+        "Capitalism and Freedom",
+        "Job Guarantee"
+      ],
+      "publishedAt": "2026-10-23T10:00:30+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Economics"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Public Policy"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-s-huang-heads-to-kazakhstan-for-the-first-time-and-he-s-not-the-only-one-with-big-plans",
+      "title": "Nvidia's Huang heads to Kazakhstan for the first time — and he's not the only one with big plans",
+      "dek": "Jensen Huang's first Kazakhstan visit highlights the country's growing AI ambitions and global business appeal.",
+      "aiSummary": "Nvidia CEO Jensen Huang is visiting Kazakhstan for the first time, a move that underscores the nation's expanding focus on artificial intelligence. The visit highlights Kazakhstan's increasing appeal as a global business destination and its strategic ambitions in the AI sector.",
+      "articleUrl": "https://www.cnbc.com/2026/10/23/nvidia-huang-investment-kazakhstan-.html",
+      "category": "AI",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Kazakhstan",
+        "AI"
+      ],
+      "publishedAt": "2026-10-23T09:21:59+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Business"
+        },
+        {
+          "name": "Geopolitics"
+        }
+      ]
+    },
+    {
+      "slug": "tinyfish-breaks-down-agentic-search-architecture-for-production-ai-agents",
+      "title": "TinyFish Breaks Down Agentic Search Architecture for Production AI Agents",
+      "dek": "TinyFish published two engineering research articles on agentic search. One defines a 7-phase production architecture with evidence contracts and bounded retries. The other explains why its deep research system dropped a separate planner and per-query subagents. \n The post  TinyF",
+      "aiSummary": "TinyFish has released two engineering articles detailing the architecture of agentic search systems. The first outlines a seven-phase production framework featuring evidence contracts and bounded retries, while the second discusses the decision to remove separate planners and per-query subagents from its deep research system.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/23/tinyfish-agentic-search-architecture-deep-research/",
+      "category": "AI",
+      "filterTags": [
+        "TinyFish",
+        "Agentic Search",
+        "AI Agents",
+        "Deep Research"
+      ],
+      "publishedAt": "2026-10-23T08:58:47+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Architecture"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-1776b988238f9978a57690ad7e9b37bff539555c-mps-replace-mpsgraph-max-pool2d-forward-with-metal-kernels-201756",
+      "title": "trunk/1776b988238f9978a57690ad7e9b37bff539555c: [MPS] Replace MPSGraph max_pool2d forward with Metal kernels (#201756)",
+      "dek": "The generic  max_pool  Metal kernel decomposes the thread id with per-dim div/mod by runtime sizes and is ~8x slower than memory bandwidth allows. That is why stride-1  max_pool2d  was routed to MPSGraph, which silently drops NaNs. The Metal kernel dropped them too, unless a NaN ",
+      "aiSummary": "The generic max_pool Metal kernel was found to be approximately 8x slower than memory bandwidth limits due to inefficient thread ID decomposition. Consequently, stride-1 max_pool2d operations were previously routed to MPSGraph, which silently drops NaNs. This change replaces the MPSGraph forward pass with optimized Metal kernels to address performance issues and handle NaNs correctly.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F1776b988238f9978a57690ad7e9b37bff539555c",
+      "category": "Machine Learning",
+      "filterTags": [
+        "PyTorch",
+        "MPS",
+        "Metal",
+        "MPSGraph",
+        "max_pool2d"
+      ],
+      "publishedAt": "2026-10-23T08:26:15+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Hardware Acceleration"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "b11836",
+      "title": "b11836",
+      "dek": "CANN: missing  const  qualifiers added for consistency ( #30933 ) \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/58989960 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silicon (arm64, KleidiAI enabled)  D",
+      "aiSummary": "This update to llama.cpp introduces missing const qualifiers to the CANN backend to ensure code consistency. The change is associated with pull request #30933 and is part of build b11836.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11836",
+      "category": "Open Source",
+      "filterTags": [
+        "llama.cpp",
+        "CANN",
+        "const qualifiers",
+        "ggml-org"
+      ],
+      "publishedAt": "2026-10-23T08:23:15+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "the-indian-workers-filming-their-work-to-train-ai",
+      "title": "The Indian workers filming their work to train AI",
+      "dek": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
+      "aiSummary": "In India, workers receive payment for recording their daily tasks. The videos are then used to train artificial intelligence models.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AI",
+        "India"
+      ],
+      "publishedAt": "2026-10-23T08:04:17+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Labor"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "n8n-1-123-87",
+      "title": "n8n@1.123.87",
+      "dek": "1.123.87  (2026-10-23)",
+      "aiSummary": "The n8n project has released version 1.123.87. This update was published on October 23, 2026.",
+      "articleUrl": "https://github.com/n8n-io/n8n/releases/tag/n8n%401.123.87",
+      "category": "Open Source",
+      "filterTags": [
+        "n8n"
+      ],
+      "publishedAt": "2026-10-23T07:54:10+00:00",
+      "publisher": {
+        "name": "n8n-io",
+        "domain": "github.com",
+        "website": "https://github.com/n8n-io/n8n",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Automation"
+        }
+      ]
+    },
+    {
+      "slug": "enhance-bump-milvus-proto-version-to-v3-0-4-54625",
+      "title": "enhance: Bump milvus & proto version to v3.0.4 (#54625)",
+      "dek": "Signed-off-by: Congqi Xia  congqi.xia@zilliz.com",
+      "aiSummary": "The commit bumps Milvus and its protocol to version 3.0.4. It was signed off by Congqi Xia from Zilliz.",
+      "articleUrl": "https://github.com/milvus-io/milvus/releases/tag/v3.0.4",
+      "category": "Software Development",
+      "filterTags": [
+        "Milvus",
+        "proto",
+        "Zilliz"
+      ],
+      "publishedAt": "2026-10-23T07:53:54+00:00",
+      "publisher": {
+        "name": "milvus-io",
+        "domain": "github.com",
+        "website": "https://github.com/milvus-io/milvus",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Version Control"
+        }
+      ]
+    },
+    {
+      "slug": "pkg-v3-0-4-enhance-bump-milvus-proto-version-to-v3-0-4-54625",
+      "title": "pkg/v3.0.4: enhance: Bump milvus & proto version to v3.0.4 (#54625)",
+      "dek": "Signed-off-by: Congqi Xia  congqi.xia@zilliz.com",
+      "aiSummary": "The release pkg/v3.0.4 enhances the software by bumping the Milvus and proto versions to v3.0.4. This change was implemented in pull request #54625 and signed off by Congqi Xia from Zilliz.",
+      "articleUrl": "https://github.com/milvus-io/milvus/releases/tag/pkg%2Fv3.0.4",
+      "category": "Databases",
+      "filterTags": [
+        "Milvus",
+        "proto",
+        "Zilliz"
+      ],
+      "publishedAt": "2026-10-23T07:53:54+00:00",
+      "publisher": {
+        "name": "milvus-io",
+        "domain": "github.com",
+        "website": "https://github.com/milvus-io/milvus",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Databases"
+        },
+        {
+          "name": "Version Control"
+        }
+      ]
+    },
+    {
+      "slug": "b11835",
+      "title": "b11835",
+      "dek": "sycl : pass device into mul_mat_uses_onednn ( #31014 ) \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/58974916 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silicon (arm64, KleidiAI enabled)  DISABLED \n m",
+      "aiSummary": "The issue involves passing a device into the mul_mat_uses_onednn function in SYCL, referenced as issue #31014. The project includes a website at https://llama.app and attestations on GitHub. It supports macOS Apple Silicon (arm64) and a disabled variant with KleidiAI enabled.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11835",
+      "category": "AI",
+      "filterTags": [
+        "sycl",
+        "mul_mat_uses_onednn",
+        "llama.cpp",
+        "KleidiAI",
+        "macOS Apple Silicon",
+        "arm64",
+        "GitHub"
+      ],
+      "publishedAt": "2026-10-23T07:32:16+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "n8n-2-45-3",
+      "title": "n8n@2.45.3",
+      "dek": "2.45.3  (2026-10-23) \n Bug Fixes \n \n editor:  Increase light-mode text contrast ( #41807 ) ( 9f41c0f )",
+      "aiSummary": "The n8n team released version 2.45.3 on October 23, 2026, which includes bug fixes. One of the fixes improves text contrast in light mode in the editor.",
+      "articleUrl": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.45.3",
+      "category": "Open Source",
+      "filterTags": [
+        "n8n",
+        "editor"
+      ],
+      "publishedAt": "2026-10-23T07:29:29+00:00",
+      "publisher": {
+        "name": "n8n-io",
+        "domain": "github.com",
+        "website": "https://github.com/n8n-io/n8n",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Productivity Tools"
+        }
+      ]
+    },
+    {
+      "slug": "can-ai-really-predict-cancer-survival-better-than-a-doctor-i-have-my-doubts-devi-sridhar",
+      "title": "Can AI really predict cancer survival better than a doctor? I have my doubts | Devi Sridhar",
+      "dek": "Take a selfie to see how healthy you are: the idea is enticing and this new research is promising. But so many factors have been ignored The idea that a single selfie could predict how long someone with cancer may live sounds like an incredible breakthrough. AI is getting better ",
+      "aiSummary": "New research suggests that AI analyzing a single selfie could predict cancer survival rates, a concept that appears promising but is viewed with skepticism. The author argues that the study ignores too many critical factors to be considered a reliable alternative to professional medical assessment.",
+      "articleUrl": "https://www.theguardian.com/commentisfree/2026/oct/23/ai-cancer-survival-doctor-selfie-health-research",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Cancer",
+        "Selfie",
+        "Devi Sridhar"
+      ],
+      "publishedAt": "2026-10-23T07:00:03+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Healthcare"
+        }
+      ]
+    },
+    {
+      "slug": "google-cloud-launches-agent-compute-engine-a-microvm-per-ai-agent",
+      "title": "Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent",
+      "dek": "Google Cloud announced Agent Compute Engine, a compute service that gives every AI agent its own hardware-isolated microVM with no credentials inside. It already runs Gemini agents and enters preview in the coming months. \n The post  Google Cloud Launches Agent Compute Engine: A ",
+      "aiSummary": "Google Cloud has announced Agent Compute Engine, a service that assigns a hardware-isolated microVM to every AI agent without storing credentials inside. The platform is currently running Gemini agents and is scheduled to enter preview in the coming months.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/",
+      "category": "Cloud Computing",
+      "filterTags": [
+        "Google Cloud",
+        "Agent Compute Engine",
+        "microVM",
+        "Gemini"
+      ],
+      "publishedAt": "2026-10-23T06:05:10+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "AI Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "b11834-extend-probabilistic-sampling-for-dflash2-drafts-30663",
+      "title": "b11834: Extend probabilistic sampling for DFlash2 drafts (#30663)",
+      "dek": "spec : add probabilistic sampling for DFlash2 drafts \n \n \n spec : apply review suggestions \n \n \n \n Co-authored-by: Pranesh Gonegandla  pgonegandla@nvidia.com",
+      "aiSummary": "The specification introduces probabilistic sampling for DFlash2 drafts and incorporates review suggestions. This change expands the sampling strategy for DFlash2 drafts.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11834",
+      "category": "Software Engineering",
+      "filterTags": [
+        "DFlash2",
+        "probabilistic sampling"
+      ],
+      "publishedAt": "2026-10-23T05:45:36+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Testing"
+        },
+        {
+          "name": "Data Science"
+        }
+      ]
+    },
+    {
+      "slug": "winter-arrives-in-markets",
+      "title": "Winter arrives in markets",
+      "dek": "Bonds and stocks tell the same chilly story",
+      "aiSummary": "Bond and stock markets are both indicating a slowdown, suggesting a colder economic outlook. Investors are reacting to the cooling trend across asset classes.",
+      "articleUrl": "https://www.ft.com/content/ce0e9d68-c63f-4666-9909-512b929e6284?syn-25a6b1a6=1",
+      "category": "Finance",
+      "filterTags": [
+        "Bonds",
+        "Stocks"
+      ],
+      "publishedAt": "2026-10-23T05:30:08+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Markets"
+        }
+      ]
+    },
+    {
+      "slug": "you-com-launches-inference-router-12-open-weight-models-with-99-9-uptime-sla",
+      "title": "You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA",
+      "dek": "You.com launched Inference Router, an OpenAI-compatible API for 12 open-weight models with a 99.9% uptime SLA, zero data retention, 100% US hosting, server-side web search and no platform fee. \n The post  You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime ",
+      "aiSummary": "You.com has introduced Inference Router, an OpenAI-compatible API offering access to 12 open-weight models. The service features a 99.9% uptime SLA, zero data retention, and 100% US hosting, along with server-side web search capabilities and no platform fees.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/22/you-com-inference-router-open-weight-models-uptime-sla/",
+      "category": "AI",
+      "filterTags": [
+        "You.com",
+        "Inference Router",
+        "OpenAI-compatible API",
+        "open-weight models",
+        "SLA"
+      ],
+      "publishedAt": "2026-10-23T05:28:21+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Infrastructure"
+        },
+        {
+          "name": "APIs"
+        }
+      ]
+    },
+    {
+      "slug": "ai-oversight-needs-a-different-model-to-banking",
+      "title": "AI oversight needs a different model to banking",
+      "dek": "Regulatory structures for finance were cobbled together over a century — this technology needs its own scrutiny",
+      "aiSummary": "The article argues that the regulatory frameworks built over a century for finance are not suitable for AI, and that AI requires its own distinct scrutiny. It calls for new oversight models tailored to the unique nature of AI technology.",
+      "articleUrl": "https://www.ft.com/content/f98be079-49af-45c8-9954-ea3bd774c585",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AI",
+        "Finance",
+        "Regulation"
+      ],
+      "publishedAt": "2026-10-23T04:00:18+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Regulation"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "milei-s-ai-hype-outpaces-reality",
+      "title": "Milei’s AI hype outpaces reality",
+      "dek": "Argentina has abundant energy and a thriving software industry — but few projects are advancing as economic instability deters investors",
+      "aiSummary": "Argentina has abundant energy resources and a growing software sector, yet only a few AI projects are progressing. Economic instability deters investors, limiting development.",
+      "articleUrl": "https://www.ft.com/content/0fdf2308-76f1-413b-a753-31ba3f00c561?syn-25a6b1a6=1",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AI",
+        "software industry",
+        "energy"
+      ],
+      "publishedAt": "2026-10-23T04:00:10+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Energy"
+        },
+        {
+          "name": "Economics"
+        }
+      ]
+    },
+    {
+      "slug": "the-cost-of-saying-hello-an-empirical-study-of-handshake-overhead-in-ai-agent-communication-protocols",
+      "title": "The Cost of Saying Hello: An Empirical Study of Handshake Overhead in AI Agent Communication Protocols",
+      "dek": "arXiv:2610.30151v1 Announce Type: new \nAbstract: Every interaction between AI agents begins with a handshake: the initiating agent must locate its counterpart, learn what it can do, and establish a session before the first useful message can be sent. Surveys of agent communicatio",
+      "aiSummary": "This empirical study investigates the overhead associated with the handshake process in AI agent communication protocols. It highlights that every interaction requires an initial phase where agents locate counterparts, exchange capabilities, and establish sessions before meaningful data transfer can occur.",
+      "articleUrl": "https://arxiv.org/abs/2610.30151",
+      "category": "AI",
+      "filterTags": [
+        "AI Agents",
+        "Communication Protocols",
+        "Handshake Overhead",
+        "arXiv"
+      ],
+      "publishedAt": "2026-10-23T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv cs.AI",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.AI",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Networking"
+        },
+        {
+          "name": "Research"
+        }
+      ]
+    },
+    {
+      "slug": "mcp-vs-cli-for-ai-agents-a-comparative-analysis-of-tool-integration-strategies-for-autonomous-systems",
+      "title": "MCP vs CLI for AI Agents: A Comparative Analysis of Tool Integration Strategies for Autonomous Systems",
+      "dek": "arXiv:2610.30157v1 Announce Type: new \nAbstract: AI agents require interfaces to interact with external systems such as files, APIs, databases, and cloud services. Two competing paradigms have emerged: CLI (Command Line Interface), where agents execute shell commands directly, an",
+      "aiSummary": "The paper discusses how AI agents need interfaces to interact with external systems such as files, APIs, databases, and cloud services. It compares two paradigms: CLI, where agents execute shell commands directly, and MCP, an alternative integration strategy. The analysis highlights the strengths and trade-offs of each approach for autonomous systems.",
+      "articleUrl": "https://arxiv.org/abs/2610.30157",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "CLI",
+        "MCP",
+        "AI agents",
+        "APIs",
+        "cloud services"
+      ],
+      "publishedAt": "2026-10-23T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv cs.AI",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.AI",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Systems Integration"
+        }
+      ]
+    },
+    {
+      "slug": "accelerating-wildfire-hazard-mapping-across-canada-with-an-ai-surrogate-modelling-framework",
+      "title": "Accelerating Wildfire Hazard Mapping Across Canada with an AI Surrogate Modelling Framework",
+      "dek": "arXiv:2610.30170v1 Announce Type: new \nAbstract: Canada's increasing wildfire activity requires frequent national hazard mapping to guide proactive mitigation, including fuel management, land-use planning, infrastructure protection, and evacuation routing. However, process-based ",
+      "aiSummary": "The paper discusses the need for frequent national wildfire hazard maps in Canada due to rising wildfire activity. It proposes an AI surrogate modelling framework to accelerate the creation of these maps, which are used for fuel management, land-use planning, infrastructure protection, and evacuation routing. The approach aims to replace slower process-based models with faster AI alternatives.",
+      "articleUrl": "https://arxiv.org/abs/2610.30170",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Surrogate Modelling",
+        "Wildfire Hazard Mapping",
+        "Canada"
+      ],
+      "publishedAt": "2026-10-23T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv cs.AI",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.AI",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Environmental Science"
+        },
+        {
+          "name": "Geospatial Analysis"
+        }
+      ]
+    },
+    {
+      "slug": "differentially-private-synthetic-data-via-generalized-moment-matching",
+      "title": "Differentially Private Synthetic Data via Generalized Moment Matching",
+      "dek": "arXiv:2610.30196v1 Announce Type: new \nAbstract: We study $(\\varepsilon,\\delta)$-differentially private synthetic data for arbitrary databases of $n$ records in $[-1,1]^d$ under a specified integral probability metric (IPM). We introduce generalized moment matching, which estimat",
+      "aiSummary": "The paper investigates generating synthetic data that satisfies $(\\varepsilon,\\delta)$-differential privacy for databases with records in the range [-1,1]^d, measured by an integral probability metric. It proposes a technique called generalized moment matching to estimate the required moments for the synthetic data.",
+      "articleUrl": "https://arxiv.org/abs/2610.30196",
+      "category": "Privacy",
+      "filterTags": [
+        "Differential Privacy",
+        "Synthetic Data",
+        "Generalized Moment Matching",
+        "Integral Probability Metric",
+        "IPM"
+      ],
+      "publishedAt": "2026-10-23T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Privacy"
+        },
+        {
+          "name": "Data Science"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "bridge-change-of-measure-for-propagator-estimation-of-diffusions",
+      "title": "Bridge change-of-measure for propagator estimation of diffusions",
+      "dek": "arXiv:2610.30213v1 Announce Type: new \nAbstract: The propagator of one-dimensional diffusions has relevant applications in statistical inference and across many disciplines. Yet it is obtained in closed form only for very few simple models. Here we analyze an importance sampling ",
+      "aiSummary": "The paper addresses the difficulty of obtaining closed-form solutions for the propagator of one-dimensional diffusions, which are essential for statistical inference. It analyzes an importance sampling approach that utilizes a change-of-measure to facilitate this estimation.",
+      "articleUrl": "https://arxiv.org/abs/2610.30213",
+      "category": "Mathematics",
+      "filterTags": [
+        "diffusions",
+        "propagator",
+        "importance sampling",
+        "change-of-measure",
+        "statistical inference"
+      ],
+      "publishedAt": "2026-10-23T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Mathematics"
+        },
+        {
+          "name": "Statistics"
+        }
+      ]
+    },
+    {
+      "slug": "tag-loss-models-for-capture-recapture-data-without-double-tagging",
+      "title": "Tag loss models for capture-recapture data without double tagging",
+      "dek": "arXiv:2610.30447v1 Announce Type: new \nAbstract: Standard capture-recapture (CR) models assume that marked individuals do not lose their tags during the sampling period. When this assumption is violated, the estimates of model parameters can be biased. Existing tag-loss models ge",
+      "aiSummary": "Standard capture‑recapture models assume that marked animals keep their tags, but when tags are lost the resulting parameter estimates can be biased. Existing tag‑loss models address this issue, and the paper proposes new approaches that do not rely on double tagging. These models aim to improve accuracy in studies where tag loss is a concern.",
+      "articleUrl": "https://arxiv.org/abs/2610.30447",
+      "category": "Ecology",
+      "filterTags": [
+        "capture-recapture",
+        "tag loss",
+        "double tagging"
+      ],
+      "publishedAt": "2026-10-23T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Ecology"
+        },
+        {
+          "name": "Statistics"
+        },
+        {
+          "name": "Data Science"
+        }
+      ]
+    },
+    {
+      "slug": "uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia",
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "dek": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+      "aiSummary": "inDrive, a rival to Uber, intends to start testing robotaxis in Astana, Kazakhstan, during the first half of 2027. The initiative involves a partnership with Pony.ai and Nvidia to deploy autonomous vehicles in the region.",
+      "articleUrl": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "category": "Autonomous Vehicles",
+      "filterTags": [
+        "inDrive",
+        "Pony.ai",
+        "Nvidia",
+        "robotaxi",
+        "Kazakhstan"
+      ],
+      "publishedAt": "2026-10-23T04:00:00+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Autonomous Vehicles"
+        },
+        {
+          "name": "Transportation"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "openai-and-poland-s-nask-partner-to-advance-ai-safety-and-security",
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "dek": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+      "aiSummary": "OpenAI has formed a partnership with Poland's NASK to collaborate on AI safety, security, and technical research. The goal of this cooperation is to strengthen safeguards and support the development of a more resilient digital ecosystem.",
+      "articleUrl": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "NASK",
+        "AI Safety",
+        "Security"
+      ],
+      "publishedAt": "2026-10-23T00:00:00+00:00",
+      "publisher": {
+        "name": "OpenAI",
+        "domain": "openai.com",
+        "website": "https://openai.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Research"
+        }
+      ]
+    },
+    {
+      "slug": "openai-signal-leaks-alexa-tablet-formal-software-verification",
+      "title": "OpenAI Signal leaks 💬, Alexa Tablet 💻, formal software verification 👨‍💻",
+      "dek": "OpenAI shares signal leaks, Amazon introduces an Alexa tablet, and explores formal software verification.",
+      "aiSummary": "",
+      "articleUrl": "https://tldr.tech/tech/2026-10-23",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "Alexa",
+        "formal verification"
+      ],
+      "publishedAt": "2026-10-23T00:00:00+00:00",
+      "publisher": {
+        "name": "TLDR",
+        "domain": "tldr.tech",
+        "website": "https://tldr.tech/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=tldr.tech&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=tldr.tech&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "why-ai-compute-comes-in-rectangles-erik-bernhardsson-modal-ceo",
+      "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
+      "dek": "Elastic GPUs, sandbox growth, and the economics of the agent cloud",
+      "aiSummary": "The article outlines how AI compute is organized into rectangular units, leveraging elastic GPUs and sandbox environments to scale workloads. It also examines the cost structure of the agent cloud, highlighting how these components drive efficiency and economics.",
+      "articleUrl": "https://latent.space/p/modal-d/",
+      "category": "AI",
+      "filterTags": [
+        "Modal",
+        "Elastic GPUs",
+        "Sandbox",
+        "Agent Cloud"
+      ],
+      "publishedAt": "2026-10-22T17:40:57+00:00",
+      "publisher": {
+        "name": "Latent Space",
+        "domain": "latent.space",
+        "website": "https://www.latent.space/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "you-are-the-team-anekha-sokhal-moshi",
+      "title": "You are the Team  — Anekha Sokhal, Moshi",
+      "dek": "How Moshi turns market data into actionable insights, and why AI tools have to fit the trader’s workflow.",
+      "aiSummary": "Moshi transforms market data into actionable insights for traders. The company emphasizes that AI tools must be designed to fit seamlessly into the existing workflow of traders to be effective.",
+      "articleUrl": "https://latent.space/p/moshi/",
+      "category": "FinTech",
+      "filterTags": [
+        "Moshi",
+        "Anekha Sokhal",
+        "Market Data",
+        "AI Tools",
+        "Trading"
+      ],
+      "publishedAt": "2026-10-22T14:03:40+00:00",
+      "publisher": {
+        "name": "Latent Space",
+        "domain": "latent.space",
+        "website": "https://www.latent.space/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "FinTech"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Data Analytics"
+        }
+      ]
+    }
+  ]
+}
