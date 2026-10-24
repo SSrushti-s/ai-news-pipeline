@@ -1,0 +1,657 @@
+{
+  "news": [
+    {
+      "slug": "forced-to-pick-grok-s-ai-model-chooses-republicans-openai-s-picks-democrats",
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "dek": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+      "aiSummary": "A recent study indicates that Grok's AI model predominantly recommends Republican candidates, whereas OpenAI's GPT favors Democrats. The two models disagreed in over 90% of nearly 500 election races analyzed.",
+      "articleUrl": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "category": "AI",
+      "filterTags": [
+        "Grok",
+        "OpenAI",
+        "GPT",
+        "AI bias",
+        "Election"
+      ],
+      "publishedAt": "2026-10-24T15:00:00+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Politics"
+        }
+      ]
+    },
+    {
+      "slug": "how-ai-saved-my-company-from-a-2-year-litigation-nightmare",
+      "title": "How AI Saved My Company From a 2-Year Litigation Nightmare",
+      "dek": "AI helped my business avoid a two-year legal battle.",
+      "aiSummary": "The article describes how the use of artificial intelligence prevented the author's company from facing a two-year litigation process. It highlights the role of AI in resolving or mitigating the legal issues that would have otherwise resulted in a prolonged nightmare for the business.",
+      "articleUrl": "https://tylertringas.com/ai-legal/",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Litigation"
+      ],
+      "publishedAt": "2026-10-24T14:44:27+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Legal"
+        }
+      ]
+    },
+    {
+      "slug": "ux-research-for-ai-products-the-ai-native-research-lifecycle",
+      "title": "UX Research for AI Products: The AI-Native Research Lifecycle",
+      "dek": "How to conduct user experience research specifically for artificial intelligence products using a native lifecycle.",
+      "aiSummary": "The article outlines a specific research lifecycle designed for AI-native products. It focuses on adapting user experience methodologies to address the unique challenges and characteristics of artificial intelligence systems.",
+      "articleUrl": "https://www.uxness.in/2026/10/ux-research-for-ai-products-ai-native-research-lifecycle.html",
+      "category": "AI",
+      "filterTags": [
+        "UX Research",
+        "AI Products",
+        "AI-Native"
+      ],
+      "publishedAt": "2026-10-24T14:39:45+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "User Experience"
+        }
+      ]
+    },
+    {
+      "slug": "show-hn-tensemem-deterministic-memory-for-ai-agents",
+      "title": "Show HN: TenseMem – deterministic memory for AI agents",
+      "dek": "A new tool called TenseMem provides consistent memory storage for AI agents.",
+      "aiSummary": "The article introduces TenseMem, a tool designed to provide deterministic memory for AI agents. It is presented as a Show HN submission, highlighting its utility in managing agent state.",
+      "articleUrl": "https://github.com/tensemem/tensemem",
+      "category": "AI",
+      "filterTags": [
+        "TenseMem",
+        "AI agents",
+        "Show HN"
+      ],
+      "publishedAt": "2026-10-24T14:38:03+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "youtubers-break-the-iphone-duo-but-stores-aren-t-seeing-broken-displays",
+      "title": "YouTubers break the iPhone Duo, but stores aren't seeing broken displays",
+      "dek": "A YouTuber has demonstrated the resilience of the  iPhone Duo  display, which seems to explain why there are so few reports of broken units just after launch. A bend 'test' of the iPhone Duo - Image Credit: JerryRigEverything/YouTube There are some inevitabilities that happen aft",
+      "aiSummary": "A YouTuber demonstrated the durability of the iPhone Duo display through a bend test, which helps explain the lack of broken unit reports following the device's launch. Despite these stress tests, stores are not currently seeing any broken displays.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/24/youtubers-break-the-iphone-duo-but-stores-arent-seeing-broken-displays?utm_source=rss",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "iPhone Duo",
+        "JerryRigEverything",
+        "YouTube"
+      ],
+      "publishedAt": "2026-10-24T14:34:56+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "ai-boom-faces-a-growing-public-backlash",
+      "title": "AI Boom Faces a Growing Public Backlash",
+      "dek": "The Atlantic CEO Nicholas Thompson tells Bloomberg This Weekend that AI offers powerful tools for businesses but poses significant risks to media, while its broader economic impact continues to lag behind rapidly advancing capabilities. Speaking with hosts David Gura and Christin",
+      "aiSummary": "Nicholas Thompson, CEO of The Atlantic, stated that while AI provides powerful tools for businesses, it presents significant risks to the media industry. He also noted that the broader economic impact of AI has not yet kept pace with its rapidly advancing technical capabilities.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-24/ai-boom-faces-a-growing-public-backlash-video",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "The Atlantic",
+        "Nicholas Thompson",
+        "Bloomberg"
+      ],
+      "publishedAt": "2026-10-24T14:08:22+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Media"
+        },
+        {
+          "name": "Economy"
+        }
+      ]
+    },
+    {
+      "slug": "how-to-add-guardrails-to-a-local-llm-agent",
+      "title": "How to Add Guardrails to a Local LLM Agent",
+      "dek": "A hands-on guide with Gemma 4, Ollama, and the OpenAI Agents SDK \n The post  How to Add Guardrails to a Local LLM Agent  appeared first on  Towards Data Science .",
+      "aiSummary": "This article provides a hands-on tutorial on adding guardrails to a local LLM agent. It utilizes the Gemma 4 model, Ollama, and the OpenAI Agents SDK to demonstrate the implementation process.",
+      "articleUrl": "https://towardsdatascience.com/how-to-add-guardrails-to-a-local-llm-agent/",
+      "category": "AI",
+      "filterTags": [
+        "Gemma 4",
+        "Ollama",
+        "OpenAI Agents SDK",
+        "LLM",
+        "Guardrails"
+      ],
+      "publishedAt": "2026-10-24T14:00:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Development"
+        }
+      ]
+    },
+    {
+      "slug": "here-are-the-top-ai-agents-that-can-live-in-your-text-messages",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "dek": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "aiSummary": "The article presents a curated list of AI agents that can be integrated into text messaging platforms. It covers a range of agents, including general assistants and specialized ones for families, travel, and work.",
+      "articleUrl": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AI agents",
+        "text messages"
+      ],
+      "publishedAt": "2026-10-24T14:00:00+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Messaging"
+        }
+      ]
+    },
+    {
+      "slug": "ai-boom-brings-new-business-to-matchmakers",
+      "title": "AI Boom Brings New Business to Matchmakers",
+      "dek": "Linx Dating founder and CEO Amy Andersen tells Bloomberg This Weekend that newly wealthy AI creators are fueling demand for high-end matchmaking as busy professionals seek an alternative to dating apps. Speaking with hosts David Gura and Christina Ruffini, Andersen explains how h",
+      "aiSummary": "Linx Dating CEO Amy Andersen states that the rise of wealthy AI creators is increasing demand for high-end matchmaking services. These busy professionals are turning to matchmakers as an alternative to traditional dating apps.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-24/ai-boom-brings-new-business-to-matchmakers-video",
+      "category": "AI",
+      "filterTags": [
+        "Linx Dating",
+        "AI",
+        "Bloomberg This Weekend",
+        "Matchmaking"
+      ],
+      "publishedAt": "2026-10-24T12:35:19+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Consumer Services"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "making-advanced-microchips-takes-a-global-ecosystem",
+      "title": "Making Advanced MicroChips Takes a Global Ecosystem",
+      "dek": "On Bloomberg This Weekend, Gideon Lewis-Kraus explains how advanced chipmaking depends on a deeply interconnected global network of specialized companies, including ASML and TSMC, making semiconductor supply chains extraordinarily difficult to replicate or relocate. Speaking with",
+      "aiSummary": "Gideon Lewis-Kraus explains on Bloomberg This Weekend that advanced chip manufacturing relies on a complex global network of specialized firms like ASML and TSMC. This deep interconnection makes semiconductor supply chains extremely hard to duplicate or move to different locations.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-24/making-advanced-microchips-takes-a-global-ecosystem-video",
+      "category": "Hardware",
+      "filterTags": [
+        "ASML",
+        "TSMC",
+        "Bloomberg",
+        "Gideon Lewis-Kraus",
+        "Semiconductors"
+      ],
+      "publishedAt": "2026-10-24T12:00:10+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Supply Chain"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "python-3-15-has-a-new-profiler",
+      "title": "Python 3.15 Has a New Profiler",
+      "dek": "Here's what it finds that cProfile misses \n The post  Python 3.15 Has a New Profiler  appeared first on  Towards Data Science .",
+      "aiSummary": "Python 3.15 features a new profiler that identifies performance issues missed by the standard cProfile module. This update aims to provide more comprehensive insights into code execution.",
+      "articleUrl": "https://towardsdatascience.com/python-315-has-a-new-profiler/",
+      "category": "Programming Languages",
+      "filterTags": [
+        "Python",
+        "cProfile",
+        "Profiling"
+      ],
+      "publishedAt": "2026-10-24T12:00:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Programming Languages"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable",
+      "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+      "dek": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
+      "aiSummary": "Security researchers utilized AI tools to identify long-standing vulnerabilities in the PHP web scripting language. Following these discoveries, AI-assisted attacks began targeting these specific weaknesses.",
+      "articleUrl": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
+      "category": "Security",
+      "filterTags": [
+        "PHP",
+        "AI",
+        "Security Research",
+        "Vulnerabilities"
+      ],
+      "publishedAt": "2026-10-24T12:00:00+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Web Development"
+        }
+      ]
+    },
+    {
+      "slug": "build-your-own-reasoning-model-a-full-video-course",
+      "title": "Build Your Own Reasoning Model: A Full Video Course",
+      "dek": "Over 11 hours of coding videos on evaluation, inference-time scaling, reinforcement learning, and distillation, with Python and PyTorch.",
+      "aiSummary": "This course offers over 11 hours of coding videos focused on building reasoning models. It covers key topics such as evaluation, inference-time scaling, reinforcement learning, and distillation using Python and PyTorch.",
+      "articleUrl": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "category": "AI",
+      "filterTags": [
+        "Python",
+        "PyTorch",
+        "Reinforcement Learning",
+        "Distillation",
+        "Inference-time scaling"
+      ],
+      "publishedAt": "2026-10-24T11:14:32+00:00",
+      "publisher": {
+        "name": "Sebastian Raschka",
+        "domain": "sebastianraschka.com",
+        "website": "https://magazine.sebastianraschka.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=sebastianraschka.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=sebastianraschka.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Education"
+        }
+      ]
+    },
+    {
+      "slug": "meet-anthropic-s-sandbox-runtime-os-level-sandboxing-for-ai-agents-no-containers",
+      "title": "Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers",
+      "dek": "Anthropic sandbox-runtime (srt) is the open-source, OS-level sandbox behind Claude Code. It restricts file and network access for agents, MCP servers and CLI tools with Seatbelt on macOS and bubblewrap on Linux, no containers needed. \n The post  Meet Anthropic’s sandbox-runtime: ",
+      "aiSummary": "Anthropic's sandbox-runtime (srt) is an open‑source OS‑level sandbox used by Claude Code. It limits file and network access for agents, MCP servers, and CLI tools, using Seatbelt on macOS and bubblewrap on Linux, and it operates without containers.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "sandbox-runtime",
+        "Claude Code",
+        "Seatbelt",
+        "bubblewrap",
+        "macOS",
+        "Linux"
+      ],
+      "publishedAt": "2026-10-24T11:12:27+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "the-datacentre-next-door-on-the-frontline-of-tech-s-latest-david-v-goliath-battle",
+      "title": "The datacentre next door: on the frontline of tech’s latest David v Goliath battle",
+      "dek": "The AI boom is pitting local residents against corporate giants seeking to power their energy-hungry networks – but one Welsh city is fighting back Dale Johnston opens the gate to his neat suburban garden on the western fringes of Newport in South Wales. There’s a trampoline and ",
+      "aiSummary": "The surge in AI demand is creating conflict between local residents and large corporations building energy-intensive data centers. In Newport, South Wales, a community is actively resisting the expansion of these facilities in their suburban area.",
+      "articleUrl": "https://www.theguardian.com/technology/2026/oct/24/the-datacentre-next-door-on-the-frontline-of-techs-latest-david-v-goliath-battle",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Data Centers",
+        "Newport",
+        "South Wales"
+      ],
+      "publishedAt": "2026-10-24T11:00:32+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "Community Relations"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-s-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit",
+      "title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
+      "dek": "As Nvidia has gone from chipmaker to industry financier, some investors see the company taking on outsized risk tied to the AI buildout.",
+      "aiSummary": "Nvidia has evolved from producing chips to financing the AI industry. Investors worry that the company is assuming excessive risk as the AI infrastructure expands.",
+      "articleUrl": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Nvidia",
+        "AI",
+        "neoclouds"
+      ],
+      "publishedAt": "2026-10-24T11:00:01+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "stateful-agentic-engineering-copilots-with-letta-core-memory-shared-state-semantic-retrieval-custom-tools-streaming-and-",
+      "title": "Stateful Agentic Engineering Copilots with Letta: Core Memory, Shared State, Semantic Retrieval, Custom Tools, Streaming, and Portable Agent Workflows",
+      "dek": "Discover how to extend agentic memory beyond basic prompts by building a stateful engineering copilot with Letta. This comprehensive guide covers inspectable core memory, archival vector retrieval, multi-agent shared state, custom tools, and portable workflows. \n The post  Statef",
+      "aiSummary": "The article explains how to build a stateful engineering copilot using Letta, extending agentic memory beyond simple prompts. It covers features such as inspectable core memory, archival vector retrieval, shared state among multiple agents, custom tools, and portable workflows.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/24/stateful-engineering-copilots-letta-tutorial/",
+      "category": "AI",
+      "filterTags": [
+        "Letta",
+        "vector retrieval",
+        "multi-agent",
+        "custom tools"
+      ],
+      "publishedAt": "2026-10-24T10:29:31+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "becky-barnicoat-on-scary-outfits-for-halloween-cartoon",
+      "title": "Becky Barnicoat on scary outfits for Halloween – cartoon",
+      "dek": "Continue reading...",
+      "aiSummary": "The article features a cartoon by Becky Barnicoat. It focuses on the theme of scary outfits for Halloween.",
+      "articleUrl": "https://www.theguardian.com/commentisfree/picture/2026/oct/24/becky-barnicoat-on-scary-outfits-for-halloween-cartoon",
+      "category": "Entertainment",
+      "filterTags": [
+        "Becky Barnicoat",
+        "Halloween",
+        "Cartoon"
+      ],
+      "publishedAt": "2026-10-24T10:00:29+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Entertainment"
+        },
+        {
+          "name": "Culture"
+        }
+      ]
+    },
+    {
+      "slug": "battledrones-v14-compass-rose-a-four-player-map",
+      "title": "battledrones v14: Compass Rose, a four player map",
+      "dek": "Release:   battledrones v14: Compass Rose, a four player map \n I added four player online mode to  Battledrones  - previous maps were limited to two. \n Here's the initial prompt I used:  \n \n Add a new map for a four player battle - four way rotational symmetry, up to four AI play",
+      "aiSummary": "The author released Battledrones v14, adding a new map named Compass Rose that supports four-player online mode, expanding from the previous two-player limit. The map features four-way rotational symmetry and can include up to four AI opponents. The initial prompt used to generate the map was to add a new four-player battle map with rotational symmetry and AI support.",
+      "articleUrl": "https://simonwillison.net/2026/Oct/24/battledrones/",
+      "category": "Gaming",
+      "filterTags": [
+        "Battledrones",
+        "Compass Rose",
+        "AI"
+      ],
+      "publishedAt": "2026-10-24T03:59:57+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "Game Development"
+        },
+        {
+          "name": "Multiplayer"
+        }
+      ]
+    }
+  ]
+}
