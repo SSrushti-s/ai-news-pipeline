@@ -1,0 +1,790 @@
+{
+  "news": [
+    {
+      "slug": "b11870",
+      "title": "b11870",
+      "dek": "model: DSV4.1 flash ( #31086 ) \n \n \n model : add DeepSeek-V4.1-Flash (deepseek41) \n \n \n deepseek41 : remove MXFP8, convert the Engram table to BF16 \n \n \n deepseek41 : compute the compressed-KV read layers once in the cache \n \n \n deepseek41 : use get_cells() for the shared-history",
+      "aiSummary": "The update introduces the DeepSeek-V4.1-Flash model, identified as deepseek41. It includes specific optimizations such as removing MXFP8, converting the Engram table to BF16, and computing compressed-KV read layers once in the cache.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11870",
+      "category": "AI",
+      "filterTags": [
+        "DeepSeek-V4.1-Flash",
+        "deepseek41",
+        "MXFP8",
+        "BF16",
+        "Engram"
+      ],
+      "publishedAt": "2026-10-25T02:18:48+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "ai-performance-in-the-security-theater",
+      "title": "AI Performance in the Security Theater",
+      "dek": "How artificial intelligence functions within the realm of security displays.",
+      "aiSummary": "The provided text does not contain an article body, only a title. Therefore, no factual summary can be generated based on the content.",
+      "articleUrl": "https://bykozy.me/blog/ai-performance-at-the-security-theater/",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Security"
+      ],
+      "publishedAt": "2026-10-25T01:54:28+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "onememory-self-hosted-shared-memory-for-ai-agents-over-mcp",
+      "title": "OneMemory – self-hosted shared memory for AI agents over MCP",
+      "dek": "OneMemory is a tool that lets AI agents share memory on your own servers using the MCP protocol.",
+      "aiSummary": "OneMemory provides a self-hosted solution for shared memory among AI agents. It operates over the Model Context Protocol (MCP) to facilitate data exchange.",
+      "articleUrl": "https://github.com/calasdan-sketch/onememory",
+      "category": "AI",
+      "filterTags": [
+        "OneMemory",
+        "MCP",
+        "AI agents",
+        "self-hosted"
+      ],
+      "publishedAt": "2026-10-25T01:54:19+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "ciflow-xpu-201533-inductor-extend-batch-linear-lhs-alias-regressions",
+      "title": "ciflow/xpu/201533: [inductor] Extend batch_linear_lhs alias regressions",
+      "dek": "Cover layout-sensitive users introduced by the core guard: conversion copies and no-op conversions after transpose, out= consumers, eval dropout aliasing, in-place wrappers, SDPA/dropout layout independence, symbolic split views, and static/dynamic attention. Collapse redundant c",
+      "aiSummary": "This update extends regression coverage for layout-sensitive users affected by core guards in the inductor. It addresses various scenarios including conversion copies, no-op conversions after transpose, out= consumers, and eval dropout aliasing. Additionally, it covers in-place wrappers, SDPA/dropout layout independence, symbolic split views, and static/dynamic attention.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fxpu%2F201533",
+      "category": "Machine Learning",
+      "filterTags": [
+        "ciflow",
+        "xpu",
+        "inductor",
+        "batch_linear_lhs",
+        "SDPA",
+        "dropout"
+      ],
+      "publishedAt": "2026-10-25T01:50:39+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Compiler Infrastructure"
+        },
+        {
+          "name": "Testing"
+        }
+      ]
+    },
+    {
+      "slug": "ciflow-trunk-201533-inductor-extend-batch-linear-lhs-alias-regressions",
+      "title": "ciflow/trunk/201533: [inductor] Extend batch_linear_lhs alias regressions",
+      "dek": "Cover layout-sensitive users introduced by the core guard: conversion copies and no-op conversions after transpose, out= consumers, eval dropout aliasing, in-place wrappers, SDPA/dropout layout independence, symbolic split views, and static/dynamic attention. Collapse redundant c",
+      "aiSummary": "This update extends regression tests for the inductor's batch_linear_lhs alias handling to cover layout-sensitive users introduced by a core guard. It specifically addresses conversion copies, no-op conversions after transpose, out= consumers, eval dropout aliasing, in-place wrappers, and various attention mechanisms.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Ftrunk%2F201533",
+      "category": "Machine Learning",
+      "filterTags": [
+        "inductor",
+        "batch_linear_lhs",
+        "aliasing",
+        "SDPA",
+        "dropout"
+      ],
+      "publishedAt": "2026-10-25T01:50:39+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Compiler Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "ciflow-xpu-201951-inductor-reject-layout-sensitive-users-after-alias-traversal",
+      "title": "ciflow/xpu/201951: [inductor] Reject layout-sensitive users after alias traversal",
+      "dek": "Treat memory_format conversions, cat/stack, and multi-tensor pointwise consumers as sensitive once a projected value has passed through a view or alias, and add comparison/bitwise and common reduction/GEMM ops to the allowlist. \n Test Plan: \n TORCHINDUCTOR_FORCE_DISABLE_CACHES=1 ",
+      "aiSummary": "The update modifies the PyTorch inductor to reject layout-sensitive users, such as memory format conversions and multi-tensor pointwise consumers, once a value has passed through a view or alias. It also expands the allowlist to include comparison, bitwise, and common reduction or GEMM operations.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fxpu%2F201951",
+      "category": "Machine Learning",
+      "filterTags": [
+        "PyTorch",
+        "inductor",
+        "aliasing",
+        "GEMM"
+      ],
+      "publishedAt": "2026-10-25T01:49:20+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Compiler Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "models-are-the-how-harnesses-are-the-what",
+      "title": "Models Are the How, Harnesses Are the What",
+      "dek": "A person hands their preferences, context, goals and how they like things done to a harness labeled the what, which feeds a model labeled the how, which produces a result that returns to the person; both harness and model point up at a hilltop flag labeled what you want/images/mo",
+      "aiSummary": "The text distinguishes between AI models, which represent the 'how' of execution, and harnesses, which represent the 'what' by encapsulating user preferences, context, and goals. A harness feeds this structured intent to a model to produce a result that aligns with the user's desired outcome.",
+      "articleUrl": "https://danielmiessler.com/blog/models-how-harnesses-what?utm_source=rss&utm_medium=feed&utm_campaign=website",
+      "category": "AI",
+      "filterTags": [
+        "AI Models",
+        "Harnesses",
+        "LLM Orchestration"
+      ],
+      "publishedAt": "2026-10-25T01:28:26+00:00",
+      "publisher": {
+        "name": "Daniel Miessler",
+        "domain": "danielmiessler.com",
+        "website": "https://danielmiessler.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=danielmiessler.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=danielmiessler.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Architecture"
+        }
+      ]
+    },
+    {
+      "slug": "documentary-film-bot-love-exploring-ai-companionship-to-debut-oct-21",
+      "title": "Documentary film 'Bot Love' exploring AI companionship to debut Oct. 21",
+      "dek": "A documentary about artificial intelligence relationships is scheduled to premiere on October 21.",
+      "aiSummary": "The documentary film 'Bot Love' is set to debut on October 21. The movie explores the concept of companionship with artificial intelligence.",
+      "articleUrl": "https://www.thesuburban.com/arts_and_entertainment/entertainment/documentary-film-bot-love-exploring-ai-companionship-to-debut-oct-21-on-cbc-and-cbc/article_f7277775-bd32-475f-9aa5-3ce58907374f.html",
+      "category": "AI",
+      "filterTags": [
+        "Bot Love",
+        "AI"
+      ],
+      "publishedAt": "2026-10-25T01:21:49+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Entertainment"
+        }
+      ]
+    },
+    {
+      "slug": "v1-14-0-dev5",
+      "title": "v1.14.0.dev5",
+      "dek": "Langflow nightly v1.14.0.dev5",
+      "aiSummary": "Langflow has released a new nightly development build identified as version 1.14.0.dev5. This update represents the latest pre-release iteration of the Langflow platform.",
+      "articleUrl": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev5",
+      "category": "AI",
+      "filterTags": [
+        "Langflow",
+        "v1.14.0.dev5"
+      ],
+      "publishedAt": "2026-10-25T00:40:10+00:00",
+      "publisher": {
+        "name": "langflow-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langflow-ai/langflow",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "elon-musk-says-ukraine-violated-starlink-s-rules",
+      "title": "Elon Musk Says Ukraine Violated Starlink’s Rules",
+      "dek": "The comments were his first since the disruption in the country’s satellite service. Earlier, Ukraine said drones using Starshield, the Pentagon-funded service, were back to normal speeds.",
+      "aiSummary": "Elon Musk stated that Ukraine violated Starlink's rules, marking his first public comment since the satellite service was disrupted in the country. Prior to this, Ukraine reported that drones utilizing Starshield, a Pentagon-funded service, had returned to normal operating speeds.",
+      "articleUrl": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
+      "category": "Space Technology",
+      "filterTags": [
+        "Elon Musk",
+        "Starlink",
+        "Ukraine",
+        "Starshield",
+        "Pentagon"
+      ],
+      "publishedAt": "2026-10-25T00:10:07+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Space Technology"
+        },
+        {
+          "name": "Geopolitics"
+        },
+        {
+          "name": "Defense"
+        }
+      ]
+    },
+    {
+      "slug": "sinking-profits-turn-china-s-3-5-trillion-stock-rout-into-trap",
+      "title": "Sinking Profits Turn China’s $3.5 Trillion Stock Rout Into Trap",
+      "dek": "Pessimism has gripped Chinese stocks, with no end in sight for a deepening selloff as investors confront the realities of an economy that’s weak enough to erode corporate profits but not to trigger forceful new stimulus.",
+      "aiSummary": "Chinese investors are increasingly pessimistic, leading to a deepening selloff in the market. The economy is weak enough to cut corporate profits, yet not weak enough to prompt strong stimulus measures. As a result, the stock rout is likely to continue.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-25/sinking-profits-turn-china-s-3-5-trillion-stock-rout-into-trap",
+      "category": "Finance",
+      "filterTags": [
+        "China",
+        "Stock Market",
+        "Corporate Profits",
+        "Stimulus"
+      ],
+      "publishedAt": "2026-10-25T00:00:00+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Economy"
+        },
+        {
+          "name": "Market Trends"
+        }
+      ]
+    },
+    {
+      "slug": "blue-planet-iii-is-keeping-the-rough-edges-in-the-age-of-ai",
+      "title": "Blue Planet III is keeping the rough edges in the age of AI",
+      "dek": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when thing",
+      "aiSummary": "BBC's Blue Planet III aims to prove the authenticity of its nature footage by intentionally keeping less-than-perfect shots. This approach contrasts with previous seasons, which were known for their crystal-clear, almost unrealistically perfect visuals, and serves as a counter to the common perception that AI-generated media is often too flawless.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+      "category": "Media",
+      "filterTags": [
+        "BBC",
+        "Blue Planet III",
+        "AI",
+        "Nature Documentary"
+      ],
+      "publishedAt": "2026-10-24T21:29:12+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Media"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Entertainment"
+        }
+      ]
+    },
+    {
+      "slug": "b11869",
+      "title": "b11869",
+      "dek": "jinja : fix select and selectattr argument handling ( #31059 ) \n \n \n jinja : fix select and selectattr argument handling \n \n \n jinja : address review feedback \n \n \n jinja : Simplified test attr \n \n \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-o",
+      "aiSummary": "The article reports a fix for Jinja’s select and selectattr argument handling, addressing review feedback and simplifying test attributes. It highlights updates to the Jinja templating engine to improve its functionality.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11869",
+      "category": "Open Source",
+      "filterTags": [
+        "jinja",
+        "select",
+        "selectattr",
+        "test attr"
+      ],
+      "publishedAt": "2026-10-24T21:21:36+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Programming Languages"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "b11868",
+      "title": "b11868",
+      "dek": "hexagon: KV-head team split for multicore HMX flash attention  ( #31055 ) \n \n \n hexagon: KV-head team split for HMX flash attention in multicore \n \n \n hexagon: merge FA_HEAD_SPLIT and FA_SPLIT into single GGML_HEXAGON_FA_SPLIT flag \n \n \n 0 = off (token-split only); 1 = head-split",
+      "aiSummary": "The hexagon team has added a KV-head split feature for multicore HMX flash attention, enabling head-split functionality. They also merged the FA_HEAD_SPLIT and FA_SPLIT flags into a single GGML_HEXAGON_FA_SPLIT flag, with 0 disabling head-split (token-split only) and 1 enabling it.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11868",
+      "category": "Hardware",
+      "filterTags": [
+        "hexagon",
+        "KV-head",
+        "HMX flash attention",
+        "FA_HEAD_SPLIT",
+        "FA_SPLIT",
+        "GGML_HEXAGON_FA_SPLIT",
+        "multicore"
+      ],
+      "publishedAt": "2026-10-24T20:27:24+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "v0-40-11",
+      "title": "v0.40.11",
+      "dek": "Speech \n Ollama can now generate  speech  on macOS.  ollama run  plays text or a chat model's reply aloud as the audio is generated, and apps can stream audio through the OpenAI-compatible  /v1/audio/speech  endpoint. \n ollama run phonon  \" Hello from Ollama. \" \n d3 decision mode",
+      "aiSummary": "Ollama version 0.40.11 adds speech generation on macOS. Users can run `ollama run` to play text or model replies aloud, and developers can stream audio via the OpenAI‑compatible /v1/audio/speech endpoint. A sample command `ollama run phonon \"Hello from Ollama.\"` demonstrates the feature.",
+      "articleUrl": "https://github.com/ollama/ollama/releases/tag/v0.40.11",
+      "category": "AI",
+      "filterTags": [
+        "Ollama",
+        "macOS",
+        "OpenAI",
+        "Audio Speech API"
+      ],
+      "publishedAt": "2026-10-24T17:50:51+00:00",
+      "publisher": {
+        "name": "ollama",
+        "domain": "github.com",
+        "website": "https://github.com/ollama/ollama",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Updates"
+        },
+        {
+          "name": "Speech Synthesis"
+        }
+      ]
+    },
+    {
+      "slug": "v1-106-3",
+      "title": "v1.106.3",
+      "dek": "Important The image-signing key has changed.  Starting with this release, every Docker image and Helm chart is signed with the new cosign key from commit  e82a3c6 . Verifying with the previous key from commit  0112e53  will fail. \n Update anything that pins the old  cosign.pub : ",
+      "aiSummary": "Starting with release v1.106.3, all Docker images and Helm charts are signed with a new cosign key from commit e82a3c6. Users must update any configurations that pin the previous cosign.pub key from commit 0112e53, as verification with the old key will now fail.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.106.3",
+      "category": "DevOps",
+      "filterTags": [
+        "Docker",
+        "Helm",
+        "cosign",
+        "v1.106.3"
+      ],
+      "publishedAt": "2026-10-24T09:36:00+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Containerization"
+        }
+      ]
+    },
+    {
+      "slug": "v1-105-4",
+      "title": "v1.105.4",
+      "dek": "Important The image-signing key has changed.  Starting with this release, every Docker image and Helm chart is signed with the new cosign key from commit  e82a3c6 . Verifying with the previous key from commit  0112e53  will fail. \n Update anything that pins the old  cosign.pub : ",
+      "aiSummary": "The v1.105.4 release changes the image‑signing key. All Docker images and Helm charts are now signed with a new cosign key (commit e82a3c6). Verification with the old key (commit 0112e53) will fail, so users must update references to the old cosign.pub.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.105.4",
+      "category": "Security",
+      "filterTags": [
+        "cosign",
+        "Docker",
+        "Helm"
+      ],
+      "publishedAt": "2026-10-24T08:54:21+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Containerization"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "v1-103-8",
+      "title": "v1.103.8",
+      "dek": "Important The image-signing key has changed.  Starting with this release, every Docker image and Helm chart is signed with the new cosign key from commit  e82a3c6 . Verifying with the previous key from commit  0112e53  will fail. \n Update anything that pins the old  cosign.pub : ",
+      "aiSummary": "The release v1.103.8 introduces a new cosign signing key. All Docker images and Helm charts are now signed with the key from commit e82a3c6, and verification with the old key from commit 0112e53 will fail. Users should update any references to the old cosign.pub.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.103.8",
+      "category": "Security",
+      "filterTags": [
+        "cosign",
+        "Docker",
+        "Helm"
+      ],
+      "publishedAt": "2026-10-24T08:45:16+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "DevOps"
+        }
+      ]
+    },
+    {
+      "slug": "1-15-30",
+      "title": "1.15.30",
+      "dek": "What's Changed \n Bug Fixes \n \n Fix AGENTS.md to start the login process while evaluating and stop after three rounds. \n \n Documentation \n \n Update snapshot and changelog for v1.15.29. \n \n Contributors \n @joaomdmoura",
+      "aiSummary": "Version 1.15.30 includes a bug fix that corrects the AGENTS.md login process to start during evaluation and halt after three rounds. Documentation was updated to reflect the snapshot and changelog for v1.15.29. The release was contributed by @joaomdmoura.",
+      "articleUrl": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.30",
+      "category": "Software Development",
+      "filterTags": [
+        "AGENTS.md",
+        "snapshot",
+        "changelog"
+      ],
+      "publishedAt": "2026-10-24T01:56:04+00:00",
+      "publisher": {
+        "name": "crewAIInc",
+        "domain": "github.com",
+        "website": "https://github.com/crewAIInc/crewAI",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Documentation"
+        },
+        {
+          "name": "Release Management"
+        }
+      ]
+    },
+    {
+      "slug": "v1-14-0-dev4",
+      "title": "v1.14.0.dev4",
+      "dek": "Langflow nightly v1.14.0.dev4",
+      "aiSummary": "Langflow has released a nightly development build identified as v1.14.0.dev4. This update represents the current state of the software's ongoing development cycle.",
+      "articleUrl": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev4",
+      "category": "Open Source",
+      "filterTags": [
+        "Langflow"
+      ],
+      "publishedAt": "2026-10-24T00:35:48+00:00",
+      "publisher": {
+        "name": "langflow-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langflow-ai/langflow",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "v0-40-11-rc0-voice-add-voice-catalog-for-phonon-19242",
+      "title": "v0.40.11-rc0: voice: add voice catalog for Phonon (#19242)",
+      "dek": "mlxrunner: import and list Phonon catalog voices \n \n \n docs: document Phonon voices",
+      "aiSummary": "The v0.40.11-rc0 release introduces a voice catalog for Phonon in mlxrunner, enabling import and listing of Phonon voices. Documentation has been updated to describe the available Phonon voices.",
+      "articleUrl": "https://github.com/ollama/ollama/releases/tag/v0.40.11-rc0",
+      "category": "Audio",
+      "filterTags": [
+        "Phonon",
+        "mlxrunner"
+      ],
+      "publishedAt": "2026-10-23T23:15:08+00:00",
+      "publisher": {
+        "name": "ollama",
+        "domain": "github.com",
+        "website": "https://github.com/ollama/ollama",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Audio"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "writing-is-closer-to-thought-than-code",
+      "title": "Writing Is Closer to Thought Than Code",
+      "dek": "Technical diagram: a human head with a glowing idea in its brain, tagged source 1, idea, human thought; a dashed line marks where human thought ends; beyond it, a handwritten page tagged 1st derivative 2, articulation, closest to thought and a code window tagged 2nd derivative 3,",
+      "aiSummary": "A technical diagram illustrates that writing is the first derivative of human thought, making it closer to the original idea than code. Code is depicted as a second derivative, positioned further away from the initial human thought process.",
+      "articleUrl": "https://danielmiessler.com/blog/writing-is-closer-to-thought-than-code?utm_source=rss&utm_medium=feed&utm_campaign=website",
+      "category": "Productivity",
+      "filterTags": [
+        "Writing",
+        "Coding",
+        "Human Thought",
+        "Diagram"
+      ],
+      "publishedAt": "2026-10-23T19:40:00+00:00",
+      "publisher": {
+        "name": "Daniel Miessler",
+        "domain": "danielmiessler.com",
+        "website": "https://danielmiessler.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=danielmiessler.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=danielmiessler.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Productivity"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Cognitive Science"
+        }
+      ]
+    },
+    {
+      "slug": "1-15-29",
+      "title": "1.15.29",
+      "dek": "What's Changed \n Features \n \n Add support for LiteLLM-compatible kwargs. \n Implement platform application search in CLI. \n Highlight action picker search in CLI. \n Trace conversation routes and public replies in flow. \n Select organization during login in CLI. \n Add offline jev r",
+      "aiSummary": "The 1.15.29 release adds several new features, including support for LiteLLM-compatible keyword arguments and enhanced CLI functionality such as platform application search, action picker search, and organization selection during login. It also introduces tracing of conversation routes and public replies within the flow, and adds offline support for jev r.",
+      "articleUrl": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.29",
+      "category": "Software Development",
+      "filterTags": [
+        "LiteLLM",
+        "CLI"
+      ],
+      "publishedAt": "2026-10-23T17:35:29+00:00",
+      "publisher": {
+        "name": "crewAIInc",
+        "domain": "github.com",
+        "website": "https://github.com/crewAIInc/crewAI",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Artificial Intelligence"
+        }
+      ]
+    }
+  ]
+}
