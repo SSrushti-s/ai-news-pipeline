@@ -1,0 +1,698 @@
+{
+  "news": [
+    {
+      "slug": "what-the-us-movement-against-data-centers-can-learn-from-abroad",
+      "title": "What the US Movement Against Data Centers Can Learn From Abroad",
+      "dek": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what’s happened everywhere from Ireland to New Zealand.",
+      "aiSummary": "Paris Marx, author of Hyperscale, has tracked global data center development for several years. The article suggests that the United States can gain valuable insights from data center developments in countries such as Ireland and New Zealand.",
+      "articleUrl": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
+      "category": "Data Centers",
+      "filterTags": [
+        "Paris Marx",
+        "Hyperscale",
+        "Ireland",
+        "New Zealand"
+      ],
+      "publishedAt": "2026-10-25T10:00:00+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Data Centers"
+        },
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "Policy"
+        }
+      ]
+    },
+    {
+      "slug": "nikon-photography-contest-winner-loses-title-after-scientists-spot-signs-of-ai",
+      "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+      "dek": "Nikon contest winner stripped of title after scientists detect AI use.",
+      "aiSummary": "",
+      "articleUrl": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+      "category": "Photography",
+      "filterTags": [
+        "Nikon",
+        "AI"
+      ],
+      "publishedAt": "2026-10-25T09:51:17+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Photography"
+        },
+        {
+          "name": "Artificial Intelligence"
+        }
+      ]
+    },
+    {
+      "slug": "an-artist-s-take-on-ai-in-math",
+      "title": "An artist's take on AI in math",
+      "dek": "An artist discusses how AI relates to mathematics.",
+      "aiSummary": "",
+      "articleUrl": "https://3blue1brown.substack.com/p/an-artists-take-on-ai-in-math",
+      "category": "Artificial Intelligence",
+      "filterTags": [],
+      "publishedAt": "2026-10-25T09:50:22+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": []
+    },
+    {
+      "slug": "the-ai-and-steve-strogatz",
+      "title": "The AI and Steve Strogatz",
+      "dek": "The relationship between artificial intelligence and mathematician Steve Strogatz.",
+      "aiSummary": "The provided text does not contain any article body or description to summarize. Only the title 'The AI and Steve Strogatz' is available, which suggests a connection between artificial intelligence and the mathematician Steve Strogatz, but no specific facts or details are provided in the source material.",
+      "articleUrl": "https://cultureandcompass.substack.com/p/the-ai-and-steve-strogatz",
+      "category": "AI",
+      "filterTags": [
+        "Steve Strogatz",
+        "AI"
+      ],
+      "publishedAt": "2026-10-25T09:48:23+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Mathematics"
+        }
+      ]
+    },
+    {
+      "slug": "v1-105-5",
+      "title": "v1.105.5",
+      "dek": "Verify this release \n cosign verify \\\n  --key https://raw.githubusercontent.com/BerriAI/litellm/e82a3c646908ba0a6ee0beddc4310d7a6cac4065/cosign.pub \\\n  ghcr.io/berriai/litellm:v1.105.5 \n Same command for  litellm-database ,  litellm-non_root  and the  docker.io/litellm/*  images ",
+      "aiSummary": "The release v1.105.5 can be verified using cosign with a public key hosted on GitHub. The command verifies the litellm image and related images such as litellm-database, litellm-non_root, and docker.io/litellm/* on ghcr.io.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.105.5",
+      "category": "Security",
+      "filterTags": [
+        "cosign",
+        "GitHub",
+        "litellm",
+        "docker.io",
+        "ghcr.io",
+        "BerriAI"
+      ],
+      "publishedAt": "2026-10-25T09:41:58+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Containerization"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "v1-104-7",
+      "title": "v1.104.7",
+      "dek": "Verify this release \n cosign verify \\\n  --key https://raw.githubusercontent.com/BerriAI/litellm/e82a3c646908ba0a6ee0beddc4310d7a6cac4065/cosign.pub \\\n  ghcr.io/berriai/litellm:v1.104.7 \n Same command for  litellm-database ,  litellm-non_root  and the  docker.io/litellm/*  images ",
+      "aiSummary": "The article explains how to verify the v1.104.7 release of the Litellm images using cosign. It provides a command that uses a public key from BerriAI's GitHub repository to verify the ghcr.io/berriai/litellm image, and notes that the same command applies to litellm-database, litellm-non_root, and docker.io/litellm images.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.104.7",
+      "category": "Security",
+      "filterTags": [
+        "cosign",
+        "BerriAI",
+        "Litellm",
+        "GitHub"
+      ],
+      "publishedAt": "2026-10-25T09:41:56+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Containerization"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "v1-106-4",
+      "title": "v1.106.4",
+      "dek": "Verify this release \n cosign verify \\\n  --key https://raw.githubusercontent.com/BerriAI/litellm/e82a3c646908ba0a6ee0beddc4310d7a6cac4065/cosign.pub \\\n  ghcr.io/berriai/litellm:v1.106.4 \n Same command for  litellm-database ,  litellm-non_root  and the  docker.io/litellm/*  images ",
+      "aiSummary": "The release notes for version 1.106.4 provide instructions to verify the release using the cosign tool. Users are directed to use a specific public key from the BerriAI GitHub repository to verify the ghcr.io/berriai/litellm image, with the same command applicable to litellm-database, litellm-non_root, and docker.io/litellm/* images.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.106.4",
+      "category": "AI Infrastructure",
+      "filterTags": [
+        "LiteLLM",
+        "BerriAI",
+        "cosign",
+        "Docker",
+        "GitHub"
+      ],
+      "publishedAt": "2026-10-25T09:41:54+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI Infrastructure"
+        },
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "ai-provides-zero-payoff-to-s-p-493-outside-tech-apollo-economist-says",
+      "title": "AI Provides ‘Zero Payoff’ to S&P 493 Outside Tech, Apollo Economist Says",
+      "dek": "Despite the significant investments ploughed into artificial intelligence it has provided “zero payoff” to corporate America outside of technology, according to Apollo Global Management Inc. Chief Economist Torsten Slok.",
+      "aiSummary": "Torsten Slok, Chief Economist at Apollo Global Management, states that artificial intelligence has yielded no financial benefits for corporate America outside the technology sector. This assessment is made despite the substantial investments made in AI across the broader economy.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-25/ai-provides-zero-payoff-to-s-p-493-outside-tech-apollo-economist-says",
+      "category": "Economics",
+      "filterTags": [
+        "Apollo Global Management",
+        "Torsten Slok",
+        "S&P 493",
+        "Artificial Intelligence"
+      ],
+      "publishedAt": "2026-10-25T09:28:36+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Economics"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Corporate Finance"
+        }
+      ]
+    },
+    {
+      "slug": "b11873-opencl-add-initial-q2-k-support-30999",
+      "title": "b11873: opencl: add initial q2_k support (#30999)",
+      "dek": "opencl: add  mul_mv_q2_k_f32 \n \n \n opencl: add q2_k SOA mv and tiled mm \n \n \n opencl: add q2_k noshuffle gemm/gemv for adreno \n \n \n opencl: add q2_k dp4a gemm for adreno \n \n \n Co-authored-by: Hongqiang Wang  wangh@qti.qualcomm.com \n \n opencl: tune q2_k kernels for adreno \n \n \n Co",
+      "aiSummary": "This update introduces initial support for the q2_k quantization format in the OpenCL backend. It includes the implementation of specific kernels such as mul_mv_q2_k_f32, SOA matrix-vector operations, and tiled matrix multiplication. Additionally, optimized GEMM and GEMV kernels for Adreno GPUs, including dp4a variants, have been added and tuned.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11873",
+      "category": "Machine Learning",
+      "filterTags": [
+        "OpenCL",
+        "q2_k",
+        "Adreno",
+        "GEMM",
+        "GEMV",
+        "dp4a"
+      ],
+      "publishedAt": "2026-10-25T09:09:56+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Hardware Acceleration"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "put-your-a-i-agents-to-work-with-these-4-killer-tasks",
+      "title": "Put Your A.I. Agents to Work with These 4 Killer Tasks",
+      "dek": "When you start using Meta’s Muse and OpenAI’s dots for these tasks — like applying for jobs and booking hard-to-get restaurant tables — you may never go back.",
+      "aiSummary": "The article highlights four specific tasks where AI agents can be effectively utilized, such as applying for jobs and booking difficult restaurant reservations. It suggests that using Meta’s Muse and OpenAI’s dots for these purposes offers a significant improvement over manual methods.",
+      "articleUrl": "https://www.nytimes.com/2026/10/25/technology/personaltech/openai-dots-meta-muse-4-killer-tasks.html",
+      "category": "AI",
+      "filterTags": [
+        "Meta",
+        "OpenAI",
+        "Muse",
+        "dots",
+        "AI Agents"
+      ],
+      "publishedAt": "2026-10-25T09:01:00+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Productivity"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-edc54b40de8621654a4e872d0e6231ed25e01e94",
+      "title": "trunk/edc54b40de8621654a4e872d0e6231ed25e01e94",
+      "dek": "[module-level kernels] inductor: scan each subgraph for its own pream…",
+      "aiSummary": "The provided text describes a module-level kernel update within the Inductor framework. It specifies that the system now scans each subgraph to identify its own preambles.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2Fedc54b40de8621654a4e872d0e6231ed25e01e94",
+      "category": "AI",
+      "filterTags": [
+        "Inductor",
+        "PyTorch",
+        "Compiler",
+        "Kernels"
+      ],
+      "publishedAt": "2026-10-25T08:20:20+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "softbank-s-son-plans-50-billion-malaysia-tech-outlay-pm-says",
+      "title": "SoftBank’s Son Plans $50 Billion Malaysia Tech Outlay, PM Says",
+      "dek": "Masayoshi Son of SoftBank Group Corp. chose locations in Malaysia for $50 billion in technology investments, the country’s prime minister said, an outlay that would accelerate the billionaire’s global bet on AI infrastructure.",
+      "aiSummary": "Malaysia's prime minister stated that SoftBank Group Corp. CEO Masayoshi Son has selected locations in Malaysia for $50 billion in technology investments. This significant outlay is expected to accelerate Son's global strategy focused on artificial intelligence infrastructure.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-25/softbank-s-son-plans-50-billion-malaysia-tech-outlay-pm-says",
+      "category": "AI",
+      "filterTags": [
+        "SoftBank",
+        "Masayoshi Son",
+        "Malaysia",
+        "AI infrastructure"
+      ],
+      "publishedAt": "2026-10-25T07:42:28+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Investment"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-8e9dd78a4c841b620722b053c50d86dcb3690832-xpu-fix-the-static-launcher-leaking-every-loaded-xpu-kernel-200890",
+      "title": "trunk/8e9dd78a4c841b620722b053c50d86dcb3690832: [XPU] Fix the static launcher leaking every loaded XPU kernel (#200890)",
+      "dek": "Motivation \n _StaticXpuLauncher._load_kernel  leaks every kernel it loads.  PyCapsule_New  returns a new reference and  Py_BuildValue 's  \"O\"  takes a second one, so the capsule's refcount never reaches 0 and its destructor never runs.  close()  and the autotuner's launcher relea",
+      "aiSummary": "The static XPU launcher was leaking memory because PyCapsule_New and Py_BuildValue created duplicate references, preventing the capsule's reference count from reaching zero. This prevented the destructor from running, causing every loaded kernel to remain in memory. The patch addresses this reference counting issue to ensure proper cleanup.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F8e9dd78a4c841b620722b053c50d86dcb3690832",
+      "category": "Hardware",
+      "filterTags": [
+        "XPU",
+        "PyCapsule_New",
+        "Py_BuildValue",
+        "Python",
+        "Memory Leak"
+      ],
+      "publishedAt": "2026-10-25T07:11:23+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-020ab1c835283876de8b569395117d5934e673d2-devicemesh-sort-split-ranks-when-applicable-201949",
+      "title": "trunk/020ab1c835283876de8b569395117d5934e673d2: [DeviceMesh] Sort split ranks when applicable (#201949)",
+      "dek": "Go through the following checklist: \n \n  Passes lint ( lintrunner -a ) \n  Added/updated tests \n \n Summary (human written only) \n Sort split ranks did not account for preserve_rank_order correctly and sorted subgroup ranks by default. This was happening in eager path \n Agent detai",
+      "aiSummary": "The update addresses a bug in the DeviceMesh eager path where split ranks were incorrectly sorted by default, failing to respect the preserve_rank_order setting. This change ensures that subgroup ranks are handled correctly according to the specified order preservation rules.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F020ab1c835283876de8b569395117d5934e673d2",
+      "category": "Machine Learning",
+      "filterTags": [
+        "DeviceMesh",
+        "PyTorch",
+        "Distributed Computing"
+      ],
+      "publishedAt": "2026-10-25T06:46:18+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Distributed Systems"
+        }
+      ]
+    },
+    {
+      "slug": "b11871",
+      "title": "b11871",
+      "dek": "chat : reject JSON nested more than 128 levels before walking it ( #30242 ) \n \n chat : reject JSON nested more than 128 levels before walking it \n \n The schema builder, the jinja engine and the decision code walk request \nJSON with recursion. A request nested deep enough overflow",
+      "aiSummary": "The issue involves rejecting JSON that is nested more than 128 levels deep before processing it. The schema builder, Jinja engine, and decision code all traverse the request JSON recursively, leading to an overflow when the nesting exceeds 128 levels.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11871",
+      "category": "Software Development",
+      "filterTags": [
+        "JSON",
+        "Jinja",
+        "schema builder",
+        "recursion"
+      ],
+      "publishedAt": "2026-10-25T06:31:38+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Programming Languages"
+        },
+        {
+          "name": "Error Handling"
+        }
+      ]
+    },
+    {
+      "slug": "uae-shuts-more-beaches-as-it-deals-with-oil-spill-in-gulf",
+      "title": "UAE Shuts More Beaches as It Deals with Oil Spill in Gulf",
+      "dek": "The United Arab Emirates shut more beaches after an oil spill in the Persian Gulf raised concerns over environmental and health impacts.",
+      "aiSummary": "The United Arab Emirates has closed more beaches following an oil spill in the Persian Gulf. The closures are a response to growing concerns regarding the environmental and health effects of the incident.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-25/uae-shuts-more-beaches-as-it-deals-with-oil-spill-in-gulf",
+      "category": "Environment",
+      "filterTags": [
+        "UAE",
+        "Oil Spill",
+        "Persian Gulf"
+      ],
+      "publishedAt": "2026-10-25T05:45:20+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Environment"
+        },
+        {
+          "name": "Energy"
+        }
+      ]
+    },
+    {
+      "slug": "kimi-k3-1-pro-review-near-opus-quality-at-1-5th-the-cost",
+      "title": "Kimi K3.1 Pro Review: Near-Opus Quality at 1/5th the Cost",
+      "dek": "Claude Opus 5.5 and GPT-6 Astra are strong performers in coding and complex reasoning. But how does Kimi K3.1 Pro compare? Moonshot AI’s latest model delivers competitive coding-agent benchmark results, a 1-million-token context window, and promising performance on financial task",
+      "aiSummary": "Kimi K3.1 Pro from Moonshot AI competes with Claude Opus 5.5 and GPT-6 Astra in coding and reasoning tasks. It delivers competitive coding-agent benchmark results, supports a 1-million-token context window, and shows promising performance on financial tasks.",
+      "articleUrl": "https://www.analyticsvidhya.com/blog/2026/10/kimi-k3-1-pro-review/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Kimi K3.1 Pro",
+        "Claude Opus 5.5",
+        "GPT-6 Astra",
+        "Moonshot AI",
+        "coding-agent benchmark",
+        "1-million-token context window",
+        "financial task"
+      ],
+      "publishedAt": "2026-10-25T04:03:03+00:00",
+      "publisher": {
+        "name": "Analytics Vidhya",
+        "domain": "analyticsvidhya.com",
+        "website": "https://www.analyticsvidhya.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=analyticsvidhya.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=analyticsvidhya.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "microsoft-open-sources-agensh-a-multi-agent-harness-for-1-024-agents",
+      "title": "Microsoft Open-Sources Agensh: A Multi-Agent Harness for 1,024 Agents",
+      "dek": "Microsoft Research open-sourced Agensh, a multi-agent harness with no central orchestrator. Self-organizing workers share a Git repo, chat and a findings board, scaling from 1 to 1,024 agents on ProgramBench under a 6-hour budget. \n The post  Microsoft Open-Sources Agensh: A Mult",
+      "aiSummary": "Microsoft Research has open‑sourced Agensh, a multi‑agent harness that operates without a central orchestrator. The system allows self‑organizing agents to share a Git repository, chat, and a findings board, and can scale from one to 1,024 agents on ProgramBench within a six‑hour budget.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/24/microsoft-agensh-multi-agent-harness-1024-agents/",
+      "category": "AI",
+      "filterTags": [
+        "Microsoft",
+        "Agensh",
+        "ProgramBench",
+        "Git"
+      ],
+      "publishedAt": "2026-10-25T03:32:59+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Distributed Systems"
+        }
+      ]
+    },
+    {
+      "slug": "cognition-open-sources-an-agent-plugin-that-helps-secure-systems-against-recent-cybersecurity-threats",
+      "title": "Cognition Open-Sources an Agent Plugin that Helps Secure Systems against Recent Cybersecurity Threats",
+      "dek": "Cognition released the Devin Vulnerability Fixes plugin, 3 MIT-licensed agent skills that inventory, patch and test PHP, Node.js and self-managed GitLab deployments hit by this week’s critical RCE flaws, then open 1 PR per repo. \n The post  Cognition Open-Sources an Agent Plugin ",
+      "aiSummary": "Cognition has open-sourced the Devin Vulnerability Fixes plugin, which consists of three MIT-licensed agent skills designed to secure PHP, Node.js, and self-managed GitLab deployments. The tool addresses critical remote code execution flaws by inventorying, patching, and testing affected systems, while automatically opening a pull request for each repository.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/24/cognition-devin-vulnerability-fixes-plugin-php2shell-nodejs-gitlab/",
+      "category": "Security",
+      "filterTags": [
+        "Cognition",
+        "Devin",
+        "PHP",
+        "Node.js",
+        "GitLab",
+        "RCE",
+        "MIT License"
+      ],
+      "publishedAt": "2026-10-25T02:59:08+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "how-to-run-underdog-saluki-27b-2-bit-qwen3-8-27b-tool-calling-guide",
+      "title": "How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide",
+      "dek": "Explore a complete coding guide comparing Underdog Saluki 27B with ISTA's GSQ-RCO quantization, examining GGUF headers, memory usage, and BFCL tool-calling performance in stock llama.cpp \n The post  How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide  appeared fi",
+      "aiSummary": "The article offers a coding guide for running the Underdog Saluki 27B model with 2‑bit Qwen3.8‑27B tool‑calling. It compares the model to ISTA’s GSQ‑RCO quantization, examines GGUF headers, memory usage, and BFCL tool‑calling performance in the standard llama.cpp implementation. The guide includes detailed instructions and performance metrics.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/",
+      "category": "Machine Learning",
+      "filterTags": [
+        "Underdog Saluki 27B",
+        "Qwen3.8-27B",
+        "ISTA",
+        "GSQ-RCO",
+        "GGUF",
+        "BFCL",
+        "llama.cpp"
+      ],
+      "publishedAt": "2026-10-25T02:30:18+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Hardware Optimization"
+        }
+      ]
+    }
+  ]
+}
