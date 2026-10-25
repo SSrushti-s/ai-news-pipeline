@@ -1,0 +1,865 @@
+{
+  "news": [
+    {
+      "slug": "b11878",
+      "title": "b11878",
+      "dek": "ggml-cuda: fuse qwen MRoPE + set-rows ( #31025 ) \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/59638191 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silicon (arm64, KleidiAI enabled)  DISABLED \n macOS I",
+      "aiSummary": "This release introduces a CUDA optimization that fuses Qwen's Multi-Head Rotary Position Embedding (MRoPE) with set-rows operations. The update is associated with the llama.cpp project and includes build configurations for macOS and iOS on Apple Silicon.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11878",
+      "category": "AI",
+      "filterTags": [
+        "llama.cpp",
+        "CUDA",
+        "Qwen",
+        "MRoPE",
+        "Apple Silicon"
+      ],
+      "publishedAt": "2026-10-25T15:17:19+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "subreddit-r-opensource-banned-all-ai-so-we-made-a-subreddit-for-you-to-post-in",
+      "title": "Subreddit R/opensource banned all AI so we made a subreddit for you to post in",
+      "dek": "A new subreddit was created for AI posts after r/opensource banned them.",
+      "aiSummary": "The subreddit r/opensource has banned all AI-related content. In response, a new subreddit has been established to provide a dedicated space for users to post about AI.",
+      "articleUrl": "https://reddit.com/opensource_projects",
+      "category": "Community",
+      "filterTags": [
+        "Reddit",
+        "r/opensource",
+        "AI"
+      ],
+      "publishedAt": "2026-10-25T15:03:44+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Community"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "b11877",
+      "title": "b11877",
+      "dek": "vulkan: Add a larger tile size for conv3d (coopmat2 only) ( #29920 ) \n \n vulkan: Add a larger tile size for conv3d (coopmat2 only) \n \n This adds a larger tile size, in practice it is only for coopmat2 where \nwe don't need shared memory to store the output (would use more than 64K",
+      "aiSummary": "A new larger tile size has been implemented for conv3d operations in Vulkan, specifically targeting the coopmat2 backend. This change is necessary because coopmat2 does not require shared memory to store the output, avoiding the limitation of exceeding 64K shared memory usage.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11877",
+      "category": "Graphics",
+      "filterTags": [
+        "Vulkan",
+        "conv3d",
+        "coopmat2"
+      ],
+      "publishedAt": "2026-10-25T14:59:57+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Graphics"
+        },
+        {
+          "name": "Performance"
+        }
+      ]
+    },
+    {
+      "slug": "ternus-shuffles-more-apple-roles-as-long-time-executives-look-to-retire",
+      "title": "Ternus shuffles more Apple roles as long-time executives look to retire",
+      "dek": "A new report says there are again multiple staffing changes in key roles at Apple as the company promotes from within to cover retiring executives. More changes at Apple Park This isn't another case of half a dozen people leaving Apple  in the lurch , chiefly because it's actuall",
+      "aiSummary": "Apple is undergoing additional staffing changes in key roles as long-time executives approach retirement. The company is promoting internal candidates to fill these positions, ensuring continuity without relying on external hires.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/25/ternus-shuffles-more-apple-roles-as-long-time-executives-look-to-retire?utm_source=rss",
+      "category": "Corporate Strategy",
+      "filterTags": [
+        "Apple",
+        "Ternus",
+        "Executive Management"
+      ],
+      "publishedAt": "2026-10-25T14:56:47+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Corporate Strategy"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "oled-upgrades-for-imac-macbook-air-are-planned-but-still-far-from-launch",
+      "title": "OLED upgrades for iMac, MacBook Air are planned but still far from launch",
+      "dek": "OLED displays are still planned for the  iMac  and MacBook Air, but don't expect either upgrade to arrive in the near future. The current 24-inch iMac without OLED Apple's \"Pro and Tell\" special event is forecast to feature the OLED upgrade to the  MacBook Pro , among other launc",
+      "aiSummary": "OLED display upgrades for the iMac and MacBook Air remain part of Apple's roadmap, though they are not expected to launch in the near future. In contrast, the upcoming 'Pro and Tell' event is predicted to feature an OLED upgrade for the MacBook Pro.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/25/oled-upgrades-for-imac-macbook-air-are-planned-but-still-far-from-launch?utm_source=rss",
+      "category": "Hardware",
+      "filterTags": [
+        "Apple",
+        "OLED",
+        "iMac",
+        "MacBook Air",
+        "MacBook Pro"
+      ],
+      "publishedAt": "2026-10-25T14:49:52+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "can-ai-make-us-so-productive-that-it-destroys-the-economy",
+      "title": "Can AI Make Us So Productive That It Destroys the Economy?",
+      "dek": "Could artificial intelligence boost productivity to a level that harms the economy?",
+      "aiSummary": "The article explores the potential for artificial intelligence to increase productivity to such an extent that it could negatively impact the economy. It examines the paradox where extreme efficiency might lead to economic destruction rather than growth.",
+      "articleUrl": "https://www.vincentschmalbach.com/can-ai-make-us-so-productive-it-destroys-the-economy/",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Economy",
+        "Productivity"
+      ],
+      "publishedAt": "2026-10-25T14:32:18+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Economics"
+        }
+      ]
+    },
+    {
+      "slug": "b11876",
+      "title": "b11876",
+      "dek": "vulkan : one warp tile per subgroup in the small matmul tiles ( #30106 ) \n WM of the small tiles was 32, or 8 for 8-wide subgroups, whatever the \ntile's BLOCK_SIZE and WARP. With 16-wide subgroups (Mali) the second \nsubgroup of a workgroup wrote into the next tile's columns. With",
+      "aiSummary": "This change modifies Vulkan small matmul tiles to use one warp tile per subgroup, addressing a previous issue where the workgroup size was fixed at 32 or 8 regardless of block size. The update specifically fixes a bug on Mali hardware with 16-wide subgroups where the second subgroup incorrectly wrote into the next tile's columns.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11876",
+      "category": "Graphics",
+      "filterTags": [
+        "Vulkan",
+        "Mali",
+        "matmul",
+        "subgroup"
+      ],
+      "publishedAt": "2026-10-25T14:31:00+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Graphics"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "skyl-one-go-interface-for-400-ai-models",
+      "title": "Skyl – One Go interface for 400 AI models",
+      "dek": "Skyl lets you use 400 AI models from one place.",
+      "aiSummary": "Skyl offers a single interface that lets users access 400 AI models. The platform aims to simplify the process of interacting with multiple AI services. It provides a unified experience for developers and businesses.",
+      "articleUrl": "https://skyl-docs.vercel.app/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Skyl",
+        "AI"
+      ],
+      "publishedAt": "2026-10-25T14:28:48+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Software"
+        }
+      ]
+    },
+    {
+      "slug": "the-hottest-ai-wearables-and-gadgets-you-should-know-about",
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "dek": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+      "aiSummary": "The article lists popular AI wearables such as Muse Charm, Bee, Friend, Plaud, and other gadgets. It highlights these products as the current hottest in the market.",
+      "articleUrl": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "category": "Wearables",
+      "filterTags": [
+        "Muse Charm",
+        "Bee",
+        "Friend",
+        "Plaud",
+        "AI wearables"
+      ],
+      "publishedAt": "2026-10-25T14:10:00+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Wearables"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "extremely-disappointed-wa-government-seeks-reimbursement-from-deloitte-over-flawed-university-report",
+      "title": "‘Extremely disappointed’: WA government seeks reimbursement from Deloitte over flawed university report",
+      "dek": "WA paid Deloitte $166,000 for flawed feasibility study on merging the University of Western Australia, Curtin university and Murdoch university Get our  breaking news email ,  free app  or  daily news podcast The Western Australian government has said it is “extremely disappointe",
+      "aiSummary": "The Western Australian government has expressed extreme disappointment and is seeking reimbursement from Deloitte for a flawed feasibility study. The government had paid $166,000 for the report, which analyzed the potential merger of the University of Western Australia, Curtin University, and Murdoch University.",
+      "articleUrl": "https://www.theguardian.com/australia-news/2026/oct/26/deloitte-report-wa-university-mergers-260m-discrepancy-ai",
+      "category": "Government",
+      "filterTags": [
+        "Deloitte",
+        "University of Western Australia",
+        "Curtin University",
+        "Murdoch University",
+        "Western Australian government"
+      ],
+      "publishedAt": "2026-10-25T14:00:06+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Government"
+        },
+        {
+          "name": "Education"
+        },
+        {
+          "name": "Public Policy"
+        }
+      ]
+    },
+    {
+      "slug": "neighbours-is-being-recut-into-a-microdrama-focused-on-margot-robbie-and-her-co-stars-aren-t-happy",
+      "title": "Neighbours is being recut into a microdrama focused on Margot Robbie – and her co-stars aren’t happy",
+      "dek": "Robbie’s storylines in the famous soap will be recut into vertical micro-episodes to be watched on phones – but her fellow cast members say they haven’t been consulted The long-running Australian soap opera Neighbours is being recut with AI into a microdrama designed to be watche",
+      "aiSummary": "The long-running Australian soap opera Neighbours is being recut using AI into vertical micro-episodes focused on Margot Robbie for mobile viewing. Fellow cast members have expressed dissatisfaction, stating that they were not consulted regarding this new format.",
+      "articleUrl": "https://www.theguardian.com/tv-and-radio/2026/oct/26/neighbours-soap-recut-ai-microdrama-mobile-series-feat-margot-robbie",
+      "category": "Entertainment",
+      "filterTags": [
+        "Neighbours",
+        "Margot Robbie",
+        "AI",
+        "microdrama"
+      ],
+      "publishedAt": "2026-10-25T14:00:06+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Entertainment"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Media"
+        }
+      ]
+    },
+    {
+      "slug": "apple-to-unveil-touch-screen-macbook-pro-executive-promotions-in-box-checker",
+      "title": "Apple to Unveil Touch-Screen MacBook Pro; Executive Promotions; In-Box Checker",
+      "dek": "Also: The company rolls out a retail store tool to reduce wasted inventory.",
+      "aiSummary": "Apple is preparing to introduce a MacBook Pro featuring a touch screen. The company is also announcing executive promotions and rolling out a retail store tool designed to reduce wasted inventory.",
+      "articleUrl": "https://www.bloomberg.com/news/newsletters/2026-10-25/apple-to-unveil-touch-screen-macbook-pro-executive-promotions-in-box-checker",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Apple",
+        "MacBook Pro",
+        "Touch-Screen",
+        "Retail",
+        "Inventory Management"
+      ],
+      "publishedAt": "2026-10-25T14:00:01+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Corporate News"
+        },
+        {
+          "name": "Retail Technology"
+        }
+      ]
+    },
+    {
+      "slug": "agentic-ai-in-production-why-your-agent-keeps-answering-after-its-tools-fail",
+      "title": "Agentic AI in Production: Why Your Agent Keeps Answering After Its Tools Fail",
+      "dek": "When a tool breaks, an agent can keep going and write a confident answer from nothing while the dashboard stays green. \n The post  Agentic AI in Production: Why Your Agent Keeps Answering After Its Tools Fail  appeared first on  Towards Data Science .",
+      "aiSummary": "The article explains that when a tool fails, an agentic AI system may continue processing and generate a confident answer based on no data. This behavior can occur while monitoring dashboards incorrectly indicate that the system is operating normally.",
+      "articleUrl": "https://towardsdatascience.com/agentic-ai-in-production-why-your-agent-keeps-answering-after-its-tools-fail/",
+      "category": "AI",
+      "filterTags": [
+        "Agentic AI",
+        "Towards Data Science"
+      ],
+      "publishedAt": "2026-10-25T14:00:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "r-opensource-just-banned-ai-non-english-speakers-and-more",
+      "title": "r/opensource just banned AI, non-English speakers, and more",
+      "dek": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is",
+      "aiSummary": "The moderators of r/opensource introduced new submission rules that explicitly ban projects using, created by, or intended for AI. The announcement, posted on Saturday evening, states that AI is not welcome on the subreddit in its current form.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "category": "Open Source",
+      "filterTags": [
+        "r/opensource",
+        "AI",
+        "Reddit"
+      ],
+      "publishedAt": "2026-10-25T13:25:32+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Community Governance"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "ai-spending-fears-threaten-to-swamp-big-tech-s-strong-earnings",
+      "title": "AI Spending Fears Threaten to Swamp Big Tech’s Strong Earnings",
+      "dek": "Three of the biggest and most important technology companies in the world are expected to show healthy growth when they report earnings this week.",
+      "aiSummary": "Three leading tech companies are projected to report strong earnings this week, with healthy growth expected. However, worries about AI spending may threaten to dampen these results.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-25/ai-spending-fears-threaten-to-swamp-big-tech-s-strong-earnings",
+      "category": "Technology",
+      "filterTags": [
+        "AI",
+        "Big Tech",
+        "Earnings"
+      ],
+      "publishedAt": "2026-10-25T13:00:00+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "an-86-minute-guide-to-finding-pmf-rob-snyder-author-the-power-of-pull",
+      "title": "An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)",
+      "dek": "Listen now (86 mins) | The founder who helped over 50 startups hit $1M ARR shares his PULL framework for finding real product-market fit",
+      "aiSummary": "The podcast runs for 86 minutes and features a founder who has helped more than 50 startups reach $1M annual recurring revenue. He explains his PULL framework for identifying genuine product‑market fit.",
+      "articleUrl": "https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf",
+      "category": "Entrepreneurship",
+      "filterTags": [
+        "PULL framework",
+        "product-market fit",
+        "startup",
+        "ARR"
+      ],
+      "publishedAt": "2026-10-25T12:31:34+00:00",
+      "publisher": {
+        "name": "Lenny's Newsletter",
+        "domain": "lennysnewsletter.com",
+        "website": "https://www.lennysnewsletter.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=lennysnewsletter.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=lennysnewsletter.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Entrepreneurship"
+        },
+        {
+          "name": "Product Management"
+        },
+        {
+          "name": "Startup Growth"
+        }
+      ]
+    },
+    {
+      "slug": "researchers-from-stanford-and-uc-berkeley-introduce-tokengate-token-gated-attention-makes-long-context-prefill-up-to-11-",
+      "title": "Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster",
+      "dek": "Stanford and UC Berkeley researchers released TokenGate, a drop-in learned token pruning module for LLMs. It cuts long-context prefill time-to-first-token by 1.4x to 11.3x and peak memory by 1.5x to 3.4x without accuracy loss. \n The post  Researchers from Stanford and UC Berkeley",
+      "aiSummary": "Researchers from Stanford and UC Berkeley introduced TokenGate, a drop-in learned token pruning module designed for large language models. The system reduces long-context prefill time-to-first-token by 1.4x to 11.3x and lowers peak memory usage by 1.5x to 3.4x without sacrificing accuracy.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/25/stanford-berkeley-tokengate-learned-token-pruning-llm-prefill/",
+      "category": "AI",
+      "filterTags": [
+        "TokenGate",
+        "LLMs",
+        "Stanford",
+        "UC Berkeley",
+        "Token Pruning",
+        "Prefill"
+      ],
+      "publishedAt": "2026-10-25T12:12:18+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Research"
+        }
+      ]
+    },
+    {
+      "slug": "markets-look-to-big-tech-for-ai-payoff",
+      "title": "Markets Look to Big Tech for AI Payoff",
+      "dek": "On Bloomberg This Weekend, MetLife Investment Management Chief Market Strategist Drew Matus examines how AI investment is driving markets, corporate spending and parts of the US economy as investors look to Big Tech earnings for evidence that the spending will pay off. Speaking w",
+      "aiSummary": "MetLife Investment Management’s chief market strategist Drew Matus discussed on Bloomberg this weekend how AI investment is influencing markets, corporate spending, and parts of the U.S. economy. He noted that investors are looking to Big Tech earnings for proof that AI spending will pay off.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-25/markets-look-to-big-tech-for-ai-payoff-video",
+      "category": "Finance",
+      "filterTags": [
+        "Bloomberg",
+        "MetLife",
+        "Big Tech",
+        "AI"
+      ],
+      "publishedAt": "2026-10-25T12:10:28+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Economics"
+        }
+      ]
+    },
+    {
+      "slug": "data-enablement-for-ai-a-practitioner-s-guide-to-6-advanced-architectural-patterns",
+      "title": "Data Enablement for AI: A Practitioner's Guide to 6 Advanced Architectural Patterns",
+      "dek": "Beyond naive chunk-and-embed: Six production architectures for turning enterprise lakehouses into governed AI platforms. \n The post  Data Enablement for AI: A Practitioner's Guide to 6 Advanced Architectural Patterns  appeared first on  Towards Data Science .",
+      "aiSummary": "The article outlines six production-ready architectures that transform enterprise lakehouses into governed AI platforms, moving beyond simple chunk-and-embed methods. It explains how these patterns enable scalable, secure, and compliant AI deployments. The guide serves as a practical resource for data practitioners looking to implement advanced data enablement for AI.",
+      "articleUrl": "https://towardsdatascience.com/data-enablement-for-ai-a-practitioners-guide-to-6-advanced-architectural-patterns/",
+      "category": "Data Engineering",
+      "filterTags": [
+        "lakehouse",
+        "AI platform",
+        "chunk-and-embed",
+        "data enablement",
+        "architectural patterns"
+      ],
+      "publishedAt": "2026-10-25T12:00:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Data Engineering"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Data Governance"
+        },
+        {
+          "name": "Enterprise Architecture"
+        }
+      ]
+    },
+    {
+      "slug": "google-s-ai-search-changes-upended-online-publishing",
+      "title": "Google’s AI search changes upended online publishing",
+      "dek": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital",
+      "aiSummary": "The article explains how Google's AI search changes have disrupted online publishing. It discusses the changes in Google's AI search.",
+      "articleUrl": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+      "category": "AI",
+      "filterTags": [
+        "Google",
+        "AI",
+        "search",
+        "online publishing"
+      ],
+      "publishedAt": "2026-10-25T12:00:00+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Publishing"
+        },
+        {
+          "name": "Web"
+        }
+      ]
+    },
+    {
+      "slug": "podcast-kimi-k3-1-pro-the-new-cyber-reality-and-muse-musings",
+      "title": "Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings",
+      "dek": "#20",
+      "aiSummary": "Episode #20 of the podcast. No additional details are provided.",
+      "articleUrl": "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
+      "category": "Technology",
+      "filterTags": [],
+      "publishedAt": "2026-10-25T11:49:00+00:00",
+      "publisher": {
+        "name": "Nathan Lambert",
+        "domain": "interconnects.ai",
+        "website": "https://www.interconnects.ai/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=interconnects.ai&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=interconnects.ai&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-launches-oss-scanner-a-free-ai-vulnerability-scanner",
+      "title": "Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner",
+      "dek": "Anthropic has launched OSS Scanner, a free, opt-in vulnerability scanner for critical open-source projects. The Anthropic OSS Scanner runs the company’s strongest models, including Claude Mythos, against enrolled codebases. Reports go straight to maintainers without human review.",
+      "aiSummary": "Anthropic has introduced OSS Scanner, a free and opt-in tool designed to identify vulnerabilities in critical open-source projects. The system utilizes the company's advanced models, including Claude Mythos, to analyze enrolled codebases and sends reports directly to maintainers without requiring human review.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/25/anthropic-launches-oss-scanner-a-free-ai-vulnerability-scanner/",
+      "category": "Security",
+      "filterTags": [
+        "Anthropic",
+        "OSS Scanner",
+        "Claude Mythos",
+        "Vulnerability Scanner",
+        "Open Source"
+      ],
+      "publishedAt": "2026-10-25T11:32:29+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "why-students-in-a-midterm-battleground-fear-ai-will-ruin-their-future",
+      "title": "Why students in a midterm battleground fear AI will ruin their future",
+      "dek": "Young people are increasingly anxious — and angry — about the Big Tech revolution and what it means for their job prospects",
+      "aiSummary": "Young people in a midterm battleground are expressing growing anxiety and anger regarding the Big Tech revolution. They fear that these technological changes will negatively impact their future job prospects.",
+      "articleUrl": "https://www.ft.com/content/0a86d4f5-6046-4c1c-89e9-90583cff33f9?syn-25a6b1a6=1",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Big Tech"
+      ],
+      "publishedAt": "2026-10-25T11:00:02+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Economy"
+        },
+        {
+          "name": "Education"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1792932937",
+      "title": "viable/strict/1792932937",
+      "dek": "[2/6][inductor][XPU] Validate batch_linear_lhs projection shapes ( #20 …",
+      "aiSummary": "The snippet refers to a validation of batch_linear_lhs projection shapes in the XPU inductor module, part of a series of updates (2/6). It mentions issue #20.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1792932937",
+      "category": "Hardware Acceleration",
+      "filterTags": [
+        "inductor",
+        "XPU",
+        "batch_linear_lhs"
+      ],
+      "publishedAt": "2026-10-25T08:50:17+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware Acceleration"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1792927488-devicemesh-sort-split-ranks-when-applicable-201949",
+      "title": "viable/strict/1792927488: [DeviceMesh] Sort split ranks when applicable (#201949)",
+      "dek": "Go through the following checklist: \n \n  Passes lint ( lintrunner -a ) \n  Added/updated tests \n \n Summary (human written only) \n Sort split ranks did not account for preserve_rank_order correctly and sorted subgroup ranks by default. This was happening in eager path \n Agent detai",
+      "aiSummary": "The update corrects an issue where split ranks were not respecting the preserve_rank_order flag and were sorted by default in the eager execution path. Tests were added or updated and linting passed.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1792927488",
+      "category": "Machine Learning",
+      "filterTags": [
+        "DeviceMesh",
+        "split ranks",
+        "preserve_rank_order",
+        "eager"
+      ],
+      "publishedAt": "2026-10-25T06:46:18+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Distributed Computing"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    }
+  ]
+}
