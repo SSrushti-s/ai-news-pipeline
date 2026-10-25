@@ -1,0 +1,512 @@
+{
+  "news": [
+    {
+      "slug": "the-power-grab-of-the-ai-doomers",
+      "title": "The Power Grab of the AI Doomers",
+      "dek": "Critics argue that AI pessimists are using fear to gain influence.",
+      "aiSummary": "The provided text contains only the title 'The Power Grab of the AI Doomers' and no article body. Consequently, no factual summary can be generated based on the content.",
+      "articleUrl": "https://www.aipanic.news/p/the-power-grab-of-the-ai-doomers",
+      "category": "AI",
+      "filterTags": [],
+      "publishedAt": "2026-10-25T20:01:52+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "show-hn-hycli-reverse-engineer-websites-into-cli-and-mcp-tools-for-ai-agents",
+      "title": "Show HN: Hycli – reverse-engineer websites into CLI and MCP tools for AI agents",
+      "dek": "Hycli turns websites into command-line and MCP tools for AI agents.",
+      "aiSummary": "Hycli is a tool that reverse-engineers websites to create command-line interfaces and Model Context Protocol (MCP) tools. These generated tools are designed to be used by AI agents to interact with web content.",
+      "articleUrl": "https://github.com/Hybirdss/Hycli",
+      "category": "AI",
+      "filterTags": [
+        "Hycli",
+        "CLI",
+        "MCP",
+        "AI agents",
+        "Reverse engineering"
+      ],
+      "publishedAt": "2026-10-25T19:51:45+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Developer Tools"
+        },
+        {
+          "name": "Web Scraping"
+        }
+      ]
+    },
+    {
+      "slug": "reclaim-disk-space-with-an-ai-agent",
+      "title": "Reclaim disk space with an AI agent",
+      "dek": "Use an AI agent to free up storage space on your hard drive.",
+      "aiSummary": "The article discusses utilizing an AI agent to identify and remove unnecessary files, thereby reclaiming disk space. This approach automates the process of managing storage capacity.",
+      "articleUrl": "https://github.com/riza/ai-disk-cleanup",
+      "category": "AI",
+      "filterTags": [
+        "AI agent",
+        "disk space"
+      ],
+      "publishedAt": "2026-10-25T19:31:08+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "System Administration"
+        }
+      ]
+    },
+    {
+      "slug": "b11887",
+      "title": "b11887",
+      "dek": "tests : adjust default threads for test-llama-context ( #31157 ) \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/59670438 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silicon (arm64, KleidiAI enabled)  DI",
+      "aiSummary": "This release adjusts the default thread configuration for the test-llama-context component, corresponding to pull request #31157. The update is associated with the llama.cpp project and includes build artifacts for macOS and iOS on Apple Silicon architectures, with one variant enabling KleidiAI.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11887",
+      "category": "AI",
+      "filterTags": [
+        "llama.cpp",
+        "KleidiAI",
+        "Apple Silicon",
+        "test-llama-context"
+      ],
+      "publishedAt": "2026-10-25T18:38:00+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-sued-for-allegedly-using-274-elvis-presley-songs-to-train-ai-models",
+      "title": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
+      "dek": "Authentic Brands Group says AI company infringed on rights of songs by the King such as Can’t Help Falling in Love The owners of  Elvis Presley ’s music catalogue are suing artificial intelligence ( AI ) company  Anthropic  for allegedly using Presley’s songs to train their model",
+      "aiSummary": "Authentic Brands Group has filed a lawsuit against AI company Anthropic, alleging that the firm infringed on copyright rights by using 274 Elvis Presley songs to train its models. The complaint specifically cites tracks like 'Can't Help Falling in Love' as part of the alleged unauthorized use of the King's music catalogue.",
+      "articleUrl": "https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music",
+      "category": "Legal",
+      "filterTags": [
+        "Anthropic",
+        "Authentic Brands Group",
+        "Elvis Presley",
+        "AI",
+        "Copyright"
+      ],
+      "publishedAt": "2026-10-25T18:25:59+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Entertainment"
+        }
+      ]
+    },
+    {
+      "slug": "b11886",
+      "title": "b11886",
+      "dek": "qwen: merge tensors on convert ( #31028 ) \n \n \n qwen: merge tensors on convert \n \n \n convert: use generator functions \n \n \n qwen4exp: remove conts and pre-scale \n \n \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/5966711",
+      "aiSummary": "This update to the llama.cpp repository introduces changes to the Qwen model implementation, specifically merging tensors during the conversion phase. It also refactors the conversion process to utilize generator functions and removes constants and pre-scaling from the qwen4exp module.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11886",
+      "category": "AI",
+      "filterTags": [
+        "llama.cpp",
+        "Qwen",
+        "tensors",
+        "C++"
+      ],
+      "publishedAt": "2026-10-25T18:20:39+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "v1-13-1",
+      "title": "v1.13.1",
+      "dek": "fix: refresh enterprise bundle profile lock for 1.13.1",
+      "aiSummary": "The update v1.13.1 includes a fix that refreshes the enterprise bundle profile lock. This change addresses an issue where the lock was not properly refreshed. The patch ensures correct lock handling for enterprise bundles.",
+      "articleUrl": "https://github.com/langflow-ai/langflow/releases/tag/v1.13.1",
+      "category": "Software Development",
+      "filterTags": [
+        "enterprise bundle profile lock"
+      ],
+      "publishedAt": "2026-10-25T18:13:26+00:00",
+      "publisher": {
+        "name": "langflow-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langflow-ai/langflow",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Quality Assurance"
+        }
+      ]
+    },
+    {
+      "slug": "b11884",
+      "title": "b11884",
+      "dek": "llama: fix exhausting CPU and MEM caused by dry sequence breaker ( #31035 ) \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/59663486 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silicon (arm64, KleidiAI e",
+      "aiSummary": "A recent commit for the llama.cpp project fixes a bug where the dry sequence breaker feature was causing excessive consumption of CPU and memory resources. The update is associated with pull request #31035 and includes builds for macOS and iOS platforms.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11884",
+      "category": "AI",
+      "filterTags": [
+        "llama.cpp",
+        "ggml-org",
+        "dry sequence breaker",
+        "CPU",
+        "MEM",
+        "macOS",
+        "iOS"
+      ],
+      "publishedAt": "2026-10-25T17:59:22+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "ai-delivers-zero-financial-payoff-to-most-companies-apollo-economist-says",
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "dek": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+      "aiSummary": "An Apollo economist states that despite significant investment and hype, artificial intelligence has failed to generate financial returns for most companies outside the technology sector. The assessment highlights a disconnect between the widespread adoption of AI and its actual impact on corporate profitability.",
+      "articleUrl": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "category": "AI",
+      "filterTags": [
+        "Apollo",
+        "Artificial Intelligence",
+        "Corporate America"
+      ],
+      "publishedAt": "2026-10-25T16:57:32+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Economics"
+        },
+        {
+          "name": "Business Strategy"
+        }
+      ]
+    },
+    {
+      "slug": "hugging-face-releases-carbon-x-a-14b-open-dna-language-model-that-brings-dna-and-natural-language-together-for-the-first",
+      "title": "Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language Together for the First Time",
+      "dek": "Hugging Face released Carbon-X, an open 14.8B DNA language model built on Qwen3-14B. It reads raw DNA in chat, answers in English, and averages 66.7% across 5 DNA benchmarks under Apache 2.0. \n The post  Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DN",
+      "aiSummary": "Hugging Face has released Carbon-X, an open 14.8B DNA language model built on the Qwen3-14B architecture. The model is capable of reading raw DNA in chat format and responding in English, achieving an average score of 66.7% across five DNA benchmarks. It is available under the Apache 2.0 license.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/25/hugging-face-carbon-x-14b-dna-language-model/",
+      "category": "AI",
+      "filterTags": [
+        "Hugging Face",
+        "Carbon-X",
+        "Qwen3-14B",
+        "DNA",
+        "Apache 2.0"
+      ],
+      "publishedAt": "2026-10-25T16:53:40+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Bioinformatics"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "major-ukraine-retailer-says-russian-hits-destroyed-its-chain",
+      "title": "Major Ukraine Retailer Says Russian Hits Destroyed Its Chain",
+      "dek": "Epicentr, a major Ukrainian home improvement retailer, said its business had been “destroyed” by a rapid-fire succession of Russian airstrikes on its distribution centers, with the latest ones coming over the weekend.",
+      "aiSummary": "Epicentr, a leading Ukrainian home‑improvement retailer, reported that a series of Russian airstrikes on its distribution centers have effectively destroyed its operations. The attacks, which intensified over the weekend, have severely disrupted the company’s supply chain and business activities.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-25/major-ukraine-retailer-says-russian-strikes-destroyed-its-chain",
+      "category": "Retail",
+      "filterTags": [
+        "Epicentr",
+        "Russian airstrikes",
+        "Ukraine"
+      ],
+      "publishedAt": "2026-10-25T16:17:14+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Retail"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Geopolitics"
+        }
+      ]
+    },
+    {
+      "slug": "i-m-on-team-explanation",
+      "title": "I'm on Team Explanation",
+      "dek": "A charcoal cutaway barn: a turkey professor points at a chart of sunrise feeding times while, inside, a farmer sharpens an axe beside roasting pans./images/team-explanation.webp/images/team-explanation.webp There are two major ways of assessing the quality of our understanding of",
+      "aiSummary": "The article discusses two primary methods for evaluating the quality of our understanding. It uses a metaphor involving a turkey professor and a farmer to illustrate the difference between these approaches.",
+      "articleUrl": "https://danielmiessler.com/blog/team-explanation?utm_source=rss&utm_medium=feed&utm_campaign=website",
+      "category": "Philosophy",
+      "filterTags": [
+        "Team Explanation",
+        "Charcoal Cutaway Barn",
+        "Turkey Professor"
+      ],
+      "publishedAt": "2026-10-25T15:46:32+00:00",
+      "publisher": {
+        "name": "Daniel Miessler",
+        "domain": "danielmiessler.com",
+        "website": "https://danielmiessler.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=danielmiessler.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=danielmiessler.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Philosophy"
+        },
+        {
+          "name": "Cognitive Science"
+        }
+      ]
+    },
+    {
+      "slug": "touch-friendly-dynamic-interface-coming-soon-to-macos-golden-gate",
+      "title": "Touch-friendly dynamic interface coming soon to macOS Golden Gate",
+      "dek": "The touch-enabled  MacBook Pro  will bring with it some changes to macOS Golden Gate, with a dynamic interface that will be better for finger-based navigation. MacBook Pro, without OLED It's safe to say that the  macOS  interface is generally geared towards the mouse and keyboard",
+      "aiSummary": "The upcoming touch-enabled MacBook Pro will introduce a dynamic interface to macOS Golden Gate to improve finger-based navigation. This change addresses the current macOS design, which is primarily optimized for mouse and keyboard input.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/25/touch-friendly-dynamic-interface-coming-soon-to-macos-golden-gate?utm_source=rss",
+      "category": "Operating Systems",
+      "filterTags": [
+        "macOS Golden Gate",
+        "MacBook Pro",
+        "Touch Interface"
+      ],
+      "publishedAt": "2026-10-25T15:35:54+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Operating Systems"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1792950632",
+      "title": "viable/strict/1792950632",
+      "dek": "Revert \"[2/6][inductor][XPU] Validate batch_linear_lhs projection sha…",
+      "aiSummary": "The commit reverts a prior change that added validation for the batch_linear_lhs projection in the XPU inductor module. This rollback addresses problems introduced by that validation. The revert references the original commit ID and is part of the ongoing development process.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1792950632",
+      "category": "Hardware Acceleration",
+      "filterTags": [
+        "inductor",
+        "XPU",
+        "batch_linear_lhs"
+      ],
+      "publishedAt": "2026-10-25T13:48:41+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware Acceleration"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "put-your-a-i-agents-to-work-with-these-5-killer-tasks",
+      "title": "Put Your A.I. Agents to Work with These 5 Killer Tasks",
+      "dek": "When you start using Meta’s Muse and OpenAI’s dots for these tasks — like applying for jobs and booking hard-to-get restaurant tables — you may never go back.",
+      "aiSummary": "The article suggests five specific tasks, such as applying for jobs and booking difficult restaurant reservations, that users can automate using Meta’s Muse and OpenAI’s dots. It argues that utilizing these AI agents for such duties can significantly improve efficiency and convenience.",
+      "articleUrl": "https://www.nytimes.com/2026/10/25/technology/personaltech/openai-dots-meta-muse-killer-tasks.html",
+      "category": "AI",
+      "filterTags": [
+        "Meta",
+        "OpenAI",
+        "Muse",
+        "dots",
+        "AI Agents"
+      ],
+      "publishedAt": "2026-10-25T09:01:00+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Productivity"
+        }
+      ]
+    }
+  ]
+}
