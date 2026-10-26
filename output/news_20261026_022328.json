@@ -1,0 +1,681 @@
+{
+  "news": [
+    {
+      "slug": "ciflow-xpu-195700",
+      "title": "ciflow/xpu/195700",
+      "dek": "skip MPS on test_aoti_schema_populated due to platform limitations",
+      "aiSummary": "The commit skips the test_aoti_schema_populated test on the MPS platform. This action is taken because of specific platform limitations that prevent the test from running successfully.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fxpu%2F195700",
+      "category": "Software Engineering",
+      "filterTags": [
+        "ciflow",
+        "xpu",
+        "MPS",
+        "test_aoti_schema_populated"
+      ],
+      "publishedAt": "2026-10-26T02:13:57+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Testing"
+        }
+      ]
+    },
+    {
+      "slug": "ciflow-trunk-195700",
+      "title": "ciflow/trunk/195700",
+      "dek": "skip MPS on test_aoti_schema_populated due to platform limitations",
+      "aiSummary": "The commit skips the test_aoti_schema_populated test on the MPS platform. This change is implemented to address specific platform limitations.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Ftrunk%2F195700",
+      "category": "Software Engineering",
+      "filterTags": [
+        "MPS",
+        "AOTI",
+        "ciflow"
+      ],
+      "publishedAt": "2026-10-26T02:13:57+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Testing"
+        }
+      ]
+    },
+    {
+      "slug": "ciflow-torchtitan-200916-update",
+      "title": "ciflow/torchtitan/200916: Update",
+      "dek": "[ghstack-poisoned]",
+      "aiSummary": "The provided text indicates a code update for the ciflow/torchtitan project. The description notes that the change is marked as ghstack-poisoned, which typically signifies a conflict or issue with the GitHub stack workflow.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Ftorchtitan%2F200916",
+      "category": "Open Source",
+      "filterTags": [
+        "ciflow",
+        "torchtitan",
+        "ghstack"
+      ],
+      "publishedAt": "2026-10-26T02:09:34+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "show-hn-depono-chat-with-many-ai-models-at-cost-and-10-files-kept-in-git",
+      "title": "Show HN: Depono – Chat with many AI models at cost and 10%, files kept in Git",
+      "dek": "Depono lets you chat with many AI models, saving 10% on costs and keeping files in Git.",
+      "aiSummary": "Depono is a chat platform that allows users to interact with multiple AI models, offering a 10% cost reduction and storing files in Git repositories. It provides a convenient way to manage AI conversations and file storage in a single tool.",
+      "articleUrl": "https://depono.xyz/",
+      "category": "AI",
+      "filterTags": [
+        "Depono",
+        "AI",
+        "Git"
+      ],
+      "publishedAt": "2026-10-26T01:12:25+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "v1-14-0-dev6",
+      "title": "v1.14.0.dev6",
+      "dek": "Langflow nightly v1.14.0.dev6",
+      "aiSummary": "Langflow has released version 1.14.0.dev6. This update is part of the project's nightly development cycle.",
+      "articleUrl": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev6",
+      "category": "AI",
+      "filterTags": [
+        "Langflow"
+      ],
+      "publishedAt": "2026-10-26T00:38:57+00:00",
+      "publisher": {
+        "name": "langflow-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langflow-ai/langflow",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "one-gateway-for-your-ai-agents-apis-and-mcp-servers",
+      "title": "One gateway for your AI agents, APIs and MCP servers",
+      "dek": "A single access point for managing AI agents, APIs, and MCP servers.",
+      "aiSummary": "The article introduces a unified gateway designed to handle AI agents, APIs, and MCP servers. It serves as a central interface for these components.",
+      "articleUrl": "https://github.com/Clivern/Sloth",
+      "category": "AI",
+      "filterTags": [
+        "AI agents",
+        "APIs",
+        "MCP servers",
+        "Gateway"
+      ],
+      "publishedAt": "2026-10-26T00:38:22+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-says",
+      "title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
+      "dek": "Elon Musk said in an X post that SpaceX has closed $40 billion in debt financing to purchase GPUs.",
+      "aiSummary": "Elon Musk announced on X that SpaceX has finalized a $40 billion debt financing deal. The funds are intended to purchase GPUs for the company's AI initiatives.",
+      "articleUrl": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
+      "category": "Space",
+      "filterTags": [
+        "SpaceX",
+        "Elon Musk",
+        "GPUs"
+      ],
+      "publishedAt": "2026-10-26T00:37:51+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Space"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "i-think-my-ai-company-needs-hr",
+      "title": "I Think My AI Company Needs HR",
+      "dek": "I believe my AI firm requires a human resources department.",
+      "aiSummary": "The article discusses the need for a human resources team in a company that builds artificial intelligence.",
+      "articleUrl": "https://www.fasttrackfemme.com/p/i-think-my-ai-company-needs-hr",
+      "category": "Technology",
+      "filterTags": [
+        "Artificial Intelligence",
+        "Human Resources"
+      ],
+      "publishedAt": "2026-10-26T00:08:49+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Business"
+        },
+        {
+          "name": "Human Resources"
+        }
+      ]
+    },
+    {
+      "slug": "sk-hynix-shares-defy-ai-selloff-with-support-from-kioxia-gains",
+      "title": "SK Hynix Shares Defy AI Selloff With Support From Kioxia Gains",
+      "dek": "SK Hynix Inc.’s shares bucked a broad selloff in AI-related stocks thanks to the prospect of a large dividend payout related to the South Korean memory maker’s stake in Japan’s Kioxia Holdings Corp.",
+      "aiSummary": "SK Hynix shares resisted a widespread decline in AI-related equities. This resilience was driven by the potential for a significant dividend payout stemming from the company's ownership stake in Japan's Kioxia Holdings.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-25/sk-hynix-plans-12-billion-dividend-from-kioxia-gains-report",
+      "category": "Semiconductors",
+      "filterTags": [
+        "SK Hynix",
+        "Kioxia",
+        "AI",
+        "Dividend"
+      ],
+      "publishedAt": "2026-10-25T23:52:02+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "b11889",
+      "title": "b11889",
+      "dek": "cuda : use std::string instead of VLA for archName ( #30463 ) \n \n cuda : use std::string instead of VLA for archName \n \n Modernize the code (old C style) and fix the following warnings: \n ggml/src/ggml-cuda/ggml-cuda.cu:180:19: warning: variable length arrays in C++ are a Clang e",
+      "aiSummary": "The code change modernizes the CUDA implementation by replacing variable-length arrays (VLA) with std::string for the archName variable. This update addresses Clang warnings regarding C-style variable-length arrays in C++ code.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11889",
+      "category": "Software Development",
+      "filterTags": [
+        "CUDA",
+        "std::string",
+        "VLA",
+        "Clang",
+        "ggml"
+      ],
+      "publishedAt": "2026-10-25T23:48:14+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "data-centre-debate-heats-up-ahead-of-us-midterms-here-s-what-you-need-to-know",
+      "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+      "dek": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
+      "aiSummary": "Concerns are rising about the environmental impact of data centers, which are described as essential to the digital world. The BBC has analyzed the growth of these facilities using charts.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
+      "category": "Infrastructure",
+      "filterTags": [
+        "Data centres",
+        "BBC",
+        "US midterms"
+      ],
+      "publishedAt": "2026-10-25T23:44:34+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "Environment"
+        },
+        {
+          "name": "Politics"
+        }
+      ]
+    },
+    {
+      "slug": "b11888",
+      "title": "b11888",
+      "dek": "common, grammar: add recursive depth limit, make it a requirement ( #31153 ) \n \n \n common, grammar: add recursive depth limit, make it a requirement \n \n \n catch more recursive functions \n \n \n common : tidy up peg parser changes \n \n \n grammar : reject candidates in a loop, without",
+      "aiSummary": "The article describes updates to the common grammar, adding a recursive depth limit and making it a requirement. It also improves detection of recursive functions and tidies up PEG parser changes. Additionally, it rejects candidates in a loop to prevent issues.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11888",
+      "category": "Programming Languages",
+      "filterTags": [
+        "PEG parser",
+        "recursive depth limit",
+        "recursive functions",
+        "grammar"
+      ],
+      "publishedAt": "2026-10-25T23:31:40+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Programming Languages"
+        },
+        {
+          "name": "Compiler Design"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "asia-s-busiest-earnings-week-puts-ai-boom-in-focus-after-selloff",
+      "title": "Asia’s Busiest Earnings Week Puts AI Boom in Focus After Selloff",
+      "dek": "Asia’s busiest earnings week will put the AI trade to a major test as investors look for proof that billions in investment are translating into profits, and that growth is spreading beyond tech.",
+      "aiSummary": "Asia's most significant earnings week is set to test the sustainability of the AI investment boom. Investors are seeking evidence that massive capital expenditures are generating profits and that economic growth is expanding beyond the technology sector following a recent market selloff.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-25/asia-s-busiest-earnings-week-puts-ai-boom-in-focus-after-selloff",
+      "category": "Finance",
+      "filterTags": [
+        "AI",
+        "Earnings",
+        "Asia",
+        "Tech"
+      ],
+      "publishedAt": "2026-10-25T23:30:00+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Markets"
+        }
+      ]
+    },
+    {
+      "slug": "inside-the-firings-and-leadership-changes-at-netflix",
+      "title": "Inside the Firings and Leadership Changes at Netflix",
+      "dek": "A programming slump and talent backlash prompted a major regime change at Netflix",
+      "aiSummary": "Netflix has implemented major leadership changes and layoffs following a period of weak programming performance. These moves were also driven by a backlash from talent regarding the company's direction.",
+      "articleUrl": "https://www.bloomberg.com/news/newsletters/2026-10-25/inside-the-firings-and-leadership-changes-at-netflix",
+      "category": "Entertainment",
+      "filterTags": [
+        "Netflix"
+      ],
+      "publishedAt": "2026-10-25T23:00:01+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Entertainment"
+        },
+        {
+          "name": "Corporate Strategy"
+        }
+      ]
+    },
+    {
+      "slug": "grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey",
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "dek": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+      "aiSummary": "Grok released the first seven minutes of its AI-generated film 'Odyssey'. Reviewers say the footage is acceptable but lacks artistic depth, inspiration, or human interest.",
+      "articleUrl": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Grok",
+        "AI",
+        "Odyssey"
+      ],
+      "publishedAt": "2026-10-25T21:31:16+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Entertainment"
+        }
+      ]
+    },
+    {
+      "slug": "hinge-damage-suspected-to-be-behind-iphone-duo-screen-cracks",
+      "title": "Hinge damage suspected to be behind iPhone Duo screen cracks",
+      "dek": "The cause behind a repeating pattern in the way a very small amount of  iPhone Duo  screen cracks may have been discovered, with a failing element of the hinge believed to be causing the most damage. A sheared-off part of an iPhone Duo hinge mechanism - Image Credit: CuriousHagi/",
+      "aiSummary": "Investigations suggest that a failing component in the iPhone Duo's hinge mechanism is responsible for a recurring pattern of screen cracks. A sheared-off part of the hinge was identified as the source of the damage.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/25/hinge-damage-suspected-to-be-behind-iphone-duo-screen-cracks?utm_source=rss",
+      "category": "Hardware",
+      "filterTags": [
+        "iPhone Duo",
+        "Hinge",
+        "Screen Cracks",
+        "CuriousHagi"
+      ],
+      "publishedAt": "2026-10-25T21:28:39+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "nanbeige-releases-nanbeige4-3-33b-a-33b-open-agentic-coding-model",
+      "title": "Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model",
+      "dek": "Nanbeige LLM Lab released Nanbeige4.3-33B, a 33B dense Apache 2.0 model with 512K context. It reports 80.9 on Terminal-Bench 2.1 and will teach the upcoming Nanbeige4.3-3B. \n The post  Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model  appeared first on  MarkTech",
+      "aiSummary": "Nanbeige LLM Lab has released Nanbeige4.3-33B, a dense 33B parameter model licensed under Apache 2.0 that supports a 512K context window. The model achieves a score of 80.9 on Terminal-Bench 2.1 and is intended to train the upcoming Nanbeige4.3-3B model.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/",
+      "category": "AI",
+      "filterTags": [
+        "Nanbeige",
+        "Nanbeige4.3-33B",
+        "Apache 2.0",
+        "Terminal-Bench"
+      ],
+      "publishedAt": "2026-10-25T21:15:21+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "LLMs"
+        }
+      ]
+    },
+    {
+      "slug": "toyota-takes-on-tesla-and-china-in-humanoid-robot-race",
+      "title": "Toyota takes on Tesla and China in humanoid robot race",
+      "dek": "Japanese group uses 20 years of research to commercialise intelligent robots",
+      "aiSummary": "Toyota is leveraging two decades of research to commercialize intelligent humanoid robots. The Japanese automaker aims to compete directly with Tesla and Chinese manufacturers in this emerging market.",
+      "articleUrl": "https://www.ft.com/content/8bf93407-6b93-4ebb-b54b-f290ebd563e3?syn-25a6b1a6=1",
+      "category": "Robotics",
+      "filterTags": [
+        "Toyota",
+        "Tesla",
+        "humanoid robots",
+        "China"
+      ],
+      "publishedAt": "2026-10-25T21:00:06+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Robotics"
+        },
+        {
+          "name": "Automotive"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "sunday-reboot-physical-logos-and-a-monumental-screw-up",
+      "title": "Sunday Reboot: Physical logos and a monumental screw-up",
+      "dek": "In this week's Sunday Reboot,  Apple Music's  chunky logo takes a bath, and one heck of a security snafu. The rebrand of Apple Music - Image Credit: Apple Sunday Reboot is a weekly column covering some of the lighter stories within the Apple reality distortion field from the past",
+      "aiSummary": "The article discusses the rebranding of Apple Music, specifically highlighting its new chunky logo. It also addresses a significant security incident described as a monumental screw-up.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/25/sunday-reboot-physical-logos-and-a-monumental-screw-up?utm_source=rss",
+      "category": "Branding",
+      "filterTags": [
+        "Apple Music",
+        "Apple",
+        "Security"
+      ],
+      "publishedAt": "2026-10-25T20:11:18+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Branding"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "ai-weekly-issue-541-big-tech-reports-ai-spending-wednesday-as-coreweave-debt-hits-distress",
+      "title": "AI Weekly Issue #541: Big Tech reports AI spending Wednesday as CoreWeave debt hits distress",
+      "dek": "This issue looks ahead. On Wednesday the Fed announces its rate decision, then Microsoft and Alphabet report after the close. Amazon follows on Thursday. Investors want to know whether AI spending is still paying off, and the credit market is already nervous: insurance against a ",
+      "aiSummary": "The issue previews the Fed's rate decision on Wednesday, followed by AI spending reports from Microsoft and Alphabet after market close, with Amazon expected to report on Thursday. Investors are questioning whether AI spending continues to yield returns, while the credit market shows signs of nervousness.",
+      "articleUrl": "https://aiweekly.co/issues/big-tech-reports-ai-spending-wednesday-as-coreweave-debt",
+      "category": "AI",
+      "filterTags": [
+        "Microsoft",
+        "Alphabet",
+        "Amazon",
+        "CoreWeave",
+        "Fed"
+      ],
+      "publishedAt": "2026-10-25T00:00:00+00:00",
+      "publisher": {
+        "name": "AI Weekly",
+        "domain": "aiweekly.co",
+        "website": "https://aiweekly.co/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=aiweekly.co&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=aiweekly.co&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    }
+  ]
+}
