@@ -1,0 +1,1465 @@
+{
+  "news": [
+    {
+      "slug": "jim-cramer-warns-this-overlooked-danger-could-threaten-the-market-rally",
+      "title": "Jim Cramer warns this overlooked danger could threaten the market rally",
+      "dek": "CNBC’s Jim Cramer warned that a flood of massive IPOs could threaten the bull market's rally.",
+      "aiSummary": "CNBC's Jim Cramer warned that a surge in large Initial Public Offerings (IPOs) poses a threat to the current bull market rally. He identified this influx of new stock listings as an overlooked danger that could undermine the ongoing market gains.",
+      "articleUrl": "https://www.cnbc.com/2026/10/26/jim-cramer-ipos-capital-raises-bull-market.html",
+      "category": "Finance",
+      "filterTags": [
+        "Jim Cramer",
+        "CNBC",
+        "IPO",
+        "Bull Market"
+      ],
+      "publishedAt": "2026-10-26T22:09:35+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Markets"
+        }
+      ]
+    },
+    {
+      "slug": "b11912-llama-enable-moe-amax-rescaling-for-laguna-31147",
+      "title": "b11912: llama : enable moe amax rescaling for laguna (#31147)",
+      "dek": "llama : enable moe amax rescaling for laguna \n \n Assisted-by: Devin \n \n llama : declare laguna sm tensor support",
+      "aiSummary": "The update enables Moe amax rescaling for the Laguna model within the llama codebase. It also declares support for Laguna SM tensors.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11912",
+      "category": "Machine Learning",
+      "filterTags": [
+        "llama",
+        "Laguna",
+        "Moe",
+        "Devin"
+      ],
+      "publishedAt": "2026-10-26T22:04:19+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "the-high-price-of-india-s-iphone-manufacturing-boom",
+      "title": "The High Price of India’s iPhone Manufacturing Boom",
+      "dek": "India now makes one in four iPhones, but its dependence on imported components remains substantial. Bloomberg Opinion columnist Andy Mukherjee says the country's manufacturing gains may not justify the growing taxpayer subsidies needed to replicate China's success. (Source: Bloom",
+      "aiSummary": "India currently manufactures one in four iPhones, yet it remains heavily reliant on imported components. Bloomberg Opinion columnist Andy Mukherjee argues that the country's manufacturing achievements may not be worth the increasing taxpayer subsidies required to emulate China's success.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-26/the-high-price-of-india-s-iphone-manufacturing-boom",
+      "category": "Economics",
+      "filterTags": [
+        "India",
+        "iPhone",
+        "Apple",
+        "Bloomberg",
+        "Andy Mukherjee",
+        "Manufacturing"
+      ],
+      "publishedAt": "2026-10-26T22:01:03+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Economics"
+        },
+        {
+          "name": "Manufacturing"
+        },
+        {
+          "name": "Trade Policy"
+        }
+      ]
+    },
+    {
+      "slug": "spain-eases-data-center-energy-rules-in-win-for-big-tech",
+      "title": "Spain Eases Data Center Energy Rules in Win for Big Tech",
+      "dek": "Spain is easing rules for data center power usage after an initial government proposal faced strong industry backlash.",
+      "aiSummary": "Spain has decided to loosen restrictions on data center power usage following significant opposition from the industry. This policy shift reverses an earlier government proposal that had drawn strong criticism from tech firms.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-26/spain-eases-data-center-energy-rules-in-win-for-big-tech",
+      "category": "Energy",
+      "filterTags": [
+        "Spain",
+        "Data Centers",
+        "Energy Policy",
+        "Big Tech"
+      ],
+      "publishedAt": "2026-10-26T22:00:10+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Energy"
+        },
+        {
+          "name": "Technology Policy"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "the-us-ai-labs-mapped-founders-revenue-and-the-money-behind-them",
+      "title": "The US AI Labs, Mapped: Founders, Revenue and the Money Behind Them",
+      "dek": "A visual guide to American AI companies, their founders, earnings, and investors.",
+      "aiSummary": "The article provides a mapped overview of US-based AI laboratories. It details the founders, revenue figures, and financial backers associated with these organizations.",
+      "articleUrl": "https://codingplans.dev/briefs/us-model-labs-part-1/",
+      "category": "AI",
+      "filterTags": [
+        "US AI Labs",
+        "Founders",
+        "Revenue",
+        "Investors"
+      ],
+      "publishedAt": "2026-10-26T21:48:19+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Venture Capital"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "wall-st-banksline-up-63b-to-finance-broadcom-ai-chips-for-anthropic",
+      "title": "Wall St banksline up $63B to finance Broadcom AI chips for Anthropic",
+      "dek": "Major Wall Street banks have agreed to provide $63 billion in funding to support Broadcom's production of AI chips for Anthropic.",
+      "aiSummary": "Wall Street banks have arranged $63 billion in financing to support Broadcom's manufacturing of AI chips specifically for Anthropic. This financial arrangement is designed to fund the production of specialized hardware required for Anthropic's artificial intelligence operations.",
+      "articleUrl": "https://www.reuters.com/legal/transactional/wall-street-banks-blackstone-line-up-63-billion-finance-broadcom-chips-anthropic-2026-10-26/",
+      "category": "AI",
+      "filterTags": [
+        "Broadcom",
+        "Anthropic",
+        "AI chips",
+        "Wall Street"
+      ],
+      "publishedAt": "2026-10-26T21:48:01+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "police-pulling-people-over-because-ai-deems-their-driving-patterns-suspicious",
+      "title": "Police Pulling People over Because AI Deems Their Driving Patterns \"Suspicious\"",
+      "dek": "Law enforcement is stopping drivers based on AI flags for unusual behavior.",
+      "aiSummary": "Police are increasingly using artificial intelligence to identify and stop drivers whose patterns are flagged as suspicious. This practice involves AI systems analyzing driving data to determine which vehicles warrant a traffic stop.",
+      "articleUrl": "https://www.aclu.org/news/privacy-technology/ai-driven-police-stops",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Law Enforcement",
+        "Traffic Stops"
+      ],
+      "publishedAt": "2026-10-26T21:45:23+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Public Safety"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "airtrunk-secures-3-billion-green-loan-for-sydney-data-center",
+      "title": "AirTrunk Secures $3 Billion Green Loan for Sydney Data Center",
+      "dek": "AirTrunk secured a A$4.25 billion ($3 billion) green loan to finance the development of a Sydney data center campus, a signal of confidence in a sector that’s taken a slew of hits in recent weeks.",
+      "aiSummary": "AirTrunk has secured a green loan worth A$4.25 billion, or $3 billion, to fund the construction of a data center campus in Sydney. This financial move indicates confidence in the data center sector despite recent challenges.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-26/airtrunk-secures-3-billion-green-loan-for-sydney-data-center",
+      "category": "Data Centers",
+      "filterTags": [
+        "AirTrunk",
+        "Green Loan",
+        "Sydney",
+        "Data Center"
+      ],
+      "publishedAt": "2026-10-26T21:43:25+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Data Centers"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "don-t-wait-to-update-ios-27-2-brings-security-fixes-over-130-vulnerabilities",
+      "title": "Don't wait to update: iOS 27.2 brings security fixes over 130 vulnerabilities",
+      "dek": "Apple's  iOS 27.2  update protects your data and stops malicious apps from accessing your camera and Bluetooth without permission. Here's why you should update. iOS 27.2 includes a fix that stops apps from accessing your iPhone's camera system. On Monday, only days after the  iPh",
+      "aiSummary": "Apple's iOS 27.2 update addresses over 130 vulnerabilities to enhance device security. The patch specifically prevents malicious applications from accessing the iPhone's camera and Bluetooth without user permission.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/26/dont-wait-to-update-ios-272-brings-security-fixes-over-130-vulnerabilities?utm_source=rss",
+      "category": "Mobile",
+      "filterTags": [
+        "Apple",
+        "iOS 27.2",
+        "Security",
+        "Camera",
+        "Bluetooth"
+      ],
+      "publishedAt": "2026-10-26T21:41:55+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Mobile"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "why-anthropic-s-ipo-prospectus-is-missing-so-many-key-figures",
+      "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
+      "dek": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
+      "aiSummary": "Anthropic's S-1 filing, which is hundreds of pages long, omits several financial details. An analyst told WIRED that the company owes investors more information.",
+      "articleUrl": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
+      "category": "Finance",
+      "filterTags": [
+        "Anthropic",
+        "S-1 filing",
+        "IPO"
+      ],
+      "publishedAt": "2026-10-26T21:27:15+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "b11910",
+      "title": "b11910",
+      "dek": "opencl: write KV-cache views in set_tensor so a state restore is not dropped ( #30471 ) \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/60106982 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silicon (arm64",
+      "aiSummary": "This release, identified as b11910, includes a fix for the OpenCL backend in llama.cpp. The update ensures that KV-cache views are written in set_tensor to prevent state restoration from being dropped.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11910",
+      "category": "AI",
+      "filterTags": [
+        "llama.cpp",
+        "OpenCL",
+        "KV-cache",
+        "ggml"
+      ],
+      "publishedAt": "2026-10-26T21:23:36+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "b11909",
+      "title": "b11909",
+      "dek": "hexagon: MUL_MAT_ID row skipping optimizations and improvements ( #31169 ) \n \n \n hex-mmid: vectorize skipped row zeroing and added zeroing to fused MM_ID_NX \n \n \n hex-mmid: remove scalar div \n \n \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/",
+      "aiSummary": "This update introduces row skipping optimizations and improvements to the MUL_MAT_ID operation within the Hexagon backend. It also vectorizes the zeroing of skipped rows, adds zeroing to fused MM_ID_NX operations, and removes scalar division.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11909",
+      "category": "Machine Learning",
+      "filterTags": [
+        "Hexagon",
+        "MUL_MAT_ID",
+        "ggml",
+        "llama.app"
+      ],
+      "publishedAt": "2026-10-26T21:04:08+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Performance Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "apple-s-ios-27-2-update-offers-major-siri-ai-upgrades-dual-camera-support-for-facetime",
+      "title": "Apple’s iOS 27.2 update offers major Siri AI upgrades, dual camera support for FaceTime",
+      "dek": "iOS 27.2 is the first major update for the current OS. Here’s what’s inside and what happened to iOS 27.1.",
+      "aiSummary": "iOS 27.2 is the first major update for the current operating system, featuring major upgrades to Siri AI and dual camera support for FaceTime. The release also addresses the status of the previously mentioned iOS 27.1 version.",
+      "articleUrl": "https://www.zdnet.com/tech/apple-ios-27-2-update-siri-ai-facetime-dual-cameras/",
+      "category": "Mobile",
+      "filterTags": [
+        "Apple",
+        "iOS 27.2",
+        "Siri",
+        "FaceTime"
+      ],
+      "publishedAt": "2026-10-26T20:52:35+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Mobile"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "last-chance-to-get-every-live-course-in-one-membership",
+      "title": "Last chance to get every live course in one membership",
+      "dek": "We’ll stop selling ByteByteGo Live annual memberships on October 28 at 2 PM PT. After that, courses will be sold individually.",
+      "aiSummary": "ByteByteGo will stop selling its Live annual membership on October 28 at 2 PM PT. After that, each course will be sold individually.",
+      "articleUrl": "https://blog.bytebytego.com/p/last-chance-to-get-every-live-course",
+      "category": "Education",
+      "filterTags": [
+        "ByteByteGo",
+        "Live"
+      ],
+      "publishedAt": "2026-10-26T20:24:39+00:00",
+      "publisher": {
+        "name": "ByteByteGo",
+        "domain": "bytebytego.com",
+        "website": "https://bytebytego.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bytebytego.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bytebytego.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Education"
+        },
+        {
+          "name": "E-Learning"
+        },
+        {
+          "name": "Subscription Services"
+        }
+      ]
+    },
+    {
+      "slug": "microsoft-offers-buyouts-to-60-000-staff",
+      "title": "Microsoft offers buyouts to 60,000 staff",
+      "dek": "Tech giant moves to control costs and it spends up to $175bn on AI infrastructure this year",
+      "aiSummary": "Microsoft is offering buyouts to 60,000 staff as part of cost‑control measures, while also investing up to $175 billion in AI infrastructure this year.",
+      "articleUrl": "https://www.ft.com/content/2ef29406-f2f8-413f-81f6-5ae098c97569?syn-25a6b1a6=1",
+      "category": "Technology",
+      "filterTags": [
+        "Microsoft",
+        "AI infrastructure"
+      ],
+      "publishedAt": "2026-10-26T20:22:52+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Business"
+        },
+        {
+          "name": "Artificial Intelligence"
+        }
+      ]
+    },
+    {
+      "slug": "the-key-numbers-from-anthropic-s-ipo-filing",
+      "title": "The Key Numbers From Anthropic’s IPO Filing",
+      "dek": "We broke down the A.I. company’s key figures, which give insight into the health of its business, its future plans and who’s in charge.",
+      "aiSummary": "The article analyzes the key financial figures in Anthropic's IPO filing to provide insight into the company's business health and future plans. It also highlights information regarding the leadership structure of the A.I. company.",
+      "articleUrl": "https://www.nytimes.com/2026/10/26/technology/anthropic-business-key-numbers.html",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "IPO",
+        "A.I."
+      ],
+      "publishedAt": "2026-10-26T20:21:28+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "microsoft-offers-buyouts-to-60-000-employees-as-it-spends-on-a-i",
+      "title": "Microsoft Offers Buyouts to 60,000 Employees as It Spends on A.I.",
+      "dek": "About a quarter of the tech giant’s employees were eligible for the packages, although the company cautioned it did not expect many employees to sign on.",
+      "aiSummary": "Microsoft offered buyout packages to about 60,000 employees, roughly a quarter of its workforce. The company noted that it did not anticipate many employees would accept the offers.",
+      "articleUrl": "https://www.nytimes.com/2026/10/26/technology/microsoft-buyouts-ai-spending.html",
+      "category": "Software",
+      "filterTags": [
+        "Microsoft",
+        "AI"
+      ],
+      "publishedAt": "2026-10-26T20:15:39+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software"
+        },
+        {
+          "name": "Human Resources"
+        },
+        {
+          "name": "Artificial Intelligence"
+        }
+      ]
+    },
+    {
+      "slug": "apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo",
+      "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+      "dek": "Included is the ability to limit which applications Siri can directly access.",
+      "aiSummary": "Apple's iOS and macOS 27.2 update introduces new Siri AI features, including a setting that lets users restrict which apps Siri can access directly. The update also brings a redesigned Music logo.",
+      "articleUrl": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
+      "category": "Software",
+      "filterTags": [
+        "Apple",
+        "iOS",
+        "macOS",
+        "Siri",
+        "Music"
+      ],
+      "publishedAt": "2026-10-26T20:04:16+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Mobile"
+        }
+      ]
+    },
+    {
+      "slug": "nanoleaf-ceo-gimmy-chu-on-recent-merger-ai-control-more-on-smart-home-insider",
+      "title": "Nanoleaf CEO Gimmy Chu on recent merger, AI control, & more on Smart Home Insider",
+      "dek": "On this week's episode of the Smart Home Insider podcast, Nanoleaf CEO Gimmy Chu joins to discuss its recent merger and more of the latest news. Smart Home Insider Podcast Earlier in 2026, SwitchBot and Nanoleaf announced a merger to expand their reach into the smart home. Gimmy ",
+      "aiSummary": "Nanoleaf CEO Gimmy Chu appeared on the Smart Home Insider podcast to discuss the company's recent merger with SwitchBot. The conversation covered the strategic goals of the merger to expand smart home reach and the integration of AI control features.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/26/nanoleaf-ceo-gimmy-chu-on-recent-merger-ai-control-more-on-smart-home-insider?utm_source=rss",
+      "category": "Smart Home",
+      "filterTags": [
+        "Nanoleaf",
+        "SwitchBot",
+        "Smart Home",
+        "AI",
+        "Gimmy Chu"
+      ],
+      "publishedAt": "2026-10-26T20:01:37+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Smart Home"
+        },
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Mergers & Acquisitions"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-s-ipo-s-1-spells-out-a-future-of-promise-and-peril",
+      "title": "Anthropic’s IPO S-1 Spells Out a Future of Promise and Peril",
+      "dek": "The A.I. company took great pains to describe the many benefits that can come from using its Claude chatbot and technology, but also offered up a heavy dose of gloom.",
+      "aiSummary": "Anthropic's S-1 filing highlights the advantages of its Claude chatbot and related technology, while also warning about potential risks and challenges. The company emphasizes both the promise of its AI solutions and the possible pitfalls that could affect its future.",
+      "articleUrl": "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-s1-dario-amodei.html",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Anthropic",
+        "Claude",
+        "AI"
+      ],
+      "publishedAt": "2026-10-26T19:36:40+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "siri-ai-expands-to-five-more-languages-as-eu-users-remain-left-out",
+      "title": "Siri AI expands to five more languages as EU users remain left out",
+      "dek": "French, Japanese, Korean, Portuguese, and Spanish speakers can now use Siri AI to find personal information and carry out multi-step tasks. Siri AI adds five languages with Apple's 27.2 updates On Monday, Apple rolled out its 27.2 software updates to iOS,  iPadOS , macOS, and mor",
+      "aiSummary": "Apple has added French, Japanese, Korean, Portuguese, and Spanish to Siri AI, enabling users to search personal information and perform multi‑step tasks. The 27.2 update was released for iOS, iPadOS, and macOS. The new languages expand Siri AI’s capabilities across multiple platforms.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/26/siri-ai-expands-to-five-more-languages-as-eu-users-remain-left-out?utm_source=rss",
+      "category": "AI",
+      "filterTags": [
+        "Siri AI",
+        "Apple",
+        "iOS",
+        "iPadOS",
+        "macOS"
+      ],
+      "publishedAt": "2026-10-26T19:30:07+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Updates"
+        },
+        {
+          "name": "Mobile OS"
+        }
+      ]
+    },
+    {
+      "slug": "onnx-runtime-v1-31-1",
+      "title": "ONNX Runtime v1.31.1",
+      "dek": "ONNX Runtime 1.31.1 is a patch release that fixes an OpenVINO-enabled Python build regression and corrects WASM Debug external-data tests. These notes cover changes since ONNX Runtime 1.31.0. \n Highlights \n \n Fixed a provider-info namespace mismatch that caused compilation failur",
+      "aiSummary": "ONNX Runtime 1.31.1 is a patch release that resolves a regression in the OpenVINO-enabled Python build and fixes WASM Debug external-data tests. The update also corrects a provider-info namespace mismatch that previously caused compilation failures.",
+      "articleUrl": "https://github.com/microsoft/onnxruntime/releases/tag/v1.31.1",
+      "category": "Machine Learning",
+      "filterTags": [
+        "ONNX Runtime",
+        "OpenVINO",
+        "Python",
+        "WASM"
+      ],
+      "publishedAt": "2026-10-26T19:29:51+00:00",
+      "publisher": {
+        "name": "microsoft",
+        "domain": "github.com",
+        "website": "https://github.com/microsoft/onnxruntime",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "v3-39-0",
+      "title": "v3.39.0",
+      "dek": "3.39.0  (2026-10-26) \n Features \n \n api:  add gpt-6.1-terra model identifier ( #4180 ) ( e8beb1a )",
+      "aiSummary": "The 3.39.0 release, dated 2026-10-26, adds a new GPT-6.1-Terra model identifier to the API. This update is linked to issue #4180 and commit e8beb1a.",
+      "articleUrl": "https://github.com/openai/openai-python/releases/tag/v3.39.0",
+      "category": "AI",
+      "filterTags": [
+        "GPT-6.1-Terra",
+        "API"
+      ],
+      "publishedAt": "2026-10-26T19:14:00+00:00",
+      "publisher": {
+        "name": "openai",
+        "domain": "github.com",
+        "website": "https://github.com/openai/openai-python",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "autonomy-not-flesh-raf-chief-outlines-ai-drone-powered-future",
+      "title": "‘Autonomy, not flesh’: RAF chief outlines AI drone-powered future",
+      "dek": "Air Chief Marshal Harv Smyth says technological advances will reduce need for human involvement in warfare A future Royal Air Force will rely on “autonomy not flesh”, its chief said on Monday as he described plans in which Typhoon fighters are accompanied by four AI-enabled drone",
+      "aiSummary": "Air Chief Marshal Harv Smyth said technological advances will reduce the need for human involvement in warfare. He announced that the Royal Air Force will rely on autonomy, not flesh, and described plans for Typhoon fighters to be accompanied by four AI-enabled drones.",
+      "articleUrl": "https://www.theguardian.com/uk-news/2026/oct/26/royal-air-force-harv-smyth-ai-drone-future",
+      "category": "Defense",
+      "filterTags": [
+        "AI",
+        "drone",
+        "Typhoon",
+        "Royal Air Force"
+      ],
+      "publishedAt": "2026-10-26T19:09:51+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Defense"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Military Aviation"
+        }
+      ]
+    },
+    {
+      "slug": "quoting-jason-koebler",
+      "title": "Quoting Jason Koebler",
+      "dek": "Because big tech platforms essentially do not have customer support and make it impossible for their users to contact a human, many people experiencing run-of-the-mill tech problems have turned to ChatGPT. And, increasingly, ChatGPT is telling people that have normal tech support",
+      "aiSummary": "Many users facing common technical issues have started relying on ChatGPT for assistance due to the lack of accessible human customer support at major tech platforms. Increasingly, the AI is providing guidance for standard tech support problems.",
+      "articleUrl": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
+      "category": "AI",
+      "filterTags": [
+        "ChatGPT",
+        "Big Tech",
+        "Customer Support"
+      ],
+      "publishedAt": "2026-10-26T19:00:25+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Consumer Technology"
+        }
+      ]
+    },
+    {
+      "slug": "ice-plan-to-buy-robot-dogs-spurs-protest-from-hundreds-of-boston-dynamics-employees",
+      "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
+      "dek": "US robotics company stands by ICE deal as more than 300 employees warn of risk.",
+      "aiSummary": "Boston Dynamics has confirmed its agreement with U.S. Immigration and Customs Enforcement (ICE) to supply robot dogs. Over 300 employees have protested, citing potential risks to the company and its reputation.",
+      "articleUrl": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
+      "category": "Robotics",
+      "filterTags": [
+        "Boston Dynamics",
+        "U.S. Immigration and Customs Enforcement",
+        "robot dogs"
+      ],
+      "publishedAt": "2026-10-26T18:50:41+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Robotics"
+        },
+        {
+          "name": "Government"
+        },
+        {
+          "name": "Labor"
+        }
+      ]
+    },
+    {
+      "slug": "microsoft-to-reportedly-offer-buyouts-to-60-000-employees-in-latest-cuts",
+      "title": "Microsoft to reportedly offer buyouts to 60,000 employees in latest cuts",
+      "dek": "Tech company offers buyouts in an effort to reduce costs amid the rising use of AI, according to reports Microsoft announced that it would offer buyouts to 60,000 employees in an effort to reduce costs amid the rising use of artificial intelligence, according to reports, the late",
+      "aiSummary": "Microsoft has announced plans to offer buyouts to 60,000 employees to lower operational costs. This move is attributed to the increasing adoption of artificial intelligence within the company.",
+      "articleUrl": "https://www.theguardian.com/technology/2026/oct/26/microsoft-buyout-offers-ai-cuts",
+      "category": "Corporate Strategy",
+      "filterTags": [
+        "Microsoft",
+        "AI",
+        "buyouts"
+      ],
+      "publishedAt": "2026-10-26T18:44:31+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Corporate Strategy"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "apple-responds-to-user-reports-of-broken-iphone-duo-screens-on-new-foldable-phone",
+      "title": "Apple responds to user reports of broken iPhone Duo screens on new foldable phone",
+      "dek": "Apple on Monday said it was aware of the issue and that it would replace the devices under its AppleCare warranty.",
+      "aiSummary": "Apple acknowledged reports of broken screens on its new iPhone Duo foldable phone. The company said it would replace affected devices under the AppleCare warranty. The issue was reported by users.",
+      "articleUrl": "https://www.cnbc.com/2026/10/26/apple-responds-to-user-reports-of-broken-iphone-duo-screens.html",
+      "category": "Hardware",
+      "filterTags": [
+        "Apple",
+        "iPhone Duo",
+        "AppleCare"
+      ],
+      "publishedAt": "2026-10-26T18:43:25+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Mobile Devices"
+        },
+        {
+          "name": "Customer Support"
+        }
+      ]
+    },
+    {
+      "slug": "fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3",
+      "title": "Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3",
+      "dek": "Fleet-wide computer vision needs a model per camera, not one model for the whole fleet. This post presents a working Amazon SageMaker SDK v3 reference architecture that trains, quality-gates, compiles per-camera models with SageMaker Neo, and versions thousands of them, with an A",
+      "aiSummary": "This article outlines a reference architecture using Amazon SageMaker SDK v3 to handle computer vision tasks across a fleet of cameras. It details a process for training, quality-gating, and compiling individual models for each camera using SageMaker Neo, while managing the versioning of thousands of these distinct models.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3/",
+      "category": "Machine Learning",
+      "filterTags": [
+        "Amazon SageMaker",
+        "SageMaker SDK v3",
+        "SageMaker Neo",
+        "Computer Vision",
+        "Edge Computing"
+      ],
+      "publishedAt": "2026-10-26T17:56:58+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Cloud Infrastructure"
+        },
+        {
+          "name": "Edge Computing"
+        }
+      ]
+    },
+    {
+      "slug": "what-should-the-rules-for-a-i-companies-actually-be-we-asked-the-experts",
+      "title": "What Should the Rules for A.I. Companies Actually Be? We Asked the Experts.",
+      "dek": "AI Now's Senior Director Kate Brennan joined a roundtable discussion with AI experts and leaders, pushing the conversation away from abstract risk and toward the very real harms caused by AI companies willing to gamble with our lives and our economy. \n The post  What Should the R",
+      "aiSummary": "AI Now Senior Director Kate Brennan joined a roundtable with AI experts and leaders to shift the focus from abstract risk to the real harms caused by AI companies that gamble with our lives and economy. The discussion highlighted the need for concrete regulations to address these dangers.",
+      "articleUrl": "https://ainowinstitute.org/news/what-should-the-rules-for-a-i-companies-actually-be-we-asked-the-experts",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AI Now",
+        "AI"
+      ],
+      "publishedAt": "2026-10-26T17:49:25+00:00",
+      "publisher": {
+        "name": "AI Now Institute",
+        "domain": "ainowinstitute.org",
+        "website": "https://ainowinstitute.org/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ainowinstitute.org&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ainowinstitute.org&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Policy"
+        },
+        {
+          "name": "Ethics"
+        }
+      ]
+    },
+    {
+      "slug": "bold-but-sane-what-we-learnt-from-anthropic-s-240-000-word-ipo-filing",
+      "title": "‘Bold but sane’: what we learnt from Anthropic’s 240,000-word IPO filing",
+      "dek": "Prospectus details AI lab’s ‘mission’, $800bn data centre commitments and extraordinary governance structure",
+      "aiSummary": "An AI lab's prospectus details its core mission and significant financial commitments. These commitments include an $800 billion investment in data centers. The document also outlines an extraordinary governance structure for the company.",
+      "articleUrl": "https://www.ft.com/content/a6c43402-719e-4295-ae5f-541edb0aeb29?syn-25a6b1a6=1",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "AI lab",
+        "IPO filing",
+        "data centre"
+      ],
+      "publishedAt": "2026-10-26T17:45:49+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Business"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "will-the-real-anthropic-please-stand-up",
+      "title": "Will the real Anthropic please stand up",
+      "dek": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays",
+      "aiSummary": "Anthropic has filed its IPO prospectus, ending weeks of speculation about its plans to go public. The 335-page document includes a significant section dedicated to outlining potential risks associated with the company.",
+      "articleUrl": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "IPO"
+      ],
+      "publishedAt": "2026-10-26T17:45:43+00:00",
+      "publisher": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "website": "https://www.technologyreview.com/",
+        "logoUrl": "https://www.technologyreview.com/static/media/favicon.1cfcdb44759a0f93ddf5feb5405dd4cc.ico",
+        "faviconUrl": "https://www.technologyreview.com/static/media/favicon.1cfcdb44759a0f93ddf5feb5405dd4cc.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1793050065-serialize-ninja-per-build-directory-instead-of-splitting-it-192251",
+      "title": "viable/strict/1793050065: Serialize ninja per build directory instead of splitting it (#192251)",
+      "dek": "setuptools gives every extension of a project the same  build_temp , and  build_ext -j  compiles them in threads, so two of them write  build.ninja  and run ninja in that one directory at the same time. The second build file replaces the first, and all but one extension comes out",
+      "aiSummary": "Setuptools assigns the same build_temp directory to all extensions, and when building with parallel jobs, multiple extensions write to the same build.ninja file. This race condition causes one build file to overwrite another, so only one extension builds correctly. The issue arises from concurrent writes to a shared build directory.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1793050065",
+      "category": "Python",
+      "filterTags": [
+        "setuptools",
+        "ninja",
+        "Python",
+        "build_ext",
+        "build_temp"
+      ],
+      "publishedAt": "2026-10-26T17:16:02+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Python"
+        },
+        {
+          "name": "Build Systems"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1793048004-mps-migrate-logit-to-metal-202000",
+      "title": "viable/strict/1793048004: [MPS] Migrate logit to Metal (#202000)",
+      "dek": "Perf: \n \n \n \n Op (M5 Pro, us/call) \n Input \n fp32 before -> after \n bf16 before -> after \n \n \n \n \n torch.logit(x) \n (256, 256) \n 13.5 -> 2.2 (6.08x) \n 13.6 -> 1.8 (7.61x) \n \n \n torch.logit(x) \n (1024, 1024) \n 28.3 -> 17.1 (1.66x) \n 26.3 -> 9.3 (2.83x) \n \n \n torch.logit(x) \n (4096",
+      "aiSummary": "This update migrates the logit operation to Metal, resulting in significant performance improvements on M5 Pro hardware. Benchmarks show speedups ranging from 1.66x to 7.61x depending on input size and data type, with the most substantial gains observed in smaller fp32 and bf16 tensors.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1793048004",
+      "category": "Hardware",
+      "filterTags": [
+        "Metal",
+        "PyTorch",
+        "MPS",
+        "logit",
+        "M5 Pro"
+      ],
+      "publishedAt": "2026-10-26T17:00:05+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Performance"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1793046619",
+      "title": "viable/strict/1793046619",
+      "dek": "[ROCm] Fix test_region_device_time and test_load_standalone on ROCm w…",
+      "aiSummary": "A recent update to the ROCm test suite corrects failures in the test_region_device_time and test_load_standalone tests. The changes ensure proper timing and standalone loading behavior on ROCm platforms.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1793046619",
+      "category": "Hardware",
+      "filterTags": [
+        "ROCm"
+      ],
+      "publishedAt": "2026-10-26T16:11:43+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Software Testing"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "gpt-6-1-sol-helps-coderabbit-strengthen-security-across-complex-codebases",
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "dek": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+      "aiSummary": "CodeRabbit utilizes GPT-6.1 Sol to identify security risks within complex codebases. The platform's security agent assists developers in reviewing these findings and suggested corrections.",
+      "articleUrl": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "category": "AI",
+      "filterTags": [
+        "GPT-6.1 Sol",
+        "CodeRabbit",
+        "Security Agent"
+      ],
+      "publishedAt": "2026-10-26T13:45:00+00:00",
+      "publisher": {
+        "name": "OpenAI",
+        "domain": "openai.com",
+        "website": "https://openai.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "chatgpt-s-expanding-world-of-work",
+      "title": "ChatGPT’s expanding world of work",
+      "dek": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+      "aiSummary": "OpenAI Signals data offers insights into 165 work activities across nearly 100 countries. This data reveals how individuals are utilizing ChatGPT for work and tracks changes in its usage over time.",
+      "articleUrl": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI Signals",
+        "ChatGPT",
+        "OpenAI"
+      ],
+      "publishedAt": "2026-10-26T10:00:00+00:00",
+      "publisher": {
+        "name": "OpenAI",
+        "domain": "openai.com",
+        "website": "https://openai.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Workforce"
+        },
+        {
+          "name": "Data Analysis"
+        },
+        {
+          "name": "Technology Adoption"
+        }
+      ]
+    },
+    {
+      "slug": "how-ultrafast-cut-incident-investigation-from-hours-to-minutes-at-openai",
+      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "dek": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+      "aiSummary": "OpenAI engineers utilize Codex Ultrafast to significantly accelerate incident investigation, reducing the process from hours to minutes. The tool also supports faster security analysis, code refactoring, and daily workflow tasks.",
+      "articleUrl": "https://openai.com/index/openai-cut-incident-investigation",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "Codex Ultrafast",
+        "Incident Investigation",
+        "Security Analysis"
+      ],
+      "publishedAt": "2026-10-26T07:00:00+00:00",
+      "publisher": {
+        "name": "OpenAI",
+        "domain": "openai.com",
+        "website": "https://openai.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Developer Tools"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "gharp-real-time-gaussian-head-animation-from-large-scale-reconstruction-prior",
+      "title": "GHARP: Real-Time Gaussian Head Animation from Large-Scale Reconstruction Prior",
+      "dek": "We present GHARP (Real-time Gaussian Head Animation from Large-scale Reconstruction Prior), a method that animates 3D human heads in real time from a few input images of a subject and a driving expression signal. We decouple the problem into an identity stage that builds a repres",
+      "aiSummary": "GHARP is a new technique that animates 3D human heads in real time from only a few input images and a driving expression signal. The method separates the task into an identity stage that builds a representation of the subject and a motion stage that applies the expression. It relies on a large‑scale reconstruction prior to achieve realistic, real‑time results.",
+      "articleUrl": "https://machinelearning.apple.com/research/gharp-head-animation",
+      "category": "Computer Vision",
+      "filterTags": [
+        "GHARP",
+        "Gaussian",
+        "3D face animation",
+        "real-time",
+        "reconstruction prior"
+      ],
+      "publishedAt": "2026-10-26T00:00:00+00:00",
+      "publisher": {
+        "name": "Apple",
+        "domain": "machinelearning.apple.com",
+        "website": "https://machinelearning.apple.com/",
+        "logoUrl": "https://machinelearning.apple.com/favicon.ico",
+        "faviconUrl": "https://machinelearning.apple.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Computer Vision"
+        },
+        {
+          "name": "Graphics"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "will-ai-expose-the-rickety-infrastructure-of-the-internet",
+      "title": "Will AI expose the rickety infrastructure of the internet?",
+      "dek": "The moment you realize the internet is \"held together by glue and dreams.\"",
+      "aiSummary": "The article suggests that the internet is currently maintained through makeshift and unreliable methods, described as being held together by glue and dreams. It posits that the rise of AI may expose these structural weaknesses and the rickety nature of the existing infrastructure.",
+      "articleUrl": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Internet Infrastructure"
+      ],
+      "publishedAt": "2026-10-24T20:15:33+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Networking"
+        }
+      ]
+    },
+    {
+      "slug": "the-big-tech-defectors-you-re-not-hearing-about",
+      "title": "The big tech defectors you’re not hearing about",
+      "dek": "AI Now's journalist in residence Brian Merchant reflects on the People's AI Assembly, held in NYC on October 19th. \n The post  The big tech defectors you’re not hearing about  appeared first on  AI Now Institute .",
+      "aiSummary": "Brian Merchant, a journalist in residence at AI Now, provided his reflections on the People's AI Assembly. This event was held in New York City on October 19th, and his commentary was originally published by the AI Now Institute.",
+      "articleUrl": "https://ainowinstitute.org/news/the-big-tech-defectors-youre-not-hearing-about",
+      "category": "AI",
+      "filterTags": [
+        "AI Now Institute",
+        "People's AI Assembly",
+        "Brian Merchant"
+      ],
+      "publishedAt": "2026-10-23T17:49:35+00:00",
+      "publisher": {
+        "name": "AI Now Institute",
+        "domain": "ainowinstitute.org",
+        "website": "https://ainowinstitute.org/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ainowinstitute.org&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ainowinstitute.org&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Journalism"
+        }
+      ]
+    },
+    {
+      "slug": "apocalypse-now-and-then-author-arundhati-roy-on-artificial-intelligence-capitalism-more",
+      "title": "“Apocalypse Now and Then”: Author Arundhati Roy on Artificial Intelligence, Capitalism & More",
+      "dek": "Following the People's AI Assembly, acclaimed author Arundhati Roy joins Amy Goodman and Nermeen Shaikh to discuss the rise of artificial intelligence, which she calls \"capitalism's final destination.\" \n The post  “Apocalypse Now and Then”: Author Arundhati Roy on Artificial Inte",
+      "aiSummary": "Author Arundhati Roy discusses the rise of artificial intelligence with Amy Goodman and Nermeen Shaikh following the People's AI Assembly. She characterizes AI as 'capitalism's final destination' during the conversation.",
+      "articleUrl": "https://ainowinstitute.org/news/apocalypse-now-and-then-author-arundhati-roy-on-artificial-intelligence-capitalism-more",
+      "category": "AI",
+      "filterTags": [
+        "Arundhati Roy",
+        "Artificial Intelligence",
+        "Capitalism",
+        "People's AI Assembly"
+      ],
+      "publishedAt": "2026-10-22T17:54:19+00:00",
+      "publisher": {
+        "name": "AI Now Institute",
+        "domain": "ainowinstitute.org",
+        "website": "https://ainowinstitute.org/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ainowinstitute.org&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ainowinstitute.org&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Society"
+        },
+        {
+          "name": "Economics"
+        }
+      ]
+    }
+  ]
+}
