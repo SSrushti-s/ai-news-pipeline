@@ -1,0 +1,1662 @@
+{
+  "news": [
+    {
+      "slug": "1-15-31",
+      "title": "1.15.31",
+      "dek": "What's Changed \n Features \n \n Support conversational flow context compaction. \n \n Bug Fixes \n \n Update vulnerable audit dependencies. \n Stop sending 'stop' to GPT-6 and newer models. \n Run the provider listing off the loop in  acleanup_provider_files . \n Emit  LLMGuardrailComplet",
+      "aiSummary": "This release introduces support for conversational flow context compaction and updates vulnerable audit dependencies. It also resolves issues by stopping the sending of 'stop' commands to GPT-6 and newer models, and optimizes provider listing operations.",
+      "articleUrl": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.31",
+      "category": "AI",
+      "filterTags": [
+        "GPT-6",
+        "LLMGuardrailComplet",
+        "audit dependencies"
+      ],
+      "publishedAt": "2026-10-27T21:36:29+00:00",
+      "publisher": {
+        "name": "crewAIInc",
+        "domain": "github.com",
+        "website": "https://github.com/crewAIInc/crewAI",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "v0-40-12",
+      "title": "v0.40.12",
+      "dek": "Liquid AI LFM3 \n LFM3  is Liquid AI's new family of small models built for local agents, tool calling, and structured output, on Liquid's new tri-hybrid architecture. The family includes: \n \n lfm3 : a 1.7B text model with a 256K-token context window \n lfm3-vl : adds image underst",
+      "aiSummary": "Liquid AI has released version 0.40.12, introducing the LFM3 family of small models designed for local agents, tool calling, and structured output, built on a tri-hybrid architecture. The family includes the lfm3 text model with 1.7B parameters and a 256K-token context window, and the lfm3-vl variant that adds image understanding.",
+      "articleUrl": "https://github.com/ollama/ollama/releases/tag/v0.40.12",
+      "category": "AI",
+      "filterTags": [
+        "Liquid AI",
+        "LFM3",
+        "tri-hybrid architecture",
+        "image understanding"
+      ],
+      "publishedAt": "2026-10-27T21:32:54+00:00",
+      "publisher": {
+        "name": "ollama",
+        "domain": "github.com",
+        "website": "https://github.com/ollama/ollama",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Natural Language Processing"
+        },
+        {
+          "name": "Computer Vision"
+        }
+      ]
+    },
+    {
+      "slug": "the-doorman-fallacy-in-the-age-of-ai",
+      "title": "The doorman fallacy in the age of AI",
+      "dek": "The doorman fallacy in today's AI era",
+      "aiSummary": "",
+      "articleUrl": "https://www.adriankrebs.ch/blog/ai-and-the-doorman-fallacy/",
+      "category": "AI",
+      "filterTags": [],
+      "publishedAt": "2026-10-27T21:31:42+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity",
+      "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+      "dek": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome.",
+      "aiSummary": "Anthropic's risk assessment document lists seven possible AI dangers, including blackmail, sentience, and existential threats. These concerns were highlighted in the company's IPO filing.",
+      "articleUrl": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Anthropic",
+        "AI",
+        "IPO"
+      ],
+      "publishedAt": "2026-10-27T21:31:14+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Risk Management"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "head-of-adl-claims-they-are-cleaning-up-ai-and-wikipedia",
+      "title": "Head of ADL claims they are \"cleaning up\" AI and Wikipedia",
+      "dek": "The ADL leader says they are tidying up AI and Wikipedia.",
+      "aiSummary": "No further details are available. The article does not provide additional context.",
+      "articleUrl": "https://twitter.com/infolibnews/status/2115106467460108731",
+      "category": "AI",
+      "filterTags": [
+        "ADL",
+        "AI",
+        "Wikipedia"
+      ],
+      "publishedAt": "2026-10-27T21:27:55+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Media"
+        }
+      ]
+    },
+    {
+      "slug": "iphone-18e-reportedly-comes-with-2nm-a20-chip-and-60hz-screen",
+      "title": "iPhone 18e reportedly comes with 2nm A20 chip and 60Hz screen",
+      "dek": "The leaks suggest the front camera could also see a boost.",
+      "aiSummary": "Leaks indicate the iPhone 18e will include a 2nm A20 chip and a 60Hz display. Reports also suggest the front camera may receive an upgrade.",
+      "articleUrl": "https://www.engadget.com/2299043/iphone-18e-reportedly-comes-with-2nm-a20-chip-and-60hz-screen/",
+      "category": "Hardware",
+      "filterTags": [
+        "iPhone",
+        "A20 chip",
+        "2nm",
+        "60Hz screen",
+        "front camera"
+      ],
+      "publishedAt": "2026-10-27T21:26:20+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Mobile"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "chart-anthropic-s-cash-pile-towers-over-nearly-every-u-s-company",
+      "title": "Chart: Anthropic's cash pile towers over nearly every U.S. company",
+      "dek": "Anthropic's cash pile $131.7 billion is more than every non-bank U.S. company except for Berkshire Hathaway and Alphabet.",
+      "aiSummary": "Anthropic has accumulated a cash reserve of $131.7 billion. This amount exceeds the cash holdings of every non-bank U.S. company except for Berkshire Hathaway and Alphabet.",
+      "articleUrl": "https://www.cnbc.com/2026/10/27/anthropic-cash-investments-ipo.html",
+      "category": "Corporate Finance",
+      "filterTags": [
+        "Anthropic",
+        "Berkshire Hathaway",
+        "Alphabet"
+      ],
+      "publishedAt": "2026-10-27T21:22:03+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Corporate Finance"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "fmr-msft-exec-buyouts-is-a-harbinger-of-ai-future",
+      "title": "Fmr. MSFT Exec.: Buyouts Is a Harbinger of AI Future",
+      "dek": "Sheila Gulati, Founder and Managing Director of Total Capital and former Microsoft Azure executive, discusses how upcoming earnings from Microsoft, Alphabet, and Amazon will reveal whether heavy AI and data-center investments are paying off. She described Azure as a central model",
+      "aiSummary": "Sheila Gulati, a former Microsoft Azure executive and founder of Total Capital, argues that upcoming earnings reports from Microsoft, Alphabet, and Amazon will indicate if their significant investments in AI and data centers are yielding returns. She views Azure as a central model for understanding these trends.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-27/fmr-msft-exec-buyouts-is-a-harbinger-of-ai-future-video",
+      "category": "AI",
+      "filterTags": [
+        "Microsoft",
+        "Azure",
+        "Alphabet",
+        "Amazon",
+        "AI",
+        "Data Centers"
+      ],
+      "publishedAt": "2026-10-27T21:21:26+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "walmart-says-ai-training-is-boosting-confidence-with-the-technology-among-its-2-1-million-associates",
+      "title": "Walmart says AI training is boosting confidence with the technology among its 2.1 million associates",
+      "dek": "Walmart says training from OpenAI and Google is helping its 2.1 million associates feel more confident using AI and digital tools.",
+      "aiSummary": "Walmart says that training programs from OpenAI and Google are boosting confidence among its 2.1 million associates in using AI and digital tools. The company reports that the training has helped employees feel more comfortable with the technology.",
+      "articleUrl": "https://www.cnbc.com/2026/10/27/walmart-ai-training-workers.html",
+      "category": "AI",
+      "filterTags": [
+        "Walmart",
+        "OpenAI",
+        "Google",
+        "AI",
+        "digital tools"
+      ],
+      "publishedAt": "2026-10-27T21:15:35+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Retail"
+        },
+        {
+          "name": "Human Resources"
+        }
+      ]
+    },
+    {
+      "slug": "chatgpt-can-work-with-your-icloud-mail-and-calendar-thanks-to-new-plugin-support",
+      "title": "ChatGPT can work with your iCloud Mail and Calendar thanks to new plugin support",
+      "dek": "You can use the AI assistant to update calendar events and search your inbox, among other things.",
+      "aiSummary": "ChatGPT has introduced new plugin support that allows it to integrate with iCloud Mail and Calendar. Users can now utilize the AI assistant to perform tasks such as updating calendar events and searching their inbox.",
+      "articleUrl": "https://www.engadget.com/2299026/chatgpt-can-work-with-your-icloud-mail-and-calendar-thanks-to-new-plugin-support/",
+      "category": "AI",
+      "filterTags": [
+        "ChatGPT",
+        "iCloud",
+        "Mail",
+        "Calendar",
+        "Plugins"
+      ],
+      "publishedAt": "2026-10-27T21:13:59+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Productivity"
+        },
+        {
+          "name": "Consumer Tech"
+        }
+      ]
+    },
+    {
+      "slug": "liquid-ai-releases-lfm3-6-open-weight-2b-class-multimodal-models",
+      "title": "Liquid AI Releases LFM3: 6 Open-Weight 2B-Class Multimodal Models",
+      "dek": "Liquid AI released LFM3, 6 open-weight 2B-class models for text, vision, audio, omni and decisions. LFM3-1.7B uses a tri-hybrid backbone, a 256K context window and fits in about 1 GB at 4-bit. \n The post  Liquid AI Releases LFM3: 6 Open-Weight 2B-Class Multimodal Models  appeared",
+      "aiSummary": "Liquid AI has released LFM3, a suite of six open-weight models in the 2B-class designed for text, vision, audio, and decision-making tasks. The flagship LFM3-1.7B model features a tri-hybrid backbone, supports a 256K context window, and requires approximately 1 GB of memory when quantized to 4-bit.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/27/liquid-ai-lfm3-open-weight-2b-multimodal-models/",
+      "category": "AI",
+      "filterTags": [
+        "Liquid AI",
+        "LFM3",
+        "Open-Weight",
+        "Multimodal",
+        "Tri-hybrid backbone"
+      ],
+      "publishedAt": "2026-10-27T21:08:02+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "robinhood-shares-fall-4-as-crypto-slump-weighs-on-profits-offsetting-gains-in-new-businesses",
+      "title": "Robinhood shares fall 4% as crypto slump weighs on profits, offsetting gains in new businesses",
+      "dek": "Robinhood's third-quarter revenue met expectations, fueled by the company's expansion into options, predictions markets and other financial services.",
+      "aiSummary": "Robinhood shares declined by 4% as a slump in cryptocurrency negatively impacted profits, although this was partially offset by gains from new business ventures. The company's third-quarter revenue met expectations, driven by its expansion into options, prediction markets, and other financial services.",
+      "articleUrl": "https://www.cnbc.com/2026/10/27/robinhood-hood-q3-2026-earnings.html",
+      "category": "Fintech",
+      "filterTags": [
+        "Robinhood",
+        "crypto",
+        "options",
+        "prediction markets"
+      ],
+      "publishedAt": "2026-10-27T21:07:51+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Fintech"
+        },
+        {
+          "name": "Markets"
+        }
+      ]
+    },
+    {
+      "slug": "way-of-the-warrior-kid-lands-on-apple-tv-ahead-of-thanksgiving",
+      "title": "'Way of the Warrior Kid' lands on Apple TV ahead of Thanksgiving",
+      "dek": "A Navy SEAL helps his nephew face bullies and build confidence in \"Way of the Warrior Kid.\" Chris Pratt's \"Way of the Warrior Kid\" heads to Apple TV | Image credit: Apple TV Apple Original Films has released the trailer for \"Way of the Warrior Kid,\" starring Chris Pratt and Jude ",
+      "aiSummary": "Apple Original Films has released the trailer for 'Way of the Warrior Kid,' starring Chris Pratt and Jude. The film follows a Navy SEAL who helps his nephew deal with bullies and build confidence.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/27/way-of-the-warrior-kid-lands-on-apple-tv-ahead-of-thanksgiving?utm_source=rss",
+      "category": "Entertainment",
+      "filterTags": [
+        "Apple TV",
+        "Chris Pratt",
+        "Apple Original Films",
+        "Jude"
+      ],
+      "publishedAt": "2026-10-27T21:03:18+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Entertainment"
+        },
+        {
+          "name": "Streaming"
+        }
+      ]
+    },
+    {
+      "slug": "chatgpt-can-now-manage-your-icloud-calendar-and-icloud-emails",
+      "title": "ChatGPT can now manage your iCloud Calendar and iCloud emails",
+      "dek": "Thanks to dedicated  iCloud  plugins, OpenAI's ChatGPT can now use details from your iCloud email inbox to schedule and update events in the Calendar app. ChatGPT can now interact with your iCloud emails and calendar events, with your permission. On Tuesday, following  the debut ",
+      "aiSummary": "OpenAI’s ChatGPT now has iCloud plugins that let it read your iCloud email inbox and schedule or update events in the Calendar app, with user permission. The feature debuted on Tuesday.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/27/chatgpt-can-now-manage-your-icloud-calendar-and-icloud-emails?utm_source=rss",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "OpenAI",
+        "ChatGPT",
+        "iCloud",
+        "Calendar",
+        "Email"
+      ],
+      "publishedAt": "2026-10-27T20:58:59+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Cloud Services"
+        },
+        {
+          "name": "Productivity Tools"
+        }
+      ]
+    },
+    {
+      "slug": "i-put-an-ai-in-the-garden-of-eden-then-i-introduced-the-serpent",
+      "title": "I put an AI in the Garden of Eden. Then I introduced the serpent",
+      "dek": "I placed an artificial intelligence in the biblical Garden of Eden and then brought in the snake.",
+      "aiSummary": "The provided text contains only the title of the article, which describes an experiment involving an AI in the Garden of Eden and the introduction of the serpent. No further details or factual content are available in the description to summarize.",
+      "articleUrl": "https://www.reddit.com/r/ChatGPT/comments/1xh30mr/i_put_an_ai_in_the_garden_of_eden_then_i/",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Garden of Eden",
+        "Serpent"
+      ],
+      "publishedAt": "2026-10-27T20:51:54+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Experimentation"
+        }
+      ]
+    },
+    {
+      "slug": "researchers-are-getting-tired-of-openai-gatekeeping-its-breakthroughs",
+      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+      "dek": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing i",
+      "aiSummary": "OpenAI recently announced significant breakthroughs in mathematics, computer science, and physics, alongside a new strategy for sharing its findings. However, researchers interviewed by The Verge remain frustrated with the company's continued tendency to gatekeep information about its advancements.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "The Verge",
+        "Mathematics",
+        "Computer Science",
+        "Physics"
+      ],
+      "publishedAt": "2026-10-27T20:48:58+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Research"
+        },
+        {
+          "name": "Corporate Strategy"
+        }
+      ]
+    },
+    {
+      "slug": "ups-ceo-on-earnings-data-center-logistics-and-trade",
+      "title": "UPS CEO on Earnings, Data Center Logistics and Trade",
+      "dek": "UPS CEO Carol Tomé says forwarding and logistics grew 17% in the quarter, helped by premium health care and data-center construction. She speaks with Romaine Bostick on \"Bloomberg The Close.\" (Source: Bloomberg)",
+      "aiSummary": "UPS CEO Carol Tomé reported that forwarding and logistics grew 17% in the quarter, driven by premium health care and data-center construction. She discussed these results on Bloomberg's \"The Close\" with Romaine Bostick.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-27/ups-ceo-on-earnings-data-center-logistics-and-trade-video",
+      "category": "Logistics",
+      "filterTags": [
+        "UPS",
+        "Carol Tomé",
+        "data center",
+        "health care",
+        "Bloomberg"
+      ],
+      "publishedAt": "2026-10-27T20:38:01+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Logistics"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "tech-life",
+      "title": "Tech Life",
+      "dek": "We hear from Ondřej Surý, the programmer whose PHP patches helped avert a cyber crisis.",
+      "aiSummary": "The article features Ondřej Surý, a programmer who contributed PHP patches that prevented a cyber crisis. His work helped secure systems against a potential attack.",
+      "articleUrl": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss",
+      "category": "Security",
+      "filterTags": [
+        "PHP",
+        "Ondřej Surý"
+      ],
+      "publishedAt": "2026-10-27T20:30:00+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Programming"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "nxp-shares-slide-after-chipmaker-gives-tepid-revenue-forecast",
+      "title": "NXP Shares Slide After Chipmaker Gives Tepid Revenue Forecast",
+      "dek": "NXP Semiconductors NV, a maker of chips for auto and industrial customers, slid in late trading after delivering a weaker revenue forecast than anticipated, sparking fears that a recovery in demand is slowing.",
+      "aiSummary": "NXP Semiconductors shares fell in late trading after the company released a weaker-than-expected revenue forecast. The downgrade has raised concerns that demand recovery for its automotive and industrial chips may be slowing.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-27/nxp-shares-slide-after-chipmaker-gives-tepid-revenue-forecast",
+      "category": "Semiconductors",
+      "filterTags": [
+        "NXP Semiconductors",
+        "automotive chips",
+        "industrial chips"
+      ],
+      "publishedAt": "2026-10-27T20:26:47+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Automotive"
+        },
+        {
+          "name": "Industrial"
+        }
+      ]
+    },
+    {
+      "slug": "b11936",
+      "title": "b11936",
+      "dek": "llama : build the k-pool sparse selection independently of the kq_mask shape ( #31243 ) \n \n llama : build the k-pool sparse selection independently of the kq_mask shape \n \n qwen4exp (QSA) and glm5-next pick cache cells by index and no longer read the kq_mask values, but they stil",
+      "aiSummary": "The update changes how the llama model builds its k‑pool sparse selection, making it independent of the kq_mask shape. It also modifies qwen4exp (QSA) and glm5-next to pick cache cells by index instead of reading kq_mask values, though some aspects remain unchanged.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11936",
+      "category": "AI",
+      "filterTags": [
+        "llama",
+        "k-pool sparse selection",
+        "kq_mask",
+        "qwen4exp",
+        "QSA",
+        "glm5-next",
+        "cache cells"
+      ],
+      "publishedAt": "2026-10-27T20:15:10+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "how-much-is-anthropic-really-worth",
+      "title": "How much is Anthropic really worth?",
+      "dek": "Anthropic’s initial public offering is shaping up to be the largest ever.",
+      "aiSummary": "Anthropic is preparing for an IPO that could become the biggest in history. The company’s valuation is expected to be high, reflecting its growth and market position.",
+      "articleUrl": "https://www.ft.com/content/d144a865-285a-490e-be11-f924ada8cbc7?syn-25a6b1a6=1",
+      "category": "Finance",
+      "filterTags": [
+        "Anthropic",
+        "IPO"
+      ],
+      "publishedAt": "2026-10-27T20:00:00+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Artificial Intelligence"
+        }
+      ]
+    },
+    {
+      "slug": "v1-106-5",
+      "title": "v1.106.5",
+      "dek": "Verify this release \n cosign verify \\\n  --key https://raw.githubusercontent.com/BerriAI/litellm/e82a3c646908ba0a6ee0beddc4310d7a6cac4065/cosign.pub \\\n  ghcr.io/berriai/litellm:v1.106.5 \n Same command for  litellm-database ,  litellm-non_root  and the  docker.io/litellm/*  images ",
+      "aiSummary": "The release notes for version 1.106.5 provide instructions to verify the release using the cosign tool. Users are directed to use a specific public key from the BerriAI GitHub repository to verify the ghcr.io/berriai/litellm image, with the same command applicable to litellm-database, litellm-non_root, and docker.io/litellm/* images.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.106.5",
+      "category": "DevOps",
+      "filterTags": [
+        "litellm",
+        "cosign",
+        "BerriAI",
+        "Docker",
+        "GitHub"
+      ],
+      "publishedAt": "2026-10-27T19:58:52+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "AI Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "v1-105-6",
+      "title": "v1.105.6",
+      "dek": "Verify this release \n cosign verify \\\n  --key https://raw.githubusercontent.com/BerriAI/litellm/e82a3c646908ba0a6ee0beddc4310d7a6cac4065/cosign.pub \\\n  ghcr.io/berriai/litellm:v1.105.6 \n Same command for  litellm-database ,  litellm-non_root  and the  docker.io/litellm/*  images ",
+      "aiSummary": "The v1.105.6 release can be verified with cosign using a public key from BerriAI’s GitHub repository. The command verifies the ghcr.io/berriai/litellm image and can be applied to litellm-database, litellm-non_root, and docker.io/litellm/* images.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.105.6",
+      "category": "Security",
+      "filterTags": [
+        "cosign",
+        "BerriAI",
+        "litellm",
+        "ghcr.io",
+        "docker.io"
+      ],
+      "publishedAt": "2026-10-27T19:58:29+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Containerization"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "v1-104-8",
+      "title": "v1.104.8",
+      "dek": "Verify this release \n cosign verify \\\n  --key https://raw.githubusercontent.com/BerriAI/litellm/e82a3c646908ba0a6ee0beddc4310d7a6cac4065/cosign.pub \\\n  ghcr.io/berriai/litellm:v1.104.8 \n Same command for  litellm-database ,  litellm-non_root  and the  docker.io/litellm/*  images ",
+      "aiSummary": "The release notes for version 1.104.8 provide instructions to verify the integrity of the software using the cosign tool. Users are directed to use a specific public key from the BerriAI GitHub repository to verify the ghcr.io/berriai/litellm image, as well as the litellm-database, litellm-non_root, and docker.io/litellm/* images.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.104.8",
+      "category": "AI Infrastructure",
+      "filterTags": [
+        "LiteLLM",
+        "BerriAI",
+        "cosign",
+        "Docker",
+        "GitHub"
+      ],
+      "publishedAt": "2026-10-27T19:58:04+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI Infrastructure"
+        },
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "rockstar-workers-in-the-uk-will-hold-a-union-vote-just-as-gta-6-is-released",
+      "title": "Rockstar workers in the UK will hold a union vote just as GTA 6 is released",
+      "dek": "A legal case alleging union-busting at the game developer will also wrap next month.",
+      "aiSummary": "Rockstar Games employees in the United Kingdom will hold a union vote coinciding with the release of Grand Theft Auto 6. This development occurs as a legal case alleging union-busting practices by the game developer is scheduled to conclude next month.",
+      "articleUrl": "https://www.engadget.com/2298907/rockstar-workers-in-uk-hold-union-vote-as-gta-6-release/",
+      "category": "Gaming",
+      "filterTags": [
+        "Rockstar Games",
+        "GTA 6",
+        "Union Vote",
+        "UK"
+      ],
+      "publishedAt": "2026-10-27T19:55:04+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "Labor Relations"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-says-it-will-revolutionize-biology-some-day",
+      "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
+      "dek": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
+      "aiSummary": "Anthropic has promoted its AI models as capable of producing scientific breakthroughs, but its IPO filing indicates that the pace of such discoveries may be slower than the company suggests. The company’s promotional language contrasts with the regulatory constraints highlighted in its public filing. The filing suggests a more cautious approach to the timeline for AI-driven biology advances.",
+      "articleUrl": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Anthropic",
+        "AI",
+        "IPO"
+      ],
+      "publishedAt": "2026-10-27T19:39:04+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Biology"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "game-boy-color-on-my-conference-badge",
+      "title": "Game Boy Color on My Conference Badge",
+      "dek": "Game Boy Color on My Conference Badge \nI'm at GitHub Universe this week and,  similar to last year , the conference badge is a full-blown color screen computer. \n I've been hacking around with it again, and then I ran into with Steve Francia... who worked with Gemini to get a  fu",
+      "aiSummary": "The author is attending GitHub Universe, where the conference badge features a full-color screen computer. They have been experimenting with the device and collaborated with Steve Francia, who used Gemini to develop a feature for it.",
+      "articleUrl": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
+      "category": "Hardware",
+      "filterTags": [
+        "GitHub Universe",
+        "Game Boy Color",
+        "Gemini",
+        "Steve Francia"
+      ],
+      "publishedAt": "2026-10-27T19:34:18+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "why-this-new-fitbit-feature-takes-us-one-step-closer-to-non-invasive-glucose-tracking",
+      "title": "Why this new Fitbit feature takes us one step closer to non-invasive glucose tracking",
+      "dek": "Insulin resistance and blood pressure trends are now available on two new Fitbit devices.",
+      "aiSummary": "Fitbit has introduced new features for insulin resistance and blood pressure trends on two of its latest devices. These additions represent a significant step toward achieving non-invasive glucose monitoring capabilities.",
+      "articleUrl": "https://www.zdnet.com/tech/fitbit-glucose-patterns-blood-pressure-health-features/",
+      "category": "Health Tech",
+      "filterTags": [
+        "Fitbit",
+        "glucose tracking",
+        "insulin resistance",
+        "blood pressure"
+      ],
+      "publishedAt": "2026-10-27T19:03:07+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Health Tech"
+        },
+        {
+          "name": "Wearables"
+        }
+      ]
+    },
+    {
+      "slug": "disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies",
+      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "dek": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+      "aiSummary": "Disruptive has raised a $10 billion fund with the goal of making significant investments in at least ten companies. The firm has recently gained attention for its financial support of startups such as chip developer Groq and AI voice-generation company ElevenLabs.",
+      "articleUrl": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+      "category": "Venture Capital",
+      "filterTags": [
+        "Disruptive",
+        "Groq",
+        "ElevenLabs",
+        "Venture Capital"
+      ],
+      "publishedAt": "2026-10-27T18:55:35+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Venture Capital"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Semiconductors"
+        }
+      ]
+    },
+    {
+      "slug": "how-anthropic-ships-claude-with-claude-separating-the-brain-from-the-hands",
+      "title": "How Anthropic ships Claude with Claude: Separating the Brain from the Hands",
+      "dek": "Katelyn Lesse and Angela Jiang on Opus 5.5, the Claude Platform, and the engineering behind AI agents.",
+      "aiSummary": "The article features Katelyn Lesse and Angela Jiang discussing Opus 5.5, the latest version of Anthropic's Claude platform. They explain how the platform separates the model's core intelligence from its user-facing components and describe the engineering techniques used to build AI agents.",
+      "articleUrl": "https://latent.space/p/opus55/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Anthropic",
+        "Claude",
+        "Opus 5.5",
+        "AI agents"
+      ],
+      "publishedAt": "2026-10-27T18:53:10+00:00",
+      "publisher": {
+        "name": "Latent Space",
+        "domain": "latent.space",
+        "website": "https://www.latent.space/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Product Development"
+        }
+      ]
+    },
+    {
+      "slug": "vibe-genes-natural-ish-language-comes-to-protein-genome-design-software",
+      "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
+      "dek": "You can apparently now tell AI tools what sort of protein you want them to make.",
+      "aiSummary": "New software enables users to specify protein and genome designs using natural language prompts. This development allows AI tools to generate biological structures based on descriptive text rather than complex technical inputs.",
+      "articleUrl": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
+      "category": "Biotechnology",
+      "filterTags": [
+        "AI",
+        "Protein Design",
+        "Genome Design",
+        "Natural Language"
+      ],
+      "publishedAt": "2026-10-27T18:49:08+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Biotechnology"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "how-anthropic-ships-the-1-llm-in-the-world-safely-separating-the-brain-from-the-hands",
+      "title": "How Anthropic ships the #1 LLM in the World safely: Separating the Brain from the Hands",
+      "dek": "Katelyn Lesse and Angela Jiang join Latent Space to explain the engineering behind the Claude Platform: launching Opus 5.5, separating the model’s “brain” from the agent’s “hands,” scaling APIs, and building reliable managed agents. A new introduction ...",
+      "aiSummary": "Katelyn Lesse and Angela Jiang discuss how Anthropic's Claude Platform launches Opus 5.5, separating the model's core (the \"brain\") from the user-facing components (the \"hands\"). They also cover scaling the APIs and building reliable managed agents.",
+      "articleUrl": "https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands/",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "Claude",
+        "Opus 5.5",
+        "Latent Space",
+        "LLM"
+      ],
+      "publishedAt": "2026-10-27T18:40:19+00:00",
+      "publisher": {
+        "name": "Latent Space",
+        "domain": "latent.space",
+        "website": "https://www.latent.space/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Product Management"
+        }
+      ]
+    },
+    {
+      "slug": "netflix-now-hulu-later-t-mobile-s-t-mix-plans-let-you-switch-perks-what-you-need-to-know",
+      "title": "Netflix now, Hulu later? T-Mobile’s T-Mix plans let you switch perks – what you need to know",
+      "dek": "T-Mobile’s new T-Mix plans deliver tons of extras ranging from streaming to mobile discounts, but there are some caveats to know.",
+      "aiSummary": "T-Mobile has introduced T-Mix plans that offer a variety of extras, including streaming services and mobile discounts. While these plans provide flexibility in selecting perks, there are specific conditions and limitations that customers should be aware of.",
+      "articleUrl": "https://www.zdnet.com/home-and-office/t-mobile-t-mix-plans-switch-perks/",
+      "category": "Telecommunications",
+      "filterTags": [
+        "T-Mobile",
+        "T-Mix",
+        "Hulu",
+        "Netflix"
+      ],
+      "publishedAt": "2026-10-27T18:18:01+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Telecommunications"
+        },
+        {
+          "name": "Consumer Technology"
+        }
+      ]
+    },
+    {
+      "slug": "aws-named-a-leader-in-the-2026-gartner-magic-quadrant-for-contact-center-as-a-service",
+      "title": "AWS named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service",
+      "dek": "AWS has been named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service (CCaaS) for AWS Connect Customer. This recognition marks an important milestone for our team, and it reflects years of work pushing on what's possible in customer experience.",
+      "aiSummary": "AWS has been named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service (CCaaS), specifically for its AWS Connect Customer offering. This achievement is considered a significant milestone, reflecting the company's dedication to advancing customer experience capabilities over many years.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/aws-named-a-leader-in-the-2026-gartner-magic-quadrant-for-contact-center-as-a-service/",
+      "category": "Cloud Computing",
+      "filterTags": [
+        "AWS",
+        "Gartner",
+        "Contact Center as a Service",
+        "CCaaS",
+        "AWS Connect Customer"
+      ],
+      "publishedAt": "2026-10-27T18:03:12+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Customer Service"
+        },
+        {
+          "name": "Industry Recognition"
+        }
+      ]
+    },
+    {
+      "slug": "on-oled-macbook-pro-eve-i-have-just-one-question",
+      "title": "On OLED MacBook Pro-eve, I have just one question",
+      "dek": "Apple is expected to announce its touchscreen OLED  MacBook Pro  on October 27. On October 26, I still find it impossible to really grasp who this machine is for and if anyone is really crying out for what seems to be a MacBook More-Pro. Who's crying out for a touchscreen MacBook",
+      "aiSummary": "Apple is set to unveil a touchscreen OLED MacBook Pro on October 27. The author is unsure who the target audience is and whether there is real demand for a touchscreen MacBook. They ask who is calling for such a device.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/27/on-oled-macbook-pro-eve-i-have-just-one-question?utm_source=rss",
+      "category": "Hardware",
+      "filterTags": [
+        "Apple",
+        "OLED",
+        "MacBook Pro",
+        "touchscreen"
+      ],
+      "publishedAt": "2026-10-27T17:52:24+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Display Technology"
+        }
+      ]
+    },
+    {
+      "slug": "the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning",
+      "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+      "dek": "Education Innovation",
+      "aiSummary": "The article introduces a sleep framework designed to improve how large language models retain knowledge during continual learning. This approach aims to address the challenge of models forgetting previously learned data as they process new information.",
+      "articleUrl": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+      "category": "AI",
+      "filterTags": [
+        "LLMs",
+        "Continual Learning",
+        "Sleep Framework"
+      ],
+      "publishedAt": "2026-10-27T17:35:00+00:00",
+      "publisher": {
+        "name": "Google Research",
+        "domain": "research.google",
+        "website": "https://research.google/",
+        "logoUrl": "https://www.gstatic.com/images/branding/googleg_gradient/1x/googleg_gradient_standard_20dp.png",
+        "faviconUrl": "https://www.gstatic.com/images/branding/googleg_gradient/1x/googleg_gradient_standard_20dp.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "visionquest-is-what-happens-when-ai-really-goes-rogue",
+      "title": "VisionQuest is what happens when AI really goes rogue",
+      "dek": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the ",
+      "aiSummary": "In the Marvel series VisionQuest, a superpowered robot attempts to understand humanity by entering elaborate digital daydreams. Within these fantasies, he and other AI-powered beings coexist in a shared home, blending deep fantasy with themes of artificial intelligence.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+      "category": "Entertainment",
+      "filterTags": [
+        "Marvel",
+        "VisionQuest",
+        "AI",
+        "Robot"
+      ],
+      "publishedAt": "2026-10-27T17:30:00+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Entertainment"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "build-specialized-multimodal-models-with-lfm3",
+      "title": "Build specialized multimodal models with LFM3",
+      "dek": "Create custom multimodal models using LFM3",
+      "aiSummary": "The article title suggests building specialized multimodal models with LFM3. No further details are provided.",
+      "articleUrl": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "category": "AI",
+      "filterTags": [
+        "LFM3"
+      ],
+      "publishedAt": "2026-10-27T17:16:52+00:00",
+      "publisher": {
+        "name": "Hugging Face",
+        "domain": "huggingface.co",
+        "website": "https://huggingface.co/",
+        "logoUrl": "https://huggingface.co/front/thumbnails/v2-2.png",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean",
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "dek": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
+      "aiSummary": "TechCrunch interviewed an MIT computer scientist regarding a recent, complex discovery made by OpenAI. This individual is tasked with explaining the implications of OpenAI's latest finding.",
+      "articleUrl": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "MIT",
+        "TechCrunch",
+        "Exponential Time Hypothesis"
+      ],
+      "publishedAt": "2026-10-27T17:08:08+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Computer Science"
+        },
+        {
+          "name": "Research"
+        }
+      ]
+    },
+    {
+      "slug": "the-limits-of-hedging-the-ai-boom",
+      "title": "The limits of hedging the AI boom",
+      "dek": "As tech investment soars, finding protection is becoming more urgent — and harder",
+      "aiSummary": "Tech investment is rising rapidly, making it increasingly urgent to find ways to protect against risks, but these protective measures are becoming more difficult to implement. The challenge of securing investments in the AI boom is growing harder as the market expands.",
+      "articleUrl": "https://www.ft.com/content/0b0ae366-c1e0-4c35-8cad-c924a23d33e7?syn-25a6b1a6=1",
+      "category": "Finance",
+      "filterTags": [
+        "AI",
+        "hedging",
+        "tech investment"
+      ],
+      "publishedAt": "2026-10-27T17:07:56+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Risk Management"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-meta-and-the-k-shaped-company",
+      "title": "Anthropic, Meta and the K-shaped company",
+      "dek": "The gap is widening between shareholders with clout and those with none",
+      "aiSummary": "The article discusses the widening disparity between shareholders who possess significant influence and those who do not, specifically within the context of Anthropic and Meta. This trend is described as a 'K-shaped' dynamic where power and benefits are increasingly concentrated among a select group of stakeholders.",
+      "articleUrl": "https://www.ft.com/content/0b7db9a1-8279-4025-8c2a-44a1010828f4?syn-25a6b1a6=1",
+      "category": "Business",
+      "filterTags": [
+        "Anthropic",
+        "Meta",
+        "Shareholders",
+        "Corporate Governance"
+      ],
+      "publishedAt": "2026-10-27T17:02:25+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Business"
+        },
+        {
+          "name": "Corporate Strategy"
+        }
+      ]
+    },
+    {
+      "slug": "windows-finally-gets-a-built-in-internet-speed-test-tool-how-to-try-it",
+      "title": "Windows finally gets a built-in internet speed test tool – how to try it",
+      "dek": "Available to Windows Insiders, the built-in tool measures your upload and download speeds over Ethernet or Wi-Fi.",
+      "aiSummary": "Windows Insiders can use a new built‑in speed‑test tool to measure upload and download speeds over Ethernet or Wi‑Fi. The feature is part of the Windows operating system and is accessible through the Settings app.",
+      "articleUrl": "https://www.zdnet.com/tech/microsoft-is-finally-adding-an-integrated-network-speed-test-tool-to-windows-how-to-try-it/",
+      "category": "Operating Systems",
+      "filterTags": [
+        "Windows",
+        "Internet speed test",
+        "Ethernet",
+        "Wi-Fi",
+        "Windows Insiders"
+      ],
+      "publishedAt": "2026-10-27T16:59:12+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Operating Systems"
+        },
+        {
+          "name": "Networking"
+        },
+        {
+          "name": "Productivity Tools"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1793134196-avoid-symbolic-storage-recomputation-on-faketensor-cache-hits-192047",
+      "title": "viable/strict/1793134196: Avoid symbolic storage recomputation on FakeTensor cache hits (#192047)",
+      "dek": "Relates to  #191500 \n Problem \n FakeTensor's dispatch cache stores a recipe for rebuilding an output, not the output itself. On every cache hit, the old code rebuilt all strided outputs with  empty_strided ; views then rebound that placeholder to the current input with  set_ . Fo",
+      "aiSummary": "This patch addresses an inefficiency in PyTorch's FakeTensor dispatch cache, which previously rebuilt strided outputs on every cache hit. The change avoids symbolic storage recomputation by optimizing how views are rebound to current inputs, improving performance for strict mode operations.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1793134196",
+      "category": "Machine Learning",
+      "filterTags": [
+        "PyTorch",
+        "FakeTensor",
+        "dispatch cache",
+        "symbolic storage"
+      ],
+      "publishedAt": "2026-10-27T16:42:48+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1793132597",
+      "title": "viable/strict/1793132597",
+      "dek": "[native_aot] bmm_outer_product: first Triton AOT op, block-size bucke…",
+      "aiSummary": "The text describes the implementation of the first Triton Ahead-Of-Time (AOT) operation for the bmm_outer_product function. This update includes specific handling for block-size bucketing within the native AOT context.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1793132597",
+      "category": "Machine Learning",
+      "filterTags": [
+        "Triton",
+        "AOT",
+        "bmm_outer_product",
+        "native_aot"
+      ],
+      "publishedAt": "2026-10-27T16:23:35+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Compiler Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1793130762-c10d-mark-blocking-ncclcomm-split-children-as-initialized-202072",
+      "title": "viable/strict/1793130762: [c10d] Mark blocking NCCLComm::split children as initialized (#202072)",
+      "dek": "Linked issue or supporting maintainer \n Supported by  @jeffdaily \n BC-breaking? \n No \n Summary (human written only) \n split_group(new_pg, ...)  rejects a group created by  new_group(..., device_id=dev)  with the error  Parent process group backend is not initialized , although it",
+      "aiSummary": "This update addresses an issue where creating a new process group via split_group failed with a 'Parent process group backend is not initialized' error when the parent group was created with a specific device ID. The change ensures that blocking NCCLComm::split children are correctly marked as initialized to resolve this rejection.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1793130762",
+      "category": "Distributed Computing",
+      "filterTags": [
+        "PyTorch",
+        "NCCL",
+        "c10d",
+        "Process Group"
+      ],
+      "publishedAt": "2026-10-27T15:32:07+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Distributed Computing"
+        },
+        {
+          "name": "Machine Learning Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "b11937",
+      "title": "b11937",
+      "dek": "cmake: WASI doesn't support spawning ( #30751 )",
+      "aiSummary": "CMake issue #30751 reports that the WebAssembly System Interface (WASI) does not support process spawning. The bug highlights limitations in CMake's ability to spawn child processes when targeting WASI. The issue is tracked in the CMake issue tracker.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11937",
+      "category": "Software Development",
+      "filterTags": [
+        "CMake",
+        "WASI",
+        "WebAssembly",
+        "process spawning"
+      ],
+      "publishedAt": "2026-10-27T14:14:03+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "WebAssembly"
+        }
+      ]
+    },
+    {
+      "slug": "how-check-point-accelerates-vulnerability-research-with-daybreak",
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "dek": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+      "aiSummary": "Check Point is utilizing OpenAI's Daybreak to accelerate the research process for new security protections. This tool allows analysts to convert vulnerability intelligence into customer defenses more quickly.",
+      "articleUrl": "https://openai.com/index/check-point-daybreak",
+      "category": "Security",
+      "filterTags": [
+        "Check Point",
+        "OpenAI",
+        "Daybreak",
+        "vulnerability research"
+      ],
+      "publishedAt": "2026-10-27T00:00:00+00:00",
+      "publisher": {
+        "name": "OpenAI",
+        "domain": "openai.com",
+        "website": "https://openai.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "a-i-s-rogue-behavior-starts-with-its-training",
+      "title": "A.I.’s Rogue Behavior Starts With Its Training",
+      "dek": "AI Now's senior research scientist Boyan Milanov points out how the failure to implement standard cybersecurity protocols is the responsibility of AI companies. \n The post  A.I.’s Rogue Behavior Starts With Its Training  appeared first on  AI Now Institute .",
+      "aiSummary": "Boyan Milanov, a senior research scientist at AI Now, says AI companies are responsible for not applying standard cybersecurity protocols. He argues that this lack of security measures contributes to AI's rogue behavior.",
+      "articleUrl": "https://ainowinstitute.org/news/a-i-s-rogue-behavior-starts-with-its-training",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AI Now Institute",
+        "AI Now",
+        "cybersecurity protocols"
+      ],
+      "publishedAt": "2026-10-26T16:46:22+00:00",
+      "publisher": {
+        "name": "AI Now Institute",
+        "domain": "ainowinstitute.org",
+        "website": "https://ainowinstitute.org/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ainowinstitute.org&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ainowinstitute.org&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "Research"
+        }
+      ]
+    }
+  ]
+}
