@@ -1,0 +1,1728 @@
+{
+  "news": [
+    {
+      "slug": "announcing-soci-indexed-images-for-faster-sagemaker-ai-jobs",
+      "title": "Announcing SOCI-indexed images for faster SageMaker AI jobs",
+      "dek": "Seekable OCI (SOCI) indexing for Amazon SageMaker AI training and processing jobs takes full container image download off the critical path. SageMaker AI lazy-loads your image to start containers in seconds instead of minutes, with no changes to your job definition. See the bench",
+      "aiSummary": "Amazon SageMaker AI now supports Seekable OCI (SOCI) indexing for training and processing jobs, which removes the need to download full container images before starting workloads. This allows containers to launch in seconds rather than minutes by lazy-loading images, requiring no changes to existing job definitions.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-soci-indexed-images-for-faster-sagemaker-ai-jobs/",
+      "category": "Cloud Computing",
+      "filterTags": [
+        "SOCI",
+        "Amazon SageMaker AI",
+        "OCI",
+        "Container Images"
+      ],
+      "publishedAt": "2026-10-27T17:00:39+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "DevOps"
+        }
+      ]
+    },
+    {
+      "slug": "this-tool-can-recover-deleted-ai-chats-from-your-phone-how-it-works",
+      "title": "This tool can recover deleted AI chats from your phone – how it works",
+      "dek": "This new tool proves it’s still best to limit the info you share with chatbots.",
+      "aiSummary": "A new tool has been developed that can recover deleted AI chats from smartphones. The existence of this utility highlights the importance of limiting the amount of personal information shared with chatbots.",
+      "articleUrl": "https://www.zdnet.com/innovation/orisa-tool-recovers-deleted-local-ai-chats-android-phones/",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Chatbots",
+        "Data Recovery",
+        "Mobile Security"
+      ],
+      "publishedAt": "2026-10-27T16:55:54+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Privacy"
+        }
+      ]
+    },
+    {
+      "slug": "fix-evaluation-bias-to-unlock-better-models-on-amazon-bedrock",
+      "title": "Fix evaluation bias to unlock better models on Amazon Bedrock",
+      "dek": "Property Finder found that 96.8% of their vision-AI evaluation labels were inherited from the incumbent model, hiding its true accuracy. See how they built unbiased ground truth, applied evolutionary prompt optimization, and selected a more accurate, cost-effective model on Amazo",
+      "aiSummary": "Property Finder discovered that most of their vision‑AI evaluation labels were copied from the existing model, masking its real performance. They created unbiased ground‑truth data, used evolutionary prompt optimization, and chose a more accurate and cheaper model on Amazon Bedrock.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/fix-evaluation-bias-to-unlock-better-models-on-amazon-bedrock/",
+      "category": "AI",
+      "filterTags": [
+        "Amazon Bedrock",
+        "Property Finder",
+        "vision-AI",
+        "evolutionary prompt optimization"
+      ],
+      "publishedAt": "2026-10-27T16:53:02+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Cloud Computing"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-s-elaborate-plan-to-keep-wall-street-at-bay",
+      "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
+      "dek": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater ris",
+      "aiSummary": "Anthropic is preparing for an IPO with a strategy to access public market capital while maintaining its commitment to safe AI development. The company aims to balance the financial demands of Wall Street with its core mission, despite the increased risks associated with more capable AI models.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "IPO",
+        "Wall Street",
+        "AI Safety"
+      ],
+      "publishedAt": "2026-10-27T16:51:22+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Corporate Strategy"
+        }
+      ]
+    },
+    {
+      "slug": "exowatt-beats-frontier-models-on-accuracy-with-sagemaker-serverless-model-customization",
+      "title": "Exowatt beats frontier models on accuracy with SageMaker serverless model customization",
+      "dek": "In this post, we show how Exowatt used Amazon SageMaker AI serverless model customization to build a repeatable AI pipeline that produces task-specific fine-tuned models for two deployment targets, edge and cloud, achieving higher accuracy than frontier models at up to 49x lower ",
+      "aiSummary": "Exowatt utilized Amazon SageMaker AI serverless model customization to create a repeatable pipeline for generating task-specific fine-tuned models. This approach allows for deployment on both edge and cloud targets, resulting in higher accuracy than frontier models at a significantly lower cost.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/exowatt-beats-frontier-models-on-accuracy-with-sagemaker-serverless-model-customization/",
+      "category": "AI",
+      "filterTags": [
+        "Exowatt",
+        "Amazon SageMaker",
+        "AI",
+        "Fine-tuning",
+        "Edge Computing"
+      ],
+      "publishedAt": "2026-10-27T16:50:55+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "who-needs-ai-psychosis-i-gave-myself-vr-psychosis",
+      "title": "Who needs AI psychosis? I gave myself VR psychosis",
+      "dek": "I tried VR and got psychosis.",
+      "aiSummary": "No article text was provided.",
+      "articleUrl": "https://blog.jacobstechtavern.com/p/vr-psychosis",
+      "category": "Virtual Reality",
+      "filterTags": [],
+      "publishedAt": "2026-10-27T16:45:50+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Virtual Reality"
+        },
+        {
+          "name": "Mental Health"
+        }
+      ]
+    },
+    {
+      "slug": "at-14-justine-tunney-published-software-now-she-makes-ai-models-run-from-a-file",
+      "title": "At 14 Justine Tunney published software. Now she makes AI models run from a file",
+      "dek": "Justine Tunney, who released code at age 14, now creates AI models that operate from a single file.",
+      "aiSummary": "Justine Tunney, a developer who published software at the age of 14, is currently working on enabling AI models to run directly from a file. This approach aims to simplify the deployment and execution of artificial intelligence systems.",
+      "articleUrl": "https://timesofindia.indiatimes.com/education/news/at-14-justine-tunney-was-already-publishing-software-years-later-her-five-year-project-helped-make-local-ai-models-run-from-a-single-file/articleshow/134581627.cms",
+      "category": "AI",
+      "filterTags": [
+        "Justine Tunney",
+        "AI models",
+        "software"
+      ],
+      "publishedAt": "2026-10-27T16:44:50+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "ai-co-authored-commits-3-open-source-projects-in-2023-686-of-874-in-2026",
+      "title": "AI co-authored commits: 3 open-source projects in 2023, 686 of 874 in 2026",
+      "dek": "AI contributed to commits in three open-source projects in 2023, and to 686 of 874 commits in 2026.",
+      "aiSummary": "No article body was provided. Therefore, no further details are available.",
+      "articleUrl": "https://borehole.dev/data/ai-policies",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AI",
+        "open-source"
+      ],
+      "publishedAt": "2026-10-27T16:42:48+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "with-the-new-imac-and-macbook-pro-apple-is-targeting-stubborn-intel-holdouts",
+      "title": "With the new iMac and MacBook Pro, Apple is targeting stubborn Intel holdouts",
+      "dek": "It's been about six years since  Apple Silicon  hardware first started shipping and still Apple will not launch a Mac without stressing how much better it would be if everyone moved on from Intel, please. Insert: the new M6 iMac range. But back in 2020, Apple — and we — thought t",
+      "aiSummary": "Apple has been encouraging users to move away from Intel for about six years, stressing the benefits of its Apple Silicon. The new M6 iMac and MacBook Pro are part of this effort. The article references Apple’s stance and the writer’s perspective from 2020.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/27/with-the-new-imac-and-macbook-pro-apple-is-targeting-stubborn-intel-holdouts?utm_source=rss",
+      "category": "Hardware",
+      "filterTags": [
+        "Apple",
+        "Apple Silicon",
+        "Intel",
+        "M6 iMac",
+        "MacBook Pro"
+      ],
+      "publishedAt": "2026-10-27T16:38:49+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Apple"
+        }
+      ]
+    },
+    {
+      "slug": "autogpt-platform-v0-10-0",
+      "title": "🚀 AutoGPT Platform v0.10.0",
+      "dek": "🔥 What's New? \n ⚠️ Breaking Changes \n \n #15970  - Self-hosted Docker Compose generates its own service passwords per install and won't start without them: run  make init-env  (or the installer) before  docker compose up . PostgreSQL, RabbitMQ, Redis, FalkorDB and ClamAV now liste",
+      "aiSummary": "The AutoGPT Platform v0.10.0 release introduces breaking changes for self-hosted users, requiring the generation of service passwords via 'make init-env' before starting Docker Compose. The update also configures PostgreSQL, RabbitMQ, Redis, FalkorDB, and ClamAV to listen on specific interfaces.",
+      "articleUrl": "https://github.com/Significant-Gravitas/AutoGPT/releases/tag/autogpt-platform-beta-v0.10.0",
+      "category": "AI",
+      "filterTags": [
+        "AutoGPT",
+        "Docker Compose",
+        "PostgreSQL",
+        "RabbitMQ",
+        "Redis",
+        "FalkorDB",
+        "ClamAV"
+      ],
+      "publishedAt": "2026-10-27T16:37:42+00:00",
+      "publisher": {
+        "name": "Significant-Gravitas",
+        "domain": "github.com",
+        "website": "https://github.com/Significant-Gravitas/AutoGPT",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "DevOps"
+        }
+      ]
+    },
+    {
+      "slug": "ripple-strikes-deal-with-robinhood-to-expand-its-rlusd-digital-dollar",
+      "title": "Ripple strikes deal with Robinhood to expand its RLUSD digital dollar",
+      "dek": "As crypto evolves past its trading roots, and global markets shift to 24/7 liquidity, stablecoins are becoming essential financial infrastructure.",
+      "aiSummary": "Ripple has entered into an agreement with Robinhood to expand the distribution of its RLUSD digital dollar. This move aligns with the broader trend of stablecoins becoming essential financial infrastructure as global markets shift toward 24/7 liquidity.",
+      "articleUrl": "https://www.cnbc.com/2026/10/27/ripple-strikes-deal-with-robinhood-to-expand-its-rlusd-digital-dollar.html",
+      "category": "Fintech",
+      "filterTags": [
+        "Ripple",
+        "Robinhood",
+        "RLUSD",
+        "stablecoins"
+      ],
+      "publishedAt": "2026-10-27T16:35:45+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Fintech"
+        },
+        {
+          "name": "Cryptocurrency"
+        }
+      ]
+    },
+    {
+      "slug": "google-s-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering",
+      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "dek": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers.",
+      "aiSummary": "Google DeepMind has launched Genie 4, a world model that supports real-time audio and more realistic simulations. It also allows users to give text prompts during simulation. The model is currently available in a research preview for trusted testers.",
+      "articleUrl": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Google DeepMind",
+        "Genie 4",
+        "world model",
+        "real-time audio"
+      ],
+      "publishedAt": "2026-10-27T16:30:57+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Simulation"
+        },
+        {
+          "name": "Audio"
+        }
+      ]
+    },
+    {
+      "slug": "v0-40-12",
+      "title": "v0.40.12",
+      "dek": "What's Changed \n \n mlx: preserve small-image detail for compact Gemma 4 vision towers by  @dhiltgen  in  #19247 \n MLX, MLX-C: version bump - prompt speed up for gemma/flint/laguna by  @dhiltgen  in  #19291 \n mlx: add DFlash2 support by  @dhiltgen  in  #19149 \n llama.cpp: version ",
+      "aiSummary": "The v0.40.12 release includes updates to the MLX backend, such as preserving small-image detail for Gemma 4 vision towers and adding DFlash2 support. It also features a version bump for MLX and MLX-C aimed at improving prompt speed for Gemma, Flint, and Laguna models, alongside a llama.cpp version update.",
+      "articleUrl": "https://github.com/ollama/ollama/releases/tag/v0.40.12-rc1",
+      "category": "Machine Learning",
+      "filterTags": [
+        "MLX",
+        "llama.cpp",
+        "Gemma",
+        "DFlash2",
+        "Flint",
+        "Laguna"
+      ],
+      "publishedAt": "2026-10-27T16:29:19+00:00",
+      "publisher": {
+        "name": "ollama",
+        "domain": "github.com",
+        "website": "https://github.com/ollama/ollama",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "formula-1-s-ceo-sees-a-very-long-term-future-with-apple-tv",
+      "title": "Formula 1's CEO sees a very long-term future with Apple TV",
+      "dek": "Questions about viewership haven't cooled Formula 1's enthusiasm for  Apple TV , with the sport's president and CEO hoping to extend its U.S. broadcasting partnership beyond 2030. Apple TV + F1 Liberty Media president and CEO Derek Chang told  Axios  at an October 22 event in Aus",
+      "aiSummary": "Formula 1 president and CEO Derek Chang expressed strong confidence in the long-term viability of the sport's U.S. broadcasting deal with Apple TV. Despite ongoing questions regarding viewership numbers, Chang hopes to extend the partnership beyond 2030, as stated during an event on October 22.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/27/formula-1s-ceo-sees-a-very-long-term-future-with-apple-tv?utm_source=rss",
+      "category": "Sports",
+      "filterTags": [
+        "Formula 1",
+        "Apple TV",
+        "Liberty Media",
+        "Derek Chang",
+        "Axios"
+      ],
+      "publishedAt": "2026-10-27T16:27:42+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Sports"
+        },
+        {
+          "name": "Media"
+        },
+        {
+          "name": "Broadcasting"
+        }
+      ]
+    },
+    {
+      "slug": "gm-is-leaving-nyse-for-the-nasdaq-after-more-than-100-years",
+      "title": "GM Is Leaving NYSE for the Nasdaq After More Than 100 Years",
+      "dek": "After more than 100 years on the New York Stock Exchange, the automaker is shifting its listing to the Nasdaq, which is home to many technology companies.",
+      "aiSummary": "General Motors is relocating its stock listing from the New York Stock Exchange to the Nasdaq. This move marks a significant change for the automaker, which has been listed on the NYSE for more than 100 years.",
+      "articleUrl": "https://www.nytimes.com/2026/10/27/business/general-motors-nasdaq-nyse.html",
+      "category": "Automotive",
+      "filterTags": [
+        "General Motors",
+        "NYSE",
+        "Nasdaq"
+      ],
+      "publishedAt": "2026-10-27T16:25:41+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Automotive"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "meta-ai-boom-fuels-goldman-windfall",
+      "title": "Meta AI Boom Fuels Goldman Windfall",
+      "dek": "Get a jump start on the US trading day with Dani Burger on \"Bloomberg Open Interest.\" Anthropic’s mega IPO puts Wall Street on notice ahead of big tech earnings. Meta’s massive share offering and the AI deal boom deliver a windfall for Goldman Sachs. Plus Coca-Cola, UPS, JetBlue ",
+      "aiSummary": "Goldman Sachs is experiencing a financial windfall driven by Meta's massive share offering and a boom in AI-related deals. This positive trend for the bank occurs alongside market attention on Anthropic's potential IPO and upcoming big tech earnings.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-27/open-interest-10-27-2026-video",
+      "category": "Finance",
+      "filterTags": [
+        "Meta",
+        "Goldman Sachs",
+        "Anthropic",
+        "AI",
+        "IPO"
+      ],
+      "publishedAt": "2026-10-27T16:20:01+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "ai-sre-what-is-it-how-could-it-change-on-call-and-does-it-work",
+      "title": "AI SRE: what is it, how could it change on-call – and does it work?",
+      "dek": "“AI SRE” is fast becoming a trending term fueled by flashy demos from vendors, but has an AI SRE ever really been on-call while engineers slept? Deepdive",
+      "aiSummary": "The term \"AI SRE\" has gained popularity due to impressive vendor demonstrations, but its practical application remains questionable. The article investigates whether an AI Site Reliability Engineer has ever genuinely managed on-call responsibilities while human engineers were asleep.",
+      "articleUrl": "https://newsletter.pragmaticengineer.com/p/ai-sre",
+      "category": "AI",
+      "filterTags": [
+        "AI SRE",
+        "on-call",
+        "Site Reliability Engineering"
+      ],
+      "publishedAt": "2026-10-27T16:19:22+00:00",
+      "publisher": {
+        "name": "Pragmatic Engineer",
+        "domain": "newsletter.pragmaticengineer.com",
+        "website": "https://newsletter.pragmaticengineer.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=newsletter.pragmaticengineer.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=newsletter.pragmaticengineer.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Operations"
+        }
+      ]
+    },
+    {
+      "slug": "firefox-s-smart-window-adds-ai-form-filling-and-webpage-monitoring",
+      "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
+      "dek": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste you",
+      "aiSummary": "Mozilla is enhancing its Smart Window feature in Firefox with AI-driven form filling. The new capability can automatically extract data from open tabs, such as a user's LinkedIn profile or online portfolio, and paste it into online forms. This update aims to streamline the form‑filling process for users.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+      "category": "Browser",
+      "filterTags": [
+        "Mozilla",
+        "Firefox",
+        "Smart Window",
+        "AI",
+        "LinkedIn"
+      ],
+      "publishedAt": "2026-10-27T16:14:18+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Browser"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Productivity"
+        }
+      ]
+    },
+    {
+      "slug": "starlink-brinkmanship-is-driving-allies-to-rethink-us-reliance",
+      "title": "Starlink Brinkmanship Is Driving Allies to Rethink US Reliance",
+      "dek": "European officials have intensified discussions about ways to reduce their reliance on the US and American defense contractors following the recent blame game around Ukraine’s Starlink restrictions, according to people familiar with the matter.",
+      "aiSummary": "European officials have increased discussions on reducing reliance on the US and American defense contractors. This shift follows recent disputes regarding restrictions on Starlink usage in Ukraine.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-27/starlink-brinkmanship-is-driving-allies-to-rethink-us-reliance",
+      "category": "Geopolitics",
+      "filterTags": [
+        "Starlink",
+        "SpaceX",
+        "Ukraine",
+        "Defense Contractors"
+      ],
+      "publishedAt": "2026-10-27T16:13:06+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Geopolitics"
+        },
+        {
+          "name": "Defense"
+        },
+        {
+          "name": "Space Technology"
+        }
+      ]
+    },
+    {
+      "slug": "can-we-trust-llms-to-judge-whether-a-research-idea-is-novel",
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "dek": "Are large language models reliable for determining if a research idea is new?",
+      "aiSummary": "",
+      "articleUrl": "https://huggingface.co/blog/allenai/novelty-bench",
+      "category": "AI",
+      "filterTags": [],
+      "publishedAt": "2026-10-27T16:12:42+00:00",
+      "publisher": {
+        "name": "Hugging Face",
+        "domain": "huggingface.co",
+        "website": "https://huggingface.co/",
+        "logoUrl": "https://huggingface.co/front/thumbnails/v2-2.png",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Research"
+        }
+      ]
+    },
+    {
+      "slug": "the-new-ipad-mini-s-best-upgrade-has-nothing-to-do-with-its-flashy-oled-screen",
+      "title": "The new iPad Mini’s best upgrade has nothing to do with its flashy OLED screen",
+      "dek": "Apple’s newest Mini is the first iPad ever with an IP67 rating for dust and water resistance.",
+      "aiSummary": "Apple's latest iPad Mini is the first iPad model to receive an IP67 rating, meaning it is protected against dust and water. This marks a significant durability upgrade for the device.",
+      "articleUrl": "https://www.zdnet.com/tech/ipad-mini-upgrade-ip67-rating-kids/",
+      "category": "Hardware",
+      "filterTags": [
+        "Apple",
+        "iPad Mini",
+        "IP67"
+      ],
+      "publishedAt": "2026-10-27T16:09:01+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Mobile Devices"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "genie-4-a-new-generation-of-world-simulation",
+      "title": "Genie 4: A new generation of world simulation",
+      "dek": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+      "aiSummary": "Genie 4 is a new world model that provides highly realistic real-time simulation. It offers unprecedented realism compared to previous versions.",
+      "articleUrl": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "category": "Simulation",
+      "filterTags": [
+        "Genie 4",
+        "world model",
+        "real-time simulation"
+      ],
+      "publishedAt": "2026-10-27T16:01:38+00:00",
+      "publisher": {
+        "name": "Google DeepMind",
+        "domain": "deepmind.google",
+        "website": "https://deepmind.google/",
+        "logoUrl": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/icons/google_deepmind_2x_96dp.png",
+        "faviconUrl": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/icons/google_deepmind_2x_96dp.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Simulation"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Software"
+        }
+      ]
+    },
+    {
+      "slug": "deepmind-unveils-genie-4-world-model-promising-more-realistic-physics-and-humans",
+      "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
+      "dek": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon.",
+      "aiSummary": "DeepMind's Genie 4 world model will soon be available to developers and Google AI Ultra subscribers. The model is said to offer more realistic physics and human interactions.",
+      "articleUrl": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "DeepMind",
+        "Genie 4",
+        "Google AI Ultra"
+      ],
+      "publishedAt": "2026-10-27T16:00:22+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "google-s-next-genie-ai-model-generates-more-realistic-experiences",
+      "title": "Google’s next Genie AI model generates more realistic experiences",
+      "dek": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, ",
+      "aiSummary": "Google has unveiled Genie 4, a world model designed to generate interactive AI experiences. The update introduces features such as more realistic world generation, real-time experience modification via natural language prompts, and audio generation capabilities.",
+      "articleUrl": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+      "category": "AI",
+      "filterTags": [
+        "Google",
+        "Genie 4",
+        "World Model",
+        "AI"
+      ],
+      "publishedAt": "2026-10-27T16:00:00+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Generative AI"
+        }
+      ]
+    },
+    {
+      "slug": "oracle-to-offer-cerebras-computers-in-ai-cloud-service",
+      "title": "Oracle to Offer Cerebras Computers in AI Cloud Service",
+      "dek": "Oracle Corp. will offer cloud services based on Cerebras Systems Inc.’s computers in its data centers, adding another large customer for the fledgling challenger to Nvidia Corp.’s dominance of AI hardware.",
+      "aiSummary": "Oracle Corp. plans to provide cloud services powered by Cerebras Systems' computers within its data centers. This partnership marks a significant expansion for Cerebras, adding a major client to its roster as it challenges Nvidia's dominance in the AI hardware market.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-27/oracle-to-offer-cerebras-systems-computers-in-ai-cloud-service",
+      "category": "AI",
+      "filterTags": [
+        "Oracle",
+        "Cerebras",
+        "Nvidia",
+        "AI Cloud",
+        "Data Centers"
+      ],
+      "publishedAt": "2026-10-27T16:00:00+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "b11934",
+      "title": "b11934",
+      "dek": "tests : speed up tensor data generation and model saving ( #31145 ) \n \n tests : speed up tensor data generation and model saving \n \n Refactor save_models to create only the model, not a llama_context, \nwhich is not needed for saving. Replace the slow std::normal_distribution \ndra",
+      "aiSummary": "The commit addresses test #31145 by speeding up tensor data generation and model saving. It refactors the save_models function to create only the model, removing the unnecessary llama_context, and replaces the slow std::normal_distribution with a faster alternative.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11934",
+      "category": "Software Development",
+      "filterTags": [
+        "Tensor",
+        "Model Saving",
+        "llama_context",
+        "std::normal_distribution"
+      ],
+      "publishedAt": "2026-10-27T15:53:42+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Performance"
+        },
+        {
+          "name": "Testing"
+        }
+      ]
+    },
+    {
+      "slug": "apple-s-m6-imac-has-arrived-here-s-what-s-changed-since-the-m4",
+      "title": "Apple’s M6 iMac has arrived – here’s what’s changed since the M4",
+      "dek": "Apple’s colorful all-in-one gets its first refresh in two years. Here’s what you get for the $1,499 starting price.",
+      "aiSummary": "Apple has released the M6 iMac, the first refresh of the all‑in‑one in two years. The new model is available in a variety of colors and starts at $1,499. The article outlines the differences from the previous M4 version.",
+      "articleUrl": "https://www.zdnet.com/tech/apple-imac-m6-vs-m4-whats-new/",
+      "category": "Hardware",
+      "filterTags": [
+        "Apple",
+        "iMac",
+        "M6",
+        "M4"
+      ],
+      "publishedAt": "2026-10-27T15:42:32+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "v3-40-0",
+      "title": "v3.40.0",
+      "dek": "3.40.0  (2026-10-27) \n Features \n \n api:  add prompt cache breakpoint TTL options ( #4188 ) ( 3596d18 ) \n \n Bug Fixes \n \n ci:  use an explicit browser demo dependency ( #4185 ) ( a3f4302 ) \n \n Chores \n \n api:  record completed generated-code separation ( #4190 ) ( d7ab5ee ) \n dep",
+      "aiSummary": "The 3.40.0 release introduces prompt cache breakpoint TTL options to the API. It also includes a bug fix for CI browser dependencies and records the completion of generated-code separation.",
+      "articleUrl": "https://github.com/openai/openai-python/releases/tag/v3.40.0",
+      "category": "Software Development",
+      "filterTags": [
+        "API",
+        "CI",
+        "prompt cache"
+      ],
+      "publishedAt": "2026-10-27T15:37:52+00:00",
+      "publisher": {
+        "name": "openai",
+        "domain": "github.com",
+        "website": "https://github.com/openai/openai-python",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "API"
+        }
+      ]
+    },
+    {
+      "slug": "b11933",
+      "title": "b11933",
+      "dek": "vulkan: fix CI llvmpipe by allowing dim 3 broadcast in MUL_MAT ( #31239 ) \n \n vulkan: allow dim 3 broadcast in MUL_MAT \n \n supports_op rejected every MUL_MAT whose src0 and src1 differ in ne3, \nalthough mul_mm, mul_mmq and mul_mat_vec already broadcast src0 over \ndim 3 through br",
+      "aiSummary": "The Vulkan project fixed a CI issue on llvmpipe by enabling dimension‑3 broadcasting in the MUL_MAT operation. Previously, the supports_op check rejected MUL_MAT calls when the source operands differed in the third dimension, even though other matrix multiplication variants already performed that broadcast. The change allows MUL_MAT to broadcast src0 over dim 3, resolving the test failure.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11933",
+      "category": "Graphics",
+      "filterTags": [
+        "Vulkan",
+        "llvmpipe",
+        "MUL_MAT",
+        "supports_op",
+        "mul_mm",
+        "mul_mmq",
+        "mul_mat_vec",
+        "CI"
+      ],
+      "publishedAt": "2026-10-27T15:31:54+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Graphics"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "how-apple-fits-an-llm-on-your-iphone",
+      "title": "How Apple Fits an LLM on Your iPhone",
+      "dek": "How is Apple able to fit such a model on an iPhone without any adverse impact on the device?",
+      "aiSummary": "The article explores the technical mechanisms Apple employs to integrate large language models into iPhones. It addresses how this is achieved without negatively affecting the device's performance or user experience.",
+      "articleUrl": "https://blog.bytebytego.com/p/how-apple-fits-an-llm-on-your-iphone",
+      "category": "AI",
+      "filterTags": [
+        "Apple",
+        "iPhone",
+        "LLM"
+      ],
+      "publishedAt": "2026-10-27T15:31:04+00:00",
+      "publisher": {
+        "name": "ByteByteGo",
+        "domain": "bytebytego.com",
+        "website": "https://bytebytego.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bytebytego.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bytebytego.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Mobile Technology"
+        }
+      ]
+    },
+    {
+      "slug": "i-broke-a-browser-agent-on-purpose-spotting-the-fault-was-not-the-same-as-fixing-it",
+      "title": "I Broke a Browser Agent on Purpose. Spotting the Fault Was Not the Same as Fixing It",
+      "dek": "I replayed correct model decisions through four broken browser actions. A simple page check missed half of the wrong clicks, and raised a false alarm on every click that worked inside an embedded page. \n The post  I Broke a Browser Agent on Purpose. Spotting the Fault Was Not the",
+      "aiSummary": "The author intentionally broke a browser agent by replaying correct model decisions through four faulty actions. A basic page check failed to detect half of the incorrect clicks and generated false alarms for valid clicks within embedded pages.",
+      "articleUrl": "https://towardsdatascience.com/i-broke-a-browser-agent-on-purpose-spotting-the-fault-was-not-the-same-as-fixing-it/",
+      "category": "AI",
+      "filterTags": [
+        "Browser Agent",
+        "Model Decisions",
+        "Embedded Pages"
+      ],
+      "publishedAt": "2026-10-27T15:30:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Testing"
+        }
+      ]
+    },
+    {
+      "slug": "m6-24-inch-imac-vs-m4-24-inch-imac-apple-s-all-in-ones-compared",
+      "title": "M6 24-inch iMac vs M4 24-inch iMac: Apple's all-in-ones compared",
+      "dek": "Apple has updated the  24-inch iMac  to use the M6 chip. Here's what's new in the desktop Mac versus the M4 model from two years ago. M6 iMac [left], M4 iMac [right] Apple's last update to the 24-inch iMac was in 2024, when it shifted from the original  M1  to the  M4  chip. Two ",
+      "aiSummary": "Apple has updated the 24‑inch iMac to use the M6 chip. The article compares the new M6 iMac to the older M4 model from two years ago, noting changes since the 2024 update that moved from the original M1 to the M4 chip.",
+      "articleUrl": "https://appleinsider.com/inside/24-inch-imac/vs/m6-24-inch-imac-vs-m4-24-inch-imac-apples-all-in-ones-compared?utm_source=rss",
+      "category": "Hardware",
+      "filterTags": [
+        "Apple",
+        "M6 chip",
+        "M4 chip",
+        "24-inch iMac"
+      ],
+      "publishedAt": "2026-10-27T15:29:39+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "uk-home-office-may-face-investigation-over-use-of-openai-tech",
+      "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
+      "dek": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.",
+      "aiSummary": "A government watchdog is considering an investigation into the UK Home Office's use of ChatGPT technology for processing asylum claims. The probe is being considered due to concerns regarding the accuracy of the AI tools and the lack of transparency surrounding their deployment.",
+      "articleUrl": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "ChatGPT",
+        "UK Home Office",
+        "AI"
+      ],
+      "publishedAt": "2026-10-27T15:10:26+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Government"
+        },
+        {
+          "name": "Privacy"
+        }
+      ]
+    },
+    {
+      "slug": "elon-musk-says-he-has-cyber-psychosis-do-you-too-arwa-mahdawi",
+      "title": "Elon Musk says he has ‘cyber psychosis’. Do you too? | Arwa Mahdawi",
+      "dek": "Whether using chatbots for childcare or taking up smoking, a new affliction is sweeping through the tech world. Here are the signs In the least surprising news you’ll hear all week, Elon Musk has said he’s not entirely right in the head. “I’ve got a little bit of cyber psychosis,",
+      "aiSummary": "The article reports that Elon Musk has admitted to experiencing 'cyber psychosis', a term used to describe a growing trend among tech professionals. It points to behaviors such as using chatbots for childcare or adopting smoking habits as signs of this condition. The piece frames the issue as a new affliction sweeping the tech world.",
+      "articleUrl": "https://www.theguardian.com/commentisfree/2026/oct/27/elon-musk-cyber-psychosis-ai-tech",
+      "category": "Technology",
+      "filterTags": [
+        "Elon Musk",
+        "chatbots",
+        "cyber psychosis"
+      ],
+      "publishedAt": "2026-10-27T15:01:14+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Health"
+        },
+        {
+          "name": "Culture"
+        }
+      ]
+    },
+    {
+      "slug": "how-ai-is-changing-the-pace-of-discovery-for-millions-living-with-dementia",
+      "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
+      "dek": "There are 57 million people worldwide living with dementia today. For the researchers working to help them, the obstacle isn’t a lack of effort — it’s too much data, too few experts to synthesize it and a pace of discovery that can’t keep up with the disease.  The Consortium for ",
+      "aiSummary": "With 57 million people globally living with dementia, researchers face challenges due to excessive data and a shortage of experts. Artificial intelligence is being utilized to accelerate the pace of discovery to better match the progression of the disease.",
+      "articleUrl": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
+      "category": "Healthcare",
+      "filterTags": [
+        "AI",
+        "Dementia",
+        "Consortium"
+      ],
+      "publishedAt": "2026-10-27T15:00:20+00:00",
+      "publisher": {
+        "name": "NVIDIA",
+        "domain": "nvidia.com",
+        "website": "https://blogs.nvidia.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Healthcare"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace",
+      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+      "dek": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+      "aiSummary": "Rohit Patel is leaving Meta after eight years of working on AI evaluations and reinforcement learning. He is launching a startup called Ndoc that aims to compete with Microsoft Office Suite.",
+      "articleUrl": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+      "category": "AI",
+      "filterTags": [
+        "Meta",
+        "Microsoft Office",
+        "Google Workspace",
+        "Ndoc",
+        "AI evaluations",
+        "reinforcement learning"
+      ],
+      "publishedAt": "2026-10-27T14:59:09+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Productivity Software"
+        },
+        {
+          "name": "Startups"
+        }
+      ]
+    },
+    {
+      "slug": "how-billionaires-are-fighting-the-prop-40-california-wealth-tax",
+      "title": "How Billionaires Are Fighting the Prop 40 California Wealth Tax",
+      "dek": "The latest Silicon Valley billionaire club is a $333 million political ad machine that is heavily engaged in next week’s elections.",
+      "aiSummary": "A group of Silicon Valley billionaires has created a $333 million political advertising operation aimed at the upcoming elections. They are using this spend to influence the outcome of the vote on California’s Prop 40 wealth tax.",
+      "articleUrl": "https://www.nytimes.com/2026/10/27/technology/proposition-40-california-billionaire-tax.html",
+      "category": "Politics",
+      "filterTags": [
+        "Prop 40",
+        "California Wealth Tax",
+        "Silicon Valley"
+      ],
+      "publishedAt": "2026-10-27T14:55:35+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Tax Policy"
+        },
+        {
+          "name": "Campaign Finance"
+        }
+      ]
+    },
+    {
+      "slug": "coding-from-the-himalayas-with-an-offline-ai-agent",
+      "title": "Coding From the Himalayas With an Offline AI Agent",
+      "dek": "How to set up and run an offline coding agent using OpenCode, Ollama and Qwen.",
+      "aiSummary": "The article explains how to configure an offline coding agent. It covers installing OpenCode, setting up Ollama, and integrating the Qwen model. The guide shows how to run the agent without internet access.",
+      "articleUrl": "https://latent.space/p/offline-coding/",
+      "category": "AI",
+      "filterTags": [
+        "OpenCode",
+        "Ollama",
+        "Qwen"
+      ],
+      "publishedAt": "2026-10-27T14:41:25+00:00",
+      "publisher": {
+        "name": "Latent Space",
+        "domain": "latent.space",
+        "website": "https://www.latent.space/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Offline Computing"
+        }
+      ]
+    },
+    {
+      "slug": "meaningless-as-a-laptop-screensaver-reviewers-slate-musk-s-ai-made-odyssey-film",
+      "title": "‘Meaningless as a laptop screensaver’: reviewers slate Musk’s AI-made Odyssey film",
+      "dek": "Tesla tycoon launched Grok project after criticising Christoper Nolan’s diverse casting for his Homeric blockbuster Elon Musk has released an AI-generated rival to Christopher Nolan’s The Odyssey after pledging to make a version “true to the art of Homer”. Having criticised  the ",
+      "aiSummary": "Elon Musk released an AI-generated version of The Odyssey, claiming it was more faithful to Homer than Christopher Nolan's film. Reviewers dismissed the project as meaningless, while Musk had previously criticized Nolan's casting choices.",
+      "articleUrl": "https://www.theguardian.com/technology/2026/oct/27/reviewers-slate-musk-ai-grok-odyssey-film-nolan",
+      "category": "AI",
+      "filterTags": [
+        "Elon Musk",
+        "Grok",
+        "Christopher Nolan",
+        "The Odyssey",
+        "AI"
+      ],
+      "publishedAt": "2026-10-27T14:08:41+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Entertainment"
+        }
+      ]
+    },
+    {
+      "slug": "b11932",
+      "title": "b11932",
+      "dek": "mtmd-cli: Reduced scope of batch pointer ( #31155 ) ( #31165 ) \n \n \n mtmd-cli: Reduced scope of batch pointer ( #31155 ) \n \n \n mtmd-cli: Remove CLI regression test \n \n \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/6040",
+      "aiSummary": "The mtmd-cli project has reduced the scope of its batch pointer functionality, as indicated by changes #31155 and #31165. Additionally, a regression test for the CLI has been removed. Further information and attestations are available via llama.app and its GitHub repository.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11932",
+      "category": "Software Development",
+      "filterTags": [
+        "mtmd-cli",
+        "CLI",
+        "batch pointer",
+        "regression test",
+        "llama.app",
+        "ggml-org"
+      ],
+      "publishedAt": "2026-10-27T14:08:39+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Command Line Tools"
+        },
+        {
+          "name": "Testing"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-and-the-ai-cluster-effect-in-fundraising",
+      "title": "Anthropic and the AI cluster effect in fundraising",
+      "dek": "$95bn equity issue plan by Meta as rival conducts IPO shows the Hotelling effect",
+      "aiSummary": "Meta is planning a $95 billion equity issue while a competitor prepares for an IPO, illustrating the Hotelling effect in the AI sector. This dynamic demonstrates how major players are concentrating their fundraising efforts in close proximity to one another.",
+      "articleUrl": "https://www.ft.com/content/689a2114-57c5-4391-a335-dc97e5716610",
+      "category": "AI",
+      "filterTags": [
+        "Meta",
+        "Anthropic",
+        "IPO",
+        "Hotelling effect",
+        "Equity issue"
+      ],
+      "publishedAt": "2026-10-27T14:02:23+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Venture Capital"
+        }
+      ]
+    },
+    {
+      "slug": "who-watches-the-ai",
+      "title": "Who Watches the AI?",
+      "dek": "A separation of powers for control of autonomous agents \n The post  Who Watches the AI?  appeared first on  Towards Data Science .",
+      "aiSummary": "The article discusses establishing a separation of powers to govern autonomous agents. It explores how different roles can oversee AI systems to ensure accountability.",
+      "articleUrl": "https://towardsdatascience.com/who-watches-the-ai/",
+      "category": "AI",
+      "filterTags": [
+        "autonomous agents",
+        "Towards Data Science"
+      ],
+      "publishedAt": "2026-10-27T14:00:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Governance"
+        },
+        {
+          "name": "Ethics"
+        }
+      ]
+    },
+    {
+      "slug": "japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data",
+      "title": "Japan internet giant GMO says hackers posted stolen customer data",
+      "dek": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
+      "aiSummary": "GMO Internet, a major Japanese internet provider, is currently verifying reports that hackers have posted stolen customer data online. This incident follows a breach in the company's cloud services.",
+      "articleUrl": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+      "category": "Cybersecurity",
+      "filterTags": [
+        "GMO Internet",
+        "Cloud Security",
+        "Data Breach"
+      ],
+      "publishedAt": "2026-10-27T13:32:57+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "gpt-6-1-terra-an-economical-model-with-flagship-performance",
+      "title": "GPT-6.1 Terra: An Economical Model with Flagship Performance",
+      "dek": "GPT-6.1 Terra is designed for coding and practical work, but how well does it handle tasks beyond writing code? From spreadsheets and presentations to calendar files, these jobs require more than a convincing response. The output needs to be accurate, editable, and useful after t",
+      "aiSummary": "GPT‑6.1 Terra is aimed at coding and practical tasks. Its performance on non‑code tasks such as spreadsheets, presentations, and calendar files is being evaluated, as these jobs require accurate, editable, and useful output.",
+      "articleUrl": "https://www.analyticsvidhya.com/blog/2026/10/gpt-6-1-terra-review/",
+      "category": "AI",
+      "filterTags": [
+        "GPT-6.1 Terra"
+      ],
+      "publishedAt": "2026-10-27T13:19:18+00:00",
+      "publisher": {
+        "name": "Analytics Vidhya",
+        "domain": "analyticsvidhya.com",
+        "website": "https://www.analyticsvidhya.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=analyticsvidhya.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=analyticsvidhya.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Productivity Tools"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "elon-musk-s-ai-odyssey-review-the-dullest-most-pointless-riposte-possible-to-christopher-nolan-s-brilliant-epic",
+      "title": "Elon Musk’s AI Odyssey review – the dullest, most pointless riposte possible to Christopher Nolan’s brilliant epic",
+      "dek": "It is hardly a shock that Grok AI’s interpretation of Homer is as meaningless as a laptop screensaver. The only surprise would be if Musk accepted defeat graciously. Which he won’t Think back. Do you remember when Elon Musk, in a weird online tantrum, and without having seen the ",
+      "aiSummary": "The article criticizes Grok AI’s interpretation of Homer as meaningless, comparing it to a laptop screensaver. It suggests Elon Musk would not accept defeat over the project. The author recalls a past online tantrum by Musk.",
+      "articleUrl": "https://www.theguardian.com/film/2026/oct/27/elon-musk-ai-odyssey-movie-grok-christopher-nolan",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Grok AI",
+        "Elon Musk"
+      ],
+      "publishedAt": "2026-10-27T13:01:46+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Technology Criticism"
+        }
+      ]
+    },
+    {
+      "slug": "murata-develops-world-s-smallest-008004-inch-ntc-thermistor",
+      "title": "Murata Develops World’s Smallest 008004-Inch NTC Thermistor",
+      "dek": "The NCU01 series maintains ±1% resistance and B-constant tolerances, with initial samples planned for October 2026 and production in 2027. \n The post  Murata Develops World’s Smallest 008004-Inch NTC Thermistor  appeared first on  Power Electronics News .",
+      "aiSummary": "Murata has developed the NCU01 series, which is the world's smallest 008004-inch NTC thermistor. The component features ±1% resistance and B-constant tolerances, with initial samples scheduled for October 2026 and mass production beginning in 2027.",
+      "articleUrl": "https://www.powerelectronicsnews.com/murata-develops-worlds-smallest-008004-inch-ntc-thermistor/",
+      "category": "Hardware",
+      "filterTags": [
+        "Murata",
+        "NTC Thermistor",
+        "NCU01",
+        "Power Electronics"
+      ],
+      "publishedAt": "2026-10-27T13:00:00+00:00",
+      "publisher": {
+        "name": "Power Electronics News",
+        "domain": "powerelectronicsnews.com",
+        "website": "https://www.powerelectronicsnews.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "mirendil-launches-fern-0-1-its-first-model-with-10m-token-context",
+      "title": "Mirendil Launches Fern 0.1, Its First Model, With 10M-Token Context",
+      "dek": "Mirendil released Fern 0.1, its first model, pretrained from scratch with a 10M-token context window. It targets agentic AI R&D work, scores 100% on RULER single needle at 10M, but trails frontier models on agentic coding. \n The post  Mirendil Launches Fern 0.1, Its First Model, ",
+      "aiSummary": "Mirendil launched Fern 0.1, its first model, trained from scratch with a 10 million token context window. The model is aimed at agentic AI research and development, achieving a perfect score on the RULER single needle benchmark at 10M tokens, though it lags behind leading models in agentic coding tasks.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/27/mirendil-fern-10m-token-context-model/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Mirendil",
+        "Fern 0.1",
+        "RULER",
+        "agentic AI"
+      ],
+      "publishedAt": "2026-10-27T12:57:46+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Research & Development"
+        }
+      ]
+    },
+    {
+      "slug": "in-the-age-of-borrowed-thinking-how-to-become-more-valuable-as-ai-gets-smarter",
+      "title": "In the Age of Borrowed Thinking, How To Become More Valuable as AI Gets Smarter",
+      "dek": "A framework for staying relevant in the age of artificial intelligence \n The post  In the Age of Borrowed Thinking, How To Become More Valuable as AI Gets Smarter  appeared first on  Towards Data Science .",
+      "aiSummary": "The article presents a framework for individuals to remain relevant and valuable in a professional landscape increasingly dominated by artificial intelligence. It addresses the challenge of 'borrowed thinking' and offers strategies for adapting to smarter AI systems.",
+      "articleUrl": "https://towardsdatascience.com/in-the-age-of-borrowed-thinking-how-to-become-more-valuable-as-ai-gets-smarter/",
+      "category": "AI",
+      "filterTags": [
+        "Artificial Intelligence",
+        "Towards Data Science"
+      ],
+      "publishedAt": "2026-10-27T12:30:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Career Development"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1793118569",
+      "title": "viable/strict/1793118569",
+      "dek": "[Testcase Refactoring] Classify numeric suite eager tests as generic …",
+      "aiSummary": "This article describes a testcase refactoring effort. The primary goal is to classify eager tests that belong to the numeric suite as generic tests.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1793118569",
+      "category": "Software Development",
+      "filterTags": [
+        "Testcase Refactoring",
+        "numeric suite",
+        "eager tests"
+      ],
+      "publishedAt": "2026-10-27T12:23:23+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Testing"
+        }
+      ]
+    },
+    {
+      "slug": "tech-s-relief-rally-extends-as-attention-turns-to-tough-decisions-for-the-fed",
+      "title": "Tech's relief rally extends as attention turns to tough decisions for the Fed",
+      "dek": "Here are the key things investors need to know to start the trading day.",
+      "aiSummary": "The relief rally in the technology sector has continued, with market attention now shifting toward the difficult decisions facing the Federal Reserve. Investors are advised to focus on these key developments to navigate the start of the trading day.",
+      "articleUrl": "https://www.cnbc.com/2026/10/27/tech-rally-fed-decision.html",
+      "category": "Finance",
+      "filterTags": [
+        "Tech",
+        "Federal Reserve",
+        "Investors"
+      ],
+      "publishedAt": "2026-10-27T12:09:19+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Markets"
+        },
+        {
+          "name": "Monetary Policy"
+        }
+      ]
+    }
+  ]
+}
