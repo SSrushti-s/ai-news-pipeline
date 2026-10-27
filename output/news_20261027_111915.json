@@ -1,0 +1,1410 @@
+{
+  "news": [
+    {
+      "slug": "b11927",
+      "title": "b11927",
+      "dek": "metal : add GGML_OP_TOP_K_MASK ( #31230 ) \n \n metal : add GGML_OP_TOP_K_MASK \n \n Port the fused top-k mask from the CUDA backend: a grid-stride kernel fills the output with -inf, then one \nthreadgroup per row copies the mask values of the kept cells over it. Function constants dr",
+      "aiSummary": "The Metal backend has been updated to include the GGML_OP_TOP_K_MASK operation, which ports a fused top-k mask from the CUDA backend. This implementation uses a grid-stride kernel to initialize the output with negative infinity, followed by a process where one thread group per row copies the mask values for the retained cells.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11927",
+      "category": "Machine Learning",
+      "filterTags": [
+        "Metal",
+        "CUDA",
+        "GGML",
+        "top-k mask",
+        "grid-stride kernel"
+      ],
+      "publishedAt": "2026-10-27T11:11:14+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Hardware Acceleration"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "ai-promised-less-work-i-ve-never-worked-more",
+      "title": "AI promised less work. I've never worked more",
+      "dek": "Artificial intelligence was supposed to reduce workload, but I am working harder than ever.",
+      "aiSummary": "The article highlights a discrepancy between the promise of AI to reduce labor and the reality of increased workload for the author. It suggests that despite the potential for efficiency, the integration of AI has led to more work rather than less.",
+      "articleUrl": "https://oioannou.com/blog/ai-promised-less-work/",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Productivity",
+        "Workplace"
+      ],
+      "publishedAt": "2026-10-27T11:08:14+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Workplace Trends"
+        }
+      ]
+    },
+    {
+      "slug": "wanted-robot-dog-walkers-20-hour",
+      "title": "Wanted: Robot-Dog Walkers. $20/Hour.",
+      "dek": "No pooper scooper required.",
+      "aiSummary": "The article announces a job opportunity for individuals to walk robot dogs. The position offers a pay rate of $20 per hour and explicitly states that cleaning up after the animals is not required.",
+      "articleUrl": "https://www.nytimes.com/2026/10/27/technology/robot-dog-walkers.html",
+      "category": "Robotics",
+      "filterTags": [
+        "Robot-Dogs",
+        "Job Opportunity"
+      ],
+      "publishedAt": "2026-10-27T11:05:07+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Robotics"
+        },
+        {
+          "name": "Employment"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-relies-on-close-connections-with-amazon-google-and-microsoft",
+      "title": "Anthropic Relies on Close Connections With Amazon, Google and Microsoft",
+      "dek": "Amazon and Google invested in the AI startup, supply it computing power — and compete with it.",
+      "aiSummary": "Anthropic maintains close ties with major tech giants Amazon, Google, and Microsoft. These companies have invested in the AI startup and provide it with necessary computing power, despite also being its competitors.",
+      "articleUrl": "https://www.bloomberg.com/news/newsletters/2026-10-27/anthropic-relies-on-close-connections-with-amazon-google-and-microsoft",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "Amazon",
+        "Google",
+        "Microsoft",
+        "AI"
+      ],
+      "publishedAt": "2026-10-27T11:02:01+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Big Tech"
+        },
+        {
+          "name": "Venture Capital"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-s-ipo-is-risky-business",
+      "title": "Anthropic's IPO is risky business",
+      "dek": "Anthropic's much-anticipated IPO is giving potential investors some perspective on the risky business of artificial intelligence.",
+      "aiSummary": "Anthropic's anticipated initial public offering is providing investors with insight into the high-risk nature of the artificial intelligence industry. The event serves as a case study for the potential financial volatility associated with AI ventures.",
+      "articleUrl": "https://www.cnbc.com/2026/10/27/anthropic-five-surprising-risks-s1.html",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "IPO",
+        "Artificial Intelligence"
+      ],
+      "publishedAt": "2026-10-27T11:00:01+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "developers-felt-20-faster-with-ai-they-were-19-slower",
+      "title": "Developers Felt 20% Faster With AI. They Were 19% Slower.",
+      "dek": "And that’s not even the worrying part. \n The post  Developers Felt 20% Faster With AI. They Were 19% Slower.  appeared first on  Towards Data Science .",
+      "aiSummary": "A study found that while developers perceived a 20% increase in speed when using AI, their actual productivity dropped by 19%. The article notes that this discrepancy is not the most concerning aspect of the findings.",
+      "articleUrl": "https://towardsdatascience.com/developers-felt-20-faster-with-ai-they-were-19-slower/",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Developer Productivity",
+        "Towards Data Science"
+      ],
+      "publishedAt": "2026-10-27T11:00:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "ai-agents-are-media-s-new-favorite-audience",
+      "title": "AI Agents Are Media’s New Favorite Audience",
+      "dek": "As agents go mainstream, some publishers are hoping that people will pay for content tailor-made for AI—not humans.",
+      "aiSummary": "As AI agents become more common, some publishers are shifting their focus to creating content specifically for these bots rather than human readers. These companies hope that users will pay for this AI-tailored content.",
+      "articleUrl": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/",
+      "category": "AI",
+      "filterTags": [
+        "AI Agents",
+        "Publishers",
+        "Content"
+      ],
+      "publishedAt": "2026-10-27T11:00:00+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Media"
+        }
+      ]
+    },
+    {
+      "slug": "direct-dielectric-cooling-for-power-converters",
+      "title": "Direct Dielectric Cooling for Power Converters",
+      "dek": "Direct dielectric cooling brings insulating liquid closer to SiC/GaN devices, shortening thermal paths but complicating insulation design. \n The post  Direct Dielectric Cooling for Power Converters  appeared first on  Power Electronics News .",
+      "aiSummary": "Direct dielectric cooling involves placing insulating liquid in close proximity to silicon carbide and gallium nitride devices. While this method shortens thermal paths, it complicates the design of electrical insulation.",
+      "articleUrl": "https://www.powerelectronicsnews.com/direct-dielectric-cooling-for-power-converters/",
+      "category": "Power Electronics",
+      "filterTags": [
+        "SiC",
+        "GaN",
+        "Power Converters",
+        "Dielectric Cooling"
+      ],
+      "publishedAt": "2026-10-27T11:00:00+00:00",
+      "publisher": {
+        "name": "Power Electronics News",
+        "domain": "powerelectronicsnews.com",
+        "website": "https://www.powerelectronicsnews.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Power Electronics"
+        },
+        {
+          "name": "Thermal Management"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "highlighting-what-changed-a-go-diff-mask-for-ai-agent-screenshots",
+      "title": "Highlighting What Changed: A Go Diff-Mask for AI Agent Screenshots",
+      "dek": "A tool for Go that shows changes in AI agent screenshots using a diff-mask.",
+      "aiSummary": "The article introduces a Go-based diff-mask tool designed to highlight changes in screenshots generated by AI agents. It focuses on visualizing differences to improve the analysis of AI-generated visual outputs.",
+      "articleUrl": "https://towardsdev.com/highlighting-what-changed-a-go-diff-mask-for-ai-agent-screenshots-64551334911a?sk=5efd0778f96236fa3fbefdb52727b5d5",
+      "category": "AI",
+      "filterTags": [
+        "Go",
+        "AI Agents",
+        "Diff-Mask",
+        "Screenshots"
+      ],
+      "publishedAt": "2026-10-27T10:48:38+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Developer Tools"
+        },
+        {
+          "name": "Computer Vision"
+        }
+      ]
+    },
+    {
+      "slug": "show-hn-hypeseoul-ai-painted-isometric-map-of-seoul-that-runs-on-seoul-time",
+      "title": "Show HN: HypeSeoul – AI-painted isometric map of Seoul that runs on Seoul time",
+      "dek": "A new tool creates an AI-generated isometric map of Seoul that updates based on the local time.",
+      "aiSummary": "HypeSeoul is a project that generates an AI-painted isometric map of Seoul. The visualization is dynamic, running on Seoul time to reflect the current local conditions.",
+      "articleUrl": "https://hypeseoul.xyz/?s=hn",
+      "category": "AI",
+      "filterTags": [
+        "HypeSeoul",
+        "AI",
+        "Isometric Map",
+        "Seoul"
+      ],
+      "publishedAt": "2026-10-27T10:47:54+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Data Visualization"
+        },
+        {
+          "name": "Web Development"
+        }
+      ]
+    },
+    {
+      "slug": "b11926",
+      "title": "b11926",
+      "dek": "glm5-next : QSA without kq_mask (+ DSA) ( #31009 ) \n \n \n glm5-next : QSA without kq_mask \n \n \n DSA: dsa top-k mask change tested with layers 0,3 of DeepSeek-V3.2 \n \n \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/603237",
+      "aiSummary": "This release introduces changes to the GLM5-next model, specifically implementing Query Selection Attention (QSA) without kq_mask and adding DSA support. The update includes tests for DSA top-k mask changes using layers 0 and 3 of the DeepSeek-V3.2 model.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11926",
+      "category": "AI",
+      "filterTags": [
+        "llama.cpp",
+        "GLM5-next",
+        "DSA",
+        "DeepSeek-V3.2",
+        "QSA"
+      ],
+      "publishedAt": "2026-10-27T10:32:27+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-ipo-filing-reveals-417-billion-in-future-ai-spending",
+      "title": "Anthropic IPO Filing Reveals $417 Billion in Future AI Spending",
+      "dek": "Anthropic just filed for one of the biggest IPOs in history – and may need more money.",
+      "aiSummary": "Anthropic has filed for a significant initial public offering, revealing plans for $417 billion in future AI spending. The filing suggests the company may require additional capital to support these extensive expenditures.",
+      "articleUrl": "https://www.bloomberg.com/news/newsletters/2026-10-27/anthropic-ipo-filing-reveals-417-billion-in-future-ai-spending",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "IPO",
+        "AI"
+      ],
+      "publishedAt": "2026-10-27T10:28:00+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "memory-stocks-lost-their-mojo-and-strong-earnings-aren-t-helping",
+      "title": "Memory Stocks Lost Their Mojo and Strong Earnings Aren’t Helping",
+      "dek": "Sandisk Corp., Micron Technology Inc., Seagate Technology Holdings Plc and Western Digital Corp. were among the stock market’s biggest winners in the first six months of the year as demand from the artificial intelligence build out seemed insatiable.",
+      "aiSummary": "In the first half of the year, memory companies such as Sandisk, Micron, Seagate, and Western Digital were among the biggest winners in the market, driven by strong demand from AI build‑out. Yet the sector has weakened, with memory stocks falling despite their earnings.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-27/memory-stocks-lost-their-mojo-and-strong-earnings-aren-t-helping",
+      "category": "Hardware",
+      "filterTags": [
+        "Sandisk Corp.",
+        "Micron Technology Inc.",
+        "Seagate Technology Holdings Plc",
+        "Western Digital Corp.",
+        "Artificial Intelligence"
+      ],
+      "publishedAt": "2026-10-27T10:09:02+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Stock Market"
+        }
+      ]
+    },
+    {
+      "slug": "porsche-profit-rebounds-as-luxury-carmaker-reduces-exposure-to-china",
+      "title": "Porsche profit rebounds as luxury carmaker reduces exposure to China",
+      "dek": "Luxury German carmaker Porsche said it's rapidly reducing its exposure to the Chinese autos market after reporting a profit recovery in the first nine months.",
+      "aiSummary": "Porsche reported a recovery in profits for the first nine months of the year. The luxury carmaker stated that it is rapidly decreasing its exposure to the Chinese automotive market.",
+      "articleUrl": "https://www.cnbc.com/2026/10/27/porsche-china-profit-recovery.html",
+      "category": "Automotive",
+      "filterTags": [
+        "Porsche",
+        "China",
+        "Luxury Cars"
+      ],
+      "publishedAt": "2026-10-27T10:08:51+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Automotive"
+        },
+        {
+          "name": "Corporate Finance"
+        }
+      ]
+    },
+    {
+      "slug": "ai-driven-disinformation-running-rampant-on-social-media-before-us-midterms-experts-warn",
+      "title": "AI-driven disinformation running rampant on social media before US midterms, experts warn",
+      "dek": "Social media companies including Meta have pulled back on efforts to protect voters from election-meddling lies Social media feeds are awash with an unprecedented flood of  AI -driven disinformation ahead of November’s  US midterm elections , according to experts, who warn many p",
+      "aiSummary": "Social media platforms, such as Meta, have scaled back measures to shield voters from election-related misinformation. Experts say that feeds are now saturated with AI-generated disinformation ahead of the November U.S. midterm elections. They warn that this could influence voter behavior.",
+      "articleUrl": "https://www.theguardian.com/us-news/2026/oct/27/ai-disinformation-social-media-midterm-elections",
+      "category": "Social Media",
+      "filterTags": [
+        "Meta",
+        "AI"
+      ],
+      "publishedAt": "2026-10-27T10:00:10+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Social Media"
+        },
+        {
+          "name": "Political Disinformation"
+        },
+        {
+          "name": "Election Security"
+        }
+      ]
+    },
+    {
+      "slug": "silicon-valley-ai-political-groups-turn-on-each-other-in-the-2026-election",
+      "title": "Silicon Valley AI political groups turn on each other in the 2026 election",
+      "dek": "AI political groups are spending millions in the 2026 election as Silicon Valley factions battle over regulation, safeguards and state authority.",
+      "aiSummary": "AI political groups are investing millions of dollars in the 2026 election cycle. These Silicon Valley factions are engaged in a conflict regarding issues of regulation, safety safeguards, and state authority.",
+      "articleUrl": "https://www.cnbc.com/2026/10/27/ai-political-spending-silicon-valley-election.html",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Silicon Valley",
+        "2026 election"
+      ],
+      "publishedAt": "2026-10-27T10:00:01+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Regulation"
+        }
+      ]
+    },
+    {
+      "slug": "data-center-backlash-is-uniting-america",
+      "title": "Data center backlash is uniting America",
+      "dek": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expenses that come with them - has sparked local opposition in communities across th",
+      "aiSummary": "In 2026, data centers have become a political flashpoint, with their rapid expansion and associated infrastructure costs sparking local opposition across communities. The controversy is energizing voters of all types, uniting them in a shared concern about the impact of these large server facilities.",
+      "articleUrl": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
+      "category": "Technology",
+      "filterTags": [
+        "Data Centers",
+        "Server Storage",
+        "Infrastructure"
+      ],
+      "publishedAt": "2026-10-27T10:00:00+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "i-tested-every-major-ai-agent-for-a-day-here-s-the-best-one",
+      "title": "I Tested Every Major AI Agent for a Day. Here’s the Best One",
+      "dek": "I ranked six AI agents—from Meta’s Muse to Anthropic’s Claude Duet—on how well they completed basic tasks.",
+      "aiSummary": "The author evaluated six major AI agents, including Meta’s Muse and Anthropic’s Claude Duet, over a day. They compared how well each agent performed on basic tasks and ranked them accordingly. The article identifies the best-performing agent among the group.",
+      "articleUrl": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Meta",
+        "Anthropic",
+        "Muse",
+        "Claude Duet"
+      ],
+      "publishedAt": "2026-10-27T09:30:00+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "b11925",
+      "title": "b11925",
+      "dek": "ci : use ccache depend mode for ROCm release builds ( #31231 ) \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/60293667 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silicon (arm64, KleidiAI enabled)  DISA",
+      "aiSummary": "This release introduces the use of ccache depend mode for ROCm release builds in the CI pipeline. The update is associated with the llama.cpp project and includes support for macOS Apple Silicon architectures.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11925",
+      "category": "AI",
+      "filterTags": [
+        "ccache",
+        "ROCm",
+        "llama.cpp",
+        "CI",
+        "macOS",
+        "Apple Silicon"
+      ],
+      "publishedAt": "2026-10-27T09:08:50+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "in-the-a-i-robogym-machines-train-to-be-more-like-humans",
+      "title": "In the A.I. ‘Robogym,’ Machines Train to Be More Like Humans",
+      "dek": "Germany’s Neura is one of the companies at the forefront of efforts to use artificial intelligence in robotics, and crucial to whether Europe can close the gap with China.",
+      "aiSummary": "Neura, a German robotics firm, is leading the use of AI in robotics. Its work is seen as key to Europe's competitiveness against China.",
+      "articleUrl": "https://www.nytimes.com/2026/10/27/business/neura-robotics-germany-china-ai.html",
+      "category": "AI",
+      "filterTags": [
+        "Neura",
+        "AI",
+        "robotics"
+      ],
+      "publishedAt": "2026-10-27T09:02:36+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Robotics"
+        },
+        {
+          "name": "Geopolitics"
+        }
+      ]
+    },
+    {
+      "slug": "managing-ai-coding-costs-at-scale",
+      "title": "Managing AI Coding Costs at Scale",
+      "dek": "Over the past couple of years, companies raced to get their employees using AI, often encouraging them to lean on it as much as possible. However, as AI coding tools spread through engineering teams, many companies watched their AI bills explode. That kind of runaway cost growth ",
+      "aiSummary": "Companies have pushed employees to use AI coding tools, but as adoption grew, their costs ballooned. The article discusses how these runaway expenses have become a concern for many firms.",
+      "articleUrl": "https://softwareengineeringdaily.com/podcasts/managing-ai-coding-costs-at-scale/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AI coding tools",
+        "AI"
+      ],
+      "publishedAt": "2026-10-27T09:00:00+00:00",
+      "publisher": {
+        "name": "Software Engineering Daily",
+        "domain": "softwareengineeringdaily.com",
+        "website": "https://softwareengineeringdaily.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=softwareengineeringdaily.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=softwareengineeringdaily.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Business Operations"
+        }
+      ]
+    },
+    {
+      "slug": "n8n-3-0-0",
+      "title": "n8n@3.0.0",
+      "dek": "3.0.0  (2026-10-27) \n Bug Fixes \n \n Add file-type tooltip to artifact download button ( #41490 ) ( 4a74f02 ) \n ai-builder:  Check execution:read in Assistant execution reads ( #41863 ) ( a967486 ) \n ai-builder:  Send Assistant model calls through the configured AI transport ( #41",
+      "aiSummary": "The n8n 3.0.0 release, dated October 27, 2026, includes bug fixes such as adding a file-type tooltip to the artifact download button. It also addresses issues in the ai-builder module by checking execution read permissions and routing Assistant model calls through the configured AI transport.",
+      "articleUrl": "https://github.com/n8n-io/n8n/releases/tag/n8n%403.0.0",
+      "category": "Automation",
+      "filterTags": [
+        "n8n",
+        "ai-builder",
+        "Assistant"
+      ],
+      "publishedAt": "2026-10-27T08:50:42+00:00",
+      "publisher": {
+        "name": "n8n-io",
+        "domain": "github.com",
+        "website": "https://github.com/n8n-io/n8n",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Automation"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "n8n-2-46-0",
+      "title": "n8n@2.46.0",
+      "dek": "2.46.0  (2026-10-27) \n Bug Fixes \n \n Add file-type tooltip to artifact download button ( #41490 ) ( 4a74f02 ) \n ai-builder:  Check execution:read in Assistant execution reads ( #41863 ) ( a967486 ) \n ai-builder:  Send Assistant model calls through the configured AI transport ( #4",
+      "aiSummary": "The 2.46.0 update for n8n includes several bug fixes: a tooltip indicating file type was added to the artifact download button, execution read permissions for Assistant executions were corrected, and Assistant model calls are now routed through the configured AI transport.",
+      "articleUrl": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.46.0",
+      "category": "Open Source",
+      "filterTags": [
+        "n8n",
+        "ai-builder",
+        "Assistant execution",
+        "AI transport"
+      ],
+      "publishedAt": "2026-10-27T08:45:39+00:00",
+      "publisher": {
+        "name": "n8n-io",
+        "domain": "github.com",
+        "website": "https://github.com/n8n-io/n8n",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Automation"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "v0-42-1-fix-component-resolution-in-from-pretrained-to-prevent-trust-remote-code-bypass",
+      "title": "v0.42.1 — fix component resolution in `from_pretrained` to prevent `trust_remote_code` bypass",
+      "dek": "This is a security release. See  GHSA-4prv-5hj7-c2xr  for details. \n This patch release fixes how a component's declared library name is resolved when loading with  from_pretrained . \n Pipelines and models declare each component as a  [\"<library>\", \"<class>\"]  pair in  model_inde",
+      "aiSummary": "The v0.42.1 release fixes a security issue by correcting how component library names are resolved during from_pretrained calls, preventing a trust_remote_code bypass. The patch updates the resolution logic for components declared as library/class pairs in the model index.",
+      "articleUrl": "https://github.com/huggingface/diffusers/releases/tag/v0.42.1",
+      "category": "Security",
+      "filterTags": [
+        "trust_remote_code",
+        "from_pretrained",
+        "GHSA-4prv-5hj7-c2xr"
+      ],
+      "publishedAt": "2026-10-27T07:41:43+00:00",
+      "publisher": {
+        "name": "huggingface",
+        "domain": "github.com",
+        "website": "https://github.com/huggingface/diffusers",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Software Updates"
+        }
+      ]
+    },
+    {
+      "slug": "elevators-toasters-and-the-birth-of-java",
+      "title": "Elevators, toasters, and the birth of Java",
+      "dek": "Ryan sits down with James Gosling, creator of Java at Sun Microsystems, to talk about the early networking friction that drove the need for interconnectedness, the stringent reliability requirements of consumer electronics companies that inspired the Java virtual machine, and the",
+      "aiSummary": "James Gosling discusses the early networking challenges that necessitated interconnected systems and the strict reliability standards of consumer electronics that led to the creation of the Java virtual machine.",
+      "articleUrl": "https://stackoverflow.blog/2026/10/27/elevators-toasters-and-the-birth-of-java/",
+      "category": "Software Development",
+      "filterTags": [
+        "Java",
+        "Sun Microsystems",
+        "James Gosling",
+        "Virtual Machine"
+      ],
+      "publishedAt": "2026-10-27T07:40:00+00:00",
+      "publisher": {
+        "name": "Stack Overflow Blog",
+        "domain": "stackoverflow.blog",
+        "website": "https://stackoverflow.blog",
+        "logoUrl": "https://stackoverflow.blog/apple-touch-icon.png",
+        "faviconUrl": "https://stackoverflow.blog/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "History of Computing"
+        }
+      ]
+    },
+    {
+      "slug": "ainews-anthropic-files-for-2t-ipo-in-2-weeks-1400-growth-rate-48-of-revenue-through-cloud-partners-85-margin-1b-op-profi",
+      "title": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
+      "dek": "The S-1, the numbers, and the reactions.",
+      "aiSummary": "The article covers Anthropic’s S‑1 filing for a $2 trillion IPO, noting a 1,400 % growth rate, 48 % of revenue from cloud partners, 85 % margin, $1 billion operating profit in Q2, $134 billion cash on hand, and $10 billion lifetime burn, and includes reactions to these figures.",
+      "articleUrl": "https://latent.space/p/ainews-anthropic-s1/",
+      "category": "Finance",
+      "filterTags": [
+        "Anthropic",
+        "S-1",
+        "IPO",
+        "cloud partners"
+      ],
+      "publishedAt": "2026-10-27T07:24:59+00:00",
+      "publisher": {
+        "name": "Latent Space",
+        "domain": "latent.space",
+        "website": "https://www.latent.space/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Capital Markets"
+        }
+      ]
+    },
+    {
+      "slug": "uk-government-met-137-businesses-over-ai-datacentres-but-no-environmental-groups",
+      "title": "UK government met 137 businesses over AI datacentres – but no environmental groups",
+      "dek": "Investigation finds dozens of ministers and civil servants moved into AI roles as government developed datacentre expansion plans The UK’s policy on datacentres and AI was developed without any meetings with environmental groups, an investigation has found. The nonprofit organisa",
+      "aiSummary": "An investigation reveals that the UK government developed its datacenter and AI expansion policies without consulting any environmental organizations. The report also notes that dozens of ministers and civil servants transitioned into AI-related roles during the development of these plans.",
+      "articleUrl": "https://www.theguardian.com/uk-news/2026/oct/27/uk-government-environmental-groups-ai-datacentres-expansion-plans-investigation",
+      "category": "Government Policy",
+      "filterTags": [
+        "UK government",
+        "AI",
+        "datacentres"
+      ],
+      "publishedAt": "2026-10-27T07:00:04+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Government Policy"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Environment"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1793098438",
+      "title": "viable/strict/1793098438",
+      "dek": "[ROCm] Use MIOpen immediate mode for convs first seen in graph captur…",
+      "aiSummary": "The article explains that MIOpen's immediate mode for convolution operations was first observed during graph capture. This feature can potentially enhance performance in ROCm-based workflows.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1793098438",
+      "category": "Hardware",
+      "filterTags": [
+        "ROCm",
+        "MIOpen"
+      ],
+      "publishedAt": "2026-10-27T06:44:53+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1793097044",
+      "title": "viable/strict/1793097044",
+      "dek": "[xpu][fix] Make nested use_mem_pool route allocations to the innermos…",
+      "aiSummary": "The commit fixes an issue in the XPU subsystem by ensuring that nested use_mem_pool route allocations are directed to the innermost memory pool. This change improves memory allocation correctness in nested contexts.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1793097044",
+      "category": "Hardware",
+      "filterTags": [
+        "xpu",
+        "use_mem_pool"
+      ],
+      "publishedAt": "2026-10-27T06:37:18+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "vllm-semantic-router-releases-d3-ultra-a-27b-open-multimodal-decision-model",
+      "title": "vLLM Semantic Router Releases d3-ultra: A 27B Open Multimodal Decision Model",
+      "dek": "vLLM Semantic Router released d3-ultra, a 27B open-weight multimodal decision model. It reads text, images and video once, then returns probabilities for every answer, scoring 87.2 on the team’s SR-Text test. \n The post  vLLM Semantic Router Releases d3-ultra: A 27B Open Multimod",
+      "aiSummary": "vLLM Semantic Router has released d3-ultra, an open-weight multimodal decision model with 27 billion parameters. The model processes text, images, and video in a single pass to return probabilities for all possible answers, achieving a score of 87.2 on the team's SR-Text test.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/26/vllm-semantic-router-d3-ultra-27b-multimodal-decision-model/",
+      "category": "AI",
+      "filterTags": [
+        "vLLM",
+        "Semantic Router",
+        "d3-ultra",
+        "Multimodal",
+        "Open-weight"
+      ],
+      "publishedAt": "2026-10-27T05:50:57+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1793094934",
+      "title": "viable/strict/1793094934",
+      "dek": "[Dynamo] Support str and invert on lazy constants with symbolic reali…",
+      "aiSummary": "The Dynamo project has added support for string conversion and inversion operations on lazy constants that use symbolic representation. This update enhances the handling of symbolic constants in lazy evaluation contexts.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1793094934",
+      "category": "Open Source",
+      "filterTags": [
+        "Dynamo",
+        "lazy constants",
+        "symbolic"
+      ],
+      "publishedAt": "2026-10-27T05:42:45+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Programming Languages"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-s-constitutional-order",
+      "title": "Anthropic’s constitutional order",
+      "dek": "Plus, Lula’s victory",
+      "aiSummary": "The article covers Anthropic's constitutional order and notes Lula's victory. It outlines the framework of Anthropic's governance and references the recent political outcome in Brazil.",
+      "articleUrl": "https://www.ft.com/content/69a623e0-8605-4b1d-b147-770649efb53a?syn-25a6b1a6=1",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic"
+      ],
+      "publishedAt": "2026-10-27T05:30:08+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Politics"
+        }
+      ]
+    },
+    {
+      "slug": "baidu-open-sources-unlimited-ocr-2-for-hundred-page-document-parsing",
+      "title": "Baidu Open-Sources Unlimited OCR 2 for Hundred-Page Document Parsing",
+      "dek": "Baidu has released Unlimited OCR 2, an MIT-licensed 3B OCR model that parses hundred-page documents in one request. Its SR-SWA attention keeps per-step decoding cost nearly flat, scoring 77.1 on MarathonDocBench \n The post  Baidu Open-Sources Unlimited OCR 2 for Hundred-Page Docu",
+      "aiSummary": "Baidu has released Unlimited OCR 2, an MIT-licensed 3B parameter model designed to parse hundred-page documents in a single request. The model utilizes SR-SWA attention to maintain nearly flat per-step decoding costs and achieves a score of 77.1 on the MarathonDocBench benchmark.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/26/baidu-unlimited-ocr-2-open-source-long-document-ocr/",
+      "category": "AI",
+      "filterTags": [
+        "Baidu",
+        "Unlimited OCR 2",
+        "OCR",
+        "SR-SWA",
+        "MarathonDocBench"
+      ],
+      "publishedAt": "2026-10-27T05:26:36+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "india-s-outsourcers-defy-ai-threat",
+      "title": "India’s outsourcers defy AI threat",
+      "dek": "IT services groups now make 10% of revenue from helping companies integrate the new technology",
+      "aiSummary": "Indian IT services groups are now generating 10% of their revenue by assisting other companies with the integration of new technologies. This indicates that these outsourcers are leveraging artificial intelligence as a business opportunity rather than being negatively impacted by it.",
+      "articleUrl": "https://www.ft.com/content/42dc1a1c-2454-4eaf-bafe-ded5ad7855e4?syn-25a6b1a6=1",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "IT services",
+        "Outsourcing"
+      ],
+      "publishedAt": "2026-10-27T05:15:12+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Business"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Outsourcing"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-s-big-financial-reveal",
+      "title": "Anthropic’s big financial reveal",
+      "dek": "Here are the big takeaways from the start-up’s IPO prospectus",
+      "aiSummary": "The article outlines the key financial takeaways from Anthropic's IPO prospectus. It highlights the significant monetary disclosures made by the start-up in this document.",
+      "articleUrl": "https://www.ft.com/content/d1dca5d1-467f-4311-a004-82bb1ef761e0?syn-25a6b1a6=1",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "IPO",
+        "prospectus"
+      ],
+      "publishedAt": "2026-10-27T05:00:29+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "four-takeaways-from-anthropic-s-potentially-record-breaking-stock-market-filing",
+      "title": "Four takeaways from Anthropic’s potentially record-breaking stock market filing",
+      "dek": "The AI company’s first public financial disclosures reveal explosive growth, huge costs and risks ranging from cyber-attacks to the limits of safeguards Anthropic  has filed  to go public on the US stock market, revealing for the first time the AI research lab’s financials and al",
+      "aiSummary": "Anthropic's first public financial disclosures show explosive growth and high costs. The filing also highlights risks such as cyber-attacks and limits of safeguards. It marks the AI research lab's debut on the US stock market.",
+      "articleUrl": "https://www.theguardian.com/technology/2026/oct/26/anthropic-stock-market-filing-takeaways",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Anthropic",
+        "AI",
+        "public listing",
+        "stock market"
+      ],
+      "publishedAt": "2026-10-27T05:00:04+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "tgage-a-phenotypic-aging-clock-based-on-tabular-foundation-models-and-the-gompertz-law-for-assisted-living-facility-resi",
+      "title": "TGAge: A Phenotypic Aging Clock Based on Tabular Foundation Models and the Gompertz Law for Assisted Living Facility Residents",
+      "dek": "arXiv:2610.32994v1 Announce Type: new \nAbstract: Biological age captures overall health status beyond chronological age, yet existing biological aging clocks are difficult to apply to assisted living facility (ALF) residents due to scarce epigenetic data. We propose TGAge, a seco",
+      "aiSummary": "Researchers propose TGAge, a phenotypic aging clock designed for assisted living facility residents where epigenetic data is scarce. The model utilizes tabular foundation models and the Gompertz Law to estimate biological age, which reflects overall health status beyond chronological years.",
+      "articleUrl": "https://arxiv.org/abs/2610.32994",
+      "category": "Healthcare",
+      "filterTags": [
+        "TGAge",
+        "Tabular Foundation Models",
+        "Gompertz Law",
+        "Phenotypic Aging",
+        "Assisted Living"
+      ],
+      "publishedAt": "2026-10-27T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Healthcare"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Gerontology"
+        }
+      ]
+    },
+    {
+      "slug": "quantitative-resolvent-calculus-for-sample-covariance-matrices",
+      "title": "Quantitative Resolvent Calculus for Sample Covariance Matrices",
+      "dek": "arXiv:2610.33087v1 Announce Type: new \nAbstract: In this work, we develop a quantitative resolvent calculus for sample covariance matrices tailored to applications in high-dimensional statistics. We treat single resolvents, their derivatives, and products of two resolvents with d",
+      "aiSummary": "This work introduces a quantitative resolvent calculus specifically designed for sample covariance matrices. The methodology is tailored for applications within high-dimensional statistics. It addresses single resolvents, their derivatives, and products of two resolvents.",
+      "articleUrl": "https://arxiv.org/abs/2610.33087",
+      "category": "Mathematics",
+      "filterTags": [
+        "Resolvent Calculus",
+        "Sample Covariance Matrices",
+        "High-Dimensional Statistics",
+        "arXiv"
+      ],
+      "publishedAt": "2026-10-27T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Mathematics"
+        },
+        {
+          "name": "Statistics"
+        },
+        {
+          "name": "Data Science"
+        }
+      ]
+    },
+    {
+      "slug": "a-measure-geometric-theory-of-robustness-in-machine-learning",
+      "title": "A Measure-Geometric Theory of Robustness in Machine Learning",
+      "dek": "arXiv:2610.33123v1 Announce Type: new \nAbstract: This paper develops a foundational measure-geometric theory of robustness in machine learning. Robustness is formulated as escape from a retained task state relative to a reference measure on a data-bearing manifold, a perturbation",
+      "aiSummary": "The paper introduces a measure-geometric theory to define robustness in machine learning. It formulates robustness as the ability to escape from a retained task state relative to a reference measure on a data-bearing manifold.",
+      "articleUrl": "https://arxiv.org/abs/2610.33123",
+      "category": "AI",
+      "filterTags": [
+        "Machine Learning",
+        "Robustness",
+        "Measure-Geometric Theory",
+        "arXiv"
+      ],
+      "publishedAt": "2026-10-27T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Mathematics"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-ipo-openai-disproves-eth-end-of-the-internet",
+      "title": "Anthropic IPO 💰, OpenAI disproves ETH 👨‍💻, end of the internet 🌍",
+      "dek": "Anthropic is launching an IPO, OpenAI counters Ethereum, and the internet might be ending",
+      "aiSummary": "",
+      "articleUrl": "https://tldr.tech/tech/2026-10-27",
+      "category": "Finance",
+      "filterTags": [
+        "Anthropic",
+        "OpenAI",
+        "Ethereum"
+      ],
+      "publishedAt": "2026-10-27T00:00:00+00:00",
+      "publisher": {
+        "name": "TLDR",
+        "domain": "tldr.tech",
+        "website": "https://tldr.tech/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=tldr.tech&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=tldr.tech&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cryptocurrency"
+        },
+        {
+          "name": "Internet"
+        }
+      ]
+    },
+    {
+      "slug": "v0-33-0rc0",
+      "title": "v0.33.0rc0",
+      "dek": "[Bugfix][MRV2] Skip adaptive verification cost profiling in the CUDA …",
+      "aiSummary": "This release candidate includes a bug fix for the MRV2 component. The fix involves skipping adaptive verification cost profiling in the CUDA environment.",
+      "articleUrl": "https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc0",
+      "category": "Software Development",
+      "filterTags": [
+        "MRV2",
+        "CUDA"
+      ],
+      "publishedAt": "2026-10-26T17:59:24+00:00",
+      "publisher": {
+        "name": "vllm-project",
+        "domain": "github.com",
+        "website": "https://github.com/vllm-project/vllm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    }
+  ]
+}
