@@ -1,0 +1,1669 @@
+{
+  "news": [
+    {
+      "slug": "can-frontier-models-see-past-a-decoy-elorian-tests-visual-reasoning",
+      "title": "Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning",
+      "dek": "A new decoy counting benchmark exposes a gap between seeing and reasoning. Elorian’s Glimpse tries to bridge it by thinking with images.",
+      "aiSummary": "A new benchmark called decoy counting reveals a significant difference between visual perception and logical reasoning in frontier models. Elorian's Glimpse system aims to close this gap by utilizing image-based thinking processes.",
+      "articleUrl": "https://latent.space/p/elorian/",
+      "category": "AI",
+      "filterTags": [
+        "Elorian",
+        "Glimpse",
+        "Visual Reasoning",
+        "Decoy Counting",
+        "Frontier Models"
+      ],
+      "publishedAt": "2026-10-29T16:00:00+00:00",
+      "publisher": {
+        "name": "Latent Space",
+        "domain": "latent.space",
+        "website": "https://www.latent.space/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Computer Vision"
+        },
+        {
+          "name": "Benchmarks"
+        }
+      ]
+    },
+    {
+      "slug": "microsoft-just-shared-azure-s-actual-revenue-in-dollars-33-2-billion",
+      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "dek": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+      "aiSummary": "Microsoft has disclosed Azure's quarterly revenue in dollars for the first time, reporting a figure of $33.2 billion. This data provides insight into how close Azure is to surpassing its primary competitor, AWS.",
+      "articleUrl": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+      "category": "Cloud Computing",
+      "filterTags": [
+        "Microsoft",
+        "Azure",
+        "AWS"
+      ],
+      "publishedAt": "2026-10-28T21:58:32+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Corporate Finance"
+        }
+      ]
+    },
+    {
+      "slug": "b11971-opencl-add-tiled-q4-k-gemm-for-adreno-30412",
+      "title": "b11971: opencl: add tiled q4_k GEMM for adreno (#30412)",
+      "dek": "opencl: run the tiled q4_K lm_head through a tiled GEMM at batch > 1 \n \n \n opencl: split tiled dp4a q4_k gemm into its own file and test for dp4a \n \n \n Assisted-by: Codex \n \n Co-authored-by: Li He  lih@qti.qualcomm.com",
+      "aiSummary": "This update introduces a tiled GEMM operation for q4_k quantized weights in the OpenCL backend, specifically targeting Adreno GPUs. The change enables the tiled q4_K lm_head to run through a tiled GEMM when the batch size is greater than 1, and the tiled dp4a q4_k gemm logic has been separated into its own file with dedicated tests.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11971",
+      "category": "Hardware",
+      "filterTags": [
+        "OpenCL",
+        "Adreno",
+        "GEMM",
+        "q4_k",
+        "dp4a",
+        "Codex",
+        "Qualcomm"
+      ],
+      "publishedAt": "2026-10-28T21:55:28+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Performance Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "banks-shelve-bond-sale-for-anthropic-tied-texas-data-center",
+      "title": "Banks Shelve Bond Sale for Anthropic-Tied Texas Data Center",
+      "dek": "Banks are delaying plans to offload part of a $15 billion loan to fund a data center tied to Anthropic PBC in Texas, after the state put a hold on new projects while assessing risks to its power grid.",
+      "aiSummary": "Banks have delayed plans to sell a portion of a $15 billion loan intended to fund a data center associated with Anthropic PBC in Texas. This decision follows the state's decision to pause new projects while it evaluates potential risks to its power grid.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-28/banks-shelve-bond-sale-for-anthropic-tied-texas-data-center",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "Data Center",
+        "Texas",
+        "Bonds",
+        "Power Grid"
+      ],
+      "publishedAt": "2026-10-28T21:50:15+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "google-expands-ai-search-ads-globally-as-core-ad-growth-slows",
+      "title": "Google expands AI Search ads globally as core ad growth slows",
+      "dek": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+      "aiSummary": "Google announced the global expansion of its AI Search ads following Alphabet's third-quarter earnings report. The parent company reported a 25% year-over-year revenue increase, reaching $127.6 billion.",
+      "articleUrl": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+      "category": "AI",
+      "filterTags": [
+        "Google",
+        "Alphabet",
+        "AI Search",
+        "Advertising"
+      ],
+      "publishedAt": "2026-10-28T21:48:37+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Advertising"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-s-public-benefit-structure-creates-unusual-risks-for-ipo-investors",
+      "title": "Anthropic’s public benefit structure creates unusual risks for IPO investors",
+      "dek": "Anthropic’s PBC structure could put its AI mission ahead of shareholder returns",
+      "aiSummary": "Anthropic's status as a public benefit corporation (PBC) creates potential risks for IPO investors by prioritizing its AI mission over shareholder returns. This structure allows the company to balance social goals with financial performance, which may limit the ability of investors to demand maximum profit.",
+      "articleUrl": "https://www.cnbc.com/2026/10/28/anthropic-pbc-what-its-structure-means-for-investors-.html",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "PBC",
+        "IPO",
+        "Public Benefit Corporation"
+      ],
+      "publishedAt": "2026-10-28T21:48:17+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Corporate Governance"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "charles-schwab-integrating-ai-tools-and-financial-planning",
+      "title": "Charles Schwab Integrating AI Tools and Financial Planning",
+      "dek": "Charles Schwab is expanding its push into artificial intelligence, bringing Anthropic’s Claude for Financial Advisors directly into Schwab Advisor Center. The company says it is the first RIA custodian to offer Anthropic’s advisor-specific AI to independent firms. Alison Dooher, ",
+      "aiSummary": "Charles Schwab is integrating Anthropic's Claude for Financial Advisors into the Schwab Advisor Center, marking the first time an RIA custodian has offered this specific AI tool to independent firms. This move expands the company's use of artificial intelligence within its financial planning services.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-28/charles-schwab-integrating-ai-with-financial-planning-video",
+      "category": "AI",
+      "filterTags": [
+        "Charles Schwab",
+        "Anthropic",
+        "Claude",
+        "AI",
+        "RIA",
+        "Schwab Advisor Center"
+      ],
+      "publishedAt": "2026-10-28T21:47:10+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Financial Services"
+        },
+        {
+          "name": "Fintech"
+        }
+      ]
+    },
+    {
+      "slug": "ask-hn-we-tax-labour-why-not-tax-ai",
+      "title": "Ask HN: We tax labour, why not tax AI?",
+      "dek": "Why should we consider taxing AI instead of just taxing human labor?",
+      "aiSummary": "The provided text contains only a title and no article body. Therefore, no factual summary can be generated based on the content.",
+      "articleUrl": "https://news.ycombinator.com/item?id=50281372",
+      "category": "Economics",
+      "filterTags": [
+        "AI",
+        "Taxation",
+        "Labor"
+      ],
+      "publishedAt": "2026-10-28T21:45:07+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Economics"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "ai-agent-skills-for-better-second-hand-decisions",
+      "title": "AI agent skills for better second-hand decisions",
+      "dek": "Using AI agents to make smarter choices when buying used items",
+      "aiSummary": "The article discusses how AI agents can be utilized to improve decision-making processes in the second-hand market. It highlights the application of these tools to help users make better choices when purchasing pre-owned goods.",
+      "articleUrl": "https://github.com/budna-marketplace/recommerce",
+      "category": "AI",
+      "filterTags": [
+        "AI agents",
+        "second-hand market"
+      ],
+      "publishedAt": "2026-10-28T21:42:12+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "E-commerce"
+        }
+      ]
+    },
+    {
+      "slug": "microsoft-recorded-10-billion-in-revenue-from-openai",
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "dek": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+      "aiSummary": "Microsoft reported generating $10 billion in revenue from commercial agreements with OpenAI during the quarter ending September 30. This figure includes revenue-sharing payments and highlights the significant financial reliance within the partnership.",
+      "articleUrl": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "category": "AI",
+      "filterTags": [
+        "Microsoft",
+        "OpenAI"
+      ],
+      "publishedAt": "2026-10-28T21:34:30+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "akai-is-embracing-vibe-coded-mods-with-an-open-source-mpc",
+      "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+      "dek": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which",
+      "aiSummary": "Akai is giving early access to its unannounced MPC Sample Key to the modding community, showcasing vibe-coded modifications. The company is embracing the growing number of hackers and custom firmware developers.",
+      "articleUrl": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+      "category": "Hardware",
+      "filterTags": [
+        "Akai",
+        "MPC Sample Key",
+        "vibe coding",
+        "custom firmware"
+      ],
+      "publishedAt": "2026-10-28T21:34:04+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Custom Firmware"
+        }
+      ]
+    },
+    {
+      "slug": "b11970",
+      "title": "b11970",
+      "dek": "hexagon: add conv2d support ( #30995 ) \n \n \n hexagon: add conv2d op \n \n \n hex-conv2d: add double-buffered staging \n \n \n hex-conv2d: full 64-wide activation block transpose straight from staged buffer \n \n \n hex-conv2d: implicit gemm \n \n \n hex-conv2d: remove scalar path and kernel ",
+      "aiSummary": "The Hexagon backend has received support for the conv2d operation. This implementation includes double-buffered staging, a full 64-wide activation block transpose, and an implicit GEMM approach, while removing the previous scalar path and kernel.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11970",
+      "category": "Machine Learning",
+      "filterTags": [
+        "Hexagon",
+        "conv2d",
+        "GEMM"
+      ],
+      "publishedAt": "2026-10-28T21:33:05+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Hardware Acceleration"
+        }
+      ]
+    },
+    {
+      "slug": "microsoft-s-big-bets-on-ai-start-to-pay-off",
+      "title": "Microsoft's Big Bets on AI Start to Pay Off",
+      "dek": "Microsoft Corp. reported better-than-expected cloud revenue, suggesting the company continues to reap the benefits of its massive investment in artificial intelligence. Sales at Azure were up 48%. Revenue from a commercial deal with OpenAI totaled $10 billion. Bloomberg's Ed Ludl",
+      "aiSummary": "Microsoft reported stronger-than-expected cloud revenue, indicating its AI investments are paying off. Azure sales rose 48%, and the company earned $10 billion from a commercial deal with OpenAI.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-28/microsoft-s-big-bets-on-ai-start-to-pay-off-video",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Microsoft",
+        "Azure",
+        "OpenAI"
+      ],
+      "publishedAt": "2026-10-28T21:29:47+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Cloud Computing"
+        }
+      ]
+    },
+    {
+      "slug": "ai-training-platform-outlier-illegally-surveils-european-platform-workers",
+      "title": "AI training platform Outlier illegally surveils European platform workers",
+      "dek": "Outlier, an AI training platform, is illegally monitoring European gig workers.",
+      "aiSummary": "No article content was provided. Therefore, no further details are available.",
+      "articleUrl": "https://noyb.eu/en/ai-training-platform-outlier-illegally-surveils-european-platform-workers",
+      "category": "AI",
+      "filterTags": [
+        "Outlier"
+      ],
+      "publishedAt": "2026-10-28T21:22:15+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Labor"
+        },
+        {
+          "name": "Europe"
+        }
+      ]
+    },
+    {
+      "slug": "coreweave-and-other-neocloud-stocks-drop-after-microsoft-capex-comes-in-below-expectations",
+      "title": "CoreWeave and other neocloud stocks drop after Microsoft capex comes in below expectations",
+      "dek": "Shares of CoreWeave, Nebius and IREN fell as Microsoft's lower-than-expected capex figure points to infrastructure partners taking longer to deliver capacity.",
+      "aiSummary": "Shares of CoreWeave, Nebius, and IREN declined following Microsoft's report of capital expenditures that were lower than market expectations. This outcome suggests that infrastructure partners may take longer to deliver the necessary computing capacity.",
+      "articleUrl": "https://www.cnbc.com/2026/10/28/neocloud-stocks-drop-after-microsoft-revises-capex-down.html",
+      "category": "Cloud Computing",
+      "filterTags": [
+        "CoreWeave",
+        "Nebius",
+        "IREN",
+        "Microsoft",
+        "capex"
+      ],
+      "publishedAt": "2026-10-28T21:14:08+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Stock Market"
+        }
+      ]
+    },
+    {
+      "slug": "microsoft-cloud-revenue-beats-expectations",
+      "title": "Microsoft cloud revenue beats expectations",
+      "dek": "Software group reports overall revenue rose 19% to $92.3bn in quarter to end of September",
+      "aiSummary": "Microsoft's software division posted a 19% increase in revenue, reaching $92.3 billion for the quarter ending September. The company's cloud revenue surpassed analysts' expectations.",
+      "articleUrl": "https://www.ft.com/content/93f53cb4-1fc8-4ca5-aa91-186b77b03d92?syn-25a6b1a6=1",
+      "category": "Technology",
+      "filterTags": [
+        "Microsoft",
+        "cloud"
+      ],
+      "publishedAt": "2026-10-28T21:02:43+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "google-shares-tumble-9-after-51bn-ai-outlay-deepens-cash-burn",
+      "title": "Google shares tumble 9% after $51bn AI outlay deepens cash burn",
+      "dek": "Search giant missed estimates for revenue and profit as its search business undershot expectations",
+      "aiSummary": "Google's shares dropped 9% after the company announced a $51 billion spend on AI, which has increased its cash burn. The company also missed revenue and profit forecasts, with its search business falling short of expectations.",
+      "articleUrl": "https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1",
+      "category": "Technology",
+      "filterTags": [
+        "Google",
+        "AI",
+        "cash burn",
+        "search"
+      ],
+      "publishedAt": "2026-10-28T20:54:59+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "alphabet-s-revenue-rises-25-as-profit-falls",
+      "title": "Alphabet’s Revenue Rises 25% as Profit Falls",
+      "dek": "The company has been spending relentlessly to build A.I., but its revenue growth was not as high as investors had anticipated. Profit dropped because of changes to the value of its investments.",
+      "aiSummary": "Alphabet reported a 25% increase in revenue, though the growth fell short of investor expectations. The company's profit declined due to changes in the valuation of its investments, despite heavy ongoing spending on artificial intelligence.",
+      "articleUrl": "https://www.nytimes.com/2026/10/28/technology/alphabet-earnings-google-ai.html",
+      "category": "Technology",
+      "filterTags": [
+        "Alphabet",
+        "AI",
+        "Revenue",
+        "Profit"
+      ],
+      "publishedAt": "2026-10-28T20:54:11+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "microsoft-s-profit-jumps-32-despite-big-increase-in-spending",
+      "title": "Microsoft’s Profit Jumps 32% Despite Big Increase in Spending",
+      "dek": "The company’s free cash flow stayed positive in the last quarter even as it spent $45.2 billion on data centers and offered to pay workers to leave.",
+      "aiSummary": "Microsoft reported a 32% increase in profit. Despite a $45.2 billion spend on data centers and a program to pay employees to leave, its free cash flow remained positive in the last quarter.",
+      "articleUrl": "https://www.nytimes.com/2026/10/28/technology/microsoft-earnings-ai.html",
+      "category": "Finance",
+      "filterTags": [
+        "Microsoft",
+        "data centers",
+        "free cash flow"
+      ],
+      "publishedAt": "2026-10-28T20:37:00+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Corporate Strategy"
+        }
+      ]
+    },
+    {
+      "slug": "the-4-biggest-amazon-smart-home-announcements-from-today",
+      "title": "The 4 biggest Amazon smart home announcements from today",
+      "dek": "From a new smart alarm clock to an Alexa-powered 3D map of your home, here’s what’s new from Amazon, including prices and release dates.",
+      "aiSummary": "Amazon has unveiled four new smart home devices, including a smart alarm clock and an Alexa-powered 3D map of the home. The announcement includes details on the pricing and release dates for these new products.",
+      "articleUrl": "https://www.zdnet.com/home-and-office/amazon-echo-smart-home-announcements-october-2026-price-availability/",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Amazon",
+        "Alexa",
+        "Smart Home"
+      ],
+      "publishedAt": "2026-10-28T20:35:05+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Smart Home"
+        }
+      ]
+    },
+    {
+      "slug": "creating-ai-value-with-enterprise-context",
+      "title": "Creating AI value with enterprise context",
+      "dek": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when s",
+      "aiSummary": "The article notes that many AI platforms can operate at once in a business, including customer platforms, conversational assistants, and workflow automation tools. These systems are sophisticated, advanced, and responsive. The article suggests that challenges arise when integrating or managing these systems.",
+      "articleUrl": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AI",
+        "customer platforms",
+        "conversational assistants",
+        "workflow automation"
+      ],
+      "publishedAt": "2026-10-28T20:32:02+00:00",
+      "publisher": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "website": "https://www.technologyreview.com/",
+        "logoUrl": "https://www.technologyreview.com/static/media/favicon.1cfcdb44759a0f93ddf5feb5405dd4cc.ico",
+        "faviconUrl": "https://www.technologyreview.com/static/media/favicon.1cfcdb44759a0f93ddf5feb5405dd4cc.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Enterprise Software"
+        },
+        {
+          "name": "Automation"
+        }
+      ]
+    },
+    {
+      "slug": "apple-s-proled-xdr-display-has-a-cringy-name-but-incredible-specs",
+      "title": "Apple's PROLED XDR Display has a cringy name but incredible specs",
+      "dek": "With all the fuss about Apple finally releasing a touchscreen MacBook Pro, you may have forgotten about the OLED part.",
+      "aiSummary": "Apple is set to release a touchscreen MacBook Pro, but the OLED display has been largely overlooked. The article highlights the display's impressive specifications.",
+      "articleUrl": "https://www.engadget.com/2300407/apples-proled-xdr-display-has-a-cringy-name-but-incredible-specs/",
+      "category": "Hardware",
+      "filterTags": [
+        "Apple",
+        "MacBook Pro",
+        "OLED",
+        "touchscreen"
+      ],
+      "publishedAt": "2026-10-28T20:31:43+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Display Technology"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "google-launches-gemini-4-carbon-with-a-significant-leap-in-cybersecurity",
+      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "dek": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Clau",
+      "aiSummary": "Google has released Gemini 4 Carbon, its latest frontier model, which offers significant improvements in coding, agentic tasks, and cybersecurity. The company announced that the model achieved the top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark.",
+      "articleUrl": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "category": "AI",
+      "filterTags": [
+        "Google",
+        "Gemini 4 Carbon",
+        "Artificial Analysis Intelligence Index"
+      ],
+      "publishedAt": "2026-10-28T20:03:00+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cybersecurity"
+        }
+      ]
+    },
+    {
+      "slug": "apple-updated-the-world-travel-adapter-kits-and-two-power-adapters",
+      "title": "Apple updated the World Travel Adapter Kits and two power adapters",
+      "dek": "Alongside the torrent of other stuff this week, Apple quietly updated the 70W Power Adapter, 140W Power Adapter, and the World Travel Adapter Kit. If that wasn't enough, our long national nightmare is over, with a new Power Adapter Extension Cable available for the first time in ",
+      "aiSummary": "Apple has updated its 70W and 140W Power Adapters along with the World Travel Adapter Kit. Additionally, the company has made a new Power Adapter Extension Cable available for the first time.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/28/apple-updated-the-world-travel-adapter-kits-and-two-power-adapters?utm_source=rss",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Apple",
+        "Power Adapter",
+        "World Travel Adapter Kit"
+      ],
+      "publishedAt": "2026-10-28T20:01:43+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "oracle-stock-pops-11-as-long-term-revenue-forecast-and-clarity-on-financing-ease-debt-concerns",
+      "title": "Oracle stock pops 11% as long-term revenue forecast and clarity on financing ease debt concerns",
+      "dek": "Oracle issued a revenue forecast for fiscal year 2030 of $225 billion, and said it will limit additional fundraising over that stretch to $20 billion.",
+      "aiSummary": "Oracle projected a revenue of $225 billion for fiscal year 2030. Additionally, the company stated it would cap its extra fundraising at $20 billion during the same period.",
+      "articleUrl": "https://www.cnbc.com/2026/10/28/oracle-forecast-growth-2030.html",
+      "category": "Finance",
+      "filterTags": [
+        "Oracle"
+      ],
+      "publishedAt": "2026-10-28T20:00:44+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "why-agents-love-supabase",
+      "title": "Why Agents Love Supabase",
+      "dek": "Paul Copplestone and Ant Wilson on building the backend for AI agents",
+      "aiSummary": "Paul Copplestone and Ant Wilson discuss the process of developing backend infrastructure specifically for AI agents. They explain why Supabase is a preferred choice for these applications.",
+      "articleUrl": "https://latent.space/p/supabase/",
+      "category": "AI",
+      "filterTags": [
+        "Supabase",
+        "AI agents",
+        "Backend"
+      ],
+      "publishedAt": "2026-10-28T19:48:05+00:00",
+      "publisher": {
+        "name": "Latent Space",
+        "domain": "latent.space",
+        "website": "https://www.latent.space/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Backend Development"
+        }
+      ]
+    },
+    {
+      "slug": "airtag-lawsuit-challenges-how-easily-tracking-alerts-can-be-disabled",
+      "title": "AirTag lawsuit challenges how easily tracking alerts can be disabled",
+      "dek": "A new AirTag lawsuit puts Apple's handling of disabled tracking alerts at the center of a demand for stronger safeguards. Apple sued over AirTag alerts disabled with iPhone passcode A Washington woman is suing Apple after alleging AirTag safeguards failed to prevent tracking duri",
+      "aiSummary": "A Washington woman has filed a lawsuit against Apple, arguing that the company’s AirTag tracking alerts can be easily disabled, allowing unwanted tracking. The case highlights concerns that current safeguards are insufficient and calls for stronger protections. Apple is being sued for failing to prevent tracking when alerts are turned off with an iPhone passcode.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/28/airtag-lawsuit-challenges-how-easily-tracking-alerts-can-be-disabled?utm_source=rss",
+      "category": "Technology",
+      "filterTags": [
+        "AirTag",
+        "Apple",
+        "iPhone"
+      ],
+      "publishedAt": "2026-10-28T19:47:01+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Privacy"
+        },
+        {
+          "name": "Legal"
+        }
+      ]
+    },
+    {
+      "slug": "it-was-the-right-time-to-add-touch-to-the-macbook-pro-says-john-ternus",
+      "title": "It was the right time to add touch to the MacBook Pro, says John Ternus",
+      "dek": "Apple has long resisted bringing touch support to the Mac, but it's finally made the jump with the new  MacBook Pro . It's all because Apple felt it was the right time to make the change. Touching the new MacBook Pro's display - Image Credit: Apple The MacBook line has been one o",
+      "aiSummary": "Apple has introduced touch support to the new MacBook Pro, marking a significant shift from its long-standing resistance to the feature. Executive John Ternus stated that the company decided to make this change because it felt the timing was right.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/28/it-was-the-right-time-to-add-touch-to-the-macbook-pro-says-john-ternus?utm_source=rss",
+      "category": "Hardware",
+      "filterTags": [
+        "Apple",
+        "MacBook Pro",
+        "John Ternus",
+        "Touch"
+      ],
+      "publishedAt": "2026-10-28T19:45:35+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "meta-weighs-delaying-alarming-new-business-terms-as-backlash-grows",
+      "title": "Meta weighs delaying 'alarming' new business terms as backlash grows",
+      "dek": "The company says it won't make \"policy changes\" until it consults with publishers.",
+      "aiSummary": "Meta is contemplating a delay in implementing its new business terms following growing backlash. The company has committed to consulting with publishers before making any policy changes.",
+      "articleUrl": "https://www.engadget.com/2300293/meta-weighs-delaying-alarming-new-business-terms-as-backlash-grows/",
+      "category": "Business",
+      "filterTags": [
+        "Meta"
+      ],
+      "publishedAt": "2026-10-28T19:42:27+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Business"
+        },
+        {
+          "name": "Policy"
+        },
+        {
+          "name": "Social Media"
+        }
+      ]
+    },
+    {
+      "slug": "the-playstation-5-just-might-be-sony-s-final-blu-ray-player",
+      "title": "The PlayStation 5 just might be Sony's final Blu-Ray player",
+      "dek": "Between Sony's plan to end PlayStation disc production and discontinuing its Blu-ray players, the future looks grim for physical media.",
+      "aiSummary": "Sony plans to stop producing PlayStation discs and is discontinuing its Blu‑ray players, signaling a decline in physical media support. The PlayStation 5 may become Sony's final Blu‑ray player. This move reflects a broader shift away from physical media.",
+      "articleUrl": "https://www.engadget.com/2300289/playstation-5-might-be-sony-final-blu-ray-player/",
+      "category": "Gaming",
+      "filterTags": [
+        "Sony",
+        "PlayStation 5",
+        "Blu‑ray"
+      ],
+      "publishedAt": "2026-10-28T19:39:47+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Media"
+        }
+      ]
+    },
+    {
+      "slug": "oracle-rallies-after-telling-investors-its-ai-bet-will-pay-off-sooner-than-expected",
+      "title": "Oracle rallies after telling investors its AI bet will pay off sooner than expected",
+      "dek": "Database group projects $30bn in free cash flow by 2029 and will limit additional raising for data centre strategy to $20bn",
+      "aiSummary": "Oracle stock rose following an announcement that its AI strategy will generate returns sooner than previously expected. The database company projects $30 billion in free cash flow by 2029 and plans to cap additional capital raising for its data center strategy at $20 billion.",
+      "articleUrl": "https://www.ft.com/content/fb08df06-da63-4e94-822d-a47b94616871?syn-25a6b1a6=1",
+      "category": "Technology",
+      "filterTags": [
+        "Oracle",
+        "AI",
+        "Data Center",
+        "Free Cash Flow"
+      ],
+      "publishedAt": "2026-10-28T19:34:13+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "elon-musk-is-a-real-genius-putin-says-after-satellite-talks-with-spacex-boss",
+      "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+      "dek": "The Russian President praised Musk and said they are in \"close\" contact.",
+      "aiSummary": "Russian President Vladimir Putin praised Elon Musk as a \"real genius\" following satellite talks with SpaceX CEO. He said the two are in close contact.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
+      "category": "Space",
+      "filterTags": [
+        "Elon Musk",
+        "SpaceX",
+        "satellite"
+      ],
+      "publishedAt": "2026-10-28T19:15:58+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Space"
+        },
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "b11969",
+      "title": "b11969",
+      "dek": "Speed up IQ4 quant creation with pre-computed halfway points ( #31201 ) \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/60965905 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silicon (arm64, KleidiAI enabl",
+      "aiSummary": "This update to llama.cpp accelerates the creation of IQ4 quantizations by utilizing pre-computed halfway points. The release is identified as build b11969 and includes support for macOS Apple Silicon with KleidiAI enabled.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11969",
+      "category": "AI",
+      "filterTags": [
+        "llama.cpp",
+        "IQ4",
+        "quantization",
+        "KleidiAI",
+        "Apple Silicon"
+      ],
+      "publishedAt": "2026-10-28T19:12:03+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "apple-s-new-touchscreen-macbook-pros-may-be-late-but-they-have-one-big-advantage",
+      "title": "Apple’s new touchscreen MacBook Pros may be late, but they have one big advantage",
+      "dek": "Apple finally revealed its new MacBook M5 Pro and Max with a touchscreen OLED display, bringing the best features from the iPhone to its laptops.",
+      "aiSummary": "Apple has announced its new MacBook M5 Pro and Max laptops, which include a touchscreen OLED display. The devices bring iPhone-level features to the MacBook line. Although the launch may be delayed, the touchscreen is a key selling point.",
+      "articleUrl": "https://www.zdnet.com/tech/apples-new-touchscreen-macbook-pros-may-be-late-but-they-have-one-big-advantage/",
+      "category": "Hardware",
+      "filterTags": [
+        "Apple",
+        "MacBook",
+        "M5 Pro",
+        "M5 Max",
+        "touchscreen",
+        "OLED display",
+        "iPhone"
+      ],
+      "publishedAt": "2026-10-28T18:58:25+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Display Technology"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "your-public-discord-messages-may-soon-appear-in-google-search-results-how-to-opt-out",
+      "title": "Your public Discord messages may soon appear in Google search results – how to opt out",
+      "dek": "Discord announced a new feature that can make your server messages discoverable on Google. Here’s how to opt out.",
+      "aiSummary": "Discord has introduced a feature that allows server messages to be indexed and displayed in Google search results. Users who do not want their public messages to be discoverable can opt out of this new setting.",
+      "articleUrl": "https://www.zdnet.com/tech/discord-servers-searchable-on-web/",
+      "category": "Social Media",
+      "filterTags": [
+        "Discord",
+        "Google"
+      ],
+      "publishedAt": "2026-10-28T18:56:53+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Social Media"
+        },
+        {
+          "name": "Privacy"
+        }
+      ]
+    },
+    {
+      "slug": "google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-can-t-use",
+      "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+      "dek": "Gemini 4 Carbon is essentially a slightly better version of Argon.",
+      "aiSummary": "Google has announced Gemini 4 Carbon, a new frontier AI model that is currently inaccessible to users. The model is described as being essentially a slightly improved version of the previous model, Argon.",
+      "articleUrl": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+      "category": "AI",
+      "filterTags": [
+        "Google",
+        "Gemini 4 Carbon",
+        "Argon"
+      ],
+      "publishedAt": "2026-10-28T18:47:27+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "microsoft-is-ending-copilot-support-on-smart-tvs",
+      "title": "Microsoft is ending Copilot support on smart TVs",
+      "dek": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central. The news comes n",
+      "aiSummary": "Microsoft is discontinuing support for its Copilot AI assistant on all smart TVs this year. This decision comes nearly two years after LG and Samsung initially announced at CES 2025 that their latest smart TVs would feature access to Copilot, according to a report by Windows Central.",
+      "articleUrl": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+      "category": "AI",
+      "filterTags": [
+        "Microsoft",
+        "Copilot",
+        "Smart TVs",
+        "LG",
+        "Samsung",
+        "CES 2025",
+        "Windows Central",
+        "AI assistant"
+      ],
+      "publishedAt": "2026-10-28T18:36:26+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Software"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "i-put-a-bunch-of-ai-agents-in-charge-of-a-fantasy-soccer-team-they-re-not-better-than-humans-yet",
+      "title": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
+      "dek": "To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways.",
+      "aiSummary": "The author experimented with using AI agents to manage a fantasy soccer team to evaluate their predictive capabilities. The AI, specifically Codex, initially made poor decisions such as benching Erling Haaland but eventually corrected its strategy.",
+      "articleUrl": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
+      "category": "AI",
+      "filterTags": [
+        "AI Agents",
+        "Codex",
+        "Fantasy Soccer",
+        "Erling Haaland"
+      ],
+      "publishedAt": "2026-10-28T18:30:00+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Sports Technology"
+        }
+      ]
+    },
+    {
+      "slug": "building-an-agentic-ai-platform-on-amazon-bedrock-agentcore",
+      "title": "Building an Agentic AI Platform on Amazon Bedrock AgentCore",
+      "dek": "Stand up a governed, multi-account Agentic AI Platform on Amazon Bedrock AgentCore. This post walks through the architecture and an open-source reference blueprint: the operating model, control plane, per-Workstream cells, separate inference and tool gateways, and a CI/CD evaluat",
+      "aiSummary": "The article explains how to set up a governed, multi-account agentic AI platform using Amazon Bedrock AgentCore. It details the architecture, including an operating model, control plane, workstream cells, separate inference and tool gateways, and a CI/CD evaluation pipeline. An open-source reference blueprint is provided to guide implementation.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-platform-on-amazon-bedrock-agentcore/",
+      "category": "AI",
+      "filterTags": [
+        "Amazon Bedrock",
+        "AgentCore",
+        "CI/CD",
+        "Open Source"
+      ],
+      "publishedAt": "2026-10-28T18:28:26+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "distributed-training-with-ray-train-dlcs-and-efa-on-eks",
+      "title": "Distributed training with Ray Train DLCs and EFA on EKS",
+      "dek": "The Ray Train Deep Learning Container ships the full CUDA-through-EFA stack, so you build no image. This post walks through a reproducible sample that fine-tunes Qwen2.5-1.5B with PyTorch FSDP across eight GPUs on two EFA-enabled g6.12xlarge instances on Amazon EKS, using the con",
+      "aiSummary": "The Ray Train Deep Learning Container (DLC) provides a complete CUDA-through-EFA stack, eliminating the need for custom image building. The article demonstrates fine-tuning the Qwen2.5-1.5B model using PyTorch FSDP across eight GPUs on two EFA-enabled g6.12xlarge instances within Amazon EKS. This setup showcases a reproducible sample for distributed deep learning.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/distributed-training-with-ray-train-dlcs-and-efa-on-eks/",
+      "category": "AI",
+      "filterTags": [
+        "Ray Train",
+        "Deep Learning Container",
+        "EFA",
+        "Amazon EKS",
+        "CUDA",
+        "Qwen2.5-1.5B",
+        "PyTorch FSDP",
+        "GPU"
+      ],
+      "publishedAt": "2026-10-28T18:19:54+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Distributed Systems"
+        },
+        {
+          "name": "Deep Learning"
+        }
+      ]
+    },
+    {
+      "slug": "accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-3",
+      "title": "Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 3",
+      "dek": "As QA test automation spreads across an organization, organizing tests and controlling who owns them becomes the real work. Part 3 of the QA Studio series on Amazon Nova Act adds applications that organize tests and report health metrics, plus team-based user management that cont",
+      "aiSummary": "This article, the third in the QA Studio series, focuses on the organizational challenges of scaling QA test automation, such as test ownership and structure. It introduces applications built on Amazon Nova Act that organize tests, report health metrics, and manage team-based user access.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-3/",
+      "category": "Software Engineering",
+      "filterTags": [
+        "Amazon Nova Act",
+        "QA Automation",
+        "Test Management",
+        "User Management"
+      ],
+      "publishedAt": "2026-10-28T18:12:13+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Quality Assurance"
+        }
+      ]
+    },
+    {
+      "slug": "google-deepmind-introduces-gemini-4-carbon-its-top-model-for-cyber-defense-and-coding",
+      "title": "Google DeepMind Introduces Gemini 4 Carbon, Its Top Model for Cyber Defense and Coding",
+      "dek": "Google DeepMind introduced Gemini 4 Carbon, a frontier model that scores 59 on the Artificial Analysis Intelligence Index and 88.2% on SEC-bench Pro. Access starts with vetted cyber defenders, at $2/$10 per million tokens. \n The post  Google DeepMind Introduces Gemini 4 Carbon, I",
+      "aiSummary": "Google DeepMind has released Gemini 4 Carbon, a frontier model that achieves a score of 59 on the Artificial Analysis Intelligence Index and 88.2% on SEC-bench Pro. Access to the model is initially restricted to vetted cyber defenders, with pricing set at $2 per million input tokens and $10 per million output tokens.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/28/google-deepmind-gemini-4-carbon-frontier-model/",
+      "category": "AI",
+      "filterTags": [
+        "Google DeepMind",
+        "Gemini 4 Carbon",
+        "Cyber Defense",
+        "Coding",
+        "SEC-bench Pro",
+        "Artificial Analysis Intelligence Index"
+      ],
+      "publishedAt": "2026-10-28T17:48:38+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "google-ai-gets-cagey-when-asked-who-won-the-2020-elections",
+      "title": "Google AI gets cagey when asked who won the 2020 elections",
+      "dek": "But the AI responses get more forthright when asked outside the US.",
+      "aiSummary": "Google's AI was reluctant to confirm the winner of the 2020 U.S. election. However, when the same question was asked about elections in other countries, the AI gave clearer answers.",
+      "articleUrl": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+      "category": "AI",
+      "filterTags": [
+        "Google",
+        "AI"
+      ],
+      "publishedAt": "2026-10-28T17:46:32+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Ethics"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1793222487-fix-flaky-test-asymmetric-compilation-timeouts-202354",
+      "title": "viable/strict/1793222487: Fix flaky test_asymmetric_compilation timeouts (#202354)",
+      "dek": "Passes lint ( spin fixlint ) \n  Added/updated tests \n  Updated documentation (if applicable) \n  Included benchmark results (for PRs impacting perf) \n \n Linked issue or supporting maintainer \n Supported by  @jeffdaily \n BC-breaking? \n No \n Summary (human written only) \n test_asymm",
+      "aiSummary": "The pull request fixes flaky timeouts in the test_asymmetric_compilation test. It passes lint checks, updates tests and documentation, and includes benchmark results. The change is not breaking and is supported by maintainer @jeffdaily.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1793222487",
+      "category": "Testing",
+      "filterTags": [
+        "test_asymmetric_compilation",
+        "lint",
+        "benchmark",
+        "jeffdaily"
+      ],
+      "publishedAt": "2026-10-28T16:47:14+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Testing"
+        },
+        {
+          "name": "Quality Assurance"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1793219161-fix-angle-for-0-0-201860",
+      "title": "viable/strict/1793219161: [fix] angle for -0.0 (#201860)",
+      "dek": "Linked issue or supporting maintainer \n Fixes  #78413 \nSupported by  @Isalia20 \n Summary (human written only) \n Fixes  angle  for  -0.0  input values in the cpu & cuda backends and inductor. \n Agent details (if applicable) \n AI helped me with intel intrinsics and I verified it wi",
+      "aiSummary": "This update fixes the angle calculation for -0.0 input values across CPU, CUDA backends, and Inductor. The change resolves issue #78413 and includes assistance with Intel intrinsics.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1793219161",
+      "category": "Machine Learning",
+      "filterTags": [
+        "PyTorch",
+        "CUDA",
+        "Inductor",
+        "Intel Intrinsics",
+        "CPU"
+      ],
+      "publishedAt": "2026-10-28T16:13:05+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Hardware Acceleration"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1793215430",
+      "title": "viable/strict/1793215430",
+      "dek": "Update pr-review BC guidelines to use the declared minimum Python ver…",
+      "aiSummary": "The article announces an update to the pr-review BC guidelines, specifying that the declared minimum Python version should be used. This change ensures that code reviews align with the project's Python version requirements.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1793215430",
+      "category": "Programming Languages",
+      "filterTags": [
+        "Python",
+        "pr-review"
+      ],
+      "publishedAt": "2026-10-28T15:04:23+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Programming Languages"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "openai-and-servicenow-expand-partnership-across-enterprise-workflows",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "dek": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "aiSummary": "OpenAI and ServiceNow are expanding their partnership. This collaboration aims to integrate OpenAI's models and agents directly into ServiceNow's platform, while also embedding ServiceNow workflows into OpenAI's ChatGPT and Codex.",
+      "articleUrl": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "ServiceNow",
+        "ChatGPT",
+        "Codex",
+        "AI Models",
+        "Enterprise Workflows"
+      ],
+      "publishedAt": "2026-10-28T13:15:00+00:00",
+      "publisher": {
+        "name": "OpenAI",
+        "domain": "openai.com",
+        "website": "https://openai.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Enterprise Software"
+        },
+        {
+          "name": "Partnerships"
+        }
+      ]
+    },
+    {
+      "slug": "the-future-of-the-firm",
+      "title": "The future of the firm",
+      "dek": "How AI might enter the org chart—beneath, beside, and between us.",
+      "aiSummary": "The article explores how AI is expected to integrate into organizational charts in various ways. It suggests that AI will operate beneath, beside, and between human employees within firms.",
+      "articleUrl": "https://openai.com/index/the-future-of-the-firm",
+      "category": "AI",
+      "filterTags": [
+        "AI"
+      ],
+      "publishedAt": "2026-10-28T10:00:00+00:00",
+      "publisher": {
+        "name": "OpenAI",
+        "domain": "openai.com",
+        "website": "https://openai.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Business Strategy"
+        }
+      ]
+    }
+  ]
+}
