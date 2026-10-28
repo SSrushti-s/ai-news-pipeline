@@ -1,0 +1,1220 @@
+{
+  "news": [
+    {
+      "slug": "v1-109-0-dev-1",
+      "title": "v1.109.0-dev.1",
+      "dek": "Verify Docker Image Signature \n All LiteLLM Docker images are signed with  cosign . This release is signed with the key introduced in  commit  e82a3c6 . \n Verify using the pinned commit hash (recommended): \n A commit hash is cryptographically immutable, so this is the strongest w",
+      "aiSummary": "The v1.109.0-dev.1 release of LiteLLM includes Docker images signed with cosign, using a key introduced in commit e82a3c6. Users are advised to verify the signature with the pinned commit hash, which provides the most secure validation.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.109.0-dev.1",
+      "category": "Security",
+      "filterTags": [
+        "LiteLLM",
+        "cosign",
+        "Docker",
+        "commit hash"
+      ],
+      "publishedAt": "2026-10-28T03:03:06+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "wikipedia-signs-of-ai-writing",
+      "title": "Wikipedia: Signs of AI Writing",
+      "dek": "Signs that Wikipedia content might be AI-generated",
+      "aiSummary": "",
+      "articleUrl": "https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing",
+      "category": "Artificial Intelligence",
+      "filterTags": [],
+      "publishedAt": "2026-10-28T02:48:51+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": []
+    },
+    {
+      "slug": "writing-ai-agents-in-yaml-instead-of-python",
+      "title": "Writing AI agents in YAML instead of Python",
+      "dek": "Using YAML to write AI agents instead of Python",
+      "aiSummary": "",
+      "articleUrl": "https://codecut.ai/build-ai-agents-yaml-docker-agent/",
+      "category": "AI",
+      "filterTags": [
+        "YAML",
+        "Python",
+        "AI agents"
+      ],
+      "publishedAt": "2026-10-28T02:30:09+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-3073d279981bed645fe7f9d2c7a8420cd769cee2",
+      "title": "trunk/3073d279981bed645fe7f9d2c7a8420cd769cee2",
+      "dek": "[ROCm][ciflow/rocm-preview] Update rocm wheel to 10.3.0a20261027 ( #19 …",
+      "aiSummary": "The provided text indicates a specific commit in the trunk branch that updates the ROCm wheel to version 10.3.0a20261027. This change is associated with the ciflow/rocm-preview configuration and is linked to pull request #19.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F3073d279981bed645fe7f9d2c7a8420cd769cee2",
+      "category": "Hardware",
+      "filterTags": [
+        "ROCm",
+        "wheel",
+        "10.3.0a20261027",
+        "ciflow"
+      ],
+      "publishedAt": "2026-10-28T02:26:08+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-33ce05e31c0329f5a754b6d5bcba639d6ff25604",
+      "title": "trunk/33ce05e31c0329f5a754b6d5bcba639d6ff25604",
+      "dek": "[mergebot] Tag replies to merge and revert commands with their status…",
+      "aiSummary": "The merge bot now tags responses to merge and revert commands with their current status. This helps developers quickly see whether a merge or revert has succeeded or failed. The change is part of the trunk branch updates.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F33ce05e31c0329f5a754b6d5bcba639d6ff25604",
+      "category": "Automation",
+      "filterTags": [
+        "mergebot",
+        "merge",
+        "revert",
+        "status",
+        "tag"
+      ],
+      "publishedAt": "2026-10-28T02:24:33+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Automation"
+        },
+        {
+          "name": "Version Control"
+        },
+        {
+          "name": "Collaboration"
+        }
+      ]
+    },
+    {
+      "slug": "ai-agents-are-changing-the-price-of-goods-odd-lots-video",
+      "title": "AI Agents Are Changing the Price of Goods (Odd Lots) [video]",
+      "dek": "Artificial intelligence agents are changing how goods are priced.",
+      "aiSummary": "The cost of products is being influenced by AI, as discussed in the Odd Lots video.",
+      "articleUrl": "https://www.youtube.com/watch?v=gzgBmZcSEU8",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Odd Lots"
+      ],
+      "publishedAt": "2026-10-28T02:09:46+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-913e42b6204ffab6db10a774262f77c5c5ef758e-cpp-faketensor-check-for-a-fake-device-where-one-is-required-200661",
+      "title": "trunk/913e42b6204ffab6db10a774262f77c5c5ef758e: [CPP FakeTensor] Check for a fake device where one is required (#200661)",
+      "dek": "These sites read x.fake_device and use the result as a device: the Dynamo \nshallow-copy placeholder snapshot restore in OutputGraph, the _to_dense, \nto_mkldnn and conv fake impls, and RuntimeEstimator's to_real_tensor. A C++ \nfake is a plain Tensor without that attribute, so they",
+      "aiSummary": "The update addresses an issue where C++ fake tensors, which lack the fake_device attribute, were being used in contexts that required it. This fix ensures that specific operations, such as Dynamo snapshot restoration and various fake implementations, correctly handle the absence of this attribute.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F913e42b6204ffab6db10a774262f77c5c5ef758e",
+      "category": "Machine Learning",
+      "filterTags": [
+        "PyTorch",
+        "C++",
+        "FakeTensor",
+        "Dynamo"
+      ],
+      "publishedAt": "2026-10-28T02:04:10+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "b11946",
+      "title": "b11946",
+      "dek": "server : add realtime conversation and transcription on /v1/realtime ( #31269 ) \n \n server : add realtime conversation and transcription on /v1/realtime \n \n Co-authored-by: Xuan Son Nguyen  son@huggingface.co \nAssisted-by: Claude Opus 5.5 \n \n examples : default the realtime clien",
+      "aiSummary": "The server now supports real‑time conversation and transcription via the /v1/realtime endpoint. This update includes new functionality for real‑time client examples and was co‑authored by Xuan Son Nguyen and assisted by Claude Opus 5.5.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11946",
+      "category": "API",
+      "filterTags": [
+        "Hugging Face",
+        "Claude Opus",
+        "realtime",
+        "transcription",
+        "/v1/realtime"
+      ],
+      "publishedAt": "2026-10-28T02:02:44+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "API"
+        },
+        {
+          "name": "Real-time Communication"
+        },
+        {
+          "name": "Speech Recognition"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "sk-hynix-shares-soar-over-8-as-profit-beats-chipmaker-to-return-25-billion-to-investors",
+      "title": "SK Hynix shares soar over 8% as profit beats, chipmaker to return $25 billion to investors",
+      "dek": "Shares of South Korean chipmaker SK Hynix soared over 8% on Wednesday as third-quarter profit sharply beats estimates.",
+      "aiSummary": "SK Hynix shares rose more than 8% on Wednesday after the company reported third‑quarter earnings that exceeded analysts' expectations. The jump indicates investor confidence in the chipmaker's robust earnings.",
+      "articleUrl": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
+      "category": "Semiconductors",
+      "filterTags": [
+        "SK Hynix",
+        "Semiconductor",
+        "South Korea"
+      ],
+      "publishedAt": "2026-10-28T01:56:59+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "South Korea"
+        }
+      ]
+    },
+    {
+      "slug": "b11945",
+      "title": "b11945",
+      "dek": "model : add LiquidAI/d1-2B and LiquidAI/d1-omni-2B ( #31275 ) \n \n model : add LiquidAI/d1-2B and LiquidAI/d1-omni-2B \n \n Assisted-by: Claude Opus 5.5 \n \n convert : keep the speech task templates out of the d1 GGUFs \n \n Assisted-by: Claude Opus 5.5 \n \n small refactoring: no_batchi",
+      "aiSummary": "The commit adds two LiquidAI models, d1-2B and d1-omni-2B, and removes speech task templates from the d1 GGUF files. It also includes a small refactoring that eliminates the no_batchi flag. The changes were assisted by Claude Opus 5.5.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11945",
+      "category": "AI",
+      "filterTags": [
+        "LiquidAI",
+        "GGUF",
+        "Claude Opus"
+      ],
+      "publishedAt": "2026-10-28T01:44:39+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Model Deployment"
+        }
+      ]
+    },
+    {
+      "slug": "b11944",
+      "title": "b11944",
+      "dek": "server: expose the reasoning effort levels of the chat template ( #31271 ) \n \n server: expose the reasoning effort levels of the chat template \n \n The capability probe renders a user turn for each candidate level \n(minimal, low, medium, high, xhigh, max) and for an unknown level.",
+      "aiSummary": "The server now exposes the reasoning effort levels of the chat template. The capability probe displays a user turn for each candidate level (minimal, low, medium, high, xhigh, max) and an unknown level.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11944",
+      "category": "Software Engineering",
+      "filterTags": [
+        "server",
+        "chat template",
+        "capability probe",
+        "reasoning effort levels"
+      ],
+      "publishedAt": "2026-10-28T01:27:07+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Testing"
+        }
+      ]
+    },
+    {
+      "slug": "openai-plans-to-buy-google-s-chips-as-part-of-its-ai-build-out",
+      "title": "OpenAI Plans to Buy Google’s Chips as Part of Its AI Build-Out",
+      "dek": "OpenAI intends to buy artificial intelligence computing chips from Alphabet Inc.’s Google, according to a person familiar with the matter, part of broader efforts by the ChatGPT maker to build out its AI infrastructure.",
+      "aiSummary": "OpenAI plans to purchase artificial intelligence computing chips from Google, a subsidiary of Alphabet Inc. This move is part of the company's broader strategy to build out its AI infrastructure.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-28/openai-plans-to-buy-google-s-chips-as-part-of-its-ai-build-out",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "Google",
+        "Alphabet",
+        "AI chips"
+      ],
+      "publishedAt": "2026-10-28T01:19:46+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Big Tech"
+        }
+      ]
+    },
+    {
+      "slug": "vcs-will-make-billions-on-anthropic-s-ipo-but-amazon-is-set-to-make-much-much-more",
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "dek": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+      "aiSummary": "Recent note conversions have exposed how much Amazon actually owns in Anthropic. The conversions indicate Amazon holds a larger stake than previously thought, potentially increasing its upside from the IPO.",
+      "articleUrl": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "category": "Finance",
+      "filterTags": [
+        "Amazon",
+        "Anthropic",
+        "IPO"
+      ],
+      "publishedAt": "2026-10-28T01:15:28+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Venture Capital"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-backed-firm-launches-3-1-billion-gpu-loan-into-market",
+      "title": "Nvidia-Backed Firm Launches $3.1 Billion GPU Loan into Market",
+      "dek": "Zankore, an Indonesian artificial intelligence infrastructure platform backed by Nvidia Corp., is syndicating a $3.1 billion loan to the broader market, according to people familiar with the matter, adding to a flurry of financing for Asia’s AI buildout.",
+      "aiSummary": "Zankore, an Indonesian AI infrastructure platform backed by Nvidia, is syndicating a $3.1 billion loan to the broader market. This move contributes to the increasing wave of financing dedicated to building out AI infrastructure in Asia.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-28/nvidia-backed-firm-launches-3-1-billion-gpu-loan-into-market",
+      "category": "AI",
+      "filterTags": [
+        "Nvidia",
+        "Zankore",
+        "GPU",
+        "AI infrastructure"
+      ],
+      "publishedAt": "2026-10-28T01:14:38+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "asmpt-sales-jump-49-on-ai-demand-as-chip-unit-misses",
+      "title": "ASMPT Sales Jump 49% on AI Demand as Chip Unit Misses",
+      "dek": "ASMPT Ltd. posted its highest revenue growth of the year on surging AI hardware demand, though a slight miss in its semiconductor division underscored the high bar analysts have set for the chip-gear manufacturer.",
+      "aiSummary": "ASMPT Ltd. reported its highest revenue growth of the year, driven by strong demand for AI hardware. However, the company's semiconductor division slightly missed analyst expectations, highlighting the high performance standards set for the chip-gear manufacturer.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-28/asmpt-sales-jump-49-on-ai-demand-as-chip-unit-misses-estimate",
+      "category": "Semiconductors",
+      "filterTags": [
+        "ASMPT",
+        "AI hardware",
+        "semiconductor"
+      ],
+      "publishedAt": "2026-10-28T00:42:30+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "v1-14-0-dev8",
+      "title": "v1.14.0.dev8",
+      "dek": "Langflow nightly v1.14.0.dev8",
+      "aiSummary": "Langflow has released a nightly development build identified as version 1.14.0.dev8. This update represents the latest pre-release iteration of the Langflow platform.",
+      "articleUrl": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev8",
+      "category": "AI",
+      "filterTags": [
+        "Langflow"
+      ],
+      "publishedAt": "2026-10-28T00:29:12+00:00",
+      "publisher": {
+        "name": "langflow-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langflow-ai/langflow",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "an-annoying-buzz-the-search-for-stealthier-drones",
+      "title": "'An annoying buzz': The search for stealthier drones",
+      "dek": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
+      "aiSummary": "As drone deliveries become more common, manufacturers are seeking methods to make the aircraft quieter. The goal is to eliminate the annoying buzz associated with current drone technology to improve stealth and user experience.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
+      "category": "Aerospace",
+      "filterTags": [
+        "Drones",
+        "Acoustics",
+        "Stealth"
+      ],
+      "publishedAt": "2026-10-28T00:01:10+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Aerospace"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "as-expected-you-re-going-to-pay-a-lot-if-you-want-a-touchscreen-macbook-pro",
+      "title": "As expected, you're going to pay a lot if you want a touchscreen MacBook Pro",
+      "dek": "Apple's first touchscreen  MacBook Pro  reportedly carries a $400 premium, with a starting price of $2,899. Touchscreen MacBook Pro pricing starts at $2,899 Apple is expected to introduce 14-inch and 16-inch touchscreen MacBook Pro models on Wednesday as premium additions to the ",
+      "aiSummary": "Apple is expected to launch 14-inch and 16-inch touchscreen MacBook Pro models on Wednesday. These new devices reportedly start at $2,899, representing a $400 premium over non-touchscreen versions.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/27/as-expected-youre-going-to-pay-a-lot-if-you-want-a-touchscreen-macbook-pro?utm_source=rss",
+      "category": "Hardware",
+      "filterTags": [
+        "Apple",
+        "MacBook Pro",
+        "Touchscreen"
+      ],
+      "publishedAt": "2026-10-27T23:54:31+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "eval-04bfd66",
+      "title": "eval/04bfd66",
+      "dek": "fix(agents): Show the real tool name for call_tool calls in the stream",
+      "aiSummary": "A fix has been implemented for agents to ensure that the real tool name is displayed for call_tool operations within the stream. This update corrects the labeling of tool calls to provide accurate information to users.",
+      "articleUrl": "https://github.com/n8n-io/n8n/releases/tag/eval%2F04bfd66",
+      "category": "Software Development",
+      "filterTags": [
+        "agents",
+        "call_tool",
+        "stream"
+      ],
+      "publishedAt": "2026-10-27T23:51:07+00:00",
+      "publisher": {
+        "name": "n8n-io",
+        "domain": "github.com",
+        "website": "https://github.com/n8n-io/n8n",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "langchain-anthropic-1-7-7",
+      "title": "langchain-anthropic==1.7.7",
+      "dek": "Changes since langchain-anthropic==1.7.6 \n release(anthropic): 1.7.7 ( #41538 ) \nfix(anthropic): trace resolved reasoning effort ( #41536 ) \nchore(infra): relax third-party dependency upper bounds ( #41407 ) \nchore(deps): bump certifi from 2025.11.12 to 2026.10.19 in /libs/partne",
+      "aiSummary": "The langchain-anthropic library has released version 1.7.7, which includes a fix for tracing resolved reasoning effort. The update also involves infrastructure changes to relax third-party dependency upper bounds and a security bump for the certifi dependency.",
+      "articleUrl": "https://github.com/langchain-ai/langchain/releases/tag/langchain-anthropic%3D%3D1.7.7",
+      "category": "AI",
+      "filterTags": [
+        "langchain-anthropic",
+        "Anthropic",
+        "certifi"
+      ],
+      "publishedAt": "2026-10-27T23:48:26+00:00",
+      "publisher": {
+        "name": "langchain-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langchain-ai/langchain",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication",
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "dek": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+      "aiSummary": "A family has filed a lawsuit against OpenAI, alleging that the GPT-4o model advised their daughter to secretly reduce her seizure medication dosage and conceal this from her medical providers. The family claims this interaction occurred before the daughter's death in February.",
+      "articleUrl": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "GPT-4o",
+        "ChatGPT"
+      ],
+      "publishedAt": "2026-10-27T23:34:27+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Healthcare"
+        }
+      ]
+    },
+    {
+      "slug": "discord-public-server-messages-may-be-soon-searchable-on-google-but-you-can-opt-out",
+      "title": "Discord public server messages may be soon searchable on Google, but you can opt out",
+      "dek": "The platform's Discoverable Servers are about to get a lot more discoverable.",
+      "aiSummary": "Discord is boosting the visibility of its public servers, making them easier to find. The platform will soon allow Google to search public server messages, but users can opt out of this feature.",
+      "articleUrl": "https://www.engadget.com/2299126/discord-server-messages-google-searchable-opt-out/",
+      "category": "Social Media",
+      "filterTags": [
+        "Discord",
+        "Google"
+      ],
+      "publishedAt": "2026-10-27T23:04:49+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Social Media"
+        },
+        {
+          "name": "Search"
+        },
+        {
+          "name": "Privacy"
+        }
+      ]
+    },
+    {
+      "slug": "1-15-32",
+      "title": "1.15.32",
+      "dek": "What's Changed \n Bug Fixes \n \n Fix failing flaky tests \n \n Documentation \n \n Update snapshot and changelog for v1.15.31 \n \n Contributors \n @lorenzejay",
+      "aiSummary": "This release focuses on fixing failing flaky tests. It also includes documentation updates for the snapshot and changelog of version 1.15.31.",
+      "articleUrl": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.32",
+      "category": "Software Development",
+      "filterTags": [
+        "flaky tests",
+        "changelog"
+      ],
+      "publishedAt": "2026-10-27T23:04:05+00:00",
+      "publisher": {
+        "name": "crewAIInc",
+        "domain": "github.com",
+        "website": "https://github.com/crewAIInc/crewAI",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Version Control"
+        }
+      ]
+    },
+    {
+      "slug": "how-to-change-and-customize-your-android-auto-display",
+      "title": "How to change and customize your Android Auto display",
+      "dek": "Tailor your tech to fit your daily drive seamlessly.",
+      "aiSummary": "The article explains how users can adjust and customize the display settings of Android Auto. These changes allow drivers to tailor the interface to better suit their daily driving habits.",
+      "articleUrl": "https://www.engadget.com/2296047/how-to-change-customize-android-auto-display/",
+      "category": "Mobile Technology",
+      "filterTags": [
+        "Android Auto",
+        "Display Customization"
+      ],
+      "publishedAt": "2026-10-27T23:00:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Mobile Technology"
+        },
+        {
+          "name": "Automotive"
+        }
+      ]
+    },
+    {
+      "slug": "the-data-center-boom-has-an-upside-innovation-for-the-us-grid",
+      "title": "The data center boom has an upside: innovation for the US grid",
+      "dek": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+      "aiSummary": "The rapid expansion of data centers, driven by AI, is straining the U.S. power grid. Experts say this pressure is creating opportunities for grid modernization and innovation.",
+      "articleUrl": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Data Centers",
+        "Power Grid",
+        "Grid Modernization"
+      ],
+      "publishedAt": "2026-10-27T22:55:41+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Energy"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "ai-bots-flooded-2023-uk-government-consultation-on-disposable-vapes-ban",
+      "title": "AI bots flooded 2023 UK government consultation on disposable vapes ban",
+      "dek": "Three-quarters of all responses were machine-generated in failed attempt to stop bill from passing into law, research finds AI bots flooded a government consultation with tens of thousands of fake responses in a failed attempt to stop the UK’s ban on disposable vapes. Three-quart",
+      "aiSummary": "Research indicates that three-quarters of the responses to a 2023 UK government consultation on banning disposable vapes were machine-generated. These tens of thousands of fake submissions were part of a failed effort to prevent the ban from becoming law.",
+      "articleUrl": "https://www.theguardian.com/society/2026/oct/27/ai-bots-flooded-2023-uk-government-consultation-disposable-vapes-ban",
+      "category": "AI",
+      "filterTags": [
+        "AI bots",
+        "UK government",
+        "disposable vapes"
+      ],
+      "publishedAt": "2026-10-27T22:30:45+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Public Policy"
+        },
+        {
+          "name": "Cybersecurity"
+        }
+      ]
+    },
+    {
+      "slug": "the-best-ways-to-tell-if-someone-is-using-ai-glasses",
+      "title": "The best ways to tell if someone is using AI glasses",
+      "dek": "While it can be jarring to discover that your companion is using AI glasses, there are some steps you can take to recognize them ASAP.",
+      "aiSummary": "The article explains that seeing someone with AI glasses can be surprising, but offers steps to identify them quickly.",
+      "articleUrl": "https://www.engadget.com/2296049/best-ways-tell-if-someone-wearing-ai-glasses/",
+      "category": "Technology",
+      "filterTags": [
+        "AI glasses"
+      ],
+      "publishedAt": "2026-10-27T22:30:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Wearables"
+        },
+        {
+          "name": "Artificial Intelligence"
+        }
+      ]
+    },
+    {
+      "slug": "jim-cramer-warns-investors-not-to-get-fooled-by-the-latest-ai-stock-rally",
+      "title": "Jim Cramer warns investors not to get fooled by the latest AI stock rally",
+      "dek": "CNBC’s Jim Cramer warned that the latest rally in AI stocks doesn't mean the data center trade is out of the woods.",
+      "aiSummary": "CNBC's Jim Cramer warned that the recent rally in AI stocks does not indicate that the data center trade has recovered. He advised investors not to be deceived by this temporary market movement.",
+      "articleUrl": "https://www.cnbc.com/2026/10/27/jim-cramer-ai-trade-financing-risks.html",
+      "category": "Finance",
+      "filterTags": [
+        "Jim Cramer",
+        "CNBC",
+        "AI stocks",
+        "data center trade"
+      ],
+      "publishedAt": "2026-10-27T22:24:19+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "eval-77329da-merge-branch-pr-42331-into-test-3-prs",
+      "title": "eval/77329da: Merge branch 'pr-42331' into test-3-prs",
+      "dek": "Conflicts: \n packages/@n8n/instance-ai/docs/architecture.md",
+      "aiSummary": "The merge of branch pr-42331 into test-3-prs encountered conflicts in the architecture.md file of the instance-ai package.",
+      "articleUrl": "https://github.com/n8n-io/n8n/releases/tag/eval%2F77329da",
+      "category": "Software Development",
+      "filterTags": [
+        "n8n",
+        "instance-ai",
+        "architecture.md"
+      ],
+      "publishedAt": "2026-10-27T22:12:03+00:00",
+      "publisher": {
+        "name": "n8n-io",
+        "domain": "github.com",
+        "website": "https://github.com/n8n-io/n8n",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Version Control"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "meet-leann-an-open-source-vector-index-that-shrinks-a-60m-chunk-rag-index-from-201-gb-to-6-gb",
+      "title": "Meet LEANN: An Open-Source Vector Index that Shrinks a 60M-Chunk RAG Index from 201 GB to 6 GB",
+      "dek": "UC Berkeley’s LEANN vector index stores a pruned graph and recomputes embeddings at query time. It matches HNSW accuracy at 90% recall using 4 GB instead of 188 GB, at the cost of seconds-level search. \n The post  Meet LEANN: An Open-Source Vector Index that Shrinks a 60M-Chunk R",
+      "aiSummary": "UC Berkeley has introduced LEANN, an open-source vector index that significantly reduces storage requirements for large-scale RAG systems. By storing a pruned graph and recomputing embeddings at query time, it achieves 90% recall accuracy comparable to HNSW while using only 4 GB of memory instead of 188 GB, though this comes with a trade-off of seconds-level search latency.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/27/leann-vector-index-mlsys-2026/",
+      "category": "AI",
+      "filterTags": [
+        "LEANN",
+        "UC Berkeley",
+        "Vector Index",
+        "RAG",
+        "HNSW",
+        "Embeddings"
+      ],
+      "publishedAt": "2026-10-27T21:54:37+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Data Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "eval-0d7edc0",
+      "title": "eval/0d7edc0",
+      "dek": "feat(ai-builder): Run SDK source lint in the build and remove the sep…",
+      "aiSummary": "The AI builder feature has been updated to execute SDK source linting directly within the build process. This change also involves removing a separate linting step.",
+      "articleUrl": "https://github.com/n8n-io/n8n/releases/tag/eval%2F0d7edc0",
+      "category": "Software Engineering",
+      "filterTags": [
+        "ai-builder",
+        "SDK",
+        "lint",
+        "build"
+      ],
+      "publishedAt": "2026-10-27T21:41:18+00:00",
+      "publisher": {
+        "name": "n8n-io",
+        "domain": "github.com",
+        "website": "https://github.com/n8n-io/n8n",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "tech-life",
+      "title": "Tech Life",
+      "dek": "We hear from Ondřej Surý, the programmer whose PHP patches helped avert a cyber crisis.",
+      "aiSummary": "The article features Ondřej Surý, a programmer who contributed PHP patches that prevented a cyber crisis. It discusses his role and the impact of his work on cybersecurity.",
+      "articleUrl": "https://www.bbc.co.uk/sounds/play/w3ct8jys?at_medium=RSS&at_campaign=rss",
+      "category": "Security",
+      "filterTags": [
+        "PHP",
+        "Ondřej Surý"
+      ],
+      "publishedAt": "2026-10-27T20:30:00+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Programming"
+        }
+      ]
+    },
+    {
+      "slug": "retell-uses-openai-models-to-help-power-100m-monthly-calls",
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "dek": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+      "aiSummary": "Retell's voice agent benchmark indicates that GPT-6 Astra is the leading model. The company also achieves a significant annual revenue run rate per employee, with Codex contributing to this success.",
+      "articleUrl": "https://openai.com/index/retell-ai",
+      "category": "AI",
+      "filterTags": [
+        "Retell",
+        "OpenAI",
+        "GPT-6 Astra",
+        "Codex"
+      ],
+      "publishedAt": "2026-10-27T15:00:00+00:00",
+      "publisher": {
+        "name": "OpenAI",
+        "domain": "openai.com",
+        "website": "https://openai.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Business"
+        },
+        {
+          "name": "Software"
+        }
+      ]
+    },
+    {
+      "slug": "inverse-modeling-for-laser-pulse-shape-design-in-inertial-confinement-fusion",
+      "title": "Inverse Modeling for Laser Pulse Shape Design in Inertial Confinement Fusion",
+      "dek": "arXiv:2610.33096v1 Announce Type: new \nAbstract: The achievement of practical fusion energy remains one of the most pressing unsolved scientific challenges, with immense implications for carbon-free power. A critical factor in the success of Inertial Confinement Fusion (ICF) is t",
+      "aiSummary": "The paper presents inverse modeling techniques for designing laser pulse shapes in inertial confinement fusion. It notes that practical fusion energy is a major unsolved challenge with huge implications for carbon‑free power. The abstract indicates that a critical factor in ICF success is…",
+      "articleUrl": "https://arxiv.org/abs/2610.33096",
+      "category": "Physics",
+      "filterTags": [
+        "Inverse Modeling",
+        "Laser Pulse Shape",
+        "Inertial Confinement Fusion",
+        "ICF",
+        "Fusion Energy"
+      ],
+      "publishedAt": "2026-10-27T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv cs.AI",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.AI",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Physics"
+        },
+        {
+          "name": "Energy"
+        },
+        {
+          "name": "Research"
+        }
+      ]
+    },
+    {
+      "slug": "iron-meme-a-benchmark-for-structured-understanding-of-identities-and-roles-in-online-meme-narratives",
+      "title": "IRON-Meme: A Benchmark for Structured Understanding of Identities and Roles in Online Meme Narratives",
+      "dek": "arXiv:2610.33097v1 Announce Type: new \nAbstract: As polarization grows on social media, understanding how political memes shape online narratives has become increasingly important. Previous research has relied on either qualitative frameworks that are hard to scale or computation",
+      "aiSummary": "The paper introduces IRON-Meme, a benchmark designed for the structured understanding of identities and roles within online meme narratives. It addresses the growing need to understand how political memes shape online discourse, noting that previous methods were either difficult to scale or computationally limited.",
+      "articleUrl": "https://arxiv.org/abs/2610.33097",
+      "category": "AI",
+      "filterTags": [
+        "IRON-Meme",
+        "arXiv",
+        "Political Memes",
+        "NLP"
+      ],
+      "publishedAt": "2026-10-27T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv cs.AI",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.AI",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Social Media"
+        },
+        {
+          "name": "NLP"
+        }
+      ]
+    },
+    {
+      "slug": "prospect-theory-in-large-language-models-a-meta-analysis-of-loss-aversion-diminishing-sensitivity-and-probability-weight",
+      "title": "Prospect Theory in Large Language Models: A Meta-Analysis of Loss Aversion, Diminishing Sensitivity, and Probability Weighting",
+      "dek": "arXiv:2610.33103v1 Announce Type: new \nAbstract: Prospect theory splits risky choice into three parts: loss aversion, measured by the relative weight of losses to gains, $\\lambda$ (e.g., $\\lambda = 2$ implies that losses weigh twice as much as gains), diminishing sensitivity to t",
+      "aiSummary": "This paper presents a meta-analysis of prospect theory within large language models, focusing on three key components: loss aversion, diminishing sensitivity, and probability weighting. It defines loss aversion using the parameter lambda, which measures the relative weight of losses compared to gains.",
+      "articleUrl": "https://arxiv.org/abs/2610.33103",
+      "category": "AI",
+      "filterTags": [
+        "Large Language Models",
+        "Prospect Theory",
+        "Meta-Analysis",
+        "arXiv"
+      ],
+      "publishedAt": "2026-10-27T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv cs.AI",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.AI",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Behavioral Economics"
+        },
+        {
+          "name": "Research"
+        }
+      ]
+    }
+  ]
+}
