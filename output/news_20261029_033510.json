@@ -1,0 +1,976 @@
+{
+  "news": [
+    {
+      "slug": "v1-108-0-rc-1",
+      "title": "v1.108.0-rc.1",
+      "dek": "Verify Docker Image Signature \n All LiteLLM Docker images are signed with  cosign . This release is signed with the key introduced in  commit  e82a3c6 . \n Verify using the pinned commit hash (recommended): \n A commit hash is cryptographically immutable, so this is the strongest w",
+      "aiSummary": "The v1.108.0-rc.1 release of LiteLLM includes Docker images that are signed using cosign. The signing key was introduced in commit e82a3c6, and users are advised to verify the signature with the pinned commit hash for maximum security. A commit hash provides cryptographic immutability, making it the strongest verification method.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.108.0-rc.1",
+      "category": "Security",
+      "filterTags": [
+        "LiteLLM",
+        "cosign",
+        "Docker",
+        "commit hash"
+      ],
+      "publishedAt": "2026-10-29T03:33:35+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Containerization"
+        },
+        {
+          "name": "Software Release"
+        }
+      ]
+    },
+    {
+      "slug": "gmo-bond-spread-jumps-as-cyberattack-hits-credit-market",
+      "title": "GMO Bond Spread Jumps as Cyberattack Hits Credit Market",
+      "dek": "A cyberattack on a listed unit of GMO Internet Group Inc. is spilling into Japan’s credit market, widening the company’s bond spread as investors grow more concerned about the potential blow to earnings.",
+      "aiSummary": "A cyberattack on a listed unit of GMO Internet Group Inc. has spread into Japan’s credit market, causing the company's bond spread to widen. Investors are increasingly worried about the potential impact on earnings.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-29/gmo-bond-spread-jumps-as-cyberattack-hits-credit-market",
+      "category": "Finance",
+      "filterTags": [
+        "GMO Internet Group Inc.",
+        "cyberattack"
+      ],
+      "publishedAt": "2026-10-29T03:25:37+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Cybersecurity"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-e9295c692a07e709c9070b7fb55cf76e8f2d79c1-library-keep-the-user-s-module-on-a-triton-op-s-function-202256",
+      "title": "trunk/e9295c692a07e709c9070b7fb55cf76e8f2d79c1: [library] Keep the user's module on a triton_op's function (#202256)",
+      "dek": "torch.library.triton_op  now wraps the user's function with  functools.wraps , so the op's  _init_fn.__module__  is the module that defined it, not  torch._library.triton . \n Why precompile needs this \n A precompile artifact runs on every rank in a fresh process, where nothing ha",
+      "aiSummary": "The change makes torch.library.triton_op wrap the user’s function with functools.wraps, so the function’s __module__ attribute points to the user’s module instead of torch._library.triton. This is important for precompile artifacts that run in fresh processes on each rank. The update ensures correct module attribution during precompilation.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2Fe9295c692a07e709c9070b7fb55cf76e8f2d79c1",
+      "category": "Machine Learning",
+      "filterTags": [
+        "torch",
+        "triton_op",
+        "functools.wraps",
+        "precompile"
+      ],
+      "publishedAt": "2026-10-29T03:18:03+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Python"
+        }
+      ]
+    },
+    {
+      "slug": "tools-17-with-write-access-how-ai-platforms-bound-agent-authority",
+      "title": "Tools, 17 with write access: How AI platforms bound agent authority",
+      "dek": "Seventeen tools with write permissions illustrate how AI platforms manage agent authority.",
+      "aiSummary": "No article content was provided. Therefore, no summary can be generated.",
+      "articleUrl": "https://www.antalpha.com/en-us/blog/120-tools-17-that-can-write-how-four-platforms-bound-an-ai-agents-authority/",
+      "category": "AI",
+      "filterTags": [],
+      "publishedAt": "2026-10-29T03:17:38+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-db07d9ce884d629a44c5649c35abd9d5941c6403",
+      "title": "trunk/db07d9ce884d629a44c5649c35abd9d5941c6403",
+      "dek": "[dynamo] Build the compile sync group on the fake backend over a fake…",
+      "aiSummary": "The provided text indicates a specific commit or pull request related to the Dynamo project. It describes a modification to build the compile sync group on the fake backend using a fake implementation.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2Fdb07d9ce884d629a44c5649c35abd9d5941c6403",
+      "category": "Software Development",
+      "filterTags": [
+        "Dynamo",
+        "fake backend",
+        "compile sync group"
+      ],
+      "publishedAt": "2026-10-29T03:14:22+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "ai-startup-hacked-anthropic-gains-access-to-employee-details-internal-messages",
+      "title": "AI startup hacked Anthropic, gains access to employee details, internal messages",
+      "dek": "An AI startup breached Anthropic and accessed employee data and internal communications.",
+      "aiSummary": "A cybersecurity incident involved an AI startup that successfully infiltrated Anthropic's systems, obtaining employee personal information and internal messages. The breach highlights the vulnerability of AI companies to targeted attacks. The incident underscores the importance of robust security measures for AI firms.",
+      "articleUrl": "https://www.techradar.com/pro/security/ai-startup-claims-it-hacked-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "AI startup"
+      ],
+      "publishedAt": "2026-10-29T03:06:03+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cybersecurity"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-0590c876fed9e2d3fc9978cd52ceb52c51e8dde7-mps-tile-transposed-ternary-dispatch-202300",
+      "title": "trunk/0590c876fed9e2d3fc9978cd52ceb52c51e8dde7: [MPS] Tile transposed ternary dispatch (#202300)",
+      "dek": "As you can see in the stack there are PRs which migrate ops which are using the ternary kernel path. The first two PRs make the strided case of that path faster, so once those ops are migrated we don't get any slowdowns against MPS Graph. \n For this PR, when an input is transpose",
+      "aiSummary": "This pull request addresses the dispatch of transposed ternary operations within the Metal Performance Shaders (MPS) backend. It is part of a series of changes designed to migrate operations using the ternary kernel path, ensuring that performance does not degrade compared to MPS Graph after the migration.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F0590c876fed9e2d3fc9978cd52ceb52c51e8dde7",
+      "category": "Hardware",
+      "filterTags": [
+        "MPS",
+        "Metal",
+        "Ternary",
+        "Dispatch",
+        "Transposed"
+      ],
+      "publishedAt": "2026-10-29T02:57:06+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Performance"
+        }
+      ]
+    },
+    {
+      "slug": "v0-40-13",
+      "title": "v0.40.13",
+      "dek": "LFM3 on Linux and Windows \n Liquid AI's  LFM3  models, including text-to-speech in  lfm3-audio  and  lfm3-omni , now run on Linux and Windows as well as Apple silicon. \n Full Changelog :  v0.40.12...v0.40.13",
+      "aiSummary": "Liquid AI's LFM3 models, including text-to-speech capabilities in lfm3-audio and lfm3-omni, are now compatible with Linux and Windows operating systems in addition to Apple silicon. This update is part of the v0.40.13 release.",
+      "articleUrl": "https://github.com/ollama/ollama/releases/tag/v0.40.13",
+      "category": "AI",
+      "filterTags": [
+        "Liquid AI",
+        "LFM3",
+        "lfm3-audio",
+        "lfm3-omni",
+        "Linux",
+        "Windows",
+        "Apple silicon"
+      ],
+      "publishedAt": "2026-10-29T02:54:11+00:00",
+      "publisher": {
+        "name": "ollama",
+        "domain": "github.com",
+        "website": "https://github.com/ollama/ollama",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cross-Platform Development"
+        }
+      ]
+    },
+    {
+      "slug": "samsung-electronics-shares-slid-despite-record-profit-in-the-third-quarter",
+      "title": "Samsung Electronics shares slid despite record profit in the third-quarter",
+      "dek": "Samsung Electronics reported third-quarter earnings on Thursday.",
+      "aiSummary": "Samsung Electronics announced its third‑quarter earnings on Thursday. The company released its financial results for the quarter.",
+      "articleUrl": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
+      "category": "Finance",
+      "filterTags": [
+        "Samsung Electronics"
+      ],
+      "publishedAt": "2026-10-29T02:49:39+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "come-back-and-back-ai",
+      "title": "Come Back and Back AI",
+      "dek": "The return of Come Back and Back AI",
+      "aiSummary": "The provided text does not contain any information regarding Come Back and Back AI. No facts, events, or details are available to summarize.",
+      "articleUrl": "https://comebackandback.com/",
+      "category": "Artificial Intelligence",
+      "filterTags": [],
+      "publishedAt": "2026-10-29T02:45:14+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": []
+    },
+    {
+      "slug": "b11976",
+      "title": "b11976",
+      "dek": "Hexagon: IM2COL improvement - block based HVX parallelization ( #31050 ) \n \n hexagon: IM2COL over multiple threads with output-col blocks \n \n Assisted-by: Claude Opus 5.5 \n \n \n hex-im2col: fix padding handling \n \n \n hex-im2col: loop unroll common cases \n \n \n \n Co-authored-by: Max",
+      "aiSummary": "This commit improves the IM2COL operation on Hexagon by adding block-based HVX parallelization and multi-threading support with output column blocks. It also fixes padding handling and applies loop unrolling to common cases. The changes are assisted by Claude Opus 5.5 and co-authored by Max.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11976",
+      "category": "Hardware",
+      "filterTags": [
+        "Hexagon",
+        "IM2COL",
+        "HVX",
+        "multi-threading",
+        "padding",
+        "loop unroll",
+        "Claude Opus 5.5"
+      ],
+      "publishedAt": "2026-10-29T02:31:23+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Software"
+        },
+        {
+          "name": "Optimization"
+        },
+        {
+          "name": "Parallel Computing"
+        }
+      ]
+    },
+    {
+      "slug": "tencent-s-cloud-boss-plays-long-game-to-patch-leaky-ai-ship",
+      "title": "Tencent’s Cloud Boss Plays Long Game to Patch ‘Leaky’ AI Ship",
+      "dek": "When Pony Ma called Tencent Holdings Ltd.’s AI endeavor “a leaky ship” this summer, the billionaire founder sent ripples through a company that for years dominated the industry with WeChat. The social media and gaming leader was at the time struggling to catch the likes of DeepSe",
+      "aiSummary": "Pony Ma criticized Tencent's AI project as a \"leaky ship\", causing concern within the company. Despite its dominance in social media and gaming, Tencent was struggling to compete with rivals like DeepSe.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-29/tencent-s-cloud-boss-plays-long-game-to-patch-leaky-ai-ship",
+      "category": "AI",
+      "filterTags": [
+        "Tencent",
+        "WeChat",
+        "DeepSe",
+        "AI"
+      ],
+      "publishedAt": "2026-10-29T02:30:53+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Gaming"
+        }
+      ]
+    },
+    {
+      "slug": "tencent-cloud-chief-says-ai-demand-justifies-capex",
+      "title": "Tencent Cloud Chief Says AI Demand Justifies Capex",
+      "dek": "Dowson Tong, CEO of Tencent Cloud and Smart Industries Group in an exclusive conversation with BTV's Stephen Engle talks about the company's investment shifts from being AI consumer agents to enterprise, why it is prioritizing compute for internal model training and products and ",
+      "aiSummary": "Tencent Cloud CEO Dowson Tong explains that the company is shifting its investment focus from consumer AI agents to enterprise solutions. He states that the high demand for AI justifies significant capital expenditure, particularly in prioritizing compute resources for internal model training and product development.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-29/tencent-cloud-chief-says-ai-demand-justifies-capex-video",
+      "category": "AI",
+      "filterTags": [
+        "Tencent Cloud",
+        "AI",
+        "Enterprise",
+        "Compute",
+        "Dowson Tong"
+      ],
+      "publishedAt": "2026-10-29T02:30:53+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Enterprise Technology"
+        }
+      ]
+    },
+    {
+      "slug": "apple-and-openai-won-t-face-off-over-trade-secrets-until-july-2027",
+      "title": "Apple and OpenAI won't face off over trade secrets until July 2027",
+      "dek": "The judge has set up the schedule for the blockbuster Apple vs. OpenAI trade theft trial, and we'll all have to wait a while for it to really get going. Apple will get some of the OpenAI documents it requested in court. Judge Edward Davila has set the Apple vs. OpenAI trial for J",
+      "aiSummary": "Judge Edward Davila has scheduled the Apple vs. OpenAI trade secret trial for July 2027. Apple will receive some of the documents it requested from OpenAI in court. The case will not begin until that date, delaying the dispute.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/29/apple-and-openai-wont-face-off-over-trade-secrets-until-july-2027?utm_source=rss",
+      "category": "Legal",
+      "filterTags": [
+        "Apple",
+        "OpenAI",
+        "trade secrets"
+      ],
+      "publishedAt": "2026-10-29T01:42:33+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Intellectual Property"
+        }
+      ]
+    },
+    {
+      "slug": "details-of-thousands-of-us-immigration-agents-leaked-in-major-hack",
+      "title": "Details of thousands of US immigration agents leaked in major hack",
+      "dek": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
+      "aiSummary": "A group named the Department of Peace disclosed data about over 41,000 Department of Homeland Security employees. The leak revealed personal details of thousands of U.S. immigration agents.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+      "category": "Security",
+      "filterTags": [
+        "Department of Peace",
+        "DHS"
+      ],
+      "publishedAt": "2026-10-29T01:30:43+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Privacy"
+        },
+        {
+          "name": "Government"
+        }
+      ]
+    },
+    {
+      "slug": "microsoft-profits-soar-days-after-announcing-thousands-of-layoffs",
+      "title": "Microsoft profits soar days after announcing thousands of layoffs",
+      "dek": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
+      "aiSummary": "Microsoft reported a significant increase in profits. This came just days after the company announced plans to lay off thousands of employees. The company also said it would offer buyouts to 60,000 workers to help reduce costs.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
+      "category": "Business",
+      "filterTags": [
+        "Microsoft",
+        "Windows",
+        "layoffs",
+        "buyouts"
+      ],
+      "publishedAt": "2026-10-29T01:27:40+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Business"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Human Resources"
+        }
+      ]
+    },
+    {
+      "slug": "our-next-steps-for-alphabet-stock-after-earnings-disappoint-at-nearly-every-turn",
+      "title": "Our next steps for Alphabet stock after earnings disappoint at nearly every turn",
+      "dek": "Alphabet whiffed.",
+      "aiSummary": "Alphabet's recent earnings results were disappointing across multiple metrics. The article outlines the recommended next steps for investors holding Alphabet stock in response to this underperformance.",
+      "articleUrl": "https://www.cnbc.com/investingclub/2026/10/28/our-next-steps-for-alphabet-stock-after-earnings-disappoint-at-nearly-every-turn.html",
+      "category": "Finance",
+      "filterTags": [
+        "Alphabet",
+        "Earnings"
+      ],
+      "publishedAt": "2026-10-29T01:11:10+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Stock Market"
+        }
+      ]
+    },
+    {
+      "slug": "v1-14-0-dev9",
+      "title": "v1.14.0.dev9",
+      "dek": "Langflow nightly v1.14.0.dev9",
+      "aiSummary": "Langflow has released a nightly development build identified as version 1.14.0.dev9. This update represents the current state of the Langflow project's ongoing development cycle.",
+      "articleUrl": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev9",
+      "category": "AI",
+      "filterTags": [
+        "Langflow",
+        "v1.14.0.dev9"
+      ],
+      "publishedAt": "2026-10-29T00:28:33+00:00",
+      "publisher": {
+        "name": "langflow-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langflow-ai/langflow",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "b11974",
+      "title": "b11974",
+      "dek": "ggml-cpu: add SVE implementation of ggml_gemv_q8_0_4x8_q8_0 ( #30585 )",
+      "aiSummary": "The ggml-cpu component has received a new implementation of the ggml_gemv_q8_0_4x8_q8_0 function using SVE instructions. This change was introduced via pull request #30585.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11974",
+      "category": "Hardware",
+      "filterTags": [
+        "ggml-cpu",
+        "SVE",
+        "ggml_gemv_q8_0_4x8_q8_0"
+      ],
+      "publishedAt": "2026-10-29T00:21:05+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "as-waymo-expands-overseas-it-remains-a-niche-cash-burning-business",
+      "title": "As Waymo expands overseas, it remains a niche cash-burning business",
+      "dek": "Alphabet's Other Bets segment, which includes Waymo, accounted for 0.3% of total revenue in the quarter.",
+      "aiSummary": "Waymo, part of Alphabet's Other Bets, contributed only 0.3% of the company's revenue in the latest quarter. Despite expanding overseas, the company remains a small, cash-intensive operation.",
+      "articleUrl": "https://www.cnbc.com/2026/10/28/as-waymo-expands-overseas-it-remains-a-niche-cash-burning-business.html",
+      "category": "Automotive",
+      "filterTags": [
+        "Alphabet",
+        "Waymo",
+        "Other Bets"
+      ],
+      "publishedAt": "2026-10-28T23:53:58+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Automotive"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "quoting-ted-sanders",
+      "title": "Quoting Ted Sanders",
+      "dek": "In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed ordering where the model that is best at math is also the model that's best at jokes. Despite that complexity, much of the variation in performance is explained by just a single variable: ",
+      "aiSummary": "Ted Sanders notes that Large Language Model performance is multidimensional, meaning the model best at math is not necessarily the best at jokes. However, he argues that a single variable explains much of the variation in this complex performance landscape.",
+      "articleUrl": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
+      "category": "AI",
+      "filterTags": [
+        "LLM",
+        "Ted Sanders"
+      ],
+      "publishedAt": "2026-10-28T23:23:21+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "fcc-chair-wants-to-let-prisons-jam-illegal-cellphones",
+      "title": "FCC chair wants to let prisons jam illegal cellphones",
+      "dek": "The agency will vote next month on relaxing its long-standing opposition to jammers.",
+      "aiSummary": "The FCC chair has proposed allowing prisons to use cell phone jammers to block illegal devices. The agency is scheduled to vote next month on a rule change that would relax its long-standing opposition to such jammers.",
+      "articleUrl": "https://www.engadget.com/2300569/fcc-chair-wants-to-let-prisons-jam-illegal-cellphones/",
+      "category": "Telecommunications",
+      "filterTags": [
+        "FCC",
+        "cell phone jammers",
+        "prisons"
+      ],
+      "publishedAt": "2026-10-28T23:09:22+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Telecommunications"
+        },
+        {
+          "name": "Regulation"
+        },
+        {
+          "name": "Public Safety"
+        }
+      ]
+    },
+    {
+      "slug": "adam-mosseri-says-negativity-around-ai-is-going-to-get-worse",
+      "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+      "dek": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast t",
+      "aiSummary": "Instagram head Adam Mosseri stated in a podcast interview that the negative sentiment toward AI is expected to worsen. He acknowledged that widespread dislike of the technology extends beyond young people and creatives, noting a general trend of hostility toward tech leaders.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+      "category": "AI",
+      "filterTags": [
+        "Adam Mosseri",
+        "Instagram",
+        "AI",
+        "Colin and Samir podcast"
+      ],
+      "publishedAt": "2026-10-28T23:05:39+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Social Media"
+        },
+        {
+          "name": "Technology Industry"
+        }
+      ]
+    },
+    {
+      "slug": "v1-106-6",
+      "title": "v1.106.6",
+      "dek": "Verify Docker Image Signature \n All LiteLLM Docker images are signed with  cosign . This release is signed with the key introduced in  commit  e82a3c6 . \n Verify using the pinned commit hash (recommended): \n A commit hash is cryptographically immutable, so this is the strongest w",
+      "aiSummary": "The v1.106.6 release of LiteLLM includes Docker images signed with cosign. The images are signed using a key introduced in commit e82a3c6. Users are advised to verify the signature using the pinned commit hash for maximum security.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.106.6",
+      "category": "Security",
+      "filterTags": [
+        "LiteLLM",
+        "cosign",
+        "Docker",
+        "commit hash"
+      ],
+      "publishedAt": "2026-10-28T23:03:09+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Containerization"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "v1-105-7",
+      "title": "v1.105.7",
+      "dek": "Verify Docker Image Signature \n All LiteLLM Docker images are signed with  cosign . This release is signed with the key introduced in  commit  e82a3c6 . \n Verify using the pinned commit hash (recommended): \n A commit hash is cryptographically immutable, so this is the strongest w",
+      "aiSummary": "LiteLLM has released version 1.105.7, which includes Docker images signed using cosign. The release is signed with a specific key introduced in commit e82a3c6, and users are advised to verify the signature using the pinned commit hash for the strongest security assurance.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.105.7",
+      "category": "DevOps",
+      "filterTags": [
+        "LiteLLM",
+        "Docker",
+        "cosign",
+        "e82a3c6"
+      ],
+      "publishedAt": "2026-10-28T22:55:25+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "b11972",
+      "title": "b11972",
+      "dek": "common, mtmd: bound control vector layer indices and M-RoPE position loops ( #31336 ) \n \n common: bound control vector layer indices by the model layer count \n \n A direction tensor layer index is parsed from the tensor name with no \nupper bound, and the buffer size and write offs",
+      "aiSummary": "The article discusses a common issue where control vector layer indices are bound by the model layer count. It also mentions parsing a direction tensor layer index from the tensor name without an upper bound, and concerns about buffer size and write offs. The issue is referenced as #31336 and involves M‑RoPE position loops.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11972",
+      "category": "Machine Learning",
+      "filterTags": [
+        "mtmd",
+        "M-RoPE",
+        "tensor"
+      ],
+      "publishedAt": "2026-10-28T22:53:53+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Performance Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "v3-41-0",
+      "title": "v3.41.0",
+      "dek": "3.41.0  (2026-10-28) \n Features \n \n api:  accept typed references in Realtime response inputs ( #4189 ) ( 8ecb487 ) \n api:  add response tool usage models ( #4201 ) ( 55fc500 ) \n api:  filter agent sessions by metadata ( #4200 ) ( 77fd116 ) \n websocket:  recover queued binary fra",
+      "aiSummary": "The release of version 3.41.0 introduces several API features, including support for typed references in Realtime response inputs, new response tool usage models, and the ability to filter agent sessions by metadata. It also includes improvements to websocket functionality for recovering queued binary frames.",
+      "articleUrl": "https://github.com/openai/openai-python/releases/tag/v3.41.0",
+      "category": "Software Development",
+      "filterTags": [
+        "API",
+        "Realtime",
+        "WebSocket",
+        "Agent Sessions"
+      ],
+      "publishedAt": "2026-10-28T22:26:54+00:00",
+      "publisher": {
+        "name": "openai",
+        "domain": "github.com",
+        "website": "https://github.com/openai/openai-python",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "APIs"
+        }
+      ]
+    },
+    {
+      "slug": "v0-40-13-rc1-llama-cpp-workaround-metal-unary-crash-19372",
+      "title": "v0.40.13-rc1: llama.cpp: workaround Metal unary crash (#19372)",
+      "dek": "This temporary patch works around a regression on older versions of MacOS \nggml_metal_library_compile_all: failed to build 'unary' library",
+      "aiSummary": "This release introduces a temporary patch to resolve a regression causing a crash in the 'unary' library when using Metal on older versions of macOS. The workaround specifically addresses the failure in ggml_metal_library_compile_all.",
+      "articleUrl": "https://github.com/ollama/ollama/releases/tag/v0.40.13-rc1",
+      "category": "AI",
+      "filterTags": [
+        "llama.cpp",
+        "Metal",
+        "macOS",
+        "ggml"
+      ],
+      "publishedAt": "2026-10-28T22:20:04+00:00",
+      "publisher": {
+        "name": "ollama",
+        "domain": "github.com",
+        "website": "https://github.com/ollama/ollama",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "rian-johnson-s-chromagraph-camera-app-brings-his-cinematic-style-to-your-iphone-photos",
+      "title": "Rian Johnson's Chromagraph Camera app brings his cinematic style to your iPhone photos",
+      "dek": "Chromagraph Camera gives iPhone photos the Hollywood treatment for $12.99, but its cinematic look won't suit every photographer's taste. Chromagraph brings Hollywood color processing to iPhone Rian Johnson launched Chromagraph Camera, an iPhone photography app that uses image pro",
+      "aiSummary": "Rian Johnson has released Chromagraph Camera, an iPhone photography app priced at $12.99 that applies Hollywood-style color processing to images. While the app brings a distinct cinematic aesthetic to mobile photography, its specific look may not appeal to every photographer.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/28/rian-johnsons-chromagraph-camera-app-brings-his-cinematic-style-to-your-iphone-photos?utm_source=rss",
+      "category": "Mobile Technology",
+      "filterTags": [
+        "Chromagraph Camera",
+        "Rian Johnson",
+        "iPhone",
+        "iOS"
+      ],
+      "publishedAt": "2026-10-28T22:05:40+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Mobile Technology"
+        },
+        {
+          "name": "Photography"
+        },
+        {
+          "name": "Consumer Apps"
+        }
+      ]
+    }
+  ]
+}
