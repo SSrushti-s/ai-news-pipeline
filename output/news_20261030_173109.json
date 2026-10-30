@@ -1,0 +1,1736 @@
+{
+  "news": [
+    {
+      "slug": "configure-the-chatgpt-desktop-app-with-amazon-bedrock-in-aws-govcloud-us",
+      "title": "Configure the ChatGPT desktop app with Amazon Bedrock in AWS GovCloud (US)",
+      "dek": "The ChatGPT desktop app is now available on Amazon Bedrock in AWS GovCloud (US). This post walks through a controlled local deployment that routes model inference to Amazon Bedrock in AWS GovCloud (US-West) using API-mode sign-in, a managed device policy, a named AWS profile, and",
+      "aiSummary": "The ChatGPT desktop app is now accessible via Amazon Bedrock in AWS GovCloud (US). This guide details a controlled local deployment that directs model inference to Amazon Bedrock in AWS GovCloud (US-West) by utilizing API-mode sign-in, a managed device policy, and a named AWS profile.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/configure-the-chatgpt-desktop-app-with-amazon-bedrock-in-aws-govcloud-us/",
+      "category": "Cloud Computing",
+      "filterTags": [
+        "ChatGPT",
+        "Amazon Bedrock",
+        "AWS GovCloud",
+        "API-mode",
+        "AWS profile"
+      ],
+      "publishedAt": "2026-10-30T17:27:45+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Enterprise IT"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-may-not-secure-investment-grade-rating-after-ipo-blackstone-says",
+      "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+      "dek": "Private capital giant says AI group is expected to receive ‘high’ junk rating in shift from previous guidance",
+      "aiSummary": "Blackstone stated that Anthropic is expected to receive a 'high' junk rating following its IPO, rather than the investment-grade rating previously anticipated. This assessment marks a shift from earlier guidance regarding the AI company's creditworthiness.",
+      "articleUrl": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f?syn-25a6b1a6=1",
+      "category": "Finance",
+      "filterTags": [
+        "Anthropic",
+        "Blackstone",
+        "IPO",
+        "Credit Rating"
+      ],
+      "publishedAt": "2026-10-30T17:25:34+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "why-anthropic-s-ai-edge-appeals-to-long-term-investors",
+      "title": "Why Anthropic’s AI Edge Appeals to Long-Term Investors",
+      "dek": "Anthropic’s technical expertise, innovation and efficient use of compute set it apart in the AI landscape, says Peter Singlehurst, head of the Private Companies Team at Baillie Gifford. Singlehurst discusses why Anthropic’s governance structures – giving its seven founders voting",
+      "aiSummary": "Peter Singlehurst of Baillie Gifford argues that Anthropic's technical expertise, innovation, and efficient compute usage distinguish it in the AI market. He highlights the company's governance structure, specifically the voting power held by its seven founders, as a key factor appealing to long-term investors.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-30/why-anthropic-s-ai-edge-appeals-to-long-term-investors-video",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "Baillie Gifford",
+        "Peter Singlehurst",
+        "AI",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-30T17:24:32+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Investment"
+        },
+        {
+          "name": "Corporate Governance"
+        }
+      ]
+    },
+    {
+      "slug": "roblox-sees-ai-content-surge-as-daily-active-users-fall",
+      "title": "Roblox Sees AI Content Surge as Daily Active Users Fall",
+      "dek": "Roblox CEO David Baszucki says the platform has seen an explosion of AI-fueled content in the last three months. But the online gaming company is seeing some growing pains after rolling out tougher child-safety measures, with daily active users falling 9% last quarter, while book",
+      "aiSummary": "Roblox CEO David Baszucki stated that the platform has experienced a significant rise in AI-generated content over the past three months. However, the company is facing challenges following the implementation of stricter child-safety measures, which coincided with a 9% drop in daily active users last quarter.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-30/roblox-sees-ai-content-surge-as-daily-active-users-fall-video",
+      "category": "Gaming",
+      "filterTags": [
+        "Roblox",
+        "David Baszucki",
+        "AI",
+        "Child Safety"
+      ],
+      "publishedAt": "2026-10-30T17:23:02+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Platform Operations"
+        }
+      ]
+    },
+    {
+      "slug": "ai-to-drive-40-growth-for-aws-ceo-garman",
+      "title": "AI to Drive 40% Growth for AWS: CEO Garman",
+      "dek": "AWS CEO Matt Garman discusses how the company is looking to “responsibly fund” its AI buildout to meet customer demand. Revenue at the Amazon cloud unit grew for the sixth straight quarter, and the company is projecting it could grow more than 40% year over year in each of the ne",
+      "aiSummary": "AWS CEO Matt Garman stated that the company aims to responsibly fund its AI infrastructure expansion to satisfy customer demand. The cloud division has seen revenue growth for six consecutive quarters and projects a year-over-year increase of over 40% in the coming period.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-30/ai-to-drive-40-growth-for-aws-ceo-garman-video",
+      "category": "Cloud Computing",
+      "filterTags": [
+        "AWS",
+        "Amazon",
+        "AI",
+        "Matt Garman"
+      ],
+      "publishedAt": "2026-10-30T17:22:27+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Corporate Strategy"
+        }
+      ]
+    },
+    {
+      "slug": "you-can-see-everything-that-billy-evans-watched-on-2x-speed",
+      "title": "You Can See Everything That Billy Evans Watched on 2x Speed",
+      "dek": "What was Elizabeth Holmes’s partner watching in the new Nathan Fielder documentary? We found the videos (and the scientists in them).",
+      "aiSummary": "The article identifies the specific videos that Elizabeth Holmes's partner, Billy Evans, was watching in the new Nathan Fielder documentary. It notes that these clips were viewed at 2x speed and highlights the scientists featured in the footage.",
+      "articleUrl": "https://www.nytimes.com/2026/10/30/upshot/billy-evans-you-can-see-everything.html",
+      "category": "Media",
+      "filterTags": [
+        "Billy Evans",
+        "Elizabeth Holmes",
+        "Nathan Fielder",
+        "Documentary"
+      ],
+      "publishedAt": "2026-10-30T17:15:37+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Media"
+        },
+        {
+          "name": "Biography"
+        }
+      ]
+    },
+    {
+      "slug": "asrock-industrial-ai-box-a395-review-taking-strix-halo-to-work-servethehome",
+      "title": "ASRock Industrial AI Box-A395 Review: Taking Strix Halo to Work – ServeTheHome",
+      "dek": "ASRock's Industrial AI Box-A395 Review: Bringing the Strix Halo to the Workplace",
+      "aiSummary": "",
+      "articleUrl": "https://www.servethehome.com/asrock-industrial-ai-box-a395-review-taking-strix-halo-to-work/",
+      "category": "Artificial Intelligence",
+      "filterTags": [],
+      "publishedAt": "2026-10-30T17:13:19+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": []
+    },
+    {
+      "slug": "credit-where-it-s-due-to-ai-for-uncovering-the-php-flaw-and-discredit-to-the-leaker-letters",
+      "title": "Credit where it’s due to AI for uncovering the PHP flaw – and discredit to the leaker | Letters",
+      "dek": "David Gibson  says the problem is that details of the flaw were revealed before it was fixed, while  Charles MacKinnon  notes that we are at the mercy of technology we don’t understand Chris Stokel-Walker may be right ( The internet has broken – again. Shouldn’t the tech firms th",
+      "aiSummary": "David Gibson argues that the primary issue was the premature disclosure of the PHP flaw before a fix was available. Meanwhile, Charles MacKinnon highlights the broader problem of relying on complex technology that users do not fully understand.",
+      "articleUrl": "https://www.theguardian.com/technology/2026/oct/30/credit-where-its-due-to-ai-for-uncovering-the-php-flaw-and-discredit-to-the-leaker",
+      "category": "Security",
+      "filterTags": [
+        "PHP",
+        "AI",
+        "David Gibson",
+        "Charles MacKinnon"
+      ],
+      "publishedAt": "2026-10-30T17:10:09+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "a-question-for-those-who-hate-datacentres",
+      "title": "A question for those who hate datacentres",
+      "dek": "Technology and urban planning | The Guardian letters page | Porridge Your account of the datacentre controversy in Cardiff ( The datacentre next door: on the frontline of tech’s latest David v Goliath battle, 24 October ) missed out the important balancing fact that Cardiff counc",
+      "aiSummary": "A reader responds to a previous article about the data center controversy in Cardiff, arguing that the original report omitted a crucial balancing fact regarding Cardiff council. The letter serves as a correction to the narrative presented in the 'David v Goliath' battle description.",
+      "articleUrl": "https://www.theguardian.com/uk-news/2026/oct/30/a-question-for-those-who-hate-datacentres",
+      "category": "Technology",
+      "filterTags": [
+        "Cardiff",
+        "datacentres",
+        "urban planning",
+        "The Guardian"
+      ],
+      "publishedAt": "2026-10-30T17:10:03+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Urban Planning"
+        },
+        {
+          "name": "Public Policy"
+        }
+      ]
+    },
+    {
+      "slug": "binance-s-6-3-billion-hack-is-just-the-start-of-a-risky-new-era",
+      "title": "Binance’s $6.3 Billion Hack Is Just the Start of a Risky New Era",
+      "dek": "The largest cyber heist in history came as attackers increasingly use artificial intelligence and other advanced techniques to steal crypto and quickly launder the funds.",
+      "aiSummary": "The largest cyber heist in history occurred at Binance, involving the theft of $6.3 billion. Attackers are increasingly utilizing artificial intelligence and advanced techniques to steal cryptocurrency and rapidly launder the stolen funds.",
+      "articleUrl": "https://www.nytimes.com/2026/10/30/technology/binance-hack-ai-north-korea.html",
+      "category": "Cryptocurrency",
+      "filterTags": [
+        "Binance",
+        "Artificial Intelligence",
+        "Crypto",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-30T17:07:20+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cryptocurrency"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "google-s-first-data-center-satellite-is-online-and-writing-poetry",
+      "title": "Google’s first data center satellite is online and writing poetry",
+      "dek": "The first TPU in space is a running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+      "aiSummary": "Google's first data center satellite has been successfully launched and is currently operational. It hosts a TPU in space that is running a Google DeepMind Gemma 4 model to generate poetry.",
+      "articleUrl": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "category": "Space Technology",
+      "filterTags": [
+        "Google",
+        "TPU",
+        "DeepMind",
+        "Gemma 4"
+      ],
+      "publishedAt": "2026-10-30T17:00:00+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Space Technology"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "your-netgear-router-may-be-vulnerable-to-a-security-exploit-how-to-check-and-patch-it",
+      "title": "Your Netgear router may be vulnerable to a security exploit – how to check and patch it",
+      "dek": "A vulnerability in some Netgear routers could allow an attacker with access to your network to run malicious commands on the device.",
+      "aiSummary": "Some Netgear routers have a vulnerability that lets attackers with network access execute malicious commands on the device. Users should check if their router is affected and apply any available patches.",
+      "articleUrl": "https://www.zdnet.com/tech/netgear-routers-vulnerable-security-exploit/",
+      "category": "Security",
+      "filterTags": [
+        "Netgear",
+        "router",
+        "vulnerability",
+        "exploit",
+        "patch"
+      ],
+      "publishedAt": "2026-10-30T16:58:22+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Networking"
+        }
+      ]
+    },
+    {
+      "slug": "thousands-of-ghost-students-use-ai-to-steal-millions-in-student-loans-doj-says",
+      "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
+      "dek": "Applying for FAFSA may get messy as DOJ “ghost student” crackdown ramps up.",
+      "aiSummary": "The Department of Justice states that thousands of fraudulent applicants, referred to as 'ghost students,' have used AI tools to steal millions of dollars in student loans. This crackdown is expected to complicate the FAFSA application process as enforcement efforts increase.",
+      "articleUrl": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
+      "category": "Government",
+      "filterTags": [
+        "DOJ",
+        "FAFSA",
+        "AI",
+        "Student Loans"
+      ],
+      "publishedAt": "2026-10-30T16:53:49+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Government"
+        },
+        {
+          "name": "Education"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "show-hn-nktg-ai-an-llm-that-decodes-text-before-generating",
+      "title": "Show HN: NKTg AI – An LLM that decodes text before generating",
+      "dek": "Show HN: NKTg AI is a language model that processes text before generating responses.",
+      "aiSummary": "",
+      "articleUrl": "https://nktg.org/",
+      "category": "AI",
+      "filterTags": [
+        "NKTg AI",
+        "LLM"
+      ],
+      "publishedAt": "2026-10-30T16:38:55+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Natural Language Processing"
+        }
+      ]
+    },
+    {
+      "slug": "the-pulse-anthropic-kills-the-coding-interview",
+      "title": "The Pulse: Anthropic kills the coding interview",
+      "dek": "AI is rendering the Leetcode-style interview pointless and now Anthropic has deleted it from its interview loop. Also: details of incident.io’s AI spend, Microsoft’s exit offer to engineers, and more",
+      "aiSummary": "Anthropic has removed the Leetcode-style coding interview from its hiring process, citing that AI makes it unnecessary. The article also covers incident.io’s AI spending, Microsoft’s exit offer to engineers, and other tech industry updates.",
+      "articleUrl": "https://newsletter.pragmaticengineer.com/p/the-pulse-anthropic-kills-the-coding",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Anthropic",
+        "incident.io",
+        "Microsoft",
+        "Leetcode",
+        "AI"
+      ],
+      "publishedAt": "2026-10-30T16:37:51+00:00",
+      "publisher": {
+        "name": "Pragmatic Engineer",
+        "domain": "newsletter.pragmaticengineer.com",
+        "website": "https://newsletter.pragmaticengineer.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=newsletter.pragmaticengineer.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=newsletter.pragmaticengineer.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Recruitment"
+        },
+        {
+          "name": "Tech Industry"
+        }
+      ]
+    },
+    {
+      "slug": "polymarket-and-kalshi-face-a-major-accuracy-test-the-midterms",
+      "title": "Polymarket and Kalshi Face a Major Accuracy Test: The Midterms",
+      "dek": "Studies have shown that the betting sites can predict races correctly, but their ability to forecast U.S. midterm elections is an important proving ground.",
+      "aiSummary": "While studies indicate that betting sites can accurately predict individual races, their performance in forecasting U.S. midterm elections serves as a critical test of their overall accuracy. This upcoming election cycle is viewed as a significant proving ground for these platforms.",
+      "articleUrl": "https://www.nytimes.com/2026/10/30/technology/polymarket-kalshi-midterm-elections.html",
+      "category": "Finance",
+      "filterTags": [
+        "Polymarket",
+        "Kalshi",
+        "Prediction Markets",
+        "Midterm Elections"
+      ],
+      "publishedAt": "2026-10-30T16:35:45+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Data Science"
+        }
+      ]
+    },
+    {
+      "slug": "postgres-19-is-late-and-it-s-ai-s-fault",
+      "title": "Postgres 19 is late, and it's AI's fault",
+      "dek": "Postgres 19 is postponed because of artificial intelligence.",
+      "aiSummary": "PostgreSQL version 19 has been delayed. The delay is blamed on AI.",
+      "articleUrl": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+      "category": "Databases",
+      "filterTags": [
+        "Postgres",
+        "AI"
+      ],
+      "publishedAt": "2026-10-30T16:34:47+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Databases"
+        },
+        {
+          "name": "Artificial Intelligence"
+        }
+      ]
+    },
+    {
+      "slug": "new-tvos-27-2-features-to-try-for-an-upgraded-apple-tv-experience",
+      "title": "New tvOS 27.2 features to try for an upgraded Apple TV experience",
+      "dek": "Apple's tvOS 27.2 update isn't a particularly transformative one, but it still introduces a handful of new features that are worth checking out.",
+      "aiSummary": "Apple released tvOS 27.2, adding several new features. While the update is not a major overhaul, it includes improvements that enhance the Apple TV experience.",
+      "articleUrl": "https://www.engadget.com/2302449/tvos-27-2-features-try-upgraded-apple-tv-experience/",
+      "category": "Software Updates",
+      "filterTags": [
+        "Apple",
+        "tvOS",
+        "Apple TV"
+      ],
+      "publishedAt": "2026-10-30T16:22:49+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Updates"
+        },
+        {
+          "name": "Operating Systems"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "ternus-talks-ai-steve-jobs-and-not-looking-to-emulate-business-ceos",
+      "title": "Ternus talks AI, Steve Jobs, and not looking to emulate business CEOs",
+      "dek": "CEO  John Ternus  has been doing the rounds promoting the new MacBook Pro, but has now also taken questions about his approach to Apple's business approach. John Ternus Even as Ternus has been saying that now is the right time to produce a touch-screen MacBook Pro, he is still be",
+      "aiSummary": "Apple CEO John Ternus is promoting the new MacBook Pro while addressing questions about the company's business strategy. He has stated that the current timing is appropriate for introducing a touch-screen MacBook Pro, though the provided text cuts off before detailing his full stance on emulating other business CEOs.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/30/ternus-talks-ai-steve-jobs-and-not-looking-to-emulate-business-ceos?utm_source=rss",
+      "category": "Technology",
+      "filterTags": [
+        "Apple",
+        "John Ternus",
+        "MacBook Pro",
+        "AI",
+        "Steve Jobs"
+      ],
+      "publishedAt": "2026-10-30T16:17:36+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Business Strategy"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "google-s-latest-home-updates-just-fixed-my-biggest-annoyances-with-its-speakers-and-cameras",
+      "title": "Google’s latest Home updates just fixed my biggest annoyances with its speakers and cameras",
+      "dek": "Google details 42 fixes to its Home app and the devices compatible with it.",
+      "aiSummary": "Google announced 42 fixes for its Home app, improving compatibility with connected devices. The updates address issues with audio and visual components. Users report that the changes resolve their main frustrations.",
+      "articleUrl": "https://www.zdnet.com/home-and-office/google-home-gemini-updates-42-fixes/",
+      "category": "Smart Home",
+      "filterTags": [
+        "Google",
+        "Home app",
+        "speakers",
+        "cameras"
+      ],
+      "publishedAt": "2026-10-30T16:14:11+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Smart Home"
+        },
+        {
+          "name": "Software Updates"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "b12015",
+      "title": "b12015",
+      "dek": "common : delete fs_path_to_utf8() ( #31423 ) \n Signed-off-by: Adrien Gallouët  angt@huggingface.co \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/61831888 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Sil",
+      "aiSummary": "The commit identified as b12015 removes the fs_path_to_utf8() function from the common code, as noted in issue #31423. It was signed off by Adrien Gallouët and is part of the llama.cpp project, with attestations linked on GitHub. The change is relevant for macOS Apple Silicon (arm64) builds.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12015",
+      "category": "Open Source",
+      "filterTags": [
+        "llama.cpp",
+        "ggml-org",
+        "huggingface",
+        "macOS",
+        "Apple Silicon",
+        "arm64"
+      ],
+      "publishedAt": "2026-10-30T16:09:47+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Operating Systems"
+        }
+      ]
+    },
+    {
+      "slug": "theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people",
+      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+      "dek": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
+      "aiSummary": "Theranos whistleblower Tyler Shultz warns that the rapid growth of the AI sector creates a significant opportunity for deception. He draws a parallel to the Theranos scandal, noting that the current market allows companies with no profit history to secure massive valuations.",
+      "articleUrl": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+      "category": "AI",
+      "filterTags": [
+        "Theranos",
+        "Tyler Shultz",
+        "AI",
+        "Valuation"
+      ],
+      "publishedAt": "2026-10-30T16:03:45+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Business Ethics"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "the-wikimedia-foundation-weighs-in-on-the-nyt-s-case-against-openai",
+      "title": "The Wikimedia Foundation weighs in on the NYT's case against OpenAI",
+      "dek": "The folks behind Wikipedia say that an extreme decision in either direction could threaten the open web.",
+      "aiSummary": "The Wikimedia Foundation has expressed concerns about the New York Times' legal action against OpenAI, warning that a decisive outcome could endanger the open web. The organization emphasizes the importance of maintaining an open and accessible internet.",
+      "articleUrl": "https://www.engadget.com/2302374/the-wikimedia-foundation-weighs-in-on-the-nyts-case-against-openai/",
+      "category": "AI",
+      "filterTags": [
+        "Wikimedia Foundation",
+        "New York Times",
+        "OpenAI",
+        "Wikipedia"
+      ],
+      "publishedAt": "2026-10-30T15:47:12+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Internet Governance"
+        },
+        {
+          "name": "Legal"
+        }
+      ]
+    },
+    {
+      "slug": "us-tech-stocks-see-sharp-falls-over-ai-cost-fears",
+      "title": "US tech stocks see sharp falls over AI cost fears",
+      "dek": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+      "aiSummary": "Shares of Intel are falling, and the Nasdaq, which is heavily weighted toward technology stocks, opened at its lowest level in over two months. The decline is attributed to fears that the cost of AI could weigh on technology companies. The Nasdaq's low opening indicates broader market weakness in the tech sector.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+      "category": "Technology",
+      "filterTags": [
+        "Intel",
+        "Nasdaq",
+        "AI"
+      ],
+      "publishedAt": "2026-10-30T15:46:28+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Investing"
+        }
+      ]
+    },
+    {
+      "slug": "audit-your-subscriptions-this-halloween-and-stop-wasting-money",
+      "title": "Audit your subscriptions this Halloween and stop wasting money",
+      "dek": "It's Halloween, so it's a great time to make sure you're not getting tricked out of your hard-earned cash and cancel those subscriptions you've forgotten about. Here's how to do it. Why and how you should audit your subscriptions Digital hygiene, the practice of keeping a clean, ",
+      "aiSummary": "The article suggests using Halloween as a prompt to audit personal subscriptions and cancel forgotten services to save money. It frames this task as part of digital hygiene, which involves maintaining a clean and organized digital life.",
+      "articleUrl": "https://appleinsider.com/inside/app-store/tips/audit-your-subscriptions-this-april-fools-and-stop-wasting-money?utm_source=rss",
+      "category": "Personal Finance",
+      "filterTags": [
+        "Digital Hygiene",
+        "Personal Finance",
+        "Subscriptions"
+      ],
+      "publishedAt": "2026-10-30T15:35:58+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Personal Finance"
+        },
+        {
+          "name": "Consumer Tech"
+        }
+      ]
+    },
+    {
+      "slug": "amazon-knocks-150-off-apple-s-m6-m5-pro-mac-mini-with-24gb-ram",
+      "title": "Amazon knocks $150 off Apple's M6, M5 Pro Mac mini with 24GB RAM",
+      "dek": "Amazon has launched steeper 2026 Mac mini markdowns, with M6 and M5 Pro models with 24GB of RAM now $150 off for the weekend. Save $150 on 2026 Mac mini with 24GB RAM. Amazon this Friday has increased its Mac mini discounts on two upgraded configurations. The first, the M6 Mac mi",
+      "aiSummary": "Amazon has increased discounts on 2026 Mac mini configurations, offering $150 off models featuring M6 and M5 Pro chips with 24GB of RAM. This weekend promotion applies to two upgraded configurations of the device.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/30/amazon-knocks-150-off-apples-m6-m5-pro-mac-mini-with-24gb-ram?utm_source=rss",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Amazon",
+        "Apple",
+        "Mac mini",
+        "M6",
+        "M5 Pro",
+        "24GB RAM"
+      ],
+      "publishedAt": "2026-10-30T15:35:05+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Retail"
+        }
+      ]
+    },
+    {
+      "slug": "b12014",
+      "title": "b12014",
+      "dek": "common : drop the Windows argv reconstruction ( #31417 ) \n The manifest from  #31329  already makes argv UTF-8. \n Fixes  #26416 \n Signed-off-by: Adrien Gallouët  angt@huggingface.co \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/att",
+      "aiSummary": "The update removes the Windows argv reconstruction code because the manifest already ensures UTF‑8 encoding. It addresses issue #26416 and is signed off by Adrien Gallouët. The project is hosted on llama.app and its attestations are available on GitHub.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12014",
+      "category": "Software Development",
+      "filterTags": [
+        "Windows",
+        "UTF-8",
+        "llama.cpp",
+        "ggml-org",
+        "llama.app",
+        "Hugging Face"
+      ],
+      "publishedAt": "2026-10-30T15:33:33+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Operating Systems"
+        }
+      ]
+    },
+    {
+      "slug": "pick-a-number-between-1-and-10",
+      "title": "Pick a Number Between 1 and 10",
+      "dek": "A viral tweet says LLMs pick 7 because of gradient descent. The math says it’s more interesting than that. \n The post  Pick a Number Between 1 and 10  appeared first on  Towards Data Science .",
+      "aiSummary": "A viral tweet suggests that large language models select the number 7 due to the mechanics of gradient descent. However, the article argues that the mathematical explanation for this behavior is more complex and interesting than that simple attribution.",
+      "articleUrl": "https://towardsdatascience.com/pick-a-number-between-1-and-10/",
+      "category": "AI",
+      "filterTags": [
+        "LLMs",
+        "gradient descent",
+        "Towards Data Science"
+      ],
+      "publishedAt": "2026-10-30T15:30:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "the-death-stranding-anime-s-first-teaser-trailer-arrives-ahead-of-its-disney-debut",
+      "title": "The Death Stranding anime's first teaser trailer arrives ahead of its Disney+ debut",
+      "dek": "The adaptation has a fittingly strange tagline: \"My mom became a crater.\"",
+      "aiSummary": "The first teaser trailer for the Death Stranding anime has been released ahead of its Disney+ debut. The adaptation includes a quirky tagline, \"My mom became a crater.\"",
+      "articleUrl": "https://www.engadget.com/2302296/the-death-stranding-animes-first-teaser-trailer-arrives-ahead-of-its-disney-debut/",
+      "category": "Entertainment",
+      "filterTags": [
+        "Death Stranding",
+        "Disney+",
+        "anime"
+      ],
+      "publishedAt": "2026-10-30T15:07:09+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Entertainment"
+        },
+        {
+          "name": "Animation"
+        },
+        {
+          "name": "Streaming"
+        }
+      ]
+    },
+    {
+      "slug": "tai-228-ai-roi-beyond-labs-revenue-our-interview-with-openai-s-eoin-boylan",
+      "title": "TAI #228: AI ROI Beyond Labs Revenue + Our Interview with OpenAI's Eoin Boylan",
+      "dek": "Also, Kimi K3.1 Pro, GPT-6.1 Terra, Artificial Analysis's new leaderboard, Anthropic's internal AI usage, and OpenAI's Eoin Boylan on forward deployed engineering.",
+      "aiSummary": "This issue of TAI #228 discusses the return on investment for AI beyond laboratory revenue and includes an interview with OpenAI's Eoin Boylan regarding forward deployed engineering. It also covers updates on Kimi K3.1 Pro, GPT-6.1 Terra, and Artificial Analysis's new leaderboard, alongside insights into Anthropic's internal AI usage.",
+      "articleUrl": "https://newsletter.towardsai.net/p/tai-228-ai-roi-beyond-labs-revenue",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "Anthropic",
+        "Kimi K3.1 Pro",
+        "GPT-6.1 Terra",
+        "Artificial Analysis",
+        "Eoin Boylan"
+      ],
+      "publishedAt": "2026-10-30T15:03:36+00:00",
+      "publisher": {
+        "name": "Towards AI",
+        "domain": "newsletter.towardsai.net",
+        "website": "https://newsletter.towardsai.net/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=newsletter.towardsai.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=newsletter.towardsai.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Business Strategy"
+        },
+        {
+          "name": "Product Updates"
+        }
+      ]
+    },
+    {
+      "slug": "ghost-in-the-machine-how-ai-is-haunting-the-search-for-the-supernatural",
+      "title": "Ghost in the machine: how AI is haunting the search for the supernatural",
+      "dek": "Ghost hunting has changed in recent years due to AI chatbots, and paranormal enthusiasts are concerned Ghost hunting is a tech-heavy pursuit. When Amy Waine and Jarrad Cutting investigate haunted locations, they’re loaded up with software of their own design, such as an app that ",
+      "aiSummary": "The practice of ghost hunting has evolved significantly due to the integration of AI chatbots, raising concerns among paranormal enthusiasts. Modern investigations are technology-intensive, with researchers like Amy Waine and Jarrad Cutting utilizing their own custom-designed software and applications.",
+      "articleUrl": "https://www.theguardian.com/technology/ng-interactive/2026/oct/30/ai-ghost-hunting",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "AI chatbots",
+        "Software",
+        "Apps"
+      ],
+      "publishedAt": "2026-10-30T15:00:16+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Paranormal"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "things-that-go-beep-in-the-night-agentic-ai-joins-the-search-for-extraterrestrial-signals",
+      "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+      "dek": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forward with AI, and it increasingly focuses ",
+      "aiSummary": "The article notes that while sci‑fi often imagines green aliens, the real breakthrough in the search for extraterrestrial intelligence is the use of AI. This new approach is rapidly becoming a key part of the effort to detect alien signals.",
+      "articleUrl": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AI"
+      ],
+      "publishedAt": "2026-10-30T15:00:10+00:00",
+      "publisher": {
+        "name": "NVIDIA",
+        "domain": "nvidia.com",
+        "website": "https://blogs.nvidia.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Space Exploration"
+        },
+        {
+          "name": "Science"
+        }
+      ]
+    },
+    {
+      "slug": "pope-leo-calls-for-the-disarmament-of-ai-machines-are-tools-not-persons",
+      "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+      "dek": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning lethal",
+      "aiSummary": "Pope Leo XIV calls for the disarmament of AI, saying humans must guide, change, and reject its applications when necessary. He urges United Nations member states to take concrete steps toward banning lethal AI.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "lethal AI",
+        "United Nations"
+      ],
+      "publishedAt": "2026-10-30T14:58:06+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Governance"
+        },
+        {
+          "name": "Ethics"
+        }
+      ]
+    },
+    {
+      "slug": "b12012",
+      "title": "b12012",
+      "dek": "vendor : update cpp-httplib to 0.64.0 ( #31400 ) \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/61801183 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silicon (arm64, KleidiAI enabled)  DISABLED \n macOS I",
+      "aiSummary": "The llama.cpp project has released a new build that updates the cpp-httplib dependency to version 0.64.0. This release includes support for macOS and iOS platforms, specifically targeting Apple Silicon architectures.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12012",
+      "category": "AI",
+      "filterTags": [
+        "llama.cpp",
+        "cpp-httplib",
+        "Apple Silicon",
+        "macOS",
+        "iOS"
+      ],
+      "publishedAt": "2026-10-30T14:56:37+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "binning-or-feature-selection-which-one-won-us-an-insurance-hackathon",
+      "title": "Binning or Feature Selection: Which One Won Us an Insurance Hackathon?",
+      "dek": "For a year, we believed that supervised binning carried our winning entry to an insurance competition. After four seeds per arm and one shared feature set, the credit belongs elsewhere. \n The post  Binning or Feature Selection: Which One Won Us an Insurance Hackathon?  appeared f",
+      "aiSummary": "The authors initially believed that supervised binning was the key factor behind their winning entry in an insurance competition. However, after conducting experiments with four seeds per arm and a shared feature set, they concluded that the success was actually due to other factors.",
+      "articleUrl": "https://towardsdatascience.com/binning-or-feature-selection-which-one-won-us-an-insurance-hackathon/",
+      "category": "Data Science",
+      "filterTags": [
+        "supervised binning",
+        "feature selection",
+        "insurance",
+        "hackathon"
+      ],
+      "publishedAt": "2026-10-30T14:00:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Data Science"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate",
+      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+      "dek": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before the event starts to save up to",
+      "aiSummary": "The TechCrunch Founder Summit 2026 will take place on November 4 at SoWa Power Station in Boston. Braindate will power the event’s networking, helping attendees locate 1:1 and small-group conversations. Early registration offers savings.",
+      "articleUrl": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+      "category": "Events",
+      "filterTags": [
+        "Braindate",
+        "TechCrunch Founder Summit"
+      ],
+      "publishedAt": "2026-10-30T14:00:00+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Events"
+        },
+        {
+          "name": "Networking"
+        },
+        {
+          "name": "Tech Conferences"
+        }
+      ]
+    },
+    {
+      "slug": "advanced-energy-expands-m-crps-range-for-ai-data-centers",
+      "title": "Advanced Energy Expands M-CRPS Range for AI Data Centers",
+      "dek": "The company has expanded its M-CRPS portfolio with high-density 12 V and 54 V power supplies for AI and data center infrastructure. \n The post  Advanced Energy Expands M-CRPS Range for AI Data Centers  appeared first on  Power Electronics News .",
+      "aiSummary": "Advanced Energy has expanded its M-CRPS portfolio by introducing high-density 12 V and 54 V power supplies. These new units are designed specifically for AI and data center infrastructure.",
+      "articleUrl": "https://www.powerelectronicsnews.com/advanced-energy-expands-m-crps-range-for-ai-data-centers/",
+      "category": "Hardware",
+      "filterTags": [
+        "Advanced Energy",
+        "M-CRPS",
+        "Power Supplies",
+        "AI Data Centers"
+      ],
+      "publishedAt": "2026-10-30T14:00:00+00:00",
+      "publisher": {
+        "name": "Power Electronics News",
+        "domain": "powerelectronicsnews.com",
+        "website": "https://www.powerelectronicsnews.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Data Centers"
+        },
+        {
+          "name": "Power Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "silicon-valley-wants-you-to-invest-in-miracles",
+      "title": "Silicon Valley wants you to invest in miracles",
+      "dek": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, \"pose catastrophic or existential risks to humanity,\" or best case, \"bring for",
+      "aiSummary": "The article compares investing in stocks to gambling, noting that betting on cutting‑edge technology carries the risk of catastrophic outcomes or the promise of great benefits. It highlights the uncertainty inherent in funding ventures that could either pose existential threats or deliver transformative advances.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+      "category": "Finance",
+      "filterTags": [
+        "Silicon Valley"
+      ],
+      "publishedAt": "2026-10-30T13:11:05+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Risk"
+        }
+      ]
+    },
+    {
+      "slug": "from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence",
+      "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
+      "dek": "Evaluating Microsoft Copilot at enterprise scale requires test data that captures the full complexity of real organizations, yet real enterprise data contains sensitive information that cannot be used for evaluation under any circumstances. \n The post  From synthetic enterprise d",
+      "aiSummary": "Evaluating Microsoft Copilot at an enterprise scale requires test data that reflects the complexity of real organizations, but actual enterprise data contains sensitive information that cannot be used for testing. The article discusses using synthetic enterprise data to bridge this gap and establish confidence in the AI's performance.",
+      "articleUrl": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/",
+      "category": "AI",
+      "filterTags": [
+        "Microsoft Copilot",
+        "Synthetic Data",
+        "Enterprise AI",
+        "Data Privacy"
+      ],
+      "publishedAt": "2026-10-30T13:05:28+00:00",
+      "publisher": {
+        "name": "Microsoft Research",
+        "domain": "microsoft.com",
+        "website": "https://www.microsoft.com/en-us/research/",
+        "logoUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2024/07/About-page-promo_1066x600.jpg",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Enterprise Technology"
+        },
+        {
+          "name": "Data Management"
+        }
+      ]
+    },
+    {
+      "slug": "wafer-level-burn-in-improves-wbg-device-reliability-automotive-and-aerospace-wbg-device-testing-direct-dielectric-coolin",
+      "title": "Wafer-Level Burn-In Improves WBG Device Reliability, Automotive and Aerospace WBG Device Testing, Direct Dielectric Cooling for Power Converters: Power Electronics Week Insights",
+      "dek": "Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on Wafer-Level Burn-In Improves WBG Device Reliability, Automotive and Aerospace WBG Device Testing, and Direct Dielectric Cooling for Power Converters! \n The post  Wafer-Level Burn-In I",
+      "aiSummary": "This article provides a roundup of recent developments in power electronics. Key topics include advancements in wafer-level burn-in techniques to enhance the reliability of Wide Bandgap (WBG) devices. It also covers specific testing methodologies for WBG devices in automotive and aerospace applications, alongside innovations in direct dielectric cooling for power converters.",
+      "articleUrl": "https://www.powerelectronicsnews.com/wafer-level-burn-in-improves-wbg-device-reliability-automotive-and-aerospace-wbg-device-testing-direct-dielectric-cooling-for-power-converters-power-electronics-week-insights/",
+      "category": "Power Electronics",
+      "filterTags": [
+        "Wafer-Level Burn-In",
+        "WBG Devices",
+        "Automotive",
+        "Aerospace",
+        "Direct Dielectric Cooling",
+        "Power Converters",
+        "Power Electronics Week"
+      ],
+      "publishedAt": "2026-10-30T13:03:49+00:00",
+      "publisher": {
+        "name": "Power Electronics News",
+        "domain": "powerelectronicsnews.com",
+        "website": "https://www.powerelectronicsnews.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Power Electronics"
+        },
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Testing"
+        },
+        {
+          "name": "Thermal Management"
+        }
+      ]
+    },
+    {
+      "slug": "sam-altman-sympathizes-with-mathematicians-but-says-openai-s-math-onslaught-won-t-stop",
+      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+      "dek": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the com",
+      "aiSummary": "OpenAI CEO Sam Altman expressed sympathy for mathematicians who are overwhelmed by the volume of AI-generated results. Despite this, he stated that the company has no plans to halt its efforts and suggested that even more significant developments are on the horizon.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "Sam Altman",
+        "Mathematics",
+        "AI"
+      ],
+      "publishedAt": "2026-10-30T13:01:14+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Research"
+        }
+      ]
+    },
+    {
+      "slug": "semiq-launches-750-v-and-1200-v-gen4-sic-mosfets",
+      "title": "SemiQ Launches 750 V and 1200 V Gen4 SiC MOSFETs",
+      "dek": "SemiQ’s 750 V and 1200 V Gen4 SiC MOSFETs combine lower on-resistance and switching energy for high-power conversion systems. \n The post  SemiQ Launches 750 V and 1200 V Gen4 SiC MOSFETs  appeared first on  Power Electronics News .",
+      "aiSummary": "SemiQ has released 750‑volt and 1200‑volt Gen4 silicon carbide MOSFETs. These devices feature reduced on‑resistance and lower switching energy, making them suitable for high‑power conversion applications.",
+      "articleUrl": "https://www.powerelectronicsnews.com/semiq-launches-750-v-and-1200-v-gen4-sic-mosfets/",
+      "category": "Semiconductors",
+      "filterTags": [
+        "SemiQ",
+        "SiC MOSFET",
+        "Gen4",
+        "high-power conversion"
+      ],
+      "publishedAt": "2026-10-30T13:00:00+00:00",
+      "publisher": {
+        "name": "Power Electronics News",
+        "domain": "powerelectronicsnews.com",
+        "website": "https://www.powerelectronicsnews.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Power Electronics"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "did-anthropic-value-itself-at-1-2tn-in-august",
+      "title": "Did Anthropic value itself at $1.2tn in August?",
+      "dek": "Not quite Navier-Stokes",
+      "aiSummary": "The article questions whether Anthropic valued itself at $1.2 trillion in August. The provided text offers no further details, relying solely on the title and a brief, cryptic description.",
+      "articleUrl": "https://www.ft.com/content/60fb40ed-f1bf-416e-982b-1b9b80582ab4",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic"
+      ],
+      "publishedAt": "2026-10-30T12:36:54+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Venture Capital"
+        }
+      ]
+    },
+    {
+      "slug": "your-agent-s-tools-can-make-decisions-too",
+      "title": "Your Agent’s Tools Can Make Decisions, Too",
+      "dek": "Decision models as tools: a hands-on guide \n The post  Your Agent’s Tools Can Make Decisions, Too  appeared first on  Towards Data Science .",
+      "aiSummary": "The article explains how decision models can serve as tools within agents, offering a practical, hands‑on guide to integrating decision‑making capabilities. It demonstrates how these models can be applied to enhance agent functionality.",
+      "articleUrl": "https://towardsdatascience.com/your-agents-tools-can-make-decisions-too/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Decision models",
+        "Agents",
+        "Towards Data Science"
+      ],
+      "publishedAt": "2026-10-30T12:30:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "the-big-questions-remaining-after-anthropic-s-blockbuster-ipo-prospectus",
+      "title": "The big questions remaining after Anthropic’s blockbuster IPO prospectus",
+      "dek": "Uncertainties remain ahead of one of the most hotly anticipated IPOs in history.",
+      "aiSummary": "Significant uncertainties remain ahead of Anthropic's initial public offering, which is considered one of the most anticipated in history. The company's IPO prospectus has left several major questions unresolved for investors and observers.",
+      "articleUrl": "https://www.cnbc.com/2026/10/30/anthropic-ipo-s1-revenue-compute.html",
+      "category": "Finance",
+      "filterTags": [
+        "Anthropic",
+        "IPO"
+      ],
+      "publishedAt": "2026-10-30T12:27:36+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1793377421",
+      "title": "viable/strict/1793377421",
+      "dek": "dynamo: Handle symbolic truthiness of user-defined objects in  not  (…",
+      "aiSummary": "The update modifies the Dynamo component to correctly handle the symbolic truthiness of user-defined objects within the 'not' operator. This change addresses logic related to how custom objects are evaluated in boolean contexts.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1793377421",
+      "category": "Software Development",
+      "filterTags": [
+        "Dynamo",
+        "symbolic truthiness",
+        "user-defined objects"
+      ],
+      "publishedAt": "2026-10-30T12:09:59+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "slug": "who-could-be-behind-the-binance-hack-and-what-we-know-so-far",
+      "title": "Who could be behind the Binance hack and what we know so far",
+      "dek": "Binance has been hit by what could be the biggest crypto hack ever - here's what we know so far",
+      "aiSummary": "Binance has suffered a major crypto hack that may be the largest in the industry. The incident has led to significant losses and raised questions about security. The article outlines what is currently known about the breach.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/cm5yn8eqg3npo?at_medium=RSS&at_campaign=rss",
+      "category": "Cryptocurrency",
+      "filterTags": [
+        "Binance",
+        "crypto hack"
+      ],
+      "publishedAt": "2026-10-30T11:57:33+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cryptocurrency"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "harness-improving-ai-agent-performance-without-model-upgrades",
+      "title": "Harness²: Improving AI Agent Performance Without Model Upgrades",
+      "dek": "When an AI agent fails to complete a task, upgrading the model can seem like the obvious next step. Yet an agent’s performance also depends on how it receives instructions, uses tools, and manages its work. Understanding those factors can reveal opportunities to improve reliabili",
+      "aiSummary": "The article explains that instead of upgrading the model, improving AI agent performance can be achieved by optimizing how the agent receives instructions, uses tools, and manages its work. By focusing on these operational factors, developers can enhance reliability without changing the underlying model.",
+      "articleUrl": "https://www.analyticsvidhya.com/blog/2026/10/harness2-improving-ai-agent-performance/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AI agent",
+        "model",
+        "tools",
+        "workflow"
+      ],
+      "publishedAt": "2026-10-30T11:55:24+00:00",
+      "publisher": {
+        "name": "Analytics Vidhya",
+        "domain": "analyticsvidhya.com",
+        "website": "https://www.analyticsvidhya.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=analyticsvidhya.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=analyticsvidhya.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Productivity"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1793375451",
+      "title": "viable/strict/1793375451",
+      "dek": "[safe_conv] CPU and CUDA pooling: migrate 190 conversions ( #201921 ) (…",
+      "aiSummary": "The update migrates 190 safe conversion operations to support both CPU and CUDA pooling. This change is associated with pull request #201921.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1793375451",
+      "category": "Software Engineering",
+      "filterTags": [
+        "safe_conv",
+        "CPU",
+        "CUDA",
+        "pooling"
+      ],
+      "publishedAt": "2026-10-30T11:30:12+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "7-ways-your-ai-agent-is-wasting-tokens-and-what-to-do-instead",
+      "title": "7 Ways Your AI Agent Is Wasting Tokens (And What to Do Instead)",
+      "dek": "In this article, you will learn seven common token-waste patterns in production AI agent systems, and the architectural fixes that address each one. Topics we...",
+      "aiSummary": "The article identifies seven common patterns in production AI agent systems that lead to unnecessary token consumption. It provides specific architectural fixes to address each of these inefficiencies.",
+      "articleUrl": "https://machinelearningmastery.com/7-ways-your-ai-agent-is-wasting-tokens-and-what-to-do-instead/",
+      "category": "AI",
+      "filterTags": [
+        "AI Agents",
+        "Token Optimization",
+        "LLM Architecture"
+      ],
+      "publishedAt": "2026-10-30T11:00:00+00:00",
+      "publisher": {
+        "name": "Jason Brownlee",
+        "domain": "machinelearningmastery.com",
+        "website": "https://machinelearningmastery.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=machinelearningmastery.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=machinelearningmastery.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    }
+  ]
+}
