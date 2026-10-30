@@ -1,0 +1,1742 @@
+{
+  "news": [
+    {
+      "slug": "binance-says-crypto-worth-6-3bn-impacted-in-suspected-hack",
+      "title": "Binance says crypto worth $6.3bn impacted in suspected hack",
+      "dek": "The firm said roughly $3bn in assets have been frozen and that it will \"cover all losses\".",
+      "aiSummary": "Binance announced that approximately $6.3 billion in crypto assets were impacted by a suspected hack. The company stated that it has frozen around $3 billion of these assets and committed to covering all resulting losses.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+      "category": "Cryptocurrency",
+      "filterTags": [
+        "Binance",
+        "Crypto",
+        "Hack"
+      ],
+      "publishedAt": "2026-10-30T03:34:55+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cryptocurrency"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "china-increasingly-depends-on-copying-american-ai",
+      "title": "China increasingly depends on copying American AI",
+      "dek": "China is becoming more reliant on replicating US artificial intelligence technologies.",
+      "aiSummary": "The provided text contains only the headline and no additional body content. Therefore, no further factual details can be extracted to form a summary beyond the statement that China is increasingly dependent on copying American AI.",
+      "articleUrl": "https://www.economist.com/science-and-technology/2026/10/25/china-increasingly-depends-on-copying-american-ai",
+      "category": "AI",
+      "filterTags": [
+        "China",
+        "United States",
+        "AI"
+      ],
+      "publishedAt": "2026-10-30T03:21:06+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Geopolitics"
+        }
+      ]
+    },
+    {
+      "slug": "binance-grapples-with-security-incident-that-may-cause-6-3-billion-in-losses",
+      "title": "Binance Grapples With ‘Security Incident’ That May Cause $6.3 Billion in Losses",
+      "dek": "The world’s largest crypto exchange suspended deposits and withdrawals after an apparent hack.",
+      "aiSummary": "Binance, the world's largest cryptocurrency exchange, has halted deposits and withdrawals following a suspected hack. The incident could result in losses of up to $6.3 billion.",
+      "articleUrl": "https://www.nytimes.com/2026/10/29/technology/binance-grapples-with-security-incident-that-may-cause-6-3-billion-in-losses.html",
+      "category": "Cryptocurrency",
+      "filterTags": [
+        "Binance",
+        "cryptocurrency",
+        "hack"
+      ],
+      "publishedAt": "2026-10-30T03:07:37+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cryptocurrency"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "ambition-in-the-age-of-ai",
+      "title": "Ambition in the Age of AI",
+      "dek": "Pursuing goals in the era of artificial intelligence",
+      "aiSummary": "The provided text contains no article body or description to summarize. Only the title 'Ambition in the Age of AI' is available, which suggests a discussion on human drive and goals within the context of modern artificial intelligence.",
+      "articleUrl": "https://aumitleon.dev/ambition-in-the-age-of-ai",
+      "category": "AI",
+      "filterTags": [
+        "AI"
+      ],
+      "publishedAt": "2026-10-30T03:00:27+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Society"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-8cf5c79f94ffd6cf2301b754049ccac82c6ac1fa",
+      "title": "trunk/8cf5c79f94ffd6cf2301b754049ccac82c6ac1fa",
+      "dek": "Fix stale symbolic-shape cache results after value ranges are narrowe…",
+      "aiSummary": "This commit fixes an issue where the symbolic‑shape cache returned stale results after value ranges were narrowed. The update ensures the cache is refreshed appropriately when ranges change.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F8cf5c79f94ffd6cf2301b754049ccac82c6ac1fa",
+      "category": "Software Development",
+      "filterTags": [
+        "symbolic-shape cache",
+        "value ranges"
+      ],
+      "publishedAt": "2026-10-30T02:56:40+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Debugging"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-30e1e6e5a4a1657f7c7bad8f1de97ac7f43ec476-aoti-xpu-support-weight-use-caching-allocator-on-xpu-201813",
+      "title": "trunk/30e1e6e5a4a1657f7c7bad8f1de97ac7f43ec476: [AOTI][XPU] Support weight_use_caching_allocator on XPU (#201813)",
+      "dek": "Failure:   test_update_user_managed_buffer_xpu  ( AOTInductorTestABICompatibleGpu  /  AOTInductorTestDualWrapper ) fails on some XPU CI hosts with  AssertionError: -68702699520 not greater than -68702699520 . \n Why:   aot_inductor.weight_use_caching_allocator  is silently ignored",
+      "aiSummary": "A recent commit enables the weight_use_caching_allocator option for XPU in PyTorch's AOTInductor. This change addresses a CI failure where the setting was previously ignored, causing assertion errors in user-managed buffer tests.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F30e1e6e5a4a1657f7c7bad8f1de97ac7f43ec476",
+      "category": "Machine Learning",
+      "filterTags": [
+        "PyTorch",
+        "AOTInductor",
+        "XPU",
+        "weight_use_caching_allocator"
+      ],
+      "publishedAt": "2026-10-30T02:50:20+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-17f06a948f68695612425b206bacfb6c05275fff-xpu-fix-deprecated-message-for-ipc-on-2026-2-on-xpu-202208",
+      "title": "trunk/17f06a948f68695612425b206bacfb6c05275fff: [xpu] Fix deprecated message for IPC on 2026.2 on XPU (#202208)",
+      "dek": "Motivation \n See  https://github.com/intel/llvm/blob/sycl/sycl/doc/extensions/experimental/sycl_ext_oneapi_inter_process_communication.asciidoc \nIPC namespace was changed in 2026.2, we have to change it to avoid deprecated message. \nPull Request resolved:  #202208 \nApproved by:  ",
+      "aiSummary": "This pull request addresses a deprecated message regarding Inter-Process Communication (IPC) on XPU for the 2026.2 release. The fix involves updating the IPC namespace to align with changes documented in the Intel LLVM SYCL extensions, thereby preventing deprecation warnings.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F17f06a948f68695612425b206bacfb6c05275fff",
+      "category": "Hardware",
+      "filterTags": [
+        "XPU",
+        "IPC",
+        "SYCL",
+        "Intel",
+        "LLVM",
+        "2026.2"
+      ],
+      "publishedAt": "2026-10-30T02:47:34+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Compiler Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "the-hard-problem-of-ai-therapy",
+      "title": "The hard problem of AI therapy",
+      "dek": "The significant challenges facing AI-based therapy",
+      "aiSummary": "The provided text does not contain an article body, only a title. Therefore, no factual summary can be generated based on the content.",
+      "articleUrl": "https://www.theseedsofscience.pub/p/the-hard-problem-of-ai-therapy",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Therapy"
+      ],
+      "publishedAt": "2026-10-30T02:45:50+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Healthcare"
+        }
+      ]
+    },
+    {
+      "slug": "v1-14-0-dev10",
+      "title": "v1.14.0.dev10",
+      "dek": "Langflow nightly v1.14.0.dev10",
+      "aiSummary": "Langflow has released version 1.14.0.dev10. This update is identified as a nightly build for the platform.",
+      "articleUrl": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev10",
+      "category": "AI",
+      "filterTags": [
+        "Langflow"
+      ],
+      "publishedAt": "2026-10-30T01:59:44+00:00",
+      "publisher": {
+        "name": "langflow-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langflow-ai/langflow",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "big-tech-s-750-billion-ai-bet-collides-with-slowing-core-growth",
+      "title": "Big Tech’s $750 Billion AI Bet Collides With Slowing Core Growth",
+      "dek": "The core businesses of America’s technology giants — the advertising, consumer and retail machines propping up a collective $750 billion in AI spending this year — are starting to show signs of slowing. In some cases, they’re being cannibalized by the very technology the firms ar",
+      "aiSummary": "America’s biggest tech firms are spending $750 billion on AI this year, yet their core advertising, consumer, and retail businesses are showing signs of slowdown. In some cases, AI is eating into those core revenues.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-30/big-tech-s-750-billion-ai-bet-collides-with-slowing-core-growth",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AI",
+        "Advertising",
+        "Consumer",
+        "Retail"
+      ],
+      "publishedAt": "2026-10-30T01:43:55+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Advertising"
+        },
+        {
+          "name": "Retail"
+        }
+      ]
+    },
+    {
+      "slug": "odd-lots-what-wall-street-really-thinks-about-the-ai-trade-now",
+      "title": "Odd Lots: What Wall Street Really Thinks  About the AI Trade Now",
+      "dek": "It has been a big week for the AI trade — Anthropic's IPO filing, Microsoft beating earnings estimates. Reaction in the markets has been mixed as concerns about the AI boom grows.\n\nGlobal head of equities tactical strategies at Barclays, Alexander Altmann, joins Joe Weisenthal an",
+      "aiSummary": "The week saw Anthropic's IPO filing and Microsoft beating earnings estimates, leading to mixed market reactions amid growing concerns about the AI boom. Barclays' Alexander Altmann discusses these views.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-30/odd-lots-what-wall-street-really-thinks-about-the-ai-trade-now",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "Microsoft",
+        "Barclays"
+      ],
+      "publishedAt": "2026-10-30T01:37:51+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Stock Market"
+        }
+      ]
+    },
+    {
+      "slug": "indian-ai-firm-seeks-3-billion-financing-for-nvidia-chips-order",
+      "title": "Indian AI Firm Seeks $3 Billion Financing for Nvidia Chips Order",
+      "dek": "Indian AI infrastructure firm AM Intelligence is seeking to raise as much as $3 billion to fund a previously announced purchase of Nvidia Corp.’s next-generation chips, according to people familiar with the matter, the latest sign that the technology’s boom is driving a debt bing",
+      "aiSummary": "Indian AI infrastructure firm AM Intelligence is seeking to raise up to $3 billion to finance a previously announced order for Nvidia's next-generation chips. This move highlights how the current technology boom is driving increased debt financing in the sector.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-30/indian-ai-firm-seeks-3-billion-financing-for-nvidia-chips-order",
+      "category": "AI",
+      "filterTags": [
+        "AM Intelligence",
+        "Nvidia",
+        "AI Infrastructure"
+      ],
+      "publishedAt": "2026-10-30T01:34:10+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "big-tech-s-data-center-blitz-is-burning-through-cash-and-scaring-wall-st",
+      "title": "Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall St.",
+      "dek": "Amazon on Thursday became the latest tech company to announce swelling investments in A.I. amid stumbling share prices.",
+      "aiSummary": "Amazon has announced increased investments in artificial intelligence, following a trend of significant spending by other tech giants. This surge in data center expenditures is depleting cash reserves and raising concerns on Wall Street, particularly as share prices face pressure.",
+      "articleUrl": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
+      "category": "Technology",
+      "filterTags": [
+        "Amazon",
+        "A.I.",
+        "Data Centers",
+        "Wall St."
+      ],
+      "publishedAt": "2026-10-30T01:30:27+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "v0-43-2",
+      "title": "v0.43.2",
+      "dek": "ComfyUI v0.43.2",
+      "aiSummary": "ComfyUI has released version 0.43.2. The provided text contains only the version number and project name without additional details.",
+      "articleUrl": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.43.2",
+      "category": "AI",
+      "filterTags": [
+        "ComfyUI"
+      ],
+      "publishedAt": "2026-10-30T01:24:06+00:00",
+      "publisher": {
+        "name": "comfyanonymous",
+        "domain": "github.com",
+        "website": "https://github.com/comfyanonymous/ComfyUI",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "you-don-t-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work",
+      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "dek": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+      "aiSummary": "David Durman, an administrator at the University of Kentucky, has obtained a religious exemption that allows him to avoid using AI tools in his professional duties. This decision highlights that such exemptions can be granted based on religious objections to AI without requiring the individual to profess belief in a specific god.",
+      "articleUrl": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+      "category": "AI",
+      "filterTags": [
+        "University of Kentucky",
+        "AI",
+        "Religious Exemption",
+        "Workplace Policy"
+      ],
+      "publishedAt": "2026-10-30T01:20:48+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Workplace"
+        },
+        {
+          "name": "Ethics"
+        }
+      ]
+    },
+    {
+      "slug": "b11998",
+      "title": "b11998",
+      "dek": "model: mistral le chonk ( #31376 ) \n \n \n llama: extend DSA and sdpark to new model \n \n \n fix ci \n \n \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/61557038 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Si",
+      "aiSummary": "This release introduces the 'mistral le chonk' model and extends DSA and sdpark support to new models in llama.cpp. It also includes CI fixes and provides builds for macOS Apple Silicon and iOS.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11998",
+      "category": "AI",
+      "filterTags": [
+        "llama.cpp",
+        "mistral",
+        "DSA",
+        "sdpark",
+        "macOS",
+        "iOS"
+      ],
+      "publishedAt": "2026-10-30T01:15:06+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "b11997",
+      "title": "b11997",
+      "dek": "llama : reuse the tensor staging buffer and skip the direct-io bounce buffer ( #31321 ) \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/61552516 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silicon (arm64",
+      "aiSummary": "This release of llama.cpp introduces a performance optimization by reusing the tensor staging buffer and skipping the direct-io bounce buffer. The update is associated with pull request #31321 and supports macOS and iOS on Apple Silicon arm64 architecture.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11997",
+      "category": "AI",
+      "filterTags": [
+        "llama.cpp",
+        "tensor staging buffer",
+        "direct-io",
+        "Apple Silicon",
+        "arm64"
+      ],
+      "publishedAt": "2026-10-30T00:54:56+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Performance Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "intel-stock-plunges-21-as-chipmaker-blames-pc-slowdown-for-weak-guidance",
+      "title": "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance",
+      "dek": "Intel has been a Wall Street darling this year due to its emergence as a player in AI, but the company is being weighed down by a struggling PC market.",
+      "aiSummary": "Intel's stock fell by 21% after the chipmaker attributed its weak guidance to a slowdown in the PC market. Although the company has been favored by investors for its role in AI, it is currently facing pressure from the struggling personal computer sector.",
+      "articleUrl": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
+      "category": "Semiconductors",
+      "filterTags": [
+        "Intel",
+        "PC",
+        "AI",
+        "Wall Street"
+      ],
+      "publishedAt": "2026-10-30T00:39:52+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "microsoft-plans-to-raise-25-billion-in-debt-as-it-pursues-ai-buildout",
+      "title": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
+      "dek": "Microsoft boasts a strong credit rating and has managed to maintain positive free cash flow, unlike Meta, Alphabet and Amazon.",
+      "aiSummary": "Microsoft has a strong credit rating and positive free cash flow, which supports its plan to raise $25 billion in debt for AI buildout. The company’s financial health contrasts with peers Meta, Alphabet, and Amazon, which have not maintained similar cash flow.",
+      "articleUrl": "https://www.cnbc.com/2026/10/29/microsoft-25-billion-debt-offering.html",
+      "category": "Finance",
+      "filterTags": [
+        "Microsoft",
+        "Meta",
+        "Alphabet",
+        "Amazon",
+        "AI"
+      ],
+      "publishedAt": "2026-10-30T00:38:13+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "reddit-shares-sink-on-weak-sales-guidance-and-plans-login-requirement-test-as-google-search-traffic-shrinks",
+      "title": "Reddit shares sink on weak sales guidance and plans login requirement test as Google search traffic shrinks",
+      "dek": "Reddit posts third-quarter earnings and reveals plans to require all users to create official accounts as Google search traffic shrinks",
+      "aiSummary": "Reddit's stock price fell after the company reported third-quarter earnings with weak sales guidance. The platform also announced plans to test a requirement for all users to create official accounts, a move occurring as traffic from Google search continues to shrink.",
+      "articleUrl": "https://www.cnbc.com/2026/10/29/reddit-rddt-q3-2026.html",
+      "category": "Social Media",
+      "filterTags": [
+        "Reddit",
+        "Google",
+        "Q3 Earnings",
+        "Login Requirement"
+      ],
+      "publishedAt": "2026-10-30T00:28:45+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Social Media"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Earnings"
+        }
+      ]
+    },
+    {
+      "slug": "apple-tv-celebrates-the-second-season-of-stick-with-owen-wilson-at-topgolf",
+      "title": "Apple TV celebrates the second season of 'Stick' with Owen Wilson at Topgolf",
+      "dek": "Owen Wilson's golf comeback takes shape in \"Stick\" season two, which returns to  Apple TV  on November 4. 'Stick' season two returns to Apple TV on November 4 | Image credit: Apple TV Apple TV held an event for \"Stick\" season two at Topgolf in El Segundo on October 28. Star and e",
+      "aiSummary": "Apple TV hosted a celebration for the second season of 'Stick' starring Owen Wilson at Topgolf in El Segundo on October 28. The new season will premiere on Apple TV on November 4. The event highlighted Wilson’s return to golf through the show.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/30/apple-tv-celebrates-the-second-season-of-stick-with-owen-wilson-at-topgolf?utm_source=rss",
+      "category": "Entertainment",
+      "filterTags": [
+        "Apple TV",
+        "Owen Wilson",
+        "Topgolf",
+        "Stick"
+      ],
+      "publishedAt": "2026-10-30T00:08:21+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Entertainment"
+        },
+        {
+          "name": "Streaming"
+        },
+        {
+          "name": "Sports"
+        }
+      ]
+    },
+    {
+      "slug": "intel-shares-fall-22-as-weak-sales-outlook-dents-turnaround",
+      "title": "Intel shares fall 22% as weak sales outlook dents turnaround",
+      "dek": "Chipmaker forecasts lower than expected PC chip sales and falling margins",
+      "aiSummary": "Intel reported that its PC chip sales are lower than expected and its margins are falling. The weak outlook caused the company's shares to drop 22%.",
+      "articleUrl": "https://www.ft.com/content/d7540e89-08db-43d3-92e0-3c15dd3a60cb?syn-25a6b1a6=1",
+      "category": "Semiconductors",
+      "filterTags": [
+        "Intel",
+        "PC chips",
+        "margins"
+      ],
+      "publishedAt": "2026-10-29T23:45:30+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "v0-19-9-patch-release",
+      "title": "v0.19.9 Patch Release",
+      "dek": "What's Changed \n \n Update version post 0.19.8 release by  @loadams  in  #8871 \n Update to filter out version.txt from PR gates. by  @loadams  in  #8872 \n Skip the accelerator-only CPU optimizer tests on the cpu accelerator by  @delock  in  #8836 \n Keep Yuan's o_proj bias whole on",
+      "aiSummary": "The patch updates the version number after the 0.19.8 release, removes version.txt from pull‑request gates, skips CPU‑optimizer tests that run only on the CPU accelerator, and keeps Yuan’s o_proj bias unchanged. These changes improve build stability and testing efficiency.",
+      "articleUrl": "https://github.com/deepspeedai/DeepSpeed/releases/tag/v0.19.9",
+      "category": "Software Development",
+      "filterTags": [
+        "v0.19.9",
+        "CPU optimizer",
+        "PR gates",
+        "version.txt"
+      ],
+      "publishedAt": "2026-10-29T23:42:23+00:00",
+      "publisher": {
+        "name": "microsoft",
+        "domain": "github.com",
+        "website": "https://github.com/microsoft/DeepSpeed",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Testing"
+        },
+        {
+          "name": "Version Control"
+        }
+      ]
+    },
+    {
+      "slug": "aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
+      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "dek": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+      "aiSummary": "Amazon CEO Andy Jassy stated that the company aims to become the first business to reach $1 trillion in revenue by leading in AI cloud computing. To achieve this goal, Amazon plans to continue its significant capital expenditure spending.",
+      "articleUrl": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "category": "Cloud Computing",
+      "filterTags": [
+        "AWS",
+        "Amazon",
+        "AI",
+        "Cloud Computing",
+        "Capex"
+      ],
+      "publishedAt": "2026-10-29T23:42:22+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Corporate Strategy"
+        }
+      ]
+    },
+    {
+      "slug": "more-than-half-of-victorian-lawyers-use-ai-but-only-a-quarter-have-cut-client-fees-as-a-result",
+      "title": "More than half of Victorian lawyers use AI – but only a quarter have cut client fees as a result",
+      "dek": "Research finds 55% of lawyers are using AI in legal practices, up from 37% last year, though efficiency gains aren’t as high as expected Get our  breaking news email ,  free app  or  daily news podcast More than half of Victoria’s lawyers have reported using AI in their work, acc",
+      "aiSummary": "A study found that 55% of Victorian lawyers use AI, up from 37% last year. The rise in usage has not led to large efficiency gains, and only about a quarter of lawyers have reduced client fees.",
+      "articleUrl": "https://www.theguardian.com/law/2026/oct/30/victorian-lawyers-ai-clients-fees",
+      "category": "Legal",
+      "filterTags": [
+        "AI",
+        "LegalTech",
+        "Victoria"
+      ],
+      "publishedAt": "2026-10-29T23:00:37+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "sony-is-working-on-a-film-adaptation-of-viral-indie-horror-game-mouthwashing",
+      "title": "Sony is working on a film adaptation of viral indie horror game Mouthwashing",
+      "dek": "The adaptation will be directed by Karyn Kusama, and scripted by the writers of The Invitation.",
+      "aiSummary": "Sony is developing a film adaptation of the indie horror game Mouthwashing. The project will be directed by Karyn Kusama and written by the writers of The Invitation.",
+      "articleUrl": "https://www.engadget.com/2301826/sony-is-working-on-a-film-adaptation-of-viral-indie-horror-game-mouthwashing/",
+      "category": "Film & Television",
+      "filterTags": [
+        "Sony",
+        "Karyn Kusama",
+        "The Invitation",
+        "Mouthwashing"
+      ],
+      "publishedAt": "2026-10-29T22:52:36+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Film & Television"
+        },
+        {
+          "name": "Gaming"
+        }
+      ]
+    },
+    {
+      "slug": "api-credits-benefit-for-eligible-chatgpt-subscriptions",
+      "title": "API credits benefit for eligible ChatGPT subscriptions",
+      "dek": "API credits benefit for eligible ChatGPT subscriptions \nEarlier this month Anthropic  announced a generous new benefit  for their Max and Team subscriptions: $100, $200, and $500 per month subscribers would get the equivalent quantity of (expiring) credits to use with the Anthrop",
+      "aiSummary": "Anthropic recently introduced a benefit for Max and Team subscribers, offering $100, $200, or $500 worth of expiring API credits per month based on their subscription tier. The provided text does not contain details regarding the specific implementation of this benefit for ChatGPT subscriptions.",
+      "articleUrl": "https://simonwillison.net/2026/Oct/29/api-credits/",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "API credits",
+        "ChatGPT",
+        "Max",
+        "Team"
+      ],
+      "publishedAt": "2026-10-29T22:48:29+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "SaaS"
+        }
+      ]
+    },
+    {
+      "slug": "amazon-shares-slide-on-lower-christmas-sales-forecast",
+      "title": "Amazon shares slide on lower Christmas sales forecast",
+      "dek": "Ecommerce giant posts disappointing sales and guidance despite booming cloud unit",
+      "aiSummary": "Amazon reported lower-than-expected sales for the holiday season and issued a weaker outlook, which caused its shares to drop. The company's cloud services continued to grow strongly, helping to offset some of the pressure.",
+      "articleUrl": "https://www.ft.com/content/8affd8dd-b783-48c8-86e2-ac4a647fa0f3?syn-25a6b1a6=1",
+      "category": "Finance",
+      "filterTags": [
+        "Amazon",
+        "Amazon Web Services",
+        "cloud computing",
+        "ecommerce"
+      ],
+      "publishedAt": "2026-10-29T22:44:22+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Retail"
+        },
+        {
+          "name": "Cloud Computing"
+        }
+      ]
+    },
+    {
+      "slug": "the-reports-of-stack-overflow-s-death-are-greatly-exaggerated",
+      "title": "The reports of Stack Overflow's death are greatly exaggerated",
+      "dek": "I’ve seen the recent predictions about Stack Overflow’s demise. They make for compelling headlines, but they confuse a change in how people access knowledge with the disappearance of the knowledge—and the company—behind it.",
+      "aiSummary": "Recent predictions regarding Stack Overflow's decline are misleading because they conflate shifts in how users access information with the actual loss of knowledge or the company itself. The author argues that while access methods are changing, the underlying value and existence of the platform remain intact.",
+      "articleUrl": "https://stackoverflow.blog/2026/10/29/the-reports-of-stack-overflow-s-death-are-greatly-exaggerated/",
+      "category": "Technology",
+      "filterTags": [
+        "Stack Overflow"
+      ],
+      "publishedAt": "2026-10-29T22:30:00+00:00",
+      "publisher": {
+        "name": "Stack Overflow Blog",
+        "domain": "stackoverflow.blog",
+        "website": "https://stackoverflow.blog",
+        "logoUrl": "https://stackoverflow.blog/apple-touch-icon.png",
+        "faviconUrl": "https://stackoverflow.blog/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Web Development"
+        }
+      ]
+    },
+    {
+      "slug": "google-value-plunges-by-500bn-as-ai-fears-rattle-wall-street",
+      "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
+      "dek": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
+      "aiSummary": "Google's stock fell to a six‑month low after the company disclosed that AI‑generated search summaries were impacting its advertising revenue. The drop in share price led to a $500 billion decline in the company’s market value, sparking concerns among Wall Street investors.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+      "category": "Technology",
+      "filterTags": [
+        "Google",
+        "AI",
+        "search summaries",
+        "ad revenue"
+      ],
+      "publishedAt": "2026-10-29T22:17:52+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Artificial Intelligence"
+        }
+      ]
+    },
+    {
+      "slug": "meta-is-testing-threads-friends-for-sharing-posts-with-smaller-groups",
+      "title": "Meta is testing 'Threads Friends' for sharing posts with smaller groups",
+      "dek": "Twitter Circle, anyone?",
+      "aiSummary": "Meta is testing a feature called Threads Friends that lets users share posts with smaller groups. The feature is compared to Twitter's Circle.",
+      "articleUrl": "https://www.engadget.com/2301804/meta-is-testing-threads-friends-for-sharing-posts-with-smaller-groups/",
+      "category": "Social Media",
+      "filterTags": [
+        "Meta",
+        "Threads Friends",
+        "Twitter Circle"
+      ],
+      "publishedAt": "2026-10-29T22:05:39+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Social Media"
+        },
+        {
+          "name": "Product Development"
+        }
+      ]
+    },
+    {
+      "slug": "onnx-runtime-v1-30-1",
+      "title": "ONNX Runtime v1.30.1",
+      "dek": "This is a patch release on top of  v1.30.0 , containing targeted model-validation and memory-safety fixes, improved Plugin EP data transfers, and build and packaging fixes. \n Highlights \n Bug Fixes \n \n Hardened contrib-op shape inference with additional rank, attribute, initializ",
+      "aiSummary": "ONNX Runtime version 1.30.1 was released as a patch to 1.30.0, adding fixes for model validation and memory safety, improving Plugin EP data transfers, and correcting build and packaging issues. The update also hardens contrib‑op shape inference by adding support for additional rank, attribute, and initialization checks.",
+      "articleUrl": "https://github.com/microsoft/onnxruntime/releases/tag/v1.30.1",
+      "category": "AI",
+      "filterTags": [
+        "ONNX Runtime",
+        "Plugin EP",
+        "model-validation",
+        "memory-safety",
+        "build",
+        "packaging"
+      ],
+      "publishedAt": "2026-10-29T22:01:54+00:00",
+      "publisher": {
+        "name": "microsoft",
+        "domain": "github.com",
+        "website": "https://github.com/microsoft/onnxruntime",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "vrchat-says-it-s-not-adding-ai-labels-despite-user-survey-showing-people-want-that",
+      "title": "VRChat says it's not adding AI labels despite user survey showing people want that",
+      "dek": "Trying to make everyone happy could make no one happy.",
+      "aiSummary": "VRChat has announced that it will not add labels to identify AI-generated content on its platform. This decision comes despite a user survey showing that the community generally wants such labels to be implemented.",
+      "articleUrl": "https://www.engadget.com/2301786/vrchat-says-its-not-adding-ai-labels-despite-user-survey-showing-people-want-that/",
+      "category": "Virtual Reality",
+      "filterTags": [
+        "VRChat",
+        "AI",
+        "User Survey"
+      ],
+      "publishedAt": "2026-10-29T21:48:05+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Virtual Reality"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Platform Policy"
+        }
+      ]
+    },
+    {
+      "slug": "onnx-runtime-webgpu-plugin-ep-v0-5-0",
+      "title": "ONNX Runtime WebGPU Plugin EP v0.5.0",
+      "dek": "ONNX Runtime WebGPU Plugin EP 0.5.0 expands attention, mixture-of-experts, and quantized operator support, improves GPU kernel performance, and strengthens runtime integration and correctness. \n Highlights \n Performance \n \n Enabled subgroup-matrix kernels on AMD GPUs ( #32667 ). ",
+      "aiSummary": "The release of ONNX Runtime WebGPU Plugin EP 0.5.0 broadens support for attention, mixture-of-experts, and quantized operators while enhancing GPU kernel performance. This update also strengthens runtime integration and correctness, specifically enabling subgroup-matrix kernels on AMD GPUs.",
+      "articleUrl": "https://github.com/microsoft/onnxruntime/releases/tag/plugin-ep-webgpu%2Fv0.5.0",
+      "category": "AI",
+      "filterTags": [
+        "ONNX Runtime",
+        "WebGPU",
+        "AMD",
+        "GPU"
+      ],
+      "publishedAt": "2026-10-29T21:30:05+00:00",
+      "publisher": {
+        "name": "microsoft",
+        "domain": "github.com",
+        "website": "https://github.com/microsoft/onnxruntime",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "amazon-gives-wall-street-mixed-financial-picture-in-earnings-report",
+      "title": "Amazon gives Wall Street mixed financial picture in earnings report",
+      "dek": "E-commerce company posts high cloud computing sales but gives a cautious sales forecast for the fourth quarter Amazon offered a mixed picture of its financial health on Thursday in its quarterly earnings report. The e-commerce company gave a cautious sales forecast for the curren",
+      "aiSummary": "Amazon reported strong cloud computing revenue, but cautioned that sales for the fourth quarter would be lower than expected. The company’s earnings report presented a mixed financial outlook to investors. While cloud growth was robust, the cautious sales forecast signals potential challenges ahead.",
+      "articleUrl": "https://www.theguardian.com/technology/2026/oct/29/amazon-earnings-report-mixed-picture",
+      "category": "Finance",
+      "filterTags": [
+        "Amazon",
+        "cloud computing"
+      ],
+      "publishedAt": "2026-10-29T21:23:02+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "E-commerce"
+        },
+        {
+          "name": "Cloud Computing"
+        }
+      ]
+    },
+    {
+      "slug": "baseten-releases-joey-1-a-2b-decision-model-at-0-01-per-1m-tokens",
+      "title": "Baseten Releases joey-1, a 2B Decision Model at $0.01 per 1M Tokens",
+      "dek": "Baseten has released joey-1, a 2B open-weight decision model that returns calibrated probabilities instead of text. It runs at 20 ms P50 latency and costs $0.01 per million input tokens. \n The post  Baseten Releases joey-1, a 2B Decision Model at $0.01 per 1M Tokens  appeared fir",
+      "aiSummary": "Baseten introduced joey-1, a 2-billion parameter open-weight decision model designed to return calibrated probabilities instead of text. This model boasts a low P50 latency of 20 ms. It is also cost-effective, priced at $0.01 per million input tokens.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/29/baseten-joey-1-2b-decision-model/",
+      "category": "AI",
+      "filterTags": [
+        "Baseten",
+        "joey-1",
+        "decision model",
+        "open-weight"
+      ],
+      "publishedAt": "2026-10-29T21:20:29+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "intel-s-shares-plunge-20-as-a-i-hinders-some-parts-of-its-business",
+      "title": "Intel’s Shares Plunge 20% as A.I. Hinders Some Parts of Its Business",
+      "dek": "The chipmaker, whose largest investor is the U.S. government, reported that the A.I. boom’s domino effect had hurt sales to personal computer makers.",
+      "aiSummary": "Intel's shares fell by 20% after the company reported that the artificial intelligence boom has negatively impacted sales to personal computer manufacturers. The chipmaker, which has the U.S. government as its largest investor, indicated that this shift in the market has hindered specific parts of its business.",
+      "articleUrl": "https://www.nytimes.com/2026/10/29/technology/intel-earnings.html",
+      "category": "Semiconductors",
+      "filterTags": [
+        "Intel",
+        "AI",
+        "PC",
+        "U.S. government"
+      ],
+      "publishedAt": "2026-10-29T21:17:40+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Corporate Finance"
+        }
+      ]
+    },
+    {
+      "slug": "b11988",
+      "title": "b11988",
+      "dek": "model : Support Limite 1B - Violetto ( #29433 ) \n \n gguf-py : add Limite arch \n \n Assisted-by: Claude Opus 5.5 \nSigned-off-by: Giuseppe Scrivano  giuseppe@scrivano.org \n \n convert : add Limite support \n \n Assisted-by: Claude Opus 5.5 \nSigned-off-by: Giuseppe Scrivano  giuseppe@sc",
+      "aiSummary": "The commit adds support for the Limite 1B model, including new architecture support in gguf-py and conversion utilities. The work was assisted by Claude Opus 5.5 and signed off by Giuseppe Scrivano.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b11988",
+      "category": "Machine Learning",
+      "filterTags": [
+        "Limite",
+        "gguf-py",
+        "Claude Opus",
+        "Violetto"
+      ],
+      "publishedAt": "2026-10-29T20:57:09+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "langchain-core-1-7-3",
+      "title": "langchain-core==1.7.3",
+      "dek": "Changes since langchain-core==1.7.2 \n release(core): 1.7.3 ( #41564 )",
+      "aiSummary": "The langchain-core library has released version 1.7.3. This update includes changes made since the previous version, 1.7.2, as detailed in pull request #41564.",
+      "articleUrl": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.7.3",
+      "category": "AI",
+      "filterTags": [
+        "langchain-core",
+        "Python"
+      ],
+      "publishedAt": "2026-10-29T20:56:14+00:00",
+      "publisher": {
+        "name": "langchain-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langchain-ai/langchain",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "how-the-uk-amazon-quick-user-group-grew-in-2026",
+      "title": "How the UK Amazon Quick User Group grew in 2026",
+      "dek": "The UK Amazon Quick User Group's 2026 roundup: three quarterly meetups, 150+ attendees, and customer stories from Arriva, Carsa, and Propulse Lab on using agentic AI and Amazon Quick to turn data into faster decisions, higher satisfaction, and scalable growth.",
+      "aiSummary": "In 2026, the UK Amazon Quick User Group held three quarterly meetups that drew over 150 participants. The group highlighted customer stories from Arriva, Carsa, and Propulse Lab, showcasing how they used agentic AI and Amazon Quick to transform data into quicker decisions, improved satisfaction, and scalable growth.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/how-the-uk-amazon-quick-user-group-grew-in-2026/",
+      "category": "AI",
+      "filterTags": [
+        "Arriva",
+        "Carsa",
+        "Propulse Lab",
+        "Amazon Quick",
+        "agentic AI"
+      ],
+      "publishedAt": "2026-10-29T20:16:40+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Business Analytics"
+        }
+      ]
+    },
+    {
+      "slug": "as-search-traffic-dries-up-reddit-announces-it-s-shifting-to-a-logged-in-experience",
+      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+      "dek": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+      "aiSummary": "Reddit is transitioning to a logged-in experience in response to a decline in search traffic. This strategic shift aims to protect the platform's audience and business model as AI changes how users discover information online.",
+      "articleUrl": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+      "category": "Social Media",
+      "filterTags": [
+        "Reddit",
+        "AI",
+        "Search Traffic",
+        "Login Experience"
+      ],
+      "publishedAt": "2026-10-29T20:08:31+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Social Media"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Web Platforms"
+        }
+      ]
+    },
+    {
+      "slug": "microsoft-research-focus-edition-97",
+      "title": "Microsoft Research Focus – Edition #97",
+      "dek": "Host Sowbhagya Suresh shares some of the latest news and cutting-edge research from across Microsoft—from understanding the challenges facing coding agents to uncovering how people use AI at work and improving extended-range weather forecasting. \n The post  Microsoft Research Foc",
+      "aiSummary": "In this episode, host Sowbhagya Suresh discusses recent Microsoft research, covering topics such as coding agent challenges, workplace AI usage, and extended-range weather forecasting.",
+      "articleUrl": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Microsoft Research",
+        "AI",
+        "coding agents",
+        "weather forecasting"
+      ],
+      "publishedAt": "2026-10-29T19:19:16+00:00",
+      "publisher": {
+        "name": "Microsoft Research",
+        "domain": "microsoft.com",
+        "website": "https://www.microsoft.com/en-us/research/",
+        "logoUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2024/07/About-page-promo_1066x600.jpg",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Research"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "trump-declares-robot-imports-a-national-security-threat",
+      "title": "Trump declares robot imports a national security threat",
+      "dek": "President orders trade talks on foreign-made factory robots, threatens tariffs.",
+      "aiSummary": "The President has declared that imports of robots pose a threat to national security. In response, he has ordered trade negotiations regarding foreign-made factory robots and threatened to impose tariffs.",
+      "articleUrl": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
+      "category": "Trade",
+      "filterTags": [
+        "Trump",
+        "Robotics",
+        "Tariffs",
+        "Trade Policy"
+      ],
+      "publishedAt": "2026-10-29T19:07:53+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Trade"
+        },
+        {
+          "name": "Manufacturing"
+        },
+        {
+          "name": "National Security"
+        }
+      ]
+    },
+    {
+      "slug": "langchain-core-1-7-2",
+      "title": "langchain-core==1.7.2",
+      "dek": "Changes since langchain-core==1.7.1 \n release(core): 1.7.2 ( #41562 ) \nfeat(core): add  add_notification_metadata  and  get_notification_metadata  ( #41540 ) \nfix(core): stop  merge_content  from changing the first message's content ( #41502 )",
+      "aiSummary": "The 1.7.2 update of langchain-core introduces two new functions, add_notification_metadata and get_notification_metadata, and corrects a bug where merge_content altered the first message’s content. These changes improve notification handling and content merging behavior. The release follows the previous 1.7.1 version.",
+      "articleUrl": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.7.2",
+      "category": "Open Source",
+      "filterTags": [
+        "langchain-core",
+        "add_notification_metadata",
+        "get_notification_metadata",
+        "merge_content"
+      ],
+      "publishedAt": "2026-10-29T19:04:31+00:00",
+      "publisher": {
+        "name": "langchain-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langchain-ai/langchain",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Python Libraries"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "you-can-generate-and-edit-google-docs-files-directly-in-gemini-chats-now",
+      "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+      "dek": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on b",
+      "aiSummary": "Google Gemini has introduced new capabilities that enable users to generate, preview, and edit various file types, including PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code. These file editing features are available starting today for all Gemini users.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+      "category": "AI",
+      "filterTags": [
+        "Google Docs",
+        "Gemini",
+        "PDFs",
+        "Google Sheets",
+        "Markdown",
+        "TXT",
+        "Google"
+      ],
+      "publishedAt": "2026-10-29T18:45:31+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Productivity"
+        },
+        {
+          "name": "Software"
+        }
+      ]
+    },
+    {
+      "slug": "a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system",
+      "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+      "dek": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
+      "aiSummary": "According to sources, an Accenture employee used a personal Claude AI agent on a Department of Defense network for two months. The unauthorized access was eventually detected, allowing the security vulnerability to be patched.",
+      "articleUrl": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+      "category": "Cybersecurity",
+      "filterTags": [
+        "Accenture",
+        "Claude",
+        "Pentagon",
+        "DOD",
+        "AI Agent"
+      ],
+      "publishedAt": "2026-10-29T18:39:43+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Government"
+        }
+      ]
+    },
+    {
+      "slug": "prime-intellect-releases-prime-mega-moe-trainable-fused-moe-kernel-3-11x-faster-forward-pass",
+      "title": "Prime Intellect Releases Prime Mega MoE: Trainable Fused MoE Kernel, 3.11x Faster Forward Pass",
+      "dek": "Prime Intellect released Prime Mega MoE, a backward pass for DeepSeek’s fused Mega MoE kernel. It makes the kernel trainable and speeds Qwen3 MoE training steps by up to 34% in prime-rl. \n The post  Prime Intellect Releases Prime Mega MoE: Trainable Fused MoE Kernel, 3.11x Faster",
+      "aiSummary": "Prime Intellect released Prime Mega MoE, a backward pass that makes DeepSeek’s fused Mega MoE kernel trainable. The new kernel speeds Qwen3 MoE training steps by up to 34% in prime-rl, and offers a 3.11× faster forward pass.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/29/prime-intellect-prime-mega-moe-fused-moe-kernel-training/",
+      "category": "Machine Learning",
+      "filterTags": [
+        "Prime Intellect",
+        "Prime Mega MoE",
+        "DeepSeek",
+        "Qwen3",
+        "MoE",
+        "prime-rl"
+      ],
+      "publishedAt": "2026-10-29T18:28:57+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "AI Infrastructure"
+        },
+        {
+          "name": "Performance Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "building-intent-driven-ui-testing-with-amazon-nova-act",
+      "title": "Building intent-driven UI testing with Amazon Nova Act",
+      "dek": "Epsilon's Agentic Platform team delivers UI testing as a managed, multi-tenant service built on Amazon Nova Act and Amazon Bedrock AgentCore Browser Tool. Tests are written in plain English and run on browsers managed by AWS, giving every product team resilient, intent-driven tes",
+      "aiSummary": "Epsilon's Agentic Platform team has developed a managed, multi-tenant UI testing service utilizing Amazon Nova Act and Amazon Bedrock AgentCore Browser Tool. This system allows product teams to write tests in plain English, which are then executed on AWS-managed browsers to provide resilient, intent-driven testing capabilities.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/building-intent-driven-ui-testing-with-amazon-nova-act/",
+      "category": "AI",
+      "filterTags": [
+        "Amazon Nova Act",
+        "Amazon Bedrock",
+        "AgentCore Browser Tool",
+        "Epsilon",
+        "UI Testing"
+      ],
+      "publishedAt": "2026-10-29T18:20:27+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Software Testing"
+        }
+      ]
+    },
+    {
+      "slug": "build-a-repeatable-php-to-java-migration-engine-with-kiro",
+      "title": "Build a repeatable PHP-to-Java migration engine with Kiro",
+      "dek": "Turn a PHP-to-Java migration from a one-time leap of faith into a measurable, repeatable process with Kiro. This post walks through a reusable engine: a mechanical discovery scanner and an eight-phase, parity-first workflow that treats the original PHP application as the specific",
+      "aiSummary": "The post explains how to turn a PHP‑to‑Java migration into a measurable, repeatable process with Kiro. It introduces a reusable engine that includes a mechanical discovery scanner and an eight‑phase, parity‑first workflow that treats the original PHP application as the source of truth. The workflow aims to ensure consistency between the PHP and Java versions.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-repeatable-php-to-java-migration-engine-with-kiro/",
+      "category": "Software Development",
+      "filterTags": [
+        "PHP",
+        "Java",
+        "Kiro"
+      ],
+      "publishedAt": "2026-10-29T18:14:17+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Programming Languages"
+        },
+        {
+          "name": "Tooling"
+        }
+      ]
+    },
+    {
+      "slug": "google-is-eating-itself-but-it-could-still-eat-everyone-else-too",
+      "title": "Google is eating itself — but it could still eat everyone else too",
+      "dek": "Leadership in the AI race can be won, lost and won again at speed",
+      "aiSummary": "The article suggests that while Google is integrating or replacing its own services, it retains the potential to outcompete other market players. It highlights that leadership in the artificial intelligence sector is dynamic and can shift rapidly.",
+      "articleUrl": "https://www.ft.com/content/245107d8-ef54-4b30-a75a-538d055bc6d7?syn-25a6b1a6=1",
+      "category": "AI",
+      "filterTags": [
+        "Google",
+        "AI"
+      ],
+      "publishedAt": "2026-10-29T18:00:36+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Technology Strategy"
+        }
+      ]
+    }
+  ]
+}
