@@ -1,0 +1,1683 @@
+{
+  "news": [
+    {
+      "slug": "b12003",
+      "title": "b12003",
+      "dek": "sycl: FLASH_ATTN_EXT failures ( #30761 ) \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/61738062 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silicon (arm64, KleidiAI enabled)  DISABLED \n macOS Intel (x6",
+      "aiSummary": "The text documents a specific issue, labeled b12003, involving failures in the SYCL implementation of Flash Attention extensions (FLASH_ATTN_EXT) within the llama.cpp project. The report references GitHub issue #30761 and lists various macOS and iOS hardware configurations, including Apple Silicon and Intel, as part of the test environment or affected platforms.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12003",
+      "category": "AI",
+      "filterTags": [
+        "SYCL",
+        "FLASH_ATTN_EXT",
+        "llama.cpp",
+        "ggml",
+        "macOS",
+        "Apple Silicon"
+      ],
+      "publishedAt": "2026-10-30T11:49:50+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "ai-data-handling-firm-ascend-io-acquired-by-apple",
+      "title": "AI data handling firm Ascend.io acquired by Apple",
+      "dek": "Apple has acquired another AI firm, though this time Ascend.io is aimed at company data management rather than any consumer-facing product. The front page of Ascend.io's website before it was shut down - image credit: Ascension Labs Apple has been continuously buying up AI firms,",
+      "aiSummary": "Apple has acquired Ascend.io, a firm specializing in enterprise data management rather than consumer products. This acquisition continues Apple's trend of purchasing AI companies, with Ascend.io's website having been shut down prior to the deal.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/30/ai-data-handling-firm-ascendio-acquired-by-apple?utm_source=rss",
+      "category": "AI",
+      "filterTags": [
+        "Apple",
+        "Ascend.io",
+        "AI",
+        "Data Management"
+      ],
+      "publishedAt": "2026-10-30T11:49:22+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Corporate M&A"
+        },
+        {
+          "name": "Data"
+        }
+      ]
+    },
+    {
+      "slug": "iphone-duo-review-proof-that-foldables-don-t-have-to-suck",
+      "title": "iPhone Duo review: Proof that foldables don't have to suck",
+      "dek": "The  iPhone Duo  is far from perfect as a first-generation product, but it is a strong enough entry that will single-handedly lift foldables from passing fad to serious category for anyone. iPhone Duo review Apple has a habit of entering a market much later than its competitors  ",
+      "aiSummary": "The iPhone Duo, while not flawless, is a solid first‑generation foldable that could elevate the category. Apple tends to enter markets later than rivals.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/30/iphone-duo-review-proof-that-foldables-dont-have-to-suck?utm_source=rss",
+      "category": "Hardware",
+      "filterTags": [
+        "iPhone Duo",
+        "Apple",
+        "foldable"
+      ],
+      "publishedAt": "2026-10-30T11:36:18+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Mobile"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "from-bitcoin-to-binance-crypto-terms-and-what-they-mean",
+      "title": "From Bitcoin to Binance: Crypto terms and what they mean",
+      "dek": "The Binance hack has thrust cryptocurrencies back into headlines - but what are they and how do they work?",
+      "aiSummary": "The recent Binance hack has brought cryptocurrencies back into the news. The article aims to explain what cryptocurrencies are and how they function.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/cy5w2k5k5ylo?at_medium=RSS&at_campaign=rss",
+      "category": "Finance",
+      "filterTags": [
+        "Binance",
+        "Bitcoin",
+        "Cryptocurrency"
+      ],
+      "publishedAt": "2026-10-30T11:35:51+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Blockchain"
+        }
+      ]
+    },
+    {
+      "slug": "global-tech-rout-deepens-as-us-earnings-stoke-ai-spending-fears",
+      "title": "Global tech rout deepens as US earnings stoke AI spending fears",
+      "dek": "Wall Street heads for steep losses at Friday’s open after Amazon results disappoint",
+      "aiSummary": "Global tech stocks are falling deeper as U.S. earnings, including Amazon's disappointing results, fuel fears that companies will cut AI spending. Wall Street is expected to open with steep losses on Friday.",
+      "articleUrl": "https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3?syn-25a6b1a6=1",
+      "category": "Finance",
+      "filterTags": [
+        "Amazon",
+        "AI"
+      ],
+      "publishedAt": "2026-10-30T11:35:22+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "google-faces-criminal-probe-over-816-acres-cleared-for-finnish-ai-data-center",
+      "title": "Google Faces Criminal Probe over 816 Acres Cleared for Finnish AI Data Center",
+      "dek": "Google is under criminal investigation for clearing 816 acres to build an AI data center in Finland.",
+      "aiSummary": "Google is facing a criminal probe regarding the clearing of 816 acres of land in Finland. The land was cleared for the construction of an AI data center.",
+      "articleUrl": "https://www.tomshardware.com/tech-industry/data-centers/criminal-investigation-launched-into-googles-ai-data-center-deforestation-in-finland-local-police-act-over-multiple-complaints-about-breaches-of-environmental-law",
+      "category": "AI",
+      "filterTags": [
+        "Google",
+        "AI",
+        "Data Center",
+        "Finland"
+      ],
+      "publishedAt": "2026-10-30T11:35:17+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "Legal"
+        }
+      ]
+    },
+    {
+      "slug": "musk-and-zuckerberg-echo-trump-s-push-to-rebrand-ai-as-super-intelligence-on-earnings-calls-others-did-not",
+      "title": "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls. Others did not",
+      "dek": "Meta's Mark Zuckerberg and Elon Musk of Tesla and SpaceX adopted President Trump's preferred \"super intelligence\" term on their third-quarter earnings calls.",
+      "aiSummary": "Mark Zuckerberg and Elon Musk adopted President Trump's preferred terminology of 'super intelligence' during their third-quarter earnings calls. This move distinguishes them from other industry leaders who did not use the same phrasing.",
+      "articleUrl": "https://www.cnbc.com/2026/10/30/trump-tech-allies-swap-ai-for-super-intelligence-in-earnings-calls.html",
+      "category": "AI",
+      "filterTags": [
+        "Meta",
+        "Tesla",
+        "SpaceX",
+        "Mark Zuckerberg",
+        "Elon Musk",
+        "Donald Trump",
+        "AI"
+      ],
+      "publishedAt": "2026-10-30T11:30:01+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Corporate Strategy"
+        },
+        {
+          "name": "Politics"
+        }
+      ]
+    },
+    {
+      "slug": "binance-suspends-withdrawals-after-crypto-hackers-steal-6-3-billion",
+      "title": "Binance Suspends Withdrawals After Crypto Hackers Steal $6.3 Billion",
+      "dek": "The world’s largest crypto exchange said it was compromised in a “complex hack” that could be the biggest crypto heist ever. One research lab attributed the theft to “North Korea’s elite hacking unit.”",
+      "aiSummary": "Binance, the world’s largest crypto exchange, reported a complex hack that may be the biggest crypto theft ever, with $6.3 billion stolen. The exchange has suspended withdrawals. A research lab linked the attack to North Korea’s elite hacking unit.",
+      "articleUrl": "https://www.nytimes.com/2026/10/29/technology/binance-hack-crypto.html",
+      "category": "Cryptocurrency",
+      "filterTags": [
+        "Binance",
+        "crypto",
+        "North Korea"
+      ],
+      "publishedAt": "2026-10-30T11:23:54+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cryptocurrency"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Cybercrime"
+        }
+      ]
+    },
+    {
+      "slug": "ai-builder-compare",
+      "title": "AI Builder Compare",
+      "dek": "A comparison of AI builders.",
+      "aiSummary": "The provided text does not contain any article content, facts, or details to summarize. Only the title 'AI Builder Compare' is available.",
+      "articleUrl": "https://aibuildercompare.com/",
+      "category": "AI",
+      "filterTags": [],
+      "publishedAt": "2026-10-30T11:22:48+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "enormous-iphone-duo-demand-can-be-easily-met-hints-confident-foxconn",
+      "title": "Enormous iPhone Duo demand can be easily met, hints confident Foxconn",
+      "dek": "Giving hope to people with long pre-order delays, manufacturer Foxconn appears to say that it can readily fulfill even the  iPhone Duo 's surge in demand. Future iPhone Duo models may add under-display Face ID to the front screen. It sold out the instant  pre-orders opened , and ",
+      "aiSummary": "Foxconn indicates it can satisfy the surge in demand for the iPhone Duo, which sold out immediately after pre‑orders opened. The company also mentioned that future iPhone Duo models may feature under‑display Face ID on the front screen.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/30/enormous-iphone-duo-demand-can-be-easily-met-hints-confident-foxconn?utm_source=rss",
+      "category": "Hardware",
+      "filterTags": [
+        "Foxconn",
+        "iPhone Duo",
+        "Face ID"
+      ],
+      "publishedAt": "2026-10-30T11:16:45+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Mobile Devices"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "fiber-lasts-decades-gpus-last-three-years-the-ai-boom-isn-t-the-dot-com-boom-video",
+      "title": "Fiber lasts decades, GPUs last three years: the AI boom isn't the dot-com boom [video]",
+      "dek": "The current AI surge is distinct from the dot-com bubble because fiber infrastructure has a much longer lifespan than GPUs.",
+      "aiSummary": "The video argues that the AI boom differs from the dot-com era due to the disparity in asset lifespans. While fiber optic infrastructure can remain useful for decades, GPUs typically become obsolete within three years.",
+      "articleUrl": "https://www.youtube.com/watch?v=MENoB3Rex28",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "GPUs",
+        "Fiber",
+        "Dot-com"
+      ],
+      "publishedAt": "2026-10-30T11:16:15+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "Technology Economics"
+        }
+      ]
+    },
+    {
+      "slug": "this-device-uses-a-i-and-lasers-to-kill-mosquitoes",
+      "title": "This Device Uses A.I. and Lasers to Kill Mosquitoes",
+      "dek": "A Chinese start-up has developed a device that uses artificial intelligence and lasers to kill mosquitoes. But there are safety concerns for people and other creatures nearby when the device is in action.",
+      "aiSummary": "A Chinese start-up has created a device that utilizes artificial intelligence and lasers to kill mosquitoes. However, the technology raises safety concerns regarding its impact on people and other animals in the vicinity.",
+      "articleUrl": "https://www.nytimes.com/video/technology/100000011221955/ai-lasers-mosquitoes.html",
+      "category": "AI",
+      "filterTags": [
+        "Artificial Intelligence",
+        "Lasers",
+        "Mosquito Control",
+        "Chinese Start-up"
+      ],
+      "publishedAt": "2026-10-30T11:12:48+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Public Health"
+        }
+      ]
+    },
+    {
+      "slug": "b12002",
+      "title": "b12002",
+      "dek": "ggml : add batched tensor copy API ( #30881 ) \n \n ggml : add generic batched tensor copy API \n \n Assisted-by: pi:llama.cpp/ggml-org/DeepSeek-V4-Flash-Vision-Exp-GGUF (Mac Studio, M2 Ultra, 192GB) \n \n llama : use batched tensor copy API in context io \n \n Assisted-by: pi:llama.cpp/",
+      "aiSummary": "The ggml library has added a generic batched tensor copy API, which is now utilized in the llama context I/O. The development was assisted by the DeepSeek-V4-Flash-Vision-Exp-GGUF model running on a Mac Studio with an M2 Ultra chip.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12002",
+      "category": "AI",
+      "filterTags": [
+        "ggml",
+        "llama.cpp",
+        "DeepSeek-V4-Flash-Vision-Exp-GGUF",
+        "Mac Studio",
+        "M2 Ultra"
+      ],
+      "publishedAt": "2026-10-30T11:04:04+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "doordash-deal-for-instacart-bolsters-defense-against-amazon-and-walmart",
+      "title": "DoorDash Deal for Instacart Bolsters Defense Against Amazon and Walmart",
+      "dek": "The food-delivery deal may help DoorDash fend off inroads from Amazon and Walmart",
+      "aiSummary": "DoorDash has agreed to acquire Instacart in a move designed to counter competition from major retailers. This strategic partnership aims to help the food-delivery company defend its market share against the expanding grocery delivery services of Amazon and Walmart.",
+      "articleUrl": "https://www.bloomberg.com/news/newsletters/2026-10-30/doordash-deal-for-instacart-bolsters-defense-against-amazon-and-walmart",
+      "category": "E-commerce",
+      "filterTags": [
+        "DoorDash",
+        "Instacart",
+        "Amazon",
+        "Walmart",
+        "M&A"
+      ],
+      "publishedAt": "2026-10-30T11:02:01+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "E-commerce"
+        },
+        {
+          "name": "Retail"
+        },
+        {
+          "name": "Business Strategy"
+        }
+      ]
+    },
+    {
+      "slug": "tech-giants-need-legacy-businesses-to-keep-growing-as-they-pour-trillions-into-the-ai-buildout",
+      "title": "Tech giants need legacy businesses to keep growing as they pour trillions into the AI buildout",
+      "dek": "Hyperscalers continue spending big on artificial intelligence, putting pressure on their legacy businesses and impacting their free cash flow.",
+      "aiSummary": "Hyperscalers are continuing to spend significant amounts on artificial intelligence, which is creating pressure on their legacy business operations. This massive capital expenditure is negatively impacting their free cash flow.",
+      "articleUrl": "https://www.cnbc.com/2026/10/30/tech-giants-alphabet-meta-microsoft-amazon-ai-buildouts.html",
+      "category": "AI",
+      "filterTags": [
+        "Hyperscalers",
+        "AI",
+        "Free Cash Flow"
+      ],
+      "publishedAt": "2026-10-30T11:00:01+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Corporate Finance"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "claude-code-mods-custom-hooks-to-fix-my-biggest-ai-coding-frustrations",
+      "title": "Claude Code Mods: Custom Hooks to Fix My Biggest AI Coding Frustrations",
+      "dek": "How I built four Claude Code mods to protect API keys, track plan progress, catch untested code, and monitor context usage — with 135 passing tests and up to 100× less overhead than traditional hooks — and why they can outperform traditional hooks. \n The post  Claude Code Mods: C",
+      "aiSummary": "The author developed four custom Claude Code mods designed to protect API keys, track plan progress, identify untested code, and monitor context usage. These modifications are supported by 135 passing tests and claim to reduce overhead by up to 100% compared to traditional hooks.",
+      "articleUrl": "https://towardsdatascience.com/claude-code-mods-custom-hooks-to-fix-my-biggest-ai-coding-frustrations/",
+      "category": "AI",
+      "filterTags": [
+        "Claude Code",
+        "AI Coding",
+        "Hooks",
+        "API Keys",
+        "Context Usage"
+      ],
+      "publishedAt": "2026-10-30T11:00:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Developer Tools"
+        },
+        {
+          "name": "Productivity"
+        }
+      ]
+    },
+    {
+      "slug": "maine-s-data-center-revolt-will-decide-who-controls-the-senate",
+      "title": "Maine’s data center revolt will decide who controls the Senate",
+      "dek": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. \"I'm terrified,\" a man shouted. \"AI data centers are destroying our climate. They are poisoning our water.\" Collins brush",
+      "aiSummary": "During a final debate for the midterms, Maine Senator Susan Collins was interrupted by an audience member expressing fear that AI data centers are harming the climate and water supply. This incident highlights how local backlash against data center expansion is influencing the political landscape of the Senate election.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
+      "category": "Politics",
+      "filterTags": [
+        "Maine",
+        "Susan Collins",
+        "AI data centers",
+        "Midterms"
+      ],
+      "publishedAt": "2026-10-30T11:00:00+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Energy"
+        }
+      ]
+    },
+    {
+      "slug": "wide-bandgap-monthly-insights-october-2026",
+      "title": "Wide Bandgap Monthly Insights – October 2026",
+      "dek": "Here’s a RoundUp of this month’s must-read news about silicon carbide (SiC), gallium nitride (GaN), and Wide Bandgap Materials! \n The post  Wide Bandgap Monthly Insights – October 2026  appeared first on  Power Electronics News .",
+      "aiSummary": "This article compiles the most important news from October 2026 about wide bandgap materials, specifically silicon carbide (SiC) and gallium nitride (GaN). It highlights developments and trends in the field. The roundup is published by Power Electronics News.",
+      "articleUrl": "https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-october-2026/",
+      "category": "Semiconductors",
+      "filterTags": [
+        "Silicon Carbide",
+        "Gallium Nitride",
+        "Wide Bandgap Materials",
+        "Power Electronics News"
+      ],
+      "publishedAt": "2026-10-30T11:00:00+00:00",
+      "publisher": {
+        "name": "Power Electronics News",
+        "domain": "powerelectronicsnews.com",
+        "website": "https://www.powerelectronicsnews.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Materials Science"
+        },
+        {
+          "name": "Power Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "deutsche-bank-says-ai-dollar-is-here-haven-bias-less-certain",
+      "title": "Deutsche Bank Says ‘AI Dollar’ Is Here, Haven Bias Less Certain",
+      "dek": "The dollar’s traditional status as a haven asset should not be taken for granted during an AI-driven market correction, according to Deutsche Bank AG.",
+      "aiSummary": "Deutsche Bank AG warns that the dollar's usual safe-haven role may not hold amid an AI-driven market correction. The bank suggests that AI could alter the dollar's behavior, making its haven bias less certain.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-30/deutsche-bank-says-ai-dollar-is-here-haven-bias-less-certain",
+      "category": "Finance",
+      "filterTags": [
+        "Deutsche Bank",
+        "AI",
+        "US Dollar"
+      ],
+      "publishedAt": "2026-10-30T10:47:41+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Currency Markets"
+        }
+      ]
+    },
+    {
+      "slug": "chevron-keeps-microsoft-data-center-timeline-despite-texas-pause",
+      "title": "Chevron Keeps Microsoft Data Center Timeline Despite Texas Pause",
+      "dek": "Chevron Corp. expects to power up a Microsoft Corp. data center project in West Texas on schedule despite Governor Greg Abbott’s suspension of digital infrastructure permits.",
+      "aiSummary": "Chevron Corp. intends to begin powering a Microsoft data center project in West Texas according to the original schedule. This decision comes despite Governor Greg Abbott's recent suspension of permits for digital infrastructure in the state.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-30/chevron-keeps-microsoft-data-center-timeline-despite-texas-pause",
+      "category": "Energy",
+      "filterTags": [
+        "Chevron",
+        "Microsoft",
+        "Data Center",
+        "Texas"
+      ],
+      "publishedAt": "2026-10-30T10:41:11+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Energy"
+        },
+        {
+          "name": "Technology Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "tech-scare-trade-hits-nasdaq-futures-while-crypto-reels-from-its-biggest-ever-hack",
+      "title": "Tech scare trade hits Nasdaq futures while crypto reels from its biggest-ever hack",
+      "dek": "Amazon and Intel worsen the sell-off with disappointing earnings releases",
+      "aiSummary": "Nasdaq futures fell amid a tech scare trade, while the cryptocurrency market dropped after its biggest hack. Amazon and Intel's disappointing earnings releases added to the sell‑off.",
+      "articleUrl": "https://www.cnbc.com/2026/10/30/tech-trade-nasdaq-futures-crypto-hack.html",
+      "category": "Finance",
+      "filterTags": [
+        "Amazon",
+        "Intel",
+        "Nasdaq",
+        "crypto"
+      ],
+      "publishedAt": "2026-10-30T10:36:55+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Cryptocurrency"
+        }
+      ]
+    },
+    {
+      "slug": "waymo-and-toyota-will-soon-start-testing-their-robotaxis-in-japan",
+      "title": "Waymo and Toyota will soon start testing their robotaxis in Japan",
+      "dek": "Waymo and Toyota will start testing autonomous bZ4X vehicles in Japan next year. (edited)",
+      "aiSummary": "Waymo and Toyota are set to begin testing autonomous bZ4X vehicles in Japan next year. The partnership will involve robotaxi trials in the country.",
+      "articleUrl": "https://www.engadget.com/2301972/waymo-toyota-soon-start-testing-bz4x-robotaxis-japan/",
+      "category": "Automotive",
+      "filterTags": [
+        "Waymo",
+        "Toyota",
+        "bZ4X",
+        "autonomous vehicles",
+        "robotaxi"
+      ],
+      "publishedAt": "2026-10-30T10:23:52+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Automotive"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Mobility"
+        }
+      ]
+    },
+    {
+      "slug": "senators-are-looking-into-serious-privacy-risks-with-meta-s-ai-glasses",
+      "title": "Senators are looking into 'serious privacy risks' with Meta's AI glasses",
+      "dek": "US senators have asked Meta to explain how it's mitigating 'serious' privacy risks with its AI glasses.",
+      "aiSummary": "U.S. senators have requested Meta to clarify how it plans to address serious privacy risks associated with its AI glasses. The inquiry highlights concerns over data collection and user privacy. Meta has been asked to provide details on mitigation strategies.",
+      "articleUrl": "https://www.engadget.com/2301968/senators-looking-into-serious-privacy-risks-with-meta-ai-glasses/",
+      "category": "Technology",
+      "filterTags": [
+        "Meta",
+        "AI glasses",
+        "privacy"
+      ],
+      "publishedAt": "2026-10-30T10:08:13+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Privacy"
+        },
+        {
+          "name": "Regulation"
+        }
+      ]
+    },
+    {
+      "slug": "are-we-in-an-a-i-bubble-we-re-about-to-find-out",
+      "title": "Are We in an A.I. Bubble? We’re About to Find Out.",
+      "dek": "“This is the first pure-play L.L.M. company to go public, to open its books so we can actually look at the underlying business of this A.I. boom.”",
+      "aiSummary": "The upcoming public listing of the first pure-play large language model company will allow investors to examine the financial details of the AI boom. This transparency will help determine whether the sector is experiencing a speculative bubble.",
+      "articleUrl": "https://www.nytimes.com/2026/10/30/podcasts/hardfork-anthropic-ipo.html",
+      "category": "AI",
+      "filterTags": [
+        "LLM",
+        "AI",
+        "IPO"
+      ],
+      "publishedAt": "2026-10-30T10:00:25+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "big-tech-sheds-nearly-900bn-in-rout-over-soaring-ai-spending",
+      "title": "Big Tech sheds nearly $900bn in rout over soaring AI spending",
+      "dek": "Cash burn at Google, Amazon and Meta leads Wall Street to question price of AI boom",
+      "aiSummary": "Investors are concerned about the high costs of AI development, as Google, Amazon and Meta are burning cash. This has caused a nearly $900bn decline in the market value of big tech companies.",
+      "articleUrl": "https://www.ft.com/content/c695558e-11e6-494c-aeee-0f9fb5c75afc?syn-25a6b1a6=1",
+      "category": "Technology",
+      "filterTags": [
+        "Google",
+        "Amazon",
+        "Meta",
+        "AI"
+      ],
+      "publishedAt": "2026-10-30T10:00:02+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Artificial Intelligence"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-6316181a570ce0b9c93a583beef3604eeda35631-add-jgong5-to-rocm-merge-rule-approvers-202674",
+      "title": "trunk/6316181a570ce0b9c93a583beef3604eeda35631: Add jgong5 to ROCm merge rule approvers (#202674)",
+      "dek": "Linked issue or supporting maintainer \n Supported by  @jeffdaily \n BC-breaking? \n No \n Summary (human written only) \n Add jgong5 to ROCm merge rule approvers \n Agent details \n Authored with Claude Code (AI assistant): one-line edit to the ROCm \napproved_by list in .github/merge_r",
+      "aiSummary": "A pull request adds the user jgong5 to the list of approvers for ROCm merge rules. The change involves a one-line edit to the .github/merge_rules configuration file and was authored with the assistance of Claude Code.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F6316181a570ce0b9c93a583beef3604eeda35631",
+      "category": "Open Source",
+      "filterTags": [
+        "ROCm",
+        "GitHub",
+        "Claude Code",
+        "jgong5"
+      ],
+      "publishedAt": "2026-10-30T09:36:06+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "DevOps"
+        }
+      ]
+    },
+    {
+      "slug": "patch-release-v5-22-1",
+      "title": "Patch release v5.22.1",
+      "dek": "Patch release v5.22.1 \n We just had to fix the documentation! \n ** [Fix] Remove WIP doc for Ml4 ( #50124 ) from  @remi-or",
+      "aiSummary": "The v5.22.1 patch was released, fixing documentation issues. It removes a work‑in‑progress document for Ml4, as reported by @remi-or.",
+      "articleUrl": "https://github.com/huggingface/transformers/releases/tag/v5.22.1",
+      "category": "Software Development",
+      "filterTags": [
+        "Ml4",
+        "documentation"
+      ],
+      "publishedAt": "2026-10-30T09:36:03+00:00",
+      "publisher": {
+        "name": "huggingface",
+        "domain": "github.com",
+        "website": "https://github.com/huggingface/transformers",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Documentation"
+        }
+      ]
+    },
+    {
+      "slug": "v0-33-0rc2-rocm-bugfix-skip-aiter-tuned-gemm-when-m-n-2-31-on-gfx950-64567",
+      "title": "v0.33.0rc2: [ROCm][Bugfix] Skip AITER tuned GEMM when M*N >= 2^31 on gfx950 (#64567)",
+      "dek": "Signed-off-by: Micah Williamson  micah.williamson@amd.com \n(cherry picked from commit  6d01893 )",
+      "aiSummary": "The v0.33.0rc2 release includes a bug fix for ROCm that skips AITER‑tuned GEMM when M×N ≥ 2^31 on gfx950. The change was signed off by Micah Williamson and cherry‑picked from commit 6d01893.",
+      "articleUrl": "https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc2",
+      "category": "Hardware",
+      "filterTags": [
+        "ROCm",
+        "AITER",
+        "GEMM",
+        "gfx950",
+        "AMD"
+      ],
+      "publishedAt": "2026-10-30T09:10:43+00:00",
+      "publisher": {
+        "name": "vllm-project",
+        "domain": "github.com",
+        "website": "https://github.com/vllm-project/vllm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Software"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "wikipedia-s-operator-says-a-bad-ai-copyright-ruling-could-threaten-the-open-web",
+      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+      "dek": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it",
+      "aiSummary": "The Wikimedia Foundation is positioning itself between extremes in AI copyright litigation, urging courts to safeguard large language models that learn from copyrighted content while opposing chatbots that copy that content for users. The foundation argues that a blanket ruling could jeopardize the open web. They are seeking a balanced legal approach.",
+      "articleUrl": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "category": "AI",
+      "filterTags": [
+        "Wikimedia Foundation",
+        "LLM",
+        "chatbot",
+        "AI copyright"
+      ],
+      "publishedAt": "2026-10-30T09:00:00+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "n8n-1-123-91",
+      "title": "n8n@1.123.91",
+      "dek": "1.123.91  (2026-10-30) \n Bug Fixes \n \n core:  Fix $('Node') expressions returning null for legacy Code node output ( #42249 ) ( 18c89cd )",
+      "aiSummary": "n8n released version 1.123.91 on October 30, 2026. This update includes a bug fix in the core that resolves an issue where $('Node') expressions were returning null for legacy Code node output.",
+      "articleUrl": "https://github.com/n8n-io/n8n/releases/tag/n8n%401.123.91",
+      "category": "Automation",
+      "filterTags": [
+        "n8n",
+        "Code node",
+        "expressions"
+      ],
+      "publishedAt": "2026-10-30T08:45:52+00:00",
+      "publisher": {
+        "name": "n8n-io",
+        "domain": "github.com",
+        "website": "https://github.com/n8n-io/n8n",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Automation"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-75595370de979652a177a1ac1531896bc4f4113d",
+      "title": "trunk/75595370de979652a177a1ac1531896bc4f4113d",
+      "dek": "[fx] Resolve lazy imports with FX's patches reverted when scanning fo…",
+      "aiSummary": "This change resolves lazy import problems by reverting FX patches applied during scanning. The modification addresses import errors that occurred after applying patches to FX during scanning.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F75595370de979652a177a1ac1531896bc4f4113d",
+      "category": "Open Source",
+      "filterTags": [
+        "FX",
+        "lazy imports"
+      ],
+      "publishedAt": "2026-10-30T08:35:49+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "slug": "n8n-2-46-3",
+      "title": "n8n@2.46.3",
+      "dek": "2.46.3  (2026-10-30) \n Bug Fixes \n \n core:  Add a cooldown before resending migration owner reminders ( #42567 ) ( 724efc3 ) \n core:  Resolve IMAP trigger expressions after activation ( #42612 ) ( 17594a7 ) \n core:  Return user data with an __isError key as data in expressions ( ",
+      "aiSummary": "n8n has released version 2.46.3, which includes bug fixes for the core system. The update adds a cooldown period before resending migration owner reminders and resolves IMAP trigger expressions after activation.",
+      "articleUrl": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.46.3",
+      "category": "Open Source",
+      "filterTags": [
+        "n8n",
+        "IMAP",
+        "core"
+      ],
+      "publishedAt": "2026-10-30T08:29:31+00:00",
+      "publisher": {
+        "name": "n8n-io",
+        "domain": "github.com",
+        "website": "https://github.com/n8n-io/n8n",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Automation"
+        }
+      ]
+    },
+    {
+      "slug": "n8n-2-45-7",
+      "title": "n8n@2.45.7",
+      "dek": "2.45.7  (2026-10-30) \n Bug Fixes \n \n core:  Require execution:read when workflow-scoped routes read execution data ( #42446 ) ( 93638f4 ) \n core:  Resolve IMAP trigger expressions after activation ( #42611 ) ( 50ef902 ) \n core:  Return user data with an __isError key as data in e",
+      "aiSummary": "Version 2.45.7 of n8n, released on October 30, 2026, includes several bug fixes. These fixes address issues such as requiring 'execution:read' for workflow-scoped routes to access execution data, resolving IMAP trigger expressions after activation, and correctly returning user data with an '__isError' key.",
+      "articleUrl": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.45.7",
+      "category": "Software Development",
+      "filterTags": [
+        "n8n",
+        "IMAP",
+        "Bug Fixes"
+      ],
+      "publishedAt": "2026-10-30T08:28:05+00:00",
+      "publisher": {
+        "name": "n8n-io",
+        "domain": "github.com",
+        "website": "https://github.com/n8n-io/n8n",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Version Control"
+        },
+        {
+          "name": "Workflow Automation"
+        }
+      ]
+    },
+    {
+      "slug": "binance-hacked-for-an-estimated-6-3-billion-in-record-crypto-theft",
+      "title": "Binance hacked for an estimated $6.3 billion in record crypto theft",
+      "dek": "Cryptocurrency exchange Binance has been hit with a record $6.3 billion hack.",
+      "aiSummary": "The cryptocurrency exchange Binance has suffered a record-breaking hack resulting in an estimated loss of $6.3 billion. This incident represents the largest theft in the history of the crypto industry.",
+      "articleUrl": "https://www.engadget.com/2301941/binance-hacked-for-estimated-6-3-billion-in-record-crypto-theft/",
+      "category": "Security",
+      "filterTags": [
+        "Binance",
+        "Cryptocurrency",
+        "Hacking"
+      ],
+      "publishedAt": "2026-10-30T08:24:55+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "ainews-building-aie-code-the-top-coding-agent-conference",
+      "title": "[AINews] Building AIE CODE: The top Coding Agent Conference",
+      "dek": "Mistral’s open-weight release, frontier monitoring, and the day’s AI Twitter and Reddit recaps.",
+      "aiSummary": "The article reports on Mistral’s release of an open-weight model. It also covers updates on frontier monitoring and summarizes AI discussions from Twitter and Reddit.",
+      "articleUrl": "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference/",
+      "category": "AI",
+      "filterTags": [
+        "Mistral",
+        "open-weight model",
+        "frontier monitoring",
+        "Twitter",
+        "Reddit"
+      ],
+      "publishedAt": "2026-10-30T08:24:29+00:00",
+      "publisher": {
+        "name": "Latent Space",
+        "domain": "latent.space",
+        "website": "https://www.latent.space/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Social Media"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "b12001",
+      "title": "b12001",
+      "dek": "ROCm/HIP: add RDNA4_M family for gfx1170/gfx1171 ( #31373 ) \n gfx117X is more like RDNA4, with 128b WMMA. But they're not identical. Adjust the defines accordingly to have a new RDNA4_M and use it where it makes sense. \n Assisted-by: Codex \nAssisted-by: GitHub Copilot \n Co-author",
+      "aiSummary": "A commit to the ROCm/HIP project introduces a new RDNA4_M family definition for gfx1170 and gfx1171 architectures. This change accounts for the 128-bit WMMA capabilities of these chips, which differ slightly from standard RDNA4, by adjusting the relevant defines.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12001",
+      "category": "Hardware",
+      "filterTags": [
+        "ROCm",
+        "HIP",
+        "RDNA4",
+        "gfx1170",
+        "gfx1171",
+        "WMMA"
+      ],
+      "publishedAt": "2026-10-30T07:45:34+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "how-video-game-remakes-tap-the-power-of-nostalgia",
+      "title": "How video game remakes tap the power of nostalgia",
+      "dek": "Video games are good at triggering nostalgia, a key reason why classic games keep getting remade.",
+      "aiSummary": "Video games effectively evoke nostalgia, which is why many classic titles are remade. The emotional connection to older games drives developers to revisit and update them.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss",
+      "category": "Gaming",
+      "filterTags": [
+        "video games",
+        "nostalgia",
+        "classic games"
+      ],
+      "publishedAt": "2026-10-30T07:45:00+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "Entertainment"
+        },
+        {
+          "name": "Psychology"
+        }
+      ]
+    },
+    {
+      "slug": "it-s-ok-that-computers-are-sometimes-better-than-us",
+      "title": "It’s ok that computers are (sometimes) better than us",
+      "dek": "Ryan is joined by Charity Majors, co-founder and CTO at Honeycomb, for a conversation about applying the concept of immutable infrastructure to software development to treat code like cattle instead of pets, shifting the paradigm of system specifications to accommodate the rapid ",
+      "aiSummary": "Charity Majors, co-founder and CTO at Honeycomb, discussed applying the concept of immutable infrastructure to software development. This approach advocates treating code like disposable \"cattle\" rather than unique \"pets,\" aiming to shift system specifications to accommodate rapid changes.",
+      "articleUrl": "https://stackoverflow.blog/2026/10/30/it-s-ok-that-computers-are-sometimes-better-than-us/",
+      "category": "Software Engineering",
+      "filterTags": [
+        "Honeycomb",
+        "immutable infrastructure",
+        "software development"
+      ],
+      "publishedAt": "2026-10-30T07:40:00+00:00",
+      "publisher": {
+        "name": "Stack Overflow Blog",
+        "domain": "stackoverflow.blog",
+        "website": "https://stackoverflow.blog",
+        "logoUrl": "https://stackoverflow.blog/apple-touch-icon.png",
+        "faviconUrl": "https://stackoverflow.blog/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "DevOps"
+        }
+      ]
+    },
+    {
+      "slug": "samaya-ai-releases-sterling-a-3b-active-finance-research-agent-model-that-beats-claude-fable-5-1-on-frontierfinance-at-1",
+      "title": "Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1 on FrontierFinance at 11x Lower Cost",
+      "dek": "Samaya AI’s Sterling is a post-trained Nemotron 3.5 Lightning model for financial research. It scores 58.9% on FrontierFinance at $0.61 per question, beating Claude Fable 5.1’s 55.9% at $6.89. \n The post  Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that ",
+      "aiSummary": "Samaya AI has released Sterling, a post-trained Nemotron 3.5 Lightning model designed for financial research. The model achieves a 58.9% score on the FrontierFinance benchmark, surpassing Claude Fable 5.1's 55.9% score while costing $0.61 per question compared to $6.89.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/30/samaya-sterling-post-trained-finance-research-model-frontierfinance/",
+      "category": "AI",
+      "filterTags": [
+        "Samaya AI",
+        "Sterling",
+        "Nemotron 3.5 Lightning",
+        "Claude Fable 5.1",
+        "FrontierFinance"
+      ],
+      "publishedAt": "2026-10-30T07:26:12+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-9933f275f857870234004d951579fa40fd55c403-fix-binary-cross-entropy-with-logits-gradients-202129",
+      "title": "trunk/9933f275f857870234004d951579fa40fd55c403: [fix] `binary_cross_entropy_with_logits` gradients (#202129)",
+      "dek": "Linked issue or supporting maintainer \n Fixes # #195677 \nSupported by  @Isalia20 \n Summary (human written only) \n Using: \n$$1 - sigmoid(x) = sigmoid(-x)$$\n updated gradient to: \n$$Gradient: [(1 - y) * sigmoid(x) - pos * y * sigmoid(-x)] * grad$$\n This solves numerical issues; \n  ",
+      "aiSummary": "The patch updates the gradient formula for binary cross-entropy with logits, using the identity 1 − sigmoid(x) = sigmoid(−x). The new gradient expression is [(1 − y) * sigmoid(x) − pos * y * sigmoid(−x)] * grad, which addresses numerical stability problems. The change is linked to issue #195677 and was supported by maintainer @Isalia20.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F9933f275f857870234004d951579fa40fd55c403",
+      "category": "Machine Learning",
+      "filterTags": [
+        "binary_cross_entropy_with_logits",
+        "sigmoid",
+        "gradient"
+      ],
+      "publishedAt": "2026-10-30T06:50:30+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Deep Learning"
+        },
+        {
+          "name": "Numerical Methods"
+        }
+      ]
+    },
+    {
+      "slug": "what-moves-hyperscaler-stocks",
+      "title": "What moves hyperscaler stocks?",
+      "dek": "Plus the ECB",
+      "aiSummary": "The article explores the factors influencing hyperscaler stocks. It also specifically mentions the European Central Bank as a relevant consideration.",
+      "articleUrl": "https://www.ft.com/content/e7f0fb01-fc76-4330-9015-e53096585a5a?syn-25a6b1a6=1",
+      "category": "Finance",
+      "filterTags": [
+        "Hyperscalers",
+        "ECB",
+        "Stocks"
+      ],
+      "publishedAt": "2026-10-30T05:30:01+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Economics"
+        }
+      ]
+    },
+    {
+      "slug": "edge0-releases-audio8-tts-realistic-a-0-6b-voice-cloning-tts-model",
+      "title": "Edge0 Releases Audio8-TTS-Realistic, a 0.6B Voice Cloning TTS Model",
+      "dek": "Edge0 released Audio8-TTS-Realistic, a 0.6B open-weight zero-shot voice cloning TTS model under Apache 2.0. It supports 23 languages and adds a final GRPO stage driven by a learned realism critic. \n The post  Edge0 Releases Audio8-TTS-Realistic, a 0.6B Voice Cloning TTS Model  ap",
+      "aiSummary": "Edge0 has released Audio8-TTS-Realistic, a 0.6B parameter open-weight text-to-speech model licensed under Apache 2.0. The model supports zero-shot voice cloning across 23 languages and incorporates a final GRPO training stage guided by a learned realism critic.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/29/edge0-audio8-tts-realistic-0-6b-voice-cloning/",
+      "category": "AI",
+      "filterTags": [
+        "Edge0",
+        "Audio8-TTS-Realistic",
+        "TTS",
+        "Voice Cloning",
+        "GRPO",
+        "Apache 2.0"
+      ],
+      "publishedAt": "2026-10-30T05:02:52+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Audio"
+        }
+      ]
+    },
+    {
+      "slug": "lrmoe-demand-side-load-re-calibration-for-efficient-moe-training-on-memory-constrained-nodes",
+      "title": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
+      "dek": "arXiv:2610.37720v1 Announce Type: new \nAbstract: Sparse Mixture-of-Experts (MoE) models offer scalable capacity for Web applications, but uneven routing creates computation and communication bottlenecks. Existing placement and replication methods redistribute this workload, yet a",
+      "aiSummary": "The paper introduces LRMoE, a method that recalibrates load on the demand side to improve efficiency of MoE training on memory‑constrained nodes. It tackles bottlenecks caused by uneven routing in sparse MoE models, which can lead to computation and communication issues. Existing placement and replication strategies redistribute workload but have limitations.",
+      "articleUrl": "https://arxiv.org/abs/2610.37720",
+      "category": "AI",
+      "filterTags": [
+        "MoE",
+        "Sparse Mixture-of-Experts",
+        "LRMoE",
+        "Memory-Constrained Nodes",
+        "Placement",
+        "Replication",
+        "Web applications"
+      ],
+      "publishedAt": "2026-10-30T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv cs.AI",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.AI",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Distributed Systems"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "amortized-localized-posterior-inference-for-model-calibration-with-application-to-an-ocean-turbulence-closure",
+      "title": "Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure",
+      "dek": "arXiv:2610.37731v1 Announce Type: new \nAbstract: Model discrepancy may prevent a single calibration parameter from reproducing a physical response across the context domain. In addition, uncertainties in observations and contexts affect calibration and must be accounted for and q",
+      "aiSummary": "The paper introduces an amortized localized posterior inference method to address model discrepancy, where a single calibration parameter fails to reproduce physical responses across different contexts. The approach accounts for uncertainties in observations and contexts, with applications demonstrated in ocean turbulence closure models.",
+      "articleUrl": "https://arxiv.org/abs/2610.37731",
+      "category": "Scientific Computing",
+      "filterTags": [
+        "Model Calibration",
+        "Posterior Inference",
+        "Ocean Turbulence",
+        "arXiv"
+      ],
+      "publishedAt": "2026-10-30T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv cs.AI",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.AI",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Scientific Computing"
+        },
+        {
+          "name": "Data Science"
+        }
+      ]
+    },
+    {
+      "slug": "thinkjev-one-thought-every-budget-for-calibrated-typed-decisions",
+      "title": "ThinkJev: One Thought, Every Budget for Calibrated Typed Decisions",
+      "dek": "arXiv:2610.37732v1 Announce Type: new \nAbstract: Many uses of language models end in a typed decision: a choice among a closed set of options, whose probabilities code can act on. Reading those probabilities from one forward pass is fast but often wrong on decisions that take sev",
+      "aiSummary": "The paper discusses using language models for typed decisions, where a choice is made among a closed set of options based on probability outputs. It notes that extracting probabilities from a single forward pass is fast but often inaccurate for certain decisions. The work aims to improve calibration of these typed decisions.",
+      "articleUrl": "https://arxiv.org/abs/2610.37732",
+      "category": "AI",
+      "filterTags": [
+        "language models",
+        "calibrated decisions",
+        "probabilities"
+      ],
+      "publishedAt": "2026-10-30T04:00:00+00:00",
+      "publisher": {
+        "name": "arXiv cs.AI",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.AI",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "NLP"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "v1-109-0-dev-2",
+      "title": "v1.109.0-dev.2",
+      "dek": "Verify Docker Image Signature \n All LiteLLM Docker images are signed with  cosign . This release is signed with the key introduced in  commit  e82a3c6 . \n Verify using the pinned commit hash (recommended): \n A commit hash is cryptographically immutable, so this is the strongest w",
+      "aiSummary": "LiteLLM Docker images are now signed using `cosign` for enhanced security. This specific release utilizes a key introduced in commit `e82a3c6`. Users are recommended to verify these images using the cryptographically immutable pinned commit hash for the strongest security assurance.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.109.0-dev.2",
+      "category": "Software Development",
+      "filterTags": [
+        "Docker",
+        "LiteLLM",
+        "cosign"
+      ],
+      "publishedAt": "2026-10-30T03:53:18+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Containerization"
+        }
+      ]
+    },
+    {
+      "slug": "doordash-buys-instacart-reddit-requires-login-making-agents-faster",
+      "title": "DoorDash buys Instacart 🛒, Reddit requires login 👽, making agents faster ⚡",
+      "dek": "DoorDash acquires Instacart, Reddit mandates user login, and AI agents are being optimized for speed.",
+      "aiSummary": "The article reports that DoorDash has purchased Instacart. It also notes that Reddit is now requiring users to log in to access the platform. Additionally, it covers efforts to improve the speed of AI agents.",
+      "articleUrl": "https://tldr.tech/tech/2026-10-30",
+      "category": "E-commerce",
+      "filterTags": [
+        "DoorDash",
+        "Instacart",
+        "Reddit",
+        "AI agents"
+      ],
+      "publishedAt": "2026-10-30T00:00:00+00:00",
+      "publisher": {
+        "name": "TLDR",
+        "domain": "tldr.tech",
+        "website": "https://tldr.tech/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=tldr.tech&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=tldr.tech&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "E-commerce"
+        },
+        {
+          "name": "Social Media"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "tanstack-s-smaller-react-for-the-browser",
+      "title": "TanStack's smaller React for the browser",
+      "dek": "#​495 — October 30, 2026 \n Read on the Web \n \n \n  React Status \n \n \n \n \n Putting MUI, Mantine, Ant Design and React Spectrum Under Load \n \n Den Odell timed ten popular design systems, including MUI, Mantine, Ant Design and React Spectrum, by  opening a 249-country dropdown and se",
+      "aiSummary": "Den Odell timed ten popular design systems—MUI, Mantine, Ant Design, and React Spectrum—by opening a 249‑country dropdown and measuring load times. The test aimed to assess how quickly each library renders the dropdown.",
+      "articleUrl": "https://react.statuscode.com/issues/495",
+      "category": "UI Frameworks",
+      "filterTags": [
+        "MUI",
+        "Mantine",
+        "Ant Design",
+        "React Spectrum"
+      ],
+      "publishedAt": "2026-10-30T00:00:00+00:00",
+      "publisher": {
+        "name": "React Status",
+        "domain": "react.statuscode.com",
+        "website": "https://react.statuscode.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=react.statuscode.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=react.statuscode.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "UI Frameworks"
+        },
+        {
+          "name": "Performance"
+        },
+        {
+          "name": "Web Development"
+        }
+      ]
+    }
+  ]
+}
