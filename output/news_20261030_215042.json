@@ -1,0 +1,1426 @@
+{
+  "news": [
+    {
+      "slug": "how-much-of-an-environmental-menace-is-ai",
+      "title": "How much of an environmental menace is AI?",
+      "dek": "What is the environmental impact of artificial intelligence?",
+      "aiSummary": "The provided text does not contain any information to summarize.",
+      "articleUrl": "https://www.cnn.com/2026/10/16/climate/ai-environmental-impact-energy-water-noise-explainer",
+      "category": "AI",
+      "filterTags": [
+        "AI"
+      ],
+      "publishedAt": "2026-10-30T21:44:54+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Environment"
+        }
+      ]
+    },
+    {
+      "slug": "need-to-rethink-how-ai-infrastructure-is-powered-fuelcell-energy-ceo",
+      "title": "Need To Rethink How AI Infrastructure Is Powered: FuelCell Energy CEO",
+      "dek": "FuelCell Energy President and CEO Jason Few discusses public concerns over higher utility bills, water use and fossil-fuel infrastructure. Discussing a proposed project in Newport Township, Pennsylvania, where FuelCell Energy would supply power but is not the developer, Few said ",
+      "aiSummary": "FuelCell Energy CEO Jason Few argues that the current approach to powering AI infrastructure must be reconsidered due to public concerns about rising utility bills, water consumption, and reliance on fossil fuels. He discusses a proposed power supply project in Newport Township, Pennsylvania, where FuelCell Energy is providing energy but not acting as the developer.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-30/fuelcell-energy-ceo-ai-race-won-t-be-won-by-pausing-video",
+      "category": "Energy",
+      "filterTags": [
+        "FuelCell Energy",
+        "AI Infrastructure",
+        "Jason Few",
+        "Newport Township"
+      ],
+      "publishedAt": "2026-10-30T21:44:32+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Energy"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029",
+      "title": "United Airlines CEO doubts supersonic airliner from Boom will be ready by 2029",
+      "dek": "Boom’s airliner may be delayed, and its data center power business lost a customer.",
+      "aiSummary": "United Airlines' CEO expressed doubt that Boom Supersonic's airliner will be ready for service by 2029. Additionally, Boom's data center power division recently lost a customer.",
+      "articleUrl": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
+      "category": "Aviation",
+      "filterTags": [
+        "United Airlines",
+        "Boom Supersonic",
+        "supersonic airliner",
+        "data center power"
+      ],
+      "publishedAt": "2026-10-30T21:41:54+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Aviation"
+        },
+        {
+          "name": "Aerospace"
+        },
+        {
+          "name": "Energy"
+        }
+      ]
+    },
+    {
+      "slug": "ai-capital-spending-is-booming-but-what-about-shareholder-returns",
+      "title": "AI Capital Spending Is Booming. But What About Shareholder Returns?",
+      "dek": "Investors are pouring money into AI, but is it actually paying off for stock owners?",
+      "aiSummary": "The provided text does not contain an article body, only a title. Therefore, no factual summary can be generated based on the content.",
+      "articleUrl": "https://michaelhillaert1.substack.com/p/valuation-dislocation-october-2026",
+      "category": "AI",
+      "filterTags": [],
+      "publishedAt": "2026-10-30T21:41:07+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "preview-web-apps-live-as-your-coding-agent-builds-them-with-amazon-bedrock-agentcore-runtime",
+      "title": "Preview web apps live as your coding agent builds them with Amazon Bedrock AgentCore runtime",
+      "dek": "Amazon Bedrock AgentCore Session endpoints give each runtime session an authenticated URL that forwards any HTTP method, path, and WebSocket connection to the ports you allow. In this post, you deploy a coding agent that keeps a Vite website running in its session, then watch the",
+      "aiSummary": "Amazon Bedrock AgentCore Session endpoints provide authenticated URLs that forward HTTP and WebSocket traffic to specific ports within a runtime session. This allows users to deploy a coding agent that maintains a live Vite website, enabling real-time preview of the application as it is being developed.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/preview-web-apps-live-as-your-coding-agent-builds-them-with-amazon-bedrock-agentcore-runtime/",
+      "category": "Cloud Computing",
+      "filterTags": [
+        "Amazon Bedrock",
+        "AgentCore",
+        "Vite",
+        "WebSocket",
+        "HTTP"
+      ],
+      "publishedAt": "2026-10-30T21:40:03+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Web Development"
+        }
+      ]
+    },
+    {
+      "slug": "illumina-ceo-on-q3-results-and-business-outlook",
+      "title": "Illumina CEO on Q3 Results and Business Outlook",
+      "dek": "Jacob Thaysen says Illumina delivered a strong third quarter, beat expectations and raised its fourth-quarter outlook. He said the company has moved from essentially flat performance to mid-single-digit growth over the past 18 months and remains committed to its high-single-digit",
+      "aiSummary": "Illumina CEO Jacob Thaysen reported that the company exceeded expectations in the third quarter and has raised its outlook for the fourth quarter. He noted that the business has transitioned from flat performance to mid-single-digit growth over the last 18 months and remains focused on achieving high-single-digit growth.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-30/illumina-ceo-on-q3-results-and-business-outlook-video",
+      "category": "Biotechnology",
+      "filterTags": [
+        "Illumina",
+        "Jacob Thaysen",
+        "Q3 Results",
+        "Business Outlook"
+      ],
+      "publishedAt": "2026-10-30T21:33:01+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Biotechnology"
+        },
+        {
+          "name": "Corporate Finance"
+        }
+      ]
+    },
+    {
+      "slug": "wall-street-closes-sharply-lower-as-ai-cash-burn-fears-spark-tech-selloff",
+      "title": "Wall Street closes sharply lower as AI cash burn fears spark tech selloff",
+      "dek": "Stock markets dropped significantly because investors are worried about high spending on artificial intelligence.",
+      "aiSummary": "Wall Street ended the trading day with a sharp decline as concerns over excessive cash burn in the AI sector triggered a sell-off in technology stocks. The market downturn was driven by fears that high capital expenditures in AI are not yielding immediate returns, leading to a broader retreat from tech-heavy portfolios.",
+      "articleUrl": "https://www.reuters.com/business/nasdaq-futures-tumble-amazon-intel-results-deepen-ai-spending-woes-2026-10-30/",
+      "category": "Finance",
+      "filterTags": [
+        "Wall Street",
+        "AI",
+        "Tech Selloff",
+        "Cash Burn"
+      ],
+      "publishedAt": "2026-10-30T21:32:35+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Markets"
+        }
+      ]
+    },
+    {
+      "slug": "last-minute-halloween-costumes-for-tech-nerds",
+      "title": "Last-minute Halloween costumes for tech nerds",
+      "dek": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+      "aiSummary": "The article suggests last‑minute Halloween costumes for tech fans, such as dressing up as a charming AI agent icon, a PHP vulnerability, or the sleepy persona of Bryan Johnson. These ideas play on tech culture references and offer simple, recognizable themes.",
+      "articleUrl": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "category": "Entertainment",
+      "filterTags": [
+        "AI",
+        "PHP",
+        "Bryan Johnson"
+      ],
+      "publishedAt": "2026-10-30T21:26:59+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Entertainment"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "how-a-contractor-s-claude-agent-got-into-the-pentagon",
+      "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
+      "dek": "This week on “Uncanny Valley,” we discuss the contractor who plugged their AI agent into a Pentagon system, Anthropic’s IPO filing, and the volunteers gearing up to counter ICE at the midterms.",
+      "aiSummary": "The podcast episode discusses a contractor who integrated their AI agent into a Pentagon system. It also covers Anthropic's IPO filing and volunteers preparing to counter ICE during the midterms.",
+      "articleUrl": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
+      "category": "AI",
+      "filterTags": [
+        "Claude",
+        "Anthropic",
+        "Pentagon",
+        "AI Agent"
+      ],
+      "publishedAt": "2026-10-30T21:19:26+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Government"
+        },
+        {
+          "name": "Politics"
+        }
+      ]
+    },
+    {
+      "slug": "cracks-are-emerging-in-the-ai-spending-boom",
+      "title": "Cracks are emerging in the AI spending boom",
+      "dek": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
+      "aiSummary": "Major technology companies are investing billions of dollars in AI infrastructure, but the strategy is facing scrutiny due to rising debt and negative cash flow. These financial pressures have led to increased skepticism among investors regarding the long-term sustainability of the current AI spending boom.",
+      "articleUrl": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "category": "AI",
+      "filterTags": [
+        "Big Tech",
+        "AI infrastructure",
+        "debt",
+        "cash flow",
+        "investors"
+      ],
+      "publishedAt": "2026-10-30T21:17:40+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours",
+      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+      "dek": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+      "aiSummary": "The Anthropic VS code extension on Cursor was compromised and backdoored for nearly 12 hours. It remains unclear how the attackers gained access to Anthropic's verified Cursor account.",
+      "articleUrl": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+      "category": "Security",
+      "filterTags": [
+        "Anthropic",
+        "Cursor",
+        "VS Code",
+        "Backdoor"
+      ],
+      "publishedAt": "2026-10-30T21:09:54+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "power-on-how-apple-is-deflecting-the-duo-s-cracked-display-problem",
+      "title": "Power On: How Apple Is Deflecting the Duo’s Cracked Display Problem",
+      "dek": "On this episode of the Power On podcast, Chris Welch joins Mark Gurman to unpack reports of cracked displays and why Apple’s limited supply has made getting a replacement so difficult. (Source: Bloomberg)",
+      "aiSummary": "In a recent episode of the Power On podcast, Chris Welch and Mark Gurman discuss reports of cracked displays on Apple products. They analyze how limited supply chains have made it difficult for users to obtain replacements for these defective units.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-30/how-apple-is-deflecting-the-duo-s-cracked-display-issue-video",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Apple",
+        "Power On",
+        "Mark Gurman",
+        "Chris Welch",
+        "Bloomberg"
+      ],
+      "publishedAt": "2026-10-30T21:05:26+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Media"
+        }
+      ]
+    },
+    {
+      "slug": "sam-altman-says-it-s-better-for-ram-to-be-in-a-data-center-than-on-your-desk",
+      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+      "dek": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math",
+      "aiSummary": "During an interview on the Cheeky Pint podcast, OpenAI CEO Sam Altman criticized the practice of installing RAM in personal computers, calling it \"terrible\" and arguing that memory should instead be housed in data centers. He also discussed the effects of artificial intelligence on mathematics. The comments came amid concerns about supply chain shortages, including the current RAM shortage.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+      "category": "Hardware",
+      "filterTags": [
+        "RAM",
+        "OpenAI",
+        "Cheeky Pint"
+      ],
+      "publishedAt": "2026-10-30T20:48:43+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Supply Chain"
+        }
+      ]
+    },
+    {
+      "slug": "dartmouth-s-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job",
+      "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+      "dek": "People who love AI don't always love telling others they used it.",
+      "aiSummary": "Dartmouth's provost was dismissed from his role due to his personal use of artificial intelligence. This incident occurred despite the fact that he had previously issued warnings to the university community regarding the use of AI for academic dishonesty.",
+      "articleUrl": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+      "category": "Higher Education",
+      "filterTags": [
+        "Dartmouth",
+        "AI",
+        "Academic Integrity"
+      ],
+      "publishedAt": "2026-10-30T20:40:13+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Higher Education"
+        },
+        {
+          "name": "AI Ethics"
+        }
+      ]
+    },
+    {
+      "slug": "house-democrats-criticize-justice-dept-support-of-openai-in-copyright-suit",
+      "title": "House Democrats Criticize Justice Dept. Support of OpenAI in Copyright Suit",
+      "dek": "In a court filing, top Democrats on the Judiciary Committee indicated their support for publishers in a lawsuit led by The New York Times.",
+      "aiSummary": "Top Democrats on the House Judiciary Committee filed a court document criticizing the Justice Department's support of OpenAI. The filing indicates their backing for publishers, including The New York Times, in an ongoing copyright lawsuit.",
+      "articleUrl": "https://www.nytimes.com/2026/10/30/technology/house-democrats-openai-copyright-lawsuit.html",
+      "category": "Legal",
+      "filterTags": [
+        "OpenAI",
+        "The New York Times",
+        "Justice Department",
+        "House Judiciary Committee"
+      ],
+      "publishedAt": "2026-10-30T20:30:42+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Politics"
+        }
+      ]
+    },
+    {
+      "slug": "the-biggest-names-in-ai-are-backing-a-new-way-to-opt-out-of-scraping",
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "dek": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI compani",
+      "aiSummary": "OpenAI, Google, Microsoft, and Anthropic announced they will adopt a new standard that allows publishers to opt out of AI scraping. The standard lets publishers set AI training preferences that apply across multiple AI companies.",
+      "articleUrl": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "OpenAI",
+        "Google",
+        "Microsoft",
+        "Anthropic",
+        "AI scraping"
+      ],
+      "publishedAt": "2026-10-30T20:26:10+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Data Privacy"
+        },
+        {
+          "name": "Publishing"
+        }
+      ]
+    },
+    {
+      "slug": "b12017",
+      "title": "b12017",
+      "dek": "rpc : delete fs_path_to_utf8() ( #31424 ) \n Signed-off-by: Adrien Gallouët  angt@huggingface.co \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/61919870 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silico",
+      "aiSummary": "The commit removes the fs_path_to_utf8() function from the RPC module, signed by Adrien Gallouët. It references the llama.app website and provides attestations for the llama.cpp project. The release supports macOS and iOS on Apple Silicon (arm64).",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12017",
+      "category": "Software Development",
+      "filterTags": [
+        "rpc",
+        "fs_path_to_utf8",
+        "llama.cpp",
+        "Apple Silicon",
+        "arm64",
+        "huggingface"
+      ],
+      "publishedAt": "2026-10-30T20:23:45+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Operating Systems"
+        }
+      ]
+    },
+    {
+      "slug": "meta-settles-another-social-media-addiction-case-just-before-trial",
+      "title": "Meta settles another social media addiction case just before trial",
+      "dek": "Snap is now the only defendant in the case.",
+      "aiSummary": "Meta has settled a social media addiction lawsuit just prior to the start of the trial. As a result of this settlement, Snap is now the only remaining defendant in the case.",
+      "articleUrl": "https://www.engadget.com/2302956/meta-settles-another-social-media-addiction-case-just-before-trial/",
+      "category": "Legal",
+      "filterTags": [
+        "Meta",
+        "Snap"
+      ],
+      "publishedAt": "2026-10-30T20:21:28+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Social Media"
+        }
+      ]
+    },
+    {
+      "slug": "reddit-stock-plunges-29-after-weak-outlook-wrapping-its-worst-day-ever",
+      "title": "Reddit stock plunges 29% after weak outlook, wrapping its worst day ever",
+      "dek": "Reddit shares sank on Friday after the company issued weak Q4 sales guidance and announced it will test requiring users to log in to see content.",
+      "aiSummary": "Reddit's stock dropped 29% on Friday following the release of weak Q4 sales guidance. The company also announced it will test a login requirement for viewing content.",
+      "articleUrl": "https://www.cnbc.com/2026/10/30/reddit-stock-q3-earnings.html",
+      "category": "Finance",
+      "filterTags": [
+        "Reddit",
+        "Q4 sales guidance",
+        "login requirement"
+      ],
+      "publishedAt": "2026-10-30T20:11:12+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Social Media"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "bluesky-now-has-a-dedicated-moderation-inbox",
+      "title": "Bluesky now has a dedicated 'moderation inbox'",
+      "dek": "The beta feature makes it easier to stay on top of reports and account strikes.",
+      "aiSummary": "Bluesky has launched a beta moderation inbox feature. It helps users manage reports and account strikes more efficiently.",
+      "articleUrl": "https://www.engadget.com/2302932/bluesky-now-has-a-dedicated-moderation-inbox/",
+      "category": "Social Media",
+      "filterTags": [
+        "Bluesky",
+        "moderation inbox"
+      ],
+      "publishedAt": "2026-10-30T20:07:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Social Media"
+        },
+        {
+          "name": "Moderation"
+        },
+        {
+          "name": "User Experience"
+        }
+      ]
+    },
+    {
+      "slug": "iphone-demand-sees-apple-topple-nvidia-as-most-valuable-company-again",
+      "title": "iPhone demand sees Apple topple Nvidia as most valuable company, again",
+      "dek": "Tech stocks have been a bloodbath this last week, but Apple's  iPhone  has supported the company enough with it once more taking the top spot as the most valuable firm in the world. Apple's valuation is down, but the largest in the world That top spot has been going  back and for",
+      "aiSummary": "Despite a recent decline in tech stocks, Apple has reclaimed the title of the world's most valuable company from Nvidia. This shift is attributed to strong demand for the iPhone, which has supported Apple's valuation even as it remains lower than previous peaks.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/30/iphone-demand-sees-apple-topple-nvidia-as-most-valuable-company-again?utm_source=rss",
+      "category": "Technology",
+      "filterTags": [
+        "Apple",
+        "Nvidia",
+        "iPhone",
+        "Tech stocks"
+      ],
+      "publishedAt": "2026-10-30T20:04:43+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "i-read-anthropic-s-92-page-risk-factor-document-so-you-don-t-have-to-video-explainer",
+      "title": "I read Anthropic's 92-page risk factor document, so you don't have to – video explainer",
+      "dek": "Anthropic, the creator of Claude, filed to go public on the US stock market on 26 October. The company's filing statement contains a 92-page risk factor document in which it acknowledges the dangers that AI poses to society and human beings, and factors that could negatively affe",
+      "aiSummary": "Anthropic, the company behind Claude, filed an IPO on October 26 and included a 92‑page risk‑factor document in its filing. The document acknowledges the dangers AI poses to society and humans, and lists factors that could negatively affect the company. The video explains the contents of that document for viewers.",
+      "articleUrl": "https://www.theguardian.com/global/video/2026/oct/30/anthropic-92-page-risk-factor-document-ipo-filing-video-explainer",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Anthropic",
+        "Claude",
+        "AI"
+      ],
+      "publishedAt": "2026-10-30T19:57:13+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Regulation"
+        }
+      ]
+    },
+    {
+      "slug": "binance-hack-investigators-in-a-cat-and-mouse-game-to-recover-6-3-billion-in-stolen-funds",
+      "title": "Binance hack: Investigators in a 'cat and mouse game' to recover $6.3 billion in stolen funds",
+      "dek": "More than $6 billion in crypto was stolen from Binance, setting off a race to recover the funds before North Korea-linked hackers can launder them into cash.",
+      "aiSummary": "Binance lost over $6 billion in cryptocurrency. Authorities are racing to recover the money before North Korea-linked hackers can launder it into cash.",
+      "articleUrl": "https://www.cnbc.com/2026/10/30/binance-hack-stolen-crypto-recovery.html",
+      "category": "Cryptocurrency",
+      "filterTags": [
+        "Binance",
+        "North Korea",
+        "crypto"
+      ],
+      "publishedAt": "2026-10-30T19:27:03+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cryptocurrency"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Investigations"
+        }
+      ]
+    },
+    {
+      "slug": "everything-you-need-to-know-about-googlebooks",
+      "title": "Everything you need to know about Googlebooks",
+      "dek": "Despite good initial hardware, the Googlebook OS still needs a lot of work.",
+      "aiSummary": "The Googlebook OS has promising hardware, but it still requires significant improvements. Users have noted that while the device performs well out of the box, many features are incomplete or buggy.",
+      "articleUrl": "https://www.engadget.com/2302681/everything-you-need-to-know-about-googlebooks/",
+      "category": "Hardware",
+      "filterTags": [
+        "Googlebooks",
+        "Googlebook OS",
+        "hardware"
+      ],
+      "publishedAt": "2026-10-30T19:00:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Operating Systems"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "reid-hoffman-gives-millions-to-dems-in-late-spending-spree-as-epstein-fight-spills-into-election",
+      "title": "Reid Hoffman gives millions to Dems in late spending spree as Epstein fight spills into election",
+      "dek": "Reid Hoffman has given $8 million to Wisconsin Democrats backing David Crowley as Tom Tiffany attacks Hoffman's past ties to Jeffrey Epstein.",
+      "aiSummary": "Reid Hoffman donated $8 million to Wisconsin Democrats supporting David Crowley. The contribution came as Tom Tiffany criticized Hoffman for his past connections to Jeffrey Epstein.",
+      "articleUrl": "https://www.cnbc.com/2026/10/30/reid-hoffman-democrats-epstein-midterms-2026.html",
+      "category": "Politics",
+      "filterTags": [
+        "Reid Hoffman",
+        "Wisconsin Democrats",
+        "David Crowley",
+        "Tom Tiffany",
+        "Jeffrey Epstein"
+      ],
+      "publishedAt": "2026-10-30T18:32:17+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Campaign Finance"
+        },
+        {
+          "name": "Political Scandal"
+        }
+      ]
+    },
+    {
+      "slug": "tech-sell-off-drives-us-markets-down-by-nearly-1tn-after-subpar-earnings-reports",
+      "title": "Tech sell-off drives US markets down by nearly $1tn after subpar earnings reports",
+      "dek": "Big tech stocks falter as investors question whether billions being poured into AI can generate returns quickly enough A sell-off of tech stocks that began earlier this month and gained steam with disappointing earnings from leading tech companies drove US markets down by hundred",
+      "aiSummary": "US markets experienced a significant decline of nearly $1 trillion following a sell-off in tech stocks. This downturn was triggered by disappointing earnings reports from major tech companies, which led investors to question the speed of returns on billions of dollars invested in AI.",
+      "articleUrl": "https://www.theguardian.com/technology/2026/oct/30/tech-stocks-drop-earnings-report",
+      "category": "Finance",
+      "filterTags": [
+        "US markets",
+        "Tech stocks",
+        "AI",
+        "Earnings reports"
+      ],
+      "publishedAt": "2026-10-30T18:27:51+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "google-8217-s-satellite-ai-server-transmits-its-first-response-to-earth",
+      "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
+      "dek": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku abo",
+      "aiSummary": "Google announced that its satellite equipped with AI chips successfully booted up its Tensor Processing Units (TPUs). This allowed the on-board Gemma 4 model to process a prompt and generate a haiku from space.",
+      "articleUrl": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "category": "AI",
+      "filterTags": [
+        "Google",
+        "TPU",
+        "Gemma 4",
+        "Satellite"
+      ],
+      "publishedAt": "2026-10-30T18:21:38+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Space Technology"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "android-17-adoption-hits-a-staggering-1-why-you-really-should-update-now",
+      "title": "Android 17 adoption hits a staggering 1% – why you really should update now",
+      "dek": "Only a quarter of Android phones have even made it to Android 16.",
+      "aiSummary": "Android 17 adoption is only 1%, while only 25% of Android phones have reached Android 16.",
+      "articleUrl": "https://www.zdnet.com/tech/android-17-os-adoption-numbers-october-2026/",
+      "category": "Mobile",
+      "filterTags": [
+        "Android",
+        "Android 17",
+        "Android 16"
+      ],
+      "publishedAt": "2026-10-30T18:18:24+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Mobile"
+        },
+        {
+          "name": "Operating Systems"
+        },
+        {
+          "name": "Software Updates"
+        }
+      ]
+    },
+    {
+      "slug": "i-rely-on-this-apple-maps-feature-tons-of-people-don-t-know-exists",
+      "title": "I rely on this Apple Maps feature tons of people don't know exists",
+      "dek": "After being a Google Maps stalwart, I'm now an  Apple Maps  convert. This is all thanks to a feature that has been a huge help whether I'm traveling longer distances or just heading out for groceries. Apple Maps can do more than just show you your route The feature in question is",
+      "aiSummary": "The author, previously a Google Maps user, switched to Apple Maps because of a helpful feature that assists with long trips and grocery runs. Apple Maps offers more than just directions. The specific feature is not named in the snippet.",
+      "articleUrl": "https://appleinsider.com/articles/26/10/30/i-rely-on-this-apple-maps-feature-tons-of-people-dont-know-exists?utm_source=rss",
+      "category": "Mapping",
+      "filterTags": [
+        "Apple Maps",
+        "Google Maps"
+      ],
+      "publishedAt": "2026-10-30T18:05:18+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Mapping"
+        },
+        {
+          "name": "Navigation"
+        },
+        {
+          "name": "Mobile Apps"
+        }
+      ]
+    },
+    {
+      "slug": "nemotron-halloween",
+      "title": "nemotron-halloween",
+      "dek": "A project or release named nemotron-halloween.",
+      "aiSummary": "The provided text contains only the title 'nemotron-halloween' and no additional description or body content. Therefore, no factual summary can be generated based on the available information.",
+      "articleUrl": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "category": "AI",
+      "filterTags": [
+        "nemotron-halloween"
+      ],
+      "publishedAt": "2026-10-30T17:57:24+00:00",
+      "publisher": {
+        "name": "Hugging Face",
+        "domain": "huggingface.co",
+        "website": "https://huggingface.co/",
+        "logoUrl": "https://huggingface.co/front/thumbnails/v2-2.png",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "meet-tokeneconomizer-microsoft-s-plugin-that-cuts-coding-agent-costs-by-up-to-30-9",
+      "title": "Meet TokenEconomizer: Microsoft’s Plugin That Cuts Coding Agent Costs by Up to 30.9%",
+      "dek": "Microsoft Research and UC Berkeley released TokenEconomizer, an open-source plugin that learns from past sessions to cut coding agent token costs by 18.4% to 30.9% on SWE-Bench, with no change to the agent. \n The post  Meet TokenEconomizer: Microsoft’s Plugin That Cuts Coding Age",
+      "aiSummary": "Microsoft Research and UC Berkeley have released TokenEconomizer, an open-source plugin designed to reduce token costs for coding agents. The tool learns from previous sessions to achieve cost savings of 18.4% to 30.9% on the SWE-Bench benchmark without requiring modifications to the underlying agent.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/30/microsoft-tokeneconomizer-coding-agent-cost-control/",
+      "category": "AI",
+      "filterTags": [
+        "Microsoft Research",
+        "UC Berkeley",
+        "TokenEconomizer",
+        "SWE-Bench",
+        "Open Source"
+      ],
+      "publishedAt": "2026-10-30T17:53:37+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Developer Tools"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "zest-s-new-ai-agent-finds-restaurants-and-books-reservations-over-text",
+      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "dek": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+      "aiSummary": "Zest has introduced an AI concierge that helps groups decide where to dine. It aggregates individual preferences, presents restaurant choices for voting, and then books the selected reservation.",
+      "articleUrl": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Zest",
+        "AI concierge"
+      ],
+      "publishedAt": "2026-10-30T17:47:12+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Consumer Services"
+        },
+        {
+          "name": "Food & Beverage"
+        }
+      ]
+    },
+    {
+      "slug": "was-i-wrong-about-open-models-cyber-risks",
+      "title": "Was I wrong about open models & cyber risks?",
+      "dek": "Last week coined the term “Black October“ after an onslaught of critical vulnerability disclosures, including PHP2Shell and GitLab, signified the moment when the cyber risks of AI models started to materialize.",
+      "aiSummary": "The author coined \"Black October\" to describe a wave of major vulnerability disclosures, such as PHP2Shell and GitLab, that highlighted the emerging cyber risks associated with AI models. This period marked the point where the dangers of open AI models became evident.",
+      "articleUrl": "https://www.interconnects.ai/p/was-i-wrong-about-open-models-and",
+      "category": "Cybersecurity",
+      "filterTags": [
+        "Black October",
+        "PHP2Shell",
+        "GitLab",
+        "AI models"
+      ],
+      "publishedAt": "2026-10-30T17:36:56+00:00",
+      "publisher": {
+        "name": "Nathan Lambert",
+        "domain": "interconnects.ai",
+        "website": "https://www.interconnects.ai/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=interconnects.ai&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=interconnects.ai&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "Artificial Intelligence"
+        }
+      ]
+    },
+    {
+      "slug": "ai-security-agents-compared-claude-codex-mantis-cloudflare",
+      "title": "AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare",
+      "dek": "Anthropic, OpenAI, Cloudflare and Google each released an AI agent that hunts security bugs in source code. All 4 use the same find, disprove, then patch loop. Here is how they differ, plus 12 more tools. \n The post  AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare ",
+      "aiSummary": "Anthropic, OpenAI, Cloudflare, and Google have each launched AI agents designed to identify security vulnerabilities in source code. These tools operate using a consistent process of finding, disproving, and patching bugs, though they differ in specific implementations. The article also highlights twelve additional tools in this category.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/30/ai-security-agents-claude-codex-mantis-cloudflare/",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "OpenAI",
+        "Cloudflare",
+        "Google",
+        "Claude",
+        "Codex",
+        "Mantis",
+        "Security",
+        "Source Code"
+      ],
+      "publishedAt": "2026-10-30T17:34:15+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock",
+      "title": "How Worldwide Express automated freight exceptions with Amazon Bedrock",
+      "dek": "Worldwide Express automated its less-than-truckload freight billing-exception process with a multi-agent solution built on Amazon Bedrock. Six months after launch, the company cut active exceptions by 75%, improved time-to-cash by four weeks, and unlocked $10 million in free cash",
+      "aiSummary": "Worldwide Express implemented a multi-agent solution on Amazon Bedrock to automate its less‑than‑truckload freight billing‑exception process. Within six months, the system cut active exceptions by 75%, shortened time‑to‑cash by four weeks, and generated $10 million in free cash.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock/",
+      "category": "Supply Chain",
+      "filterTags": [
+        "Amazon Bedrock",
+        "Worldwide Express",
+        "multi-agent solution"
+      ],
+      "publishedAt": "2026-10-30T17:32:20+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Supply Chain"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Automation"
+        }
+      ]
+    },
+    {
+      "slug": "samsung-adds-better-sleep-tracking-to-galaxy-watches-here-s-what-to-expect",
+      "title": "Samsung adds better sleep tracking to Galaxy Watches – here’s what to expect",
+      "dek": "The FDA-approved sleep apnea tracking feature will first come to the Galaxy Watch Ultra 2, Watch 9, and Ring.",
+      "aiSummary": "Samsung is introducing an FDA-approved sleep apnea tracking feature to its wearable lineup. This new capability will initially be available on the Galaxy Watch Ultra 2, Watch 9, and Galaxy Ring.",
+      "articleUrl": "https://www.zdnet.com/health/advanced-sleep-apnea-tracking-galaxy-watches/",
+      "category": "Wearables",
+      "filterTags": [
+        "Samsung",
+        "Galaxy Watch Ultra 2",
+        "Galaxy Watch 9",
+        "Galaxy Ring",
+        "FDA",
+        "Sleep Apnea"
+      ],
+      "publishedAt": "2026-10-30T17:29:50+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Wearables"
+        },
+        {
+          "name": "Health Tech"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "i-m-finally-ready-for-a-smart-calendar-why-the-echo-show-16-stands-out",
+      "title": "I’m finally ready for a smart calendar – why the Echo Show 16 stands out",
+      "dek": "I’m finally ready to upgrade to a smart calendar – and Amazon’s newest Echo device looks like an organizational solution for my family and I.",
+      "aiSummary": "The author expresses readiness to upgrade to a smart calendar system. They identify Amazon's newest Echo device, the Echo Show 16, as a promising organizational solution for their family.",
+      "articleUrl": "https://www.zdnet.com/home-and-office/im-finally-ready-for-a-smart-calendar-why-the-echo-show-16-stands-out/",
+      "category": "Smart Home",
+      "filterTags": [
+        "Echo Show 16",
+        "Amazon",
+        "Smart Calendar"
+      ],
+      "publishedAt": "2026-10-30T17:23:50+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Smart Home"
+        },
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Productivity"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1793395189-ci-metrics-skill-include-suggestion-on-hud-pages-202708",
+      "title": "viable/strict/1793395189: ci-metrics skill: include suggestion on HUD pages (#202708)",
+      "dek": "Summary \n TSIA. The HUD pages are often a easier to read and understand for humans. Land after  pytorch/test-infra#9282 \nPull Request resolved:  #202708 \nApproved by:  https://github.com/georgehong",
+      "aiSummary": "This pull request updates the CI metrics skill to include a suggestion on HUD pages, which are noted as being easier for humans to read and understand. The change is scheduled to land after the related pytorch/test-infra#9282 update and was approved by georgehong.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1793395189",
+      "category": "DevOps",
+      "filterTags": [
+        "PyTorch",
+        "CI",
+        "HUD",
+        "test-infra"
+      ],
+      "publishedAt": "2026-10-30T16:58:17+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1793393438-mps-add-adaptive-avg-pool3d-201754",
+      "title": "viable/strict/1793393438: [MPS] Add adaptive_avg_pool3d (#201754)",
+      "dek": "adaptive_avg_pool3d (and  interpolate(mode=\"area\")  on 5D inputs, which calls it) was not implemented on MPS. \n It reuses the 2D implementation from the previous PR instead of adding 3D copies, so this change is host-side only. All the Metal kernels already handle 3 pooling dims:",
+      "aiSummary": "The patch adds support for adaptive_avg_pool3d and interpolate(mode=\"area\") on 5‑D inputs to the Metal Performance Shaders backend. It reuses the existing 2‑D implementation instead of writing new 3‑D kernels, making the change host‑side only. The Metal kernels already handle three pooling dimensions.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1793393438",
+      "category": "Hardware",
+      "filterTags": [
+        "MPS",
+        "adaptive_avg_pool3d",
+        "interpolate",
+        "Metal"
+      ],
+      "publishedAt": "2026-10-30T16:27:32+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1793391862",
+      "title": "viable/strict/1793391862",
+      "dek": "[ROCm] Fix wrong CK addmm results on gfx950 and unskip the tests ( #20 …",
+      "aiSummary": "The ROCm project has fixed an issue where the CK addmm operation produced incorrect results on gfx950 GPUs. The update also removes test skips that were previously in place. This resolves the problem and restores full test coverage.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1793391862",
+      "category": "Hardware",
+      "filterTags": [
+        "ROCm",
+        "CK",
+        "gfx950",
+        "addmm"
+      ],
+      "publishedAt": "2026-10-30T15:49:13+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "making-it-easier-for-websites-to-express-ai-training-preferences",
+      "title": "Making it easier for websites to express AI training preferences",
+      "dek": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "aiSummary": "OpenAI will respect a shared robots.txt signal to allow website operators to communicate their preferences regarding AI training to participating providers. This mechanism aims to simplify how sites express their stance on data usage for AI models.",
+      "articleUrl": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "robots.txt",
+        "AI training"
+      ],
+      "publishedAt": "2026-10-30T09:30:00+00:00",
+      "publisher": {
+        "name": "OpenAI",
+        "domain": "openai.com",
+        "website": "https://openai.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Web Standards"
+        }
+      ]
+    }
+  ]
+}
