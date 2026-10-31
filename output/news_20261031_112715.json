@@ -1,0 +1,734 @@
+{
+  "news": [
+    {
+      "slug": "entire-insurance-industry-could-be-overwhelmed-by-catastrophic-ai-event",
+      "title": "Entire Insurance industry could be overwhelmed by catastrophic AI event",
+      "dek": "The insurance sector might be unable to handle the financial impact of a major AI disaster.",
+      "aiSummary": "The provided text contains only a title and no descriptive content. Therefore, no factual summary can be generated based on the article body.",
+      "articleUrl": "https://www.intelligentinsurer.com/entire-insurance-industry-could-be-overwhelmed-by-catastrophic-ai-event-anthropic",
+      "category": "Insurance",
+      "filterTags": [
+        "Insurance",
+        "AI"
+      ],
+      "publishedAt": "2026-10-31T11:02:58+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Insurance"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "google-joins-openai-and-anthropic-in-promising-new-scraping-controls",
+      "title": "Google joins OpenAI and Anthropic in promising new scraping controls",
+      "dek": "Google, OpenAI, Anthropic and Microsoft pledge to support a new common signal for robots.txt that blocks scraping for AI training.",
+      "aiSummary": "Google, OpenAI, Anthropic, and Microsoft have pledged to support a new common signal within robots.txt. This update is designed to allow websites to block scraping specifically for AI training purposes.",
+      "articleUrl": "https://www.engadget.com/2303225/google-openai-anthropic-ai-crawling-controls/",
+      "category": "AI",
+      "filterTags": [
+        "Google",
+        "OpenAI",
+        "Anthropic",
+        "Microsoft",
+        "robots.txt",
+        "AI training"
+      ],
+      "publishedAt": "2026-10-31T10:34:31+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Web Standards"
+        },
+        {
+          "name": "Data Privacy"
+        }
+      ]
+    },
+    {
+      "slug": "binance-in-talks-for-malaysia-license-after-five-year-absence",
+      "title": "Binance in Talks for Malaysia License after Five-Year Absence",
+      "dek": "Binance said it’s in discussions with Malaysian regulators for a licensed business in the country, as the cryptocurrency exchange seeks a route back into a market where authorities have blocked its website and applications.",
+      "aiSummary": "Binance has entered discussions with Malaysian regulators to secure a license for its business operations. This move aims to re-enter the Malaysian market, where the exchange's website and applications have previously been blocked by local authorities.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-31/binance-in-talks-for-malaysia-license-after-five-year-absence",
+      "category": "Crypto",
+      "filterTags": [
+        "Binance",
+        "Malaysia",
+        "Regulation",
+        "Cryptocurrency"
+      ],
+      "publishedAt": "2026-10-31T10:30:38+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Crypto"
+        },
+        {
+          "name": "Regulation"
+        }
+      ]
+    },
+    {
+      "slug": "meta-s-muse-could-upend-all-kinds-of-businesses-it-hasn-t-yet",
+      "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+      "dek": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
+      "aiSummary": "Companies have spent recent weeks attempting to convince investors that AI agents like Meta's Muse represent an opportunity rather than a threat. Despite the potential for disruption, Muse has not yet upended businesses.",
+      "articleUrl": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+      "category": "AI",
+      "filterTags": [
+        "Meta",
+        "Muse",
+        "AI agents"
+      ],
+      "publishedAt": "2026-10-31T10:30:00+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Business Strategy"
+        }
+      ]
+    },
+    {
+      "slug": "vercel-labs-open-sources-agent-desktop-for-agent-computer-use",
+      "title": "Vercel Labs Open-Sources agent-desktop for Agent Computer Use",
+      "dek": "Vercel Labs released agent-desktop, an Apache-2.0 Rust CLI that gives any AI agent computer use on macOS, Windows and Linux by reading OS accessibility trees and acting on stable refs instead of pixels. \n The post  Vercel Labs Open-Sources agent-desktop for Agent Computer Use  ap",
+      "aiSummary": "Vercel Labs has released agent-desktop, an Apache-2.0 licensed Rust CLI that enables AI agents to use computers on macOS, Windows, and Linux. The tool operates by reading OS accessibility trees and interacting with stable references rather than relying on pixel-based inputs.",
+      "articleUrl": "https://www.marktechpost.com/2026/10/31/vercel-labs-agent-desktop-computer-use/",
+      "category": "AI",
+      "filterTags": [
+        "Vercel Labs",
+        "agent-desktop",
+        "Rust",
+        "CLI",
+        "Apache-2.0",
+        "macOS",
+        "Windows",
+        "Linux"
+      ],
+      "publishedAt": "2026-10-31T10:10:28+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "an-ai-agent-injected-drugs-into-a-live-mouse-s-brain",
+      "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+      "dek": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
+      "aiSummary": "A biotech startup allowed an AI agent to select a gene therapy and successfully inject it into a live mouse. This event provides a preview of how autonomous agents may operate in future research laboratories.",
+      "articleUrl": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+      "category": "AI",
+      "filterTags": [
+        "AI Agent",
+        "Gene Therapy",
+        "Biotech"
+      ],
+      "publishedAt": "2026-10-31T10:00:00+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Biotechnology"
+        }
+      ]
+    },
+    {
+      "slug": "the-supercomputer-powering-greece-s-ai-ambitions",
+      "title": "The supercomputer powering Greece's AI ambitions",
+      "dek": "The high-performance computer supporting Greece's artificial intelligence goals",
+      "aiSummary": "The article discusses the supercomputer that is central to Greece's efforts to advance its artificial intelligence capabilities. It highlights the role of this infrastructure in supporting the nation's AI ambitions.",
+      "articleUrl": "https://www.ekathimerini.com/economy/1319798/inside-the-supercomputer-powering-greeces-ai-ambitions/",
+      "category": "AI",
+      "filterTags": [
+        "Greece",
+        "Supercomputer",
+        "AI"
+      ],
+      "publishedAt": "2026-10-31T09:56:52+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "show-hn-jj-suna-ai-open-5b-flow-matching-dit-for-48-khz-music-synthesis",
+      "title": "Show HN: JJ Suna AI – Open 5B Flow-Matching DiT for 48 KHz Music Synthesis",
+      "dek": "A new open-source AI model for creating music at high audio quality is being shared.",
+      "aiSummary": "JJ Suna AI is an open-source 5B parameter Flow-Matching DiT model designed for music synthesis. It supports 48 KHz audio output, allowing for high-fidelity sound generation.",
+      "articleUrl": "https://suna.jjcoders.com/",
+      "category": "AI",
+      "filterTags": [
+        "JJ Suna AI",
+        "Flow-Matching",
+        "DiT",
+        "Music Synthesis",
+        "48 KHz"
+      ],
+      "publishedAt": "2026-10-31T09:55:29+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Audio"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "in-san-francisco-s-a-i-boom-a-first-date-has-become-an-interview",
+      "title": "In San Francisco’s A.I. Boom, a First Date Has Become an Interview",
+      "dek": "When there is A.I. to build, who has time for romance? Techies are going out less and expecting more on each date — including a family health history.",
+      "aiSummary": "The rapid growth of the AI sector in San Francisco has led many tech professionals to reduce their dating frequency while raising expectations for each encounter. These individuals often approach first dates with an interview-like mindset, seeking detailed personal information such as family health history.",
+      "articleUrl": "https://www.nytimes.com/2026/10/31/technology/san-francisco-ai-boom-dating.html",
+      "category": "Technology",
+      "filterTags": [
+        "San Francisco",
+        "AI",
+        "Tech Industry"
+      ],
+      "publishedAt": "2026-10-31T09:00:53+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Society"
+        }
+      ]
+    },
+    {
+      "slug": "softbank-backed-opay-halts-ipo-to-respond-to-regulatory-inquiry",
+      "title": "SoftBank-Backed OPay Halts IPO to Respond to Regulatory Inquiry",
+      "dek": "OPay Ltd., a Nigeria-focused payments platform, halted an initial public offering on the New York Stock Exchange that was supposed to start trading on Friday, citing a regulatory inquiry.",
+      "aiSummary": "OPay Ltd., a payments platform focused on Nigeria, halted its planned initial public offering on the New York Stock Exchange that was set to begin trading on Friday. The halt was due to a regulatory inquiry.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-31/softbank-backed-opay-halts-ipo-to-respond-to-regulatory-inquiry",
+      "category": "Finance",
+      "filterTags": [
+        "OPay",
+        "New York Stock Exchange",
+        "Nigeria"
+      ],
+      "publishedAt": "2026-10-31T08:48:16+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Regulation"
+        },
+        {
+          "name": "Payments"
+        }
+      ]
+    },
+    {
+      "slug": "b12020",
+      "title": "b12020",
+      "dek": "opencl: add fwht ( #31434 ) \n Co-authored-by: Li He  lih@qti.qualcomm.com \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/62071228 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silicon (arm64, KleidiAI ena",
+      "aiSummary": "This update to llama.cpp introduces the Fast Walsh-Hadamard Transform (FWHT) via OpenCL. The release includes support for macOS and iOS on Apple Silicon architectures, with contributions from Qualcomm.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12020",
+      "category": "AI",
+      "filterTags": [
+        "llama.cpp",
+        "OpenCL",
+        "FWHT",
+        "Qualcomm",
+        "Apple Silicon"
+      ],
+      "publishedAt": "2026-10-31T08:11:45+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-6024c944ec32853a785292d11e27cec5693c658d",
+      "title": "trunk/6024c944ec32853a785292d11e27cec5693c658d",
+      "dek": "[pt2][logging] Name TORCH_TRACE files with  RANK  env before dist ini…",
+      "aiSummary": "This change updates the logging system to name TORCH_TRACE files using the RANK environment variable before distributed initialization, ensuring trace files are correctly labeled in multi-process setups.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F6024c944ec32853a785292d11e27cec5693c658d",
+      "category": "Software Development",
+      "filterTags": [
+        "TORCH_TRACE",
+        "RANK",
+        "logging",
+        "PyTorch"
+      ],
+      "publishedAt": "2026-10-31T08:05:56+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Distributed Computing"
+        },
+        {
+          "name": "Logging"
+        }
+      ]
+    },
+    {
+      "slug": "relying-on-ai-is-rotting-your-brain-but-here-s-what-you-can-do-about-it-carly-dober",
+      "title": "Relying on AI is rotting your brain. But here’s what you can do about it | Carly Dober",
+      "dek": "Each new tech product is designed to make our lives easier and keep us mindlessly entertained. Switch off: embrace discomfort – and boredom Ever longed for your own personal assistant? In the ever quickening tech race, Meta has recently launched Muse, a  new AI personal agent . U",
+      "aiSummary": "The article argues that new technology products, such as Meta's recently launched AI personal agent Muse, are designed to keep users mindlessly entertained and may negatively impact cognitive function. It suggests that individuals should counteract this by embracing discomfort and boredom rather than relying on these tools for constant stimulation.",
+      "articleUrl": "https://www.theguardian.com/commentisfree/2026/oct/31/ai-rely-brain-new-tech-product-lives-boredom",
+      "category": "AI",
+      "filterTags": [
+        "Meta",
+        "Muse",
+        "AI personal agent"
+      ],
+      "publishedAt": "2026-10-31T08:00:37+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Wellness"
+        }
+      ]
+    },
+    {
+      "slug": "the-betting-coup-that-rocked-london-s-bookmakers-goes-unsolved",
+      "title": "The Betting Coup That Rocked London’s Bookmakers Goes Unsolved",
+      "dek": "Lisa Lazarus, the top cop in US horse racing, woke up one morning this summer to find a flurry of missed overseas calls and e-mails. They were all from UK regulators and they all delivered the same urgent message: a series of large, unusual and suspiciously successful wagers on U",
+      "aiSummary": "UK regulators urgently contacted Lisa Lazarus, the head of US horse racing regulation, regarding a series of large and suspiciously successful wagers. This betting coup, which significantly impacted London's bookmakers, has not yet been solved.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-31/the-betting-coup-that-rocked-london-s-bookmakers-goes-unsolved",
+      "category": "Gaming",
+      "filterTags": [
+        "Lisa Lazarus",
+        "UK regulators",
+        "horse racing",
+        "betting"
+      ],
+      "publishedAt": "2026-10-31T08:00:00+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "Regulation"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "a-spark-of-color-in-november-s-gray-2026-wallpapers-edition",
+      "title": "A Spark Of Color In November’s Gray (2026 Wallpapers Edition)",
+      "dek": "Let’s kick of November with a new collection of desktop wallpapers! Designed by creatives from across the globe, the wallpapers come in a variety of screen resolutions and can be downloaded for free. Enjoy!",
+      "aiSummary": "A new collection of desktop wallpapers is available to celebrate November. Created by designers worldwide, the wallpapers come in multiple screen resolutions and are free to download.",
+      "articleUrl": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/",
+      "category": "Digital Art",
+      "filterTags": [
+        "Desktop Wallpapers",
+        "Screen Resolutions",
+        "Free Download"
+      ],
+      "publishedAt": "2026-10-31T08:00:00+00:00",
+      "publisher": {
+        "name": "Smashing Magazine",
+        "domain": "smashingmagazine.com",
+        "website": "https://www.smashingmagazine.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=smashingmagazine.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=smashingmagazine.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Digital Art"
+        },
+        {
+          "name": "Software"
+        },
+        {
+          "name": "Design"
+        }
+      ]
+    },
+    {
+      "slug": "v0-33-0rc3",
+      "title": "v0.33.0rc3",
+      "dek": "[CI][Bugfix] Pin the ColUltraVBERT test checkpoint to the revision vL…",
+      "aiSummary": "This update is a release candidate for version 0.33.0. It includes a bug fix that pins the ColUltraVBERT test checkpoint to a specific revision.",
+      "articleUrl": "https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc3",
+      "category": "Software Development",
+      "filterTags": [
+        "ColUltraVBERT",
+        "CI",
+        "Bugfix"
+      ],
+      "publishedAt": "2026-10-31T07:15:45+00:00",
+      "publisher": {
+        "name": "vllm-project",
+        "domain": "github.com",
+        "website": "https://github.com/vllm-project/vllm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1793443823-test-quantization-enable-the-pt2e-max-pool2d-tests-on-xpu-195840",
+      "title": "viable/strict/1793443823: [test][quantization] Enable the pt2e max_pool2d tests on XPU (#195840)",
+      "dek": "Linked issue or supporting maintainer \n Part of  #142029 \n BC-breaking? \n No \n Summary \n Scope reduced to the PT2E/XPU part per review. \n \n The pt2e  max_pool2d  tests now run on XPU as well as CPU, so the torch-xpu-ops monkey-patch for them can be dropped. \n New  test_max_pool2d",
+      "aiSummary": "The patch extends the pt2e max_pool2d tests to run on XPU in addition to CPU, allowing removal of the torch-xpu-ops monkey-patch. The change focuses only on the PT2E/XPU portion after review.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1793443823",
+      "category": "Machine Learning",
+      "filterTags": [
+        "pt2e",
+        "max_pool2d",
+        "XPU",
+        "torch-xpu-ops",
+        "quantization"
+      ],
+      "publishedAt": "2026-10-31T06:54:44+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Hardware Acceleration"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1793442015",
+      "title": "viable/strict/1793442015",
+      "dek": "[MPS] Relax the fp16 tolerance for combinations backward in TestConsi…",
+      "aiSummary": "The MPS test suite is relaxing the fp16 tolerance for combinations backward in TestCons. This change is intended to address precision issues.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1793442015",
+      "category": "Testing",
+      "filterTags": [
+        "MPS",
+        "fp16"
+      ],
+      "publishedAt": "2026-10-31T06:26:02+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Testing"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "b12019",
+      "title": "b12019",
+      "dek": "chat : strip the think block in the qwen3-coder with reasoning_format none ( #31380 ) \n \n chat : accept the think block in the qwen3-coder response format with reasoning_format none \n \n Assisted-by: Claude Opus 5.5 \n \n chat : define both qwen3-coder think block variants up front ",
+      "aiSummary": "The update modifies the chat functionality to strip the think block in Qwen3-Coder responses when the reasoning format is set to none. It also ensures that the system accepts the think block in the response format under these conditions and defines both variants of the think block upfront.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12019",
+      "category": "AI",
+      "filterTags": [
+        "Qwen3-Coder",
+        "reasoning_format",
+        "think block",
+        "Claude Opus 5.5"
+      ],
+      "publishedAt": "2026-10-31T05:23:25+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "LLM Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-coming",
+      "title": "[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?",
+      "dek": "It turns out you cannot have your cake AND eat it",
+      "aiSummary": "Google has admitted that its AI Mode is hurting search revenue, resulting in a 15% decline and a $500 billion drop—the worst since its 2004 IPO. The company warns that an AI bear market may be on the horizon.",
+      "articleUrl": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Google",
+        "AI",
+        "Search",
+        "AI Mode",
+        "AI Bear Market"
+      ],
+      "publishedAt": "2026-10-31T05:00:48+00:00",
+      "publisher": {
+        "name": "Latent Space",
+        "domain": "latent.space",
+        "website": "https://www.latent.space/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Business"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "is-this-the-first-clear-evidence-of-ai-s-impact-on-the-labour-market",
+      "title": "Is this the first clear evidence of AI’s impact on the labour market?",
+      "dek": "Productivity is up and employment is down in the tech sector but elsewhere the picture is muddier",
+      "aiSummary": "Recent data shows that while productivity has risen in the tech sector, employment has fallen. Outside of tech, the effects of AI on jobs are less clear. The evidence suggests a mixed impact of AI on the labor market.",
+      "articleUrl": "https://www.ft.com/content/7f27aa5f-5994-4f82-aed8-1cade18fb487?syn-25a6b1a6=1",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AI",
+        "Tech sector",
+        "Productivity",
+        "Employment"
+      ],
+      "publishedAt": "2026-10-31T05:00:31+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Labor Market"
+        },
+        {
+          "name": "Economics"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    }
+  ]
+}
