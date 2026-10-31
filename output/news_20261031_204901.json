@@ -1,0 +1,440 @@
+{
+  "news": [
+    {
+      "slug": "free-ai",
+      "title": "Free AI",
+      "dek": "AI that is available at no cost",
+      "aiSummary": "",
+      "articleUrl": "https://cloudy.chat/",
+      "category": "AI",
+      "filterTags": [],
+      "publishedAt": "2026-10-31T20:37:46+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "spacex-loses-bid-to-toss-naacp-lawsuit-over-memphis-data-center-air-pollution",
+      "title": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
+      "dek": "The Colossus data centers and a power plant that SpaceXAI is also building in Southaven, Mississippi, have faced community backlash for years.",
+      "aiSummary": "SpaceX lost its attempt to dismiss an NAACP lawsuit concerning air pollution from its Memphis data center. The lawsuit involves the Colossus data centers and a power plant being built by SpaceXAI in Southaven, Mississippi, which have long faced community backlash.",
+      "articleUrl": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
+      "category": "Legal",
+      "filterTags": [
+        "SpaceX",
+        "SpaceXAI",
+        "NAACP",
+        "Colossus data centers"
+      ],
+      "publishedAt": "2026-10-31T20:12:37+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Environment"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "xbox-manager-says-ai-is-already-being-used-in-game-development",
+      "title": "Xbox manager says AI is already being used in game development",
+      "dek": "Brandon Stirrup deleted his comments from X a day after saying that AI usage is widespread in the gaming industry.",
+      "aiSummary": "Brandon Stirrup, an Xbox manager, posted on X that AI is widely used in game development, but deleted the comments the next day.",
+      "articleUrl": "https://www.engadget.com/2302431/brandon-stirrup-xbox-manager-says-ai-used-game-development/",
+      "category": "Gaming",
+      "filterTags": [
+        "Xbox",
+        "AI"
+      ],
+      "publishedAt": "2026-10-31T20:00:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "Artificial Intelligence"
+        }
+      ]
+    },
+    {
+      "slug": "openai-pares-fundraising-goal-now-seeking-up-to-20-billion-in-latest-round",
+      "title": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
+      "dek": "The funding round is still in progress and has not closed, so the figures are subject to change, a person directly familiar with the deal told CNBC.",
+      "aiSummary": "OpenAI has reduced its fundraising target for its latest investment round to up to $20 billion. The deal is currently ongoing and has not yet closed, meaning the final figures remain subject to change.",
+      "articleUrl": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "CNBC"
+      ],
+      "publishedAt": "2026-10-31T19:56:23+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Venture Capital"
+        }
+      ]
+    },
+    {
+      "slug": "show-hn-read-your-character-ai-data-export-in-the-browser-nothing-uploaded",
+      "title": "Show HN: Read your Character.AI data export in the browser, nothing uploaded",
+      "dek": "A tool lets you view your Character.AI data export directly in your browser without uploading files.",
+      "aiSummary": "The project allows users to read their Character.AI data exports locally within the browser. It ensures privacy by processing the data without uploading it to any external servers.",
+      "articleUrl": "https://github.com/anima-universe/character-ai-export-viewer",
+      "category": "Privacy",
+      "filterTags": [
+        "Character.AI",
+        "Browser",
+        "Data Export"
+      ],
+      "publishedAt": "2026-10-31T19:53:20+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Privacy"
+        },
+        {
+          "name": "Web Development"
+        }
+      ]
+    },
+    {
+      "slug": "b12024",
+      "title": "b12024",
+      "dek": "reshaping so mm on 2d instead of 3d tensor for lfm sc ( #30831 )",
+      "aiSummary": "The change reshapes the matrix multiplication to operate on a 2D tensor instead of a 3D tensor for the LFM SC component. This modification is tracked under issue #30831.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12024",
+      "category": "Machine Learning",
+      "filterTags": [
+        "mm",
+        "2D tensor",
+        "3D tensor",
+        "LFM SC"
+      ],
+      "publishedAt": "2026-10-31T19:34:57+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "show-hn-castov-open-source-dev-tools-and-ai-secret-shield-with-zero-telemetry",
+      "title": "Show HN: Castov – Open-source dev tools and AI secret shield with zero telemetry",
+      "dek": "Castov is a free, open-source set of developer tools that protects AI secrets without collecting any user data.",
+      "aiSummary": "Castov is an open-source project providing development tools and an AI secret shield. It operates with zero telemetry to ensure privacy.",
+      "articleUrl": "https://castov.com",
+      "category": "Developer Tools",
+      "filterTags": [
+        "Castov",
+        "Open Source",
+        "AI",
+        "Dev Tools",
+        "Zero Telemetry"
+      ],
+      "publishedAt": "2026-10-31T19:30:14+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Developer Tools"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "b12023",
+      "title": "b12023",
+      "dek": "server: cap shared decision prefixes at the first output ( #30710 ) \n Limit the shared prefix to the first required output position of the parent and each child task. \nThis keeps decision output embeddings available in the final batch when questions share option tokens. \n Fixes  ",
+      "aiSummary": "The server commit caps shared decision prefixes at the first output, limiting the shared prefix to the first required output position of the parent and each child task. This change ensures that decision output embeddings remain available in the final batch when questions share option tokens. The commit addresses issue #30710.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12023",
+      "category": "Software Engineering",
+      "filterTags": [
+        "server",
+        "shared prefix",
+        "output embeddings",
+        "batch processing"
+      ],
+      "publishedAt": "2026-10-31T19:22:28+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Backend Development"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "b12022",
+      "title": "b12022",
+      "dek": "server : fix /v1/responses endpoint to accept extra_params ( #30959 ) \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/62172759 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silicon (arm64, KleidiAI enabled",
+      "aiSummary": "The server has been updated to allow the /v1/responses endpoint to accept an extra_params field, addressing issue #30959. The update is available on the llama.app website and supports macOS Apple Silicon (arm64) and iOS devices.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12022",
+      "category": "Open Source",
+      "filterTags": [
+        "llama.cpp",
+        "ggml-org",
+        "macOS",
+        "Apple Silicon",
+        "arm64",
+        "iOS",
+        "API endpoint",
+        "extra_params"
+      ],
+      "publishedAt": "2026-10-31T19:02:54+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "API"
+        }
+      ]
+    },
+    {
+      "slug": "disquiet-grows-in-albanese-s-back-yard-as-grayndler-artists-unite-against-insane-ai-proposal",
+      "title": "Disquiet grows in Albanese’s back yard as Grayndler artists unite against ‘insane’ AI proposal",
+      "dek": "Inner west Sydney seat has long been safely held by the PM – but potential changes to copyright laws are angering its large creative community Get our  daily political email ,  free app  or  daily news podcast The prime minister is facing growing discontent within his own elector",
+      "aiSummary": "Artists in the Inner West Sydney electorate, traditionally a safe seat for Prime Minister Albanese, are uniting to oppose proposed changes to copyright laws. The creative community describes the AI-related proposal as 'insane,' leading to growing political discontent within the Prime Minister's own backyard.",
+      "articleUrl": "https://www.theguardian.com/australia-news/2026/nov/01/artists-against-ai-proposal-anthony-albanese-grayndler-sydney-inner-west",
+      "category": "Politics",
+      "filterTags": [
+        "Albanese",
+        "Grayndler",
+        "AI",
+        "Copyright",
+        "Sydney"
+      ],
+      "publishedAt": "2026-10-31T19:00:52+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Media"
+        }
+      ]
+    },
+    {
+      "slug": "the-best-roku-streaming-stick-depends-on-your-picture-quality-needs",
+      "title": "The best Roku Streaming Stick depends on your picture quality needs",
+      "dek": "Roku only sells one streaming device that doesn't support 4K output.",
+      "aiSummary": "Roku offers a range of streaming sticks where the optimal choice is determined by the user's desired picture quality. Notably, the company currently markets only one streaming device that lacks 4K output capabilities.",
+      "articleUrl": "https://www.engadget.com/2302428/best-roku-streaming-stick-depends-on-picture-quality-needs/",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Roku",
+        "Streaming Stick",
+        "4K"
+      ],
+      "publishedAt": "2026-10-31T19:00:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Streaming Media"
+        }
+      ]
+    },
+    {
+      "slug": "why-your-airpods-keep-disconnecting-without-warning-these-settings-can-fix-it",
+      "title": "Why your AirPods keep disconnecting without warning: These settings can fix it",
+      "dek": "Handy features of your AirPods can be overzealous, leading to disconnections and unwanted device swapping.",
+      "aiSummary": "Certain AirPods features can cause frequent disconnections and unwanted device switching. The article explains which settings can be tweaked to prevent these issues.",
+      "articleUrl": "https://www.engadget.com/2298547/why-mac-keeps-disconnecting-airpods/",
+      "category": "Hardware",
+      "filterTags": [
+        "AirPods",
+        "Apple"
+      ],
+      "publishedAt": "2026-10-31T18:45:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Audio"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1793478009",
+      "title": "viable/strict/1793478009",
+      "dek": "[Opsmate Oncall Operator] Run test_conv_bias_no_extra_cast_for_fp32 w…",
+      "aiSummary": "The Opsmate Oncall Operator executed the test_conv_bias_no_extra_cast_for_fp32 test.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1793478009",
+      "category": "Testing",
+      "filterTags": [
+        "Opsmate",
+        "Oncall Operator",
+        "test_conv_bias_no_extra_cast_for_fp32"
+      ],
+      "publishedAt": "2026-10-31T13:54:30+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Testing"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    }
+  ]
+}
