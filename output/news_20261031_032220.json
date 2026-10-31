@@ -1,0 +1,893 @@
+{
+  "news": [
+    {
+      "slug": "report-of-the-summit-on-math-research-in-the-age-of-ai",
+      "title": "Report of the Summit on Math Research in the Age of AI",
+      "dek": "A report details findings from a summit focused on mathematical research in the era of artificial intelligence.",
+      "aiSummary": "The provided text contains only the title of a report regarding a summit on mathematical research in the age of AI. No specific details, findings, or participants are included in the description.",
+      "articleUrl": "https://terrytao.wordpress.com/2026/10/30/__trashed/",
+      "category": "AI",
+      "filterTags": [
+        "Mathematics",
+        "AI"
+      ],
+      "publishedAt": "2026-10-31T03:08:55+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Research"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-17782e7b075561f13080cb9c84a253c3ffe7c5d9-kineto-reland-honor-kineto-use-daemon-201486-201486",
+      "title": "trunk/17782e7b075561f13080cb9c84a253c3ffe7c5d9: [kineto] Reland: honor KINETO_USE_DAEMON (#201486) (#201486)",
+      "dek": "Summary: \n This relands D125330039 (Fix a bug where we broke the contract for KINETO_USE_DAEMON), which D126160995 (Revert D125330039: [kineto] Fix a bug where we broke the contract for KINETO_USE_DAEMON) reverted. This version addresses the PyTorch review by adding a regression ",
+      "aiSummary": "This commit relands a previous change that fixed a bug regarding the KINETO_USE_DAEMON contract in the Kineto profiler. The original fix had been reverted, but this new version addresses PyTorch review feedback by including a regression test.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F17782e7b075561f13080cb9c84a253c3ffe7c5d9",
+      "category": "Machine Learning",
+      "filterTags": [
+        "Kineto",
+        "PyTorch",
+        "KINETO_USE_DAEMON"
+      ],
+      "publishedAt": "2026-10-31T02:45:58+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "hi3d-launches-ai-3d-model-with-2048-voxel-resolution",
+      "title": "Hi3D Launches AI 3D Model with 2048³ Voxel Resolution",
+      "dek": "Hi3D releases a new AI 3D model featuring 2048-cube voxel resolution.",
+      "aiSummary": "Hi3D has launched a new AI 3D model that utilizes a 2048³ voxel resolution. The provided text does not contain further details regarding the model's capabilities or applications.",
+      "articleUrl": "https://3dprintingindustry.com/news/hi3d-launches-ai-3d-model-with-2048%C2%B3-voxel-resolution-254150/",
+      "category": "AI",
+      "filterTags": [
+        "Hi3D",
+        "AI",
+        "3D Model",
+        "Voxel"
+      ],
+      "publishedAt": "2026-10-31T02:38:46+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Graphics"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-d77eb50fda47455f34f8e92faf4669b19f277d87-port-distributed-triage-to-the-pi-harness-199588",
+      "title": "trunk/d77eb50fda47455f34f8e92faf4669b19f277d87: Port distributed triage to the pi harness (#199588)",
+      "dek": "Human Note \n Agent note \n \n AI-assisted implementation and summary. \n This finishes the triage migration by moving the distributed second pass to pi. It uses the same \nread-only plan job as issue triage, not a second copy of the model/security setup. Both the normal \nhandoff and ",
+      "aiSummary": "This update completes the migration of distributed triage to the pi harness by moving the second pass to pi. It utilizes the same read-only plan job as issue triage rather than duplicating the model or security setup.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2Fd77eb50fda47455f34f8e92faf4669b19f277d87",
+      "category": "DevOps",
+      "filterTags": [
+        "pi harness",
+        "distributed triage",
+        "issue triage"
+      ],
+      "publishedAt": "2026-10-31T02:29:39+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "b12018",
+      "title": "b12018",
+      "dek": "sycl: fix f32 to q2_0/q4_0/q5_0 rounding in CPY ( #31120 ) \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/62012681 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silicon (arm64, KleidiAI enabled)  DISABLED",
+      "aiSummary": "This release fixes an issue in the SYCL backend where rounding errors occurred when converting float32 data to q2_0, q4_0, and q5_0 quantization formats during copy operations. The update is part of the llama.cpp project and includes builds for macOS Apple Silicon, with KleidiAI support currently disabled.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12018",
+      "category": "AI",
+      "filterTags": [
+        "SYCL",
+        "llama.cpp",
+        "q2_0",
+        "q4_0",
+        "q5_0",
+        "Apple Silicon"
+      ],
+      "publishedAt": "2026-10-31T02:24:59+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "why-north-korea-s-elite-hackers-are-the-prime-suspect-in-major-binance-hack",
+      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+      "dek": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
+      "aiSummary": "North Korean hackers are the primary suspects in a major hack of Binance, which is described as a record-breaking heist. The incident highlights the increasing power and capability of these suspected state-sponsored cyber actors.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+      "category": "Cybersecurity",
+      "filterTags": [
+        "Binance",
+        "North Korea",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-31T02:12:19+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "Geopolitics"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "making-it-easier-for-websites-to-express-ai-training-preferences",
+      "title": "Making it easier for websites to express AI training preferences",
+      "dek": "New methods help websites communicate their preferences for AI training data.",
+      "aiSummary": "The article discusses mechanisms designed to simplify how websites can declare their preferences regarding the use of their content for AI model training. It highlights efforts to standardize or improve the technical implementation of these signals to ensure clear communication between web properties and AI developers.",
+      "articleUrl": "https://openai.com/index/helping-websites-express-ai-training-preferences/",
+      "category": "AI",
+      "filterTags": [
+        "AI Training",
+        "Web Standards",
+        "Data Preferences"
+      ],
+      "publishedAt": "2026-10-31T01:36:47+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Web Development"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-97d0fc0212aebf2cc58a13c1ff0d05e45e0ceb54-rocm-re-evaluate-the-addmm-lt-disable-on-every-call-202594",
+      "title": "trunk/97d0fc0212aebf2cc58a13c1ff0d05e45e0ceb54: [ROCm] Re-evaluate the addmm Lt disable on every call (#202594)",
+      "dek": "Linked issue or supporting maintainer \n Fixes  #186873 \n Supported by  @jeffdaily \n BC-breaking? \n No \n Summary (human written only) \n On ROCm, whether addmm uses hipBLASLt depends on the preferred BLAS backend, which can be changed at runtime, but that decision was cached on the",
+      "aiSummary": "This change addresses an issue where the decision to use hipBLASLt for the addmm operation on ROCm was incorrectly cached. Since the preferred BLAS backend can be changed at runtime, the system now re-evaluates this setting on every call to ensure the correct backend is used.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F97d0fc0212aebf2cc58a13c1ff0d05e45e0ceb54",
+      "category": "Machine Learning",
+      "filterTags": [
+        "PyTorch",
+        "ROCm",
+        "hipBLASLt",
+        "addmm"
+      ],
+      "publishedAt": "2026-10-31T01:33:53+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Hardware Acceleration"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-weighs-playing-the-cosigner-for-nscale-s-ai-data-center-in-west-virginia",
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "dek": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+      "aiSummary": "Nvidia is evaluating a role as a cosigner for Nscale's AI data center project located in West Virginia. This move is intended to provide financial assurance to investors who may be concerned about the high costs associated with AI infrastructure spending.",
+      "articleUrl": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "category": "AI",
+      "filterTags": [
+        "Nvidia",
+        "Nscale",
+        "AI data center",
+        "West Virginia"
+      ],
+      "publishedAt": "2026-10-31T01:20:05+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "gelu-activation-function-explained-how-it-works-and-why-transformers-use-it",
+      "title": "GELU Activation Function Explained: How It Works and Why Transformers Use It",
+      "dek": "Why do Transformer models like BERT use GELU instead of the traditional ReLU activation function? The answer lies in how these functions process information. While ReLU completely removes negative inputs, GELU uses a smooth, input-dependent mechanism to decide how much informatio",
+      "aiSummary": "Transformer models such as BERT utilize the GELU activation function rather than the traditional ReLU due to differences in how they process information. Unlike ReLU, which discards all negative inputs, GELU employs a smooth, input-dependent mechanism to determine the amount of information retained.",
+      "articleUrl": "https://www.analyticsvidhya.com/blog/2026/10/gelu-activation-function-explained/",
+      "category": "AI",
+      "filterTags": [
+        "GELU",
+        "ReLU",
+        "Transformers",
+        "BERT",
+        "Activation Function"
+      ],
+      "publishedAt": "2026-10-31T00:46:50+00:00",
+      "publisher": {
+        "name": "Analytics Vidhya",
+        "domain": "analyticsvidhya.com",
+        "website": "https://www.analyticsvidhya.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=analyticsvidhya.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=analyticsvidhya.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Deep Learning"
+        }
+      ]
+    },
+    {
+      "slug": "v3-42-0",
+      "title": "v3.42.0",
+      "dek": "3.42.0  (2026-10-31) \n Features \n \n api:  add agent context compaction settings ( #4209 ) ( f552fcf ) \n api:  add agent session review and tool settings ( #4217 ) ( a63c4cd ) \n api:  add experimental agent time awareness ( #4211 ) ( 10f9dd0 ) \n api:  add image edit markup overlay",
+      "aiSummary": "The 3.42.0 update introduces several new API features, including settings for agent context compaction, agent session review, and tool configuration. It also adds experimental time awareness for agents and an image edit markup overlay capability.",
+      "articleUrl": "https://github.com/openai/openai-python/releases/tag/v3.42.0",
+      "category": "Software Development",
+      "filterTags": [
+        "agent context compaction",
+        "agent session review",
+        "tool settings",
+        "experimental agent time awareness",
+        "image edit markup overlay"
+      ],
+      "publishedAt": "2026-10-31T00:26:41+00:00",
+      "publisher": {
+        "name": "openai",
+        "domain": "github.com",
+        "website": "https://github.com/openai/openai-python",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "API"
+        }
+      ]
+    },
+    {
+      "slug": "v1-14-0-dev11",
+      "title": "v1.14.0.dev11",
+      "dek": "Langflow nightly v1.14.0.dev11",
+      "aiSummary": "Langflow has released version 1.14.0.dev11. This update is identified as a nightly build for the platform.",
+      "articleUrl": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev11",
+      "category": "AI",
+      "filterTags": [
+        "Langflow"
+      ],
+      "publishedAt": "2026-10-31T00:23:28+00:00",
+      "publisher": {
+        "name": "langflow-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langflow-ai/langflow",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "openai-slashes-funding-target-by-10bn-as-tech-anxieties-mount",
+      "title": "OpenAI slashes funding target by $10bn as tech anxieties mount",
+      "dek": "ChatGPT maker is now seeking about $20bn at a $1.25tn valuation as it tempers its ambitions",
+      "aiSummary": "OpenAI is now aiming to raise roughly $20bn, down from a previous target that was $10bn higher. The company values itself at $1.25 trillion and is scaling back its plans.",
+      "articleUrl": "https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f?syn-25a6b1a6=1",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "ChatGPT"
+      ],
+      "publishedAt": "2026-10-31T00:05:08+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Venture Capital"
+        }
+      ]
+    },
+    {
+      "slug": "hack-could-leave-ao3-a-popular-fan-fiction-site-offline-for-weeks",
+      "title": "Hack Could Leave AO3, a Popular Fan Fiction Site, Offline for Weeks",
+      "dek": "AO3, which hosts 18 million stories spun off from the likes of “Harry Potter” and “Heated Rivalry,” was taken offline after “an intrusion,” one of its founders said.",
+      "aiSummary": "The fan‑fiction platform AO3 was taken offline after an intrusion, according to one of its founders. The site hosts around 18 million stories, many based on popular works such as Harry Potter and Heated Rivalry.",
+      "articleUrl": "https://www.nytimes.com/2026/10/30/arts/ao3-fan-fiction-site-down.html",
+      "category": "Security",
+      "filterTags": [
+        "AO3",
+        "Harry Potter",
+        "Heated Rivalry"
+      ],
+      "publishedAt": "2026-10-30T23:39:37+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Online Communities"
+        },
+        {
+          "name": "Fan Fiction"
+        }
+      ]
+    },
+    {
+      "slug": "ollie-a-privacy-focused-ai-assistant-is-shutting-down",
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "dek": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+      "aiSummary": "Ollie, an AI assistant designed with a focus on user privacy, is scheduled to shut down in one week. The founder announced the closure amidst a growing market saturated with competing AI assistants.",
+      "articleUrl": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "category": "AI",
+      "filterTags": [
+        "Ollie",
+        "AI assistant",
+        "privacy"
+      ],
+      "publishedAt": "2026-10-30T22:56:13+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Privacy"
+        },
+        {
+          "name": "Startups"
+        }
+      ]
+    },
+    {
+      "slug": "nyse-owner-plans-hyperliquid-perpetuals-market-in-us",
+      "title": "NYSE Owner Plans Hyperliquid Perpetuals Market in US",
+      "dek": "Intercontinental Exchange joined forces with one of the market operators behind offshore crypto-trading platform Hyperliquid as it seeks to bring perpetual futures products into US regulated markets. ICE and Trade.xyz are planning a new market for trading perpetual futures contra",
+      "aiSummary": "Intercontinental Exchange (ICE) has partnered with Trade.xyz, a market operator behind the offshore crypto platform Hyperliquid, to launch a new US market for perpetual futures. The partnership aims to bring Hyperliquid's perpetual futures products into regulated U.S. markets. The new market will allow trading of perpetual futures contracts under U.S. regulations.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-10-30/nyse-owner-plans-hyperliquid-perpetuals-market-in-us-video",
+      "category": "Finance",
+      "filterTags": [
+        "Intercontinental Exchange",
+        "Trade.xyz",
+        "Hyperliquid"
+      ],
+      "publishedAt": "2026-10-30T22:49:08+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Cryptocurrency"
+        },
+        {
+          "name": "Regulation"
+        }
+      ]
+    },
+    {
+      "slug": "meta-outlook-revised-downward-by-s-p-on-cash-flow-and-capex-concerns",
+      "title": "Meta outlook revised downward by S&P on cash flow and capex concerns",
+      "dek": "Meta has been given a negative outlook by S&P Global Ratings due to the company's hefty capital expenditures and concerns about free cash flow.",
+      "aiSummary": "S&P Global Ratings assigned a negative outlook to Meta, citing concerns over the company's significant capital expenditures. The rating agency also expressed worry regarding Meta's free cash flow position.",
+      "articleUrl": "https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html",
+      "category": "Finance",
+      "filterTags": [
+        "Meta",
+        "S&P Global Ratings",
+        "capital expenditures",
+        "free cash flow"
+      ],
+      "publishedAt": "2026-10-30T22:42:26+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Corporate Strategy"
+        }
+      ]
+    },
+    {
+      "slug": "managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams",
+      "title": "Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams",
+      "dek": "This post presents a five-stage operating model for managing Amazon Bedrock cost: attribute every dollar to an owner, make every request observable, enforce budgets, optimize platform defaults, and operate a review cadence. Written for FinOps and platform engineering teams.",
+      "aiSummary": "The article outlines a five‑step operating model to manage Amazon Bedrock costs. The steps include assigning cost ownership, monitoring requests, setting budgets, tuning platform defaults, and running regular reviews. It targets FinOps and platform engineering teams.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams/",
+      "category": "Cloud Computing",
+      "filterTags": [
+        "Amazon Bedrock",
+        "FinOps",
+        "Platform Engineering"
+      ],
+      "publishedAt": "2026-10-30T22:42:24+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "FinOps"
+        },
+        {
+          "name": "Platform Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "apple-intelligence-is-finally-coming-to-china-with-ios-27-3",
+      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+      "dek": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 rel",
+      "aiSummary": "Apple has announced that Apple Intelligence will launch in China alongside the iOS 27.3 update. The features will initially be available in a beta version scheduled for release on November 4th, followed by the full iOS 27.3 release.",
+      "articleUrl": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+      "category": "AI",
+      "filterTags": [
+        "Apple",
+        "Apple Intelligence",
+        "iOS 27.3",
+        "MacRumors"
+      ],
+      "publishedAt": "2026-10-30T22:32:53+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Mobile"
+        }
+      ]
+    },
+    {
+      "slug": "cramer-s-week-ahead-expect-more-volatility-as-tech-earnings-midterms-loom",
+      "title": "Cramer’s week ahead: Expect more volatility as tech earnings, midterms loom",
+      "dek": "Investors await earnings from Apple, AMD, and other major companies, as well as the midterm elections and the monthly jobs report.",
+      "aiSummary": "Investors are watching for earnings from Apple, AMD, and other big firms, while the upcoming midterm elections and the monthly jobs report add uncertainty. The market is expected to be volatile.",
+      "articleUrl": "https://www.cnbc.com/2026/10/30/jim-cramer-week-ahead-apple-amd-jobs-report.html",
+      "category": "Finance",
+      "filterTags": [
+        "Apple",
+        "AMD"
+      ],
+      "publishedAt": "2026-10-30T22:17:13+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Economic Data"
+        }
+      ]
+    },
+    {
+      "slug": "baseten-to-raise-funding-that-would-double-value-to-30-billion",
+      "title": "Baseten to Raise Funding That Would Double Value to $30 Billion",
+      "dek": "Artificial intelligence startup Baseten is set to raise new funding that would more than double its valuation to about $30 billion, according to people familiar with the efforts.",
+      "aiSummary": "Baseten, an AI startup, is preparing to raise additional capital that could raise its valuation to roughly $30 billion. The move would more than double its current value, according to sources familiar with the negotiations.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-30/baseten-set-for-30-billion-valuation-with-new-funding",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Baseten",
+        "Artificial Intelligence"
+      ],
+      "publishedAt": "2026-10-30T22:02:59+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Venture Capital"
+        },
+        {
+          "name": "Startups"
+        }
+      ]
+    },
+    {
+      "slug": "dbreunig-nesformer",
+      "title": "dbreunig/nesformer",
+      "dek": "dbreunig/nesformer \nInspired by  qwenputer  by Divyansh Agrawal, Drew Breunig baked a working emulator for a Nintendo Entertainment System 6502 CPU into the weights of Qwen3.5-4B. You can now play NES ROMs such as Super Mario Bros (very slowly) running inside Qwen! \n In  a commen",
+      "aiSummary": "The project embeds a NES 6502 CPU emulator into the Qwen3.5-4B model, allowing users to run NES ROMs such as Super Mario Bros inside the language model, albeit slowly.",
+      "articleUrl": "https://simonwillison.net/2026/Oct/30/nesformer/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Qwen3.5-4B",
+        "NES",
+        "6502 CPU",
+        "Qwenputer"
+      ],
+      "publishedAt": "2026-10-30T21:59:22+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "Emulation"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "meta-s-rating-outlook-cut-to-negative-by-s-p-on-ai-spending",
+      "title": "Meta’s Rating Outlook Cut to Negative by S&P on AI Spending",
+      "dek": "S&P Global Ratings took an early step toward potentially downgrading Meta Platforms Inc.’s credit rating within the next two years, amid growing pressure on the tech company’s balance sheet stemming from elevated spending tied to artificial intelligence.",
+      "aiSummary": "S&P Global Ratings has cut Meta Platforms' credit rating outlook to negative, signaling a potential downgrade within the next two years. This decision reflects increasing pressure on the company's balance sheet caused by significant expenditures related to artificial intelligence.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-30/meta-s-credit-rating-outlook-downgraded-to-negative-by-s-p",
+      "category": "Finance",
+      "filterTags": [
+        "Meta",
+        "S&P Global Ratings",
+        "AI"
+      ],
+      "publishedAt": "2026-10-30T21:56:00+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "intel-s-stock-crashes-knocking-12b-from-government-s-stake",
+      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "dek": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+      "aiSummary": "Intel's stock has dropped, erasing $12 billion from the government's holdings. The decline is linked to weaker PC sales, as the AI sector consumes more memory and components, pushing up PC prices.",
+      "articleUrl": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "category": "Hardware",
+      "filterTags": [
+        "Intel",
+        "PC sales",
+        "AI industry",
+        "memory",
+        "components"
+      ],
+      "publishedAt": "2026-10-30T21:54:34+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "it-s-the-energy-changing-the-frames",
+      "title": "It's the Energy Changing the Frames",
+      "dek": "A slumped figure sits beside a dim ember in the deep purple shadow of a stone tower, while the same figure climbs its lit face holding a lantern high/images/energy-changes-the-frames.webp/images/energy-changes-the-frames.webp I think so much of winning at life comes down to somet",
+      "aiSummary": "The piece shows a slumped figure beside a dim ember in a stone tower, then the same figure climbs the tower holding a lantern. It also includes a reflection that winning at life depends on something.",
+      "articleUrl": "https://danielmiessler.com/blog/energy-changes-the-frames?utm_source=rss&utm_medium=feed&utm_campaign=website",
+      "category": "Art",
+      "filterTags": [],
+      "publishedAt": "2026-10-30T20:00:00+00:00",
+      "publisher": {
+        "name": "Daniel Miessler",
+        "domain": "danielmiessler.com",
+        "website": "https://danielmiessler.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=danielmiessler.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=danielmiessler.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Art"
+        },
+        {
+          "name": "Photography"
+        }
+      ]
+    },
+    {
+      "slug": "fair-use-benefits-everyone",
+      "title": "Fair use benefits everyone",
+      "dek": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+      "aiSummary": "OpenAI has released excerpts from court briefs submitted by creators, academics, and legal experts. These documents argue that fair use principles support AI training and foster innovation.",
+      "articleUrl": "https://openai.com/index/fair-use-benefits-everyone",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "Fair Use",
+        "AI Training",
+        "Legal"
+      ],
+      "publishedAt": "2026-10-30T00:00:00+00:00",
+      "publisher": {
+        "name": "OpenAI",
+        "domain": "openai.com",
+        "website": "https://openai.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Policy"
+        }
+      ]
+    }
+  ]
+}
