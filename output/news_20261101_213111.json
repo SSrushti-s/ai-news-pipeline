@@ -1,0 +1,761 @@
+{
+  "news": [
+    {
+      "slug": "1-15-34",
+      "title": "1.15.34",
+      "dek": "What's Changed \n Features \n \n Add standalone LiteLLM catalog PR before version bump \n Record where crewai run stops before kickoff \n Add crewai skill search to list the organization's skills \n Pass crewai run --inputs to a Python flow \n Add deploy create --zip and print the commi",
+      "aiSummary": "Version 1.15.34 adds a standalone LiteLLM catalog and records where crewai runs stop before kickoff. It also introduces crewai skill search, allows passing inputs to Python flows, and adds a deploy create command with zip support.",
+      "articleUrl": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.34",
+      "category": "Developer Tools",
+      "filterTags": [
+        "LiteLLM",
+        "crewai",
+        "Python"
+      ],
+      "publishedAt": "2026-11-01T21:21:56+00:00",
+      "publisher": {
+        "name": "crewAIInc",
+        "domain": "github.com",
+        "website": "https://github.com/crewAIInc/crewAI",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Developer Tools"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "commodore-64-ai-image-generator",
+      "title": "Commodore 64 AI Image Generator",
+      "dek": "A new AI tool that creates images on a Commodore 64 computer.",
+      "aiSummary": "",
+      "articleUrl": "https://hackaday.io/project/195819-commodore-64-ai-image-generator",
+      "category": "Hardware",
+      "filterTags": [
+        "Commodore 64",
+        "AI",
+        "Image Generator"
+      ],
+      "publishedAt": "2026-11-01T21:21:10+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Image Generation"
+        }
+      ]
+    },
+    {
+      "slug": "about-platform-engineering-and-ai",
+      "title": "About Platform Engineering and AI",
+      "dek": "An overview of the relationship between platform engineering and artificial intelligence.",
+      "aiSummary": "The provided text does not contain an article body, only the title 'About Platform Engineering and AI'. Therefore, no factual summary can be generated from the content.",
+      "articleUrl": "https://eltonminetto.dev/en/post/2026-10-04-platform-engineering-p5/",
+      "category": "AI",
+      "filterTags": [
+        "Platform Engineering",
+        "AI"
+      ],
+      "publishedAt": "2026-11-01T21:17:58+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "DevOps"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games",
+      "title": "Anthropic updates Claude to stop it from recreating existing video games",
+      "dek": "Users can still lean on Claude to help with designing original or genre games.",
+      "aiSummary": "Anthropic updated Claude to prevent it from recreating existing video games. The model still assists users in designing new or original games.",
+      "articleUrl": "https://www.engadget.com/2303469/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games/",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "Claude",
+        "video games"
+      ],
+      "publishedAt": "2026-11-01T21:08:32+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Gaming"
+        }
+      ]
+    },
+    {
+      "slug": "gnosh-ai-for-functional-ai-functional-context-management-no-compaction",
+      "title": "Gnosh.ai for \"Functional AI\"; functional context management, no compaction",
+      "dek": "Gnosh.ai offers a functional approach to AI that manages context without compaction.",
+      "aiSummary": "Gnosh.ai is presented as a solution for functional AI. It utilizes a specific method for functional context management that avoids the use of compaction.",
+      "articleUrl": "https://gnosh.ai/head-to-head.html",
+      "category": "AI",
+      "filterTags": [
+        "Gnosh.ai",
+        "Functional AI",
+        "Context Management"
+      ],
+      "publishedAt": "2026-11-01T21:04:08+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "ceramic-vs-titanium-apple-watch-which-material-is-better-for-overall-durability",
+      "title": "Ceramic vs Titanium Apple Watch: Which material is better for overall durability?",
+      "dek": "An Apple Watch is a handy accessory for your iPhone, but choosing the most durable material can be challenging. This one is better suited to your needs.",
+      "aiSummary": "The article compares the durability of ceramic and titanium Apple Watch models. It explains that choosing the most durable material can be challenging and suggests that one material may be better suited to your needs.",
+      "articleUrl": "https://www.engadget.com/2300397/apple-watch-ceramic-vs-titanium-which-is-better-material-overall-durability/",
+      "category": "Hardware",
+      "filterTags": [
+        "Apple Watch",
+        "Ceramic",
+        "Titanium"
+      ],
+      "publishedAt": "2026-11-01T21:00:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Wearables"
+        },
+        {
+          "name": "Materials"
+        }
+      ]
+    },
+    {
+      "slug": "ai-can-make-tech-ceos-lives-easier-what-about-everyone-else",
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "dek": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "aiSummary": "The article discusses why statements made by tech CEOs often appear tone-deaf. It explores the disparity in how AI benefits these leaders versus the rest of the population.",
+      "articleUrl": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Tech CEOs"
+      ],
+      "publishedAt": "2026-11-01T20:57:58+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Corporate Culture"
+        }
+      ]
+    },
+    {
+      "slug": "v3-42-1",
+      "title": "v3.42.1",
+      "dek": "3.42.1  (2026-11-01) \n Bug Fixes \n \n api:  preserve Responses WebSocket connection behavior ( #4221 ) ( 38075d8 ) \n realtime:  validate beta WebSocket authentication profiles ( #4218 ) ( 3622a97 ) \n \n Refactors \n \n websocket:  add SDK-owned Responses policy helpers ( #4219 ) ( 83",
+      "aiSummary": "The 3.42.1 release, dated November 1, 2026, includes bug fixes for the API and realtime modules. Specifically, it preserves Responses WebSocket connection behavior and validates beta WebSocket authentication profiles, while also refactoring to add SDK-owned Responses policy helpers.",
+      "articleUrl": "https://github.com/openai/openai-python/releases/tag/v3.42.1",
+      "category": "Software Development",
+      "filterTags": [
+        "WebSocket",
+        "API",
+        "realtime",
+        "SDK"
+      ],
+      "publishedAt": "2026-11-01T20:56:19+00:00",
+      "publisher": {
+        "name": "openai",
+        "domain": "github.com",
+        "website": "https://github.com/openai/openai-python",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "APIs"
+        }
+      ]
+    },
+    {
+      "slug": "inside-indonesia-s-wash-trade-scheme",
+      "title": "Inside Indonesia’s Wash-Trade Scheme",
+      "dek": "Stock wash-trading schemes have put Indonesia at risk of an MSCI downgrade. How did this happen, and what are regulators doing about it?  (Source: Bloomberg)",
+      "aiSummary": "Stock wash-trading schemes have placed Indonesia at risk of a downgrade by MSCI. Regulators are currently addressing the issue to mitigate this risk.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-11-01/inside-indonesia-s-wash-trade-scheme-video",
+      "category": "Finance",
+      "filterTags": [
+        "Indonesia",
+        "MSCI",
+        "Wash-Trading",
+        "Bloomberg"
+      ],
+      "publishedAt": "2026-11-01T20:51:00+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Regulation"
+        },
+        {
+          "name": "Emerging Markets"
+        }
+      ]
+    },
+    {
+      "slug": "how-to-know-if-a-usb-c-cable-is-waterproof",
+      "title": "How to know if a USB-C cable is waterproof",
+      "dek": "If you need extra protection for your USB cables, knowing how to tell if they're waterproof beforehand is important. Here's how to check a cable's rating.",
+      "aiSummary": "Knowing whether a USB cable is waterproof is important for those needing extra protection. The article explains how to check a cable's rating to determine its waterproof capabilities.",
+      "articleUrl": "https://www.engadget.com/2300388/how-to-know-usb-c-cable-waterproof/",
+      "category": "Hardware",
+      "filterTags": [
+        "USB-C",
+        "waterproof"
+      ],
+      "publishedAt": "2026-11-01T20:00:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "homeview-can-behave-like-a-homekit-security-camera",
+      "title": "HomeView can behave like a HomeKit security camera",
+      "dek": "While Apple hasn't launched a standalone security camera, the  HomeView  could act as one, working as a HomeKit Security Camera to protect your home. Apple HomeView The October smart home event saw Apple introduce the HomeView alongside a bunch of smart home accessories. That inc",
+      "aiSummary": "Apple introduced the HomeView at its October smart home event alongside other accessories. Although Apple has not released a standalone security camera, the HomeView is capable of operating as a HomeKit Security Camera to monitor and protect a residence.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/01/homeview-can-behave-like-a-homekit-security-camera?utm_source=rss",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Apple",
+        "HomeView",
+        "HomeKit",
+        "Smart Home"
+      ],
+      "publishedAt": "2026-11-01T19:53:41+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Smart Home"
+        }
+      ]
+    },
+    {
+      "slug": "national-grid-to-site-biggest-substation-in-uk-near-planned-teesside-datacentre",
+      "title": "National Grid to site biggest substation in UK near planned Teesside datacentre",
+      "dek": "New electricity generating capacity would enable north-east to attract investment for large-scale AI infrastructure National Grid has taken a step towards building Britain’s biggest electricity substation on Teesside, which could supply power to a vast neighbouring datacentre as ",
+      "aiSummary": "National Grid is moving forward with plans to construct Britain's largest electricity substation on Teesside. This infrastructure is intended to support a neighboring large-scale data center and help the north-east region attract investment for AI infrastructure.",
+      "articleUrl": "https://www.theguardian.com/business/2026/nov/01/national-grid-to-site-biggest-substation-on-teesside-near-planned-ai-datacentre",
+      "category": "Energy",
+      "filterTags": [
+        "National Grid",
+        "Teesside",
+        "AI",
+        "Data Centre",
+        "Substation"
+      ],
+      "publishedAt": "2026-11-01T18:37:42+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Energy"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "quoting-kyle-kingsbury",
+      "title": "Quoting Kyle Kingsbury",
+      "dek": "More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers will begin to treat any new software project with suspicion—the signals we used to rely on as markers of a mature system are now easier to coun",
+      "aiSummary": "Kyle Kingsbury argues that the use of Large Language Models (LLMs) undermines trust in software documentation and the organizations behind them. This shift may lead engineers to view new software projects with suspicion, as traditional indicators of system maturity are becoming easier to counterfeit.",
+      "articleUrl": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
+      "category": "AI",
+      "filterTags": [
+        "LLMs",
+        "Kyle Kingsbury",
+        "Software Engineering",
+        "Documentation"
+      ],
+      "publishedAt": "2026-11-01T16:49:04+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Trust & Security"
+        }
+      ]
+    },
+    {
+      "slug": "for-jpmorgan-amazon-fighting-ai-bots-like-meta-muse-may-not-be-a-winning-long-term-strategy",
+      "title": "For JPMorgan, Amazon, fighting AI bots like Meta Muse may not be a winning long-term strategy",
+      "dek": "As companies from Amazon to JPMorgan block AI personal agents like Meta's Muse, retail experts warn that technology that removes customer friction usually wins.",
+      "aiSummary": "Retail experts caution that JPMorgan and Amazon may be pursuing a losing strategy by blocking AI personal agents such as Meta's Muse. The analysis suggests that technologies which reduce customer friction typically prevail in the long run.",
+      "articleUrl": "https://www.cnbc.com/2026/11/01/jpmorgan-amazon-ai-agents-meta-muse.html",
+      "category": "AI",
+      "filterTags": [
+        "JPMorgan",
+        "Amazon",
+        "Meta",
+        "Muse",
+        "AI agents"
+      ],
+      "publishedAt": "2026-11-01T16:34:43+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Retail"
+        },
+        {
+          "name": "Corporate Strategy"
+        }
+      ]
+    },
+    {
+      "slug": "the-enterprise-context-layer-a-practitioner-s-guide-to-6-advanced-architectural-patterns",
+      "title": "The Enterprise Context Layer: A Practitioner's Guide to 6 Advanced Architectural Patterns",
+      "dek": "Beyond RAG: How modern architectures engineer precise, cost-efficient context for enterprise AI agents. \n The post  The Enterprise Context Layer: A Practitioner's Guide to 6 Advanced Architectural Patterns  appeared first on  Towards Data Science .",
+      "aiSummary": "The article explores advanced architectural patterns for enterprise AI agents that go beyond standard Retrieval-Augmented Generation (RAG). It focuses on engineering precise and cost-efficient context layers to improve agent performance.",
+      "articleUrl": "https://towardsdatascience.com/the-enterprise-context-layer-a-practitioners-guide-to-6-advanced-architectural-patterns/",
+      "category": "AI",
+      "filterTags": [
+        "RAG",
+        "Enterprise AI",
+        "Context Layer",
+        "Architectural Patterns",
+        "AI Agents"
+      ],
+      "publishedAt": "2026-11-01T16:00:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Architecture"
+        },
+        {
+          "name": "Enterprise Technology"
+        }
+      ]
+    },
+    {
+      "slug": "what-to-expect-from-apple-s-q4-2026-results-on-november-2",
+      "title": "What to expect from Apple's Q4 2026 results on November 2",
+      "dek": "Apple will be releasing its fourth-quarter financial results on November 2, the first under CEO  John Ternus . Here's what happened during the quarter, what you can expect, and what analysts think will be reported. Apple CEO John Ternus After every quarter, Apple has a regulatory",
+      "aiSummary": "Apple will release its fourth-quarter financial results on November 2, marking the first report under CEO John Ternus. The upcoming announcement will cover events from the quarter and align with analyst expectations for the company's performance.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/01/what-to-expect-from-apples-q4-2026-results-on-november-2?utm_source=rss",
+      "category": "Corporate Finance",
+      "filterTags": [
+        "Apple",
+        "John Ternus"
+      ],
+      "publishedAt": "2026-11-01T15:59:52+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Corporate Finance"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "remaining-ipad-updates-still-expected-to-arrive-in-early-2027",
+      "title": "Remaining iPad updates still expected to arrive in early 2027",
+      "dek": "While the  iPad mini  got its update in 2026, there are still changes on the way for the entry-level iPad, the iPad Air, and iPad Pro. You're just going to have to wait until early 2027 for them. The current entry-level iPad October saw the update giving the iPad mini an OLED dis",
+      "aiSummary": "The iPad mini got its update in 2026, but the entry‑level iPad, iPad Air, and iPad Pro are still pending updates expected in early 2027. The current entry‑level iPad October update included an OLED display for the iPad mini. Users will need to wait until early 2027 for the newer models to receive their updates.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/01/remaining-ipad-updates-still-expected-to-arrive-in-early-2027?utm_source=rss",
+      "category": "Hardware",
+      "filterTags": [
+        "iPad mini",
+        "iPad Air",
+        "iPad Pro",
+        "OLED"
+      ],
+      "publishedAt": "2026-11-01T15:32:32+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Apple"
+        }
+      ]
+    },
+    {
+      "slug": "apple-touch-screen-macbook-pro-impressions-software-division-gaming-shake-up",
+      "title": "Apple Touch-Screen MacBook Pro Impressions; Software Division Gaming Shake-Up",
+      "dek": "Also: The latest on the cracked iPhone Duo screens.",
+      "aiSummary": "The article provides initial impressions of the Apple Touch-Screen MacBook Pro. It also covers a restructuring within Apple's software division regarding gaming, alongside updates on the issue of cracked iPhone Duo screens.",
+      "articleUrl": "https://www.bloomberg.com/news/newsletters/2026-11-01/apple-touch-screen-macbook-pro-impressions-software-division-gaming-shake-up",
+      "category": "Hardware",
+      "filterTags": [
+        "Apple",
+        "MacBook Pro",
+        "iPhone Duo",
+        "Touch-Screen",
+        "Gaming"
+      ],
+      "publishedAt": "2026-11-01T15:00:01+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Software"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1793559018",
+      "title": "viable/strict/1793559018",
+      "dek": "[CD] Upload pre-BOLT libraries from aarch64 CUDA nightly builds ( #202 …",
+      "aiSummary": "The commit uploads pre-BOLT libraries built for aarch64 from CUDA nightly builds as part of the continuous delivery pipeline, referencing issue #202.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1793559018",
+      "category": "Software Development",
+      "filterTags": [
+        "CUDA",
+        "aarch64",
+        "pre-BOLT libraries",
+        "nightly builds",
+        "CD"
+      ],
+      "publishedAt": "2026-11-01T14:39:35+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "GPU Computing"
+        },
+        {
+          "name": "Continuous Delivery"
+        }
+      ]
+    },
+    {
+      "slug": "ai-is-stealing-indigenous-australian-art-and-churning-out-temu-slop-artist-says",
+      "title": "AI is stealing Indigenous Australian art and churning out ‘Temu slop’, artist says",
+      "dek": "Chair of National Gallery’s First Nations advisory group says the technology is undermining artists’ agency and the authenticity of their work Get our  breaking news email ,  free app  or  daily news podcast AI is taking First Nations art and turning it into “Temu slop”, the Pitj",
+      "aiSummary": "The chair of the National Gallery’s First Nations advisory group states that AI technology is undermining the agency and authenticity of Indigenous Australian artists. The artist describes the resulting AI-generated works as 'Temu slop,' highlighting concerns about the commercialization and devaluation of First Nations cultural heritage.",
+      "articleUrl": "https://www.theguardian.com/artanddesign/2026/nov/02/ai-stealing-indigenous-australian-art-temu-slop-artist-says-ntwnfb",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Indigenous Australian art",
+        "National Gallery",
+        "First Nations",
+        "Temu"
+      ],
+      "publishedAt": "2026-11-01T14:00:13+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Culture"
+        },
+        {
+          "name": "Ethics"
+        }
+      ]
+    },
+    {
+      "slug": "fix-the-image-not-the-prompt",
+      "title": "Fix the Image, Not the Prompt",
+      "dek": "Vision models often fail before they even start reasoning. A few well-placed labels on the image fix more than any prompt tweak. \n The post  Fix the Image, Not the Prompt  appeared first on  Towards Data Science .",
+      "aiSummary": "Vision models frequently fail before they begin reasoning. Adding a few strategically placed labels to the image can resolve issues more effectively than tweaking the prompt.",
+      "articleUrl": "https://towardsdatascience.com/fix-the-image-not-the-prompt/",
+      "category": "AI",
+      "filterTags": [
+        "Vision models",
+        "Prompt",
+        "Image labeling"
+      ],
+      "publishedAt": "2026-11-01T14:00:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Computer Vision"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "how-a-19-year-old-intern-built-the-growth-engine-behind-this-2b-ai-company-hector-serrano",
+      "title": "How a 19-year-old intern built the growth engine behind this $2B AI company | Hector Serrano",
+      "dek": "Listen now (88 mins) | Hector Serrano on building Wispr Flow’s paid-UGC machine, hiring young talent over polished resumes, and why the best marketers are “allergic to AI”",
+      "aiSummary": "Hector Serrano explains how he built Wispr Flow’s paid‑user‑generated‑content machine, stresses hiring young talent over polished resumes, and discusses why top marketers are skeptical of AI.",
+      "articleUrl": "https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Wispr Flow",
+        "paid-UGC",
+        "AI",
+        "Hector Serrano"
+      ],
+      "publishedAt": "2026-11-01T13:31:36+00:00",
+      "publisher": {
+        "name": "Lenny's Newsletter",
+        "domain": "lennysnewsletter.com",
+        "website": "https://www.lennysnewsletter.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=lennysnewsletter.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=lennysnewsletter.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Marketing"
+        },
+        {
+          "name": "Talent Acquisition"
+        }
+      ]
+    }
+  ]
+}
