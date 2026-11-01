@@ -1,0 +1,656 @@
+{
+  "news": [
+    {
+      "slug": "why-ai-is-boosting-meta-s-ad-business-while-hurting-google-search",
+      "title": "Why AI is boosting Meta's ad business while hurting Google search",
+      "dek": "The gap between Meta's ad revenue growth and Google's search expansion was the widest it's been since 2021 in the latest quarter.",
+      "aiSummary": "The disparity between Meta's advertising revenue growth and Google's search expansion reached its widest point since 2021 in the most recent quarter. This divergence is attributed to AI boosting Meta's ad performance while hurting Google's search capabilities.",
+      "articleUrl": "https://www.cnbc.com/2026/11/01/ai-meta-ads-google-search.html",
+      "category": "AI",
+      "filterTags": [
+        "Meta",
+        "Google",
+        "AI",
+        "Ad Revenue",
+        "Search"
+      ],
+      "publishedAt": "2026-11-01T12:00:01+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Advertising"
+        },
+        {
+          "name": "Search Engines"
+        }
+      ]
+    },
+    {
+      "slug": "a-neural-network-learned-to-read-digits-from-pure-noise",
+      "title": "A Neural Network Learned to Read Digits From Pure Noise",
+      "dek": "A small NumPy reproduction of subliminal learning, and a short argument for why it works \n The post  A Neural Network Learned to Read Digits From Pure Noise  appeared first on  Towards Data Science .",
+      "aiSummary": "The article presents a small NumPy reproduction of subliminal learning, demonstrating how a neural network can learn to read digits from pure noise. It includes a short argument explaining why this phenomenon works.",
+      "articleUrl": "https://towardsdatascience.com/a-neural-network-learned-to-read-digits-from-pure-noise/",
+      "category": "AI",
+      "filterTags": [
+        "NumPy",
+        "Neural Network",
+        "Subliminal Learning"
+      ],
+      "publishedAt": "2026-11-01T12:00:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "context-mode-an-open-source-mcp-server-that-reduces-ai-coding-context-usage",
+      "title": "Context Mode – An Open-Source MCP Server That Reduces AI Coding Context Usage",
+      "dek": "A new open-source tool helps lower the amount of context used by AI coding assistants.",
+      "aiSummary": "Context Mode is an open-source MCP server designed to reduce the context usage of AI coding tools. It aims to optimize how much information is processed during coding tasks.",
+      "articleUrl": "https://github.com/mksglu/context-mode",
+      "category": "AI",
+      "filterTags": [
+        "Context Mode",
+        "MCP",
+        "Open Source",
+        "AI Coding"
+      ],
+      "publishedAt": "2026-11-01T11:56:19+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Developer Tools"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "when-ai-writes-the-code-show-your-judgment",
+      "title": "When AI Writes the Code, Show Your Judgment",
+      "dek": "Use your critical thinking skills when AI generates code for you.",
+      "aiSummary": "The article emphasizes the importance of human judgment in the software development process when artificial intelligence is used to write code. It suggests that developers must actively review and evaluate AI-generated output rather than relying on it blindly.",
+      "articleUrl": "https://www.eyosias.dev/case-studies/ai-mailbox-analysis",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Code Generation",
+        "Software Development"
+      ],
+      "publishedAt": "2026-11-01T11:44:25+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "will-agent-resource-registries-ever-have-their-moment-the-way-ai-gateways-did",
+      "title": "Will Agent Resource Registries ever have their moment, the way AI gateways did?",
+      "dek": "Could Agent Resource Registries become as popular as AI gateways?",
+      "aiSummary": "The article poses a question about the future adoption of Agent Resource Registries. It draws a comparison to the success of AI gateways to speculate if registries will achieve similar prominence.",
+      "articleUrl": "https://agenticresourcediscovery.org/",
+      "category": "AI",
+      "filterTags": [
+        "Agent Resource Registries",
+        "AI gateways"
+      ],
+      "publishedAt": "2026-11-01T11:39:35+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "chatbots-are-leading-hikers-astray-with-dangerous-consequences",
+      "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
+      "dek": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
+      "aiSummary": "Relying on chatbots for trip planning can cause hikers to abandon their own critical thinking skills. This over-reliance on AI guidance has led to dangerous and potentially fatal situations in remote backcountry environments.",
+      "articleUrl": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
+      "category": "AI",
+      "filterTags": [
+        "Chatbots",
+        "AI",
+        "Hiking",
+        "Backcountry"
+      ],
+      "publishedAt": "2026-11-01T10:30:00+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Safety"
+        },
+        {
+          "name": "Outdoor Recreation"
+        }
+      ]
+    },
+    {
+      "slug": "cyril-hilsum-who-helped-invent-flat-panel-displays-in-tvs-and-iphones-has-died-at-101",
+      "title": "Cyril Hilsum, Who Helped Invent Flat-Panel Displays in TVs and iPhones, Has Died at 101",
+      "dek": "The man who helped develop the technology for liquid crystal displays — the screens in flat-panel televisions and laptops — has died at 101.",
+      "aiSummary": "Cyril Hilsum, a key figure in the development of liquid crystal display technology used in flat-panel televisions and laptops, has died at the age of 101. His work contributed to the screens found in modern devices such as iPhones.",
+      "articleUrl": "https://www.nytimes.com/2026/11/01/technology/cyril-hilsum-dead.html",
+      "category": "Hardware",
+      "filterTags": [
+        "Cyril Hilsum",
+        "Liquid Crystal Displays",
+        "Flat-Panel Displays",
+        "iPhones"
+      ],
+      "publishedAt": "2026-11-01T10:00:44+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Technology History"
+        }
+      ]
+    },
+    {
+      "slug": "v0-33-0",
+      "title": "v0.33.0",
+      "dek": "vLLM v0.33.0",
+      "aiSummary": "The provided text indicates the release of version 0.33.0 for the vLLM software. No additional details regarding specific features, changes, or technical specifications are included in the snippet.",
+      "articleUrl": "https://github.com/vllm-project/vllm/releases/tag/v0.33.0",
+      "category": "AI",
+      "filterTags": [
+        "vLLM"
+      ],
+      "publishedAt": "2026-11-01T09:21:10+00:00",
+      "publisher": {
+        "name": "vllm-project",
+        "domain": "github.com",
+        "website": "https://github.com/vllm-project/vllm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "b12032",
+      "title": "b12032",
+      "dek": "sycl: Try PkgConfig for LevelZero includes / libs ( #31076 ) \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/62286322 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silicon (arm64, KleidiAI enabled)  DISABL",
+      "aiSummary": "This release introduces a change to the SYCL backend to attempt using PkgConfig for locating LevelZero includes and libraries. The update is available for macOS and iOS platforms, specifically supporting Apple Silicon arm64 architectures.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12032",
+      "category": "AI",
+      "filterTags": [
+        "llama.cpp",
+        "SYCL",
+        "LevelZero",
+        "PkgConfig",
+        "Apple Silicon"
+      ],
+      "publishedAt": "2026-11-01T09:04:46+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "nace-ai-open-sources-drex-max-v1-a-27b-decision-model-that-runs-locally-on-apple-silicon",
+      "title": "Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon",
+      "dek": "Nace AI open-sources Drex Max v1, a 27B multimodal decision model scoring 67.52 that runs on Apple Silicon. \n The post  Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon  appeared first on  MarkTechPost .",
+      "aiSummary": "Nace AI has open-sourced Drex Max v1, a 27B multimodal decision model designed to run locally on Apple Silicon. The model achieves a score of 67.52 and is available for local deployment.",
+      "articleUrl": "https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/",
+      "category": "AI",
+      "filterTags": [
+        "Nace AI",
+        "Drex Max v1",
+        "Apple Silicon",
+        "Multimodal",
+        "27B"
+      ],
+      "publishedAt": "2026-11-01T08:10:07+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "deepseek-open-sources-dsh-superagent-a-router-worker-coding-agent",
+      "title": "DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent",
+      "dek": "DeepSeek released dsh-superagent, an MIT-licensed research prototype that turns GitHub and Feishu requests into parallel worker sessions. In DeepSeek’s own simulation, p95 task completion fell to 15.7 minutes from 29.5 minutes. \n The post  DeepSeek Open-Sources dsh-superagent, a ",
+      "aiSummary": "DeepSeek has open-sourced dsh-superagent, an MIT-licensed research prototype that converts GitHub and Feishu requests into parallel worker sessions. According to the company's simulations, this system reduced the p95 task completion time from 29.5 minutes to 15.7 minutes.",
+      "articleUrl": "https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/",
+      "category": "AI",
+      "filterTags": [
+        "DeepSeek",
+        "dsh-superagent",
+        "MIT License",
+        "GitHub",
+        "Feishu"
+      ],
+      "publishedAt": "2026-11-01T07:47:17+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "b12031",
+      "title": "b12031",
+      "dek": "opencl: add initial iq3 support ( #31338 ) \n \n opencl: add iq3_s AOS mv \n \n Assisted-by: Codex \n \n opencl: add iq3_s SOA mv and tiled mm \n \n Assisted-by: Codex \n \n opencl: add iq3_s noshuffle gemm/gemv for adreno \n \n Co-authored-by: Shaofei Qi  shaoqi@qti.qualcomm.com \nAssisted-b",
+      "aiSummary": "The commit introduces initial support for the iq3 data type in the OpenCL backend. It includes specific implementations for AOS and SOA matrix-vector operations, as well as tiled matrix multiplication and no-shuffle GEMM/GEMV routines optimized for Adreno hardware.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12031",
+      "category": "Machine Learning",
+      "filterTags": [
+        "OpenCL",
+        "iq3",
+        "Adreno",
+        "Qualcomm",
+        "GEMM",
+        "GEMV"
+      ],
+      "publishedAt": "2026-11-01T07:45:44+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Hardware Optimization"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1793532003",
+      "title": "viable/strict/1793532003",
+      "dek": "Check the current stream before signaling peers in _coalescing_window…",
+      "aiSummary": "The article discusses verifying the current stream before notifying peers in the _coalescing_window function. This ensures that peers are only informed when the stream is ready.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1793532003",
+      "category": "Software Engineering",
+      "filterTags": [
+        "_coalescing_window",
+        "stream"
+      ],
+      "publishedAt": "2026-11-01T07:25:04+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Networking"
+        }
+      ]
+    },
+    {
+      "slug": "b12030",
+      "title": "b12030",
+      "dek": "hexagon : fix DMA transfers with strides > 24 bits ( #31442 ) \n \n hexagon : fix DMA transfers with strides > 24 bits \n \n On v75+ the 2D DMA descriptor stores row_size and strides in 24 bits. \ndma_queue_push sent oversized strides to fallback_2d, which only splits \nnrows, so strid",
+      "aiSummary": "The article discusses a bug fix for the Hexagon architecture, addressing an issue where DMA transfers with strides larger than 24 bits caused problems on version 75 and above. The 2D DMA descriptor stores row_size and strides in 24 bits, but dma_queue_push was sending oversized strides to fallback_2d, which only splits nrows, leading to incorrect stride handling. The fix corrects this by ensuring strides fit within the 24-bit limit.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12030",
+      "category": "Hardware",
+      "filterTags": [
+        "hexagon",
+        "DMA",
+        "v75"
+      ],
+      "publishedAt": "2026-11-01T07:19:38+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Embedded Systems"
+        }
+      ]
+    },
+    {
+      "slug": "companies-promised-ai-gains-here-s-how-the-payoff-showed-up-in-earnings",
+      "title": "Companies promised AI gains— here's how the payoff showed up in earnings",
+      "dek": "Santander, Novartis and other companies say AI is beginning to boost revenue, cut costs or improve profitability as investors seek returns.",
+      "aiSummary": "Companies such as Santander and Novartis report that artificial intelligence is starting to drive revenue growth, reduce expenses, or enhance profitability. These financial improvements are emerging as investors look for tangible returns on AI investments.",
+      "articleUrl": "https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html",
+      "category": "Corporate Finance",
+      "filterTags": [
+        "Santander",
+        "Novartis",
+        "AI",
+        "earnings"
+      ],
+      "publishedAt": "2026-11-01T06:00:01+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Corporate Finance"
+        },
+        {
+          "name": "Artificial Intelligence"
+        }
+      ]
+    },
+    {
+      "slug": "bond-investors-sit-out-most-consequential-us-midterm-elections-in-years",
+      "title": "Bond investors sit out ‘most consequential’ US midterm elections in years",
+      "dek": "Big fund managers are pressing ‘pause’ as vote and economic data releases loom",
+      "aiSummary": "Large institutional investors are urging a pause in bond trading ahead of the US midterm elections and upcoming economic data releases. They are concerned that the elections and new data could affect markets.",
+      "articleUrl": "https://www.ft.com/content/937308d7-aa2e-4dac-b19b-423d83bc1253?syn-25a6b1a6=1",
+      "category": "Finance",
+      "filterTags": [
+        "bond investors",
+        "US midterm elections",
+        "vote",
+        "economic data releases"
+      ],
+      "publishedAt": "2026-11-01T05:00:17+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Markets"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1793523000-linalg-fix-svd-driver-validation-and-rocm-fallback-semantics-198465",
+      "title": "viable/strict/1793523000: [linalg] Fix SVD driver validation and ROCm fallback semantics (#198465)",
+      "dek": "Linked issue or supporting maintainer \n Fixes  #198425 \n BC-breaking? \n Yes, for  driver=  in  torch.linalg.svd  and  torch.linalg.svdvals , including their  out=  forms (details drafted with GitHub Copilot): \n \n \n Invalid driver names now raise on every device, including CPU, MP",
+      "aiSummary": "This patch fixes validation issues in the SVD driver and adjusts ROCm fallback semantics for torch.linalg.svd and torch.linalg.svdvals. It introduces breaking changes by ensuring invalid driver names raise errors on all devices, including CPU and multi-processor setups.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1793523000",
+      "category": "Machine Learning",
+      "filterTags": [
+        "PyTorch",
+        "ROCm",
+        "SVD",
+        "linalg"
+      ],
+      "publishedAt": "2026-11-01T04:42:48+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-57448d9a1e9d4b6c7ba5355242936292727a5cf0-mps-pass-elu-params-in-float-202904",
+      "title": "trunk/57448d9a1e9d4b6c7ba5355242936292727a5cf0: [MPS] Pass ELU params in float (#202904)",
+      "dek": "ELUParams<T> / ELUBackwardParams<T>  passed  alpha ,  scale  and  input_scale  to the kernel as  T , so for half/bfloat16 SELU's constants were rounded before being used in float math, making ~18% (half) / ~83% (bfloat16) of SELU outputs 1 ulp off CPU. Make them plain float struc",
+      "aiSummary": "The patch changes how ELU parameters are passed to the kernel. Previously the parameters were cast to the template type T, causing rounding for half and bfloat16 precision and resulting in many SELU outputs being slightly off from CPU results. The update now passes the parameters as plain float structures, improving accuracy.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F57448d9a1e9d4b6c7ba5355242936292727a5cf0",
+      "category": "Hardware",
+      "filterTags": [
+        "MPS",
+        "ELU",
+        "half",
+        "bfloat16",
+        "float",
+        "SELU"
+      ],
+      "publishedAt": "2026-11-01T04:32:06+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Software"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic",
+      "title": "DeepSeek Drops Enhanced Coding Agent With Aim to Rival Anthropic",
+      "dek": "DeepSeek has released a prototype of a more autonomous coding agent as it seeks to challenge Anthropic PBC’s popular Claude Code.",
+      "aiSummary": "DeepSeek released a prototype of a more autonomous coding agent. The new agent aims to compete with Anthropic PBC’s Claude Code.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-01/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "DeepSeek",
+        "Anthropic",
+        "Claude Code",
+        "coding agent"
+      ],
+      "publishedAt": "2026-11-01T03:48:18+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    }
+  ]
+}
