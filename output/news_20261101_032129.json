@@ -1,0 +1,631 @@
+{
+  "news": [
+    {
+      "slug": "trunk-1f4d2d5e820dd870626dca4f9603e3a49879dbde",
+      "title": "trunk/1f4d2d5e820dd870626dca4f9603e3a49879dbde",
+      "dek": "[CooR] Omit the current device index from repro input storages under …",
+      "aiSummary": "The commit modifies the CooR component to omit the current device index from repro input storages. This change is part of a specific code revision identified by the hash 1f4d2d5e820dd870626dca4f9603e3a49879dbde.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F1f4d2d5e820dd870626dca4f9603e3a49879dbde",
+      "category": "Software Development",
+      "filterTags": [
+        "CooR",
+        "repro input storages",
+        "device index"
+      ],
+      "publishedAt": "2026-11-01T02:40:58+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Code Maintenance"
+        }
+      ]
+    },
+    {
+      "slug": "ai-made-me-homeless",
+      "title": "AI Made Me Homeless",
+      "dek": "Artificial intelligence caused my loss of housing.",
+      "aiSummary": "The article contains no text. Therefore, no further information is available.",
+      "articleUrl": "https://medium.com/effortless-programming/ai-made-me-homeless-a7266d716e59",
+      "category": "Artificial Intelligence",
+      "filterTags": [],
+      "publishedAt": "2026-11-01T02:38:11+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Social Impact"
+        }
+      ]
+    },
+    {
+      "slug": "james-mickens-talk-a-sober-analysis-of-ai-impact-labscon-26",
+      "title": "James Mickens' Talk: A Sober Analysis of AI Impact (LABScon '26)",
+      "dek": "James Mickens presents a realistic assessment of how artificial intelligence will affect various sectors at the LABScon '26 conference.",
+      "aiSummary": "The provided text contains only the title of a talk by James Mickens at LABScon '26. No additional details, arguments, or factual content from the article body are available to summarize.",
+      "articleUrl": "https://www.youtube.com/watch?v=usZLo_9Jz54",
+      "category": "AI",
+      "filterTags": [
+        "James Mickens",
+        "LABScon '26",
+        "AI"
+      ],
+      "publishedAt": "2026-11-01T02:17:57+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-80a60b3ec993a1da4a5c88cac9a595af51b819b3",
+      "title": "trunk/80a60b3ec993a1da4a5c88cac9a595af51b819b3",
+      "dek": "[ROCm] Add wave32 WMMA path to int4mm for gfx11, gfx12 and gfx1250 (#…",
+      "aiSummary": "The commit introduces a wave32 WMMA path to the int4mm operation for gfx11, gfx12, and gfx1250 architectures. This change is part of the ROCm software stack.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F80a60b3ec993a1da4a5c88cac9a595af51b819b3",
+      "category": "Hardware",
+      "filterTags": [
+        "ROCm",
+        "WMMA",
+        "int4mm",
+        "gfx11",
+        "gfx12",
+        "gfx1250"
+      ],
+      "publishedAt": "2026-11-01T01:55:01+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-44f99009d01fbdd4013d40499b475677c865bb43",
+      "title": "trunk/44f99009d01fbdd4013d40499b475677c865bb43",
+      "dek": "[CooR] Drop the device index from the fx graph cache key under compil…",
+      "aiSummary": "The update modifies the CooR component to exclude the device index from the function graph cache key. This change is part of a commit identified by the hash 44f99009d01fbdd4013d40499b475677c865bb43.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F44f99009d01fbdd4013d40499b475677c865bb43",
+      "category": "Software Engineering",
+      "filterTags": [
+        "CooR",
+        "fx graph",
+        "cache key"
+      ],
+      "publishedAt": "2026-11-01T01:53:17+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Performance Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "show-hn-linkedin-ops-zero-dependency-cdp-automation-built-for-ai-agents",
+      "title": "Show HN: LinkedIn-ops – Zero-dependency CDP automation built for AI agents",
+      "dek": "A new tool for automating LinkedIn using AI agents has no external dependencies.",
+      "aiSummary": "The project introduces LinkedIn-ops, a zero-dependency automation tool built on Chrome DevTools Protocol (CDP). It is specifically designed to facilitate operations for AI agents interacting with LinkedIn.",
+      "articleUrl": "https://github.com/shashtag-ventures/linkedin-ops",
+      "category": "AI",
+      "filterTags": [
+        "LinkedIn-ops",
+        "CDP",
+        "AI agents",
+        "Automation"
+      ],
+      "publishedAt": "2026-11-01T01:46:21+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Automation"
+        },
+        {
+          "name": "Web Scraping"
+        }
+      ]
+    },
+    {
+      "slug": "these-firms-you-ve-never-heard-of-are-feeding-fears-the-ai-bubble-could-burst",
+      "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
+      "dek": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
+      "aiSummary": "Unfamiliar firms are contributing to fears that the AI bubble could burst. This concern is driven by the massive amount of debt held by data centers, which is measured in the tens of billions of pounds.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Data Centers",
+        "Debt"
+      ],
+      "publishedAt": "2026-11-01T01:37:26+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "5-expensive-hobbies-where-owning-a-3d-printer-actually-saves-you-money",
+      "title": "5 expensive hobbies where owning a 3D printer actually saves you money",
+      "dek": "While a personal 3D printer is certainly an investment, if you regularly engage with an expensive hobby, it might actually save you some cash.",
+      "aiSummary": "Although purchasing a personal 3D printer requires an initial financial investment, it can result in savings for individuals who frequently participate in expensive hobbies. The article suggests that for regular enthusiasts of certain high-cost activities, the ability to print items in-house offsets the upfront cost of the equipment.",
+      "articleUrl": "https://www.engadget.com/2300213/3d-printer-expensive-hobbies-where-it-saves-money/",
+      "category": "Consumer Technology",
+      "filterTags": [
+        "3D printing",
+        "hobbies"
+      ],
+      "publishedAt": "2026-11-01T00:30:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Technology"
+        },
+        {
+          "name": "Hobbies"
+        }
+      ]
+    },
+    {
+      "slug": "v1-14-0-dev12",
+      "title": "v1.14.0.dev12",
+      "dek": "Langflow nightly v1.14.0.dev12",
+      "aiSummary": "Langflow has released a new nightly build, version 1.14.0.dev12. This update likely includes ongoing development changes and bug fixes. Users can access the latest features through this nightly release.",
+      "articleUrl": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev12",
+      "category": "Software Development",
+      "filterTags": [
+        "Langflow"
+      ],
+      "publishedAt": "2026-11-01T00:29:33+00:00",
+      "publisher": {
+        "name": "langflow-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langflow-ai/langflow",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "amazon-made-the-aux-input-on-older-alexa-devices-less-useful",
+      "title": "Amazon made the AUX input on older Alexa devices less useful",
+      "dek": "Amazon has made a quiet change to older Echo speakers that will leave owners rethinking how they use their devices and manage their home audio setups.",
+      "aiSummary": "Amazon quietly altered older Echo speakers, diminishing the usefulness of their AUX input. The change forces users to reconsider how they connect external audio sources and manage their home audio setups.",
+      "articleUrl": "https://www.engadget.com/2300219/amazon-made-alexa-devices-aux-port-less-useful/",
+      "category": "Smart Home",
+      "filterTags": [
+        "Amazon",
+        "Echo",
+        "Alexa",
+        "AUX input"
+      ],
+      "publishedAt": "2026-11-01T00:00:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Smart Home"
+        },
+        {
+          "name": "Audio"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "how-big-and-powerful-is-spacex-s-starship-rocket",
+      "title": "How big and powerful is SpaceX's Starship rocket?",
+      "dek": "SpaceX's Starship has a big role to play in NASA's plans to land astronauts on the Moon. Here's how big this rocket is and how its two stages work together.",
+      "aiSummary": "SpaceX's Starship is a critical component in NASA's strategy to return astronauts to the Moon. The rocket operates using two stages that work in tandem to achieve its mission objectives.",
+      "articleUrl": "https://www.engadget.com/2300227/how-big-powerful-spacex-starship-rocket/",
+      "category": "Aerospace",
+      "filterTags": [
+        "SpaceX",
+        "Starship",
+        "NASA"
+      ],
+      "publishedAt": "2026-10-31T23:45:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Aerospace"
+        },
+        {
+          "name": "Space Exploration"
+        }
+      ]
+    },
+    {
+      "slug": "how-we-took-over-chatgpt-accounts",
+      "title": "How We Took Over ChatGPT Accounts",
+      "dek": "How We Took Over ChatGPT Accounts \nParameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call this \"Canvas\" but it looks like the latest revision is called  HTML previews ), where interactive custom HTML apps are d",
+      "aiSummary": "Parameter Labs detailed an exploit targeting ChatGPT's implementation of the artifacts pattern, which allows for interactive custom HTML apps. The vulnerability enabled the researchers to take over user accounts through this specific feature.",
+      "articleUrl": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
+      "category": "Security",
+      "filterTags": [
+        "ChatGPT",
+        "OpenAI",
+        "Parameter Labs",
+        "HTML",
+        "Artifacts"
+      ],
+      "publishedAt": "2026-10-31T23:15:22+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "b12025",
+      "title": "b12025",
+      "dek": "llama : fix rotation of attention tensors in layers with shared KV (#…",
+      "aiSummary": "This commit addresses an issue in the llama model where attention tensors were incorrectly rotated in layers that share key-value pairs. The fix ensures proper tensor rotation, improving model correctness.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12025",
+      "category": "AI",
+      "filterTags": [
+        "llama",
+        "attention"
+      ],
+      "publishedAt": "2026-10-31T22:30:49+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "datasette-llm-0-1a9",
+      "title": "datasette-llm 0.1a9",
+      "dek": "Release:   datasette-llm 0.1a9 \n I have some big upgrades to  Datasette Agent  in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying  datasette-llm  plugin.  \n It now picks up the default model used by  LLM , which means you can start us",
+      "aiSummary": "The datasette-llm plugin has been updated to version 0.1a9, adding a small user‑experience improvement: it now automatically uses the default model configured for LLM. The release notes also mention that larger upgrades to the Datasette Agent are planned for the future.",
+      "articleUrl": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
+      "category": "Open Source",
+      "filterTags": [
+        "datasette-llm",
+        "Datasette Agent",
+        "LLM"
+      ],
+      "publishedAt": "2026-10-31T22:10:01+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "fbi-blames-north-korea-for-6-billion-binance-crypto-hack",
+      "title": "FBI Blames North Korea for $6 Billion Binance Crypto Hack",
+      "dek": "The FBI said that North Korea was responsible for stealing more than $6 billion in cryptocurrencies in a brazen hacking attack on Binance.",
+      "aiSummary": "The FBI has identified North Korea as the entity responsible for a hacking attack on Binance. The incident resulted in the theft of over $6 billion in cryptocurrencies.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-10-31/fbi-blames-north-korea-for-6-billion-binance-crypto-hack",
+      "category": "Cybersecurity",
+      "filterTags": [
+        "FBI",
+        "North Korea",
+        "Binance",
+        "Cryptocurrency"
+      ],
+      "publishedAt": "2026-10-31T21:59:09+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Geopolitics"
+        }
+      ]
+    },
+    {
+      "slug": "apple-ceo-says-the-company-doesn-t-want-to-ship-ai-for-ai-s-sake",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "dek": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "aiSummary": "Apple's new CEO has defended the company's current stance in the artificial intelligence sector. The executive emphasized that Apple does not intend to release AI products solely for the purpose of shipping AI.",
+      "articleUrl": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "category": "AI",
+      "filterTags": [
+        "Apple",
+        "AI"
+      ],
+      "publishedAt": "2026-10-31T21:41:00+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale",
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "dek": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
+      "aiSummary": "The TechCrunch Founder Summit is scheduled for November 4 at Boston's SoWa Power Station. The event features a full day of networking opportunities and actionable insights designed to help founders scale their ideas and startups.",
+      "articleUrl": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "category": "Startups",
+      "filterTags": [
+        "TechCrunch",
+        "Founder Summit",
+        "Boston",
+        "SoWa Power Station"
+      ],
+      "publishedAt": "2026-10-31T21:36:07+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Startups"
+        },
+        {
+          "name": "Networking"
+        },
+        {
+          "name": "Events"
+        }
+      ]
+    },
+    {
+      "slug": "judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward",
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "dek": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+      "aiSummary": "The NAACP has filed a lawsuit claiming that xAI, a company owned by SpaceX, is violating the Clean Air Act due to pollution from its data center. A judge has allowed the lawsuit to proceed.",
+      "articleUrl": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "category": "Legal",
+      "filterTags": [
+        "NAACP",
+        "xAI",
+        "SpaceX",
+        "Clean Air Act"
+      ],
+      "publishedAt": "2026-10-31T21:17:03+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Environmental"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "your-energy-changes-how-you-see-the-world",
+      "title": "Your Energy Changes How You See the World",
+      "dek": "A slumped figure sits beside a dim ember in the deep purple shadow of a stone tower, while the same figure climbs its lit face holding a lantern high/images/energy-changes-the-frames.webp/images/energy-changes-the-frames.webp I think so much of winning at life comes down to somet",
+      "aiSummary": "The article suggests that success in life is significantly influenced by one's energy levels. It uses a visual metaphor of a figure moving from a dim, slumped state to a lit, active state to illustrate how energy changes one's perspective and experience.",
+      "articleUrl": "https://danielmiessler.com/blog/your-energy-changes-how-you-see-the-world?utm_source=rss&utm_medium=feed&utm_campaign=website",
+      "category": "Psychology",
+      "filterTags": [
+        "Energy",
+        "Mindset",
+        "Personal Development"
+      ],
+      "publishedAt": "2026-10-30T20:00:00+00:00",
+      "publisher": {
+        "name": "Daniel Miessler",
+        "domain": "danielmiessler.com",
+        "website": "https://danielmiessler.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=danielmiessler.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=danielmiessler.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Psychology"
+        },
+        {
+          "name": "Self-Improvement"
+        }
+      ]
+    }
+  ]
+}
