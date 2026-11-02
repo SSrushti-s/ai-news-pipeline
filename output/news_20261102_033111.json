@@ -1,0 +1,706 @@
+{
+  "news": [
+    {
+      "slug": "ciflow-xpu-197543-remove-redundant-sdpa-contexts-from-efficient-attention-test",
+      "title": "ciflow/xpu/197543: Remove redundant SDPA contexts from efficient attention test",
+      "dek": "All phases of test_effn_attn_uniform_zero_bias call the efficient attention operator directly, so SDPA backend-selection contexts no longer affect execution. Remove the two redundant contexts and return the runtime-mask result directly, preserving the expanded-mask coverage. \n Pr",
+      "aiSummary": "The pull request removes two redundant SDPA backend-selection contexts from the test_effn_attn_uniform_zero_bias function. Since all test phases call the efficient attention operator directly, these contexts no longer impact execution. The change returns the runtime-mask result directly while preserving expanded-mask coverage.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fxpu%2F197543",
+      "category": "Machine Learning",
+      "filterTags": [
+        "ciflow",
+        "xpu",
+        "SDPA",
+        "efficient attention"
+      ],
+      "publishedAt": "2026-11-02T10:01:30+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Testing"
+        }
+      ]
+    },
+    {
+      "slug": "agentic-ai-is-myth-set-in-motion",
+      "title": "Agentic AI Is Myth Set in Motion",
+      "dek": "The claim that AI can act on its own is a myth that is now being pursued.",
+      "aiSummary": "",
+      "articleUrl": "https://braddelong.substack.com/p/crosspost-henry-farrell-agentic-ai",
+      "category": "AI",
+      "filterTags": [],
+      "publishedAt": "2026-11-02T03:20:34+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "hackers-are-running-riot-with-ai-its-makers-want-to-cash-in",
+      "title": "Hackers are running riot with AI. Its makers want to cash in",
+      "dek": "Cybercriminals are exploiting artificial intelligence, while its developers aim to profit.",
+      "aiSummary": "Hackers are employing AI tools to carry out attacks, and the creators of these tools are looking to benefit financially.",
+      "articleUrl": "https://www.economist.com/business/2026/11/01/hackers-are-running-riot-with-ai-its-makers-want-to-cash-in",
+      "category": "Cybersecurity",
+      "filterTags": [
+        "AI"
+      ],
+      "publishedAt": "2026-11-02T03:11:48+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "Artificial Intelligence"
+        }
+      ]
+    },
+    {
+      "slug": "ciflow-xpu-202524",
+      "title": "ciflow/xpu/202524",
+      "dek": "Fix lint issues and skip the failed test cases",
+      "aiSummary": "The update for ciflow/xpu/202524 focuses on resolving lint issues within the codebase. Additionally, it modifies the test configuration to skip specific test cases that are currently failing.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fxpu%2F202524",
+      "category": "DevOps",
+      "filterTags": [
+        "ciflow",
+        "xpu",
+        "lint",
+        "testing"
+      ],
+      "publishedAt": "2026-11-02T03:05:49+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "oaktree-s-howard-marks-says-ai-stumbles-have-boosted-skepticism",
+      "title": "Oaktree’s Howard Marks Says AI Stumbles Have Boosted Skepticism",
+      "dek": "Recent artificial intelligence related market stumbles have somewhat burst the bubble of infallibility around the sector, Howard Marks, co-chair of Oaktree Capital Management LP, said in an interview with Bloomberg TV.",
+      "aiSummary": "In a Bloomberg TV interview, Oaktree Capital's co-chair noted that recent AI market missteps have shaken the belief that the sector is flawless. He said these stumbles have raised skepticism among investors. The comments suggest a growing caution in the AI space.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-02/oaktree-s-howard-marks-says-ai-stumbles-have-boosted-skepticism",
+      "category": "Finance",
+      "filterTags": [
+        "Oaktree Capital Management",
+        "Bloomberg TV",
+        "Artificial Intelligence"
+      ],
+      "publishedAt": "2026-11-02T03:04:25+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Investment"
+        }
+      ]
+    },
+    {
+      "slug": "ciflow-xpu-200258-xpu-fix-combo-kernel-test-tolerance-for-tiled-2d-reduction",
+      "title": "ciflow/xpu/200258: [XPU] Fix combo kernel test tolerance for tiled 2D reduction",
+      "dek": "Fixes:  intel/torch-xpu-ops#5272  (sub-item  #198180 ) \nFixes:  #198180 \n test_combo_kernel_per_config_subkernel_r0_r1 compares a 2048-element \nfloat32 reduction eager vs. compiled. Under the test's \ntriton.prefer_nd_tiling + triton.tile_reductions config, the Triton \nkernel accu",
+      "aiSummary": "This update resolves issue #5272 by correcting the test tolerance for the test_combo_kernel_per_config_subkernel_r0_r1 test. The test compares a 2048-element float32 reduction between eager and compiled modes under specific Triton tiling configurations.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fxpu%2F200258",
+      "category": "Hardware",
+      "filterTags": [
+        "Triton",
+        "XPU",
+        "torch-xpu-ops",
+        "Intel"
+      ],
+      "publishedAt": "2026-11-02T03:04:07+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Machine Learning Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "sam-altman-makes-surprise-south-korea-visit-as-openai-builds-on-chip-partnerships",
+      "title": "Sam Altman makes surprise South Korea visit as OpenAI builds on chip partnerships",
+      "dek": "OpenAI CEO Sam Altman made an unannounced visit to South Korea over the weekend, meeting with Samsung executives and reportedly SK Group executives.",
+      "aiSummary": "OpenAI CEO Sam Altman conducted an unannounced trip to South Korea over the weekend. During the visit, he met with executives from Samsung and reportedly SK Group to advance the company's chip partnerships.",
+      "articleUrl": "https://www.cnbc.com/2026/11/02/openai-sam-altman-samsung-sk-south-korea.html",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "Sam Altman",
+        "Samsung",
+        "SK Group",
+        "Chips"
+      ],
+      "publishedAt": "2026-11-02T02:58:53+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "sunday-reboot-sam-altman-needs-to-read-the-ram-room",
+      "title": "Sunday Reboot: Sam Altman needs to read the RAM room",
+      "dek": "In this week's Sunday Reboot, Sam Altman thinks it's wasteful for you to have more memory in your  Mac . It's bad enough that you have any RAM that he can't access at all. OpenAI CEO Sam Altman Sunday Reboot is a weekly column covering some of the lighter stories within the Apple",
+      "aiSummary": "The article discusses comments made by OpenAI CEO Sam Altman, who described having more memory in a Mac as wasteful. The piece notes that Altman's perspective is particularly notable given that he cannot access the RAM on the device at all.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/02/sunday-reboot-sam-altman-needs-to-read-the-ram-room?utm_source=rss",
+      "category": "AI",
+      "filterTags": [
+        "Sam Altman",
+        "OpenAI",
+        "Mac",
+        "RAM"
+      ],
+      "publishedAt": "2026-11-02T02:46:56+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Technology Commentary"
+        }
+      ]
+    },
+    {
+      "slug": "new-ai-driven-malware-feeds-stolen-data-to-claude-to-rank-victims-assets",
+      "title": "New AI-driven malware feeds stolen data to Claude to rank victims' assets",
+      "dek": "Recently developed malicious software that uses artificial intelligence to transmit captured information to OpenAI's Claude for evaluating the possessions of those harmed.",
+      "aiSummary": "The article reports on a new type of malware that uses artificial intelligence to gather stolen data and forward it to Claude. The malware then uses Claude to assess and rank the assets of its victims.",
+      "articleUrl": "https://www.tomshardware.com/tech-industry/cyber-security/new-ai-driven-windows-malware-feeds-stolen-data-to-claude-to-rank-victims-assets-by-value-then-deletes-itself-payload-builds-custom-target-assessment-can-switch-models-if-one-refuses-or-skip-the-ai-step-entirely",
+      "category": "Cybersecurity",
+      "filterTags": [
+        "Claude",
+        "Artificial Intelligence",
+        "Malware"
+      ],
+      "publishedAt": "2026-11-02T02:17:14+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "Artificial Intelligence"
+        }
+      ]
+    },
+    {
+      "slug": "macquarie-executive-sees-ai-fast-tracking-junior-analyst-careers",
+      "title": "Macquarie Executive Sees AI Fast-Tracking Junior Analyst Careers",
+      "dek": "Junior research staff at Macquarie Capital need not fret too much about AI taking their jobs, according to an executive at the Australian firm.",
+      "aiSummary": "An executive at Macquarie Capital stated that junior research staff should not worry about artificial intelligence replacing their roles. Instead, the firm's leadership views AI as a tool that will accelerate the professional development of these employees.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-02/macquarie-executive-sees-ai-fast-tracking-junior-analyst-careers",
+      "category": "Finance",
+      "filterTags": [
+        "Macquarie Capital",
+        "AI",
+        "Financial Services"
+      ],
+      "publishedAt": "2026-11-02T02:15:26+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Workforce"
+        }
+      ]
+    },
+    {
+      "slug": "ubs-asia-wealth-chair-hiring-selectively-amid-growth",
+      "title": "UBS Asia Wealth Chair: Hiring Selectively Amid Growth",
+      "dek": "Amy Lo, Asia Chairman at UBS Global Wealth Management and CEO at UBS Hong Kong, says the bank is hiring selectively as Asia Pacific remains a strong growth region. She speaks with Yvonne Man from the Women Chief Executives Summit in Hong Kong. (Source: Bloomberg)",
+      "aiSummary": "Amy Lo, Asia Chairman at UBS Global Wealth Management and CEO of UBS Hong Kong, stated that the bank is hiring selectively despite Asia Pacific being a strong growth region. She made these remarks during an interview with Yvonne Man at the Women Chief Executives Summit in Hong Kong.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-11-02/ubs-asia-wealth-chair-hiring-selectively-amid-growth-video",
+      "category": "Finance",
+      "filterTags": [
+        "UBS",
+        "Amy Lo",
+        "Yvonne Man",
+        "Bloomberg",
+        "Women Chief Executives Summit"
+      ],
+      "publishedAt": "2026-11-02T02:08:20+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Banking"
+        },
+        {
+          "name": "Human Resources"
+        }
+      ]
+    },
+    {
+      "slug": "police-use-facial-recognition-to-scan-one-million-faces-in-wa-trial-leading-to-122-arrests",
+      "title": "Police use facial recognition to scan one million faces in WA trial leading to 122 arrests",
+      "dek": "Deployments of surveillance vans over five months result in nine false alerts and led officers to engage with 146 registered sex offenders Get our  breaking news email ,  free app  or  daily news podcast More than a million people have had their faces scanned in a trial of real-t",
+      "aiSummary": "In a Washington state trial, police used facial‑recognition vans for five months, scanning more than a million faces. The system produced nine false alerts and led officers to confront 146 registered sex offenders, resulting in 122 arrests.",
+      "articleUrl": "https://www.theguardian.com/australia-news/2026/nov/02/wa-police-facial-recognition-technology-trial",
+      "category": "Law Enforcement",
+      "filterTags": [
+        "facial recognition",
+        "surveillance vans",
+        "Washington state"
+      ],
+      "publishedAt": "2026-11-02T02:02:34+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Law Enforcement"
+        },
+        {
+          "name": "Privacy"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "how-long-is-a-new-apple-tv-actually-supposed-to-last",
+      "title": "How long is a new Apple TV actually supposed to last?",
+      "dek": "Past Apple TV models have seen excellent support from Apple compared to some other product lines, but it's not a guarantee.",
+      "aiSummary": "Apple TV models have historically received strong support from Apple, often longer than other product lines. However, this support is not guaranteed for future models.",
+      "articleUrl": "https://www.engadget.com/2300332/how-long-new-apple-tv-last-lifespan/",
+      "category": "Hardware",
+      "filterTags": [
+        "Apple TV",
+        "Apple"
+      ],
+      "publishedAt": "2026-11-02T01:30:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Software Support"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "binance-users-withdraw-3-6bn-after-record-crypto-hack",
+      "title": "Binance users withdraw $3.6bn after record crypto hack",
+      "dek": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
+      "aiSummary": "Binance halted transactions after a record-breaking hack that affected $6.3bn of digital assets. In response, users withdrew $3.6bn.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+      "category": "Cryptocurrency",
+      "filterTags": [
+        "Binance",
+        "crypto hack",
+        "digital assets"
+      ],
+      "publishedAt": "2026-11-02T01:15:25+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cryptocurrency"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "6-google-maps-features-that-work-better-on-android-auto-vs-carplay",
+      "title": "6 Google Maps features that work better on Android Auto vs. CarPlay",
+      "dek": "You would think that Maps would be the same regardless of your phone's brand, but there are some differences between the Android Auto and CarPlay experiences.",
+      "aiSummary": "Although Google Maps is available on both platforms, the user experience differs between Android Auto and CarPlay. The article highlights six specific features that function better when using the Android Auto interface compared to CarPlay.",
+      "articleUrl": "https://www.engadget.com/2300327/google-maps-features-work-better-android-auto-vs-carplay/",
+      "category": "Automotive",
+      "filterTags": [
+        "Google Maps",
+        "Android Auto",
+        "CarPlay"
+      ],
+      "publishedAt": "2026-11-02T01:00:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Automotive"
+        },
+        {
+          "name": "Mobile Technology"
+        }
+      ]
+    },
+    {
+      "slug": "how-to-add-and-rearrange-apps-on-your-samsung-smart-tv",
+      "title": "How to add and rearrange apps on your Samsung smart TV",
+      "dek": "Though your Samsung smart TV comes pre-loaded with the most popular streaming apps, you may want to add others and do some reorganizing while you're at it.",
+      "aiSummary": "Samsung smart TVs are pre-installed with popular streaming applications, but users can add additional apps. The process also allows for reorganizing the layout of these applications.",
+      "articleUrl": "https://www.engadget.com/2300335/how-to-add-rearrange-apps-samsung-smart-tv/",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Samsung",
+        "Smart TV",
+        "Streaming Apps"
+      ],
+      "publishedAt": "2026-11-02T00:45:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Home Entertainment"
+        }
+      ]
+    },
+    {
+      "slug": "v1-14-0-dev13",
+      "title": "v1.14.0.dev13",
+      "dek": "Langflow nightly v1.14.0.dev13",
+      "aiSummary": "Langflow has released version 1.14.0.dev13. This update is part of the project's nightly development cycle.",
+      "articleUrl": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev13",
+      "category": "AI",
+      "filterTags": [
+        "Langflow"
+      ],
+      "publishedAt": "2026-11-02T00:26:41+00:00",
+      "publisher": {
+        "name": "langflow-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langflow-ai/langflow",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "if-in-doubt-delete-the-uv-lock-file",
+      "title": "If in doubt, delete the uv.lock file",
+      "dek": "I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is: \n If in doubt, delete the uv.lock file \n Most of my projects are libraries which don't include a  uv.lock  file, since it's rude for a li",
+      "aiSummary": "The author has been encountering confusing Python dependency errors after upgrading to Python 3.15. They discovered that deleting the uv.lock file resolves these issues. They also note that libraries typically do not ship uv.lock files because it is considered inappropriate for a library to include a lock file.",
+      "articleUrl": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
+      "category": "Python",
+      "filterTags": [
+        "uv.lock",
+        "Python 3.15",
+        "Python dependencies",
+        "uv"
+      ],
+      "publishedAt": "2026-11-01T23:24:22+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Python"
+        },
+        {
+          "name": "Dependency Management"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "openai-might-rebrand-its-data-centers-as-ai-compute-campuses",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "dek": "Data centers are deeply unpopular. But what if we called them something else?",
+      "aiSummary": "The article notes that data centers are widely disliked. It proposes that renaming them as 'AI compute campuses' might change public perception. The suggestion is part of a broader discussion about how naming can influence attitudes toward technology infrastructure.",
+      "articleUrl": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "OpenAI",
+        "data centers",
+        "AI compute campuses"
+      ],
+      "publishedAt": "2026-11-01T21:55:23+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "Marketing"
+        }
+      ]
+    },
+    {
+      "slug": "game-off-2026-the-theme-is-shift",
+      "title": "Game Off 2026: The theme is SHIFT",
+      "dek": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. \n The post  Game Off 2026: The theme is SHIFT  appeared first on  The GitHub Blog .",
+      "aiSummary": "GitHub’s annual month‑long game jam returns for its 14th year in November, inviting participants to create games inspired by the theme SHIFT. The theme encourages changing gears, swapping perspectives, bending reality, or pressing a certain key.",
+      "articleUrl": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
+      "category": "Gaming",
+      "filterTags": [
+        "GitHub",
+        "Game Off",
+        "SHIFT"
+      ],
+      "publishedAt": "2026-11-01T21:36:00+00:00",
+      "publisher": {
+        "name": "GitHub Blog",
+        "domain": "github.blog",
+        "website": "https://github.blog",
+        "logoUrl": "https://github.blog/wp-content/uploads/2019/01/cropped-github-favicon-512.png?fit=180%2C180",
+        "faviconUrl": "https://github.githubassets.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Community Events"
+        }
+      ]
+    },
+    {
+      "slug": "the-post-ai-security-floor",
+      "title": "The Post-AI Security Floor",
+      "dek": "Hand-drawn diagram titled The Post-AI Security Floor with three numbered steps: know everything you have shipped, get it off the open internet, and lean on big vendors instead of small ones/images/post-ai-security-floor-diagram.webp/images/post-ai-security-floor-diagram.webp Cybe",
+      "aiSummary": "The article outlines a three-step strategy for maintaining security in the post-AI era. These steps involve auditing all shipped assets, removing them from the open internet, and relying on large vendors rather than smaller ones.",
+      "articleUrl": "https://danielmiessler.com/blog/post-ai-security-floor?utm_source=rss&utm_medium=feed&utm_campaign=website",
+      "category": "Security",
+      "filterTags": [
+        "AI",
+        "Security",
+        "Vendors"
+      ],
+      "publishedAt": "2026-11-01T20:00:00+00:00",
+      "publisher": {
+        "name": "Daniel Miessler",
+        "domain": "danielmiessler.com",
+        "website": "https://danielmiessler.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=danielmiessler.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=danielmiessler.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    }
+  ]
+}
