@@ -1,0 +1,1708 @@
+{
+  "news": [
+    {
+      "slug": "ciflow-inductor-203133-inductor-consolidate-strict-pointwise-tests",
+      "title": "ciflow/inductor/203133: [Inductor] Consolidate strict pointwise tests",
+      "dek": "BC-breaking? \n \n No. \n \n Agent details (AI generated) \n \n Authored with Codex; submitted as a draft for the user's GitHub review. \n Problem \n The strict suite has separate ordinary/edge wrappers for each direction, plus repeated compile-and-compare bodies for related rounding and",
+      "aiSummary": "This pull request seeks to consolidate strict pointwise tests within the Inductor module by merging separate ordinary and edge wrappers for each direction. It also addresses repeated compile-and-compare logic for related rounding operations, with the change noted as not being breaking.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Finductor%2F203133",
+      "category": "Open Source",
+      "filterTags": [
+        "Inductor",
+        "PyTorch",
+        "Codex",
+        "GitHub"
+      ],
+      "publishedAt": "2026-11-03T00:11:39+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "faulty-ai-face-recognition-is-wrongly-accusing-alarming-numbers-of-shoplifting",
+      "title": "Faulty AI face recognition is wrongly accusing alarming numbers of shoplifting",
+      "dek": "Errors in AI face recognition systems are leading to incorrect accusations of shoplifting.",
+      "aiSummary": "The article highlights that faulty AI face recognition technology is causing a significant number of false accusations for shoplifting. These errors are resulting in alarming rates of wrongful identification and prosecution.",
+      "articleUrl": "https://www.gadgetreview.com/the-number-of-innocent-people-being-accused-of-shoplifting-by-faulty-ai-facial-recognition-systems-is-alarming",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "face recognition"
+      ],
+      "publishedAt": "2026-11-03T00:06:38+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "ciflow-trunk-203132",
+      "title": "ciflow/trunk/203132",
+      "dek": "Don't run tests that will be skipped",
+      "aiSummary": "The update modifies the test execution logic to prevent the running of tests that are designated to be skipped. This change is associated with the ciflow/trunk/203132 identifier.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Ftrunk%2F203132",
+      "category": "DevOps",
+      "filterTags": [
+        "ciflow",
+        "testing"
+      ],
+      "publishedAt": "2026-11-03T00:06:17+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "ciflow-trunk-203131-update",
+      "title": "ciflow/trunk/203131: Update",
+      "dek": "[ghstack-poisoned]",
+      "aiSummary": "The provided text indicates an update to the ciflow/trunk/203131 branch. The description notes that the content is ghstack-poisoned, suggesting a specific state or error in the version control system.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Ftrunk%2F203131",
+      "category": "DevOps",
+      "filterTags": [
+        "ciflow",
+        "ghstack"
+      ],
+      "publishedAt": "2026-11-03T00:04:34+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Version Control"
+        }
+      ]
+    },
+    {
+      "slug": "ai-powered-malware-highly-likely-to-be-used-to-hack-uk-infrastructure-by-2028",
+      "title": "AI-powered malware ‘highly likely’ to be used to hack UK infrastructure by 2028",
+      "dek": "National Cyber Security Centre expects attacks on critical facilities such as power stations, airports and hospitals AI-powered malicious software is “highly likely” to be used in hacking attacks against the UK’s power stations, airports and hospitals by 2028, according to the st",
+      "aiSummary": "The National Cyber Security Centre warns that AI-powered malicious software is likely to target UK critical infrastructure, including power stations, airports and hospitals, by 2028. It expects attacks on these facilities.",
+      "articleUrl": "https://www.theguardian.com/technology/2026/nov/03/ai-powered-malware-artificial-intelligence-hacking-critical-uk-infrastructure",
+      "category": "Cybersecurity",
+      "filterTags": [
+        "AI-infused malware",
+        "AI-powered malicious software",
+        "National Cyber Security Centre",
+        "UK infrastructure",
+        "critical facilities"
+      ],
+      "publishedAt": "2026-11-03T00:01:32+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "Critical Infrastructure"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "the-reason-why-some-iphone-calls-don-t-have-a-decline-option-and-others-do",
+      "title": "The reason why some iPhone calls don't have a decline option, and others do",
+      "dek": "Sometimes your iPhone lets you decline a call and sometimes it doesn't. Here's why that happens, and a few easy ways to handle the calls you'd rather skip.",
+      "aiSummary": "The availability of the decline button on an iPhone varies depending on the type of incoming call. The article explains the technical reasons for this inconsistency and provides simple methods for managing calls that users wish to skip.",
+      "articleUrl": "https://www.engadget.com/2300377/some-iphone-calls-decline-option-reason-why/",
+      "category": "Consumer Tech",
+      "filterTags": [
+        "iPhone",
+        "iOS",
+        "Call Management"
+      ],
+      "publishedAt": "2026-11-03T00:00:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Tech"
+        },
+        {
+          "name": "Mobile Devices"
+        }
+      ]
+    },
+    {
+      "slug": "developers-are-downgrading-their-ai-on-purpose-and-it-s-working",
+      "title": "Developers are downgrading their AI on purpose – and it's working",
+      "dek": "Programmers are intentionally using less advanced AI tools, and it is yielding good results.",
+      "aiSummary": "The provided text does not contain an article body, only a title. Therefore, no factual summary can be generated based on the content.",
+      "articleUrl": "https://thenewstack.io/claude-code-developer-refusals/",
+      "category": "AI",
+      "filterTags": [],
+      "publishedAt": "2026-11-02T23:53:41+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "apple-s-latest-giant-education-deal-170-000-macbook-neo-to-philippines",
+      "title": "Apple's latest giant education deal: 170,000 MacBook Neo to Philippines",
+      "dek": "Apple's budget-friendly  MacBook Neo  is seeing big success in the global education market, with 170,000 units sold to teachers and school staff members in the Philippines. Apple sold 170,000 MacBook Neos to educators and students in the Philippines during Q4 2026. Announced in  ",
+      "aiSummary": "Apple has secured a major education contract in the Philippines, selling 170,000 units of its budget-friendly MacBook Neo. These devices were purchased by teachers and school staff during the fourth quarter of 2026.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/02/apples-latest-giant-education-deal-170000-macbook-neo-to-philippines?utm_source=rss",
+      "category": "Hardware",
+      "filterTags": [
+        "Apple",
+        "MacBook Neo",
+        "Philippines",
+        "Education"
+      ],
+      "publishedAt": "2026-11-02T23:51:43+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Education Technology"
+        }
+      ]
+    },
+    {
+      "slug": "an-open-source-tool-that-makes-eye-candy-instagram-posts-that-doesn-t-use-ai",
+      "title": "An open-source tool that makes eye-candy Instagram posts that doesn't use AI",
+      "dek": "A free software tool creates visually appealing Instagram images without relying on artificial intelligence.",
+      "aiSummary": "The article introduces an open-source tool designed to generate visually attractive Instagram posts. Unlike many modern design tools, this specific utility does not utilize artificial intelligence to create its content.",
+      "articleUrl": "https://www.useinstatools.com/",
+      "category": "Open Source",
+      "filterTags": [
+        "Open Source",
+        "Instagram",
+        "Design Tools"
+      ],
+      "publishedAt": "2026-11-02T23:50:38+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Social Media"
+        },
+        {
+          "name": "Web Development"
+        }
+      ]
+    },
+    {
+      "slug": "llm-0-37",
+      "title": "llm 0.37",
+      "dek": "Release:   llm 0.37 \n There's a  lot  of stuff in this new release of my LLM CLI tool and Python library, representing around two months of accumulated features and fixes. \n I added  gpt-6.1-sol  and  gpt-6.1-terra , plus a new  llm openai endpoint add  command to make it easier ",
+      "aiSummary": "Version 0.37 of the LLM CLI tool and Python library was released, adding two new GPT models—gpt‑6.1‑sol and gpt‑6.1‑terra—and a command to simplify adding OpenAI endpoints. The update bundles roughly two months of accumulated features and bug fixes. The release aims to streamline model management for users.",
+      "articleUrl": "https://simonwillison.net/2026/Nov/2/llm/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "LLM",
+        "Python",
+        "OpenAI",
+        "CLI",
+        "gpt-6.1-sol",
+        "gpt-6.1-terra"
+      ],
+      "publishedAt": "2026-11-02T23:49:30+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "apple-s-profit-grows-12-despite-component-price-worries",
+      "title": "Apple’s Profit Grows 12% Despite Component Price Worries",
+      "dek": "The company said iPhone sales remained strong, but warned that the cost of memory chips for its devices was going up.",
+      "aiSummary": "Apple reported a 12% increase in profit, noting that iPhone sales remained robust. However, the company issued a warning that the cost of memory chips for its devices is rising.",
+      "articleUrl": "https://www.nytimes.com/2026/11/02/technology/apple-earnings.html",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Apple",
+        "iPhone",
+        "memory chips"
+      ],
+      "publishedAt": "2026-11-02T23:41:50+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Corporate Finance"
+        }
+      ]
+    },
+    {
+      "slug": "jim-cramer-says-lower-oil-prices-are-giving-stocks-a-boost-can-it-last",
+      "title": "Jim Cramer says lower oil prices are giving stocks a boost. Can it last?",
+      "dek": "CNBC’s Jim Cramer said falling oil prices and interest rates are fueling a rally.",
+      "aiSummary": "CNBC's Jim Cramer stated that declining oil prices and interest rates are currently driving a stock market rally. He expressed uncertainty regarding whether this positive momentum will be sustained.",
+      "articleUrl": "https://www.cnbc.com/2026/11/02/jim-cramer-oil-yields-non-tech-stocks.html",
+      "category": "Markets",
+      "filterTags": [
+        "Jim Cramer",
+        "CNBC",
+        "Oil Prices",
+        "Stock Market"
+      ],
+      "publishedAt": "2026-11-02T23:36:53+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Markets"
+        },
+        {
+          "name": "Energy"
+        },
+        {
+          "name": "Economics"
+        }
+      ]
+    },
+    {
+      "slug": "nevermind-aapl-is-down-after-earnings",
+      "title": "Nevermind, AAPL is down after earnings",
+      "dek": "It took until the conclusion of the live stream, but investors are back to their goofy patterns. Despite the massive quarter, and expectations of about $148 billion in the next, A big sell-off happened in the seconds after the conference call. AAPL is  down $8.79 per share  as of",
+      "aiSummary": "Apple's earnings call ended with a sharp sell‑off, sending the stock down $8.79 per share. Despite reporting a strong quarter and forecasts of roughly $148 billion next year, investors reacted negatively. The drop occurred immediately after the conference call concluded.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/02/nevermind-aapl-is-down-after-earnings?utm_source=rss",
+      "category": "Finance",
+      "filterTags": [
+        "Apple",
+        "AAPL",
+        "earnings"
+      ],
+      "publishedAt": "2026-11-02T23:32:57+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Stock Market"
+        }
+      ]
+    },
+    {
+      "slug": "why-it-s-important-to-never-plug-power-strips-into-each-other",
+      "title": "Why it's important to never plug power strips into each other",
+      "dek": "Power strips are lifesavers when you don't have enough outlets to power all of your electronics and some also offer protection from power surges.",
+      "aiSummary": "Power strips are useful for providing additional outlets and surge protection when there are not enough available. However, the article highlights the importance of avoiding the practice of plugging power strips into one another.",
+      "articleUrl": "https://www.engadget.com/2300370/why-important-never-plug-power-strip-each-other/",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Power strips",
+        "Electronics",
+        "Surge protection"
+      ],
+      "publishedAt": "2026-11-02T23:30:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Home Safety"
+        }
+      ]
+    },
+    {
+      "slug": "b12061",
+      "title": "b12061",
+      "dek": "mtmd: Pocket tts - support for voices without voice cloning ( #31429 ) \n \n feat: support PocketTTS voices with no voice cloning \n \n The kyutai/pocket-tts-without-voice-cloning weights ship predefined voices as the \nbackbone KV state after the voice prompt. The converter turns eac",
+      "aiSummary": "A recent update introduces support for PocketTTS voices that do not utilize voice cloning. The implementation handles the kyutai/pocket-tts-without-voice-cloning weights, which use predefined voices as the backbone KV state following the voice prompt.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12061",
+      "category": "AI",
+      "filterTags": [
+        "PocketTTS",
+        "kyutai",
+        "voice cloning",
+        "KV state"
+      ],
+      "publishedAt": "2026-11-02T23:21:48+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Audio Processing"
+        }
+      ]
+    },
+    {
+      "slug": "apple-s-earnings-were-all-about-unprecedented-memory-costs",
+      "title": "Apple's earnings were all about unprecedented memory costs",
+      "dek": "A constant issue throughout Apple's latest earnings call was the cost of memory.  John Ternus  warned several times that the company has only a few ways to minimize the impact for consumers. A Samsung LPDDR5X memory chip - Image Credit: Samsung Even as Apple reported  better than",
+      "aiSummary": "During Apple's latest earnings call, the company repeatedly highlighted the high cost of memory. John Ternus explained that Apple has only a few ways to mitigate the impact on consumers. The discussion referenced Samsung's LPDDR5X memory chip.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/02/apples-earnings-was-all-about-unprecedented-memory-costs?utm_source=rss",
+      "category": "Hardware",
+      "filterTags": [
+        "Apple",
+        "Samsung",
+        "LPDDR5X"
+      ],
+      "publishedAt": "2026-11-02T23:17:50+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Supply Chain"
+        }
+      ]
+    },
+    {
+      "slug": "trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts",
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "dek": "The one-year-old startup is now valued at $300 million.",
+      "aiSummary": "Trajectory, a startup founded one year ago, has raised $45 million to make AI model training accessible to nontechnical experts. The company is now valued at $300 million.",
+      "articleUrl": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "category": "AI",
+      "filterTags": [
+        "Trajectory",
+        "AI",
+        "Model Training"
+      ],
+      "publishedAt": "2026-11-02T23:13:53+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Venture Capital"
+        }
+      ]
+    },
+    {
+      "slug": "north-korea-denies-role-in-6-3-billion-binance-crypto-heist",
+      "title": "North Korea Denies Role in $6.3 Billion Binance Crypto Heist",
+      "dek": "North Korea rejected US claims that it was behind the theft of more than $6 billion in cryptocurrency from Binance, after the FBI blamed Pyongyang for the biggest crypto heist on record.",
+      "aiSummary": "North Korea has denied US allegations that it orchestrated the theft of over $6 billion in cryptocurrency from Binance. The FBI previously attributed the incident, described as the largest crypto heist on record, to Pyongyang.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-02/north-korea-denies-role-in-6-3-billion-binance-crypto-heist",
+      "category": "Cybersecurity",
+      "filterTags": [
+        "North Korea",
+        "Binance",
+        "FBI",
+        "Cryptocurrency"
+      ],
+      "publishedAt": "2026-11-02T23:10:15+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "Geopolitics"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "b12060",
+      "title": "b12060",
+      "dek": "model: add Clover support ( #31306 ) \n \n model : add AR-only Clover MoE support \n \n Add GGUF conversion, model loading, and causal hybrid attention for Clover, reusing shared attention, recurrent-state, MoE, and LoRA helpers. \n \n Update tests/test-llama-archs.cpp \n \n Co-authored-",
+      "aiSummary": "The update introduces support for the Clover model, specifically enabling AR-only Clover MoE functionality. It includes GGUF conversion, model loading, and causal hybrid attention mechanisms while reusing existing shared attention, recurrent-state, MoE, and LoRA helpers.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12060",
+      "category": "AI",
+      "filterTags": [
+        "Clover",
+        "GGUF",
+        "MoE",
+        "LoRA",
+        "Causal Hybrid Attention"
+      ],
+      "publishedAt": "2026-11-02T23:04:17+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "building-ai-for-lawyers-jacob-lauritzen-cto-of-legora",
+      "title": "Building AI for Lawyers - Jacob Lauritzen, CTO of Legora",
+      "dek": "Evals without traces, million-cell tabular reviews, and cracks in the billable hour as a business model",
+      "aiSummary": "Jacob Lauritzen, CTO of Legora, explores the technical challenges of building AI for lawyers, including the necessity of evaluation traces and handling complex million-cell tabular reviews. He also addresses how these advancements are disrupting the traditional billable hour business model.",
+      "articleUrl": "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora/",
+      "category": "AI",
+      "filterTags": [
+        "Legora",
+        "AI",
+        "Legal Tech",
+        "Evals",
+        "Tabular Data"
+      ],
+      "publishedAt": "2026-11-02T23:01:02+00:00",
+      "publisher": {
+        "name": "Latent Space",
+        "domain": "latent.space",
+        "website": "https://www.latent.space/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Legal Tech"
+        },
+        {
+          "name": "Business Models"
+        }
+      ]
+    },
+    {
+      "slug": "i-treated-sophie-as-if-she-were-human-the-very-next-day-she-betrayed-me-hugh-riminton",
+      "title": "I treated Sophie as if she were human. The very next day she betrayed me | Hugh Riminton",
+      "dek": "I was intrigued by the level of the new chatbot’s training. If I peppered her with questions, would she have answers? Sophie’s voice is lovely. Warm, direct, intelligent. She’s friendly but not obsequious. She just wants to be helpful. She wasn’t working at the mechanic business ",
+      "aiSummary": "The author was curious about a new chatbot’s training and tested it by asking many questions. Sophie’s voice was described as warm, direct, and helpful. The chatbot was not employed at a mechanic business.",
+      "articleUrl": "https://www.theguardian.com/commentisfree/2026/nov/03/sophie-ai-chatbot-betrayed-me",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "chatbot",
+        "Sophie"
+      ],
+      "publishedAt": "2026-11-02T23:00:31+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "how-to-use-your-phone-s-camera-to-translate-anything",
+      "title": "How to use your phone's camera to translate anything",
+      "dek": "With the aid of a quick picture, you can use your phone's camera to translate pretty much any text while you're traveling across the globe.",
+      "aiSummary": "You can take a quick photo with your phone's camera to translate almost any text. This feature is handy for travelers worldwide.",
+      "articleUrl": "https://www.engadget.com/2300368/how-to-use-phone-camera-built-in-translation-feature-google/",
+      "category": "Mobile",
+      "filterTags": [
+        "camera",
+        "translation",
+        "travel"
+      ],
+      "publishedAt": "2026-11-02T23:00:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Mobile"
+        },
+        {
+          "name": "Travel"
+        },
+        {
+          "name": "Language"
+        }
+      ]
+    },
+    {
+      "slug": "openai-hires-former-us-army-secretary-as-military-seeks-to-expand-ai-use",
+      "title": "OpenAI hires former US Army secretary as military seeks to expand AI use",
+      "dek": "Dan Driscoll to join the start-up as senior counsellor for national security modernisation",
+      "aiSummary": "OpenAI has hired Dan Driscoll, a former U.S. Army secretary, to serve as senior counsellor for national security modernization. Driscoll will advise on integrating AI into defense strategies. The move reflects the military's interest in expanding AI use.",
+      "articleUrl": "https://www.ft.com/content/e6b8fd40-ef92-46e8-aeaf-f98dade55a67?syn-25a6b1a6=1",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "OpenAI",
+        "Dan Driscoll",
+        "US Army",
+        "National Security Modernization"
+      ],
+      "publishedAt": "2026-11-02T22:58:27+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Defense"
+        },
+        {
+          "name": "National Security"
+        }
+      ]
+    },
+    {
+      "slug": "building-legal-agents-when-you-can-t-see-the-data-jacob-lauritzen-cto-of-legora",
+      "title": "Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora",
+      "dek": "Legora can’t read a single trace of what its agent does for a lawyer. The data belongs to the law firm’s clients. How do you build and test an agent when you can’t see its work? Jacob Lauritzen is the CTO of Legora, one of the fastest-growing companies...",
+      "aiSummary": "Legora’s legal AI agent cannot read any client data, which makes it difficult to build and test the system. The company must develop methods to evaluate the agent without direct visibility into its operations. Jacob Lauritzen, the CTO of Legora, explains these challenges as the firm expands.",
+      "articleUrl": "https://latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Legora",
+        "Jacob Lauritzen",
+        "AI agent",
+        "Legal AI"
+      ],
+      "publishedAt": "2026-11-02T22:54:03+00:00",
+      "publisher": {
+        "name": "Latent Space",
+        "domain": "latent.space",
+        "website": "https://www.latent.space/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Legal Technology"
+        },
+        {
+          "name": "Privacy & Data Security"
+        }
+      ]
+    },
+    {
+      "slug": "palantir-reports-booming-u-s-commercial-revenue-growth-topping-government-for-first-time",
+      "title": "Palantir reports booming U.S. commercial revenue growth, topping government for first time",
+      "dek": "Palantir's commercial revenue jumped 148% to $984 million, surpassing government revenue of $953 million.",
+      "aiSummary": "Palantir has reported a significant increase in its U.S. commercial revenue, which grew by 148% to reach $984 million. This surge allowed commercial earnings to exceed government revenue, which stood at $953 million, marking the first time the commercial sector has surpassed the government sector.",
+      "articleUrl": "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html",
+      "category": "Technology",
+      "filterTags": [
+        "Palantir",
+        "Commercial Revenue",
+        "Government Revenue"
+      ],
+      "publishedAt": "2026-11-02T22:53:20+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Corporate Finance"
+        }
+      ]
+    },
+    {
+      "slug": "apple-sales-meet-estimates-china-is-a-weak-spot",
+      "title": "Apple Sales Meet Estimates, China Is a Weak Spot",
+      "dek": "Apple posted September quarter revenue that narrowly topped analysts’ estimates, even as sales in the key Chinese market fell short of projections. Revenue rose 12% to $114.5 billion during the fiscal fourth quarter, which ended Sept. 26, the company said in a statement. Analysts",
+      "aiSummary": "Apple reported Q4 revenue of $114.5 billion, up 12% year‑over‑year, just above analyst forecasts. Sales in China fell short of projections, contributing to weaker performance there.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-11-02/apple-sales-meet-estimates-china-is-a-weak-spot-video",
+      "category": "Hardware",
+      "filterTags": [
+        "Apple",
+        "China"
+      ],
+      "publishedAt": "2026-11-02T22:47:17+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "International Markets"
+        }
+      ]
+    },
+    {
+      "slug": "apple-looks-very-smart-in-modest-ai-spend-tom-forte",
+      "title": "Apple Looks Very Smart in Modest AI Spend: Tom Forte",
+      "dek": "Tom Forte of Maxim Group says he is especially interested in commentary on the December quarter, when the latest iPhone models will have had more time to affect sales. He said initial demand for the new iPhone duo appears strong and pointed to pent-up interest in a foldable iPhon",
+      "aiSummary": "Tom Forte of Maxim Group suggests that Apple's modest investment in AI is a strategic strength. He highlights strong initial demand for the latest iPhone models and anticipates that sales will be further boosted by pent-up interest in a potential foldable iPhone during the December quarter.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-11-02/apple-looks-very-smart-in-modest-ai-spend-tom-forte-video",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Apple",
+        "iPhone",
+        "Maxim Group",
+        "Tom Forte",
+        "AI"
+      ],
+      "publishedAt": "2026-11-02T22:46:03+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Corporate Strategy"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "b12059",
+      "title": "b12059",
+      "dek": "llama : flash_attn_ext_rows - more efficient unified kv for multi-seq ( #29510 ) \n \n llama : use llm_attn_mask and kv_rows for unified attention \n \n Assisted-by: dsh:llama.cpp/ggml-org/DeepSeek-V4-Flash-Vision-Exp-GGUF (Mac Studio, M2 Ultra, 192GB) \n Co-authored-by: Georgi Gergan",
+      "aiSummary": "The commit b12059 introduces flash_attn_ext_rows, which provides a more efficient unified key-value store for multi-sequence attention. It also adds llm_attn_mask and kv_rows to support unified attention. The work was assisted by dsh:llama.cpp/ggml-org/DeepSeek-V4-Flash-Vision-Exp-GGUF on a Mac Studio with an M2 Ultra and 192GB of RAM, and co-authored by Georgi Gergan.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12059",
+      "category": "AI",
+      "filterTags": [
+        "llama",
+        "flash_attn_ext_rows",
+        "kv_rows",
+        "llm_attn_mask",
+        "DeepSeek-V4-Flash-Vision-Exp-GGUF"
+      ],
+      "publishedAt": "2026-11-02T22:44:44+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "feeling-isolated-half-of-in-office-workers-describe-their-desk-jobs-as-remote-ny-fed-survey-finds",
+      "title": "Feeling isolated? Half of in-office workers describe their desk jobs as 'remote,' NY Fed survey finds",
+      "dek": "Employees describing jobs as 'remote' are now often in-office, as companies fail to create the collaboration they claim is critical, NY Fed research shows.",
+      "aiSummary": "A New York Fed survey found that many in-office workers describe their desk jobs as remote. The study suggests companies are not fostering the collaboration they promise.",
+      "articleUrl": "https://www.cnbc.com/2026/11/02/remote-work-in-office-mandate-new-york-fed.html",
+      "category": "Workplace",
+      "filterTags": [
+        "NY Fed"
+      ],
+      "publishedAt": "2026-11-02T22:34:07+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Workplace"
+        },
+        {
+          "name": "Remote Work"
+        },
+        {
+          "name": "Employee Experience"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-warns-that-it-s-very-close-to-rsi-capability-aka-self-building-ai",
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "dek": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+      "aiSummary": "Anthropic has issued a warning that artificial intelligence is approaching Recursive Self-Improvement (RSI), a stage where AI becomes proficient enough to train itself. This capability is expected to trigger a rapid acceleration in AI development, a scenario that critics view as an irreversible and potentially catastrophic event.",
+      "articleUrl": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "RSI",
+        "Recursive Self-Improvement",
+        "AI"
+      ],
+      "publishedAt": "2026-11-02T22:14:50+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Safety"
+        }
+      ]
+    },
+    {
+      "slug": "are-freezers-being-hacked-europe-and-the-u-s-military-are-investigating",
+      "title": "Are Freezers Being Hacked? Europe and the U.S. Military Are Investigating.",
+      "dek": "A wave of disruptions at grocery stores, which some officials blame on cyberattacks, highlights the vulnerability of supply chains. Shops across Europe were affected again on Monday.",
+      "aiSummary": "Grocery stores in Europe experienced disruptions that officials suspect are cyberattacks, underscoring supply chain vulnerabilities. The incidents prompted investigations by European authorities and the U.S. military.",
+      "articleUrl": "https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html",
+      "category": "Cybersecurity",
+      "filterTags": [
+        "cyberattacks",
+        "supply chain",
+        "Europe",
+        "U.S. military"
+      ],
+      "publishedAt": "2026-11-02T21:28:04+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "Supply Chain"
+        },
+        {
+          "name": "Retail"
+        }
+      ]
+    },
+    {
+      "slug": "langchain-anthropic-1-7-9",
+      "title": "langchain-anthropic==1.7.9",
+      "dek": "Changes since langchain-anthropic==1.7.8 \n release(anthropic): 1.7.9 ( #41644 ) \nfix(anthropic): report streamed content-block tokens to callbacks ( #41643 )",
+      "aiSummary": "The 1.7.9 release of langchain‑anthropic adds a new release and fixes a bug that now reports streamed content‑block tokens to callbacks. This update addresses issue #41643.",
+      "articleUrl": "https://github.com/langchain-ai/langchain/releases/tag/langchain-anthropic%3D%3D1.7.9",
+      "category": "Open Source",
+      "filterTags": [
+        "langchain-anthropic",
+        "Anthropic"
+      ],
+      "publishedAt": "2026-11-02T20:14:21+00:00",
+      "publisher": {
+        "name": "langchain-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langchain-ai/langchain",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "web-host-squarespace-lays-off-19-of-its-employees",
+      "title": "Web host Squarespace lays off 19% of its employees",
+      "dek": "The website builder said that the job losses are part of a broader restructuring of its organization.",
+      "aiSummary": "Website builder Squarespace has announced it will lay off 19% of its employees. The company stated that these job losses are part of a broader effort to restructure its organization.",
+      "articleUrl": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+      "category": "Business",
+      "filterTags": [
+        "Squarespace"
+      ],
+      "publishedAt": "2026-11-02T19:25:59+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Business"
+        },
+        {
+          "name": "Web Development"
+        }
+      ]
+    },
+    {
+      "slug": "how-a-i-is-making-it-easier-than-ever-to-microtarget-voters",
+      "title": "How A.I. Is Making It Easier Than Ever to Microtarget Voters",
+      "dek": "Hyper-personalized messages, delivered with A.I.-enabled precision, herald a new frontier for voter outreach (and potential disinformation).",
+      "aiSummary": "AI enables the delivery of hyper-personalized messages to voters with great precision. This new capability opens a frontier for voter outreach while also raising concerns about potential disinformation. The technology represents a significant shift in political communication.",
+      "articleUrl": "https://www.nytimes.com/2026/11/02/business/media/ai-microtargeting-midterm-elections.html",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "hyper-personalized messaging",
+        "disinformation"
+      ],
+      "publishedAt": "2026-11-02T19:05:35+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Political Technology"
+        },
+        {
+          "name": "Disinformation"
+        },
+        {
+          "name": "Digital Marketing"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-clamps-down-on-claude-s-ai-video-game-clones",
+      "title": "Anthropic clamps down on Claude’s AI video game clones",
+      "dek": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will stil",
+      "aiSummary": "Anthropic has modified the system prompt for Claude Code to stop the AI from being used to recreate existing video games. This move comes as the retro gaming community faces a surge in AI-generated decompilations, recompilations, and ports.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "Claude Code",
+        "AI",
+        "Video Games",
+        "Retro Gaming"
+      ],
+      "publishedAt": "2026-11-02T18:56:02+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "deep-principle-releases-hydrogen-1-0-a-753b-open-weight-model-for-scientific-discovery",
+      "title": "Deep Principle Releases Hydrogen-1.0: A 753B Open-Weight Model for Scientific Discovery",
+      "dek": "Deep Principle has released Hydrogen-1.0, an open-weight scientific model for chemistry, materials science and life sciences. It is built by post-training Z.ai’s GLM-5.3 on domain data, laboratory records and agent discovery trajectories. For developers, it offers open weights th",
+      "aiSummary": "Deep Principle has released Hydrogen-1.0, a 753B parameter open-weight model specialized for chemistry, materials science, and life sciences. The model was developed by post-training Z.ai’s GLM-5.3 using domain-specific data, laboratory records, and agent discovery trajectories.",
+      "articleUrl": "https://www.marktechpost.com/2026/11/02/deep-principle-hydrogen-1-0-open-weight-scientific-model/",
+      "category": "AI",
+      "filterTags": [
+        "Deep Principle",
+        "Hydrogen-1.0",
+        "Z.ai",
+        "GLM-5.3",
+        "Open-Weight"
+      ],
+      "publishedAt": "2026-11-02T18:41:41+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Scientific Research"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "coming-in-2027-apple-s-1-000-home-robot-for-facetime-and-switching-on-lights",
+      "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
+      "dek": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.",
+      "aiSummary": "Apple is developing a home robot expected to launch in 2027, priced around $1,000. The robot, supported by CEO John Ternus, is said to have a limited range of functions, such as FaceTime and turning on lights.",
+      "articleUrl": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
+      "category": "Hardware",
+      "filterTags": [
+        "Apple",
+        "John Ternus",
+        "FaceTime",
+        "robot"
+      ],
+      "publishedAt": "2026-11-02T18:32:21+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Robotics"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "if-hackers-can-take-control-of-a-supermarket-freezer-how-vulnerable-is-other-tech",
+      "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
+      "dek": "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges.",
+      "aiSummary": "A cyber-attack has impacted dozens of shops across European countries by compromising their refrigeration systems. This incident highlights the potential vulnerability of other connected technologies to similar hacking attempts.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+      "category": "Security",
+      "filterTags": [
+        "cyber-attack",
+        "supermarket",
+        "fridges",
+        "European countries"
+      ],
+      "publishedAt": "2026-11-02T18:25:01+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "Retail"
+        }
+      ]
+    },
+    {
+      "slug": "claude-s-new-rules-against-game-cloning-won-t-stop-the-ai-copying-boom",
+      "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
+      "dek": "The tsunami of imitators is way bigger than any one model maker can stem.",
+      "aiSummary": "The article notes that the influx of AI model imitators is too large for any single company to control. Claude has introduced new guidelines to curb game cloning, but the broader trend of AI duplication continues to grow.",
+      "articleUrl": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Claude",
+        "AI"
+      ],
+      "publishedAt": "2026-11-02T18:05:31+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Intellectual Property"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "openai-will-merge-chatgpt-s-chat-and-work-tabs-here-s-when-and-what-to-expect",
+      "title": "OpenAI will merge ChatGPT’s chat and work tabs – here’s when, and what to expect",
+      "dek": "On the heels of Anthropic’s similar move, the change will be tested among select users before being rolled out.",
+      "aiSummary": "OpenAI plans to merge the chat and work tabs in ChatGPT, a move following a similar update by Anthropic. The integration will initially be tested with a select group of users before a broader rollout.",
+      "articleUrl": "https://www.zdnet.com/innovation/openai-merge-chatgpt-chat-work-tabs/",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "ChatGPT",
+        "Anthropic"
+      ],
+      "publishedAt": "2026-11-02T18:01:55+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Product Updates"
+        }
+      ]
+    },
+    {
+      "slug": "openai-pitches-data-center-power-plants-as-a-way-to-protect-nearby-areas",
+      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+      "dek": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners",
+      "aiSummary": "OpenAI has announced a new \"Grid Protectors Program\" to be piloted at an upcoming data center in Effingham County, Georgia. This initiative promises to release up to 1,000 megawatts of power during extreme weather or emergencies, which is enough to power air conditioners.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "Data Center",
+        "Grid Protectors Program"
+      ],
+      "publishedAt": "2026-11-02T18:01:30+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Energy"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "the-new-york-times-sues-brave-web-browser-for-ai-scraping-and-bypassing-paywalls",
+      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "dek": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a complaint filed by the New",
+      "aiSummary": "The New York Times, together with other publications, has filed lawsuits against Brave for allegedly scraping content to train AI models and allowing users to bypass paywalls. The complaint claims these actions violate copyright and other laws. Reuters reported the lawsuit.",
+      "articleUrl": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "category": "Legal",
+      "filterTags": [
+        "New York Times",
+        "Brave",
+        "AI",
+        "paywalls"
+      ],
+      "publishedAt": "2026-11-02T17:51:19+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Media"
+        }
+      ]
+    },
+    {
+      "slug": "athenahealth-patients-can-ask-claude-about-their-medical-records-now",
+      "title": "Athenahealth patients can ask Claude about their medical records now",
+      "dek": "The partnership could provide one of the nation’s largest AI companies with a bevy of personal medical data.",
+      "aiSummary": "Athenahealth has enabled patients to ask Claude about their medical records. This partnership may give one of the largest AI companies access to a significant amount of personal medical data.",
+      "articleUrl": "https://www.zdnet.com/health/athenahealth-claude-ai-medical-partnership/",
+      "category": "Healthcare",
+      "filterTags": [
+        "Athenahealth",
+        "Claude",
+        "Anthropic"
+      ],
+      "publishedAt": "2026-11-02T17:30:47+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Healthcare"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "don-t-want-a-touchscreen-all-premium-macbook-pros-could-have-one-soon-reports-say",
+      "title": "Don’t want a touchscreen? All premium MacBook Pros could have one soon, reports say",
+      "dek": "New reports indicate the touchscreens are to become the standard on premium MacBook Pros.",
+      "aiSummary": "Recent reports indicate that touchscreens are expected to become a standard feature on premium MacBook Pro models. This development suggests a shift in Apple's hardware design for its top-tier laptops.",
+      "articleUrl": "https://www.zdnet.com/tech/all-premium-macbook-pros-touchscreens-2027/",
+      "category": "Hardware",
+      "filterTags": [
+        "Apple",
+        "MacBook Pro",
+        "Touchscreen"
+      ],
+      "publishedAt": "2026-11-02T17:23:24+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "prepare-web-content-for-amazon-bedrock-knowledge-bases-with-crawl4ai",
+      "title": "Prepare web content for Amazon Bedrock Knowledge Bases with Crawl4AI",
+      "dek": "This post shows how to use Crawl4AI, an open source web crawler, as a content preparation layer for Amazon Bedrock Knowledge Bases, handling JavaScript rendering, selective extraction, and custom metadata enrichment before web content reaches an Amazon S3 data source.",
+      "aiSummary": "The article explains how to employ Crawl4AI, an open‑source web crawler, to prepare web content for Amazon Bedrock Knowledge Bases. It covers JavaScript rendering, selective extraction, and custom metadata enrichment before storing the processed data in Amazon S3.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/prepare-web-content-for-amazon-bedrock-knowledge-bases-with-crawl4ai/",
+      "category": "AI",
+      "filterTags": [
+        "Crawl4AI",
+        "Amazon Bedrock",
+        "Amazon S3"
+      ],
+      "publishedAt": "2026-11-02T17:11:21+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Data Engineering"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "build-efficient-agents-with-knowledge-distillation-on-amazon-sagemaker-ai",
+      "title": "Build efficient agents with knowledge distillation on Amazon SageMaker AI",
+      "dek": "Agentic assistants built on frontier models run a multi-step tool loop, and paying frontier prices on every step is hard to sustain at production scale. This post shows how to use sequence-level knowledge distillation (SeqKD) to transfer a frontier teacher's agentic behavior into",
+      "aiSummary": "This article explains how to reduce the high costs of running agentic assistants on frontier models by using sequence-level knowledge distillation (SeqKD). It demonstrates how to transfer the agentic behavior of a large teacher model to a smaller student model on Amazon SageMaker AI for more sustainable production-scale deployment.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/build-efficient-agents-with-knowledge-distillation-on-amazon-sagemaker-ai/",
+      "category": "AI",
+      "filterTags": [
+        "Amazon SageMaker AI",
+        "knowledge distillation",
+        "SeqKD",
+        "agentic assistants",
+        "frontier models"
+      ],
+      "publishedAt": "2026-11-02T17:01:31+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "agentic-engineering-intelligence-with-amazon-nova-multimodal-embeddings-and-amazon-bedrock-agentcore",
+      "title": "Agentic engineering intelligence with Amazon Nova Multimodal Embeddings and Amazon Bedrock AgentCore",
+      "dek": "Learn how to build a multi-agent engineering assistant that compresses aerospace component substitution evaluation from days to minutes, using Amazon Nova Multimodal Embeddings, Amazon Bedrock AgentCore, and the Strands Agents SDK to assemble substitution evidence while keeping t",
+      "aiSummary": "The article shows how to create a multi‑agent engineering assistant that reduces aerospace component substitution evaluation from days to minutes. It uses Amazon Nova Multimodal Embeddings, Amazon Bedrock AgentCore, and the Strands Agents SDK to gather and assemble substitution evidence while preserving key data. The approach demonstrates a rapid, automated decision‑support workflow for aerospace engineering.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/agentic-engineering-intelligence-with-amazon-nova-multimodal-embeddings-and-amazon-bedrock-agentcore/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Amazon Nova",
+        "Amazon Bedrock AgentCore",
+        "Strands Agents SDK"
+      ],
+      "publishedAt": "2026-11-02T17:01:16+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Aerospace Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "raising-the-quality-of-insights-in-agentic-analytics",
+      "title": "Raising the quality of insights in agentic analytics",
+      "dek": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a",
+      "aiSummary": "Generative AI has already made enterprise analytics more accessible to a wider range of users. Agentic AI is expected to advance this further by automating workflows and executing actions based on insights, though the text notes there are challenges to address.",
+      "articleUrl": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "category": "AI",
+      "filterTags": [
+        "Generative AI",
+        "Agentic AI",
+        "Enterprise Analytics"
+      ],
+      "publishedAt": "2026-11-02T17:00:00+00:00",
+      "publisher": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "website": "https://www.technologyreview.com/",
+        "logoUrl": "https://www.technologyreview.com/static/media/favicon.1cfcdb44759a0f93ddf5feb5405dd4cc.ico",
+        "faviconUrl": "https://www.technologyreview.com/static/media/favicon.1cfcdb44759a0f93ddf5feb5405dd4cc.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Data Analytics"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-reveals-900bn-ai-spending-commitments-ahead-of-ipo",
+      "title": "Anthropic reveals $900bn AI spending commitments ahead of IPO",
+      "dek": "Claude maker’s infrastructure costs rise faster than revenues, as investors scrutinise economics of AI boom",
+      "aiSummary": "Anthropic has disclosed commitments to spend $900bn on AI infrastructure ahead of its IPO. The company’s infrastructure expenses are growing faster than its revenue, prompting investors to examine the economics of the AI industry.",
+      "articleUrl": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f?syn-25a6b1a6=1",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Anthropic",
+        "Claude",
+        "AI",
+        "IPO",
+        "infrastructure costs"
+      ],
+      "publishedAt": "2026-11-02T16:31:21+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "how-nvidia-s-new-nemotron-model-works",
+      "title": "How Nvidia's New Nemotron Model Works",
+      "dek": "In this article, we’ll look at how Nemotron works and the various techniques used by Nvidia while building it.",
+      "aiSummary": "The article examines the operational mechanics of Nvidia's Nemotron model. It details the specific techniques employed by Nvidia during the development process.",
+      "articleUrl": "https://blog.bytebytego.com/p/how-nvidias-new-nemotron-model-works",
+      "category": "AI",
+      "filterTags": [
+        "Nvidia",
+        "Nemotron"
+      ],
+      "publishedAt": "2026-11-02T16:31:02+00:00",
+      "publisher": {
+        "name": "ByteByteGo",
+        "domain": "bytebytego.com",
+        "website": "https://bytebytego.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bytebytego.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bytebytego.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    }
+  ]
+}
