@@ -1,0 +1,1732 @@
+{
+  "news": [
+    {
+      "slug": "anthropic-is-working-on-a-system-to-prove-ai-models-identity",
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "dek": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+      "aiSummary": "Anthropic is developing a system called FlashProve designed to allow users to verify that an AI response genuinely originates from the specific model it claims to be. The tool aims to provide a method for checking the identity of AI models.",
+      "articleUrl": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "FlashProve",
+        "AI Identity Verification"
+      ],
+      "publishedAt": "2026-11-03T22:41:03+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "apple-opens-siri-ai-to-every-app-and-lets-developers-teach-it-skills",
+      "title": "Apple opens Siri AI to every app, and lets developers teach it skills",
+      "dek": "Apple expands Siri’s AI to all apps, allowing developers to add new abilities.",
+      "aiSummary": "Apple has enabled Siri’s artificial intelligence to be integrated across all applications, giving developers the ability to train the assistant with new skills. This move broadens Siri’s functionality beyond its native apps.",
+      "articleUrl": "https://madrobot.blog/2026/11/03/siri-ai-app-skills-developers-ios-27-3/",
+      "category": "AI",
+      "filterTags": [
+        "Apple",
+        "Siri",
+        "AI"
+      ],
+      "publishedAt": "2026-11-03T22:38:24+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "why-every-ai-model-will-ship-as-a-torrent",
+      "title": "Why Every AI Model Will Ship as a Torrent",
+      "dek": "The reason all artificial intelligence models will be distributed using the torrent protocol.",
+      "aiSummary": "The provided text does not contain an article body, only a title. Therefore, no factual summary can be generated based on the content.",
+      "articleUrl": "https://pirateface.co/articles/one-model-one-swarm",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Torrent"
+      ],
+      "publishedAt": "2026-11-03T22:36:22+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Distribution"
+        }
+      ]
+    },
+    {
+      "slug": "ai-unlocked-my-ransomware-encrypted-files-without-the-key",
+      "title": "AI Unlocked My Ransomware-Encrypted Files – Without the Key",
+      "dek": "Artificial intelligence helped recover files locked by ransomware without needing the decryption key.",
+      "aiSummary": "The article describes a scenario where AI technology was used to unlock files that had been encrypted by ransomware. This recovery was achieved without the possession of the specific decryption key.",
+      "articleUrl": "https://medium.com/@weaxdesign/ai-unlocked-my-ransomware-encrypted-files-without-the-key-262212277514",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Ransomware",
+        "Encryption"
+      ],
+      "publishedAt": "2026-11-03T22:36:18+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "canva-announces-layoffs-job-changes-for-about-22-of-workforce",
+      "title": "Canva Announces Layoffs, Job Changes for About 22% of Workforce",
+      "dek": "Canva Inc. announced job cuts and a structural overhaul that will impact more than one-fifth of the workforce, after the Sydney-based tech firm’s growth slowed for the first time in a decade.",
+      "aiSummary": "Canva Inc. has announced layoffs and structural changes affecting approximately 22% of its workforce. This decision follows the first instance of slowed growth for the Sydney-based company in ten years.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-03/canva-announces-layoffs-job-changes-for-about-22-of-workforce",
+      "category": "Business",
+      "filterTags": [
+        "Canva",
+        "Layoffs",
+        "Workforce Restructuring"
+      ],
+      "publishedAt": "2026-11-03T22:35:12+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Business"
+        },
+        {
+          "name": "Tech Industry"
+        }
+      ]
+    },
+    {
+      "slug": "focus-hope-ceo-on-detroit-s-economic-development",
+      "title": "Focus: HOPE CEO on Detroit’s Economic Development",
+      "dek": "Portia Roberson, CEO of Focus: HOPE, discusses population growth and workforce development as Michigan voters focused on the economy. Roberson said good public schools and affordable housing are basic factors that can draw people to Detroit and support continued modest growth. Sh",
+      "aiSummary": "Portia Roberson, CEO of Focus: HOPE, highlights population growth and workforce development as key economic drivers for Detroit. She emphasizes that quality public schools and affordable housing are essential factors for attracting residents and sustaining the city's modest growth.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-11-03/focus-hope-ceo-on-detroit-s-economic-development-video",
+      "category": "Economics",
+      "filterTags": [
+        "Focus: HOPE",
+        "Detroit",
+        "Michigan",
+        "Workforce Development",
+        "Affordable Housing"
+      ],
+      "publishedAt": "2026-11-03T22:30:39+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Economics"
+        },
+        {
+          "name": "Urban Development"
+        },
+        {
+          "name": "Public Policy"
+        }
+      ]
+    },
+    {
+      "slug": "amd-forecast-exceeds-estimates-as-ai-chip-demand-soars",
+      "title": "AMD Forecast Exceeds Estimates as AI Chip Demand Soars",
+      "dek": "Advanced Micro Devices Inc., a key challenger to Nvidia Corp. in artificial intelligence chips, gave a revenue forecast that exceeded analysts’ estimates, showing that demand for data center processors remains strong. Fourth-quarter revenue will be $17 billion, plus or minus 3%, ",
+      "aiSummary": "Advanced Micro Devices reported a revenue forecast that surpassed analyst expectations, indicating sustained strong demand for data center processors. The company projects fourth-quarter revenue of $17 billion, plus or minus 3%, while positioning itself as a major competitor to Nvidia in the artificial intelligence chip market.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-11-03/amd-forecast-exceeds-estimates-as-ai-chip-demand-soars-video",
+      "category": "Semiconductors",
+      "filterTags": [
+        "AMD",
+        "Nvidia",
+        "AI Chips",
+        "Data Center Processors"
+      ],
+      "publishedAt": "2026-11-03T22:29:58+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Corporate Finance"
+        }
+      ]
+    },
+    {
+      "slug": "b12080",
+      "title": "b12080",
+      "dek": "cuda : gather batched tensor reads into mapped host memory (PR to master) ( #31391 ) \n \n cuda: gather batched tensor reads into mapped host memory \n \n Assisted-by: Codex \n \n add comments \n \n Assisted-by: Codex \n \n \n simplify the implementation based on checks that exist earlier i",
+      "aiSummary": "This pull request optimizes CUDA operations by gathering batched tensor reads into mapped host memory. The implementation was simplified based on existing checks and assisted by Codex.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12080",
+      "category": "Hardware",
+      "filterTags": [
+        "CUDA",
+        "Tensor",
+        "Codex",
+        "PR #31391"
+      ],
+      "publishedAt": "2026-11-03T22:25:31+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Performance"
+        }
+      ]
+    },
+    {
+      "slug": "apple-officially-restricts-employee-participation-in-prediction-markets",
+      "title": "Apple officially restricts employee participation in prediction markets",
+      "dek": "If you're an Apple employee or contractor planning to make money using insider information to gamble in legally-gray \"prediction markets,\" don't. Apple has made its stance clear in a new filing. Don't bother using insider information to gamble in prediction markets Prediction mar",
+      "aiSummary": "Apple has officially prohibited its employees and contractors from participating in prediction markets. The company clarified its stance in a new filing to prevent the use of insider information for gambling in these legally ambiguous platforms.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/03/apple-officially-restricts-employee-participation-in-prediction-markets?utm_source=rss",
+      "category": "Corporate Governance",
+      "filterTags": [
+        "Apple",
+        "prediction markets",
+        "insider information"
+      ],
+      "publishedAt": "2026-11-03T22:24:36+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Corporate Governance"
+        },
+        {
+          "name": "Regulation"
+        }
+      ]
+    },
+    {
+      "slug": "data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows",
+      "title": "Data centers are turning to old jet engines as the wait for power grows",
+      "dek": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less efficient and less environmentally friendly solution: once-discarded jet engines.",
+      "aiSummary": "Data center builders are facing multi-year delays in securing grid access and new turbines, prompting them to utilize discarded jet engines as a temporary power source. This workaround is considered less efficient and more environmentally damaging than standard alternatives.",
+      "articleUrl": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+      "category": "Energy",
+      "filterTags": [
+        "Data Centers",
+        "Jet Engines",
+        "Power Grid",
+        "Turbines"
+      ],
+      "publishedAt": "2026-11-03T22:19:53+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Energy"
+        },
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "Sustainability"
+        }
+      ]
+    },
+    {
+      "slug": "apple-is-advertising-proled-macbook-pro-on-discord",
+      "title": "Apple is advertising PROLED MacBook Pro on Discord",
+      "dek": "Apple will advertise where the target market is, and has for years. The latest ad vector is Discord. If you have a Discord account, and are a regular user, you may see the existing ad as a viewing option for you. Discord will give you 250 of their currency for cosmetics, if you s",
+      "aiSummary": "Apple is utilizing Discord as a new advertising channel to reach its target market for the PROLED MacBook Pro. Regular Discord users may encounter these ads as viewing options, with the platform offering 250 of its currency for cosmetics in exchange for engagement.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/03/apple-is-advertising-proled-macbook-pro-on-discord?utm_source=rss",
+      "category": "Marketing",
+      "filterTags": [
+        "Apple",
+        "PROLED MacBook Pro",
+        "Discord"
+      ],
+      "publishedAt": "2026-11-03T22:18:33+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Marketing"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "hands-on-ios-27-3-beta-s-safari-siri-ai-vertical-tabs-and-more",
+      "title": "Hands on: iOS 27.3 beta's Safari, Siri AI, vertical tabs, and more",
+      "dek": "Apple has shared the first beta of iOS 27.3, which brings back the redesigned  Apple Health  app and several new features for testing. Here's what's new. iOS 27.3 beta introduces vertical tabs in Safari Apple was stung by overpromising and underdelivering with its infamous WWDC 2",
+      "aiSummary": "Apple has released the first beta of iOS 27.3, which includes the return of the redesigned Apple Health app and several new features for testing. The update introduces vertical tabs in Safari, a feature that follows previous criticism regarding unfulfilled promises at WWDC.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/03/hands-on-ios-273-betas-safari-siri-ai-vertical-tabs-and-more?utm_source=rss",
+      "category": "Mobile",
+      "filterTags": [
+        "Apple",
+        "iOS 27.3",
+        "Safari",
+        "Siri",
+        "Apple Health"
+      ],
+      "publishedAt": "2026-11-03T22:13:10+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Mobile"
+        },
+        {
+          "name": "Software"
+        },
+        {
+          "name": "Consumer Tech"
+        }
+      ]
+    },
+    {
+      "slug": "amd-stock-jumps-8-on-earnings-as-data-center-revenue-nearly-doubles",
+      "title": "AMD stock jumps 8% on earnings as data center revenue nearly doubles",
+      "dek": "AMD reported better-than-expected third-quarter results, driven by booming sales of AI chips",
+      "aiSummary": "AMD announced third-quarter earnings that exceeded expectations, resulting in an 8% jump in its stock price. The strong performance was primarily driven by a near-doubling of data center revenue, fueled by high demand for AI chips.",
+      "articleUrl": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html",
+      "category": "Semiconductors",
+      "filterTags": [
+        "AMD",
+        "AI chips",
+        "Data Center"
+      ],
+      "publishedAt": "2026-11-03T22:10:55+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-releases-flashprove-cryptographic-proofs-that-a-reply-came-from-committed-weights",
+      "title": "Anthropic Releases FlashProve: Cryptographic Proofs That a Reply Came From Committed Weights",
+      "dek": "Anthropic released FlashProve, an Apache 2.0 zkSNARK prototype that proves a reply came from a committed model without revealing weights. It proves Llama 4 Maverick at 110 tokens/second on 1 H100, with 19 MB proofs. \n The post  Anthropic Releases FlashProve: Cryptographic Proofs ",
+      "aiSummary": "Anthropic announced FlashProve, an open‑source zkSNARK prototype that can prove a model’s reply was generated from a specific, committed set of weights while keeping those weights private. The prototype demonstrates performance on Llama 4 Maverick, achieving 110 tokens per second on a single H100 GPU and producing 19 MB proofs.",
+      "articleUrl": "https://www.marktechpost.com/2026/11/03/anthropic-flashprove-provable-inference-zksnark/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Anthropic",
+        "FlashProve",
+        "zkSNARK",
+        "Llama 4 Maverick",
+        "H100",
+        "Apache 2.0"
+      ],
+      "publishedAt": "2026-11-03T22:08:22+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Cryptography"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "b12079",
+      "title": "b12079",
+      "dek": "Add nccl support for multi-node tensor parallelism ( #28967 ) \n \n \n Add a backend interface for collectives across ranks running in separate processes, implement it in the CUDA backend using NCCL, and use it in the RPC server when available. \n \n \n Drop ggml_backend_comm_allreduce",
+      "aiSummary": "The update introduces a backend interface for collectives across ranks in separate processes, implemented in the CUDA backend using NCCL. This feature is integrated into the RPC server when available, while the ggml_backend_comm_allreduce function is removed.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12079",
+      "category": "AI",
+      "filterTags": [
+        "NCCL",
+        "CUDA",
+        "RPC",
+        "ggml"
+      ],
+      "publishedAt": "2026-11-03T22:03:45+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Distributed Computing"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "ted-schlein-s-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom",
+      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "dek": "Cybersecurity focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+      "aiSummary": "Ballistic Ventures, a cybersecurity-focused investment firm, is seeking to raise $360 million for a new flagship fund and $130 million for a separate investment vehicle. The total amount sought is $490 million.",
+      "articleUrl": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+      "category": "Venture Capital",
+      "filterTags": [
+        "Ballistic Ventures",
+        "Cybersecurity",
+        "Ted Schlein",
+        "AI"
+      ],
+      "publishedAt": "2026-11-03T21:43:08+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Venture Capital"
+        },
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "ai-godfather-geoffrey-hinton-it-might-turn-out-we-were-better-off-without-ai",
+      "title": "AI ‘godfather’ Geoffrey Hinton: it might turn out we were better off without AI",
+      "dek": "Nobel winner warns the tech could be near to triggering major incident such as power or banking shutdown One of the “godfathers of AI”, Geoffrey Hinton, has said it could turn out that humans would have been better off never developing the technology as he warned it could trigger",
+      "aiSummary": "Nobel laureate Geoffrey Hinton, a leading figure in artificial intelligence, warned that the technology could be on the verge of causing a major incident, such as a shutdown of power or banking systems. He stated that it might ultimately be determined that humanity would have been better off without developing AI.",
+      "articleUrl": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+      "category": "AI",
+      "filterTags": [
+        "Geoffrey Hinton",
+        "AI",
+        "Nobel Prize"
+      ],
+      "publishedAt": "2026-11-03T21:35:42+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Technology Ethics"
+        },
+        {
+          "name": "Risk Management"
+        }
+      ]
+    },
+    {
+      "slug": "reddit-is-testing-in-app-search-ads-as-traffic-from-google-declines",
+      "title": "Reddit is testing in-app search ads as traffic from Google declines",
+      "dek": "The company wants to help advertisers reach users who show a \"high purchase\" intent.",
+      "aiSummary": "Reddit is testing in-app search ads to help advertisers target users with high purchase intent. The move comes as traffic from Google declines.",
+      "articleUrl": "https://www.engadget.com/2305984/reddit-is-testing-search-ads-as-traffic-from-google-declines/",
+      "category": "Advertising",
+      "filterTags": [
+        "Reddit",
+        "Google",
+        "in-app search ads"
+      ],
+      "publishedAt": "2026-11-03T21:27:50+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Advertising"
+        },
+        {
+          "name": "Social Media"
+        },
+        {
+          "name": "Digital Marketing"
+        }
+      ]
+    },
+    {
+      "slug": "shopify-falls-over-8-after-q3-revenue-and-merchandise-volume-miss-estimates",
+      "title": "Shopify falls over 8% after Q3 revenue and merchandise volume miss estimates",
+      "dek": "Shopify's stock fell after the e-commerce platform's Q3 revenue and gross merchandise volume missed estimates, despite an adjusted earnings beat.",
+      "aiSummary": "Shopify's shares fell after Q3 revenue and gross merchandise volume fell short of estimates. The company still beat earnings expectations on an adjusted basis.",
+      "articleUrl": "https://www.cnbc.com/2026/11/03/shopify-q3-2026-earnings-gmv.html",
+      "category": "E-commerce",
+      "filterTags": [
+        "Shopify"
+      ],
+      "publishedAt": "2026-11-03T21:03:30+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "E-commerce"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Stock Market"
+        }
+      ]
+    },
+    {
+      "slug": "those-jeff-bezos-hair-transplant-photos-are-very-fake",
+      "title": "Those Jeff Bezos hair transplant photos are very fake",
+      "dek": "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men circulating around X, Threads, and Bluesky in which they both",
+      "aiSummary": "The article points out that Jeff Bezos and Jason Statham are both famously bald. Recent images on X, Threads, and Bluesky show them with hair, but the article suggests these photos are probably fake. It highlights the spread of misleading images on social media.",
+      "articleUrl": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
+      "category": "Social Media",
+      "filterTags": [
+        "Amazon",
+        "X",
+        "Threads",
+        "Bluesky"
+      ],
+      "publishedAt": "2026-11-03T21:01:07+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Social Media"
+        },
+        {
+          "name": "Misinformation"
+        },
+        {
+          "name": "Celebrity"
+        }
+      ]
+    },
+    {
+      "slug": "what-type-of-battery-does-the-slate-truck-use",
+      "title": "What type of battery does the Slate Truck use?",
+      "dek": "Slate had made arrangements in 2025 to buy its batteries from a Georgia company, then switched this year to an Illnois firm with a different kind of technology.",
+      "aiSummary": "Slate Truck changed its battery supplier in 2026, moving from a Georgia-based company to an Illinois firm. This switch involved adopting a different battery technology.",
+      "articleUrl": "https://www.engadget.com/2303044/slate-battery-type-different-plans-before-debut/",
+      "category": "Automotive",
+      "filterTags": [
+        "Slate Truck",
+        "Battery",
+        "Georgia",
+        "Illinois"
+      ],
+      "publishedAt": "2026-11-03T21:00:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Automotive"
+        },
+        {
+          "name": "Energy"
+        }
+      ]
+    },
+    {
+      "slug": "google-will-turn-off-search-for-schools-that-reject-a-i",
+      "title": "Google Will Turn Off Search for Schools That Reject A.I.",
+      "dek": "Google is making it easier to restrict its A.I. tools for students. But schools that block A.I. entirely will lose student access to Google’s search engine.",
+      "aiSummary": "Google is simplifying the process of limiting its AI tools for students. However, schools that completely block AI will lose student access to Google Search.",
+      "articleUrl": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+      "category": "Technology",
+      "filterTags": [
+        "Google",
+        "AI",
+        "Google Search"
+      ],
+      "publishedAt": "2026-11-03T20:53:40+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Education"
+        },
+        {
+          "name": "Policy"
+        }
+      ]
+    },
+    {
+      "slug": "sonos-new-voice-assistant-is-launching-in-early-access-on-november-6",
+      "title": "Sonos' new voice assistant is launching in early access on November 6",
+      "dek": "The company is hoping to collect feedback on Sonos 27voice to avoid a repeat of its previous app redesign debacle.",
+      "aiSummary": "Sonos will launch its new voice assistant, Sonos 27voice, in early access on November 6. The company aims to gather user feedback to prevent a recurrence of the issues faced during its previous app redesign.",
+      "articleUrl": "https://www.engadget.com/2305897/sonos-new-voice-assistant-is-launching-in-early-access-on-november-6/",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Sonos",
+        "Sonos 27voice",
+        "voice assistant"
+      ],
+      "publishedAt": "2026-11-03T20:48:49+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Smart Home"
+        }
+      ]
+    },
+    {
+      "slug": "ukraine-s-drone-strikes-spur-hasty-russian-plans-for-underground-data-centers",
+      "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
+      "dek": "Russia tries to fix exposed digital infrastructure as data center war backfires.",
+      "aiSummary": "Ukraine's drone strikes have exposed Russia's digital infrastructure, prompting the country to hastily plan underground data centers. The move comes after data center operations have been disrupted by the ongoing conflict. Russia is attempting to repair and secure its exposed digital assets amid the war.",
+      "articleUrl": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
+      "category": "Security",
+      "filterTags": [
+        "data center",
+        "digital infrastructure",
+        "underground data center",
+        "Ukraine",
+        "Russia"
+      ],
+      "publishedAt": "2026-11-03T20:39:55+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "Geopolitics"
+        }
+      ]
+    },
+    {
+      "slug": "ai-generated-slopaganda-in-political-ads-puts-internet-platforms-on-alert",
+      "title": "AI-generated 'slopaganda' in political ads puts internet platforms on alert",
+      "dek": "Tuesday's midterm elections follow record spending on AI-generated political ads.",
+      "aiSummary": "The recent midterm elections saw record spending on political advertisements generated by artificial intelligence. This surge in AI-created content, referred to as 'slopaganda,' has put internet platforms on alert.",
+      "articleUrl": "https://www.cnbc.com/2026/11/03/ai-generated-slopaganda-in-political-ads-puts-platforms-on-alert.html",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "political ads",
+        "internet platforms"
+      ],
+      "publishedAt": "2026-11-03T20:33:28+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Media"
+        }
+      ]
+    },
+    {
+      "slug": "google-says-there-s-no-way-to-use-search-without-using-artificial-intelligence",
+      "title": "Google says there’s no way to use Search without using artificial intelligence",
+      "dek": "In announcement geared to schools, tech giant shows how entwined AI is with the world’s most popular website Google  just acknowledged that you can’t use Google Search without using  artificial intelligence . The search giant announced a slate of new AI products for classrooms an",
+      "aiSummary": "Google announced new AI tools for classrooms and stated that its search engine relies on AI. The company highlighted how AI is integrated into its services. The announcement was aimed at schools.",
+      "articleUrl": "https://www.theguardian.com/technology/2026/nov/03/google-search-artificial-intelligence",
+      "category": "AI",
+      "filterTags": [
+        "Google",
+        "AI",
+        "Search"
+      ],
+      "publishedAt": "2026-11-03T20:30:06+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Education"
+        },
+        {
+          "name": "Search Engines"
+        }
+      ]
+    },
+    {
+      "slug": "tech-life",
+      "title": "Tech Life",
+      "dek": "When copyright strikes silence reporters, rail safety & the Lord of the Rings live show.",
+      "aiSummary": "The piece examines how copyright enforcement has silenced reporters, raises issues around rail safety, and reports on a live Lord of the Rings show. It highlights the tension between intellectual property rights and media coverage, while also touching on public safety concerns in rail transport and the cultural impact of live fantasy performances.",
+      "articleUrl": "https://www.bbc.co.uk/sounds/play/w3ct8jyt?at_medium=RSS&at_campaign=rss",
+      "category": "Media",
+      "filterTags": [
+        "Copyright",
+        "Rail Safety",
+        "Lord of the Rings"
+      ],
+      "publishedAt": "2026-11-03T20:30:00+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Media"
+        },
+        {
+          "name": "Transportation"
+        },
+        {
+          "name": "Entertainment"
+        },
+        {
+          "name": "Intellectual Property"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-shows-3-ways-to-speed-up-moe-inference-on-dgx-spark-lifting-ling-3-0-flash-throughput-42-5",
+      "title": "NVIDIA Shows 3 Ways to Speed Up MoE Inference on DGX Spark, Lifting Ling-3.0-flash Throughput 42.5%",
+      "dek": "NVIDIA shows how 3 stacked optimizations speed up MoE inference on a single DGX Spark. On Ant Group inclusionAI's 124B Ling-3.0-flash, GSM8K decode throughput rose 42.5% with no detectable accuracy change. \n The post  NVIDIA Shows 3 Ways to Speed Up MoE Inference on DGX Spark, Li",
+      "aiSummary": "NVIDIA presented three stacked optimizations designed to accelerate Mixture of Experts (MoE) inference on a single DGX Spark unit. When applied to Ant Group's 124B Ling-3.0-flash model, these changes increased GSM8K decode throughput by 42.5% without any detectable loss in accuracy.",
+      "articleUrl": "https://www.marktechpost.com/2026/11/03/nvidia-dgx-spark-moe-inference-ling-3-0-flash/",
+      "category": "AI",
+      "filterTags": [
+        "NVIDIA",
+        "DGX Spark",
+        "MoE",
+        "Ant Group",
+        "Ling-3.0-flash",
+        "GSM8K"
+      ],
+      "publishedAt": "2026-11-03T20:28:22+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Performance Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "v3-44-0",
+      "title": "v3.44.0",
+      "dek": "3.44.0  (2026-11-03) \n Features \n \n api:  add workload identity providers and federation rules ( #4237 ) ( 12709d7 )",
+      "aiSummary": "The 3.44.0 release, dated November 3, 2026, introduces new API features that add workload identity providers and federation rules. These changes enable more flexible identity management and federation capabilities.",
+      "articleUrl": "https://github.com/openai/openai-python/releases/tag/v3.44.0",
+      "category": "Software Updates",
+      "filterTags": [
+        "API",
+        "Workload Identity Providers",
+        "Federation Rules"
+      ],
+      "publishedAt": "2026-11-03T20:20:42+00:00",
+      "publisher": {
+        "name": "openai",
+        "domain": "github.com",
+        "website": "https://github.com/openai/openai-python",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Updates"
+        },
+        {
+          "name": "Identity & Access Management"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "soniox-stt-v6-adds-agent-text-input-and-echo-filtering-for-voice-agents",
+      "title": "Soniox STT v6 Adds Agent Text Input and Echo Filtering for Voice Agents",
+      "dek": "Soniox has released Soniox STT v6, the latest generation of its speech-to-text API. Soniox STT v6 is a speech-to-text model that reads what a voice agent says while hearing the caller. It uses that text to recognize short replies and to drop the agent’s own voice. The release shi",
+      "aiSummary": "Soniox released its STT v6 model, which can transcribe a voice agent's speech while listening to the caller. The model uses the transcribed text to detect short replies and suppresses the agent's own voice from the audio. This improves clarity for voice agents.",
+      "articleUrl": "https://www.marktechpost.com/2026/11/03/soniox-stt-v6-agent-text-input-echo-cancellation/",
+      "category": "AI",
+      "filterTags": [
+        "Soniox",
+        "STT",
+        "speech-to-text"
+      ],
+      "publishedAt": "2026-11-03T20:18:22+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Speech Recognition"
+        },
+        {
+          "name": "Voice Assistants"
+        }
+      ]
+    },
+    {
+      "slug": "apple-starts-giving-siri-ai-access-to-third-party-apps",
+      "title": "Apple starts giving Siri AI access to third-party apps",
+      "dek": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the voice assistant to draw on a user's personal context, process",
+      "aiSummary": "Apple is rolling out an iOS 27.3 update that enables Siri AI to perform actions across third-party applications. Developers can now integrate these new features into their apps, allowing the voice assistant to utilize a user's personal context.",
+      "articleUrl": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+      "category": "Mobile Technology",
+      "filterTags": [
+        "Apple",
+        "Siri",
+        "iOS 27.3",
+        "Third-party apps"
+      ],
+      "publishedAt": "2026-11-03T20:16:17+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Mobile Technology"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "v1-12-9",
+      "title": "v1.12.9",
+      "dek": "fix: preserve base image dependencies in extension checks",
+      "aiSummary": "This patch corrects the handling of base image dependencies during extension checks. The change ensures that dependencies are properly maintained when extensions are evaluated.",
+      "articleUrl": "https://github.com/langflow-ai/langflow/releases/tag/v1.12.9",
+      "category": "Software Development",
+      "filterTags": [
+        "base image dependencies",
+        "extension checks"
+      ],
+      "publishedAt": "2026-11-03T20:04:20+00:00",
+      "publisher": {
+        "name": "langflow-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langflow-ai/langflow",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Testing"
+        }
+      ]
+    },
+    {
+      "slug": "voting-problems-cause-a-surge-in-misleading-fraud-claims-online",
+      "title": "Voting Problems Cause a Surge in Misleading Fraud Claims Online",
+      "dek": "Mentions of “cheat,” “steal,” “rig” and similar terms spiked on X this morning as voting began.",
+      "aiSummary": "Mentions of terms like \"cheat,\" \"steal,\" and \"rig\" spiked on the social media platform X this morning. This surge in misleading fraud claims coincided with the start of voting.",
+      "articleUrl": "https://www.nytimes.com/2026/11/03/technology/midterm-elections-voter-fraud-claims.html",
+      "category": "Politics",
+      "filterTags": [
+        "X",
+        "Social Media",
+        "Election Fraud"
+      ],
+      "publishedAt": "2026-11-03T19:54:29+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Misinformation"
+        }
+      ]
+    },
+    {
+      "slug": "want-an-iphone-duo-for-the-holidays-apple-s-latest-stock-update-isn-t-reassuring",
+      "title": "Want an iPhone Duo for the holidays? Apple’s latest stock update isn’t reassuring",
+      "dek": "The iPhone Duo likely won’t make it into Santa’s sleigh this year. Here’s what Apple had to say about it.",
+      "aiSummary": "Apple's latest stock update indicates that the iPhone Duo will probably not be available for holiday sales. The company confirmed limited inventory, suggesting the device may not reach consumers before the holiday season.",
+      "articleUrl": "https://www.zdnet.com/uncategorized/santas-sleigh-may-be-missing-iphone-duos-in-time-for-christmas-what-apple-revealed-in-its-earnings-call/",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Apple",
+        "iPhone Duo"
+      ],
+      "publishedAt": "2026-11-03T19:28:32+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Smartphones"
+        },
+        {
+          "name": "Retail"
+        }
+      ]
+    },
+    {
+      "slug": "v0-44-0",
+      "title": "v0.44.0",
+      "dek": "ComfyUI v0.44.0",
+      "aiSummary": "ComfyUI has released version 0.44.0. The provided text contains no additional details regarding specific features, changes, or technical specifications for this update.",
+      "articleUrl": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.44.0",
+      "category": "AI",
+      "filterTags": [
+        "ComfyUI"
+      ],
+      "publishedAt": "2026-11-03T19:21:48+00:00",
+      "publisher": {
+        "name": "comfyanonymous",
+        "domain": "github.com",
+        "website": "https://github.com/comfyanonymous/ComfyUI",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "your-apple-watch-has-2-new-controversial-listening-features-but-you-have-to-opt-in",
+      "title": "Your Apple Watch has 2 new controversial listening features – but you have to opt in",
+      "dek": "Siri Recap and Live Rewind are finally here, two months after Apple unveiled the always-listening Apple Watch features. Here’s how they work.",
+      "aiSummary": "Apple has released two new listening features for the Apple Watch: Siri Recap and Live Rewind. These were announced two months after Apple first revealed the always‑listening capabilities. The article explains how each feature functions.",
+      "articleUrl": "https://www.zdnet.com/tech/apple-watch-siri-recap-live-rewind-available-beta-how-to-try/",
+      "category": "Wearables",
+      "filterTags": [
+        "Apple",
+        "Apple Watch",
+        "Siri Recap",
+        "Live Rewind"
+      ],
+      "publishedAt": "2026-11-03T19:01:00+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Wearables"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Privacy"
+        }
+      ]
+    },
+    {
+      "slug": "hackers-behind-6-3bn-binance-heist-used-malware-and-bogus-job-interviews",
+      "title": "Hackers behind $6.3bn Binance heist ‘used malware and bogus job interviews’",
+      "dek": "Firm reveals details about how its cryptocurrency exchange was compromised, saying operation began in June The hackers behind the  $6.3bn (£4.7bn) Binance heist  used bogus job interviews, malicious software and an internal AI tool, the company has revealed. The world’s largest c",
+      "aiSummary": "Binance has disclosed that the hackers responsible for the $6.3 billion theft utilized bogus job interviews, malicious software, and an internal AI tool to compromise the exchange. The company stated that the operation began in June.",
+      "articleUrl": "https://www.theguardian.com/business/2026/nov/03/hackers-63bn-binance-heist-malware-bogus-job-interviews-cryptocurrency",
+      "category": "Security",
+      "filterTags": [
+        "Binance",
+        "Malware",
+        "AI",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-03T19:00:23+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Cryptocurrency"
+        }
+      ]
+    },
+    {
+      "slug": "apple-s-latest-watchos-beta-includes-its-new-always-on-audio-intelligence-features",
+      "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
+      "dek": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses \"ambient listening\" to generate summaries of your conversation, an",
+      "aiSummary": "Apple released the watchOS 27.3 developer beta today, adding new Audio Intelligence capabilities. Siri can now listen to the Apple Watch’s microphone and generate conversation summaries through a feature called Siri Recap, which uses ambient listening. These updates expand the watch’s voice assistant functionality.",
+      "articleUrl": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
+      "category": "AI",
+      "filterTags": [
+        "Apple",
+        "watchOS",
+        "Siri",
+        "Audio Intelligence",
+        "Siri Recap",
+        "watchOS 27.3"
+      ],
+      "publishedAt": "2026-11-03T18:31:00+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Mobile Devices"
+        },
+        {
+          "name": "Software Updates"
+        }
+      ]
+    },
+    {
+      "slug": "b12078",
+      "title": "b12078",
+      "dek": "tools : reject mismatched shards in GGUF split merge ( #31579 ) \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/63239877 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silicon (arm64, KleidiAI enabled)  DIS",
+      "aiSummary": "The release b12078 for llama.cpp introduces a fix that rejects mismatched shards during the merging of split GGUF files. This update is available for macOS and iOS devices with Apple Silicon architecture.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12078",
+      "category": "AI",
+      "filterTags": [
+        "llama.cpp",
+        "GGUF",
+        "macOS",
+        "iOS",
+        "Apple Silicon",
+        "KleidiAI"
+      ],
+      "publishedAt": "2026-11-03T18:28:19+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "1-15-35",
+      "title": "1.15.35",
+      "dek": "What's Changed \n Documentation \n \n Update litellm model catalog for v1.15.35 \n Add snapshot and changelog for v1.15.34 \n \n Contributors \n @github-actions[bot],  João Moura (@joaomdmoura) ,  Lorenze Jay (@lorenzejay)",
+      "aiSummary": "This release updates the LiteLLM model catalog and adds documentation snapshots and changelogs for the previous version, 1.15.34. The update was contributed by GitHub Actions, João Moura, and Lorenze Jay.",
+      "articleUrl": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.35",
+      "category": "Open Source",
+      "filterTags": [
+        "LiteLLM",
+        "v1.15.35",
+        "v1.15.34"
+      ],
+      "publishedAt": "2026-11-03T18:25:15+00:00",
+      "publisher": {
+        "name": "crewAIInc",
+        "domain": "github.com",
+        "website": "https://github.com/crewAIInc/crewAI",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "openai-and-anthropic-set-up-war-rooms-to-fight-disinfo-about-midterm-elections",
+      "title": "OpenAI and Anthropic Set Up ‘War Rooms’ to Fight Disinfo About Midterm Elections",
+      "dek": "OpenAI, Anthropic and other tech companies have vowed to protect Tuesday’s elections from efforts to undermine democracy.",
+      "aiSummary": "The AI firms have pledged to defend the upcoming Tuesday midterm elections against attempts to undermine democracy. They plan to set up dedicated 'war rooms' to monitor and counter disinformation.",
+      "articleUrl": "https://www.nytimes.com/2026/11/03/business/ai-midterm-election-misinformation.html",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "publishedAt": "2026-11-03T18:25:13+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Political Technology"
+        }
+      ]
+    },
+    {
+      "slug": "a-chill-wind-in-the-ai-credit-market",
+      "title": "A chill wind in the AI credit market",
+      "dek": "Investors are demanding more to finance the data centre boom",
+      "aiSummary": "Investors are requiring higher compensation to finance the rapid growth of data centers driven by artificial intelligence. This shift indicates a cooling or tightening of credit conditions specifically within the AI infrastructure sector.",
+      "articleUrl": "https://www.ft.com/content/5f08f1fb-4948-4420-8fe4-3c8c8cc492ef?syn-25a6b1a6=1",
+      "category": "Finance",
+      "filterTags": [
+        "AI",
+        "Credit Market",
+        "Data Centers",
+        "Investors"
+      ],
+      "publishedAt": "2026-11-03T18:18:22+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "suse-lays-off-1-in-10-workers-citing-ai-and-automation",
+      "title": "SUSE lays off 1 in 10 workers – citing AI and automation",
+      "dek": "Squarespace also announced layoffs this week, but explicit ties to AI remain inconsistent.",
+      "aiSummary": "SUSE announced layoffs affecting roughly one in ten employees, citing AI and automation as reasons. The company also noted that Squarespace has announced layoffs this week, though the connection to AI is unclear.",
+      "articleUrl": "https://www.zdnet.com/business/suse-lay-offs-workforce-ai-cited/",
+      "category": "Enterprise Software",
+      "filterTags": [
+        "SUSE",
+        "Squarespace",
+        "AI",
+        "automation",
+        "layoffs"
+      ],
+      "publishedAt": "2026-11-03T18:12:05+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Enterprise Software"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Human Resources"
+        }
+      ]
+    },
+    {
+      "slug": "v3-43-0",
+      "title": "v3.43.0",
+      "dek": "3.43.0  (2026-11-03) \n Features \n \n api:  expand Live Responses delegation tools ( #4233 ) ( f6e8480 ) \n responses:  accumulate rich WebSocket progress ( #4224 ) ( 48cdad3 ) \n responses:  add WebSocket lane overflow isolation ( #4225 ) ( 16bdad1 ) \n \n Chores \n \n deps:  bump actio",
+      "aiSummary": "The 3.43.0 release, dated November 3, 2026, introduces expanded Live Responses delegation tools and improved WebSocket progress accumulation. It also adds WebSocket lane overflow isolation and updates dependencies.",
+      "articleUrl": "https://github.com/openai/openai-python/releases/tag/v3.43.0",
+      "category": "Software Development",
+      "filterTags": [
+        "Live Responses",
+        "WebSocket",
+        "API"
+      ],
+      "publishedAt": "2026-11-03T18:05:44+00:00",
+      "publisher": {
+        "name": "openai",
+        "domain": "github.com",
+        "website": "https://github.com/openai/openai-python",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "APIs"
+        }
+      ]
+    },
+    {
+      "slug": "google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too",
+      "title": "Google will let schools skip AI tools, but they have to give up search, too",
+      "dek": "Google will offer schools AI tools that purportedly don't give away the answers.",
+      "aiSummary": "Google is introducing a policy where schools can opt out of AI tools, but doing so requires them to also give up access to Google Search. The company claims these AI tools are designed not to provide direct answers to students.",
+      "articleUrl": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
+      "category": "AI",
+      "filterTags": [
+        "Google",
+        "AI",
+        "Education",
+        "Search"
+      ],
+      "publishedAt": "2026-11-03T17:54:43+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Education"
+        },
+        {
+          "name": "Technology Policy"
+        }
+      ]
+    },
+    {
+      "slug": "statebench-testing-how-language-models-track-state-changes-over-long-documents",
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "dek": "StateBench tests how well language models keep track of changes in long documents.",
+      "aiSummary": "StateBench is a benchmark that evaluates how language models track state changes over long documents. It focuses on the models' ability to maintain context across extended text. The benchmark provides a framework for measuring state tracking performance.",
+      "articleUrl": "https://huggingface.co/blog/allenai/statebench",
+      "category": "AI",
+      "filterTags": [
+        "StateBench",
+        "language models"
+      ],
+      "publishedAt": "2026-11-03T17:15:21+00:00",
+      "publisher": {
+        "name": "Hugging Face",
+        "domain": "huggingface.co",
+        "website": "https://huggingface.co/",
+        "logoUrl": "https://huggingface.co/front/thumbnails/v2-2.png",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "NLP"
+        },
+        {
+          "name": "Benchmarking"
+        }
+      ]
+    },
+    {
+      "slug": "learn-the-rules-the-hacker-mindset",
+      "title": "Learn the rules: The hacker mindset",
+      "dek": "Research Manager Mike Walker reflects on a career spanning hacker culture, cybersecurity, and AI, sharing lessons about trust, teamwork, leadership, and why solving difficult problems requires curiosity, judgment, agility—and an understanding of the rules. \n The post  Learn the r",
+      "aiSummary": "Research Manager Mike Walker shares insights from his career in hacker culture, cybersecurity, and AI. He emphasizes that solving complex problems requires curiosity, judgment, agility, and a clear understanding of the rules, alongside trust and teamwork.",
+      "articleUrl": "https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset/",
+      "category": "Security",
+      "filterTags": [
+        "Mike Walker",
+        "Hacker Culture",
+        "Cybersecurity",
+        "AI"
+      ],
+      "publishedAt": "2026-11-03T17:14:38+00:00",
+      "publisher": {
+        "name": "Microsoft Research",
+        "domain": "microsoft.com",
+        "website": "https://www.microsoft.com/en-us/research/",
+        "logoUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2024/07/About-page-promo_1066x600.jpg",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Leadership"
+        }
+      ]
+    },
+    {
+      "slug": "agentic-cheminformatics-with-google-antigravity",
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "dek": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "aiSummary": "Google Antigravity, combined with Cheminformatics Skills, speeds up drug discovery by streamlining workflows, enabling compound searches, and suggesting new rigidified macrocycles. The platform helps researchers quickly identify and evaluate potential drug candidates. It also proposes novel rigidified macrocycles to enhance drug properties.",
+      "articleUrl": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "category": "Drug Discovery",
+      "filterTags": [
+        "Google Antigravity",
+        "Cheminformatics Skills"
+      ],
+      "publishedAt": "2026-11-03T17:01:49+00:00",
+      "publisher": {
+        "name": "Google DeepMind",
+        "domain": "deepmind.google",
+        "website": "https://deepmind.google/",
+        "logoUrl": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/icons/google_deepmind_2x_96dp.png",
+        "faviconUrl": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/icons/google_deepmind_2x_96dp.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Drug Discovery"
+        },
+        {
+          "name": "Cheminformatics"
+        },
+        {
+          "name": "Software"
+        }
+      ]
+    },
+    {
+      "slug": "how-software-engineering-is-changing-a-tale-of-two-eras",
+      "title": "How software engineering is changing: a tale of two eras",
+      "dek": "We invited readers to write about how building software changed, in an essay challenge. Many of you took part, and today we’re sharing the winning piece from a strong set of entries",
+      "aiSummary": "The article shares the winning entry from a reader essay challenge focused on the evolution of software engineering. It highlights how the methods and processes for building software have shifted significantly between two distinct eras.",
+      "articleUrl": "https://newsletter.pragmaticengineer.com/p/how-software-engineering-is-changing",
+      "category": "Software Development",
+      "filterTags": [
+        "software engineering",
+        "essay challenge"
+      ],
+      "publishedAt": "2026-11-03T16:58:22+00:00",
+      "publisher": {
+        "name": "Pragmatic Engineer",
+        "domain": "newsletter.pragmaticengineer.com",
+        "website": "https://newsletter.pragmaticengineer.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=newsletter.pragmaticengineer.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=newsletter.pragmaticengineer.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Industry Trends"
+        }
+      ]
+    },
+    {
+      "slug": "bring-structured-and-unstructured-data-together-with-amazon-quick",
+      "title": "Bring structured and unstructured data together with Amazon Quick",
+      "dek": "Amazon Quick brings structured and unstructured data together in one experience. In this post, you connect Amazon S3 as a knowledge base, enrich a dataset, build a Space, and create a custom chat agent that answers business questions across both data types through a single conver",
+      "aiSummary": "Amazon Quick integrates structured and unstructured data within a unified experience. The process involves connecting Amazon S3 as a knowledge base, enriching datasets, and building a Space to create a custom chat agent that answers business questions across both data types.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/bring-structured-and-unstructured-data-together-with-amazon-quick/",
+      "category": "Data Management",
+      "filterTags": [
+        "Amazon Quick",
+        "Amazon S3",
+        "chat agent",
+        "knowledge base"
+      ],
+      "publishedAt": "2026-11-03T16:49:29+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Data Management"
+        },
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    }
+  ]
+}
