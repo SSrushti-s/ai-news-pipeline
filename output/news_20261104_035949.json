@@ -1,0 +1,1110 @@
+{
+  "news": [
+    {
+      "slug": "how-to-handle-a-water-spill-on-your-mac-before-the-damage-gets-worse",
+      "title": "How to handle a water spill on your Mac before the damage gets worse",
+      "dek": "A liquid spill can damage your  Mac  long after the surface dries, making a quick response essential to avoiding an expensive repair. Here's how to limit the damage and give your Mac the best chance of recovery. If you spill water on your Mac If you spill water on your Mac, shut ",
+      "aiSummary": "Liquid spills can cause lasting damage to a Mac even after the surface appears dry, making immediate action critical to avoid costly repairs. The article outlines specific steps to limit damage and improve the chances of device recovery.",
+      "articleUrl": "https://appleinsider.com/inside/mac/tips/how-to-handle-a-water-spill-on-your-mac-before-the-damage-gets-worse?utm_source=rss",
+      "category": "Hardware",
+      "filterTags": [
+        "Mac",
+        "Apple",
+        "Hardware Maintenance"
+      ],
+      "publishedAt": "2026-11-04T03:57:44+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Consumer Tech"
+        }
+      ]
+    },
+    {
+      "slug": "b12098",
+      "title": "b12098",
+      "dek": "mtmd: accurate support for qwen3-vl video prompt format ( #31619 ) \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/63416358 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silicon (arm64, KleidiAI enabled)  ",
+      "aiSummary": "This release introduces accurate support for the Qwen3-VL video prompt format via pull request #31619. The build is available for macOS and iOS on Apple Silicon, with an option for KleidiAI acceleration.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12098",
+      "category": "AI",
+      "filterTags": [
+        "llama.cpp",
+        "Qwen3-VL",
+        "KleidiAI",
+        "Apple Silicon"
+      ],
+      "publishedAt": "2026-11-04T03:53:56+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "semight-is-said-to-tap-citic-goldman-jpmorgan-for-hong-kong-listing",
+      "title": "Semight Is Said to Tap Citic, Goldman, JPMorgan for Hong Kong Listing",
+      "dek": "Semight Instruments Co., a Chinese maker of test instruments for semiconductors, has picked banks to help prepare for its Hong Kong listing, according to people familiar with the matter.",
+      "aiSummary": "Semight Instruments Co., a Chinese manufacturer of semiconductor test instruments, has appointed Citic, Goldman Sachs, and JPMorgan to assist with its preparation for a listing in Hong Kong. This move indicates the company is advancing its plans to raise capital through the stock market.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-04/semight-is-said-to-tap-citic-goldman-jpmorgan-for-hong-kong-listing",
+      "category": "Finance",
+      "filterTags": [
+        "Semight Instruments",
+        "Citic",
+        "Goldman Sachs",
+        "JPMorgan",
+        "Semiconductors",
+        "IPO"
+      ],
+      "publishedAt": "2026-11-04T03:40:20+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Semiconductors"
+        }
+      ]
+    },
+    {
+      "slug": "v1-108-0",
+      "title": "v1.108.0",
+      "dek": "Verify Docker Image Signature \n All LiteLLM Docker images are signed with  cosign . This release is signed with the key introduced in  commit  e82a3c6 . \n Verify using the pinned commit hash (recommended): \n A commit hash is cryptographically immutable, so this is the strongest w",
+      "aiSummary": "The v1.108.0 release of LiteLLM includes Docker images signed with cosign, using a key introduced in commit e82a3c6. Users are advised to verify the images with the pinned commit hash, which provides the most secure validation because commit hashes are immutable.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.108.0",
+      "category": "Security",
+      "filterTags": [
+        "LiteLLM",
+        "Docker",
+        "cosign",
+        "commit hash"
+      ],
+      "publishedAt": "2026-11-04T03:35:33+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Containerization"
+        }
+      ]
+    },
+    {
+      "slug": "b12097",
+      "title": "b12097",
+      "dek": "model, mtmd: add chatterbox TTS support ( #30993 ) \n \n add chatterbox TTS support \n \n Co-authored-by: Pascal  admin@serveurperso.com \n \n \n add built-in voice support \n \n \n rm redundant code \n \n \n clean up \n \n \n clean up 2 \n \n \n Apply batched suggestions from code review \n \n \n Co-",
+      "aiSummary": "The commit adds chatterbox text‑to‑speech support and built‑in voice features, removes redundant code, cleans up the codebase, and incorporates suggestions from a code review.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12097",
+      "category": "Software Development",
+      "filterTags": [
+        "chatterbox",
+        "TTS",
+        "voice",
+        "code review"
+      ],
+      "publishedAt": "2026-11-04T03:32:16+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Voice Technology"
+        }
+      ]
+    },
+    {
+      "slug": "vietnamese-tech-firm-vng-is-said-to-consider-reviving-us-listing",
+      "title": "Vietnamese Tech Firm VNG Is Said to Consider Reviving US Listing",
+      "dek": "VNG Group, a Vietnamese tech company backed by Singaporean sovereign wealth fund GIC Pte, is considering reviving a listing in the US, according to people familiar with the matter.",
+      "aiSummary": "VNG Group, a Vietnamese technology firm, is exploring the possibility of re‑listing its shares in the United States. The company is backed by Singapore’s sovereign wealth fund GIC Pte. Sources close to the matter say the move is under consideration.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-04/vietnamese-tech-firm-vng-is-said-to-consider-reviving-us-listing",
+      "category": "Finance",
+      "filterTags": [
+        "VNG Group",
+        "GIC Pte"
+      ],
+      "publishedAt": "2026-11-04T03:22:59+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Capital Markets"
+        }
+      ]
+    },
+    {
+      "slug": "b12096",
+      "title": "b12096",
+      "dek": "hexagon: add TOP_K_MASK op ( #31552 ) \n \n \n hexagon: add TOP_K_MASK op \n \n \n Simplify Hexagon TOP_K_MASK kernel and do not duplicate host configuration \n \n \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/63407530 \n \n mac",
+      "aiSummary": "A pull request for the llama.cpp project introduces a TOP_K_MASK operation for the Hexagon architecture. The update simplifies the kernel implementation and prevents the duplication of host configuration settings.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12096",
+      "category": "AI",
+      "filterTags": [
+        "llama.cpp",
+        "Hexagon",
+        "TOP_K_MASK",
+        "ggml"
+      ],
+      "publishedAt": "2026-11-04T03:16:39+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-china-clients-to-get-1-of-70-billion-rtx-chips-ordered",
+      "title": "Nvidia China Clients to Get 1% of $70 Billion RTX Chips Ordered",
+      "dek": "Chinese AI developers expect to receive just a small fraction of the advanced Nvidia Corp. chips they’ve ordered over the next several months, as the US company struggles to boost production to meet soaring demand.",
+      "aiSummary": "Chinese AI developers expect to receive just a small fraction of the advanced Nvidia chips they’ve ordered over the next several months. Nvidia is struggling to increase production to meet soaring demand.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-04/nvidia-china-clients-to-get-1-of-70-billion-rtx-chips-ordered",
+      "category": "Hardware",
+      "filterTags": [
+        "Nvidia",
+        "RTX",
+        "China",
+        "AI"
+      ],
+      "publishedAt": "2026-11-04T03:14:24+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Supply Chain"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-665ecdd5784fd7c8dfdf7dbb184fceb2b31c387f",
+      "title": "trunk/665ecdd5784fd7c8dfdf7dbb184fceb2b31c387f",
+      "dek": "[CPP FakeTensor] Represent C++ fake Parameters as Tensors with the Pa…",
+      "aiSummary": "This commit modifies the C++ FakeTensor implementation to represent fake Parameters as Tensors. The change is part of the trunk branch and focuses on internal data representation for fake tensors in C++.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F665ecdd5784fd7c8dfdf7dbb184fceb2b31c387f",
+      "category": "Machine Learning",
+      "filterTags": [
+        "CPP",
+        "FakeTensor",
+        "PyTorch",
+        "C++"
+      ],
+      "publishedAt": "2026-11-04T02:58:20+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-aren-t-buying-it",
+      "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+      "dek": "Tech leaders claim artificial intelligence will eliminate illness, but pharmaceutical executives remain skeptical.",
+      "aiSummary": "Silicon Valley leaders are asserting that artificial intelligence will lead to the cure of diseases. However, CEOs of major drugmakers are not convinced by these promises and remain skeptical of the claims.",
+      "articleUrl": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Drugmakers",
+        "Silicon Valley"
+      ],
+      "publishedAt": "2026-11-04T02:58:13+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Healthcare"
+        },
+        {
+          "name": "Pharmaceuticals"
+        }
+      ]
+    },
+    {
+      "slug": "i-built-an-ai-that-works-through-the-apocalypse-will-prowse-video",
+      "title": "I Built an AI That Works Through the Apocalypse – Will Prowse [video]",
+      "dek": "A creator shares how they developed an artificial intelligence system designed to function during a post-apocalyptic scenario.",
+      "aiSummary": "Will Prowse presents a video project detailing the construction of an AI system intended to operate effectively in an apocalyptic setting. The content focuses on the technical and conceptual aspects of building such a resilient artificial intelligence.",
+      "articleUrl": "https://www.youtube.com/watch?v=E2N7IsZ_Xio",
+      "category": "AI",
+      "filterTags": [
+        "Will Prowse",
+        "AI",
+        "Apocalypse"
+      ],
+      "publishedAt": "2026-11-04T02:53:14+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "golf-comedy-stick-returns-for-season-2-on-apple-tv",
+      "title": "Golf comedy 'Stick' returns for season 2 on Apple TV",
+      "dek": "It's time to get back to Owen Wilson's portrayal of Pryce Cahill as he aims for a comeback even as he coaches up-and-comer Santi. The first two episodes are now streaming on Apple TV with new episodes arriving each Wednesday. Owen Wilson returns for Apple TV comedy 'Stick.' Image",
+      "aiSummary": "Owen Wilson returns to his role as Pryce Cahill in the second season of the Apple TV comedy 'Stick.' The series follows Cahill's attempt at a comeback while he coaches a rising player named Santi, with the first two episodes currently streaming and new ones releasing weekly on Wednesdays.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/04/golf-comedy-stick-returns-for-season-2-on-apple-tv?utm_source=rss",
+      "category": "Entertainment",
+      "filterTags": [
+        "Apple TV",
+        "Owen Wilson",
+        "Stick"
+      ],
+      "publishedAt": "2026-11-04T02:45:18+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Entertainment"
+        },
+        {
+          "name": "Streaming"
+        }
+      ]
+    },
+    {
+      "slug": "ask-hn-ai-side-personal-projects-to-improve-hireability",
+      "title": "Ask HN: AI Side/personal projects to improve hireability?",
+      "dek": "What AI side or personal projects can help improve job prospects?",
+      "aiSummary": "The provided text contains only a title asking for advice on AI side or personal projects to improve hireability. No article body or description was provided to summarize.",
+      "articleUrl": "https://news.ycombinator.com/item?id=50360823",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Hiring",
+        "Side Projects"
+      ],
+      "publishedAt": "2026-11-04T02:24:06+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Career Development"
+        }
+      ]
+    },
+    {
+      "slug": "v3-45-0",
+      "title": "v3.45.0",
+      "dek": "3.45.0  (2026-11-03) \n Features \n \n api:  add 12-hour Responses caching and cache-write usage ( #4240 ) ( 5f717b5 ) \n api:  add project service tier settings ( #4239 ) ( 1a2a3d0 ) \n \n Documentation \n \n clarify generated-file ownership ( #4241 ) ( 0309a8c )",
+      "aiSummary": "The 3.45.0 release introduces 12-hour Responses caching and cache-write usage tracking to the API. It also adds project service tier settings and includes documentation updates clarifying generated-file ownership.",
+      "articleUrl": "https://github.com/openai/openai-python/releases/tag/v3.45.0",
+      "category": "Software Development",
+      "filterTags": [
+        "API",
+        "Responses",
+        "caching",
+        "service tier"
+      ],
+      "publishedAt": "2026-11-04T02:23:23+00:00",
+      "publisher": {
+        "name": "openai",
+        "domain": "github.com",
+        "website": "https://github.com/openai/openai-python",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "API"
+        }
+      ]
+    },
+    {
+      "slug": "ciflow-xpu-203200-drop-use-mps-guard-on-dispatchstub-mps-arm",
+      "title": "ciflow/xpu/203200: Drop USE_MPS guard on DispatchStub MPS arm",
+      "dek": "Same root cause as the XPU fix in the previous commit: the MPS case in \nDispatchStubImpl::try_get_call_ptr was wrapped in #if defined(USE_MPS), \nwhile MPS is unconditionally in supported_devices and mps_dispatch_ptr / \nset_mps_dispatch_ptr are unguarded. In builds without MPS, MP",
+      "aiSummary": "This commit removes the USE_MPS guard from the MPS arm of DispatchStubImpl::try_get_call_ptr to align with the unconditional inclusion of MPS in supported_devices. The change addresses a root cause similar to a previous XPU fix, ensuring consistency in builds where MPS is not explicitly defined.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fxpu%2F203200",
+      "category": "Software Engineering",
+      "filterTags": [
+        "ciflow",
+        "xpu",
+        "MPS",
+        "DispatchStub",
+        "USE_MPS"
+      ],
+      "publishedAt": "2026-11-04T02:18:14+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Hardware Acceleration"
+        }
+      ]
+    },
+    {
+      "slug": "v1-109-0-rc-1",
+      "title": "v1.109.0-rc.1",
+      "dek": "Verify Docker Image Signature \n All LiteLLM Docker images are signed with  cosign . This release is signed with the key introduced in  commit  e82a3c6 . \n Verify using the pinned commit hash (recommended): \n A commit hash is cryptographically immutable, so this is the strongest w",
+      "aiSummary": "The v1.109.0-rc.1 release includes Docker images signed with cosign. The signing key was added in commit e82a3c6, and users are advised to verify the signature using the pinned commit hash for maximum security.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.109.0-rc.1",
+      "category": "Security",
+      "filterTags": [
+        "cosign",
+        "LiteLLM",
+        "Docker",
+        "commit hash"
+      ],
+      "publishedAt": "2026-11-04T02:17:12+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Containerization"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "ciflow-xpu-203198-make-amax-amin-refs-raise-indexerror-on-a-zero-size-reduction-dim",
+      "title": "ciflow/xpu/203198: Make amax/amin refs raise IndexError on a zero-size reduction dim",
+      "dek": "Eager  amax / amin  validate the requested reduction dims in \n TORCH_META_FUNC(amax)  /  TORCH_META_FUNC(amin) \n(aten/src/ATen/native/ReduceOps.cpp) via  zero_numel_check_dims \n(aten/src/ATen/native/ReduceOpsUtils.h), which uses  TORCH_CHECK_INDEX  and so \nraises  IndexError: ama",
+      "aiSummary": "The update modifies PyTorch's eager mode amax and amin operations to raise an IndexError when a reduction dimension has zero size. This validation is implemented in the meta functions using the zero_numel_check_dims utility, ensuring consistent error handling for invalid reduction dimensions.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fxpu%2F203198",
+      "category": "Machine Learning",
+      "filterTags": [
+        "PyTorch",
+        "TORCH_META_FUNC",
+        "ReduceOps.cpp",
+        "IndexError"
+      ],
+      "publishedAt": "2026-11-04T02:09:00+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "ray-2-60-0",
+      "title": "Ray-2.60.0",
+      "dek": "Highlights \n \n Ray Data shuffle and Parquet reads:  In this Ray release, shuffle v2 is the default shuffle strategy for joins, aggregations ( #66260 ). Parquet reads now size read tasks from the row-group metadata in each file's footer instead of estimating from file size, so rea",
+      "aiSummary": "Ray 2.60.0 introduces shuffle v2 as the default strategy for joins and aggregations. It also improves Parquet reads by sizing read tasks based on row‑group metadata instead of estimating from file size.",
+      "articleUrl": "https://github.com/ray-project/ray/releases/tag/ray-2.60.0",
+      "category": "Distributed Computing",
+      "filterTags": [
+        "Ray",
+        "Parquet"
+      ],
+      "publishedAt": "2026-11-04T02:08:53+00:00",
+      "publisher": {
+        "name": "ray-project",
+        "domain": "github.com",
+        "website": "https://github.com/ray-project/ray",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Distributed Computing"
+        },
+        {
+          "name": "Data Engineering"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "apple-music-gaining-new-selfie-sing-video-karaoke-mode",
+      "title": "Apple Music gaining new Selfie Sing video karaoke mode",
+      "dek": "Starting in iOS 27.3,  Apple Music  users will be able to capture videos of themselves singing songs along to the lyrics thanks to a new Selfie Sing feature. Selfie Sing is a new Apple Music feature Apple is expanding its Apple Music feature set with more  karaoke-like options . ",
+      "aiSummary": "Apple Music will add a Selfie Sing mode in iOS 27.3, letting users record themselves singing along to lyrics. The feature expands Apple Music's karaoke-like options.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/04/apple-music-gaining-new-selfie-sing-video-karaoke-mode?utm_source=rss",
+      "category": "Music Streaming",
+      "filterTags": [
+        "Apple Music",
+        "iOS",
+        "Selfie Sing"
+      ],
+      "publishedAt": "2026-11-04T01:07:57+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Music Streaming"
+        },
+        {
+          "name": "Mobile Apps"
+        },
+        {
+          "name": "Entertainment"
+        }
+      ]
+    },
+    {
+      "slug": "google-responds-to-political-backlash-over-removing-search-from-schools-that-ban-ai",
+      "title": "Google responds to political backlash over removing search from schools that ban AI",
+      "dek": "After elected officials voiced outrage over Google turning off search at schools that ban AI, the company said search can be turned back on with AI Overviews.",
+      "aiSummary": "Elected officials criticized Google for disabling search in schools that prohibit AI. Google responded that search can be re-enabled using AI Overviews.",
+      "articleUrl": "https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html",
+      "category": "Technology",
+      "filterTags": [
+        "Google",
+        "AI Overviews"
+      ],
+      "publishedAt": "2026-11-04T01:07:01+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Education"
+        },
+        {
+          "name": "Policy"
+        }
+      ]
+    },
+    {
+      "slug": "ipad-mini-oled-vs-ipad-mini-what-s-new",
+      "title": "iPad mini OLED vs. iPad mini: What's new?",
+      "dek": "Apple's newest iPad mini is a significant upgrade over its predecessor, with hardware updates that extend far beyond the fancy new OLED display.",
+      "aiSummary": "Apple's latest iPad mini offers major upgrades over the previous model, featuring hardware improvements that go well beyond the new OLED screen. The device includes several enhancements that improve performance and functionality.",
+      "articleUrl": "https://www.engadget.com/2303546/ipad-mini-oled-vs-ipad-mini-comparison/",
+      "category": "Hardware",
+      "filterTags": [
+        "Apple",
+        "iPad mini",
+        "OLED"
+      ],
+      "publishedAt": "2026-11-04T01:00:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Mobile Devices"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "the-biggest-modding-site-in-pc-gaming-is-taking-a-stance-on-ai",
+      "title": "The biggest modding site in PC gaming is taking a stance on AI",
+      "dek": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big post about AI-generated content on the plat",
+      "aiSummary": "Nexus Mods, a major PC gaming modding repository, has made it mandatory for users to disclose whether AI was used in creating new mods. This policy change was announced as part of a broader statement regarding AI-generated content on the platform.",
+      "articleUrl": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+      "category": "Gaming",
+      "filterTags": [
+        "Nexus Mods",
+        "AI",
+        "PC Gaming",
+        "Modding"
+      ],
+      "publishedAt": "2026-11-04T00:42:10+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Community Policy"
+        }
+      ]
+    },
+    {
+      "slug": "your-phone-s-apps-could-have-more-permissions-than-they-need-here-s-how-to-check",
+      "title": "Your phone's apps could have more permissions than they need – here's how to check",
+      "dek": "Most smartphone apps need permissions to function properly, but some may have more access than they should. Thankfully, it's pretty easy to check.",
+      "aiSummary": "Many smartphone apps request permissions to work, but some request more than necessary. Users can easily check which permissions each app has. The article explains how to review and adjust these permissions.",
+      "articleUrl": "https://www.engadget.com/2300670/phone-apps-more-permissions-than-needed-how-to-check/",
+      "category": "Security",
+      "filterTags": [
+        "permissions",
+        "smartphone apps"
+      ],
+      "publishedAt": "2026-11-04T00:30:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Privacy"
+        },
+        {
+          "name": "Mobile"
+        }
+      ]
+    },
+    {
+      "slug": "v1-14-0-dev15",
+      "title": "v1.14.0.dev15",
+      "dek": "Langflow nightly v1.14.0.dev15",
+      "aiSummary": "Langflow has released version 1.14.0.dev15. This update is identified as a nightly build of the software.",
+      "articleUrl": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev15",
+      "category": "AI",
+      "filterTags": [
+        "Langflow"
+      ],
+      "publishedAt": "2026-11-04T00:24:08+00:00",
+      "publisher": {
+        "name": "langflow-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langflow-ai/langflow",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "canva-layoffs-design-giant-to-cut-or-relocate-more-than-1-200-jobs-in-major-restructure",
+      "title": "Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure",
+      "dek": "Chief executive Melanie Perkins describes job cuts as ‘without doubt the hardest moment in our thirteen-year history’ in email to staff Get our  breaking news email ,  free app  or  daily news podcast Canva is cutting or relocating more than 1,200 jobs, representing 22% of its gl",
+      "aiSummary": "Canva is cutting or relocating more than 1,200 jobs, which accounts for 22% of its global workforce, as part of a major restructuring effort. CEO Melanie Perkins described the decision as the hardest moment in the company's thirteen-year history in an email to staff.",
+      "articleUrl": "https://www.theguardian.com/australia-news/2026/nov/04/canva-layoffs-job-cuts-restructure",
+      "category": "Business",
+      "filterTags": [
+        "Canva",
+        "Melanie Perkins"
+      ],
+      "publishedAt": "2026-11-04T00:14:49+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Business"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "langchain-typesafe-0-0-1",
+      "title": "langchain-typesafe==0.0.1",
+      "dek": "Initial release \n release(typesafe): 0.0.1 ( #41650 ) \nchore(infra): relax third-party dependency upper bounds ( #41407 ) \nchore(deps): bump certifi from 2026.7.22 to 2026.10.19 in /libs/partners/typesafe ( #41375 ) \nfix: fix dependencies in some partner packages ( #41266 ) \nrele",
+      "aiSummary": "The initial release of the langchain-typesafe package, version 0.0.1, has been published. This update includes infrastructure changes to relax third-party dependency upper bounds and a security fix bumping the certifi dependency in the typesafe partner library.",
+      "articleUrl": "https://github.com/langchain-ai/langchain/releases/tag/langchain-typesafe%3D%3D0.0.1",
+      "category": "AI",
+      "filterTags": [
+        "LangChain",
+        "Typesafe",
+        "certifi",
+        "Python"
+      ],
+      "publishedAt": "2026-11-04T00:11:28+00:00",
+      "publisher": {
+        "name": "langchain-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langchain-ai/langchain",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "graduates-are-managing-ai-but-are-they-learning-much-else",
+      "title": "Graduates are managing AI - but are they learning much else?",
+      "dek": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
+      "aiSummary": "Recent graduates are increasingly dedicating time to managing artificial intelligence tools in their work. However, there is concern that this focus may cause them to miss out on acquiring other essential work experiences.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Graduates",
+        "Work Experience"
+      ],
+      "publishedAt": "2026-11-04T00:04:35+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Education"
+        },
+        {
+          "name": "Workforce"
+        }
+      ]
+    },
+    {
+      "slug": "your-desktop-s-front-usb-ports-may-be-slowing-down-every-device-you-plug-into-them",
+      "title": "Your desktop's front USB ports may be slowing down every device you plug into them",
+      "dek": "The front USB ports of your computer are useful, but they often can't compete with the rear ports.",
+      "aiSummary": "Front USB ports on desktop PCs are convenient but typically provide lower performance compared to rear ports. They can bottleneck devices connected to them.",
+      "articleUrl": "https://www.engadget.com/2304285/desktop-front-usb-port-slowing-down-every-device/",
+      "category": "Hardware",
+      "filterTags": [
+        "USB",
+        "Desktop",
+        "Rear USB ports"
+      ],
+      "publishedAt": "2026-11-04T00:00:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Computer Peripherals"
+        }
+      ]
+    },
+    {
+      "slug": "jim-cramer-sees-signs-of-life-in-tech-stocks-but-not-from-the-usual-winners",
+      "title": "Jim Cramer sees signs of life in tech stocks — but not from the usual winners",
+      "dek": "Cramer said a new group of technology stocks may be emerging as market leaders.",
+      "aiSummary": "Jim Cramer noted that a fresh cohort of technology companies could become market leaders. He highlighted that these stocks are different from the usual winners in the sector.",
+      "articleUrl": "https://www.cnbc.com/2026/11/03/jim-cramer-sees-signs-of-life-in-tech-stocks-but-not-from-the-usual-winners.html",
+      "category": "Technology",
+      "filterTags": [
+        "Technology Stocks",
+        "Market Leaders"
+      ],
+      "publishedAt": "2026-11-03T23:58:09+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "please-stop-asking-me-when-the-ai-bubble-will-pop",
+      "title": "Please stop asking me when the AI bubble will pop",
+      "dek": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my",
+      "aiSummary": "The author is annoyed by people asking when the AI bubble will pop. They say that if they knew the timing, they would place a large leveraged bet in the market. The piece reflects uncertainty about AI’s future impact on markets.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AI"
+      ],
+      "publishedAt": "2026-11-03T23:37:45+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "crowdstrike-s-new-kill-switch-can-stop-rogue-ai-agents-in-their-tracks-ceo-says",
+      "title": "CrowdStrike's new kill switch can stop rogue AI agents in their tracks, CEO says",
+      "dek": "\"Enabling agents to work safely is a massive market opportunity for CrowdStrike,\" CrowdStrike CEO George Kurtz told CNBC's Jim Cramer.",
+      "aiSummary": "CrowdStrike CEO George Kurtz stated that the company's new kill switch is designed to stop rogue AI agents. He described enabling agents to work safely as a significant market opportunity for the firm.",
+      "articleUrl": "https://www.cnbc.com/2026/11/03/crowdstrikes-new-kill-switch-can-stop-rogue-ai-agents-in-their-tracks-ceo-says.html",
+      "category": "Cybersecurity",
+      "filterTags": [
+        "CrowdStrike",
+        "AI agents",
+        "George Kurtz",
+        "CNBC"
+      ],
+      "publishedAt": "2026-11-03T23:37:07+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "us-tech-stocks-recover-after-selloff-spooks-investors-over-ai-spending",
+      "title": "US tech stocks recover after selloff spooks investors over AI spending",
+      "dek": "Midterms didn’t appear to have huge impact, though predicted wins for Democrats could mean more regulation US tech stocks made a recovery on Tuesday afternoon after a selloff spooked investors over  AI  spending. Tuesday’s  midterm elections  didn’t appear to have a huge impact o",
+      "aiSummary": "U.S. technology stocks rebounded on Tuesday afternoon after a selloff that worried investors about AI spending. The dip did not seem to be driven by the midterm elections, which had little impact on the market. Analysts note that potential Democratic gains could lead to increased regulation.",
+      "articleUrl": "https://www.theguardian.com/business/2026/nov/03/us-tech-stocks-recovery-ai-spending",
+      "category": "Technology",
+      "filterTags": [
+        "AI",
+        "US tech stocks"
+      ],
+      "publishedAt": "2026-11-03T22:18:45+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Politics"
+        }
+      ]
+    },
+    {
+      "slug": "want-an-iphone-duo-for-the-holidays-apple-s-latest-stock-update-isn-t-reassuring",
+      "title": "Want an iPhone Duo for the holidays? Apple’s latest stock update isn’t reassuring",
+      "dek": "The iPhone Duo likely won’t make it into Santa’s sleigh this year. Here’s what Apple had to say about it.",
+      "aiSummary": "Apple's latest stock update indicates that the iPhone Duo is unlikely to be released in time for the holiday shopping season. The company's statement regarding the device's availability suggests it will not be part of the upcoming holiday offerings.",
+      "articleUrl": "https://www.zdnet.com/tech/apple-foldable-iphone-duo-stock-shortage/",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Apple",
+        "iPhone Duo"
+      ],
+      "publishedAt": "2026-11-03T19:28:32+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    }
+  ]
+}
