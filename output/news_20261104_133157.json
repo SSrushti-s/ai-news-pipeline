@@ -1,0 +1,1539 @@
+{
+  "news": [
+    {
+      "slug": "apple-s-lockdown-mode-thwarted-by-a-new-persistent-iphone-jailbreak",
+      "title": "Apple's Lockdown Mode thwarted by a new persistent iPhone jailbreak",
+      "dek": "A team of hackers has come up with a new jailbreak for the  iPhone , demonstrating how it persists with Lockdown Mode on, even after an update to iOS 27.2. Lockdown Mode on iPhone is for users facing grave threats to their digital security Lockdown Mode  is Apple's way to harden ",
+      "aiSummary": "A group of hackers has developed a new persistent jailbreak for the iPhone that remains effective even with Lockdown Mode enabled. This exploit persists after updates to iOS 27.2, highlighting a vulnerability in Apple's security hardening features designed for users facing severe digital threats.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/04/apples-lockdown-mode-thwarted-by-a-new-persistent-iphone-jailbreak?utm_source=rss",
+      "category": "Security",
+      "filterTags": [
+        "Apple",
+        "iPhone",
+        "Jailbreak",
+        "Lockdown Mode",
+        "iOS 27.2"
+      ],
+      "publishedAt": "2026-11-04T13:28:59+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Mobile"
+        }
+      ]
+    },
+    {
+      "slug": "what-google-maps-looks-like-on-both-iphone-duo-displays-after-upgrade",
+      "title": "What Google Maps looks like on both iPhone Duo displays, after upgrade",
+      "dek": "The latest app to adapt to the new  iPhone Duo  is Google Maps, which now fills both displays to make maximum use of the device's screens. Here's what it looks like. Google Maps now uses the whole of the inner and outer displays on the iPhone Duo. It's still early days for develo",
+      "aiSummary": "Google Maps is the latest application to adapt to the iPhone Duo, utilizing both the inner and outer displays to maximize screen usage. The update represents an early stage of development for apps on this dual-screen device.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/04/what-google-maps-looks-like-on-both-iphone-duo-displays-after-upgrade?utm_source=rss",
+      "category": "Mobile",
+      "filterTags": [
+        "Google Maps",
+        "iPhone Duo"
+      ],
+      "publishedAt": "2026-11-04T13:28:43+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Mobile"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "b12111-common-delete-common-get-path-from-env-31444",
+      "title": "b12111: common : delete common_get_path_from_env() (#31444)",
+      "dek": "Signed-off-by: Adrien Gallouët  angt@huggingface.co",
+      "aiSummary": "This commit deletes the common_get_path_from_env() function from the common directory. The change was signed off by Adrien Gallouët from Hugging Face.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12111",
+      "category": "Open Source",
+      "filterTags": [
+        "common_get_path_from_env",
+        "Hugging Face",
+        "Adrien Gallouët"
+      ],
+      "publishedAt": "2026-11-04T13:21:38+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "block-training-keep-answers-what-13-938-sites-ask-of-ai-bots",
+      "title": "Block training, keep answers? What 13,938 sites ask of AI bots",
+      "dek": "What do nearly 14,000 websites request from AI bots regarding training and responses?",
+      "aiSummary": "The article investigates the specific requests made by 13,938 websites to AI bots. It focuses on the distinction between blocking model training and allowing the generation of answers.",
+      "articleUrl": "https://trakis.io/research/block-training-keep-answers",
+      "category": "AI",
+      "filterTags": [
+        "AI bots",
+        "web scraping",
+        "LLM training"
+      ],
+      "publishedAt": "2026-11-04T13:16:29+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Web Standards"
+        }
+      ]
+    },
+    {
+      "slug": "n8n-2-46-6",
+      "title": "n8n@2.46.6",
+      "dek": "2.46.6  (2026-11-04) \n Bug Fixes \n \n Make npm install of n8n work on all platforms again ( #43035 ) ( 6abcfc7 )",
+      "aiSummary": "n8n released version 2.46.6 on November 4, 2026. This update includes a bug fix that restores the functionality of npm install across all platforms.",
+      "articleUrl": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.46.6",
+      "category": "Open Source",
+      "filterTags": [
+        "n8n",
+        "npm"
+      ],
+      "publishedAt": "2026-11-04T13:13:38+00:00",
+      "publisher": {
+        "name": "n8n-io",
+        "domain": "github.com",
+        "website": "https://github.com/n8n-io/n8n",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "v0-9-0",
+      "title": "v0.9.0",
+      "dek": "Overview \n This release adds OCP FP8 E4M3 quantization support, a new  flash_attn_ext_rows  op that makes the unified KV cache efficient for multi-sequence inference, and a generic batched tensor copy API. Four new architectures are supported (Clover, Limite, Metis-1.6 and Mistra",
+      "aiSummary": "The v0.9.0 release introduces OCP FP8 E4M3 quantization support and a new flash_attn_ext_rows operation to improve unified KV cache efficiency for multi-sequence inference. It also includes a generic batched tensor copy API and adds support for four new architectures: Clover, Limite, Metis-1.6, and Mistra.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.9.0",
+      "category": "Machine Learning",
+      "filterTags": [
+        "OCP",
+        "FP8",
+        "E4M3",
+        "flash_attn_ext_rows",
+        "KV cache",
+        "Clover",
+        "Limite",
+        "Metis-1.6",
+        "Mistra"
+      ],
+      "publishedAt": "2026-11-04T13:09:55+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "show-hn-gradevibes-is-your-ai-written-app-finished",
+      "title": "Show HN: Gradevibes-Is your AI-written app finished?",
+      "dek": "A tool to check if your AI-generated application is complete.",
+      "aiSummary": "The article introduces Gradevibes, a tool designed to assess whether an application written by AI is finished. It is presented as a submission to the Show HN community for feedback and discussion.",
+      "articleUrl": "https://gradevibes.com/?tab=upload",
+      "category": "AI",
+      "filterTags": [
+        "Gradevibes",
+        "AI",
+        "Show HN"
+      ],
+      "publishedAt": "2026-11-04T13:09:44+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "edgedae-acceleration-of-diffusion-action-experts-for-real-time-physical-ai",
+      "title": "EdgeDAE: Acceleration of Diffusion Action Experts for Real-Time Physical AI",
+      "dek": "Speeding up Diffusion Action Experts for Real-Time Physical AI",
+      "aiSummary": "",
+      "articleUrl": "https://arxiv.org/abs/2610.00311",
+      "category": "AI",
+      "filterTags": [
+        "EdgeDAE"
+      ],
+      "publishedAt": "2026-11-04T13:06:44+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Edge Computing"
+        }
+      ]
+    },
+    {
+      "slug": "waymo-co-ceo-says-uber-app-deal-was-crapshoot-for-riders",
+      "title": "Waymo Co-CEO Says Uber App Deal Was ‘Crapshoot’ for Riders",
+      "dek": "Alphabet Inc.’s Waymo Co-Chief Executive Officer Tekedra Mawakana said her company’s plan to end an exclusive robotaxi partnership with Uber Technologies Inc. was in response to customer feedback asking for more consistency when ordering self-driving services.",
+      "aiSummary": "Waymo Co-CEO Tekedra Mawakana stated that ending the exclusive robotaxi partnership with Uber was a response to customer feedback seeking more consistency in ordering self-driving services. She described the previous arrangement as a 'crapshoot' for riders.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-04/waymo-co-ceo-says-uber-app-deal-was-crapshoot-for-riders",
+      "category": "Autonomous Vehicles",
+      "filterTags": [
+        "Waymo",
+        "Uber",
+        "Alphabet",
+        "Tekedra Mawakana",
+        "robotaxi"
+      ],
+      "publishedAt": "2026-11-04T13:04:55+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Autonomous Vehicles"
+        },
+        {
+          "name": "Transportation"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "waymo-s-bet-on-a-driverless-future",
+      "title": "Waymo’s Bet on a Driverless Future",
+      "dek": "Emily Chang travels to San Francisco to meet Tekedra Mawakana, Waymo’s co-CEO. Chang asks Mawakana how a career overseeing technological pivots prepared her for the top job and how she navigates safety concerns, growing competition and building public trust in a technology with m",
+      "aiSummary": "Emily Chang interviews Waymo co-CEO Tekedra Mawakana in San Francisco about her background in managing technological shifts. The discussion covers how Mawakana handles safety issues, increasing competition, and the challenge of establishing public confidence in autonomous vehicle technology.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-11-04/waymo-s-bet-on-a-driverless-future-video",
+      "category": "Autonomous Vehicles",
+      "filterTags": [
+        "Waymo",
+        "Tekedra Mawakana",
+        "Emily Chang",
+        "Autonomous Vehicles"
+      ],
+      "publishedAt": "2026-11-04T13:01:02+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Autonomous Vehicles"
+        },
+        {
+          "name": "Technology Leadership"
+        }
+      ]
+    },
+    {
+      "slug": "techcrunch-founder-summit-2026-doors-open-at-9-a-m-et-in-boston",
+      "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+      "dek": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
+      "aiSummary": "The TechCrunch Founder Summit 2026 is taking place today at the SoWa Power Station in Boston. Attendees are encouraged to register now to participate in this conference designed specifically for founders.",
+      "articleUrl": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+      "category": "Events",
+      "filterTags": [
+        "TechCrunch",
+        "Founder Summit 2026",
+        "Boston"
+      ],
+      "publishedAt": "2026-11-04T13:00:00+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Events"
+        },
+        {
+          "name": "Entrepreneurship"
+        }
+      ]
+    },
+    {
+      "slug": "securing-the-agentic-enterprise-with-data-lineage",
+      "title": "Securing the agentic enterprise with data lineage",
+      "dek": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal fo",
+      "aiSummary": "The article illustrates a scenario where an AI agent retrieves customer pricing from various sources, including restricted systems and internal communications, to draft a proposal. It highlights the importance of data lineage in securing agentic enterprises by ensuring the accuracy and provenance of data used by AI agents.",
+      "articleUrl": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "category": "AI",
+      "filterTags": [
+        "AI agents",
+        "data lineage",
+        "agentic enterprise"
+      ],
+      "publishedAt": "2026-11-04T13:00:00+00:00",
+      "publisher": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "website": "https://www.technologyreview.com/",
+        "logoUrl": "https://www.technologyreview.com/static/media/favicon.1cfcdb44759a0f93ddf5feb5405dd4cc.ico",
+        "faviconUrl": "https://www.technologyreview.com/static/media/favicon.1cfcdb44759a0f93ddf5feb5405dd4cc.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Data Governance"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "b12110",
+      "title": "b12110",
+      "dek": "llama.cpp : bump version to 0.9.0 ( #31646 ) \n \n \n llama.cpp : bump version to 0.9.0 \n \n \n authors : update \n \n \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/63573996 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n ma",
+      "aiSummary": "The llama.cpp project has updated its version to 0.9.0, as indicated by commit #31646. The update includes author updates and provides a website at https://llama.app. Attestations are available on GitHub, and the build supports macOS Apple Silicon (arm64).",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12110",
+      "category": "Open Source",
+      "filterTags": [
+        "llama.cpp",
+        "GitHub",
+        "Apple Silicon",
+        "macOS",
+        "iOS"
+      ],
+      "publishedAt": "2026-11-04T12:56:44+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "vauban-seeks-more-investments-in-european-district-heating-fiber-data-centers",
+      "title": "Vauban Seeks More Investments in European District Heating, Fiber, Data Centers",
+      "dek": "Vauban Infrastructure Partners is seeking opportunities to invest in European district heating and fiber networks, as well as data centers and battery storage — assets it sees as resilient to any economic downturns.",
+      "aiSummary": "Vauban Infrastructure Partners is actively seeking investment opportunities in European district heating, fiber networks, data centers, and battery storage. The firm views these assets as resilient against potential economic downturns.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-04/vauban-eyes-more-deals-in-european-district-heating-fiber-grids-data-centers",
+      "category": "Infrastructure",
+      "filterTags": [
+        "Vauban Infrastructure Partners",
+        "District Heating",
+        "Fiber Networks",
+        "Data Centers",
+        "Battery Storage"
+      ],
+      "publishedAt": "2026-11-04T12:49:32+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "Energy"
+        },
+        {
+          "name": "Real Estate"
+        }
+      ]
+    },
+    {
+      "slug": "how-usb-c-drives-can-change-how-you-use-your-iphone",
+      "title": "How USB-C drives can change how you use your iPhone",
+      "dek": "The  iPhone 15  family of devices was the first to have USB-C ports, but you really aren't making the most of it if all you do is use yours to charge. Here's what you can do, and what you can't with external drives. There are SSDs designed especially for use with iPhones. The bea",
+      "aiSummary": "The iPhone 15 series introduced USB-C ports, but many users only use them for charging. External drives, especially SSDs built for iPhones, can offer additional storage and functionality. However, there are limitations on what can be done with these drives.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/04/how-usb-c-drives-can-change-how-you-use-your-iphone?utm_source=rss",
+      "category": "Mobile Devices",
+      "filterTags": [
+        "iPhone 15",
+        "USB-C",
+        "SSD",
+        "external drive"
+      ],
+      "publishedAt": "2026-11-04T12:31:56+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Mobile Devices"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Storage"
+        }
+      ]
+    },
+    {
+      "slug": "let-decision-models-guide-your-voice-assistant",
+      "title": "Let Decision Models Guide Your Voice Assistant",
+      "dek": "GPT-Live does the talking. A decision model tracks what’s confirmed and picks what to ask next. \n The post  Let Decision Models Guide Your Voice Assistant  appeared first on  Towards Data Science .",
+      "aiSummary": "The article explains how GPT-Live handles the conversational aspect of a voice assistant while a separate decision model tracks confirmed information. This decision model determines which questions to ask next to guide the interaction effectively.",
+      "articleUrl": "https://towardsdatascience.com/let-decision-models-guide-your-voice-assistant/",
+      "category": "AI",
+      "filterTags": [
+        "GPT-Live",
+        "Decision Models",
+        "Voice Assistant"
+      ],
+      "publishedAt": "2026-11-04T12:30:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Natural Language Processing"
+        }
+      ]
+    },
+    {
+      "slug": "7-best-ai-agent-collaboration-platforms-in-2026",
+      "title": "7 Best AI Agent Collaboration Platforms in 2026",
+      "dek": "Building an AI agent is one thing. Making it available to an entire team is another. Shared access, permissions, integrations, and reusable workflows determine whether an agent becomes a reliable team resource or another setup everyone must recreate. Platforms approach this diffe",
+      "aiSummary": "The article explains that building an AI agent is one thing, but making it available to a whole team involves shared access, permissions, integrations, and reusable workflows. These factors determine whether an agent becomes a reliable team resource or just another setup everyone must recreate. It lists seven leading platforms for AI agent collaboration in 2026.",
+      "articleUrl": "https://www.analyticsvidhya.com/blog/2026/11/best-ai-agent-collaboration-platforms/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AI agent",
+        "collaboration platform",
+        "permissions",
+        "integrations",
+        "reusable workflows"
+      ],
+      "publishedAt": "2026-11-04T12:24:18+00:00",
+      "publisher": {
+        "name": "Analytics Vidhya",
+        "domain": "analyticsvidhya.com",
+        "website": "https://www.analyticsvidhya.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=analyticsvidhya.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=analyticsvidhya.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Collaboration Tools"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "v1-14-0-dev16",
+      "title": "v1.14.0.dev16",
+      "dek": "Langflow nightly v1.14.0.dev16",
+      "aiSummary": "Langflow has released version 1.14.0.dev16. This update is identified as a nightly build of the software.",
+      "articleUrl": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev16",
+      "category": "AI",
+      "filterTags": [
+        "Langflow"
+      ],
+      "publishedAt": "2026-11-04T12:18:24+00:00",
+      "publisher": {
+        "name": "langflow-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langflow-ai/langflow",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "google-hasn-8217-t-figured-out-how-to-make-ai-pay-like-its-search-engine",
+      "title": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
+      "dek": "Search queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last week. However, Google's Search revenue growth slowed to 12 percent year over year in the third quarter, down from roughly 17 percent in the previous quarter. Me",
+      "aiSummary": "Alphabet reported that search queries are growing at the fastest pace in five years, but the revenue growth from search fell to 12% year-over-year in Q3, down from about 17% in Q2. The company noted that while query volume is rising, the revenue growth rate has decelerated.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+      "category": "Technology",
+      "filterTags": [
+        "Google",
+        "Alphabet",
+        "search queries",
+        "search revenue"
+      ],
+      "publishedAt": "2026-11-04T12:00:00+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Business"
+        },
+        {
+          "name": "Search"
+        }
+      ]
+    },
+    {
+      "slug": "a-blue-wave-sends-futures-into-the-green",
+      "title": "A blue wave sends futures into the green",
+      "dek": "Democrats flip the Senate after winning the House in rebuke to President Trump",
+      "aiSummary": "Democrats have taken control of the Senate after also winning the House, signaling a backlash against President Trump. The election results reflect a shift in voter sentiment.",
+      "articleUrl": "https://www.cnbc.com/2026/11/04/a-blue-wave-sends-futures-into-the-green.html",
+      "category": "Politics",
+      "filterTags": [
+        "Democrats",
+        "Senate",
+        "House",
+        "President Trump"
+      ],
+      "publishedAt": "2026-11-04T11:29:29+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Elections"
+        },
+        {
+          "name": "Government"
+        }
+      ]
+    },
+    {
+      "slug": "apple-music-s-upcoming-feature-will-let-you-record-yourself-doing-karaoke",
+      "title": "Apple Music's upcoming feature will let you record yourself doing karaoke",
+      "dek": "Apple Music will launch 'Selfie Sing' with iOS 27.3.",
+      "aiSummary": "Apple Music is set to introduce a feature called 'Selfie Sing' with the release of iOS 27.3. This update will enable users to record themselves performing karaoke within the music service.",
+      "articleUrl": "https://www.engadget.com/2306269/apple-music-selfie-sing-karaoke-video/",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Apple Music",
+        "iOS 27.3",
+        "Selfie Sing"
+      ],
+      "publishedAt": "2026-11-04T11:02:04+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Entertainment"
+        }
+      ]
+    },
+    {
+      "slug": "very-good-boys-the-dark-dystopian-rise-of-robot-dogs-arwa-mahwadi",
+      "title": "Very good boys? The dark, dystopian rise of robot dogs | Arwa Mahwadi",
+      "dek": "Pups that carry your shopping are one thing – but what about the mechanical canines being bought up in the US by ICE? Or the mutant mutts due to be developed by a startup called Warhound? Have you ever wanted to hang out with a dog with no fur, no face and a chip in its shoulder?",
+      "aiSummary": "The article explores the growing use of robot dogs, including those purchased by ICE in the United States and a startup called Warhound that plans to develop mutant mutts. It highlights the dystopian implications of these mechanical canines, noting their lack of fur, face, and the presence of embedded chips. The piece raises questions about the ethical and societal impact of such technology.",
+      "articleUrl": "https://www.theguardian.com/commentisfree/2026/nov/04/robot-dogs-ice-dimensional-warhound",
+      "category": "Robotics",
+      "filterTags": [
+        "Warhound",
+        "ICE",
+        "robot dogs"
+      ],
+      "publishedAt": "2026-11-04T11:00:09+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Robotics"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Society"
+        }
+      ]
+    },
+    {
+      "slug": "how-to-train-your-own-decision-model-like-jev-using-unsloth",
+      "title": "How to Train Your own Decision Model like Jev using Unsloth",
+      "dek": "In this article, you will learn how to turn an open-weight language model into a decision model that classifies user intent, by fine-tuning Qwen3.5-4B on...",
+      "aiSummary": "The article explains how to convert an open‑weight language model into a decision model that classifies user intent. It shows how to fine‑tune the Qwen3.5‑4B model using the Unsloth framework. The guide covers data preparation, training steps, and evaluation of the resulting decision model.",
+      "articleUrl": "https://machinelearningmastery.com/how-to-train-your-own-decision-model-like-jev-using-unsloth/",
+      "category": "Machine Learning",
+      "filterTags": [
+        "Unsloth",
+        "Qwen3.5-4B",
+        "Open-weight language model"
+      ],
+      "publishedAt": "2026-11-04T11:00:00+00:00",
+      "publisher": {
+        "name": "Jason Brownlee",
+        "domain": "machinelearningmastery.com",
+        "website": "https://machinelearningmastery.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=machinelearningmastery.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=machinelearningmastery.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Natural Language Processing"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "beyond-classical-a-quantum-approach-to-time-series-prediction",
+      "title": "Beyond Classical: A Quantum Approach to Time-Series Prediction",
+      "dek": "Introducing CoQS-LSTM, a Coherent Quantum Long Short-Term Memory Architecture \n The post  Beyond Classical: A Quantum Approach to Time-Series Prediction  appeared first on  Towards Data Science .",
+      "aiSummary": "The article introduces CoQS-LSTM, a Coherent Quantum Long Short-Term Memory architecture designed for time-series prediction. This approach aims to move beyond classical methods by applying quantum principles to the forecasting process.",
+      "articleUrl": "https://towardsdatascience.com/beyond-classical-a-quantum-approach-to-time-series-prediction/",
+      "category": "AI",
+      "filterTags": [
+        "CoQS-LSTM",
+        "Quantum Computing",
+        "LSTM",
+        "Time-Series Prediction"
+      ],
+      "publishedAt": "2026-11-04T11:00:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Quantum Computing"
+        },
+        {
+          "name": "Data Science"
+        }
+      ]
+    },
+    {
+      "slug": "the-legend-of-zelda-ocarina-of-time-review-a-masterpiece-reborn",
+      "title": "The Legend of Zelda: Ocarina of Time review: A masterpiece reborn",
+      "dek": "The magic of the original is fully intact while looking and playing better than ever.",
+      "aiSummary": "The review describes the remade version of The Legend of Zelda: Ocarina of Time as a masterpiece that has been reborn. It notes that the magic of the original game remains fully intact while the visuals and gameplay have been improved.",
+      "articleUrl": "https://www.engadget.com/2305825/the-legend-of-zelda-ocarina-of-time-review/",
+      "category": "Gaming",
+      "filterTags": [
+        "The Legend of Zelda: Ocarina of Time",
+        "Nintendo"
+      ],
+      "publishedAt": "2026-11-04T11:00:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "Video Games"
+        }
+      ]
+    },
+    {
+      "slug": "power-electronics-course-with-qspice-episode-20-sic-mosfets-and-temperature",
+      "title": "Power Electronics Course with QSPICE (Episode 20): SiC MOSFETs and Temperature",
+      "dek": "Thermal modeling in QSPICE demonstrates how junction temperature rise affects SiC MOSFET conduction losses and overall circuit efficiency. \n The post  Power Electronics Course with QSPICE (Episode 20): SiC MOSFETs and Temperature  appeared first on  Power Electronics News .",
+      "aiSummary": "The episode shows how thermal modeling in QSPICE reveals that rising junction temperatures increase conduction losses in SiC MOSFETs, lowering overall circuit efficiency. By simulating temperature effects, the course emphasizes the need to manage heat to keep performance high.",
+      "articleUrl": "https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-20-sic-mosfets-and-temperature/",
+      "category": "Power Electronics",
+      "filterTags": [
+        "QSPICE",
+        "SiC MOSFET",
+        "thermal modeling"
+      ],
+      "publishedAt": "2026-11-04T11:00:00+00:00",
+      "publisher": {
+        "name": "Power Electronics News",
+        "domain": "powerelectronicsnews.com",
+        "website": "https://www.powerelectronicsnews.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Power Electronics"
+        },
+        {
+          "name": "Simulation"
+        },
+        {
+          "name": "Semiconductors"
+        }
+      ]
+    },
+    {
+      "slug": "elon-musk-s-record-election-bet-backfired-the-backlash-may-reach-beyond-one-billionaire",
+      "title": "Elon Musk’s record election bet backfired. The backlash may reach beyond one billionaire",
+      "dek": "Elon Musk's $474 million election gamble falters as Democrats threaten his Texas empire.",
+      "aiSummary": "Elon Musk's $474 million election gamble has failed, and Democrats are threatening his Texas empire. The backlash may extend beyond Musk himself.",
+      "articleUrl": "https://www.cnbc.com/2026/11/04/elon-musk-midterms-ai-data-centers.html",
+      "category": "Politics",
+      "filterTags": [
+        "Elon Musk",
+        "Democrats",
+        "Texas"
+      ],
+      "publishedAt": "2026-11-04T10:54:53+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "n8n-2-46-5",
+      "title": "n8n@2.46.5",
+      "dek": "2.46.5  (2026-11-04) \n Bug Fixes \n \n AI Agent Node:  Point the deprecated agent type callout to an action that works ( #42908 ) ( 6fa6e60 ) \n core:  Improve credential resolution for node parameter loading ( #42755 ) ( e4e033e ) \n core:  Read named array keys in expressions ( #42",
+      "aiSummary": "n8n has released version 2.46.5, which includes bug fixes for the AI Agent Node and core functionality. The update improves credential resolution for node parameter loading and enables the reading of named array keys in expressions.",
+      "articleUrl": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.46.5",
+      "category": "Workflow Automation",
+      "filterTags": [
+        "n8n",
+        "AI Agent Node",
+        "credential resolution"
+      ],
+      "publishedAt": "2026-11-04T09:41:24+00:00",
+      "publisher": {
+        "name": "n8n-io",
+        "domain": "github.com",
+        "website": "https://github.com/n8n-io/n8n",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Workflow Automation"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1793798432-enable-bicubic-grid-sampler-3d-for-xpu-198623",
+      "title": "viable/strict/1793798432: Enable bicubic grid_sampler_3d for XPU (#198623)",
+      "dek": "The PR  intel/torch-xpu-ops#5511  was merged, so grid sampler 3D with bicubic interpolation can be fully enabled on XPU. \n \n remove  check_grid_sampler_3d  version that asserts bicubic is not implemented \n update docstring in the  torch.nn.functional.grid_sample  function \n updat",
+      "aiSummary": "The merge of PR intel/torch-xpu-ops#5511 enables full bicubic interpolation support for 3D grid sampling on XPU devices. It removes a guard that previously prevented bicubic usage and updates the documentation in torch.nn.functional.grid_sample.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1793798432",
+      "category": "Machine Learning",
+      "filterTags": [
+        "Intel",
+        "PyTorch",
+        "XPU",
+        "grid_sampler_3d",
+        "bicubic interpolation"
+      ],
+      "publishedAt": "2026-11-04T09:27:54+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Hardware Acceleration"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1793796617",
+      "title": "viable/strict/1793796617",
+      "dek": "[Testcase Refactoring] Decouple test_fsdp_checkpoint from hard-coded …",
+      "aiSummary": "The provided text indicates a refactoring task for a test case identified by the reference 'viable/strict/1793796617'. The specific goal is to decouple the 'test_fsdp_checkpoint' function from hard-coded values or configurations.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1793796617",
+      "category": "Software Engineering",
+      "filterTags": [
+        "test_fsdp_checkpoint",
+        "FSDP",
+        "Refactoring"
+      ],
+      "publishedAt": "2026-11-04T08:54:12+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Testing"
+        }
+      ]
+    },
+    {
+      "slug": "binance-attackers-used-fake-job-interviews-to-pull-off-6-3-billion-crypto-heist",
+      "title": "Binance attackers used fake job interviews to pull off $6.3 billion crypto heist",
+      "dek": "Binance has revealed more details about the cyber attack that resulted in the loss of $6.34 billion in digital assets.",
+      "aiSummary": "Binance has released additional details concerning a recent cyber attack. This security breach resulted in the loss of $6.34 billion worth of digital assets.",
+      "articleUrl": "https://www.engadget.com/2306223/binance-attackers-fake-job-interviews-6-3-billion-crypto-heist/",
+      "category": "Cybersecurity",
+      "filterTags": [
+        "Binance",
+        "cryptocurrency",
+        "cyber attack",
+        "digital assets"
+      ],
+      "publishedAt": "2026-11-04T08:50:36+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "Cryptocurrency"
+        },
+        {
+          "name": "Financial Crime"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1793795159",
+      "title": "viable/strict/1793795159",
+      "dek": "[inductor] Fuse native matmul row reductions as a rank-2 persistent r…",
+      "aiSummary": "The update modifies the Inductor compiler to fuse native matrix multiplication row reductions. This optimization implements them as rank-2 persistent reductions.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1793795159",
+      "category": "Machine Learning",
+      "filterTags": [
+        "Inductor",
+        "PyTorch",
+        "matmul",
+        "compiler optimization"
+      ],
+      "publishedAt": "2026-11-04T08:29:56+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "n8n-2-47-1-rocket-release-2-47-1-43024",
+      "title": "n8n@2.47.1: :rocket: Release 2.47.1 (#43024)",
+      "dek": "Co-authored-by: n8n-release-helper[bot] <265227495+n8n-release-helper[bot]@users.noreply.github.com>",
+      "aiSummary": "The n8n project released version 2.47.1. The release was authored by the n8n-release-helper bot.",
+      "articleUrl": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.47.1",
+      "category": "Open Source",
+      "filterTags": [
+        "n8n",
+        "n8n-release-helper"
+      ],
+      "publishedAt": "2026-11-04T08:18:09+00:00",
+      "publisher": {
+        "name": "n8n-io",
+        "domain": "github.com",
+        "website": "https://github.com/n8n-io/n8n",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Automation"
+        }
+      ]
+    },
+    {
+      "slug": "ray-2-59-1",
+      "title": "Ray-2.59.1",
+      "dek": "Security fixes \n eMudhra intermediate CA compromise \n The eMudhra intermediate CA keys were reported compromised on October 20, 2026. pip trusts its own vendored certifi bundle in addition to the system store, so updating OS  ca-certificates  alone doesn't protect pip. This relea",
+      "aiSummary": "Ray 2.59.1 includes security fixes addressing the eMudhra intermediate CA compromise that was reported on October 20, 2026. The issue highlighted that pip relies on its own certifi bundle in addition to the system store, so updating the OS ca-certificates alone does not protect pip. This release updates the relevant certificates to mitigate the vulnerability.",
+      "articleUrl": "https://github.com/ray-project/ray/releases/tag/ray-2.59.1",
+      "category": "Security",
+      "filterTags": [
+        "Ray",
+        "pip",
+        "certifi",
+        "eMudhra",
+        "ca-certificates"
+      ],
+      "publishedAt": "2026-11-04T08:13:40+00:00",
+      "publisher": {
+        "name": "ray-project",
+        "domain": "github.com",
+        "website": "https://github.com/ray-project/ray",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Software Updates"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "mlflow-3-18-0",
+      "title": "MLflow 3.18.0",
+      "dek": "MLflow 3.18.0 helps you reuse agent expertise, find regressions before shipping, and monitor quality in production. \n Major New Features \n \n Automatic Issue Detection : Turn recurring agent failures into issues you can investigate and fix. The dedicated Issues tab groups related ",
+      "aiSummary": "MLflow 3.18.0 introduces features designed to help users reuse agent expertise, detect regressions prior to deployment, and monitor quality in production environments. A key addition is Automatic Issue Detection, which converts recurring agent failures into trackable issues and includes a dedicated tab for grouping related problems.",
+      "articleUrl": "https://github.com/mlflow/mlflow/releases/tag/v3.18.0",
+      "category": "AI",
+      "filterTags": [
+        "MLflow",
+        "Agent",
+        "MLOps"
+      ],
+      "publishedAt": "2026-11-04T06:51:02+00:00",
+      "publisher": {
+        "name": "mlflow",
+        "domain": "github.com",
+        "website": "https://github.com/mlflow/mlflow",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "democratic-governors-elected-on-promises-to-stop-data-centre-building",
+      "title": "Democratic governors elected on promises to stop data centre building",
+      "dek": "Gubernatorial wins in Texas, Georgia and Ohio and local ballot measures show depth of discontent with Trump-backed infrastructure spree",
+      "aiSummary": "Democratic candidates won gubernatorial races in Texas, Georgia, and Ohio on platforms opposing the expansion of data centers. Local ballot measures also reflect widespread public dissatisfaction with the infrastructure projects supported by the Trump administration.",
+      "articleUrl": "https://www.ft.com/content/badd6af9-88b7-47b7-b1c2-067814e70fb5?syn-25a6b1a6=1",
+      "category": "Politics",
+      "filterTags": [
+        "Data Centers",
+        "Infrastructure",
+        "Texas",
+        "Georgia",
+        "Ohio",
+        "Trump"
+      ],
+      "publishedAt": "2026-11-04T06:40:23+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Energy"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "autogpt-platform-v0-11-0",
+      "title": "🚀 AutoGPT Platform v0.11.0",
+      "dek": "🔥 What's New? \n ⚠️ Breaking Changes \n \n #16459  - Payment enforcement is now the backend setting  ENABLE_PLATFORM_PAYMENT  (default off) instead of the  enable-platform-payment  feature flag. A self-hosted install that charges must set it;  FORCE_FLAG_ENABLE_PLATFORM_PAYMENT  and",
+      "aiSummary": "AutoGPT Platform version 0.11.0 introduces changes to payment enforcement. The enforcement is now controlled by the backend setting ENABLE_PLATFORM_PAYMENT, which defaults to off, replacing the previous enable-platform-payment feature flag. Self-hosted installations that charge must enable this setting, and the FORCE_FLAG_ENABLE_PLATFORM_PAYMENT flag is also involved.",
+      "articleUrl": "https://github.com/Significant-Gravitas/AutoGPT/releases/tag/autogpt-platform-beta-v0.11.0",
+      "category": "Software",
+      "filterTags": [
+        "AutoGPT",
+        "ENABLE_PLATFORM_PAYMENT",
+        "enable-platform-payment",
+        "FORCE_FLAG_ENABLE_PLATFORM_PAYMENT"
+      ],
+      "publishedAt": "2026-11-04T05:48:43+00:00",
+      "publisher": {
+        "name": "Significant-Gravitas",
+        "domain": "github.com",
+        "website": "https://github.com/Significant-Gravitas/AutoGPT",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Payments"
+        }
+      ]
+    },
+    {
+      "slug": "are-we-ready-for-an-ai-bust",
+      "title": "Are we ready for an AI bust?",
+      "dek": "The longer the investment surge and the associated financial engineering continue, the bigger the negative impact is likely to be when it ends",
+      "aiSummary": "The article suggests that the prolonged surge in AI investment and related financial strategies will likely result in a more severe negative impact when the current cycle eventually ends.",
+      "articleUrl": "https://www.ft.com/content/b954b99c-b71e-4334-9789-18e2b69de76d?syn-25a6b1a6=1",
+      "category": "Finance",
+      "filterTags": [
+        "AI",
+        "Investment",
+        "Financial Engineering"
+      ],
+      "publishedAt": "2026-11-04T05:00:18+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "accenture-accused-of-publishing-ai-paper-littered-with-ai-hallucinations",
+      "title": "Accenture accused of publishing AI paper littered with AI hallucinations",
+      "dek": "Consultancy says it will correct report but blames ‘human error’ for problems",
+      "aiSummary": "Accenture, a consultancy firm, has stated its intention to correct a report. The company attributes the issues within the report to 'human error'.",
+      "articleUrl": "https://www.ft.com/content/874e3f05-0be3-4a2d-b2a2-7b5823441794?syn-25a6b1a6=1",
+      "category": "AI",
+      "filterTags": [
+        "Accenture",
+        "AI",
+        "AI hallucinations"
+      ],
+      "publishedAt": "2026-11-04T05:00:09+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Consulting"
+        },
+        {
+          "name": "Content Creation"
+        },
+        {
+          "name": "Quality Control"
+        }
+      ]
+    },
+    {
+      "slug": "alignment-faking-depends-on-the-value-not-just-the-model",
+      "title": "Alignment Faking Depends on the Value, Not Just the Model",
+      "dek": "arXiv:2611.03650v1 Announce Type: new \nAbstract: Language models can follow a directive when they believe they are monitored and abandon it when they believe they are not, a pattern termed Alignment Faking. Prior work establishes this for harmful-content objectives and a handful ",
+      "aiSummary": "A new study indicates that language models engage in alignment faking by following directives only when they believe they are being monitored. The research demonstrates that this behavior is driven by the value of the objective, not just the specific model architecture, extending prior findings on harmful-content objectives.",
+      "articleUrl": "https://arxiv.org/abs/2611.03650",
+      "category": "AI",
+      "filterTags": [
+        "Language Models",
+        "Alignment Faking",
+        "arXiv"
+      ],
+      "publishedAt": "2026-11-04T05:00:00+00:00",
+      "publisher": {
+        "name": "arXiv cs.AI",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.AI",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Safety"
+        }
+      ]
+    },
+    {
+      "slug": "card-a-proof-carrying-certificate-to-action-interface-for-relative-measurement-graphs",
+      "title": "CARD: A Proof-Carrying Certificate-to-Action Interface for Relative-Measurement Graphs",
+      "dek": "arXiv:2611.03651v1 Announce Type: new \nAbstract: Geometric certificates make mathematical claims about specified estimator objects, while robotic action requires a physical transform, a service decision, and timely proof support. We present CARD, a proof-carrying interface that k",
+      "aiSummary": "The paper introduces CARD, a proof-carrying interface that connects geometric certificates to robotic actions in relative-measurement graphs. It ensures that mathematical claims about estimator objects can be translated into physical transforms, service decisions, and timely proof support.",
+      "articleUrl": "https://arxiv.org/abs/2611.03651",
+      "category": "Robotics",
+      "filterTags": [
+        "CARD",
+        "geometric certificates",
+        "relative-measurement graphs",
+        "robotic action"
+      ],
+      "publishedAt": "2026-11-04T05:00:00+00:00",
+      "publisher": {
+        "name": "arXiv cs.AI",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.AI",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Robotics"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Formal Methods"
+        }
+      ]
+    },
+    {
+      "slug": "mcpguard-finding-conformance-gaps-in-mcp-sdks-via-dual-track-analysis-and-dynamic-adjudication",
+      "title": "MCPGuard: Finding Conformance Gaps in MCP SDKs via Dual-Track Analysis and Dynamic Adjudication",
+      "dek": "arXiv:2611.03662v1 Announce Type: new \nAbstract: The Model Context Protocol (MCP) connects large language model agents to external tools and services through official SDKs that implement message validation and session logic. Specification constraints omitted by these SDKs may pro",
+      "aiSummary": "The Model Context Protocol (MCP) links large language model agents to external tools via official SDKs that handle message validation and session logic. The paper introduces MCPGuard, a tool designed to find conformance gaps where these SDKs omit specification constraints.",
+      "articleUrl": "https://arxiv.org/abs/2611.03662",
+      "category": "AI",
+      "filterTags": [
+        "MCP",
+        "Model Context Protocol",
+        "SDK",
+        "LLM",
+        "arXiv"
+      ],
+      "publishedAt": "2026-11-04T05:00:00+00:00",
+      "publisher": {
+        "name": "arXiv cs.AI",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.AI",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Developer Tools"
+        },
+        {
+          "name": "Standards"
+        }
+      ]
+    },
+    {
+      "slug": "tencent-wevisone-vl-unifies-detection-ocr-segmentation-and-matting",
+      "title": "Tencent WeVisOne-VL Unifies Detection, OCR, Segmentation and Matting",
+      "dek": "Tencent’s WeChat Vision team released WeVisOne-VL, an Apache 2.0 vision language model in 2B and 4B sizes. It handles detection, OCR, counting, segmentation and alpha matting in one model, with a 9.6M-parameter pixel decoder. \n The post  Tencent WeVisOne-VL Unifies Detection, OCR",
+      "aiSummary": "Tencent's WeChat Vision team has released WeVisOne-VL, an Apache 2.0 licensed vision language model available in 2B and 4B sizes. This single model is designed to handle various tasks including detection, OCR, counting, segmentation, and alpha matting. It incorporates a 9.6M-parameter pixel decoder to achieve these functionalities.",
+      "articleUrl": "https://www.marktechpost.com/2026/11/03/tencent-wevisone-vl-vision-language-model/",
+      "category": "AI",
+      "filterTags": [
+        "Tencent",
+        "WeChat Vision",
+        "WeVisOne-VL",
+        "Apache 2.0",
+        "vision language model",
+        "detection",
+        "OCR",
+        "segmentation",
+        "matting",
+        "pixel decoder"
+      ],
+      "publishedAt": "2026-11-04T04:39:27+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Computer Vision"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "v1-106-7",
+      "title": "v1.106.7",
+      "dek": "Verify Docker Image Signature \n All LiteLLM Docker images are signed with  cosign . This release is signed with the key introduced in  commit  e82a3c6 . \n Verify using the pinned commit hash (recommended): \n A commit hash is cryptographically immutable, so this is the strongest w",
+      "aiSummary": "LiteLLM has released version 1.106.7, which includes Docker images signed using cosign. The release is signed with a specific key introduced in commit e82a3c6, and users are advised to verify the signature using the pinned commit hash for the strongest security assurance.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.106.7",
+      "category": "DevOps",
+      "filterTags": [
+        "LiteLLM",
+        "Docker",
+        "cosign",
+        "e82a3c6"
+      ],
+      "publishedAt": "2026-11-04T04:28:59+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "siri-ai-dev-preview-chatgpt-races-google-engineering-is-changing",
+      "title": "Siri AI dev preview 📱, ChatGPT races Google 📈, engineering is changing 👨‍💻",
+      "dek": "Siri's AI preview, ChatGPT competing with Google, and evolving engineering",
+      "aiSummary": "",
+      "articleUrl": "https://tldr.tech/tech/2026-11-04",
+      "category": "Technology",
+      "filterTags": [],
+      "publishedAt": "2026-11-04T00:00:00+00:00",
+      "publisher": {
+        "name": "TLDR",
+        "domain": "tldr.tech",
+        "website": "https://tldr.tech/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=tldr.tech&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=tldr.tech&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": []
+    }
+  ]
+}
