@@ -1,0 +1,1720 @@
+{
+  "news": [
+    {
+      "slug": "ciflow-xpu-203679-warm-up-sleep-before-timing-test-stream-event-nogil",
+      "title": "ciflow/xpu/203679: Warm up _sleep() before timing test_stream_event_nogil",
+      "dek": "test_stream_event_nogil checks that stream and event synchronization \nrelease the GIL, by spinning on two devices from two threads and \nasserting that the measured times overlap. Both measurements come from \nEvent.elapsed_time() spanning a whole sync_func call, so they also \nincl",
+      "aiSummary": "The update modifies the test_stream_event_nogil test to warm up the _sleep() function before timing operations. This test verifies that stream and event synchronization releases the GIL by checking if measured times from two threads overlap.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fxpu%2F203679",
+      "category": "Testing",
+      "filterTags": [
+        "ciflow",
+        "xpu",
+        "GIL",
+        "Event.elapsed_time"
+      ],
+      "publishedAt": "2026-11-06T06:25:01+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Testing"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "ciflow-trunk-203679-warm-up-sleep-before-timing-test-stream-event-nogil",
+      "title": "ciflow/trunk/203679: Warm up _sleep() before timing test_stream_event_nogil",
+      "dek": "test_stream_event_nogil checks that stream and event synchronization \nrelease the GIL, by spinning on two devices from two threads and \nasserting that the measured times overlap. Both measurements come from \nEvent.elapsed_time() spanning a whole sync_func call, so they also \nincl",
+      "aiSummary": "The update modifies the test_stream_event_nogil test to warm up the _sleep() function before timing operations. This test verifies that stream and event synchronization releases the Global Interpreter Lock (GIL) by ensuring measured times from two threads overlap.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Ftrunk%2F203679",
+      "category": "Open Source",
+      "filterTags": [
+        "Python",
+        "GIL",
+        "CUDA",
+        "PyTorch",
+        "Testing"
+      ],
+      "publishedAt": "2026-11-06T06:25:01+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "ciflow-torchtitan-203679-warm-up-sleep-before-timing-test-stream-event-nogil",
+      "title": "ciflow/torchtitan/203679: Warm up _sleep() before timing test_stream_event_nogil",
+      "dek": "test_stream_event_nogil checks that stream and event synchronization \nrelease the GIL, by spinning on two devices from two threads and \nasserting that the measured times overlap. Both measurements come from \nEvent.elapsed_time() spanning a whole sync_func call, so they also \nincl",
+      "aiSummary": "The test_stream_event_nogil function verifies that stream and event synchronization releases the GIL by spinning on two devices from separate threads and asserting that measured times overlap. The proposed change involves warming up the _sleep() function before executing this timing test to ensure accurate measurements.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Ftorchtitan%2F203679",
+      "category": "Machine Learning",
+      "filterTags": [
+        "PyTorch",
+        "GIL",
+        "CUDA",
+        "torchtitan"
+      ],
+      "publishedAt": "2026-11-06T06:25:01+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Performance"
+        }
+      ]
+    },
+    {
+      "slug": "v0-40-15",
+      "title": "v0.40.15",
+      "dek": "What's Changed \n \n mlx: load bundled CUDA libraries in-process on Linux by  @dhiltgen  in  #19433 \n model: add MiMo V2.6 model support by  @dhiltgen  in  #19400 \n \n Full Changelog :  v0.40.14...v0.40.15-rc0",
+      "aiSummary": "This release introduces support for the MiMo V2.6 model and enables the loading of bundled CUDA libraries in-process on Linux systems. These updates were contributed by dhiltgen in pull requests #19433 and #19400.",
+      "articleUrl": "https://github.com/ollama/ollama/releases/tag/v0.40.15-rc2",
+      "category": "Machine Learning",
+      "filterTags": [
+        "mlx",
+        "CUDA",
+        "MiMo V2.6",
+        "Linux"
+      ],
+      "publishedAt": "2026-11-05T23:01:55+00:00",
+      "publisher": {
+        "name": "ollama",
+        "domain": "github.com",
+        "website": "https://github.com/ollama/ollama",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "langchain-typesafe-0-0-2",
+      "title": "langchain-typesafe==0.0.2",
+      "dek": "Changes since langchain-typesafe==0.0.1 \n release(typesafe): 0.0.2 ( #41720 ) \nfeat(typesafe): accept a  classifier  in experimental middleware ( #41657 )",
+      "aiSummary": "The langchain-typesafe package has been updated to version 0.0.2. This release introduces a feature that allows experimental middleware to accept a classifier.",
+      "articleUrl": "https://github.com/langchain-ai/langchain/releases/tag/langchain-typesafe%3D%3D0.0.2",
+      "category": "AI",
+      "filterTags": [
+        "langchain-typesafe",
+        "middleware",
+        "classifier"
+      ],
+      "publishedAt": "2026-11-05T22:57:00+00:00",
+      "publisher": {
+        "name": "langchain-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langchain-ai/langchain",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "markets-are-reevaluating-ai-speed-limit-schwab-s-sonders-says",
+      "title": "Markets Are Reevaluating AI 'Speed Limit,' Schwab's Sonders Says",
+      "dek": "Liz Ann Sonders, chief investment strategist at Charles Schwab, says investors are reassessing the financial burden on hyperscalers, including their use of credit and equity financing, and whether returns on investment justify the cost of capital. She speaks on \"Bloomberg The Clo",
+      "aiSummary": "Liz Ann Sonders of Charles Schwab said investors are re‑evaluating the financial burden on hyperscalers, questioning whether their use of credit and equity financing is justified by returns. She highlighted concerns about the cost of capital for AI companies. The remarks were made on Bloomberg’s show.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-11-05/markets-evaluating-ai-speed-limit-schwab-s-sonders-says-video",
+      "category": "Finance",
+      "filterTags": [
+        "Charles Schwab",
+        "hyperscalers",
+        "credit",
+        "equity financing",
+        "cost of capital",
+        "AI"
+      ],
+      "publishedAt": "2026-11-05T22:51:38+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Investment Strategy"
+        }
+      ]
+    },
+    {
+      "slug": "wall-street-sheds-3-2tn-as-democratic-midterm-sweep-triggers-brutal-ai-rout",
+      "title": "Wall Street sheds $3.2tn as Democratic midterm sweep triggers brutal AI rout",
+      "dek": "Tech-heavy Nasdaq 100 tumbles 6.4% in day of chaotic trading",
+      "aiSummary": "Wall Street experienced a $3.2 trillion loss following a Democratic midterm victory, which triggered a severe sell-off in AI-related stocks. The tech-heavy Nasdaq 100 index fell by 6.4% during a period of chaotic trading.",
+      "articleUrl": "https://www.ft.com/content/3d079b3d-580d-400b-bf9c-56af6a08f60f?syn-25a6b1a6=1",
+      "category": "Finance",
+      "filterTags": [
+        "Wall Street",
+        "Nasdaq 100",
+        "AI",
+        "Midterm Elections"
+      ],
+      "publishedAt": "2026-11-05T22:41:52+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Politics"
+        }
+      ]
+    },
+    {
+      "slug": "airbnb-says-it-s-launching-an-ai-travel-agent-in-the-first-half-of-2027",
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "dek": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+      "aiSummary": "Airbnb announced it will launch an AI travel agent in the first half of 2027. The agent will help travelers plan trips, compare options, manage bookings, and receive assistance throughout their stay.",
+      "articleUrl": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "category": "Travel",
+      "filterTags": [
+        "Airbnb",
+        "AI"
+      ],
+      "publishedAt": "2026-11-05T22:40:55+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Travel"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Consumer Services"
+        }
+      ]
+    },
+    {
+      "slug": "blue-owl-sees-gains-as-election-results-limit-ai-compute-supply",
+      "title": "Blue Owl Sees Gains as Election Results Limit AI Compute Supply",
+      "dek": "Blue Owl is telling investors that it expects to earn more on its digital infrastructure deals as capital becomes scarcer while warning that a Democratic sweep in the US midterm elections could make it harder to add computing capacity.",
+      "aiSummary": "Blue Owl forecasts higher earnings from digital infrastructure contracts amid tightening capital markets. The company cautions that a Democratic victory in the midterms could limit its ability to expand computing capacity.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-05/blue-owl-sees-gains-as-election-results-limit-ai-compute-supply",
+      "category": "Finance",
+      "filterTags": [
+        "Blue Owl",
+        "digital infrastructure",
+        "AI compute",
+        "US midterm elections"
+      ],
+      "publishedAt": "2026-11-05T22:32:27+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Politics"
+        }
+      ]
+    },
+    {
+      "slug": "china-plans-broad-ai-guardrails-after-global-security-lapses",
+      "title": "China Plans Broad AI Guardrails After Global Security Lapses",
+      "dek": "China is preparing extensive regulations for artificial intelligence following international security failures.",
+      "aiSummary": "China intends to implement comprehensive AI safety measures in response to recent global security incidents. The move aims to establish stricter guardrails for the development and deployment of artificial intelligence technologies.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-03/china-plans-broad-ai-guardrails-after-global-security-lapses",
+      "category": "AI",
+      "filterTags": [
+        "China",
+        "AI",
+        "Security"
+      ],
+      "publishedAt": "2026-11-05T22:31:32+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Regulation"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "elon-musk-s-tesla-and-spacex-lose-over-420-billion-in-combined-market-cap-after-midterms",
+      "title": "Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after midterms",
+      "dek": "Elon Musk's Tesla and SpaceX lose $420 billion in combined market cap after midterms",
+      "aiSummary": "Elon Musk's companies, Tesla and SpaceX, experienced a significant financial decline, losing over $420 billion in combined market capitalization. This drop occurred in the aftermath of the midterm elections.",
+      "articleUrl": "https://www.cnbc.com/2026/11/05/tesla-spacex-stocks-fall-after-2026-midterms.html",
+      "category": "Finance",
+      "filterTags": [
+        "Tesla",
+        "SpaceX",
+        "Elon Musk",
+        "Market Cap"
+      ],
+      "publishedAt": "2026-11-05T22:31:13+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Politics"
+        }
+      ]
+    },
+    {
+      "slug": "magnificent-7-loses-1-trillion-the-most-eye-popping-stats-from-thursday-s-tech-stock-plunge",
+      "title": "Magnificent 7 loses $1 trillion. The most eye-popping stats from Thursday's tech stock plunge",
+      "dek": "Here are the most breathtaking statistics from the major stock sell-off on Thursday.",
+      "aiSummary": "The article lists key statistics from Thursday's significant tech stock sell-off, highlighting the magnitude of the market decline. It focuses on the losses of the 'Magnificent 7' tech giants, which together lost about $1 trillion.",
+      "articleUrl": "https://www.cnbc.com/2026/11/05/stock-market-selloff-ai-fears.html",
+      "category": "Finance",
+      "filterTags": [
+        "Magnificent 7",
+        "Tech stocks"
+      ],
+      "publishedAt": "2026-11-05T22:30:43+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Stock Market"
+        }
+      ]
+    },
+    {
+      "slug": "neocloud-iren-says-4-billion-in-annualized-revenue-being-delayed-due-to-customer-request",
+      "title": "Neocloud IREN says $4 billion in annualized revenue being delayed due to customer request",
+      "dek": "Following a dramatic plunge in its stock price, IREN said some revenue is being delayed from 2026 until early next year.",
+      "aiSummary": "After a sharp drop in its share price, Neocloud IREN announced that $4 billion of annualized revenue will be postponed until early next year, citing a customer request.",
+      "articleUrl": "https://www.cnbc.com/2026/11/05/iren-earnings-report-q1-2027-.html",
+      "category": "Finance",
+      "filterTags": [
+        "Neocloud IREN"
+      ],
+      "publishedAt": "2026-11-05T22:29:47+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "agentsight-system-wide-ai-agent-profiling-and-monitoring-with-ebpf",
+      "title": "AgentSight: System-wide AI agent profiling and monitoring with eBPF",
+      "dek": "AgentSight provides system-wide profiling and monitoring of AI agents using eBPF.",
+      "aiSummary": "",
+      "articleUrl": "https://eunomia.dev/agentsight/",
+      "category": "AI",
+      "filterTags": [],
+      "publishedAt": "2026-11-05T22:27:57+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Systems Monitoring"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "perplexity-launches-its-own-take-on-ai-agents-for-work",
+      "title": "Perplexity launches its own take on AI agents for work",
+      "dek": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integr",
+      "aiSummary": "Perplexity has introduced 'Teammates,' a suite of always-on AI agents designed for workplace use. These agents can assume various roles within a workspace and integrate with existing Perplexity tools to access projects, skills, and memory.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+      "category": "AI",
+      "filterTags": [
+        "Perplexity",
+        "AI agents",
+        "Teammates",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "publishedAt": "2026-11-05T22:26:50+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Productivity"
+        },
+        {
+          "name": "Enterprise Software"
+        }
+      ]
+    },
+    {
+      "slug": "metlife-seeing-volume-growth-across-the-board-ceo-says",
+      "title": "MetLife Seeing Volume Growth Across the Board, CEO Says",
+      "dek": "MetLife President and CEO Michel Khalaf discusses the company's third-quarter earnings and outlook. Speaking on \"Bloomberg The Close,\" Khalaf says MetLife has limited exposure to AI investments. (Source: Bloomberg)",
+      "aiSummary": "MetLife President and CEO Michel Khalaf discussed the company's third-quarter earnings and future outlook on Bloomberg The Close. He noted that the company is experiencing volume growth across the board and has limited exposure to AI investments.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-11-05/metlife-seeing-volume-growth-across-the-board-ceo-says-video",
+      "category": "Finance",
+      "filterTags": [
+        "MetLife",
+        "Michel Khalaf",
+        "Bloomberg",
+        "AI"
+      ],
+      "publishedAt": "2026-11-05T22:19:25+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Insurance"
+        },
+        {
+          "name": "Corporate Earnings"
+        }
+      ]
+    },
+    {
+      "slug": "major-tech-stocks-plunge-as-us-midterms-add-to-fears-of-ai-slowdown",
+      "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+      "dek": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms",
+      "aiSummary": "Major tech stocks experienced a significant decline as investors reacted to the US midterm election results. The market downturn was driven by fears of increased regulatory scrutiny on data center construction and the broader AI industry.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "category": "Finance",
+      "filterTags": [
+        "Tech stocks",
+        "US midterms",
+        "Data centers",
+        "AI"
+      ],
+      "publishedAt": "2026-11-05T22:13:38+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Regulation"
+        }
+      ]
+    },
+    {
+      "slug": "hedge-funds-were-massive-sellers-of-ai-debt-rbc-s-skiba-says",
+      "title": "Hedge Funds Were 'Massive' Sellers of AI Debt, RBC's Skiba Says",
+      "dek": "RBC's Skiba notes that hedge funds sold a large amount of AI-related debt.",
+      "aiSummary": "According to RBC's Skiba, hedge funds were significant sellers of debt associated with artificial intelligence. The comment highlights the role of these investment funds in the trading of AI-linked financial instruments.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-05/hedge-funds-were-massive-sellers-of-ai-debt-rbc-s-skiba-says",
+      "category": "Finance",
+      "filterTags": [
+        "RBC",
+        "Skiba",
+        "Hedge Funds",
+        "AI Debt"
+      ],
+      "publishedAt": "2026-11-05T22:12:31+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "b12138",
+      "title": "b12138",
+      "dek": "metal : use mul_mm for 32 <= K < 64 ( #30982 ) \n \n \n metal : use mul_mm for 32 <= K < 64 \n \n \n metal : add bf16 x bf16 mul mat kernel \n \n \n \n Co-authored-by: Georgi Gerganov  ggerganov@gmail.com \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/",
+      "aiSummary": "This update modifies the Metal backend to use the mul_mm operation for matrix dimensions where K is between 32 and 64. It also introduces a new kernel for multiplying bfloat16 matrices.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12138",
+      "category": "Machine Learning",
+      "filterTags": [
+        "Metal",
+        "mul_mm",
+        "bf16",
+        "ggml",
+        "Georgi Gerganov"
+      ],
+      "publishedAt": "2026-11-05T22:12:12+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Performance Optimization"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "google-meta-and-tiktok-sue-california-over-ban-on-features-for-kids",
+      "title": "Google, Meta and TikTok Sue California Over Ban on Features for Kids",
+      "dek": "Separate lawsuits were filed by Google, Meta and TikTok, which have been battling a flood of claims that their services are addictive.",
+      "aiSummary": "Google, Meta, and TikTok have filed separate lawsuits challenging a California ban on specific features for minors. These legal actions come as the companies face increasing scrutiny and claims that their platforms are addictive.",
+      "articleUrl": "https://www.nytimes.com/2026/11/05/technology/social-media-child-safety-california.html",
+      "category": "Legal",
+      "filterTags": [
+        "Google",
+        "Meta",
+        "TikTok",
+        "California",
+        "Lawsuit"
+      ],
+      "publishedAt": "2026-11-05T22:10:24+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Social Media"
+        },
+        {
+          "name": "Regulation"
+        }
+      ]
+    },
+    {
+      "slug": "blue-origin-s-new-glenn-launch-delay-will-continue-into-2027",
+      "title": "Blue Origin's New Glenn launch delay will continue into 2027",
+      "dek": "Repairs have been slow after an explosion earlier this year.",
+      "aiSummary": "The launch of New Glenn has been rescheduled for 2027 after repairs following an earlier explosion have progressed slowly.",
+      "articleUrl": "https://www.engadget.com/2308647/blue-origin-new-glenn-launch-delay-will-continue-into-2027/",
+      "category": "Space",
+      "filterTags": [
+        "Blue Origin",
+        "New Glenn",
+        "explosion"
+      ],
+      "publishedAt": "2026-11-05T22:10:09+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Space"
+        },
+        {
+          "name": "Aerospace"
+        },
+        {
+          "name": "Launch Vehicles"
+        }
+      ]
+    },
+    {
+      "slug": "openai-pledges-to-give-locals-more-say-in-data-center-projects",
+      "title": "OpenAI Pledges to Give Locals More Say in Data Center Projects",
+      "dek": "The artificial intelligence company pledged to be more collaborative with the communities where it is building its data centers.",
+      "aiSummary": "OpenAI has committed to increasing collaboration with local communities regarding its data center construction projects. The company aims to provide residents with more input and say in the development process.",
+      "articleUrl": "https://www.nytimes.com/2026/11/05/technology/openai-data-centers-midterms.html",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "Data Centers"
+      ],
+      "publishedAt": "2026-11-05T22:08:14+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "b12137",
+      "title": "b12137",
+      "dek": "server : reject non-object session updates ( #31714 ) \n Prevent malformed realtime session updates from throwing an uncaught \nexception and terminating the server \n Signed-off-by: Adrien Gallouët  angt@huggingface.co \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https:",
+      "aiSummary": "The update causes the server to reject malformed realtime session updates that are not objects, preventing uncaught exceptions that could crash the server. The change was signed by Adrien Gallouët. The project is available at https://llama.app.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12137",
+      "category": "Backend",
+      "filterTags": [
+        "server",
+        "session updates",
+        "uncaught exception",
+        "Hugging Face",
+        "Llama"
+      ],
+      "publishedAt": "2026-11-05T21:53:09+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Backend"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable",
+      "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
+      "dek": "Google is technically offering schools more choice but not the choices anyone wants.",
+      "aiSummary": "Google is offering schools the ability to use its search service while disabling Gemini, yet it insists on AI search. The company claims it is providing more flexibility, but the available options are limited.",
+      "articleUrl": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
+      "category": "Education",
+      "filterTags": [
+        "Google",
+        "Gemini",
+        "AI search"
+      ],
+      "publishedAt": "2026-11-05T21:40:36+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Education"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Search"
+        }
+      ]
+    },
+    {
+      "slug": "lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder",
+      "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
+      "dek": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says.",
+      "aiSummary": "The lawsuit alleges that the victim’s energy drinks were poisoned with the help of ChatGPT. The plaintiff claims that his wife used the AI to plan his murder. The case highlights concerns about AI-assisted wrongdoing.",
+      "articleUrl": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
+      "category": "AI",
+      "filterTags": [
+        "ChatGPT"
+      ],
+      "publishedAt": "2026-11-05T21:39:40+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "bose-recalls-s1-pro-battery-packs-due-to-fire-and-overheating-risks",
+      "title": "Bose recalls S1 Pro battery packs due to fire and overheating risks",
+      "dek": "Over 670,000 units are being recalled in the US and Canada.",
+      "aiSummary": "Bose has initiated a recall for over 670,000 S1 Pro battery packs in the US and Canada. The action is being taken due to identified risks of fire and overheating associated with the units.",
+      "articleUrl": "https://www.engadget.com/2308609/bose-recalls-s1-pro-battery-packs-due-to-fire-and-overheating-risks/",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Bose",
+        "S1 Pro",
+        "Battery"
+      ],
+      "publishedAt": "2026-11-05T21:39:22+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Product Safety"
+        }
+      ]
+    },
+    {
+      "slug": "ads-in-chatbots-have-arrived-here-s-what-s-working-and-what-s-not",
+      "title": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
+      "dek": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
+      "aiSummary": "Anthropic has pledged to keep Claude ad‑free, while other chatbot developers are competing to attract advertisers while avoiding alienating users. The industry is exploring various ad strategies to balance revenue and user experience.",
+      "articleUrl": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Anthropic",
+        "Claude"
+      ],
+      "publishedAt": "2026-11-05T21:37:18+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Advertising"
+        },
+        {
+          "name": "Business Models"
+        }
+      ]
+    },
+    {
+      "slug": "b12136",
+      "title": "b12136",
+      "dek": "fit : account for skipped NextN layers when setting n_gpu_layers ( #31569 ) \n \n fit : account for skipped NextN layers when setting n_gpu_layers \n \n Without MTP, fit counts n_layer + 1 layers while the model loader counts \nn_layer_all + 1 for n_gpu_layers, including the NextN lay",
+      "aiSummary": "The update addresses a discrepancy in how the 'fit' function and model loader count layers when setting n_gpu_layers. Specifically, it corrects the logic to account for skipped NextN layers, ensuring consistency between the two components.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12136",
+      "category": "Machine Learning",
+      "filterTags": [
+        "NextN",
+        "n_gpu_layers",
+        "MTP",
+        "model loader"
+      ],
+      "publishedAt": "2026-11-05T21:36:23+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "baidu-releases-ernie-5-5-flash-base-a-280b-moe-base-model-with-14b-active-parameters",
+      "title": "Baidu Releases ERNIE 5.5 Flash Base: A 280B MoE Base Model With 14B Active Parameters",
+      "dek": "Baidu has released ERNIE 5.5 Flash Base, a 280B sparse MoE base model with 14B active parameters, trained on 33.5T tokens and published before any mid- or post-training. \n The post  Baidu Releases ERNIE 5.5 Flash Base: A 280B MoE Base Model With 14B Active Parameters  appeared fi",
+      "aiSummary": "Baidu unveiled the ERNIE 5.5 Flash Base, a 280‑billion‑parameter sparse Mixture‑of‑Experts model that uses only 14 billion active parameters. It was trained on 33.5 trillion tokens and released before any mid‑ or post‑training steps.",
+      "articleUrl": "https://www.marktechpost.com/2026/11/05/baidu-ernie-5-5-flash-base-280b-moe/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Baidu",
+        "ERNIE 5.5",
+        "MoE",
+        "Sparse Mixture of Experts",
+        "Tokens"
+      ],
+      "publishedAt": "2026-11-05T21:33:00+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Natural Language Processing"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "nasdaq-sees-worst-day-in-18-months-as-investors-bet-on-ai-slowdown-after-democrats-election-triumph",
+      "title": "Nasdaq sees worst day in 18 months as investors bet on AI slowdown after Democrats’ election triumph",
+      "dek": "Nearly $2tn shaved off Nasdaq value as worries of curbs to AI datacenters ripple across bourses The Nasdaq share index had its worst day in 18 months after slumping 5.5% on Thursday amid growing signs that the artificial intelligence industry will face tougher regulation because ",
+      "aiSummary": "The Nasdaq share index suffered its worst performance in 18 months, falling 5.5% on Thursday and wiping out nearly $2 trillion in value. This decline was driven by investor concerns that the Democratic election victory would lead to stricter regulations on the artificial intelligence industry, particularly regarding datacenters.",
+      "articleUrl": "https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses",
+      "category": "Markets",
+      "filterTags": [
+        "Nasdaq",
+        "AI",
+        "Datacenters",
+        "Regulation",
+        "Democrats"
+      ],
+      "publishedAt": "2026-11-05T21:23:18+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Markets"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Regulation"
+        }
+      ]
+    },
+    {
+      "slug": "v1-12-10",
+      "title": "v1.12.10",
+      "dek": "fix(deps): update FastMCP to 3.4.10",
+      "aiSummary": "The update fixes dependencies by bumping FastMCP to version 3.4.10.",
+      "articleUrl": "https://github.com/langflow-ai/langflow/releases/tag/v1.12.10",
+      "category": "Software Development",
+      "filterTags": [
+        "FastMCP"
+      ],
+      "publishedAt": "2026-11-05T21:14:42+00:00",
+      "publisher": {
+        "name": "langflow-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langflow-ai/langflow",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "tech-billionaires-face-tricky-political-waters-after-democratic-midterm-sweep",
+      "title": "Tech Billionaires Face Tricky Political Waters After Democratic Midterm Sweep",
+      "dek": "Many donated money to President Trump’s favored causes and became his allies. Now that political alignment may be a liability.",
+      "aiSummary": "Several tech billionaires contributed to causes supported by President Trump, aligning themselves with his political agenda. After the Democratic Party's sweep in the midterm elections, this association could become a disadvantage for them.",
+      "articleUrl": "https://www.nytimes.com/2026/11/05/technology/tech-billionaires-democrats-midterms.html",
+      "category": "Politics",
+      "filterTags": [
+        "Trump",
+        "Democratic Party"
+      ],
+      "publishedAt": "2026-11-05T21:14:24+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "getting-started-with-web-answer-on-amazon-bedrock-agentcore",
+      "title": "Getting started with Web Answer on Amazon Bedrock AgentCore",
+      "dek": "Web Answer on Amazon Bedrock AgentCore returns a synthesized, source-cited answer to a natural-language question in a single tool call, with no search, retrieve, synthesize, and citation pipeline to build. Learn how it works and how to add it to an AgentCore Gateway and call it f",
+      "aiSummary": "Web Answer on Amazon Bedrock AgentCore provides a synthesized, source-cited response to natural-language questions through a single tool call. This feature eliminates the need to manually construct a search, retrieve, synthesize, and citation pipeline.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-web-answer-on-amazon-bedrock-agentcore/",
+      "category": "AI",
+      "filterTags": [
+        "Amazon Bedrock",
+        "AgentCore",
+        "Web Answer",
+        "RAG"
+      ],
+      "publishedAt": "2026-11-05T21:04:24+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Computing"
+        }
+      ]
+    },
+    {
+      "slug": "google-is-ditching-firebase-studio-soon-and-it-wants-you-to-use-its-newer-ai-tools-instead",
+      "title": "Google is ditching Firebase Studio soon, and it wants you to use its newer AI tools instead",
+      "dek": "The company is going all-in on Antigravity and Google AI Studio and hopes developers will do the same.",
+      "aiSummary": "Google is discontinuing Firebase Studio and promoting its new AI tools, Antigravity and Google AI Studio. The company expects developers to adopt these newer platforms.",
+      "articleUrl": "https://www.engadget.com/2308541/google-is-ditching-firebase-studio-soon-and-it-wants-you-to-use-its-newer-ai-tools-instead/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Google",
+        "Firebase Studio",
+        "Antigravity",
+        "Google AI Studio"
+      ],
+      "publishedAt": "2026-11-05T21:01:28+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Developer Tools"
+        },
+        {
+          "name": "Cloud Computing"
+        }
+      ]
+    },
+    {
+      "slug": "apple-is-gearing-up-for-a-fresh-7-billion-in-bond-sale",
+      "title": "Apple is gearing up for a fresh $7 billion in bond sale",
+      "dek": "Apple is reportedly seeking about $7 billion through a new bond offering, potentially raising more money for stock buybacks, dividends, and other corporate expenses. Apple Stocks A  preliminary prospectus  filed with the Securities and Exchange Commission on November 5 confirms p",
+      "aiSummary": "Apple is looking to raise roughly $7 billion by issuing new bonds. The company says the money could be used for stock buybacks, dividends, and other corporate expenses. A preliminary prospectus filed with the SEC on November 5 confirms the plan.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/05/apple-is-gearing-up-for-a-fresh-7-billion-in-bond-sale?utm_source=rss",
+      "category": "Finance",
+      "filterTags": [
+        "Apple",
+        "SEC",
+        "bond"
+      ],
+      "publishedAt": "2026-11-05T20:40:46+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Corporate Finance"
+        },
+        {
+          "name": "Capital Markets"
+        }
+      ]
+    },
+    {
+      "slug": "will-democrats-stall-the-ai-boom",
+      "title": "Will Democrats stall the AI boom?",
+      "dek": "Newly elected officials have pledged to curb data centre construction, rattling the trade that has powered US stock markets",
+      "aiSummary": "Newly elected officials have committed to limiting the construction of data centers, a move that has unsettled the industry responsible for driving recent US stock market gains. This political shift threatens to disrupt the infrastructure expansion underpinning the current AI boom.",
+      "articleUrl": "https://www.ft.com/content/5dedb9bf-bd12-4956-b2b7-ce968e1e1371?syn-25a6b1a6=1",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Data Centers",
+        "US Stock Markets",
+        "Democrats"
+      ],
+      "publishedAt": "2026-11-05T20:28:44+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "first-public-betas-for-ios-27-3-ipados-27-3-and-macos-27-3-are-available",
+      "title": "First public betas for iOS 27.3, iPadOS 27.3, and macOS 27.3 are available",
+      "dek": "It's been a few days since the first developer beta of iOS 27.3, et al, and now, the public beta versions are available to download. We've hit a few bugs, and some incompatibilities, so if you have something mission-critical you rely on, maybe wait a bit.   Continue Reading on Ap",
+      "aiSummary": "Following the release of developer betas a few days prior, the public beta versions of iOS 27.3, iPadOS 27.3, and macOS 27.3 are now accessible for download. Users have encountered some bugs and incompatibilities with these new releases. It is recommended to delay updating if you rely on mission-critical applications.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/05/first-public-betas-for-ios-273-ipados-273-and-macos-273-are-available?utm_source=rss",
+      "category": "Operating Systems",
+      "filterTags": [
+        "iOS",
+        "iPadOS",
+        "macOS",
+        "beta",
+        "Apple"
+      ],
+      "publishedAt": "2026-11-05T20:25:25+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Operating Systems"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Beta Testing"
+        }
+      ]
+    },
+    {
+      "slug": "inside-github-s-new-git-storage-architecture",
+      "title": "Inside GitHub’s new Git storage architecture",
+      "dek": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. \n The post  Inside GitHub’s new Git storage architecture  appeared first on  The GitHub Blog .",
+      "aiSummary": "GitHub has introduced a new Git storage architecture designed to support thousands of agents pushing to a single repository concurrently. The system is engineered to manage this high level of simultaneous activity efficiently.",
+      "articleUrl": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+      "category": "Developer Tools",
+      "filterTags": [
+        "GitHub",
+        "Git",
+        "Storage Architecture",
+        "Agents"
+      ],
+      "publishedAt": "2026-11-05T20:23:21+00:00",
+      "publisher": {
+        "name": "GitHub Blog",
+        "domain": "github.blog",
+        "website": "https://github.blog",
+        "logoUrl": "https://github.blog/wp-content/uploads/2019/01/cropped-github-favicon-512.png?fit=180%2C180",
+        "faviconUrl": "https://github.githubassets.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Developer Tools"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "tensorflow-2-22-0-rc0",
+      "title": "TensorFlow 2.22.0-rc0",
+      "dek": "Release 2.22.0 \n TensorFlow \n Breaking Changes \n The TensorBoard dependency is no longer included by default. If you use  tf.summary.*  APIs or  tf.keras.callbacks.TensorBoard , please install the  tensorboard  package separately ( pip install tensorboard ). Otherwise, TensorFlow",
+      "aiSummary": "TensorFlow 2.22.0-rc0 introduces a breaking change by removing the default inclusion of the TensorBoard dependency. Users relying on tf.summary.* APIs or tf.keras.callbacks.TensorBoard must now install the tensorboard package separately via pip.",
+      "articleUrl": "https://github.com/tensorflow/tensorflow/releases/tag/v2.22.0-rc0",
+      "category": "Machine Learning",
+      "filterTags": [
+        "TensorFlow",
+        "TensorBoard",
+        "Python",
+        "pip"
+      ],
+      "publishedAt": "2026-11-05T20:02:48+00:00",
+      "publisher": {
+        "name": "tensorflow",
+        "domain": "github.com",
+        "website": "https://github.com/tensorflow/tensorflow",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "vera-delivers-the-best-of-both-worlds-highest-throughput-and-fastest-agents",
+      "title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
+      "dek": "AI agents do more than generate answers. They search for information, query databases, write and test code and take action.  Each of those steps relies on a CPU, with agents moving between GPU reasoning and CPU execution throughout a task.  As businesses put more agents to work, ",
+      "aiSummary": "AI agents perform tasks such as searching, querying databases, writing and testing code, and taking action. These steps rely on a CPU, with agents switching between GPU reasoning and CPU execution during a task. As businesses deploy more agents, performance and efficiency become increasingly important.",
+      "articleUrl": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
+      "category": "AI",
+      "filterTags": [
+        "Vera",
+        "CPU",
+        "GPU",
+        "AI agents"
+      ],
+      "publishedAt": "2026-11-05T20:00:41+00:00",
+      "publisher": {
+        "name": "NVIDIA",
+        "domain": "nvidia.com",
+        "website": "https://blogs.nvidia.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Software"
+        }
+      ]
+    },
+    {
+      "slug": "meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar",
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "dek": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+      "aiSummary": "Meta's Muse AI agent can now take calls using a customizable animated avatar. This feature is available to U.S. users. The update comes before the release of a Tamagotchi‑style wearable that will bring Muse to life.",
+      "articleUrl": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "category": "AI",
+      "filterTags": [
+        "Meta",
+        "Muse AI",
+        "Tamagotchi"
+      ],
+      "publishedAt": "2026-11-05T19:48:28+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Wearables"
+        }
+      ]
+    },
+    {
+      "slug": "new-nvidia-cosmos-3-open-models-for-interactive-world-simulation",
+      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "dek": "NVIDIA releases new open models for interactive world simulation.",
+      "aiSummary": "NVIDIA has introduced new open models under the Cosmos 3 initiative. These models are designed to facilitate interactive world simulation.",
+      "articleUrl": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "category": "AI",
+      "filterTags": [
+        "NVIDIA",
+        "Cosmos 3",
+        "World Simulation"
+      ],
+      "publishedAt": "2026-11-05T19:35:16+00:00",
+      "publisher": {
+        "name": "Hugging Face",
+        "domain": "huggingface.co",
+        "website": "https://huggingface.co/",
+        "logoUrl": "https://huggingface.co/front/thumbnails/v2-2.png",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Simulation"
+        }
+      ]
+    },
+    {
+      "slug": "iphone-duo-brings-multitasking-to-iphone-but-only-just",
+      "title": "iPhone Duo brings multitasking to iPhone, but only just",
+      "dek": "The iPhone Duo inner display brings multitasking to iPhone, but it stops just short of really turning Apple's first foldable into a multitasking monster. Here's how it works, and what the limitations are. iPhone Duo can run to apps side by side For years now, some of us have used",
+      "aiSummary": "The iPhone Duo inner display enables multitasking on the new foldable iPhone, allowing two apps to run side by side. However, the feature falls short of making the device a full multitasking powerhouse, with several limitations highlighted in the review.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/05/iphone-duo-brings-multitasking-to-iphone-but-only-just?utm_source=rss",
+      "category": "Hardware",
+      "filterTags": [
+        "Apple",
+        "iPhone Duo",
+        "Foldable"
+      ],
+      "publishedAt": "2026-11-05T19:27:56+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Mobile Devices"
+        },
+        {
+          "name": "Productivity"
+        }
+      ]
+    },
+    {
+      "slug": "meta-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder",
+      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+      "dek": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+      "aiSummary": "Meta has issued a warning that increasing political opposition to data center construction could jeopardize its future investments in artificial intelligence. This concern arises as local communities increasingly push back against the development of massive infrastructure projects required for AI expansion.",
+      "articleUrl": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+      "category": "AI",
+      "filterTags": [
+        "Meta",
+        "AI",
+        "Data Centers"
+      ],
+      "publishedAt": "2026-11-05T19:12:39+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "Politics"
+        }
+      ]
+    },
+    {
+      "slug": "muse-has-a-voice-mode-now",
+      "title": "Muse has a voice mode now",
+      "dek": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article. As you chat with your Muse agent, the avatar at the top of ",
+      "aiSummary": "Meta has added real-time voice conversations to its Muse AI agent, announced by CEO Mark Zuckerberg. The author tested the new voice mode on the iOS app, noting that the avatar appears at the top of the chat interface.",
+      "articleUrl": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+      "category": "AI",
+      "filterTags": [
+        "Meta",
+        "Muse AI",
+        "iOS"
+      ],
+      "publishedAt": "2026-11-05T19:03:04+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Voice"
+        },
+        {
+          "name": "Mobile"
+        }
+      ]
+    },
+    {
+      "slug": "hr-thinks-you-can-learn-ai-skills-so-why-is-your-company-hiring-elsewhere",
+      "title": "HR thinks you can learn AI skills – so why is your company hiring elsewhere?",
+      "dek": "Over 90% of HR professionals say they believe employees can learn AI roles – but half of companies still hire outside for those positions, according to a new report.",
+      "aiSummary": "A new report reveals a disconnect in corporate AI hiring strategies, noting that while over 90% of HR professionals believe employees can learn AI skills, half of companies continue to hire externally for these positions.",
+      "articleUrl": "https://www.zdnet.com/innovation/ai-hiring-vs-reskilling-careerminds-research/",
+      "category": "Human Resources",
+      "filterTags": [
+        "HR",
+        "AI",
+        "Hiring",
+        "Workforce Development"
+      ],
+      "publishedAt": "2026-11-05T18:44:47+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Human Resources"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Business Strategy"
+        }
+      ]
+    },
+    {
+      "slug": "6-default-pixel-11-settings-i-changed-that-made-a-big-difference-and-why",
+      "title": "6 default Pixel 11 settings I changed that made a big difference – and why",
+      "dek": "If you’re a new Pixel 11 user, here are six things I recommend changing right away to get the most from your phone.",
+      "aiSummary": "For new Pixel 11 owners, there are six recommended default settings that can be changed immediately. These adjustments are suggested to help users maximize their phone's potential and overall experience.",
+      "articleUrl": "https://www.zdnet.com/tech/pixel-11-settings-to-change/",
+      "category": "Mobile Technology",
+      "filterTags": [
+        "Pixel 11"
+      ],
+      "publishedAt": "2026-11-05T18:18:16+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Mobile Technology"
+        },
+        {
+          "name": "User Experience"
+        }
+      ]
+    },
+    {
+      "slug": "winner-of-the-prix-goncourt-literary-prize-admits-to-using-ai",
+      "title": "Winner of the Prix Goncourt literary prize admits to using AI",
+      "dek": "Philippe Jaenada told French radio that he used ChatGPT to ‘play with the reader’, after the prize removed a different book from its longlist over allegations of AI use The winner of France’s most prestigious literary prize has admitted using artificial intelligence while writing",
+      "aiSummary": "Philippe Jaenada, the winner of France's Prix Goncourt, told a French radio station that he used ChatGPT while writing his book. He said he used the AI to 'play with the reader'. The prize had previously removed another book from its longlist due to allegations of AI use.",
+      "articleUrl": "https://www.theguardian.com/books/2026/nov/05/winner-of-the-prix-goncourt-literary-prize-admits-to-using-ai-philippe-jaenada",
+      "category": "Literature",
+      "filterTags": [
+        "ChatGPT"
+      ],
+      "publishedAt": "2026-11-05T18:08:58+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Literature"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Awards"
+        }
+      ]
+    },
+    {
+      "slug": "how-amazon-marketplace-evaluates-content-quality-with-amazon-sagemaker-ai",
+      "title": "How Amazon Marketplace evaluates content quality with Amazon SageMaker AI",
+      "dek": "Learn how Amazon Marketplace evaluates A+ Content quality at scale on Amazon SageMaker AI by rendering each product page as a single snapshot, scoring it with a vision-language model fused with OCR readability signals in a CatBoost classifier, and using SHAP to turn each decision",
+      "aiSummary": "Amazon Marketplace leverages Amazon SageMaker AI to evaluate A+ Content quality at scale by rendering product pages into single snapshots. The system scores these images using a vision-language model combined with OCR readability signals within a CatBoost classifier, while SHAP is employed to interpret each decision.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/how-amazon-marketplace-evaluates-content-quality-with-amazon-sagemaker-ai/",
+      "category": "AI",
+      "filterTags": [
+        "Amazon Marketplace",
+        "Amazon SageMaker AI",
+        "A+ Content",
+        "Vision-Language Model",
+        "OCR",
+        "CatBoost",
+        "SHAP"
+      ],
+      "publishedAt": "2026-11-05T18:06:43+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "E-Commerce"
+        },
+        {
+          "name": "Data Science"
+        }
+      ]
+    },
+    {
+      "slug": "v3-47-0",
+      "title": "v3.47.0",
+      "dek": "3.47.0  (2026-11-05) \n Features \n \n api:  add a model option for Responses ( #4249 ) ( 090098f )",
+      "aiSummary": "The release notes for version 3.47.0, dated November 5, 2026, announce a new feature. This update adds a model option for Responses in the API.",
+      "articleUrl": "https://github.com/openai/openai-python/releases/tag/v3.47.0",
+      "category": "Software Development",
+      "filterTags": [
+        "API",
+        "Responses"
+      ],
+      "publishedAt": "2026-11-05T18:04:10+00:00",
+      "publisher": {
+        "name": "openai",
+        "domain": "github.com",
+        "website": "https://github.com/openai/openai-python",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "APIs"
+        }
+      ]
+    }
+  ]
+}
