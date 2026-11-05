@@ -1,0 +1,1054 @@
+{
+  "news": [
+    {
+      "slug": "rack-community-a-self-hosted-ai-lab-whose-job-runner-won-t-overload-the-box",
+      "title": "Rack Community: a self-hosted AI lab whose job runner won't overload the box",
+      "dek": "Rack Community is a self-hosted AI lab that prevents its job runner from overloading the system.",
+      "aiSummary": "Rack Community is a self-hosted AI lab designed to manage computational tasks efficiently. Its job runner is specifically engineered to prevent the host machine from becoming overloaded during operation.",
+      "articleUrl": "https://github.com/ohhbeehave35-commits/rack-community",
+      "category": "AI",
+      "filterTags": [
+        "Rack Community",
+        "AI Lab",
+        "Job Runner",
+        "Self-hosted"
+      ],
+      "publishedAt": "2026-11-05T04:06:43+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "how-to-install-macos-tahoe-on-unsupported-macs",
+      "title": "How to install macOS Tahoe on unsupported Macs",
+      "dek": "With OpenCore Legacy Patcher, now on version 3, you can get  macOS Tahoe  running on Intel Macs released more than fifteen years ago. Here's how to get everything set up. With OpenCore Legacy Patcher 3.0.0, you can install macOS Tahoe on Macs that debuted more than 15 years ago. ",
+      "aiSummary": "OpenCore Legacy Patcher version 3.0.0 enables users to install macOS Tahoe on Intel Macs that are over fifteen years old. The article provides instructions for setting up this software to run the operating system on unsupported hardware.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/05/how-to-install-macos-tahoe-on-unsupported-macs?utm_source=rss",
+      "category": "Operating Systems",
+      "filterTags": [
+        "OpenCore Legacy Patcher",
+        "macOS Tahoe",
+        "Intel Macs"
+      ],
+      "publishedAt": "2026-11-05T04:02:52+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Operating Systems"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-860daf1522129daa2a4e00c9f258be1a4847ce3a",
+      "title": "trunk/860daf1522129daa2a4e00c9f258be1a4847ce3a",
+      "dek": "[pytree] Keep type names correct when a pytree type is removed or reg…",
+      "aiSummary": "This update to the pytree module fixes an issue where type names became incorrect when a pytree type was removed or regenerated. The change ensures that the internal tracking of type names remains consistent with the current state of the codebase.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F860daf1522129daa2a4e00c9f258be1a4847ce3a",
+      "category": "Open Source",
+      "filterTags": [
+        "pytree",
+        "Python"
+      ],
+      "publishedAt": "2026-11-05T03:59:16+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "slug": "what-s-the-worst-bug-an-ai-coding-agent-silently-introduced-into-your-code",
+      "title": "What's the worst bug an AI coding agent silently introduced into your code?",
+      "dek": "What is the most severe error that an AI coding tool quietly added to your codebase?",
+      "aiSummary": "The provided text contains only a question asking about the worst bug an AI coding agent has silently introduced into code. No specific incidents, technical details, or factual information are included in the description.",
+      "articleUrl": "https://news.ycombinator.com/item?id=50374984",
+      "category": "AI",
+      "filterTags": [
+        "AI coding agent"
+      ],
+      "publishedAt": "2026-11-05T03:57:14+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "inside-the-chip-talent-war-trade-secrets-and-rising-chinese-rivals",
+      "title": "Inside the chip talent war: Trade secrets and rising Chinese rivals",
+      "dek": "Growing competition for semiconductor talent is fueling a battle over trade secrets as Chinese chipmakers gain ground.",
+      "aiSummary": "Intensifying competition for semiconductor talent is driving a conflict over trade secrets. This struggle is occurring as Chinese chipmakers continue to gain ground in the industry.",
+      "articleUrl": "https://www.cnbc.com/2026/11/05/semiconductor-china-korea-talents-rivalry.html",
+      "category": "Semiconductors",
+      "filterTags": [
+        "semiconductors",
+        "trade secrets",
+        "Chinese chipmakers"
+      ],
+      "publishedAt": "2026-11-05T03:53:18+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Geopolitics"
+        },
+        {
+          "name": "Intellectual Property"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-988479abc229a79253fec948338bfdeb3d7b2ac5",
+      "title": "trunk/988479abc229a79253fec948338bfdeb3d7b2ac5",
+      "dek": "[CI] Keep Dynamo from tracing test_sum_all's Python reference sum ( #2 …",
+      "aiSummary": "The commit updates the CI configuration to prevent Dynamo from tracing the Python reference sum used in the test_sum_all test, ensuring that Dynamo does not instrument the built-in sum function during testing.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F988479abc229a79253fec948338bfdeb3d7b2ac5",
+      "category": "Software Development",
+      "filterTags": [
+        "CI",
+        "Dynamo",
+        "Python"
+      ],
+      "publishedAt": "2026-11-05T03:45:35+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Testing"
+        },
+        {
+          "name": "Continuous Integration"
+        }
+      ]
+    },
+    {
+      "slug": "septaro-an-ai-powered-weekly-reset-to-help-you-pursue-your-goals",
+      "title": "Septaro, an AI-powered weekly reset to help you pursue your goals",
+      "dek": "Septaro is an AI tool that gives you a weekly reset to help you reach your goals.",
+      "aiSummary": "Septaro is an AI-powered application designed to provide users with a weekly reset. Its primary function is to assist individuals in pursuing and achieving their personal or professional goals.",
+      "articleUrl": "https://septaro.com",
+      "category": "AI",
+      "filterTags": [
+        "Septaro",
+        "AI"
+      ],
+      "publishedAt": "2026-11-05T03:37:48+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Productivity"
+        }
+      ]
+    },
+    {
+      "slug": "v0-40-15",
+      "title": "v0.40.15",
+      "dek": "What's Changed \n \n mlx: load bundled CUDA libraries in-process on Linux by  @dhiltgen  in  #19433 \n model: add MiMo V2.6 model support by  @dhiltgen  in  #19400 \n \n Full Changelog :  v0.40.14...v0.40.15-rc0",
+      "aiSummary": "The v0.40.15 update introduces in-process loading of bundled CUDA libraries on Linux for the mlx component. It also adds support for the MiMo V2.6 model. A full changelog is available covering the changes from v0.40.14 to v0.40.15-rc0.",
+      "articleUrl": "https://github.com/ollama/ollama/releases/tag/v0.40.15-rc1",
+      "category": "Software Development",
+      "filterTags": [
+        "CUDA",
+        "Linux",
+        "mlx",
+        "MiMo"
+      ],
+      "publishedAt": "2026-11-05T03:36:38+00:00",
+      "publisher": {
+        "name": "ollama",
+        "domain": "github.com",
+        "website": "https://github.com/ollama/ollama",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "b12124-opencl-support-non-contig-sigmoid-31687",
+      "title": "b12124: opencl: support non-contig sigmoid (#31687)",
+      "dek": "Co-authored-by: Li He  lih@qti.qualcomm.com",
+      "aiSummary": "This commit introduces support for non-contiguous sigmoid operations within the OpenCL backend. The change was co-authored by Li He from Qualcomm.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12124",
+      "category": "Machine Learning",
+      "filterTags": [
+        "OpenCL",
+        "sigmoid",
+        "b12124",
+        "Qualcomm"
+      ],
+      "publishedAt": "2026-11-05T03:18:24+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Hardware Acceleration"
+        }
+      ]
+    },
+    {
+      "slug": "china-blocks-softbank-acquisition-of-abb-robot-unit-ft-says",
+      "title": "China Blocks SoftBank Acquisition of ABB Robot Unit, FT Says",
+      "dek": "China has blocked SoftBank Group Corp.’s deal to acquire ABB Ltd.’s robots unit, the Financial Times reported, citing unidentified people.",
+      "aiSummary": "China has blocked SoftBank Group Corp.'s acquisition of ABB Ltd.'s robotics unit, as reported by the Financial Times. The report cites unidentified sources for this regulatory decision.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-05/china-blocks-softbank-s-acquisition-of-abb-industrial-robot-unit",
+      "category": "Mergers & Acquisitions",
+      "filterTags": [
+        "SoftBank",
+        "ABB",
+        "Financial Times",
+        "Robotics"
+      ],
+      "publishedAt": "2026-11-05T03:15:01+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Mergers & Acquisitions"
+        },
+        {
+          "name": "Robotics"
+        },
+        {
+          "name": "Regulation"
+        }
+      ]
+    },
+    {
+      "slug": "b12121",
+      "title": "b12121",
+      "dek": "llama : fix on-device state copy sizes for quantized KV caches ( #30541 ) \n \n llama : fix on-device state copy sizes for quantized KV caches \n \n The on-device sequence state copies (LLAMA_STATE_SEQ_FLAGS_ON_DEVICE) computed \ntheir element count as size / ggml_element_size(). For ",
+      "aiSummary": "The update fixes an issue in the Llama library regarding on-device state copy sizes for quantized KV caches. Previously, the element count for on-device sequence state copies was incorrectly calculated using the standard element size, which did not account for quantization.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12121",
+      "category": "AI",
+      "filterTags": [
+        "Llama",
+        "KV cache",
+        "Quantization",
+        "ggml"
+      ],
+      "publishedAt": "2026-11-05T03:03:33+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "china-blocks-softbank-s-5-4bn-takeover-of-abb-s-robotics-division",
+      "title": "China blocks SoftBank’s $5.4bn takeover of ABB’s robotics division",
+      "dek": "Swiss-Swedish company’s unit is focused on Chinese market and has mega-factory in Pudong",
+      "aiSummary": "China has blocked SoftBank's proposed $5.4 billion acquisition of ABB's robotics division. The target unit is a Swiss-Swedish company focused on the Chinese market and operates a large factory in Pudong.",
+      "articleUrl": "https://www.ft.com/content/f10c3e24-45e4-47ff-bde2-24a8de90aec4?syn-25a6b1a6=1",
+      "category": "Mergers & Acquisitions",
+      "filterTags": [
+        "SoftBank",
+        "ABB",
+        "Robotics",
+        "China"
+      ],
+      "publishedAt": "2026-11-05T03:02:02+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Mergers & Acquisitions"
+        },
+        {
+          "name": "Robotics"
+        },
+        {
+          "name": "Geopolitics"
+        }
+      ]
+    },
+    {
+      "slug": "b12122-title-cuda-fuse-nvfp4-gate-up-matmuls-and-glu-in-mmq-31296",
+      "title": "b12122: Title: CUDA: fuse NVFP4 gate/up matmuls and GLU in MMQ (#31296)",
+      "dek": "cuda: fuse NVFP4 gate/up and GLU in MMQ \n \n \n cuda: honor the requested src1 precision in fused gate/up MMQ \n \n \n cuda: share NVFP4 scale checks, skip unused fused FP4 kernels \n \n \n cuda: test NVFP4 fused MMQ at W4A8 without scales and with batches, clean up naming \n \n \n cuda: ch",
+      "aiSummary": "The update introduces fused operations for NVFP4 gate/up matrix multiplications and GLU within the MMQ module. It also ensures the requested source precision is honored, shares scale checks, and includes tests for W4A8 configurations without scales.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12122",
+      "category": "AI",
+      "filterTags": [
+        "CUDA",
+        "NVFP4",
+        "MMQ",
+        "GLU",
+        "NVIDIA"
+      ],
+      "publishedAt": "2026-11-05T02:47:33+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Performance"
+        }
+      ]
+    },
+    {
+      "slug": "linux-mint-27-arrives-next-month-and-i-like-it-already-new-features-and-other-upgrades-to-expect",
+      "title": "Linux Mint 27 arrives next month, and I like it already: New features and other upgrades to expect",
+      "dek": "It starts with a surprise version number: Linux Mint 27 instead of 24. But the next release brings far more changes than that.",
+      "aiSummary": "Linux Mint is releasing version 27 next month, skipping the expected 24. The new release promises many changes beyond the new version number.",
+      "articleUrl": "https://www.zdnet.com/tech/linux-mint-27-release-date/",
+      "category": "Operating Systems",
+      "filterTags": [
+        "Linux Mint"
+      ],
+      "publishedAt": "2026-11-05T02:35:58+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Operating Systems"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "labrinth-promotes-proled-macbook-pro-with-an-all-night-music-making-stream",
+      "title": "Labrinth promotes PROLED MacBook Pro with an all-night music-making stream",
+      "dek": "Multi-platinum musician Labrinth will be putting the PROLED  MacBook Pro  through its paces ahead of launch, using it to produce a full song from scratch on a live stream. Labrinth in a recording studio - Image Credit: Apple Apple's MacBook Pro with a Tandem OLED screen, referred",
+      "aiSummary": "Multi‑platinum artist Labrinth is testing the new PROLED MacBook Pro before its launch by creating a full song from scratch during a live stream. He will be working in a recording studio, showcasing the device’s Tandem OLED screen.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/05/labrinth-promotes-proled-macbook-pro-with-an-all-night-music-making-stream?utm_source=rss",
+      "category": "Music",
+      "filterTags": [
+        "Labrinth",
+        "PROLED MacBook Pro",
+        "Apple",
+        "MacBook Pro",
+        "Tandem OLED screen"
+      ],
+      "publishedAt": "2026-11-05T02:24:42+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Music"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-4892050dadb28d1ca1065268e35084747967e34e-fix-stream-context-manager-not-switching-device-203167",
+      "title": "trunk/4892050dadb28d1ca1065268e35084747967e34e: Fix Stream context manager not switching device (#203167)",
+      "dek": "Motivation \n Previously, entering a stream context would not switch the current device to the stream's device if that stream was already the current stream on the destination device. \n s1   =   torch . accelerator . current_stream ( 1 )\n # assume current device is 0 \n with   s1 :",
+      "aiSummary": "This update resolves an issue where entering a stream context failed to switch the current device to the stream's device if the stream was already the current one on the destination device. The fix ensures proper device switching behavior within PyTorch's accelerator stream context managers.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F4892050dadb28d1ca1065268e35084747967e34e",
+      "category": "Machine Learning",
+      "filterTags": [
+        "PyTorch",
+        "torch.accelerator",
+        "Stream context manager",
+        "Device switching"
+      ],
+      "publishedAt": "2026-11-05T02:22:42+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "v1-107-0-rc-3",
+      "title": "v1.107.0-rc.3",
+      "dek": "Verify this release \n This release candidate is built from  f9778e9 , the reviewed merge of  #50129  into  rc/1.107.0 . It is published as  1.107.0rc3  on PyPI and  v1.107.0-rc.3  on Docker \n After the Oct 21 incident ( #47826 ) we replaced the cosign key that signs our Docker im",
+      "aiSummary": "This release candidate, built from commit f9778e9, is published as 1.107.0rc3 on PyPI and v1.107.0-rc.3 on Docker. The release notes mention that the cosign key used for signing Docker images was replaced following an incident on October 21.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.107.0-rc.3",
+      "category": "Software Development",
+      "filterTags": [
+        "PyPI",
+        "Docker",
+        "cosign"
+      ],
+      "publishedAt": "2026-11-05T02:07:25+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "DevOps"
+        }
+      ]
+    },
+    {
+      "slug": "apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage",
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "dek": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+      "aiSummary": "Apple is reportedly significantly reducing its budget for internal AI usage. The company is cutting the amount of money spent on AI specifically for its engineering teams.",
+      "articleUrl": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "category": "AI",
+      "filterTags": [
+        "Apple",
+        "AI",
+        "Engineering"
+      ],
+      "publishedAt": "2026-11-05T01:26:22+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Corporate Strategy"
+        }
+      ]
+    },
+    {
+      "slug": "after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming",
+      "title": "After the midterms, a bigger clash over data centers could be coming",
+      "dek": "Data center opposition crossed party lines in Tuesday’s midterms.",
+      "aiSummary": "During Tuesday’s midterm elections, opposition to data centers was seen across both major political parties. This bipartisan stance suggests that future conflicts over data center development could intensify.",
+      "articleUrl": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+      "category": "Infrastructure",
+      "filterTags": [
+        "data centers"
+      ],
+      "publishedAt": "2026-11-05T01:02:14+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "v3-46-0",
+      "title": "v3.46.0",
+      "dek": "3.46.0  (2026-11-05) \n Features \n \n api:  add Australia, India, and Japan residency options ( #4246 ) ( 2634b87 ) \n api:  add GPT-6 Rosalind to the model catalog ( #4243 ) ( 0f8e5f3 ) \n api:  add image complexity and GIF and SVG output controls ( #4247 ) ( 0152e3a ) \n api:  expan",
+      "aiSummary": "The 3.46.0 update adds new residency options for Australia, India, and Japan, expands the model catalog with GPT‑6 Rosalind, and introduces image complexity controls along with GIF and SVG output options. These changes enhance regional compliance and visual output flexibility for developers.",
+      "articleUrl": "https://github.com/openai/openai-python/releases/tag/v3.46.0",
+      "category": "AI",
+      "filterTags": [
+        "GPT-6",
+        "Rosalind",
+        "API",
+        "Image Complexity",
+        "GIF",
+        "SVG"
+      ],
+      "publishedAt": "2026-11-05T00:55:06+00:00",
+      "publisher": {
+        "name": "openai",
+        "domain": "github.com",
+        "website": "https://github.com/openai/openai-python",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "v1-14-0-dev18",
+      "title": "v1.14.0.dev18",
+      "dek": "Langflow nightly v1.14.0.dev18",
+      "aiSummary": "Langflow has released a nightly build, version 1.14.0.dev18. This update is part of the project's ongoing development cycle.",
+      "articleUrl": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev18",
+      "category": "AI",
+      "filterTags": [
+        "Langflow"
+      ],
+      "publishedAt": "2026-11-05T00:25:32+00:00",
+      "publisher": {
+        "name": "langflow-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langflow-ai/langflow",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "nextdc-shares-surge-43-after-goodman-digital-realty-stake-purchases",
+      "title": "NextDC shares surge 43% after Goodman, Digital Realty stake purchases",
+      "dek": "NextDC shares surged more than 40% Thursday morning after Goodman Group and Digital Realty sought to acquire up to a 9.9% stake.",
+      "aiSummary": "NextDC's shares jumped over 40% on Thursday morning. The rise followed news that Goodman Group and Digital Realty were looking to buy up to a 9.9% stake in the company.",
+      "articleUrl": "https://www.cnbc.com/2026/11/05/nextdc-goodman-group-digital-realty-data-centers-.html",
+      "category": "Finance",
+      "filterTags": [
+        "NextDC",
+        "Goodman Group",
+        "Digital Realty",
+        "stake acquisition"
+      ],
+      "publishedAt": "2026-11-05T00:24:57+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Stock Market"
+        },
+        {
+          "name": "Corporate"
+        }
+      ]
+    },
+    {
+      "slug": "hands-on-siri-recaps-live-rewind-are-controversial-unnecessary-technologies",
+      "title": "Hands on: Siri Recaps & Live Rewind are controversial & unnecessary technologies",
+      "dek": "After spending a day with Apple's Audio Intelligence features, they feel more like checked boxes than fully realized and useful features in spite of the clear privacy and boundaries present. Siri Recap and Live Rewind are odd features for Apple to offer When Apple first revealed ",
+      "aiSummary": "The author spent a day testing Apple's Audio Intelligence features and found them to be more like checkboxes than fully realized, useful tools. Siri Recap and Live Rewind were highlighted as odd and unnecessary additions. Despite clear privacy safeguards, the features were criticized for lacking practical value.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/05/hands-on-siri-recaps-live-rewind-are-controversial-unnecessary-technologies?utm_source=rss",
+      "category": "AI",
+      "filterTags": [
+        "Apple",
+        "Siri Recap",
+        "Live Rewind",
+        "Audio Intelligence"
+      ],
+      "publishedAt": "2026-11-05T00:23:01+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Privacy"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "langchain-core-1-7-6",
+      "title": "langchain-core==1.7.6",
+      "dek": "Changes since langchain-core==1.7.5 \n release(core): 1.7.6 ( #41698 ) \nperf(core): merge streamed  AIMessageChunk s once when accumulating runnable streams ( #41697 ) \nperf(core): stop  parse_partial_json  from retrying one character at a time ( #41467 )",
+      "aiSummary": "The langchain-core library has released version 1.7.6, which includes performance improvements for the core module. Key updates include merging streamed AIMessageChunks more efficiently during runnable stream accumulation and optimizing parse_partial_json to avoid retrying one character at a time.",
+      "articleUrl": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.7.6",
+      "category": "AI",
+      "filterTags": [
+        "langchain-core",
+        "AIMessageChunk",
+        "parse_partial_json"
+      ],
+      "publishedAt": "2026-11-05T00:22:14+00:00",
+      "publisher": {
+        "name": "langchain-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langchain-ai/langchain",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "south-korea-s-current-account-surplus-hits-record-on-chip-boom",
+      "title": "South Korea’s Current Account Surplus Hits Record on Chip Boom",
+      "dek": "South Korea’s current-account surplus jumped to a record in September, fueled by booming semiconductor exports as global investment in artificial intelligence continues to stoke demand for the country’s technology products.",
+      "aiSummary": "South Korea recorded a record current-account surplus in September, driven by a significant increase in semiconductor exports. This growth is attributed to rising global demand for technology products fueled by continued investment in artificial intelligence.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-05/south-korea-s-current-account-surplus-hits-record-on-chip-boom",
+      "category": "Economics",
+      "filterTags": [
+        "South Korea",
+        "Semiconductors",
+        "AI",
+        "Current Account"
+      ],
+      "publishedAt": "2026-11-05T00:05:49+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Economics"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Trade"
+        }
+      ]
+    },
+    {
+      "slug": "jim-cramer-warns-investors-may-be-reading-too-much-into-wall-street-s-post-election-rally",
+      "title": "Jim Cramer warns investors may be reading too much into Wall Street's post-election rally",
+      "dek": "Cramer warned that Wall Street may be getting ahead of itself following the midterm elections.",
+      "aiSummary": "Jim Cramer warned that Wall Street may be getting ahead of itself in its reaction to the midterm elections. He suggested that investors are reading too much into the post-election rally.",
+      "articleUrl": "https://www.cnbc.com/2026/11/04/cramer-midterms-ai-stocks.html",
+      "category": "Finance",
+      "filterTags": [
+        "Jim Cramer",
+        "Wall Street",
+        "Midterm Elections"
+      ],
+      "publishedAt": "2026-11-04T23:18:56+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Markets"
+        }
+      ]
+    },
+    {
+      "slug": "the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space",
+      "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
+      "dek": "After Democrats won big in Texas and other AI infrastructure hot spots on Tuesday, data center enthusiasts looked for comfort in low Earth orbit.",
+      "aiSummary": "Democrats' electoral victories in Texas and other AI infrastructure hotspots prompted data center enthusiasts to consider low Earth orbit as a new location. The political shift has spurred interest in orbital data centers.",
+      "articleUrl": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/",
+      "category": "Politics",
+      "filterTags": [
+        "Democrats",
+        "Texas",
+        "AI infrastructure",
+        "low Earth orbit"
+      ],
+      "publishedAt": "2026-11-04T23:13:14+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Space"
+        }
+      ]
+    },
+    {
+      "slug": "nextdc-shares-surge-after-rival-data-center-firms-seek-stake",
+      "title": "Nextdc Shares Surge After Rival Data Center Firms Seek Stake",
+      "dek": "Nextdc Ltd. shares jumped the most since 2010 after rival data center operators bought equity following a selloff in the Australian company.",
+      "aiSummary": "Nextdc Ltd. shares surged, marking the biggest jump since 2010. The rise came after rival data center operators purchased equity in the company following a selloff.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-04/nextdc-surges-on-report-of-goodman-digital-realty-buying-stake",
+      "category": "Finance",
+      "filterTags": [
+        "Nextdc",
+        "data center"
+      ],
+      "publishedAt": "2026-11-04T23:09:02+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Data Center"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "scare-campaigns-victoria-s-major-parties-trade-blows-over-ai-generated-videos-of-leaders-in-election-ads",
+      "title": "Scare campaigns: Victoria’s major parties trade blows over AI-generated videos of leaders in election ads",
+      "dek": "Transparency and advertising experts say trust in politics could be further eroded as a result of ‘lies, deepfakes and AI-generated politicians’ Get our  daily political email ,  free app  or  daily news podcast It’s the night of Halloween and Jess Wilson has appeared on social m",
+      "aiSummary": "Victoria's major political parties are engaging in disputes regarding the use of AI-generated videos of political leaders in election advertisements. Experts in transparency and advertising warn that the proliferation of deepfakes and AI-generated politicians could further erode public trust in the political system.",
+      "articleUrl": "https://www.theguardian.com/australia-news/2026/nov/05/victoria-election-2026-ai-generated-video-ads-ntwnfb",
+      "category": "Politics",
+      "filterTags": [
+        "AI",
+        "Deepfakes",
+        "Victoria",
+        "Election Ads"
+      ],
+      "publishedAt": "2026-11-04T23:00:46+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Media"
+        }
+      ]
+    },
+    {
+      "slug": "snap-has-more-than-30-million-paid-subscribers-across-snapchat-and-other-plans",
+      "title": "Snap has more than 30 million paid subscribers across Snapchat+ and other plans",
+      "dek": "Power users seem more than willing to pay for AI-powered effects.",
+      "aiSummary": "Snapchat reports more than 30 million paid subscribers across its Snapchat+ subscription and other plans. The company notes that power users are eager to pay for AI-powered effects. This indicates growing revenue from premium features.",
+      "articleUrl": "https://www.engadget.com/2307356/snap-has-more-than-30-million-paid-subscribers-across-snapchat-and-other-plans/",
+      "category": "Social Media",
+      "filterTags": [
+        "Snap",
+        "Snapchat+",
+        "AI"
+      ],
+      "publishedAt": "2026-11-04T22:55:57+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Social Media"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Subscription Services"
+        }
+      ]
+    },
+    {
+      "slug": "introducing-images-2-6",
+      "title": "Introducing Images 2.6",
+      "dek": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+      "aiSummary": "Images 2.6 introduces faster image generation, GIF creation, and more precise editing capabilities. These updates include new API controls available across ChatGPT, Codex, and the API.",
+      "articleUrl": "https://openai.com/index/introducing-images-2-6",
+      "category": "AI",
+      "filterTags": [
+        "Images 2.6",
+        "ChatGPT",
+        "Codex",
+        "API",
+        "GIF creation"
+      ],
+      "publishedAt": "2026-11-04T00:00:00+00:00",
+      "publisher": {
+        "name": "OpenAI",
+        "domain": "openai.com",
+        "website": "https://openai.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    }
+  ]
+}
