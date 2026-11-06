@@ -1,0 +1,1098 @@
+{
+  "news": [
+    {
+      "slug": "trunk-625eb586c435ba098adb78741ceb2a173debca4c",
+      "title": "trunk/625eb586c435ba098adb78741ceb2a173debca4c",
+      "dek": "[llm-selector] Name discover_tests.py's blocklisted test directories …",
+      "aiSummary": "The commit modifies the llm-selector component to rename the blocklisted test directories within the discover_tests.py script. This update likely improves clarity or consistency in how excluded test paths are identified.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F625eb586c435ba098adb78741ceb2a173debca4c",
+      "category": "Software Engineering",
+      "filterTags": [
+        "llm-selector",
+        "discover_tests.py",
+        "Python"
+      ],
+      "publishedAt": "2026-11-06T03:54:39+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Testing"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-0bcfbeeed87d201bf80d4fcd826dc4f4209b8be9",
+      "title": "trunk/0bcfbeeed87d201bf80d4fcd826dc4f4209b8be9",
+      "dek": "[llm-selector] Factor run_test.py's --enable-td default into td_enabl…",
+      "aiSummary": "The commit modifies the llm-selector component by factoring out the default value for the --enable-td argument in run_test.py. This change isolates the configuration logic for the td_enabl variable.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F0bcfbeeed87d201bf80d4fcd826dc4f4209b8be9",
+      "category": "Software Engineering",
+      "filterTags": [
+        "llm-selector",
+        "run_test.py",
+        "Python"
+      ],
+      "publishedAt": "2026-11-06T03:54:39+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Testing"
+        }
+      ]
+    },
+    {
+      "slug": "ai-and-the-future-of-the-product-role",
+      "title": "AI and the Future of the Product Role",
+      "dek": "How AI will shape the role of product managers.",
+      "aiSummary": "",
+      "articleUrl": "https://www.svpg.com/ai-and-the-future-of-the-product-role/",
+      "category": "AI",
+      "filterTags": [],
+      "publishedAt": "2026-11-06T03:54:13+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Product Management"
+        }
+      ]
+    },
+    {
+      "slug": "are-we-cooked-cmu-faculty-on-ai-careers-and-learning-video",
+      "title": "Are We Cooked? CMU Faculty on AI, Careers and Learning [video]",
+      "dek": "CMU professors discuss the impact of AI on jobs and education in a video.",
+      "aiSummary": "The provided text does not contain an article body, only a title indicating a video featuring Carnegie Mellon University faculty. The video addresses the implications of artificial intelligence on professional careers and learning processes.",
+      "articleUrl": "https://www.youtube.com/watch?v=U2DDKdUvq6k",
+      "category": "AI",
+      "filterTags": [
+        "CMU",
+        "AI"
+      ],
+      "publishedAt": "2026-11-06T03:53:21+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Education"
+        }
+      ]
+    },
+    {
+      "slug": "meta-warns-midterm-backlash-threatens-ai-data-centers",
+      "title": "Meta Warns Midterm Backlash Threatens AI Data Centers",
+      "dek": "Meta cautions that political opposition in upcoming elections could endanger its AI infrastructure projects.",
+      "aiSummary": "Meta has issued a warning that potential backlash from midterm elections poses a threat to its AI data center initiatives. The company suggests that political sentiment could impact the development or operation of these facilities.",
+      "articleUrl": "https://epyhia.com/meta-warns-midterm-backlash-threatens-ai-data-centers-goldman-sees-45",
+      "category": "AI",
+      "filterTags": [
+        "Meta",
+        "AI",
+        "Data Centers",
+        "Midterm Elections"
+      ],
+      "publishedAt": "2026-11-06T03:51:26+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "b12144",
+      "title": "b12144",
+      "dek": "CUDA: linearize MoE data layout for MMQ/MMF ( #31047 ) \n \n \n CUDA: linearize MoE data layout for MMQ/MMF \n \n \n Apply MMQ tile size optimization more generally \n \n \n Fix F16 performance regression \n \n \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml",
+      "aiSummary": "This update introduces changes to the CUDA backend to linearize the data layout for Mixture of Experts (MoE) operations, specifically for MMQ and MMF. It also applies tile size optimizations more broadly and addresses a performance regression related to F16 precision.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12144",
+      "category": "AI",
+      "filterTags": [
+        "CUDA",
+        "MoE",
+        "MMQ",
+        "MMF",
+        "F16",
+        "ggml",
+        "llama.app"
+      ],
+      "publishedAt": "2026-11-06T03:49:08+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Performance"
+        }
+      ]
+    },
+    {
+      "slug": "tech-investor-dan-niles-ai-revenue-slowdown-demands-stock-picking",
+      "title": "Tech Investor Dan Niles: AI Revenue Slowdown Demands Stock Picking",
+      "dek": "Niles Investment Management Founder and veteran tech investor Dan Niles says competition from open-source models is weighing on token prices and slowing revenue growth at leading artificial intelligence companies. He argues that steeper financing costs and postponed public listin",
+      "aiSummary": "Dan Niles, founder of Niles Investment Management, argues that competition from open-source models is driving down token prices and slowing revenue growth for major AI companies. He suggests that rising financing costs and delayed public listings require a more selective approach to stock picking in the sector.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-11-06/niles-ai-revenue-slowdown-demands-stock-picking-video",
+      "category": "AI",
+      "filterTags": [
+        "Dan Niles",
+        "Niles Investment Management",
+        "AI",
+        "Open-source models",
+        "Token prices"
+      ],
+      "publishedAt": "2026-11-06T03:47:37+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Investment"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "autogpt-platform-v0-11-1",
+      "title": "🚀 AutoGPT Platform v0.11.1",
+      "dek": "🔥 What's New? \n ⚠️ Breaking Changes \n \n #16416  - Self-hosted installs:  .env.default  no longer ships a Web Push (VAPID) key pair, and the backend no longer sends push notifications with the old shipped pair. Run  make init-env  to generate a pair for your install; the single-co",
+      "aiSummary": "AutoGPT Platform has released version 0.11.1, which includes breaking changes for self-hosted installations. The update removes the default Web Push (VAPID) key pair from the .env.default file, requiring users to run 'make init-env' to generate a new pair for push notifications.",
+      "articleUrl": "https://github.com/Significant-Gravitas/AutoGPT/releases/tag/autogpt-platform-beta-v0.11.1",
+      "category": "AI",
+      "filterTags": [
+        "AutoGPT",
+        "VAPID",
+        "Web Push",
+        "Self-hosted"
+      ],
+      "publishedAt": "2026-11-06T03:36:16+00:00",
+      "publisher": {
+        "name": "Significant-Gravitas",
+        "domain": "github.com",
+        "website": "https://github.com/Significant-Gravitas/AutoGPT",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-1a194781ec386fe005eba8119c9a126db571032d",
+      "title": "trunk/1a194781ec386fe005eba8119c9a126db571032d",
+      "dek": "[CD] Update bundled MKL to 2026.2.0 (fixes DLASD2 deflation bug in to…",
+      "aiSummary": "The bundled MKL library has been updated to version 2026.2.0. This update addresses a deflation bug in the DLASD2 function.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F1a194781ec386fe005eba8119c9a126db571032d",
+      "category": "Software",
+      "filterTags": [
+        "MKL",
+        "DLASD2"
+      ],
+      "publishedAt": "2026-11-06T03:34:49+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software"
+        },
+        {
+          "name": "Mathematics"
+        }
+      ]
+    },
+    {
+      "slug": "v0-44-1",
+      "title": "v0.44.1",
+      "dek": "ComfyUI v0.44.1",
+      "aiSummary": "ComfyUI has released version 0.44.1. The update is identified by the version number 0.44.1.",
+      "articleUrl": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.44.1",
+      "category": "Open Source",
+      "filterTags": [
+        "ComfyUI"
+      ],
+      "publishedAt": "2026-11-06T03:26:00+00:00",
+      "publisher": {
+        "name": "comfyanonymous",
+        "domain": "github.com",
+        "website": "https://github.com/comfyanonymous/ComfyUI",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "why-australian-investor-isn-t-betting-on-data-centers-ai",
+      "title": "Why Australian Investor Isn't Betting on Data Centers, AI",
+      "dek": "Revolution Asset Management Managing Director and Chief Investment Office Bob Sahota discussed his firm’s conservative approach to private credit, emphasizing cash-flow based lending. He also discussed why the firm isn't betting on data centers or picking AI winners, on the sidel",
+      "aiSummary": "Bob Sahota, Managing Director and Chief Investment Officer at Revolution Asset Management, outlined the firm's conservative private credit strategy focused on cash-flow based lending. He explained that the firm is not investing in data centers or attempting to identify winning AI companies.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-11-06/why-australian-investor-won-t-bet-on-data-centers-ai-video",
+      "category": "Investing",
+      "filterTags": [
+        "Revolution Asset Management",
+        "Bob Sahota",
+        "Private Credit",
+        "Data Centers",
+        "AI"
+      ],
+      "publishedAt": "2026-11-06T03:24:02+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Investing"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "b12143",
+      "title": "b12143",
+      "dek": "vulkan: FWHT kernels for block widths above 512 ( #29772 ) \n \n vulkan: add F16 input to the FWHT \n \n The Vulkan FWHT accepts F32 input only. This adds an F16 source variant of the \nshader, for both the subgroup and the shared-memory paths, so the kernel reads \nan F16 source direc",
+      "aiSummary": "The update introduces Vulkan FWHT kernels capable of handling block widths exceeding 512. It also adds an F16 source variant to the shader for both subgroup and shared-memory paths, expanding support beyond the previous F32-only input limitation.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12143",
+      "category": "Graphics",
+      "filterTags": [
+        "Vulkan",
+        "FWHT",
+        "F16",
+        "F32",
+        "Shader"
+      ],
+      "publishedAt": "2026-11-06T02:51:16+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Graphics"
+        },
+        {
+          "name": "Performance"
+        }
+      ]
+    },
+    {
+      "slug": "nasdaq-sell-off-batters-asian-chip-stocks-as-sk-hynix-samsung-softbank-tsmc-tumble",
+      "title": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble",
+      "dek": "Asian technology stocks tumbled Friday, tracking a sharp sell-off on Wall Street overnight that sent the tech-heavy Nasdaq Composite into correction territory.",
+      "aiSummary": "Asian technology stocks experienced a significant decline on Friday, mirroring a sharp sell-off in the US market that pushed the Nasdaq Composite into correction territory. Major chipmakers including SK Hynix, Samsung, Softbank, and TSMC saw their shares tumble as a result.",
+      "articleUrl": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
+      "category": "Semiconductors",
+      "filterTags": [
+        "Nasdaq",
+        "SK Hynix",
+        "Samsung",
+        "Softbank",
+        "TSMC",
+        "Chip stocks"
+      ],
+      "publishedAt": "2026-11-06T02:40:15+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Markets"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "b12142",
+      "title": "b12142",
+      "dek": "vulkan : check combined K+V f16 scratch size in FA dequant path ( #30487 ) \n Fixes  #30048 \n Assisted-by: Claude \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/64320573 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n m",
+      "aiSummary": "This commit addresses a bug in the Vulkan backend of llama.cpp by verifying the combined scratch size for Key and Value tensors in the Flash Attention dequantization path. The change resolves issue #30048 and was assisted by Claude.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12142",
+      "category": "Open Source",
+      "filterTags": [
+        "llama.cpp",
+        "Vulkan",
+        "Flash Attention",
+        "Claude"
+      ],
+      "publishedAt": "2026-11-06T02:26:07+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "free-ai-and-data-courses-with-365-data-science-100-unlimited-access-until-nov-20",
+      "title": "Free AI and Data Courses with 365 Data Science: 100% Unlimited Access until Nov 20",
+      "dek": "Sponsored Content       From November 5 to November 20, 2026 (starting at 8:00 a.m. UTC), 365 Data Science will grant free access to...",
+      "aiSummary": "From November 5 to November 20, 2026, starting at 8:00 a.m. UTC, 365 Data Science will grant free access to its AI and data courses. The offer provides 100% unlimited access during this period.",
+      "articleUrl": "https://machinelearningmastery.com/free-ai-and-data-courses-with-365-data-science-100-unlimited-access-until-nov-20/",
+      "category": "Education",
+      "filterTags": [
+        "365 Data Science",
+        "AI",
+        "Data Science"
+      ],
+      "publishedAt": "2026-11-06T02:00:25+00:00",
+      "publisher": {
+        "name": "Jason Brownlee",
+        "domain": "machinelearningmastery.com",
+        "website": "https://machinelearningmastery.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=machinelearningmastery.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=machinelearningmastery.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Education"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Data Science"
+        }
+      ]
+    },
+    {
+      "slug": "china-s-ai-propelled-growth-may-take-a-blue-wave-hit-be-says",
+      "title": "China’s AI-Propelled Growth May Take a Blue Wave Hit, BE Says",
+      "dek": "China could face “severe economic headwinds” if the Democratic Party’s sweeping midterm victory slows the US’s artificial intelligence buildout, Bloomberg Economics says — just as tech stocks across Asia slump on tech worries.",
+      "aiSummary": "Bloomberg Economics states that China may encounter severe economic challenges if a Democratic midterm victory in the US leads to a slowdown in the country's artificial intelligence development. This potential impact comes at a time when Asian technology stocks are already declining due to broader concerns in the tech sector.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-06/china-s-ai-propelled-growth-may-take-a-blue-wave-hit-be-says",
+      "category": "Economics",
+      "filterTags": [
+        "China",
+        "AI",
+        "Bloomberg Economics",
+        "US Midterms",
+        "Tech Stocks"
+      ],
+      "publishedAt": "2026-11-06T01:58:49+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Economics"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Geopolitics"
+        }
+      ]
+    },
+    {
+      "slug": "v0-40-15",
+      "title": "v0.40.15",
+      "dek": "MiMo V2.6 \n Xiaomi MiMo's  mimo-v2.6 , a 9B model built for code and agent workflows, is now supported in Ollama. \n ollama run mimo-v2.6 \n AutoTrust decision models \n AutoTrust  decision models read text and return choices, yes or no probabilities, and ratings for the questions y",
+      "aiSummary": "The MiMo V2.6 9B model, designed for code and agent workflows, has been added to Ollama. Users can run it with `ollama run mimo-v2.6`. AutoTrust decision models can interpret text and provide yes/no probabilities and ratings.",
+      "articleUrl": "https://github.com/ollama/ollama/releases/tag/v0.40.15",
+      "category": "AI",
+      "filterTags": [
+        "MiMo",
+        "Mimo-v2.6",
+        "Ollama",
+        "AutoTrust",
+        "Xiaomi",
+        "9B model"
+      ],
+      "publishedAt": "2026-11-06T01:47:18+00:00",
+      "publisher": {
+        "name": "ollama",
+        "domain": "github.com",
+        "website": "https://github.com/ollama/ollama",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "house-g-o-p-leaders-ask-nvidia-s-huang-to-speak-in-closed-door-briefing",
+      "title": "House G.O.P. Leaders Ask Nvidia’s Huang to Speak in Closed-Door Briefing",
+      "dek": "The New York Times reported last week that Mr. Huang had a close relationship with an executive that U.S. officials determined was funneling information to Chinese intelligence.",
+      "aiSummary": "House GOP leaders have asked Nvidia CEO Jensen Huang to speak at a closed‑door briefing. The request follows a New York Times report that Huang had a close relationship with an executive who was found by U.S. officials to be passing information to Chinese intelligence.",
+      "articleUrl": "https://www.nytimes.com/2026/11/05/technology/house-republicans-nvidia-jensen-huang-china.html",
+      "category": "Politics",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Chinese intelligence",
+        "U.S. officials"
+      ],
+      "publishedAt": "2026-11-06T01:10:46+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "National Security"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "openai-is-stepping-back-from-ndas-for-data-center-projects",
+      "title": "OpenAI is stepping back from NDAs for data center projects",
+      "dek": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public o",
+      "aiSummary": "Following midterm elections where voters expressed opposition to data center expansion, OpenAI announced new commitments to local communities. The company stated it will no longer use non-disclosure agreements (NDAs) with public officials regarding its data center projects.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "Data Centers",
+        "NDAs"
+      ],
+      "publishedAt": "2026-11-06T00:37:56+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "Corporate Governance"
+        }
+      ]
+    },
+    {
+      "slug": "v1-14-0-dev19",
+      "title": "v1.14.0.dev19",
+      "dek": "Langflow nightly v1.14.0.dev19",
+      "aiSummary": "Langflow has released a new nightly build, version 1.14.0.dev19. This update is part of the project's ongoing development cycle.",
+      "articleUrl": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev19",
+      "category": "Software Development",
+      "filterTags": [
+        "Langflow"
+      ],
+      "publishedAt": "2026-11-06T00:26:23+00:00",
+      "publisher": {
+        "name": "langflow-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langflow-ai/langflow",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "airbnb-is-working-on-an-ai-travel-agent",
+      "title": "Airbnb is working on an AI travel agent",
+      "dek": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or sche",
+      "aiSummary": "Airbnb announced it will launch an AI travel agent in the first half of 2027 to help users plan and book trips. The company disclosed this plan in its Q3 2026 earnings shareholder letter. The agent will handle routine tasks such as restaurant reservations.",
+      "articleUrl": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+      "category": "AI",
+      "filterTags": [
+        "Airbnb",
+        "AI agent",
+        "travel agent"
+      ],
+      "publishedAt": "2026-11-06T00:06:12+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Travel"
+        },
+        {
+          "name": "Consumer Services"
+        }
+      ]
+    },
+    {
+      "slug": "the-engine-parts-that-fight-the-laws-of-the-universe",
+      "title": "The engine parts that 'fight the laws of the universe'",
+      "dek": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
+      "aiSummary": "Investment in jet turbine blade production has increased sharply. These blades are among the most challenging components to manufacture in jet engines.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
+      "category": "Aerospace",
+      "filterTags": [
+        "jet turbine blades",
+        "jet engine"
+      ],
+      "publishedAt": "2026-11-06T00:06:06+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Aerospace"
+        },
+        {
+          "name": "Manufacturing"
+        }
+      ]
+    },
+    {
+      "slug": "china-s-block-on-softbank-deal-fires-the-starting-gun-on-the-robot-wars",
+      "title": "China’s block on SoftBank deal fires the starting gun on the robot wars",
+      "dek": "Beijing’s interventionism reflects the rising global rivalry on all things AI",
+      "aiSummary": "Beijing's decision to block a deal involving SoftBank signals a shift toward greater interventionism in the technology sector. This move reflects the intensifying global rivalry surrounding artificial intelligence and robotics.",
+      "articleUrl": "https://www.ft.com/content/77b31f52-0485-414b-be6a-198d71fabc1a?syn-25a6b1a6=1",
+      "category": "AI",
+      "filterTags": [
+        "SoftBank",
+        "China",
+        "Beijing",
+        "AI",
+        "Robotics"
+      ],
+      "publishedAt": "2026-11-06T00:01:01+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Geopolitics"
+        },
+        {
+          "name": "Robotics"
+        }
+      ]
+    },
+    {
+      "slug": "v1-108-1",
+      "title": "v1.108.1",
+      "dek": "Verify Docker Image Signature \n All LiteLLM Docker images are signed with  cosign . This release is signed with the key introduced in  commit  e82a3c6 . \n Verify using the pinned commit hash (recommended): \n A commit hash is cryptographically immutable, so this is the strongest w",
+      "aiSummary": "The v1.108.1 release of LiteLLM includes Docker images signed with cosign, using a key introduced in commit e82a3c6. Users are advised to verify the signature with the pinned commit hash, which provides cryptographic immutability.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.108.1",
+      "category": "Security",
+      "filterTags": [
+        "LiteLLM",
+        "Docker",
+        "cosign",
+        "commit hash"
+      ],
+      "publishedAt": "2026-11-05T23:42:04+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Containerization"
+        }
+      ]
+    },
+    {
+      "slug": "jim-cramer-explains-why-no-ai-stock-seems-safe-from-the-market-carnage",
+      "title": "Jim Cramer explains why no AI stock seems safe from the market carnage",
+      "dek": "CNBC’s Jim Cramer said AI stocks are becoming increasingly difficult to value.",
+      "aiSummary": "CNBC's Jim Cramer stated that artificial intelligence stocks are becoming increasingly difficult to value. He explained that this valuation challenge makes them susceptible to market downturns, suggesting no AI stock is currently safe from potential losses.",
+      "articleUrl": "https://www.cnbc.com/2026/11/05/jim-cramer-ai-stocks-data-center-uncertainty.html",
+      "category": "Finance",
+      "filterTags": [
+        "Jim Cramer",
+        "CNBC",
+        "AI stocks"
+      ],
+      "publishedAt": "2026-11-05T23:25:04+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "jim-cramer-says-the-ai-sell-off-isn-t-over-but-it-isn-t-another-dot-com-crash",
+      "title": "Jim Cramer says the AI sell-off isn't over, but it isn't another dot-com crash",
+      "dek": "Cramer warned that the sell-off in AI stocks likely has further to run.",
+      "aiSummary": "Jim Cramer cautioned that the drop in AI-related shares is likely to continue. He emphasized that the current downturn is not comparable to the dot-com crash.",
+      "articleUrl": "https://www.cnbc.com/2026/11/05/jim-cramer-ai-stocks-sell-off.html",
+      "category": "Finance",
+      "filterTags": [
+        "AI",
+        "stocks"
+      ],
+      "publishedAt": "2026-11-05T23:17:51+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Investing"
+        }
+      ]
+    },
+    {
+      "slug": "google-releases-gemini-omni-1-2-flash-15-second-ai-video-at-0-07-per-second",
+      "title": "Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second",
+      "dek": "Google released Gemini Omni 1.2 Flash, a video generation and editing model with native 15-second clips, multi-turn conversational editing and a 30% price cut to $0.07 per second of 720p video. \n The post  Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Sec",
+      "aiSummary": "Google has released Gemini Omni 1.2 Flash, a video generation and editing model capable of producing native 15-second clips. The update features multi-turn conversational editing and reduces the cost to $0.07 per second for 720p video, representing a 30% price cut.",
+      "articleUrl": "https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/",
+      "category": "AI",
+      "filterTags": [
+        "Google",
+        "Gemini Omni 1.2 Flash",
+        "AI Video",
+        "720p"
+      ],
+      "publishedAt": "2026-11-05T22:58:21+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Generative Media"
+        }
+      ]
+    },
+    {
+      "slug": "taking-stock-of-tumbling-stocks",
+      "title": "Taking stock of tumbling stocks",
+      "dek": "Stocks fall as the post-midterm bubble pops",
+      "aiSummary": "Stocks are falling as the post‑midterm bubble pops. The market is experiencing a downturn after the recent elections. Investors are reacting to the collapse of the bubble.",
+      "articleUrl": "https://www.ft.com/content/77afb479-14ce-4ede-80a6-cc10eb5d9ef4?syn-25a6b1a6=1",
+      "category": "Finance",
+      "filterTags": [
+        "stocks",
+        "post-midterm bubble"
+      ],
+      "publishedAt": "2026-11-05T21:40:47+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Market"
+        }
+      ]
+    },
+    {
+      "slug": "cult-fit-builds-operational-muscle-with-codex",
+      "title": "Cult.fit builds operational muscle with Codex",
+      "dek": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+      "aiSummary": "Cult.fit is leveraging Codex to enable teams across various functions to build tools, accelerate development, and transform work processes. By integrating Codex, the company aims to streamline operations and improve efficiency.",
+      "articleUrl": "https://openai.com/index/cultfit-builds-with-codex",
+      "category": "AI",
+      "filterTags": [
+        "Cult.fit",
+        "Codex"
+      ],
+      "publishedAt": "2026-11-05T20:00:00+00:00",
+      "publisher": {
+        "name": "OpenAI",
+        "domain": "openai.com",
+        "website": "https://openai.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Enterprise Software"
+        }
+      ]
+    },
+    {
+      "slug": "australian-universities-are-creating-ai-native-graduates",
+      "title": "Australian universities are creating AI-native graduates",
+      "dek": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+      "aiSummary": "Australian universities are increasing access to ChatGPT and integrating AI into their curricula. This effort aims to equip students with skills needed for an AI-driven job market.",
+      "articleUrl": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "category": "Education",
+      "filterTags": [
+        "ChatGPT"
+      ],
+      "publishedAt": "2026-11-05T17:00:00+00:00",
+      "publisher": {
+        "name": "OpenAI",
+        "domain": "openai.com",
+        "website": "https://openai.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Education"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Workforce Development"
+        }
+      ]
+    },
+    {
+      "slug": "formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit",
+      "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
+      "dek": "AI agents can generate code at a scale that’s hard for humans to review line-by-line. PDD Kit helps ensure the code is doing what the developer intended by creating formal specifications and testing against them. It converts developer intent into a Verus specification, proves AI-",
+      "aiSummary": "PDD Kit addresses the challenge of reviewing large volumes of AI-generated code by creating formal specifications from developer intent. It converts this intent into a Verus specification and tests the code against it to ensure the application behaves as intended.",
+      "articleUrl": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
+      "category": "Software Engineering",
+      "filterTags": [
+        "PDD Kit",
+        "Verus",
+        "Formal Verification",
+        "AI Agents"
+      ],
+      "publishedAt": "2026-11-05T16:00:00+00:00",
+      "publisher": {
+        "name": "Microsoft Research",
+        "domain": "microsoft.com",
+        "website": "https://www.microsoft.com/en-us/research/",
+        "logoUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2024/07/About-page-promo_1066x600.jpg",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "merge-builds-product-and-business-tools-with-openai-technology",
+      "title": "Merge builds product and business tools with OpenAI technology",
+      "dek": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+      "aiSummary": "Merge employs GPT-6 Astra, ChatGPT, and Codex to analyze product code and aid marketing efforts. Additionally, its teams use AI for scheduling executive dinners and drafting sales updates.",
+      "articleUrl": "https://openai.com/index/merge-builds-with-openai",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Merge",
+        "OpenAI",
+        "GPT-6 Astra",
+        "ChatGPT",
+        "Codex"
+      ],
+      "publishedAt": "2026-11-05T08:00:00+00:00",
+      "publisher": {
+        "name": "OpenAI",
+        "domain": "openai.com",
+        "website": "https://openai.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Marketing"
+        },
+        {
+          "name": "Business Operations"
+        }
+      ]
+    }
+  ]
+}
