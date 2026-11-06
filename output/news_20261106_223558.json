@@ -1,0 +1,1736 @@
+{
+  "news": [
+    {
+      "slug": "spacex-says-google-exec-don-harrison-has-resigned-from-its-board",
+      "title": "SpaceX says Google exec Don Harrison has resigned from its board",
+      "dek": "SpaceX announced that Don Harrison, a Google executive, has resigned from the company's board of directors.",
+      "aiSummary": "SpaceX has announced the resignation of Don Harrison from its board of directors. Harrison is identified as an executive at Google.",
+      "articleUrl": "https://www.cnbc.com/2026/11/06/tesdonald-harrison.html",
+      "category": "Corporate Governance",
+      "filterTags": [
+        "SpaceX",
+        "Google",
+        "Don Harrison"
+      ],
+      "publishedAt": "2026-11-06T22:30:22+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Corporate Governance"
+        },
+        {
+          "name": "Aerospace"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "openai-will-keep-investing-in-ai-data-centers-despite-election-results-cfo-tells-cnbc",
+      "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
+      "dek": "Voters across the country on Tuesday voiced their support for candidates who have pledged to place restrictions on data center development.",
+      "aiSummary": "OpenAI's Chief Financial Officer stated that the company will maintain its investment in AI data centers despite recent election results. This decision comes as voters have expressed support for candidates who promise to limit data center development.",
+      "articleUrl": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "CNBC",
+        "AI data centers"
+      ],
+      "publishedAt": "2026-11-06T22:25:58+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "Politics"
+        }
+      ]
+    },
+    {
+      "slug": "us-stocks-recover-after-tech-rout",
+      "title": "US stocks recover after tech rout",
+      "dek": "Tech-heavy Nasdaq 100 rises 1.4% following day of turmoil",
+      "aiSummary": "US stocks recovered following a period of market turmoil. The tech-heavy Nasdaq 100 index rose by 1.4% after a day of volatility.",
+      "articleUrl": "https://www.ft.com/content/642b32dc-e3a1-4df8-ae91-5c84bdeb89e0?syn-25a6b1a6=1",
+      "category": "Markets",
+      "filterTags": [
+        "Nasdaq 100",
+        "US stocks",
+        "Tech"
+      ],
+      "publishedAt": "2026-11-06T22:22:05+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Markets"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "can-ai-self-improvement-overcome-diminishing-returns",
+      "title": "Can AI self-improvement overcome diminishing returns?",
+      "dek": "Can AI improve itself enough to beat diminishing returns?",
+      "aiSummary": "",
+      "articleUrl": "https://www.rameznaam.com/p/ai-rsi-isnt-leading-to-super-intelligence",
+      "category": "AI",
+      "filterTags": [
+        "AI"
+      ],
+      "publishedAt": "2026-11-06T22:20:04+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "beyond-code-generation-a-developer-s-guide-to-agentic-engineering",
+      "title": "Beyond code generation: A developer’s guide to agentic engineering",
+      "dek": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. \n The post  Beyond code generation: A developer’s guide to agentic engineering  ap",
+      "aiSummary": "The article explains that while code generation tools like GitHub Copilot speed up writing code, they don't reduce the surrounding work. It outlines how developers can use Copilot to plan, write, review, and debug production issues, and highlights tasks that still require human judgment.",
+      "articleUrl": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
+      "category": "AI",
+      "filterTags": [
+        "GitHub Copilot",
+        "agentic engineering"
+      ],
+      "publishedAt": "2026-11-06T22:15:59+00:00",
+      "publisher": {
+        "name": "GitHub Blog",
+        "domain": "github.blog",
+        "website": "https://github.blog",
+        "logoUrl": "https://github.blog/wp-content/uploads/2019/01/cropped-github-favicon-512.png?fit=180%2C180",
+        "faviconUrl": "https://github.githubassets.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "v1-108-2",
+      "title": "v1.108.2",
+      "dek": "Verify Docker Image Signature \n All LiteLLM Docker images are signed with  cosign . This release is signed with the key introduced in  commit  e82a3c6 . \n Verify using the pinned commit hash (recommended): \n A commit hash is cryptographically immutable, so this is the strongest w",
+      "aiSummary": "LiteLLM has released version 1.108.2, which includes Docker images signed using cosign. The release is signed with a specific key introduced in commit e82a3c6, and users are advised to verify the signature using the pinned commit hash for the strongest security assurance.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.108.2",
+      "category": "DevOps",
+      "filterTags": [
+        "LiteLLM",
+        "Docker",
+        "cosign",
+        "e82a3c6"
+      ],
+      "publishedAt": "2026-11-06T22:07:43+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "microsoft-winding-down-oracle-deal-to-rent-ai-cloud-capacity",
+      "title": "Microsoft Winding Down Oracle Deal to Rent AI Cloud Capacity",
+      "dek": "Microsoft is ending its agreement with Oracle to lease AI cloud resources.",
+      "aiSummary": "Microsoft is terminating its deal with Oracle to rent AI cloud capacity. The move signals a shift in how the company sources its artificial intelligence infrastructure.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity",
+      "category": "Cloud Computing",
+      "filterTags": [
+        "Microsoft",
+        "Oracle",
+        "AI Cloud"
+      ],
+      "publishedAt": "2026-11-06T21:51:21+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Corporate Strategy"
+        }
+      ]
+    },
+    {
+      "slug": "measuring-how-ai-agents-handle-everyday-wet-lab-science",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "dek": "Evaluating the performance of AI agents in routine laboratory experiments",
+      "aiSummary": "The article discusses the assessment of AI agents' capabilities in performing standard wet-lab scientific tasks. It focuses on measuring how these systems handle the practical aspects of everyday laboratory work.",
+      "articleUrl": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/",
+      "category": "AI",
+      "filterTags": [
+        "AI agents",
+        "wet-lab science"
+      ],
+      "publishedAt": "2026-11-06T21:51:16+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Scientific Research"
+        }
+      ]
+    },
+    {
+      "slug": "big-take-the-new-ai-trade-is-fogo",
+      "title": "Big Take: The New AI Trade Is FOGO",
+      "dek": "Wall Street’s AI rout sent US and then Asian markets tumbling, raising fresh questions about the sustainability of the global AI boom and where the next opportunities lie. (Source: Bloomberg)",
+      "aiSummary": "A recent sell-off in AI stocks on Wall Street caused US and Asian markets to decline. This market movement has raised concerns about the sustainability of the global AI boom and prompted investors to look for new opportunities.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-11-06/big-take-the-new-ai-trade-is-fogo-video",
+      "category": "Finance",
+      "filterTags": [
+        "AI",
+        "Wall Street",
+        "Bloomberg"
+      ],
+      "publishedAt": "2026-11-06T21:42:03+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "three-men-charged-in-us-with-using-ai-to-impersonate-ceos-and-steal-millions",
+      "title": "Three men charged in US with using AI to impersonate CEOs and steal millions",
+      "dek": "Men allegedly impersonated voices and images of executives to convince employees to send large payments Three foreign nationals were arrested and charged with using AI to allegedly impersonate corporate CEOs and attorneys to steal over $100m, according to an indictment that was n",
+      "aiSummary": "Three foreign nationals have been arrested and charged in the United States for allegedly using AI to impersonate corporate CEOs and attorneys. The indictment states that the defendants used these fabricated voices and images to trick employees into sending payments, resulting in theft exceeding $100 million.",
+      "articleUrl": "https://www.theguardian.com/us-news/2026/nov/06/ai-ceo-impersonation-theft",
+      "category": "Cybersecurity",
+      "filterTags": [
+        "AI",
+        "Voice Impersonation",
+        "CEO Fraud",
+        "US Indictment"
+      ],
+      "publishedAt": "2026-11-06T21:20:49+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Financial Crime"
+        }
+      ]
+    },
+    {
+      "slug": "openai-bugging-suspect-alfozan-pleads-not-guilty",
+      "title": "OpenAI bugging suspect Alfozan pleads not guilty",
+      "dek": "Saudi national Abdulrahman Alfozan is charged with planting a recording device in a conference room at artificial intelligence giant OpenAI.",
+      "aiSummary": "Saudi national Abdulrahman Alfozan has pleaded not guilty to charges of planting a recording device in an OpenAI conference room. He is suspected of attempting to bug the artificial intelligence company's facilities.",
+      "articleUrl": "https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "Abdulrahman Alfozan",
+        "Surveillance"
+      ],
+      "publishedAt": "2026-11-06T21:15:47+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Legal"
+        }
+      ]
+    },
+    {
+      "slug": "several-democrats-renew-calls-for-datacenter-pauses-after-blue-wave",
+      "title": "Several Democrats renew calls for datacenter pauses after blue wave",
+      "dek": "Tech industry fears delays to its multi-trillion dollar infrastructure buildout meant to power artificial intelligence  Several newly elected Democrats and Senator Bernie Sanders have renewed calls for datacenter moratoriums in the days after the US midterm elections. The  sweepi",
+      "aiSummary": "Following the US midterm elections, several newly elected Democrats and Senator Bernie Sanders have called for a pause on datacenter construction. The tech industry is concerned that these moratoriums could delay the massive infrastructure buildout required to support artificial intelligence.",
+      "articleUrl": "https://www.theguardian.com/us-news/2026/nov/06/democrats-renew-calls-for-datacenter-pauses",
+      "category": "AI",
+      "filterTags": [
+        "Datacenters",
+        "AI",
+        "Bernie Sanders",
+        "US Midterm Elections"
+      ],
+      "publishedAt": "2026-11-06T21:14:46+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "ai-stocks-climb-after-trillions-wiped-from-market-values",
+      "title": "AI stocks climb after trillions wiped from market values",
+      "dek": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+      "aiSummary": "Investors had previously sold off technology stocks due to fears that a Democratic election victory would slow down AI development. However, AI-related stocks have now climbed in value after trillions of dollars were wiped from the broader market.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "category": "Finance",
+      "filterTags": [
+        "AI",
+        "Tech stocks",
+        "Market values"
+      ],
+      "publishedAt": "2026-11-06T21:06:25+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-to-press-ahead-with-ipo-targeting-1-5tn-valuation",
+      "title": "Anthropic to press ahead with IPO targeting $1.5tn valuation",
+      "dek": "Claude maker intends to list before Thanksgiving despite brutal tech rout",
+      "aiSummary": "Anthropic, the developer of the Claude AI model, plans to proceed with its Initial Public Offering (IPO) despite a recent downturn in the tech sector. The company targets a valuation of $1.5 trillion and intends to list its shares before Thanksgiving.",
+      "articleUrl": "https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452?syn-25a6b1a6=1",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "Claude",
+        "IPO"
+      ],
+      "publishedAt": "2026-11-06T21:00:09+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "openai-completes-11-billion-portion-of-funding-at-1-25-trillion-value",
+      "title": "OpenAI Completes $11 Billion Portion of Funding at $1.25 Trillion Value",
+      "dek": "OpenAI has closed on new funding of roughly $11 billion, the initial part of a round that values the company at $1.25 trillion, according to people familiar with the matter.The funding was wired to the company as of Friday, said the people, who spoke on condition of anonymity as ",
+      "aiSummary": "OpenAI has completed the initial portion of a new funding round, raising approximately $11 billion. This transaction values the company at $1.25 trillion, with the funds wired to the company as of Friday.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-06/openai-completes-11-billion-portion-of-funding-at-1-25-trillion-value",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "Funding",
+        "Valuation"
+      ],
+      "publishedAt": "2026-11-06T20:58:41+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Venture Capital"
+        }
+      ]
+    },
+    {
+      "slug": "brookfield-ceo-says-infrastructure-is-growing-fastest",
+      "title": "Brookfield CEO Says Infrastructure Is Growing Fastest",
+      "dek": "Brookfield Asset Management raised $25 billion in the third quarter, driven by credit and infrastructure, as the money manager positions itself as a key player funding the build-out of artificial intelligence. He speaks to Bloomberg's Dani Burger.  (Source: Bloomberg)",
+      "aiSummary": "Brookfield Asset Management raised $25 billion in the third quarter, with growth driven by credit and infrastructure investments. The firm is positioning itself as a major financier for the development of artificial intelligence infrastructure.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-11-06/brookfield-ceo-says-infrastructure-is-growing-fastest-video",
+      "category": "Finance",
+      "filterTags": [
+        "Brookfield Asset Management",
+        "Infrastructure",
+        "Artificial Intelligence",
+        "Credit"
+      ],
+      "publishedAt": "2026-11-06T20:57:06+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "ex-openai-employee-accused-of-spying-pleads-not-guilty",
+      "title": "Ex-OpenAI employee accused of spying pleads not guilty",
+      "dek": "Abdulrahman Alfozan, a Saudi Arabian national, was arrested last month after a bug was discovered in the AI lab’s office",
+      "aiSummary": "Abdulrahman Alfozan, a Saudi national, was arrested last month after a bug was discovered in an AI lab’s office. He is a former OpenAI employee accused of spying and has pleaded not guilty.",
+      "articleUrl": "https://www.ft.com/content/daee9cd2-3477-4fcc-859f-46acb9fdfbd9?syn-25a6b1a6=1",
+      "category": "Security",
+      "filterTags": [
+        "OpenAI",
+        "AI"
+      ],
+      "publishedAt": "2026-11-06T20:47:31+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Legal"
+        }
+      ]
+    },
+    {
+      "slug": "b12179",
+      "title": "b12179",
+      "dek": "hexagon: conv_2d optimizations and support for conv_3d ( #31814 ) \n \n hexagon: Generalization of CONV_2D implementation for CONV_3D \n \n \n New op HTP_OP_CONV_3D is wired through htp-ops.h, main.c (shares op_conv_2d) and the op remap in htp-kparams.cpp. \n conv_3d runs on the existi",
+      "aiSummary": "The update introduces optimizations for 2D convolution and adds support for 3D convolution in the Hexagon architecture. A new operation, HTP_OP_CONV_3D, is integrated into the codebase by sharing the existing 2D convolution implementation and updating relevant headers and remapping files.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12179",
+      "category": "Hardware",
+      "filterTags": [
+        "Hexagon",
+        "conv_2d",
+        "conv_3d",
+        "HTP_OP_CONV_3D",
+        "htp-ops.h",
+        "htp-kparams.cpp"
+      ],
+      "publishedAt": "2026-11-06T20:47:14+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Embedded Systems"
+        }
+      ]
+    },
+    {
+      "slug": "f-a-a-to-phase-out-floppy-disks-in-air-traffic-control-towers",
+      "title": "F.A.A. to Phase Out Floppy Disks in Air Traffic Control Towers",
+      "dek": "Decades after the computer industry moved on, federal officials plan to finally ground the once-vaunted tech relic at the nation’s air traffic control centers.",
+      "aiSummary": "Federal officials plan to discontinue the use of floppy disks in air traffic control centers, ending a technology that has been phased out in the broader computer industry for decades. The move reflects the FAA's effort to modernize its infrastructure and reduce reliance on outdated storage media. Floppy disks, once common in aviation systems, will be replaced by more current technologies.",
+      "articleUrl": "https://www.nytimes.com/2026/11/06/us/faa-floppy-disks-atc-2028.html",
+      "category": "Aviation",
+      "filterTags": [
+        "FAA",
+        "floppy disks",
+        "air traffic control"
+      ],
+      "publishedAt": "2026-11-06T20:45:56+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Aviation"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Regulation"
+        }
+      ]
+    },
+    {
+      "slug": "v0-44-2",
+      "title": "v0.44.2",
+      "dek": "ComfyUI v0.44.2",
+      "aiSummary": "ComfyUI v0.44.2 has been released. The new version is now available.",
+      "articleUrl": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.44.2",
+      "category": "Software",
+      "filterTags": [
+        "ComfyUI"
+      ],
+      "publishedAt": "2026-11-06T20:37:56+00:00",
+      "publisher": {
+        "name": "comfyanonymous",
+        "domain": "github.com",
+        "website": "https://github.com/comfyanonymous/ComfyUI",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "all-the-latest-updates-on-ai-data-centers",
+      "title": "All the latest updates on AI data centers",
+      "dek": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and th",
+      "aiSummary": "Large-scale data centers serve as the essential physical infrastructure for tech companies' AI ambitions. However, the rapid expansion of these energy-intensive facilities has sparked global disputes concerning their effects on power grids, utility costs, and local communities.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Data Centers",
+        "Power Grids",
+        "Utilities"
+      ],
+      "publishedAt": "2026-11-06T20:02:22+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "Energy"
+        }
+      ]
+    },
+    {
+      "slug": "google-s-eyewear-partners-can-t-keep-a-lid-on-its-smart-glasses-plans",
+      "title": "Google's eyewear partners can't keep a lid on its smart glasses plans",
+      "dek": "Gentle Monster shared that its \"Intelligent Eyewear\" will be available to pre-order on November 12.",
+      "aiSummary": "Gentle Monster announced that its Intelligent Eyewear will be available for pre-order starting November 12. The company said the new line will feature advanced smart glasses technology. Customers can place orders online beginning on the release date.",
+      "articleUrl": "https://www.engadget.com/2309631/googles-eyewear-partners-cant-keep-a-lid-on-its-smart-glasses-plans/",
+      "category": "Wearables",
+      "filterTags": [
+        "Gentle Monster",
+        "Intelligent Eyewear",
+        "smart glasses"
+      ],
+      "publishedAt": "2026-11-06T19:45:23+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Wearables"
+        },
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "the-pragmatic-summit-2027",
+      "title": "The Pragmatic Summit 2027",
+      "dek": "The Summit is back in San Francisco, for the second year, and registrations are open for February 10, 2027",
+      "aiSummary": "The Pragmatic Summit 2027 is returning to San Francisco for its second year. Registration opens on February 10, 2027.",
+      "articleUrl": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-summit-2027",
+      "category": "Events",
+      "filterTags": [
+        "Pragmatic Summit",
+        "San Francisco"
+      ],
+      "publishedAt": "2026-11-06T19:39:15+00:00",
+      "publisher": {
+        "name": "Pragmatic Engineer",
+        "domain": "newsletter.pragmaticengineer.com",
+        "website": "https://newsletter.pragmaticengineer.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=newsletter.pragmaticengineer.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=newsletter.pragmaticengineer.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Events"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "swipeblocked-catalogs-the-phrases-apple-s-keyboard-won-t-suggest",
+      "title": "Swipeblocked catalogs the phrases Apple's keyboard won't suggest",
+      "dek": "Your iPhone's reluctance to suggest certain words runs the gamut from bodily functions all the way to Santa Claus, revealing some interesting boundaries in Apple's keyboard dictionary. iPhone keyboard's hidden word list revealed by Swipeblocked A new website, Swipeblocked, wants ",
+      "aiSummary": "A website called Swipeblocked has compiled a list of phrases that Apple's iPhone keyboard does not suggest. The collection ranges from bodily functions to Santa Claus, highlighting the specific boundaries of Apple's keyboard dictionary.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/06/swipeblocked-catalogs-the-phrases-apples-keyboard-wont-suggest?utm_source=rss",
+      "category": "Mobile",
+      "filterTags": [
+        "Apple",
+        "iPhone",
+        "Swipeblocked",
+        "Keyboard"
+      ],
+      "publishedAt": "2026-11-06T19:31:50+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Mobile"
+        },
+        {
+          "name": "Consumer Tech"
+        }
+      ]
+    },
+    {
+      "slug": "activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam",
+      "title": "Activists break into building site of Microsoft datacentre in Amsterdam",
+      "dek": "Separate actions also take place outside fence and across Europe in backlash against impact of AI boom Activists have stormed the site of a Microsoft datacentre being built in Amsterdam, as the backlash to the social and environmental harms of the AI boom spreads across Europe. P",
+      "aiSummary": "Activists stormed the construction site of a Microsoft data center in Amsterdam. Similar protests are occurring outside fences and across Europe in response to the social and environmental concerns linked to the AI boom.",
+      "articleUrl": "https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam",
+      "category": "Technology",
+      "filterTags": [
+        "Microsoft",
+        "datacentre",
+        "AI"
+      ],
+      "publishedAt": "2026-11-06T18:51:37+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Activism"
+        },
+        {
+          "name": "Environment"
+        }
+      ]
+    },
+    {
+      "slug": "the-jury-s-still-out-on-who-and-what-a-touchscreen-macbook-pro-is-for",
+      "title": "The jury's still out on who and what a touchscreen MacBook Pro is for",
+      "dek": "As Apple's new  MacBook Pro  with PROLED XDR Display laptops go on sale, I'm still at a loss as to who these multi-thousand-dollar laptops are really for, and whether Apple even knows the answer to that question itself. Touchscreen laptops are here, whether they'll be used or not",
+      "aiSummary": "Apple has released a new MacBook Pro that includes a PROLED XDR display and a touchscreen. The author questions who the target audience is and whether Apple knows who will use it, noting the laptops are expensive and adoption is uncertain.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/06/the-jurys-still-out-on-who-and-what-a-touchscreen-macbook-pro-is-for?utm_source=rss",
+      "category": "Hardware",
+      "filterTags": [
+        "Apple",
+        "MacBook Pro",
+        "PROLED XDR Display",
+        "touchscreen"
+      ],
+      "publishedAt": "2026-11-06T18:49:30+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Display Technology"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "2026-election-breakdown-americans-vote-down-data-centers-ai-and-oligarchy",
+      "title": "2026 election breakdown: Americans vote down data centers, AI and oligarchy",
+      "dek": "Sophie Song, AI Now's Data Center Policy Fellow, joins Brian Merchant, Molly White, and Dave Karpf for a roundtable discussion about what the midterms mean for AI, data centers, and the tech industry. \n The post  2026 election breakdown: Americans vote down data centers, AI and o",
+      "aiSummary": "Sophie Song, an AI Now Data Center Policy Fellow, joins Brian Merchant, Molly White, and Dave Karpf for a roundtable discussion. The group analyzes the implications of the 2026 midterms for the AI sector, data center infrastructure, and the broader tech industry.",
+      "articleUrl": "https://ainowinstitute.org/news/2026-election-breakdown-americans-vote-down-data-centers-ai-and-oligarchy",
+      "category": "AI",
+      "filterTags": [
+        "AI Now",
+        "Data Centers",
+        "AI",
+        "Midterms",
+        "Tech Industry"
+      ],
+      "publishedAt": "2026-11-06T18:48:53+00:00",
+      "publisher": {
+        "name": "AI Now Institute",
+        "domain": "ainowinstitute.org",
+        "website": "https://ainowinstitute.org/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ainowinstitute.org&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ainowinstitute.org&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Technology Policy"
+        }
+      ]
+    },
+    {
+      "slug": "hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web",
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "dek": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "aiSummary": "Security researchers discovered that hundreds of servers were hosting the Artex penetration testing tool, and these servers were publicly exposed on the internet. This exposure gives anyone the ability to access the hacking tool.",
+      "articleUrl": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "category": "Security",
+      "filterTags": [
+        "Artex",
+        "penetration testing",
+        "AI"
+      ],
+      "publishedAt": "2026-11-06T18:44:38+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "Penetration Testing"
+        }
+      ]
+    },
+    {
+      "slug": "meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent",
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "dek": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+      "aiSummary": "Meta is adding new features to its Muse agents, including a new feature called Spaces. Spaces is intended to provide a new way for users to interact with the AI helpers.",
+      "articleUrl": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "category": "AI",
+      "filterTags": [
+        "Meta",
+        "Muse agents",
+        "Spaces"
+      ],
+      "publishedAt": "2026-11-06T18:44:20+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Collaboration"
+        },
+        {
+          "name": "Software"
+        }
+      ]
+    },
+    {
+      "slug": "free-chinese-ai-models-are-getting-scary-good-at-hacking",
+      "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+      "dek": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
+      "aiSummary": "An experiment testing AI models on simulated network breaches found that DeepSeek and GLM possess hacking capabilities close to those of OpenAI's advanced, non-public cyber model. The results indicate that free Chinese AI systems are rapidly closing the gap in offensive security skills.",
+      "articleUrl": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+      "category": "AI",
+      "filterTags": [
+        "DeepSeek",
+        "GLM",
+        "OpenAI",
+        "AI",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-06T18:43:43+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "why-the-us-midterms-sparked-an-ai-stock-selloff",
+      "title": "Why the US midterms sparked an AI stock selloff",
+      "dek": "Fears of more AI regulation appear to have sparked fear among investors, but  concerns about the industry have been growing for some time.",
+      "aiSummary": "Investors worried about increased AI regulation after the US midterms, leading to a selloff in AI stocks. The concerns over the industry have been building over time.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
+      "category": "Finance",
+      "filterTags": [
+        "AI",
+        "AI regulation",
+        "US midterms"
+      ],
+      "publishedAt": "2026-11-06T18:32:16+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Regulation"
+        }
+      ]
+    },
+    {
+      "slug": "meta-8217-s-muse-ai-can-create-custom-8216-spaces-8217-for-the-version-of-the-app-you-need-right-now",
+      "title": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
+      "dek": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse a",
+      "aiSummary": "Meta is introducing a new feature called 'spaces' within its Muse platform. This allows users to create customized, app-like experiences, such as shopping hubs or school dashboards, directly through an AI assistant. These personalized interfaces can be interacted with within the Muse application.",
+      "articleUrl": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+      "category": "AI",
+      "filterTags": [
+        "Meta",
+        "Muse AI",
+        "AI Assistant"
+      ],
+      "publishedAt": "2026-11-06T18:10:10+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software"
+        },
+        {
+          "name": "Personalization"
+        },
+        {
+          "name": "User Experience"
+        }
+      ]
+    },
+    {
+      "slug": "sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints",
+      "title": "SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints",
+      "dek": "Amazon SageMaker Inference now supports GPU partitioning with NVIDIA Multi-Instance GPU (MIG), which divides one GPU into hardware-isolated partitions so you can run a different model in each or take a right-sized fraction of a newer accelerator. This post shows how two optional ",
+      "aiSummary": "Amazon SageMaker Inference now supports GPU partitioning using NVIDIA Multi-Instance GPU (MIG), which splits a single GPU into hardware-isolated partitions. This feature allows users to run different models in separate partitions or utilize a right-sized fraction of newer accelerators.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints/",
+      "category": "Cloud Computing",
+      "filterTags": [
+        "Amazon SageMaker",
+        "NVIDIA",
+        "MIG",
+        "GPU"
+      ],
+      "publishedAt": "2026-11-06T18:01:00+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "AI Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "how-a-blue-wave-midterm-might-reshape-the-ai-industry",
+      "title": "How a Blue Wave midterm might reshape the AI industry",
+      "dek": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even ",
+      "aiSummary": "Democratic wins in the midterms may reshape the tech industry. Voters approved 41 data center measures, with most imposing restrictions on data center development.",
+      "articleUrl": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+      "category": "Technology",
+      "filterTags": [
+        "Data Center",
+        "AI"
+      ],
+      "publishedAt": "2026-11-06T18:00:00+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "a-new-matched-pair-of-apple-card-apple-pay-ads-have-popped-up",
+      "title": "A new matched pair of Apple Card & Apple Pay ads have popped up",
+      "dek": "Apple is pushing its financial services in a pair of new ads on YouTube. The first features a distracted therapist booking a vacation on her brand new Apple Card. The second called \" Out Run \" features a Kaiju attack, and the main character getting away, thanks to a quick gas pur",
+      "aiSummary": "Apple has launched a pair of new advertisements on YouTube promoting its financial services. The first ad depicts a therapist using a new Apple Card to book a vacation, while the second, titled 'Out Run,' shows a character escaping a Kaiju attack by quickly purchasing gas.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/06/a-new-matched-pair-of-apple-card-apple-pay-ads-have-popped-up?utm_source=rss",
+      "category": "Marketing",
+      "filterTags": [
+        "Apple",
+        "Apple Card",
+        "Apple Pay",
+        "YouTube"
+      ],
+      "publishedAt": "2026-11-06T17:53:28+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Marketing"
+        },
+        {
+          "name": "Fintech"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "android-is-getting-my-favorite-ios-tracking-feature-what-to-expect",
+      "title": "Android is getting my favorite iOS tracking feature – what to expect",
+      "dek": "‘Notify when left behind’ is making its way to Android – but to limited devices for now.",
+      "aiSummary": "The 'Notify when left behind' feature, which helps users keep track of their devices, is being rolled out to Android. However, this functionality will only be accessible on a restricted number of Android devices initially.",
+      "articleUrl": "https://www.zdnet.com/tech/android-find-hub-left-behind-upgrade/",
+      "category": "Mobile Technology",
+      "filterTags": [
+        "Android",
+        "iOS",
+        "Notify when left behind"
+      ],
+      "publishedAt": "2026-11-06T17:48:15+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Mobile Technology"
+        },
+        {
+          "name": "Operating Systems"
+        }
+      ]
+    },
+    {
+      "slug": "does-meta-think-we-can-t-read-meta-abandons-sketchy-commercial-terms-update",
+      "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+      "dek": "Meta won't force Facebook page owners to allow AI training on linked content.",
+      "aiSummary": "Meta has decided to abandon an update to its commercial terms that would have required Facebook page owners to permit the use of their linked content for AI training. This decision follows criticism regarding the clarity and implications of the proposed changes.",
+      "articleUrl": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
+      "category": "Social Media",
+      "filterTags": [
+        "Meta",
+        "Facebook",
+        "AI training"
+      ],
+      "publishedAt": "2026-11-06T17:43:02+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Social Media"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Legal & Compliance"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1794001789",
+      "title": "viable/strict/1794001789",
+      "dek": "[BE-week] Move GPU-using compiler tests out of GENERIC test classes (…",
+      "aiSummary": "During the BE-week, GPU-using compiler tests are being moved out of generic test classes. This change reorganizes the test structure for better management.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1794001789",
+      "category": "Software Testing",
+      "filterTags": [
+        "GPU",
+        "compiler tests",
+        "GENERIC",
+        "BE-week"
+      ],
+      "publishedAt": "2026-11-06T17:40:10+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Testing"
+        },
+        {
+          "name": "GPU Computing"
+        },
+        {
+          "name": "Compiler Development"
+        }
+      ]
+    },
+    {
+      "slug": "taxonomy-of-agentic-primitives-in-amazon-quick",
+      "title": "Taxonomy of agentic primitives in Amazon Quick",
+      "dek": "As we built Amazon Quick, its agents grew from answering questions to taking actions, and the same primitives kept getting rebuilt under different names. This post shares the taxonomy we converged on — triggers, agents, capabilities, and learned context — found by decomposing age",
+      "aiSummary": "The development of Amazon Quick revealed that its agents evolved from simple question-answering to performing actions, often requiring the same underlying components to be rebuilt under different names. The article presents a standardized taxonomy for these agentic primitives, identifying triggers, agents, capabilities, and learned context as the core elements derived from decomposing agent behavior.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick/",
+      "category": "AI",
+      "filterTags": [
+        "Amazon Quick",
+        "Agentic Primitives",
+        "AI Agents"
+      ],
+      "publishedAt": "2026-11-06T17:34:45+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Computing"
+        }
+      ]
+    },
+    {
+      "slug": "zyphra-zyfa-fp8-flashattention-for-amd-mi355x-up-to-1-76x-faster",
+      "title": "Zyphra ZYFA: FP8 FlashAttention for AMD MI355X, Up to 1.76x Faster",
+      "dek": "Zyphra released ZYFA, open-source FP8 and BF16 prefill attention kernels for AMD Instinct MI355X. On real model activations, its FP8 kernels run 1.16-1.76x faster than AMD’s AITER, with 62-78% lower error at head dimension 128. \n The post  Zyphra ZYFA: FP8 FlashAttention for AMD ",
+      "aiSummary": "Zyphra has launched ZYFA, a set of open-source FP8 and BF16 prefill attention kernels designed for AMD Instinct MI355X. These FP8 kernels demonstrate significant performance improvements, running 1.16 to 1.76 times faster than AMD’s AITER. Additionally, they achieve 62-78% lower error rates at a head dimension of 128.",
+      "articleUrl": "https://www.marktechpost.com/2026/11/06/zyphra-zyfa-fp8-flashattention-amd-mi355x/",
+      "category": "AI",
+      "filterTags": [
+        "Zyphra",
+        "ZYFA",
+        "FP8",
+        "FlashAttention",
+        "AMD",
+        "MI355X",
+        "BF16",
+        "AITER"
+      ],
+      "publishedAt": "2026-11-06T17:28:04+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Performance"
+        }
+      ]
+    },
+    {
+      "slug": "fox-wraps-up-its-22-billion-roku-deal",
+      "title": "Fox wraps up its $22 billion Roku deal",
+      "dek": "No Hannity on your home screen, at least for now.",
+      "aiSummary": "Fox has finalized its $22 billion acquisition of Roku. As a result, the Hannity program will not appear on the home screen of Roku devices for the time being.",
+      "articleUrl": "https://www.engadget.com/2309307/fox-wraps-up-its-dollar22-billion-roku-deal/",
+      "category": "Media",
+      "filterTags": [
+        "Fox",
+        "Roku",
+        "Hannity"
+      ],
+      "publishedAt": "2026-11-06T17:20:32+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Media"
+        },
+        {
+          "name": "Mergers & Acquisitions"
+        }
+      ]
+    },
+    {
+      "slug": "the-eu-accuses-tiktok-s-rabbit-hole-algorithm-of-breaching-its-content-rules",
+      "title": "The EU accuses TikTok's 'rabbit hole' algorithm of breaching its content rules",
+      "dek": "The bloc said the platform needs to change how the For You page works to help protect users' mental health.",
+      "aiSummary": "The EU accuses TikTok of breaching content rules. It says the platform must alter its For You page to better protect users' mental health.",
+      "articleUrl": "https://www.engadget.com/2309300/the-eu-accuses-tiktoks-rabbit-hole-algorithm-of-breaching-its-content-rules/",
+      "category": "Social Media",
+      "filterTags": [
+        "TikTok",
+        "EU",
+        "For You page"
+      ],
+      "publishedAt": "2026-11-06T17:17:14+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Social Media"
+        },
+        {
+          "name": "Regulation"
+        },
+        {
+          "name": "User Experience"
+        }
+      ]
+    },
+    {
+      "slug": "b12177",
+      "title": "b12177",
+      "dek": "cli : fix crash on invalid UTF-8 in prompt or files ( #31563 ) \n Assisted-by: Claude \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/64587236 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silicon (arm64, K",
+      "aiSummary": "The CLI of llama.cpp has been updated to prevent crashes when encountering invalid UTF-8 characters in prompts or input files. The fix addresses issue #31563, ensuring the program handles malformed UTF-8 gracefully.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12177",
+      "category": "Open Source",
+      "filterTags": [
+        "llama.cpp",
+        "ggml-org",
+        "macOS",
+        "Apple Silicon",
+        "UTF-8"
+      ],
+      "publishedAt": "2026-11-06T17:13:20+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Operating Systems"
+        }
+      ]
+    },
+    {
+      "slug": "serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate",
+      "title": "Serverless MCP server for AI agent data lake access on Amazon ECS Fargate",
+      "dek": "Learn how to build a serverless Model Context Protocol (MCP) server on Amazon ECS with AWS Fargate that gives AI agents secure, metadata-driven access to an enterprise data lake. Exposing a new dataset requires only a JSON file, with no per-dataset integration code.",
+      "aiSummary": "The article explains how to build a serverless Model Context Protocol (MCP) server using Amazon ECS and AWS Fargate to provide AI agents with secure, metadata-driven access to enterprise data lakes. This approach allows new datasets to be exposed simply by adding a JSON file, eliminating the need for specific integration code for each dataset.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/",
+      "category": "Cloud Computing",
+      "filterTags": [
+        "MCP",
+        "Amazon ECS",
+        "AWS Fargate",
+        "Serverless",
+        "AI Agents",
+        "Data Lake"
+      ],
+      "publishedAt": "2026-11-06T17:13:13+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Data Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "quoting-nilay-patel",
+      "title": "Quoting Nilay Patel",
+      "dek": "The products aren't good enough to sell people on the costs. \n You cannot tell people that you have to listen to the whine of a data center in their backyard for AI overviews and some of the most hilarious deep fake slop in history. \n It's not worth it. It just isn't worth it to ",
+      "aiSummary": "The provided text argues that current products do not justify their associated costs. It specifically highlights that the inconvenience of data centers for AI overviews and deep fakes is not worth the perceived benefits.",
+      "articleUrl": "https://simonwillison.net/2026/Nov/6/nilay-patel/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Nilay Patel",
+        "AI",
+        "Deepfake",
+        "Data Center"
+      ],
+      "publishedAt": "2026-11-06T17:13:12+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Product Evaluation"
+        }
+      ]
+    },
+    {
+      "slug": "thinking-machines-new-model-takes-the-lead-in-western-open-weight-ai",
+      "title": "Thinking Machines’ new model takes the lead in western open-weight AI",
+      "dek": "Another competitive model developed outside of China could change the open-weight landscape.",
+      "aiSummary": "Thinking Machines has released a new model that currently leads the ranking for Western open-weight AI. This development introduces a significant competitive alternative outside of China, potentially shifting the dynamics of the open-weight landscape.",
+      "articleUrl": "https://www.zdnet.com/innovation/thinking-machines-inkling-2-small-open-weight/",
+      "category": "AI",
+      "filterTags": [
+        "Thinking Machines",
+        "open-weight AI"
+      ],
+      "publishedAt": "2026-11-06T17:08:33+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "ai-is-the-new-dating-dealbreaker",
+      "title": "AI is the new dating dealbreaker",
+      "dek": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend. \"",
+      "aiSummary": "Irene, a 25-year-old analyst who recently moved to San Francisco, began using the dating app Hinge to meet new people. While swiping, she observed a recurring trend regarding how artificial intelligence affects user interactions and compatibility.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+      "category": "AI",
+      "filterTags": [
+        "Hinge",
+        "AI",
+        "Dating Apps"
+      ],
+      "publishedAt": "2026-11-06T17:00:00+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Consumer Tech"
+        },
+        {
+          "name": "Social Media"
+        }
+      ]
+    },
+    {
+      "slug": "b12176",
+      "title": "b12176",
+      "dek": "tests : qualify isnan and signbit with std:: ( #31791 ) \n \n tests : qualify isnan and signbit with std:: \n \n The unqualified calls rely on the C math.h names also being present in the \nglobal namespace, which is not the case for the NetBSD 11.99.9/x86_64 gcc \n14.4.0 build reporte",
+      "aiSummary": "The test suite attempts to qualify the math functions isnan and signbit with std::. Unqualified calls depend on the C math.h names being in the global namespace, which is missing on NetBSD 11.99.9/x86_64 with gcc 14.4.0. This causes build failures for that platform.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12176",
+      "category": "C++",
+      "filterTags": [
+        "isnan",
+        "signbit",
+        "std",
+        "C math.h",
+        "NetBSD",
+        "gcc"
+      ],
+      "publishedAt": "2026-11-06T16:43:44+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "C++"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Operating Systems"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1793998208-dynamo-escape-analysis-for-event-record-after-input-mutation-195573",
+      "title": "viable/strict/1793998208: dynamo: escape analysis for event record after input mutation (#195573)",
+      "dek": "Dynamo errors when an event is recorded on a stream that saw a graph input mutation: the mutation is applied via copy_() in the runtime epilogue after the graph executes, so a waiter on the event could miss it.  But the hazard needs an observer OUTSIDE the compiled region -- in-g",
+      "aiSummary": "Dynamo encounters errors when an event is recorded on a stream that has undergone a graph input mutation. The mutation is applied via copy_() in the runtime epilogue after graph execution, causing a waiter on the event to potentially miss it. The issue requires an observer outside the compiled region.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1793998208",
+      "category": "Software Engineering",
+      "filterTags": [
+        "Dynamo",
+        "copy_()",
+        "runtime epilogue",
+        "event record",
+        "stream"
+      ],
+      "publishedAt": "2026-11-06T16:37:57+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Runtime Systems"
+        },
+        {
+          "name": "Event-driven Architecture"
+        }
+      ]
+    },
+    {
+      "slug": "how-to-measure-ai-adoption-performance-and-roi-with-12-kpis",
+      "title": "How to Measure AI Adoption, Performance, and ROI With 12 KPIs",
+      "dek": "Includes a worked example with 50 users and $110,000 in first-year cost, plus baselines, targets, and ownership rules for every AI initiative. \n The post  How to Measure AI Adoption, Performance, and ROI With 12 KPIs  appeared first on  Towards Data Science .",
+      "aiSummary": "The article outlines twelve key performance indicators for evaluating AI adoption, performance, and ROI. It provides a practical example involving 50 users and an $110,000 first-year cost, while establishing baselines, targets, and ownership rules for AI initiatives.",
+      "articleUrl": "https://towardsdatascience.com/how-to-measure-ai-adoption-performance-and-roi-with-12-kpis/",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "KPIs",
+        "ROI",
+        "Towards Data Science"
+      ],
+      "publishedAt": "2026-11-06T16:30:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Business Strategy"
+        },
+        {
+          "name": "Data Science"
+        }
+      ]
+    }
+  ]
+}
