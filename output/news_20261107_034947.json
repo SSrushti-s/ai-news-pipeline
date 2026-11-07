@@ -1,0 +1,742 @@
+{
+  "news": [
+    {
+      "slug": "show-hn-backwords-let-ai-teach-you-how-to-speak-in-reverse",
+      "title": "Show HN: Backwords – Let AI teach you how to speak in reverse",
+      "dek": "Show HN: Backwords – Use AI to learn how to speak backwards",
+      "aiSummary": "",
+      "articleUrl": "https://backwords.greg.technology/",
+      "category": "AI",
+      "filterTags": [],
+      "publishedAt": "2026-11-07T03:39:46+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "b12182",
+      "title": "b12182",
+      "dek": "meta : raise the compute view limit for buffers with few tensors ( #31447 ) \n \n ggml-backend-meta : minimum number of compute views per buffer \n \n Assisted-by: Claude Opus 5.5 \n \n tests : revert the deepseek41 test model to 6 layers \n \n Assisted-by: Claude Opus 5.5 \n \n Website: \n",
+      "aiSummary": "This update raises the compute view limit for buffers with few tensors in the meta module. It also introduces a minimum number of compute views per buffer in ggml-backend-meta and reverts the deepseek41 test model to 6 layers.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12182",
+      "category": "Machine Learning",
+      "filterTags": [
+        "ggml",
+        "meta",
+        "deepseek41",
+        "Claude Opus 5.5"
+      ],
+      "publishedAt": "2026-11-07T03:35:00+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-954806c936ce2c0ca39b3c30a5e359b9111e2cfe",
+      "title": "trunk/954806c936ce2c0ca39b3c30a5e359b9111e2cfe",
+      "dek": "[inductor] test_flex_decoding: skip the pinned BLOCK_M=256 GQA cases …",
+      "aiSummary": "The provided text describes a code change in the inductor component. It specifically modifies the test_flex_decoding function to skip GQA cases where BLOCK_M is pinned to 256.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F954806c936ce2c0ca39b3c30a5e359b9111e2cfe",
+      "category": "Software Engineering",
+      "filterTags": [
+        "inductor",
+        "GQA",
+        "BLOCK_M",
+        "test_flex_decoding"
+      ],
+      "publishedAt": "2026-11-07T03:34:34+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "yc-backed-bron-ai-accused-of-using-lebron-s-name-and-likeness",
+      "title": "YC Backed Bron AI Accused of Using LeBron's Name and Likeness",
+      "dek": "A startup supported by Y Combinator is facing allegations that it improperly used the name and image of basketball star LeBron James.",
+      "aiSummary": "Bron AI, a company backed by Y Combinator, has been accused of utilizing LeBron James's name and likeness without authorization. The allegations suggest the startup is leveraging the athlete's identity for its brand or services.",
+      "articleUrl": "https://frontofficesports.com/article/lebron-james-demands-ai-betting-app-stop-using-his-likeness/",
+      "category": "Legal",
+      "filterTags": [
+        "Bron AI",
+        "Y Combinator",
+        "LeBron James",
+        "Right of Publicity"
+      ],
+      "publishedAt": "2026-11-07T03:34:25+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Startups"
+        },
+        {
+          "name": "Sports"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-5b3fe0a375c366d037ffa4d4675e87216e1b71aa",
+      "title": "trunk/5b3fe0a375c366d037ffa4d4675e87216e1b71aa",
+      "dek": "[c10] Migrate caffe2 callers of c10::starts_with/ends_with to std::st…",
+      "aiSummary": "The commit migrates Caffe2 callers from the custom c10::starts_with and c10::ends_with functions to their standard library equivalents. This change is part of a broader effort to align C10 string utilities with standard C++ practices.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F5b3fe0a375c366d037ffa4d4675e87216e1b71aa",
+      "category": "Open Source",
+      "filterTags": [
+        "Caffe2",
+        "C10",
+        "C++",
+        "PyTorch"
+      ],
+      "publishedAt": "2026-11-07T03:19:57+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-4388a2b38f3de7e15b696054130b8939318a296c-adding-anshul-and-pian-to-dtensor-files-codeowners-203862",
+      "title": "trunk/4388a2b38f3de7e15b696054130b8939318a296c: Adding Anshul and Pian to DTensor-files codeowners (#203862)",
+      "dek": "As per title \nPull Request resolved:  #203862 \nApproved by:  https://github.com/albanD",
+      "aiSummary": "A pull request was merged to add Anshul and Pian to the list of code owners for DTensor files. The change was approved by albanD and resolved issue #203862.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F4388a2b38f3de7e15b696054130b8939318a296c",
+      "category": "Open Source",
+      "filterTags": [
+        "DTensor",
+        "PyTorch",
+        "GitHub"
+      ],
+      "publishedAt": "2026-11-07T03:16:12+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "deepmind-ai-agents-find-two-weaknesses-in-legacy-1024-bit-rsa-cryptosystems",
+      "title": "DeepMind AI agents find two weaknesses in legacy 1024-bit RSA cryptosystems",
+      "dek": "DeepMind's AI systems identified two vulnerabilities in older 1024-bit RSA encryption systems.",
+      "aiSummary": "The provided text does not contain an article body, only a title. Therefore, no factual summary can be generated based on the description.",
+      "articleUrl": "https://twitter.com/pushmeet/status/2118752095859794390",
+      "category": "AI",
+      "filterTags": [
+        "DeepMind",
+        "RSA",
+        "AI agents",
+        "1024-bit"
+      ],
+      "publishedAt": "2026-11-07T03:07:49+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "ainews-anthropic-ipo-whither-now",
+      "title": "[AINews] Anthropic IPO: Whither Now?",
+      "dek": "November 6, 2026 — ARC Prize tests Inkling 2 Small, and Thinking Machines explains how it caught early checkpoints bypassing guardrails.",
+      "aiSummary": "The article discusses the implications of Anthropic's upcoming IPO. It also covers the ARC Prize testing of Inkling 2 Small and details how Thinking Machines identified early checkpoints that bypassed safety guardrails.",
+      "articleUrl": "https://latent.space/p/ainews-anthropic-ipo-whither-now/",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "ARC Prize",
+        "Inkling 2 Small",
+        "Thinking Machines"
+      ],
+      "publishedAt": "2026-11-07T03:04:53+00:00",
+      "publisher": {
+        "name": "Latent Space",
+        "domain": "latent.space",
+        "website": "https://www.latent.space/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Business"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "researchers-identify-suspicious-activity-on-kalshi-and-polymarket-before-times-siena-poll-release",
+      "title": "Researchers Identify Suspicious Activity on Kalshi and Polymarket Before Times/Siena Poll Release",
+      "dek": "A trader placed well-timed bets on Polymarket and Kalshi in two Senate races. It was unclear if the person had access to inside information or simply made good trades.",
+      "aiSummary": "Researchers detected suspicious trading activity on the prediction markets Kalshi and Polymarket shortly before the release of a Times/Siena poll. The activity involved well-timed bets on two Senate races, though it remains unclear whether the trader possessed inside information or simply made accurate predictions.",
+      "articleUrl": "https://www.nytimes.com/2026/11/06/technology/kalshi-polymarket-nyt-siena-poll-bets.html",
+      "category": "Prediction Markets",
+      "filterTags": [
+        "Kalshi",
+        "Polymarket",
+        "Times/Siena Poll",
+        "Senate races"
+      ],
+      "publishedAt": "2026-11-07T02:55:47+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Prediction Markets"
+        },
+        {
+          "name": "Elections"
+        },
+        {
+          "name": "Financial Markets"
+        }
+      ]
+    },
+    {
+      "slug": "1-15-37",
+      "title": "1.15.37",
+      "dek": "What's Changed \n Features \n \n Add functionality to read spreadsheets for agents in crewai-files. \n Scaffold and load standalone agent projects. \n \n Documentation \n \n Update RagTool description for better parsing by Mintlify. \n \n Contributors \n Vidit Ostwal (@Vidit-Ostwal) ,  João",
+      "aiSummary": "This release introduces the ability for agents to read spreadsheets via crewai-files and allows for the scaffolding and loading of standalone agent projects. It also includes documentation updates to improve RagTool parsing by Mintlify.",
+      "articleUrl": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.37",
+      "category": "AI",
+      "filterTags": [
+        "crewai-files",
+        "Mintlify",
+        "RagTool"
+      ],
+      "publishedAt": "2026-11-07T02:18:06+00:00",
+      "publisher": {
+        "name": "crewAIInc",
+        "domain": "github.com",
+        "website": "https://github.com/crewAIInc/crewAI",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "crusoe-sells-troubled-wyoming-data-center-project-to-google",
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "dek": "The deal highlights the challenges of developing massive AI data centers.",
+      "aiSummary": "Crusoe has sold its troubled Wyoming data center project to Google. This transaction underscores the significant difficulties involved in developing large-scale AI data centers.",
+      "articleUrl": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "category": "AI",
+      "filterTags": [
+        "Crusoe",
+        "Google",
+        "AI data centers"
+      ],
+      "publishedAt": "2026-11-07T01:40:28+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Data Centers"
+        },
+        {
+          "name": "Technology Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "dotnet-1-82-0",
+      "title": "dotnet-1.82.0",
+      "dek": "Changes: \n \n df1cb33  .Net: Bump package version to 1.82.0 ( #14721 ) \n d08a482  Python: Prepare 1.47.0 release and consolidate dependency updates ( #14720 ) [  #14708 ,  #14596 ,  #14597 ,  #14598 ,  #14599 ,  #14600 ,  #14627  ] \n 28c0d60  .Net: Harden structured data mutation ",
+      "aiSummary": "The dotnet package has been updated to version 1.82.0, which includes changes to harden structured data mutation. This release coincides with the preparation of the Python 1.47.0 release and the consolidation of various dependency updates.",
+      "articleUrl": "https://github.com/microsoft/semantic-kernel/releases/tag/dotnet-1.82.0",
+      "category": "Software Development",
+      "filterTags": [
+        "dotnet",
+        "Python",
+        "structured data"
+      ],
+      "publishedAt": "2026-11-07T01:00:07+00:00",
+      "publisher": {
+        "name": "microsoft",
+        "domain": "github.com",
+        "website": "https://github.com/microsoft/semantic-kernel",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Version Control"
+        }
+      ]
+    },
+    {
+      "slug": "v1-14-0-dev20",
+      "title": "v1.14.0.dev20",
+      "dek": "Langflow nightly v1.14.0.dev20",
+      "aiSummary": "Langflow has released a new nightly build, version v1.14.0.dev20. The nightly build indicates ongoing development of the platform.",
+      "articleUrl": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev20",
+      "category": "AI",
+      "filterTags": [
+        "Langflow",
+        "nightly"
+      ],
+      "publishedAt": "2026-11-07T00:22:53+00:00",
+      "publisher": {
+        "name": "langflow-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langflow-ai/langflow",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "b12181-hexagon-fuse-post-norm-residual-add-into-rms-norm-mul-31822",
+      "title": "b12181: hexagon: fuse post-norm residual add into RMS_NORM_MUL (#31822)",
+      "dek": "hexagon: fuse post-norm residual add into RMS_NORM_MUL \n \n \n hex-fusion: refactor RMS_NORM fusion and add dedicated RMS_NORM_MUL_ADD opcode \n \n \n Improves performance by keeping things in HVX registers. \nAlso simplifies overall fusion logic and logging. \n \n Co-authored-by: Max Kr",
+      "aiSummary": "This commit refactors the RMS_NORM fusion logic for the Hexagon architecture by introducing a dedicated RMS_NORM_MUL_ADD opcode. The change fuses the post-norm residual add into the RMS_NORM_MUL operation to improve performance by keeping data in HVX registers, while also simplifying the overall fusion logic and logging.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12181",
+      "category": "Hardware",
+      "filterTags": [
+        "Hexagon",
+        "RMS_NORM",
+        "HVX",
+        "b12181"
+      ],
+      "publishedAt": "2026-11-07T00:06:59+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Performance Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "alpine-linux-and-openssh-patch-flaw-that-s-as-bad-as-it-can-get",
+      "title": "Alpine Linux and OpenSSH patch flaw that’s as bad as it can get",
+      "dek": "This dangerous Linux security hole must be patched as soon as possible.",
+      "aiSummary": "A critical security vulnerability affecting Alpine Linux and OpenSSH has been discovered. The flaw is severe and requires immediate patching to protect systems. Users should apply the latest updates promptly.",
+      "articleUrl": "https://www.zdnet.com/tech/alpine-linux-openssh-patch-flaw/",
+      "category": "Security",
+      "filterTags": [
+        "Alpine Linux",
+        "OpenSSH"
+      ],
+      "publishedAt": "2026-11-07T00:00:45+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Linux"
+        }
+      ]
+    },
+    {
+      "slug": "openai-valued-at-1-25-trillion-as-rival-anthropic-nears-its-ipo",
+      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "dek": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion.",
+      "aiSummary": "Bloomberg reports that OpenAI has secured a new funding round, boosting its valuation to $1.25 trillion and raising $11 billion. The company’s valuation now places it among the world’s most valuable firms, following a March investment that added $122 billion at a $852 billion valuation.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "publishedAt": "2026-11-06T23:46:18+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Venture Capital"
+        }
+      ]
+    },
+    {
+      "slug": "b12180",
+      "title": "b12180",
+      "dek": "model: add Kimi-K3.1-Pro text model ( #31779 ) \n \n model: add Kimi-K3.1-Pro text model \n \n K3 with the full-attention MLA layers replaced by DSA: on this checkpoint 24 \nof the 93 layers carry a lightning indexer (32 heads x 128, top_k 2048, no \nrope). The KDA (linear-attention) l",
+      "aiSummary": "The update introduces the Kimi-K3.1-Pro text model, which modifies the K3 architecture by replacing full-attention MLA layers with DSA. In this specific checkpoint, 24 out of 93 layers utilize a lightning indexer with 32 heads and a top_k of 2048, while also incorporating KDA linear-attention layers.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12180",
+      "category": "AI",
+      "filterTags": [
+        "Kimi-K3.1-Pro",
+        "MLA",
+        "DSA",
+        "lightning indexer",
+        "KDA"
+      ],
+      "publishedAt": "2026-11-06T23:24:23+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "neocloud-groq-aims-to-double-value-to-8-billion-amid-ai-selloff",
+      "title": "Neocloud Groq Aims to Double Value to $8 Billion Amid AI Selloff",
+      "dek": "A top executive at data center operator Groq has kicked off an audacious bid to double its valuation in about three months while slamming rivals in the space for being too reliant on debt markets.",
+      "aiSummary": "A senior executive at Groq has announced an aggressive plan to double the company's valuation to $8 billion within roughly three months. The move comes amid a broader AI selloff, and the executive criticized competitors for depending heavily on debt markets.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-06/neocloud-groq-aims-to-double-value-to-8-billion-amid-ai-selloff",
+      "category": "AI",
+      "filterTags": [
+        "Groq",
+        "Neocloud",
+        "AI"
+      ],
+      "publishedAt": "2026-11-06T23:13:45+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "cramer-s-week-ahead-ai-data-center-stocks-face-another-hurdle-and-so-does-the-fed",
+      "title": "Cramer’s week ahead: AI data center stocks face another hurdle and so does the Fed",
+      "dek": "CoreWeave and Nebius earnings, alongside key inflation reports that could shape the Fed's next interest rate decision, are the focus.",
+      "aiSummary": "Investors are watching CoreWeave and Nebius earnings as key indicators for the AI data center sector. Simultaneously, upcoming inflation reports are expected to influence the Federal Reserve's next interest rate decision.",
+      "articleUrl": "https://www.cnbc.com/2026/11/06/cramer-coreweave-nebius-earnings.html",
+      "category": "AI",
+      "filterTags": [
+        "CoreWeave",
+        "Nebius",
+        "AI data centers",
+        "Federal Reserve",
+        "inflation"
+      ],
+      "publishedAt": "2026-11-06T23:13:10+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Macroeconomics"
+        },
+        {
+          "name": "Markets"
+        }
+      ]
+    },
+    {
+      "slug": "china-reportedly-recruited-ai-exec-to-spy-on-jensen-huang",
+      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "dek": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push ",
+      "aiSummary": "China's Ministry of State Security recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, aiming to collect information on American AI chips and possibly influence the company. The move was reported by The New York Times.",
+      "articleUrl": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+      "category": "Security",
+      "filterTags": [
+        "China",
+        "Megaspeed",
+        "Nvidia",
+        "AI chips",
+        "Ministry of State Security"
+      ],
+      "publishedAt": "2026-11-06T23:00:44+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Corporate Espionage"
+        }
+      ]
+    },
+    {
+      "slug": "openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation",
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "dek": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "aiSummary": "OpenAI is said to have raised an extra $11 billion in a funding round that is still pending closure. The round is expected to close in the coming weeks.",
+      "articleUrl": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "OpenAI",
+        "Funding round",
+        "Valuation"
+      ],
+      "publishedAt": "2026-11-06T22:53:46+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Venture Capital"
+        }
+      ]
+    },
+    {
+      "slug": "ai-selloff-exposes-data-center-boom-risks",
+      "title": "AI Selloff Exposes Data Center Boom Risks",
+      "dek": "The selloff in AI stocks is adding new uncertainty to the massive buildout of data centers across the US. Jolienne Halisky, CFO of AIB Data Centers, says financing for new projects could become more expensive and take longer as lenders reassess risk, while permitting, power and c",
+      "aiSummary": "The recent decline in AI stocks has introduced uncertainty into the large-scale construction of data centers in the US. Jolienne Halisky, CFO of AIB Data Centers, warns that lenders may reassess risk, leading to more expensive and slower financing for new projects, while also noting challenges related to permitting, power, and cooling.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-11-06/ai-selloff-exposes-data-center-boom-risks-video",
+      "category": "AI",
+      "filterTags": [
+        "AIB Data Centers",
+        "Data Centers",
+        "AI Stocks"
+      ],
+      "publishedAt": "2026-11-06T22:39:38+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    }
+  ]
+}
