@@ -1,0 +1,714 @@
+{
+  "news": [
+    {
+      "slug": "b12188",
+      "title": "b12188",
+      "dek": "server: visit parent slots before child slots ( #30779 ) \n \n \n server: visit parent slots before child slots \nA parent slot wakes its waiting child slots once it finishes the shared \nprompt prefix, while slots are visited in id order. When a child task \nlands on a lower slot id t",
+      "aiSummary": "The server now visits parent slots before child slots to optimize task handling. A parent slot wakes its waiting child slots once it finishes the shared prompt prefix, while slots are visited in ID order.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12188",
+      "category": "Backend",
+      "filterTags": [
+        "server",
+        "slots",
+        "prompt prefix"
+      ],
+      "publishedAt": "2026-11-07T12:02:12+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Backend"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "b12187",
+      "title": "b12187",
+      "dek": "webgpu :  Implement group norm kernel ( #31490 ) \n \n \n Only run webgpu CI on my fork \n \n \n Add webgpu only workflow \n \n \n Add WebGPU group_norm kernel \n \n \n clean up \n \n \n resolve merge conflicts \n \n \n parameterize data type; clean up cmake changes \n \n \n add nullptr check \n \n \n c",
+      "aiSummary": "The provided text describes a pull request implementing a group normalization kernel for WebGPU. It includes steps for configuring CI workflows, adding the kernel implementation, and performing code cleanup and parameterization.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12187",
+      "category": "Graphics",
+      "filterTags": [
+        "WebGPU",
+        "group_norm",
+        "CMake",
+        "CI"
+      ],
+      "publishedAt": "2026-11-07T11:45:49+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Graphics"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "meloni-blames-pro-russian-hackers-for-cyberattack-on-minister",
+      "title": "Meloni Blames Pro-Russian Hackers for Cyberattack on Minister",
+      "dek": "Italian Prime Minister Giorgia Meloni blamed pro-Russian hackers for a cyberattack on her foreign minister, after a rise in hybrid disruptions from entities aligned with Vladimir Putin’s government.",
+      "aiSummary": "Italian Prime Minister Giorgia Meloni attributed a recent cyberattack on her foreign minister to pro-Russian hackers. This incident follows an increase in hybrid disruptions from groups aligned with Vladimir Putin's government.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-07/meloni-blames-pro-russian-hackers-for-attack-on-foreign-minister",
+      "category": "Cybersecurity",
+      "filterTags": [
+        "Giorgia Meloni",
+        "Vladimir Putin",
+        "Cyberattack",
+        "Hybrid Warfare"
+      ],
+      "publishedAt": "2026-11-07T11:24:54+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "Geopolitics"
+        }
+      ]
+    },
+    {
+      "slug": "b12186",
+      "title": "b12186",
+      "dek": "vulkan: Add 'readonly' to decodeBuf declarations. ( #31833 ) \n In a future driver version I hope to be able to get some perf gain out of this. \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/64826498 \n \n macOS/iOS: \n \n m",
+      "aiSummary": "A recent commit to the llama.cpp repository adds the 'readonly' attribute to decodeBuf declarations within the Vulkan implementation. The developer notes that this change is intended to enable performance improvements in future driver versions.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12186",
+      "category": "AI",
+      "filterTags": [
+        "llama.cpp",
+        "Vulkan",
+        "C++",
+        "ggml-org"
+      ],
+      "publishedAt": "2026-11-07T11:15:26+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Performance"
+        }
+      ]
+    },
+    {
+      "slug": "nordic-ai-health-map",
+      "title": "Nordic AI Health Map",
+      "dek": "A map showing AI health in the Nordic region",
+      "aiSummary": "The provided text does not contain any information to summarize.",
+      "articleUrl": "https://healthmap.newnordics.ai/",
+      "category": "AI",
+      "filterTags": [],
+      "publishedAt": "2026-11-07T11:10:38+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Healthcare"
+        }
+      ]
+    },
+    {
+      "slug": "steve-jones-on-dangerous-tech-innovations-cartoon",
+      "title": "Steve Jones on dangerous tech innovations – cartoon",
+      "dek": "Continue reading...",
+      "aiSummary": "The article features a cartoon by Steve Jones that addresses the concept of dangerous tech innovations. The provided text is limited to a continuation prompt and does not contain further details about the specific technologies or arguments presented.",
+      "articleUrl": "https://www.theguardian.com/commentisfree/picture/2026/nov/07/steve-jones-dangerous-tech-innovations-cartoon-ai-fire",
+      "category": "Technology",
+      "filterTags": [
+        "Steve Jones",
+        "cartoon"
+      ],
+      "publishedAt": "2026-11-07T11:00:09+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Media"
+        }
+      ]
+    },
+    {
+      "slug": "apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough",
+      "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
+      "dek": "The apps and platforms that help family caregivers manage their loved ones’ needs are becoming more capable, but the broader issue of caregivers’ well-being remains unsolved.",
+      "aiSummary": "Apps and platforms designed to assist family caregivers in managing their loved ones' needs are becoming more advanced through the integration of AI. However, despite these technological improvements, the broader issue of ensuring the well-being of caregivers remains unresolved.",
+      "articleUrl": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
+      "category": "Healthcare",
+      "filterTags": [
+        "AI",
+        "Caregiver Apps"
+      ],
+      "publishedAt": "2026-11-07T11:00:00+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Healthcare"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "the-pentagon-wants-to-know-who-checks-code-when-ai-writes-it",
+      "title": "The Pentagon wants to know who checks code when AI writes it",
+      "dek": "The US Department of Defense is seeking to understand how code is verified when it is generated by artificial intelligence.",
+      "aiSummary": "The Pentagon is investigating the processes used to verify and check code that is written by artificial intelligence systems. The inquiry aims to determine who is responsible for ensuring the accuracy and security of AI-generated software.",
+      "articleUrl": "https://about.gitlab.com/blog/department-of-war-instruction-for-ai-generated-code/",
+      "category": "Defense",
+      "filterTags": [
+        "Pentagon",
+        "AI",
+        "Code Verification"
+      ],
+      "publishedAt": "2026-11-07T10:52:46+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Defense"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "trace-crash-safe-durable-sagas-for-autonomous-ai-agents",
+      "title": "Trace – Crash-safe durable Sagas for autonomous AI agents",
+      "dek": "A tool called Trace provides reliable, crash-resistant workflows for independent AI systems.",
+      "aiSummary": "Trace is a system designed to manage durable Sagas for autonomous AI agents. It ensures that these workflows remain safe and persistent even in the event of a system crash.",
+      "articleUrl": "https://github.com/orikami048/trace-agent-lang",
+      "category": "AI",
+      "filterTags": [
+        "Trace",
+        "Sagas",
+        "AI agents"
+      ],
+      "publishedAt": "2026-11-07T10:28:19+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "jeffrey-wigand-who-blew-the-whistle-on-big-tobacco-takes-a-lot-of-calls",
+      "title": "Jeffrey Wigand, Who Blew the Whistle on Big Tobacco, Takes a Lot of Calls",
+      "dek": "Jeffrey Wigand, who took on Big Tobacco, counsels insiders who think they have a story about wrongdoing. There are quite a few of them.",
+      "aiSummary": "Jeffrey Wigand, known for exposing wrongdoing at Big Tobacco, now advises insiders who believe they have evidence of corporate misconduct. He notes that he receives a significant number of such calls from potential whistleblowers.",
+      "articleUrl": "https://www.nytimes.com/2026/11/07/technology/whistle-blowers-jeffrey-wigand.html",
+      "category": "Corporate Governance",
+      "filterTags": [
+        "Jeffrey Wigand",
+        "Big Tobacco",
+        "Whistleblowing"
+      ],
+      "publishedAt": "2026-11-07T10:00:49+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Corporate Governance"
+        },
+        {
+          "name": "Ethics"
+        }
+      ]
+    },
+    {
+      "slug": "lanarkshire-ai-datacentre-to-fully-rely-on-national-grid-despite-renewables-claim",
+      "title": "Lanarkshire AI datacentre to fully rely on National Grid despite renewables claim",
+      "dek": "DataVita has revised plan for Chapelhall development to be wholly powered by 1GW of renewable energy A datacentre company that said it would power a massive AI development near Glasgow with renewable energy has admitted that the scheme will be entirely served by the National Grid",
+      "aiSummary": "DataVita has revised its plans for the Chapelhall AI data center development near Glasgow to be fully powered by the National Grid. This change contradicts the company's previous assertion that the massive facility would be powered by renewable energy.",
+      "articleUrl": "https://www.theguardian.com/uk-news/2026/nov/07/lanarkshire-ai-datacentre-datavita-chapelhall-national-grid-renewable-energy",
+      "category": "Energy",
+      "filterTags": [
+        "DataVita",
+        "National Grid",
+        "AI datacentre",
+        "Chapelhall",
+        "Lanarkshire"
+      ],
+      "publishedAt": "2026-11-07T10:00:08+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Energy"
+        },
+        {
+          "name": "Data Centers"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "the-datacentre-arms-race-hits-pause-in-south-east-asia",
+      "title": "The datacentre arms race hits pause in south-east Asia",
+      "dek": "Power and water constraints are pressuring what seemed like a juggernaut of growth for the region just months ago In early 2026, Thailand’s  datacentre  industry was on a roll. The country’s board of investment had recently announced approval of datacentre projects from Tiktok, a",
+      "aiSummary": "Power and water shortages are curbing the rapid expansion of data centers in Southeast Asia. In early 2026, Thailand's data center sector was growing quickly, with the board of investment approving projects from TikTok and other firms. The slowdown reflects the region's resource constraints.",
+      "articleUrl": "https://www.theguardian.com/technology/2026/nov/07/datacentres-southeast-asia",
+      "category": "Infrastructure",
+      "filterTags": [
+        "TikTok",
+        "Thailand",
+        "datacentre"
+      ],
+      "publishedAt": "2026-11-07T10:00:07+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "russia-s-rosstat-struggles-to-restore-systems-after-major-cyberattack",
+      "title": "Russia’s Rosstat Struggles to Restore Systems After Major Cyberattack",
+      "dek": "Major Russian economic reports will be delayed through at least Nov. 13 following a recent major hack on the statistics agency Rosstat.",
+      "aiSummary": "Russia's federal statistics agency, Rosstat, is experiencing significant difficulties restoring its systems following a major cyberattack. As a result, key economic reports are expected to be delayed until at least November 13.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-07/russia-s-rosstat-struggles-to-restore-systems-after-major-cyberattack",
+      "category": "Cybersecurity",
+      "filterTags": [
+        "Rosstat",
+        "Cyberattack",
+        "Russia"
+      ],
+      "publishedAt": "2026-11-07T08:52:34+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "Government"
+        },
+        {
+          "name": "Economics"
+        }
+      ]
+    },
+    {
+      "slug": "softbank-abb-consider-china-carve-out-to-salvage-robotics-deal",
+      "title": "SoftBank, ABB Consider China Carve-Out to Salvage Robotics Deal",
+      "dek": "SoftBank Group Corp. and ABB Ltd. are looking at carving out the Chinese part of a giant robotics deal as they explore ways to salvage a transaction blocked by Beijing, according to people familiar with the matter.",
+      "aiSummary": "SoftBank Group Corp. and ABB Ltd. are considering excluding the Chinese segment of their large robotics transaction to overcome regulatory blocks from Beijing. This strategic move aims to salvage the overall deal by addressing specific jurisdictional concerns.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-07/softbank-abb-weigh-china-carve-out-to-salvage-robotics-deal",
+      "category": "Robotics",
+      "filterTags": [
+        "SoftBank",
+        "ABB",
+        "Robotics",
+        "China"
+      ],
+      "publishedAt": "2026-11-07T08:39:26+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Robotics"
+        },
+        {
+          "name": "Mergers & Acquisitions"
+        },
+        {
+          "name": "Geopolitics"
+        }
+      ]
+    },
+    {
+      "slug": "buoyant-releases-kinference-an-open-source-inference-control-plane-for-kubernetes-and-vllm",
+      "title": "Buoyant Releases Kinference: An Open Source Inference Control Plane for Kubernetes and vLLM",
+      "dek": "Buoyant has released Kinference, an Apache 2.0 inference control plane for vLLM on Kubernetes. It adds declarative routing policies, KV-cache-aware load balancing and per-tenant metrics, and cut median TTFT 95% in Buoyant’s own benchmark. \n The post  Buoyant Releases Kinference: ",
+      "aiSummary": "Buoyant released Kinference, an open‑source inference control plane built on Apache 2.0 for vLLM running on Kubernetes. The platform introduces declarative routing policies, KV‑cache‑aware load balancing, and per‑tenant metrics, and it reduced the median time to first token by 95% in Buoyant’s benchmark.",
+      "articleUrl": "https://www.marktechpost.com/2026/11/07/buoyant-kinference-open-source-inference-control-plane-kubernetes-vllm/",
+      "category": "AI",
+      "filterTags": [
+        "Buoyant",
+        "Kinference",
+        "vLLM",
+        "Kubernetes",
+        "Apache 2.0"
+      ],
+      "publishedAt": "2026-11-07T08:16:33+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Cloud Native"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1794043208-cuda-use-size-1-as-the-row-length-in-embedding-renorm-203890",
+      "title": "viable/strict/1794043208: [CUDA] Use size(1) as the row length in embedding_renorm_ (#203890)",
+      "dek": "Human Note \n Related stride/layout assumption found while hunting size-1 stride bugs \n Agent note \n A sliced or transposed embedding weight can have a row stride different from its column count; a single-row contiguous weight can too. CUDA renormalization treated the row stride a",
+      "aiSummary": "This commit fixes a bug in CUDA embedding renormalization where the row stride was incorrectly assumed to match the column count. The update ensures that size(1) is used as the row length, addressing issues with sliced, transposed, or single-row contiguous weights that have non-standard strides.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1794043208",
+      "category": "Machine Learning",
+      "filterTags": [
+        "CUDA",
+        "PyTorch",
+        "embedding_renorm",
+        "stride"
+      ],
+      "publishedAt": "2026-11-07T05:25:43+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Hardware Acceleration"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1794041383",
+      "title": "viable/strict/1794041383",
+      "dek": "[hardened PR review] Drop 9 duplicate tests from the review-script su…",
+      "aiSummary": "The PR review was hardened by removing nine duplicate tests from the review script. This streamlines the testing process and reduces redundancy.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1794041383",
+      "category": "Software Development",
+      "filterTags": [
+        "review-script",
+        "duplicate tests",
+        "PR review"
+      ],
+      "publishedAt": "2026-11-07T05:03:45+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Quality Assurance"
+        },
+        {
+          "name": "Testing"
+        }
+      ]
+    },
+    {
+      "slug": "uk-will-not-slow-down-on-ai-despite-backlash-in-us-says-growth-minister",
+      "title": "UK will not slow down on AI despite backlash in US, says growth minister",
+      "dek": "Dan Tomlinson asserts that pace of investment is ‘too low for what we need to stay at the forefront as AI technology develops’",
+      "aiSummary": "Dan Tomlinson, the UK growth minister, said the country will not slow its AI progress despite criticism from the United States. He argued that investment in AI is currently too low to keep the UK at the cutting edge as the technology evolves.",
+      "articleUrl": "https://www.ft.com/content/47dba9d2-4c82-4e17-969d-f1728ef13a5a?syn-25a6b1a6=1",
+      "category": "AI",
+      "filterTags": [
+        "AI"
+      ],
+      "publishedAt": "2026-11-07T05:00:41+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Policy"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "why-does-america-hate-ai",
+      "title": "Why does America hate AI?",
+      "dek": "Voter hostility to Big Tech helped shape the US midterms, and similar fears are spreading through the west. But look east and attitudes are dramatically more optimistic",
+      "aiSummary": "Hostility toward Big Tech influenced the US midterm elections, with similar fears spreading across the West. However, attitudes toward AI in Eastern regions are significantly more optimistic.",
+      "articleUrl": "https://www.ft.com/content/af97585a-3381-42a9-838b-9a205ab81232?syn-25a6b1a6=1",
+      "category": "AI",
+      "filterTags": [
+        "Big Tech",
+        "US midterms",
+        "AI"
+      ],
+      "publishedAt": "2026-11-07T05:00:13+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Public Opinion"
+        }
+      ]
+    },
+    {
+      "slug": "v1-110-0-dev-1",
+      "title": "v1.110.0-dev.1",
+      "dek": "Verify Docker Image Signature \n All LiteLLM Docker images are signed with  cosign . This release is signed with the key introduced in  commit  e82a3c6 . \n Verify using the pinned commit hash (recommended): \n A commit hash is cryptographically immutable, so this is the strongest w",
+      "aiSummary": "The v1.110.0-dev.1 release of LiteLLM includes Docker images signed with cosign, using a key introduced in commit e82a3c6. Users are advised to verify the signature with the pinned commit hash, which provides the strongest cryptographic assurance.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.110.0-dev.1",
+      "category": "Security",
+      "filterTags": [
+        "LiteLLM",
+        "Docker",
+        "cosign",
+        "commit hash"
+      ],
+      "publishedAt": "2026-11-07T04:36:43+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Containerization"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1794039667-update-metamates-merge-rule-203880",
+      "title": "viable/strict/1794039667: Update Metamates merge rule (#203880)",
+      "dek": "This PR is auto-generated nightly by  this action . \n Updates the Metamates merge rule with active team members. \nPull Request resolved:  #203880 \nApproved by:  https://github.com/pytorchbot",
+      "aiSummary": "The pull request automatically updates the Metamates merge rule to include active team members. It was resolved and approved by the PyTorch bot.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1794039667",
+      "category": "Open Source",
+      "filterTags": [
+        "Metamates",
+        "GitHub Actions",
+        "PyTorch"
+      ],
+      "publishedAt": "2026-11-07T04:14:45+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Automation"
+        }
+      ]
+    }
+  ]
+}
