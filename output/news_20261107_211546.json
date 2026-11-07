@@ -1,0 +1,1029 @@
+{
+  "news": [
+    {
+      "slug": "b12191",
+      "title": "b12191",
+      "dek": "llama_moe_cache: run missed experts on CPU, add tuning script ( #30966 ) \n \n moe-cache : compute part of the misses on the CPU \n \n --moe-cache-cpu-share F computes a share F of the MoE cache misses on the CPU \nfrom the host experts instead of uploading them. The graph builds the ",
+      "aiSummary": "The update introduces a feature to llama_moe_cache that enables a configurable share of MoE cache misses to be computed on the CPU using host experts. This change includes a new flag, --moe-cache-cpu-share, and adds a tuning script to optimize performance.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12191",
+      "category": "AI",
+      "filterTags": [
+        "llama_moe_cache",
+        "MoE",
+        "CPU",
+        "GPU",
+        "llama.cpp"
+      ],
+      "publishedAt": "2026-11-07T21:14:17+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Performance Optimization"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "your-old-ipod-could-be-a-sleeper-flash-drive",
+      "title": "Your old iPod could be a sleeper flash drive",
+      "dek": "Old iPods still work fine as digital audio players, but you can reuse them in other ways if you're not interested in listening to music on the go.",
+      "aiSummary": "While old iPods remain functional as digital audio players, they can be repurposed for other uses if the user is no longer interested in portable music listening. Specifically, these devices can be utilized as flash drives.",
+      "articleUrl": "https://www.engadget.com/2306204/old-ipod-sleeper-flash-drive/",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "iPod",
+        "flash drive",
+        "digital audio player"
+      ],
+      "publishedAt": "2026-11-07T21:00:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "hp-and-asus-shift-some-pc-making-back-to-china-due-to-ai-driven-cost-hikes",
+      "title": "HP and Asus shift some PC making back to China due to AI-driven cost hikes",
+      "dek": "HP and Asus are moving some computer production back to China because AI-related costs have gone up.",
+      "aiSummary": "HP and Asus are relocating a portion of their PC manufacturing operations back to China. This strategic shift is driven by rising costs associated with AI-driven production requirements.",
+      "articleUrl": "https://asia.nikkei.com/business/technology/tech-asia/hp-and-asus-shift-some-pc-making-back-to-china-due-to-ai-driven-cost-hikes",
+      "category": "Hardware",
+      "filterTags": [
+        "HP",
+        "Asus",
+        "PC manufacturing",
+        "China",
+        "AI"
+      ],
+      "publishedAt": "2026-11-07T20:56:09+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Supply Chain"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "gendb-v-ai-generated-formally-verified-database-engines",
+      "title": "GenDB-V: AI-generated, formally verified database engines",
+      "dek": "A new system uses AI to create database engines that are mathematically proven to be correct.",
+      "aiSummary": "The article introduces GenDB-V, a system that leverages artificial intelligence to generate database engines. These engines are distinguished by being formally verified, ensuring their correctness through mathematical proof.",
+      "articleUrl": "https://genlang-v.github.io/GenDB-V/",
+      "category": "AI",
+      "filterTags": [
+        "GenDB-V",
+        "AI",
+        "Formal Verification",
+        "Database Engines"
+      ],
+      "publishedAt": "2026-11-07T20:54:43+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Databases"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "herv-ai-spatial-intelligence-platform",
+      "title": "HERV AI – Spatial intelligence platform",
+      "dek": "HERV AI is a platform for spatial intelligence.",
+      "aiSummary": "The provided text does not contain a description or body content for the article. It only lists the title 'HERV AI – Spatial intelligence platform'.",
+      "articleUrl": "https://hervai.com",
+      "category": "AI",
+      "filterTags": [
+        "HERV AI",
+        "Spatial Intelligence"
+      ],
+      "publishedAt": "2026-11-07T20:48:27+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Spatial Computing"
+        }
+      ]
+    },
+    {
+      "slug": "there-is-no-end-in-sight-for-the-gpu-supply-problem",
+      "title": "There is no end in sight for the GPU supply problem",
+      "dek": "GPU prices have soared as the supply of memory has tightened, and it doesn't look like this is going to change any time soon (though a few optimists disagree).",
+      "aiSummary": "GPU prices have risen sharply due to a tightening supply of memory. The article suggests that this supply issue is unlikely to resolve in the near term, although some observers remain optimistic.",
+      "articleUrl": "https://www.engadget.com/2309554/gpu-supply-problem-no-end-in-sight/",
+      "category": "Hardware",
+      "filterTags": [
+        "GPU",
+        "Memory",
+        "Supply Chain"
+      ],
+      "publishedAt": "2026-11-07T20:45:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Market Trends"
+        }
+      ]
+    },
+    {
+      "slug": "coreweave-asks-texas-governor-elect-for-data-center-cooperation",
+      "title": "CoreWeave Asks Texas Governor-Elect for Data Center Cooperation",
+      "dek": "CoreWeave Inc. sent a letter to Texas Governor-elect Gina Hinojosa seeking to work with her incoming administration on present and future data center projects in the state.",
+      "aiSummary": "CoreWeave Inc. sent a letter to Texas Governor-elect Gina Hinojosa to establish cooperation on current and future data center projects. The company aims to work with her incoming administration to advance these infrastructure efforts within the state.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-07/coreweave-asks-texas-governor-elect-for-data-center-cooperation",
+      "category": "Data Centers",
+      "filterTags": [
+        "CoreWeave",
+        "Gina Hinojosa",
+        "Data Centers",
+        "Texas"
+      ],
+      "publishedAt": "2026-11-07T20:33:10+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Data Centers"
+        },
+        {
+          "name": "Government Relations"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "how-long-should-a-pc-processor-actually-last",
+      "title": "How long should a PC processor actually last?",
+      "dek": "Your computer's CPU is its most important part, and its most expensive one, too. So how long can you expect it to last if cared for properly?",
+      "aiSummary": "The CPU is identified as the most critical and costly component of a computer. The article addresses the question of how long a processor can be expected to function if it is maintained properly.",
+      "articleUrl": "https://www.engadget.com/2309550/how-long-pc-processor-should-last/",
+      "category": "Hardware",
+      "filterTags": [
+        "CPU",
+        "PC",
+        "Processor"
+      ],
+      "publishedAt": "2026-11-07T20:30:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "faa-announces-first-us-digital-air-traffic-control-towers-in-florida-and-alaska",
+      "title": "FAA announces first US digital air traffic control towers in Florida and Alaska",
+      "dek": "Systems provide 360-degree view of airport operations, but concerns have been raised about the technology The Federal Aviation Administration (FAA) has announced that the first digital air traffic control towers in the US are officially operational, bringing new technology first ",
+      "aiSummary": "The Federal Aviation Administration (FAA) has announced that the first digital air traffic control towers in the United States are now operational in Florida and Alaska. These systems offer a 360-degree view of airport operations, though concerns have been raised regarding the new technology.",
+      "articleUrl": "https://www.theguardian.com/us-news/2026/nov/07/faa-digital-air-traffic-control-tower-technology",
+      "category": "Aviation",
+      "filterTags": [
+        "FAA",
+        "Digital Air Traffic Control",
+        "Florida",
+        "Alaska"
+      ],
+      "publishedAt": "2026-11-07T20:03:23+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Aviation"
+        },
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "the-bitter-lesson-generalized",
+      "title": "The Bitter Lesson, Generalized",
+      "dek": "A charcoal sketch of an ornate carved stone gate whose emblem, a giant stone hand raised palm-out in refusal, has been split by the roots of a huge tree whose crown towers over the gate/images/bitter-lesson-generalized-header.webp/images/bitter-lesson-generalized-header.webp Just",
+      "aiSummary": "The provided text consists solely of a description for a header image featuring a charcoal sketch of a stone gate. The gate's emblem, a hand in refusal, is depicted as being split by tree roots. No article body or factual content regarding the topic is included in the snippet.",
+      "articleUrl": "https://danielmiessler.com/blog/bitter-lesson-generalized?utm_source=rss&utm_medium=feed&utm_campaign=website",
+      "category": "AI",
+      "filterTags": [],
+      "publishedAt": "2026-11-07T19:30:00+00:00",
+      "publisher": {
+        "name": "Daniel Miessler",
+        "domain": "danielmiessler.com",
+        "website": "https://danielmiessler.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=danielmiessler.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=danielmiessler.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "how-to-run-nvidia-dory-4b-with-llama-cpp-loop-by-loop-guide",
+      "title": "How to Run NVIDIA Dory 4B with llama.cpp: Loop by Loop Guide",
+      "dek": "Explore a comprehensive coding guide for NVIDIA's Dory 1.0 4B looped language model. Learn how to build the pinned llama.cpp branch, analyze loop-by-loop compute costs, test memory caching, and run paired evaluations. \n The post  How to Run NVIDIA Dory 4B with llama.cpp: Loop by ",
+      "aiSummary": "This guide details how to build a specific pinned branch of llama.cpp to run NVIDIA's Dory 1.0 4B looped language model. It covers analyzing compute costs on a loop-by-loop basis, testing memory caching mechanisms, and conducting paired evaluations.",
+      "articleUrl": "https://www.marktechpost.com/2026/11/07/coding-guide-nvidia-dory-4b-llama-cpp/",
+      "category": "AI",
+      "filterTags": [
+        "NVIDIA",
+        "Dory 4B",
+        "llama.cpp",
+        "LLM"
+      ],
+      "publishedAt": "2026-11-07T19:22:44+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "vibe-coding-isn-t-using-ai-to-make-things",
+      "title": "Vibe Coding Isn't Using AI to Make Things",
+      "dek": "Two builders with the same AI arm feeding both engines: one works inside the open engine, the other leans on a sealed purple box/images/vibe-coding-isnt-using-ai.webp/images/vibe-coding-isnt-using-ai.webp Slight ok medium-sized pet peeve here. Vibe Coding isn't using AI to make t",
+      "aiSummary": "The author argues that 'Vibe Coding' is a misnomer because it does not involve using AI to make things. The text contrasts two builders using the same AI, distinguishing between working inside an open engine and relying on a sealed system.",
+      "articleUrl": "https://danielmiessler.com/blog/vibe-coding-isnt-using-ai?utm_source=rss&utm_medium=feed&utm_campaign=website",
+      "category": "AI",
+      "filterTags": [
+        "Vibe Coding",
+        "AI"
+      ],
+      "publishedAt": "2026-11-07T18:38:05+00:00",
+      "publisher": {
+        "name": "Daniel Miessler",
+        "domain": "danielmiessler.com",
+        "website": "https://danielmiessler.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=danielmiessler.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=danielmiessler.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "b12192-mtmd-support-magevl-cowork-model-31819",
+      "title": "b12192: mtmd: support MageVL-Cowork model (#31819)",
+      "dek": "mtmd: support MageVL-Cowork model \n \n \n mtmd: keep magevl rope_freqs at model level and check its shape \n \n \n The rope factors are shared by every layer, so they live in clip_model \ninstead of a pointer copied into each clip_layer. The loader now checks \nthat v.rope_freqs is F32 ",
+      "aiSummary": "The mtmd module has been updated to support the MageVL-Cowork model. Rope frequency parameters are now stored at the model level in clip_model and validated for shape and data type (F32).",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12192",
+      "category": "AI",
+      "filterTags": [
+        "mtmd",
+        "MageVL",
+        "rope_freqs",
+        "clip_model",
+        "F32"
+      ],
+      "publishedAt": "2026-11-07T18:36:44+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "ai-backlash-spreads-across-europe-with-data-center-protests",
+      "title": "AI Backlash Spreads Across Europe With Data Center Protests",
+      "dek": "Protests against data centers continued across Europe on Saturday as citizens took to the streets to voice their concerns about the impact on society and the environment.",
+      "aiSummary": "Protests against data centers continued across Europe on Saturday. Citizens took to the streets to express concerns regarding the societal and environmental impacts of these facilities.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-07/ai-backlash-spreads-across-europe-with-data-center-protests",
+      "category": "AI",
+      "filterTags": [
+        "Data Centers",
+        "AI"
+      ],
+      "publishedAt": "2026-11-07T18:20:19+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Sustainability"
+        },
+        {
+          "name": "Public Policy"
+        }
+      ]
+    },
+    {
+      "slug": "meta-chief-strategy-officer-dave-wehner-leaves-to-join-ai-infrastructure-startup-fireworks-as-cfo",
+      "title": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO",
+      "dek": "Dave Wehner, Meta’s chief strategy officer, is leaving the company to become CFO of Fireworks, the AI infrastructure startup valued at $17.5 billion in July.",
+      "aiSummary": "Dave Wehner, Meta's chief strategy officer, is departing the company to take on the role of CFO at Fireworks, an AI infrastructure startup. Fireworks was valued at $17.5 billion in July.",
+      "articleUrl": "https://www.cnbc.com/2026/11/07/dave-wehner-meta-fireworks-cfo.html",
+      "category": "AI",
+      "filterTags": [
+        "Meta",
+        "Fireworks",
+        "AI infrastructure"
+      ],
+      "publishedAt": "2026-11-07T17:51:16+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Corporate Leadership"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "ep232-6-frequently-used-orchestration-frameworks-in-an-ai-system",
+      "title": "EP232: 6 Frequently Used Orchestration Frameworks in an AI system",
+      "dek": "Orchestration in an AI system manages tasks across agents, handles failures, shared memory and context.",
+      "aiSummary": "The article discusses the role of orchestration in AI systems, which involves managing tasks across agents, handling failures, and maintaining shared memory and context. It highlights six frequently used orchestration frameworks for these purposes.",
+      "articleUrl": "https://blog.bytebytego.com/p/ep232-6-frequently-used-orchestration",
+      "category": "AI",
+      "filterTags": [
+        "Orchestration",
+        "AI Agents",
+        "Shared Memory"
+      ],
+      "publishedAt": "2026-11-07T16:30:58+00:00",
+      "publisher": {
+        "name": "ByteByteGo",
+        "domain": "bytebytego.com",
+        "website": "https://bytebytego.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bytebytego.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bytebytego.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Architecture"
+        }
+      ]
+    },
+    {
+      "slug": "nyt-cooking-s-ai-assistant-saved-my-weeknight-chicken-but-almost-ruined-my-cake",
+      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "dek": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usual",
+      "aiSummary": "The writer uses NYT Cooking’s AI tool to decide what to cook each weeknight, often choosing chicken. The tool saved the dinner but almost ruined a cake.",
+      "articleUrl": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "category": "AI",
+      "filterTags": [
+        "NYT Cooking",
+        "AI"
+      ],
+      "publishedAt": "2026-11-07T15:50:00+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Food & Drink"
+        }
+      ]
+    },
+    {
+      "slug": "the-us-let-nvidia-sell-chips-to-an-empty-office-in-china",
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "dek": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offi",
+      "aiSummary": "The U.S. Commerce Department and Nvidia are being criticized for insufficient vetting of Chinese firms authorized to handle Nvidia's H200 AI chips. The New York Times reports that New Matrix is on the approved list, yet its office appears to be empty or unverified. This raises concerns about compliance and security.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "category": "AI",
+      "filterTags": [
+        "Nvidia",
+        "H200",
+        "New Matrix",
+        "U.S. Commerce Department"
+      ],
+      "publishedAt": "2026-11-07T15:43:45+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Trade"
+        }
+      ]
+    },
+    {
+      "slug": "timestral-t0-tabby-and-morpheus-2-0-compared-on-gift-eval",
+      "title": "Timestral, t0, Tabby, and Morpheus-2.0 Compared on GIFT-Eval",
+      "dek": "All four time-series foundation models scale, patch, and predict quantiles; the real split is how series share information. \n The post  Timestral, t0, Tabby, and Morpheus-2.0 Compared on GIFT-Eval  appeared first on  Towards Data Science .",
+      "aiSummary": "Timestral, t0, Tabby, and Morpheus-2.0 are compared using the GIFT-Eval benchmark. While all four models share capabilities in scaling, patching, and quantile prediction, they differ primarily in how they allow series to share information.",
+      "articleUrl": "https://towardsdatascience.com/timestral-t0-tabby-and-morpheus-20-compared-on-gift-eval/",
+      "category": "AI",
+      "filterTags": [
+        "Timestral",
+        "t0",
+        "Tabby",
+        "Morpheus-2.0",
+        "GIFT-Eval",
+        "time-series foundation models"
+      ],
+      "publishedAt": "2026-11-07T15:00:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Data Science"
+        }
+      ]
+    },
+    {
+      "slug": "ai-broke-the-cybersecurity-world-what-s-next",
+      "title": "AI broke the cybersecurity world. What’s next?",
+      "dek": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so d",
+      "aiSummary": "In this episode, the host interviews Alex Stamos, chief security officer at Cognition, about the chaotic state of cybersecurity today. They explore how AI has impacted the field and what challenges lie ahead. The conversation is part of a broader series examining AI's real-world applications.",
+      "articleUrl": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "category": "AI",
+      "filterTags": [
+        "Cognition",
+        "Alex Stamos",
+        "AI",
+        "cybersecurity"
+      ],
+      "publishedAt": "2026-11-07T15:00:00+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "america-s-newest-small-business-owners-with-no-employees-are-off-to-a-hot-start-in-ai-era",
+      "title": "America's newest small business owners with no employees are off to a hot start in AI era",
+      "dek": "New small business formation is rising for owners who can grow with AI serving in finance, marketing and design roles, eliminating the need for hiring.",
+      "aiSummary": "Small business formation is increasing among owners who rely on AI for finance, marketing, and design tasks, allowing them to operate without employees. These entrepreneurs use AI tools to handle key business functions, reducing the need to hire staff.",
+      "articleUrl": "https://www.cnbc.com/2026/11/07/americas-new-no-employee-small-business-owners-start-hot-in-ai-era.html",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AI",
+        "Finance",
+        "Marketing",
+        "Design"
+      ],
+      "publishedAt": "2026-11-07T14:45:01+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Small Business"
+        },
+        {
+          "name": "Entrepreneurship"
+        }
+      ]
+    },
+    {
+      "slug": "ai-safety-advocates-make-gains-after-110-million-midterm-fight",
+      "title": "AI Safety Advocates Make Gains After $110 Million Midterm Fight",
+      "dek": "Candidates who favor stricter oversight of artificial intelligence racked up wins in key congressional races, aided by a pro-regulation political funding group backed in part by Anthropic PBC at a time when Americans are increasingly uneasy over the rapidly developing technology.",
+      "aiSummary": "Candidates supporting stricter artificial intelligence oversight secured victories in significant congressional races. These wins were supported by a pro-regulation funding group that received backing from Anthropic PBC, reflecting growing public concern over the rapid development of AI technology.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-07/ai-safety-advocates-make-gains-after-110-million-midterm-fight",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic PBC",
+        "AI Regulation",
+        "Congressional Races"
+      ],
+      "publishedAt": "2026-11-07T14:30:00+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Policy"
+        }
+      ]
+    },
+    {
+      "slug": "b12190",
+      "title": "b12190",
+      "dek": "sycl: add f16 support for SWIGLU_OAI ( #30857 )",
+      "aiSummary": "The article explains adding half‑precision (f16) support to the SWIGLU_OAI component in SYCL, addressing issue #30857 and expanding the library’s compatibility with f16 data types.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12190",
+      "category": "Programming Languages",
+      "filterTags": [
+        "sycl",
+        "f16",
+        "SWIGLU_OAI"
+      ],
+      "publishedAt": "2026-11-07T14:02:58+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Programming Languages"
+        },
+        {
+          "name": "Hardware Acceleration"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "standing-in-the-way-of-slop-bowls-the-woman-blocking-food-delivery-robots",
+      "title": "Standing in the way of slop bowls: the woman blocking food delivery robots",
+      "dek": "Semi-retired professor Carolyn Marvin became a local celebrity facing down Philadelphia’s growing robot delivery army: ‘It’s my first amendment right to protest’ “One of you needs to be on the lookout for cops, while I block the robot, OK?” It is a crisp fall morning in Philadelp",
+      "aiSummary": "Semi-retired professor Carolyn Marvin has become a local figure in Philadelphia by physically blocking food delivery robots. She asserts that her actions are a protected form of protest under the First Amendment.",
+      "articleUrl": "https://www.theguardian.com/technology/ng-interactive/2026/nov/07/philadelphia-blocking-food-delivery-robots",
+      "category": "Robotics",
+      "filterTags": [
+        "Carolyn Marvin",
+        "Philadelphia",
+        "Food Delivery Robots"
+      ],
+      "publishedAt": "2026-11-07T14:00:12+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Robotics"
+        },
+        {
+          "name": "Civil Rights"
+        },
+        {
+          "name": "Urban Life"
+        }
+      ]
+    },
+    {
+      "slug": "claude-gets-airpods-3-head-tracking-working-on-linux",
+      "title": "Claude gets AirPods 3 head tracking working on Linux",
+      "dek": "AI has been used to find out how to access motion tracking data from  AirPods , enabling one Linux user to use head tracking data to produce a software mouse. AirPods 3 AirPods and  AirPods Pro  have head tracking capabilities thanks to some built-in motion-detecting sensors. Whi",
+      "aiSummary": "AI was used to discover how to access motion tracking data from AirPods, allowing a Linux user to use that data for head tracking and create a software mouse. AirPods 3 and AirPods Pro include built-in motion sensors that enable head tracking.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/07/claude-gets-airpods-3-head-tracking-working-on-linux?utm_source=rss",
+      "category": "AI",
+      "filterTags": [
+        "Claude",
+        "AirPods 3",
+        "AirPods Pro",
+        "Linux",
+        "AI"
+      ],
+      "publishedAt": "2026-11-07T13:59:36+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "democrat-shaping-ai-policy-bought-chip-stocks-despite-backing-congressional-trading-ban",
+      "title": "Democrat shaping AI policy bought chip stocks despite backing congressional trading ban",
+      "dek": "Rep. Josh Gottheimer disclosed new AI-linked stock purchases months after voting for a congressional trading ban, as Democrats prepare to regulate the industry.",
+      "aiSummary": "Rep. Josh Gottheimer revealed that he had bought stocks linked to AI companies after voting for a congressional trading ban. The disclosure comes as Democrats work on new regulations for the AI sector.",
+      "articleUrl": "https://www.cnbc.com/2026/11/07/josh-gottheimer-ai-stocks-congress-trading-ban.html",
+      "category": "Politics",
+      "filterTags": [
+        "AI",
+        "chip stocks",
+        "congressional trading ban"
+      ],
+      "publishedAt": "2026-11-07T13:30:01+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "floating-point-precision-and-its-effects-to-model-inference",
+      "title": "Floating-Point Precision and Its Effects to Model Inference",
+      "dek": "Overview This post is divided into five parts; they are: • How Floating-Point Numbers Work • Common Precision Formats • Loading a Model at a Different Precision • Mixed Precision and Sensitive Operations • Measuring the Result How Floating-Point Numbers Work A floating-point numb",
+      "aiSummary": "The article explains the mechanics of floating-point numbers and common precision formats used in computing. It details how loading models at different precisions and utilizing mixed precision can affect sensitive operations and overall inference results.",
+      "articleUrl": "https://machinelearningmastery.com/floating-point-precision/",
+      "category": "Machine Learning",
+      "filterTags": [
+        "Floating-Point",
+        "Model Inference",
+        "Mixed Precision"
+      ],
+      "publishedAt": "2026-11-07T13:29:33+00:00",
+      "publisher": {
+        "name": "Jason Brownlee",
+        "domain": "machinelearningmastery.com",
+        "website": "https://machinelearningmastery.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=machinelearningmastery.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=machinelearningmastery.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Computing"
+        }
+      ]
+    },
+    {
+      "slug": "how-to-prioritize-product-feedback-by-revenue-at-risk",
+      "title": "How to Prioritize Product Feedback by Revenue at Risk",
+      "dek": "Bellwether joins support tickets, store reviews, sales calls, and NPS to CRM accounts, then stress-tests the ranking on 6,693 synthetic signals. \n The post  How to Prioritize Product Feedback by Revenue at Risk  appeared first on  Towards Data Science .",
+      "aiSummary": "Bellwether aggregates support tickets, store reviews, sales calls, and NPS into CRM accounts and then tests the ranking system with 6,693 synthetic signals to validate its effectiveness.",
+      "articleUrl": "https://towardsdatascience.com/how-to-prioritize-product-feedback-by-revenue-at-risk/",
+      "category": "Product Management",
+      "filterTags": [
+        "Bellwether",
+        "CRM",
+        "NPS"
+      ],
+      "publishedAt": "2026-11-07T13:00:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Product Management"
+        },
+        {
+          "name": "Data Analytics"
+        },
+        {
+          "name": "Customer Experience"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1794064807",
+      "title": "viable/strict/1794064807",
+      "dek": "[inductor][cpu] Add cpp.simd_horizontal_reduction for clang builds (#…",
+      "aiSummary": "The update introduces a new function, cpp.simd_horizontal_reduction, specifically for Clang builds within the inductor CPU backend. This change is part of a pull request aimed at enhancing SIMD operations in the codebase.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1794064807",
+      "category": "Compiler Infrastructure",
+      "filterTags": [
+        "inductor",
+        "CPU",
+        "cpp.simd_horizontal_reduction",
+        "Clang",
+        "SIMD"
+      ],
+      "publishedAt": "2026-11-07T11:46:14+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Compiler Infrastructure"
+        },
+        {
+          "name": "Performance Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "data-centres-rebuked",
+      "title": "Data centres rebuked",
+      "dek": "Capex, meet the electorate",
+      "aiSummary": "Significant capital expenditures, often associated with large infrastructure projects, are now encountering public and political scrutiny. This indicates that financial investments are being subjected to increased accountability from the general populace.",
+      "articleUrl": "https://www.ft.com/content/9d40f40a-cbf2-46f5-b3d0-cee554e35298?syn-25a6b1a6=1",
+      "category": "Infrastructure",
+      "filterTags": [
+        "Data centres",
+        "Capex"
+      ],
+      "publishedAt": "2026-11-07T10:30:03+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Public Policy"
+        }
+      ]
+    }
+  ]
+}
