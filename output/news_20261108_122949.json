@@ -1,0 +1,833 @@
+{
+  "news": [
+    {
+      "slug": "ciflow-xpu-203962-make-the-test-memory-leak-check-work-on-any-accelerator-not-just-cuda",
+      "title": "ciflow/xpu/203962: Make the test memory-leak check work on any accelerator, not just CUDA",
+      "dek": "TestCase.wrap_with_cuda_memory_check  (and  assertLeaksNoCudaTensors ) \nis unusable outside CUDA:  CudaMemoryLeakCheck.__init__  called \n common_cuda.initialize_cuda_context_rng() , which asserts  TEST_CUDA , \nand every memory query in the class went straight to  torch.cuda . Any",
+      "aiSummary": "The update modifies the test memory-leak check to support any accelerator instead of being restricted to CUDA. Previously, the check relied on CUDA-specific initialization and memory queries, making it unusable for other hardware types.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fxpu%2F203962",
+      "category": "Machine Learning",
+      "filterTags": [
+        "PyTorch",
+        "CUDA",
+        "XPU",
+        "ciflow"
+      ],
+      "publishedAt": "2026-11-08T15:33:38+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Testing"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "ciflow-trunk-203962-make-the-test-memory-leak-check-work-on-any-accelerator-not-just-cuda",
+      "title": "ciflow/trunk/203962: Make the test memory-leak check work on any accelerator, not just CUDA",
+      "dek": "TestCase.wrap_with_cuda_memory_check  (and  assertLeaksNoCudaTensors ) \nis unusable outside CUDA:  CudaMemoryLeakCheck.__init__  called \n common_cuda.initialize_cuda_context_rng() , which asserts  TEST_CUDA , \nand every memory query in the class went straight to  torch.cuda . Any",
+      "aiSummary": "The current memory-leak checking utilities in PyTorch's test framework are restricted to CUDA devices because they rely on specific CUDA initialization and query methods. This change modifies the implementation to support any accelerator, removing the dependency on CUDA-specific context initialization and memory queries.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Ftrunk%2F203962",
+      "category": "Machine Learning",
+      "filterTags": [
+        "PyTorch",
+        "CUDA",
+        "Memory Leak",
+        "Accelerator",
+        "Testing"
+      ],
+      "publishedAt": "2026-11-08T15:33:38+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "1-0-to-humankind-us-midterms-vote-puts-ai-datacentres-and-the-broligarchy-back-in-their-box-heather-stewart",
+      "title": "1-0 to humankind? US midterms vote puts AI, datacentres and the broligarchy back in their box | Heather Stewart",
+      "dek": "Election results appear to have turbo-charged an already growing social, political and financial market rethink about AI ‘AI clog’: UK battles onslaught of chatbot-generated complaints Editorial: the AI backlash – Silicon Valley’s political power is cracking Last week’s midterms ",
+      "aiSummary": "The recent US midterm election results have intensified discussions about the impact of AI, prompting a broader social, political, and financial reassessment. In the UK, a surge of chatbot-generated complaints has highlighted concerns over AI-generated content. The editorial argues that Silicon Valley’s political influence is weakening as a result of these developments.",
+      "articleUrl": "https://www.theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AI",
+        "datacentres",
+        "chatbots",
+        "Silicon Valley"
+      ],
+      "publishedAt": "2026-11-08T12:05:58+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "tom-gauld-on-prompts-for-a-cartoon-about-artificial-intelligence-and-writing-cartoon",
+      "title": "Tom Gauld on prompts for a cartoon about artificial intelligence and writing – cartoon",
+      "dek": "Continue reading...",
+      "aiSummary": "The article explains how Tom Gauld develops prompts for a cartoon that examines artificial intelligence and the act of writing.",
+      "articleUrl": "https://www.theguardian.com/books/picture/2026/nov/08/tom-gauld-on-prompts-for-a-cartoon-about-artificial-intelligence-and-writing-cartoon",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AI",
+        "Prompts",
+        "Tom Gauld"
+      ],
+      "publishedAt": "2026-11-08T12:00:40+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Entertainment"
+        },
+        {
+          "name": "Creative Arts"
+        }
+      ]
+    },
+    {
+      "slug": "the-efficiency-trap-why-optimising-everything-can-backfire-badly",
+      "title": "The efficiency trap: why optimising everything can backfire, badly",
+      "dek": "From roundabouts to the stock market, relentless streamlining could be making the world more dangerous We have all been there: packed shoulder to shoulder on the train while the person beside us coughs and sneezes. A protective flu jab offers some reassurance, but so does the tho",
+      "aiSummary": "The article argues that relentless streamlining in areas such as traffic design and financial markets can increase risks. It cites examples like crowded trains where close contact heightens disease spread, suggesting that over‑optimization may lead to unintended negative consequences.",
+      "articleUrl": "https://www.theguardian.com/books/2026/nov/08/the-efficiency-trap-why-optimising-everything-can-backfire-badly",
+      "category": "Health",
+      "filterTags": [],
+      "publishedAt": "2026-11-08T12:00:39+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Health"
+        },
+        {
+          "name": "Transportation"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Risk"
+        }
+      ]
+    },
+    {
+      "slug": "i-used-nyt-cooking-s-new-ai-powered-recipe-modifier-and-it-s-actually-pretty-good",
+      "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
+      "dek": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It mostly hits the mark.",
+      "aiSummary": "The New York Times Cooking app now includes a beta AI-powered recipe modifier that lets users swap ingredients or tweak recipes. According to the author, the feature generally works well.",
+      "articleUrl": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+      "category": "AI",
+      "filterTags": [
+        "New York Times",
+        "NYT Cooking",
+        "AI"
+      ],
+      "publishedAt": "2026-11-08T12:00:00+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Food & Drink"
+        },
+        {
+          "name": "Consumer Apps"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-buys-power-for-ai-data-centres-in-3-4b-deal-ft-says",
+      "title": "Anthropic Buys Power for AI Data Centres in $3.4B Deal, FT Says",
+      "dek": "Anthropic PBC has agreed to pay $3.4 billion for gas-fired generators for data centers, the FT reported, in what it described as the largest known single purchase of power-generation equipment by an AI lab.",
+      "aiSummary": "Anthropic PBC has agreed to purchase gas-fired generators for its data centers in a $3.4 billion deal. The Financial Times reported that this is the largest known single purchase of power-generation equipment by an AI laboratory.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-08/anthropic-buys-power-for-ai-data-centres-in-3-4b-deal-ft-says",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "FT",
+        "gas-fired generators",
+        "data centers"
+      ],
+      "publishedAt": "2026-11-08T11:48:21+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Energy Infrastructure"
+        },
+        {
+          "name": "Corporate Finance"
+        }
+      ]
+    },
+    {
+      "slug": "etsy-ai-training-terms-change",
+      "title": "Etsy AI training terms change",
+      "dek": "Etsy updates its rules regarding the use of AI training.",
+      "aiSummary": "The provided text does not contain any information to summarize.",
+      "articleUrl": "https://consumerrights.wiki/w/Etsy_AI_training_terms_change_(2026)",
+      "category": "E-commerce",
+      "filterTags": [
+        "Etsy",
+        "AI"
+      ],
+      "publishedAt": "2026-11-08T11:48:06+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "E-commerce"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "government-looking-seriously-at-banning-under-16s-from-vinted-and-ebay",
+      "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+      "dek": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
+      "aiSummary": "The culture secretary confirmed that the government is considering banning under-16 users from Vinted and eBay. The platforms could be added to a list of sites slated for a ban next March.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+      "category": "Regulation",
+      "filterTags": [
+        "Vinted",
+        "eBay"
+      ],
+      "publishedAt": "2026-11-08T11:25:32+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Regulation"
+        },
+        {
+          "name": "E-commerce"
+        },
+        {
+          "name": "Youth Protection"
+        }
+      ]
+    },
+    {
+      "slug": "ai-alignment-considered-harmful",
+      "title": "AI Alignment Considered Harmful",
+      "dek": "AI alignment could be harmful.",
+      "aiSummary": "",
+      "articleUrl": "http://togelius.blogspot.com/2026/11/ai-alignment-considered-harmful.html",
+      "category": "AI",
+      "filterTags": [],
+      "publishedAt": "2026-11-08T11:19:35+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "google-ai-releases-elephant-goldfish-model-plugin-for-spec-first-coding",
+      "title": "Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding",
+      "dek": "Google's Elephant-Goldfish Model plugin makes coding agents draft specs, then runs 5 zero-context review stages before any code. \n The post  Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding  appeared first on  MarkTechPost .",
+      "aiSummary": "Google AI introduced the Elephant‑Goldfish Model plugin, which enables coding agents to first draft specifications. The plugin then performs five zero‑context review stages before generating any code.",
+      "articleUrl": "https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Google AI",
+        "Elephant-Goldfish Model",
+        "coding agents",
+        "spec-first coding",
+        "zero-context review"
+      ],
+      "publishedAt": "2026-11-08T10:46:18+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Productivity Tools"
+        }
+      ]
+    },
+    {
+      "slug": "which-routing-does-each-moe-model-use-deepseek-qwen-mixtral-llama-4-gpt-oss-compared",
+      "title": "Which Routing Does Each MoE Model Use? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared",
+      "dek": "A config-verified comparison of how 10 open MoE models route tokens: total and active parameters, expert counts, top-k, shared experts, gating functions and load-balancing methods. \n The post  Which Routing Does Each MoE Model Use? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compar",
+      "aiSummary": "The article provides a configuration-verified comparison of ten open Mixture of Experts (MoE) models, including DeepSeek, Qwen, Mixtral, Llama 4, and gpt-oss. It details specific architectural metrics such as total and active parameters, expert counts, top-k selection, shared experts, gating functions, and load-balancing methods.",
+      "articleUrl": "https://www.marktechpost.com/2026/11/08/moe-model-routing-comparison/",
+      "category": "AI",
+      "filterTags": [
+        "MoE",
+        "DeepSeek",
+        "Qwen",
+        "Mixtral",
+        "Llama 4",
+        "gpt-oss",
+        "Token Routing",
+        "Gating Functions"
+      ],
+      "publishedAt": "2026-11-08T10:27:27+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "world-models-will-soon-be-inescapable-here-s-what-you-need-to-know",
+      "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
+      "dek": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
+      "aiSummary": "The article discusses how AI is transitioning from text-based models to 3D world models that simulate real-world physics. These models help train robots and autonomous vehicles to navigate real environments.",
+      "articleUrl": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AI",
+        "world models",
+        "robots",
+        "autonomous cars",
+        "3D space"
+      ],
+      "publishedAt": "2026-11-08T10:00:00+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Robotics"
+        },
+        {
+          "name": "Autonomous Vehicles"
+        }
+      ]
+    },
+    {
+      "slug": "b12205-webgpu-add-count-equal-support-31578",
+      "title": "b12205: webgpu : add COUNT_EQUAL support (#31578)",
+      "dek": "webgpu : add COUNT_EQUAL support \n \n Assisted-by: Codex \n \n webgpu : reduce small COUNT_EQUAL inputs in one dispatch \n \n Assisted-by: Codex \n \n \n webgpu : simplify COUNT_EQUAL and reuse existing tests \n \n \n webgpu : move COUNT_EQUAL pipeline cache declaration \n \n \n Update ggml/sr",
+      "aiSummary": "The commit introduces support for the COUNT_EQUAL operation in the WebGPU backend. It includes optimizations to reduce small inputs in a single dispatch, simplifies the implementation to reuse existing tests, and moves the pipeline cache declaration.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12205",
+      "category": "Machine Learning",
+      "filterTags": [
+        "WebGPU",
+        "ggml",
+        "COUNT_EQUAL",
+        "Codex"
+      ],
+      "publishedAt": "2026-11-08T09:50:09+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Graphics"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "b12204-ci-move-runners-to-ubuntu-26-04-31529",
+      "title": "b12204: ci: move runners to Ubuntu 26.04 (#31529)",
+      "dek": "ci: update to ubuntu26.04 \n \n Signed-off-by: Aaron Teo  aaron.teo1@ibm.com \n \n ci: bring back toolchain workaround \n \n Signed-off-by: Aaron Teo  aaron.teo1@ibm.com \n \n ci: remove workaround completely \n \n Signed-off-by: Aaron Teo  aaron.teo1@ibm.com \n \n ci: more switching to ubun",
+      "aiSummary": "A commit updates the continuous integration infrastructure to migrate runners to Ubuntu 26.04. The changes include temporary toolchain workarounds that were subsequently removed as part of the transition.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12204",
+      "category": "DevOps",
+      "filterTags": [
+        "Ubuntu 26.04",
+        "CI",
+        "IBM"
+      ],
+      "publishedAt": "2026-11-08T09:47:29+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "b12203-ggml-switch-to-f32-src1-in-the-cpu-backend-31854",
+      "title": "b12203: ggml : switch to F32 src1 in the CPU backend (#31854)",
+      "dek": "ggml : switch to F32 src1 in the CPU backend \n \n Change the default computation for GGML_TYPE_F16 to use F32 for src1 \ndata in matrix multiplications: vec_dot_type(F16) is now F32 and the dot \nproduct goes through the new ggml_vec_dot_f16_f32 (x = F16 src0, y = F32 \nsrc1), so src",
+      "aiSummary": "This update modifies the CPU backend to use F32 precision for the second source (src1) in matrix multiplications involving GGML_TYPE_F16. The implementation introduces a new ggml_vec_dot_f16_f32 function to handle dot products where the first source is F16 and the second is F32.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12203",
+      "category": "Machine Learning",
+      "filterTags": [
+        "ggml",
+        "CPU backend",
+        "F32",
+        "F16",
+        "matrix multiplication"
+      ],
+      "publishedAt": "2026-11-08T09:44:00+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Performance Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "what-can-ai-hack-inside-frontier-labs-tests",
+      "title": "What Can AI Hack? Inside Frontier Labs' Tests",
+      "dek": "Exploring the hacking capabilities of AI through Frontier Labs' experiments",
+      "aiSummary": "",
+      "articleUrl": "https://dorcohen.dev/posts/what-can-ai-actually-hack/",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Frontier Labs"
+      ],
+      "publishedAt": "2026-11-08T09:42:03+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "ciflow-trunk-203556-fsdp2-reuse-reduce-input-for-singleton-groups",
+      "title": "ciflow/trunk/203556: [FSDP2] Reuse reduce input for singleton groups",
+      "dek": "For a shard group of size one, foreach_reduce allocated a separate reduce-scatter output and copied the packed input into it even though no collective runs. Large unreplicated expert groups can make that redundant output GiB-scale, and CUDA graph capture retains it in the graph-p",
+      "aiSummary": "In FSDP2, the foreach_reduce function previously allocated a separate output buffer and copied data for shard groups of size one, even though no collective communication was required. This change reuses the input buffer to avoid redundant memory allocation, which is significant for large unreplicated expert groups where the extra output could reach gigabytes in size and persist during CUDA graph capture.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Ftrunk%2F203556",
+      "category": "Machine Learning",
+      "filterTags": [
+        "FSDP2",
+        "PyTorch",
+        "CUDA",
+        "foreach_reduce",
+        "reduce-scatter"
+      ],
+      "publishedAt": "2026-11-08T08:37:09+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Distributed Systems"
+        },
+        {
+          "name": "Performance Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "moe-routing-strategies-explained-top-k-expert-choice-sigmoid-gating-and-dynamic-routing-2026-guide",
+      "title": "MoE Routing Strategies Explained: Top-K, Expert-Choice, Sigmoid Gating and Dynamic Routing (2026 Guide)",
+      "dek": "MoE routing strategies decide which experts process each token. This guide explains 7 methods, from Mixtral's top-2 softmax to DeepSeek-V4's hash routing, with the models that use each one. \n The post  MoE Routing Strategies Explained: Top-K, Expert-Choice, Sigmoid Gating and Dyn",
+      "aiSummary": "The article describes how mixture‑of‑experts routing determines which experts handle each token. It outlines seven routing methods, including Mixtral's top‑2 softmax and DeepSeek‑V4's hash routing, and lists the models that employ each technique.",
+      "articleUrl": "https://www.marktechpost.com/2026/11/07/moe-routing-strategies-explained/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "MoE",
+        "Mixtral",
+        "DeepSeek-V4",
+        "top-2 softmax",
+        "hash routing"
+      ],
+      "publishedAt": "2026-11-08T06:18:33+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "cathie-wood-always-feels-better-when-the-market-is-worried-here-s-why",
+      "title": "Cathie Wood 'always feels better when the market is worried' — here's why",
+      "dek": "The Ark Invest CEO said there was a \"wall of worry\" gripping markets right now.",
+      "aiSummary": "Ark Invest CEO Cathie Wood stated that she feels better when the market is worried, citing a current \"wall of worry\" gripping investors. She suggests that this anxiety creates favorable conditions for her investment strategy.",
+      "articleUrl": "https://www.cnbc.com/2026/11/08/cathie-wood-ai-selloff.html",
+      "category": "Investing",
+      "filterTags": [
+        "Cathie Wood",
+        "Ark Invest",
+        "Market Sentiment"
+      ],
+      "publishedAt": "2026-11-08T06:00:01+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Investing"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "ai-is-speeding-up-recruitment-and-putting-agency-fees-under-pressure",
+      "title": "AI is speeding up recruitment — and putting agency fees under pressure",
+      "dek": "Recruiters say AI is speeding up screening and reshaping agency work, raising questions about whether percentage-based placement fees can hold.",
+      "aiSummary": "Recruiters report that AI is accelerating candidate screening and fundamentally altering the landscape of agency work. This technological shift is prompting industry questions about whether percentage-based placement fees remain sustainable.",
+      "articleUrl": "https://www.cnbc.com/2026/11/08/ai-recruitment-agency-fees.html",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Recruitment",
+        "Agency Fees"
+      ],
+      "publishedAt": "2026-11-08T06:00:01+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Human Resources"
+        }
+      ]
+    },
+    {
+      "slug": "ai-is-coming-for-managers-headcount",
+      "title": "AI is coming for managers’ headcount",
+      "dek": "Their pay grade could be next",
+      "aiSummary": "The article suggests that artificial intelligence is poised to impact the number of managerial positions available. It further implies that the compensation levels for these roles may also be affected next.",
+      "articleUrl": "https://www.ft.com/content/c1af5834-e9ee-411f-ba57-9af758ac6682?syn-25a6b1a6=1",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Management",
+        "Headcount",
+        "Pay Grade"
+      ],
+      "publishedAt": "2026-11-08T05:00:19+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Workforce"
+        },
+        {
+          "name": "Business Strategy"
+        }
+      ]
+    },
+    {
+      "slug": "argentina-s-milei-dreams-of-data-centres-on-the-patagonian-steppe",
+      "title": "Argentina’s Milei dreams of data centres on the Patagonian steppe",
+      "dek": "Libertarian seeks to turn vast land and energy resources into the foundation of his ‘unregulated’ AI hub",
+      "aiSummary": "Argentina's President Javier Milei plans to develop data centers in Patagonia, using the region's abundant land and energy resources. He envisions an unregulated AI hub that could attract tech investment. The initiative aims to boost the country's tech sector and create jobs.",
+      "articleUrl": "https://www.ft.com/content/d432ae29-6454-4916-98c7-afb6993cfb67?syn-25a6b1a6=1",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AI",
+        "data centers",
+        "Patagonia",
+        "Argentina"
+      ],
+      "publishedAt": "2026-11-08T05:00:10+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "Economics"
+        }
+      ]
+    },
+    {
+      "slug": "v1-13-2-test-auth-cover-trusted-proxy-credential-sources-16238",
+      "title": "v1.13.2: test(auth): cover trusted proxy credential sources (#16238)",
+      "dek": "test(auth): cover trusted proxy credential sources \n \n \n test(auth): verify WebSocket query token forwarding",
+      "aiSummary": "The release v1.13.2 introduces new test coverage for authentication mechanisms. Specifically, it verifies the handling of trusted proxy credential sources and ensures that WebSocket query tokens are forwarded correctly.",
+      "articleUrl": "https://github.com/langflow-ai/langflow/releases/tag/v1.13.2",
+      "category": "Security",
+      "filterTags": [
+        "auth",
+        "WebSocket",
+        "proxy",
+        "v1.13.2"
+      ],
+      "publishedAt": "2026-11-08T04:43:07+00:00",
+      "publisher": {
+        "name": "langflow-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langflow-ai/langflow",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Testing"
+        }
+      ]
+    }
+  ]
+}
