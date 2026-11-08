@@ -1,0 +1,640 @@
+{
+  "news": [
+    {
+      "slug": "good-night-and-good-luck-ai-fear-and-what-the-job-data-says",
+      "title": "Good Night, and Good Luck: AI, fear and what the job data says",
+      "dek": "How job statistics relate to AI and anxiety",
+      "aiSummary": "The article examines the relationship between artificial intelligence, public fear, and current employment data. It analyzes what job market statistics reveal about the impact of AI on the workforce.",
+      "articleUrl": "https://rpallas.xyz/good-night-and-good-luck/",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Job Data",
+        "Employment"
+      ],
+      "publishedAt": "2026-11-08T03:14:51+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Economy"
+        },
+        {
+          "name": "Labor Market"
+        }
+      ]
+    },
+    {
+      "slug": "ciflow-torchtitan-203665-update",
+      "title": "ciflow/torchtitan/203665: Update",
+      "dek": "[ghstack-poisoned]",
+      "aiSummary": "The provided text indicates a code update associated with the ciflow/torchtitan repository, specifically referencing ID 203665. The description notes that the change is marked as '[ghstack-poisoned]', which typically signifies a state in the GitHub Stack (ghstack) workflow where the diff is invalid or requires rebase.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Ftorchtitan%2F203665",
+      "category": "Open Source",
+      "filterTags": [
+        "ciflow",
+        "torchtitan",
+        "ghstack"
+      ],
+      "publishedAt": "2026-11-08T03:00:36+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "why-mandating-ai-use-in-the-workplace-can-backfire",
+      "title": "Why mandating AI use in the workplace can backfire",
+      "dek": "Forcing employees to use AI at work can have negative consequences.",
+      "aiSummary": "The article discusses the potential downsides of requiring employees to use artificial intelligence in their daily tasks. It suggests that such mandates may lead to unintended negative outcomes in the workplace.",
+      "articleUrl": "https://www.msn.com/en-us/news/other/why-mandating-ai-use-in-the-workplace-can-backfire/ar-AA2gAwkW",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Workplace"
+      ],
+      "publishedAt": "2026-11-08T02:31:51+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "v1-110-0-dev-2",
+      "title": "v1.110.0-dev.2",
+      "dek": "Verify Docker Image Signature \n All LiteLLM Docker images are signed with  cosign . This release is signed with the key introduced in  commit  e82a3c6 . \n Verify using the pinned commit hash (recommended): \n A commit hash is cryptographically immutable, so this is the strongest w",
+      "aiSummary": "LiteLLM has released version 1.110.0-dev.2, which includes Docker images signed using cosign. The release is signed with a specific key introduced in commit e82a3c6, and users are advised to verify the signature using the pinned commit hash for the strongest security guarantee.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.110.0-dev.2",
+      "category": "DevOps",
+      "filterTags": [
+        "LiteLLM",
+        "Docker",
+        "cosign",
+        "e82a3c6"
+      ],
+      "publishedAt": "2026-11-08T02:25:47+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-1b28efb3dc12318c0008b9708f732440a2d301a0",
+      "title": "trunk/1b28efb3dc12318c0008b9708f732440a2d301a0",
+      "dek": "[Testcase Refactoring] Make test_bad_decomp device-agnostic via insta…",
+      "aiSummary": "The commit refactors the test_bad_decomp test case to be device-agnostic. This change ensures the test is not tied to specific hardware or device configurations.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F1b28efb3dc12318c0008b9708f732440a2d301a0",
+      "category": "Software Engineering",
+      "filterTags": [
+        "test_bad_decomp",
+        "refactoring",
+        "device-agnostic"
+      ],
+      "publishedAt": "2026-11-08T02:19:42+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Testing"
+        }
+      ]
+    },
+    {
+      "slug": "b12198",
+      "title": "b12198",
+      "dek": "server : downgrade per-request proxy logs to trace ( #31859 ) \n Assisted-by: dsh:llama.cpp/ggml-org/Qwen3.8-Flash-Next-GGUF (MacBook, M5 Max, 128GB) \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/64965303 \n \n macOS/iOS:",
+      "aiSummary": "This entry identifies build b121981, which includes a change to downgrade per-request proxy logs to trace level. The build is associated with the llama.cpp project and references a specific model and hardware configuration.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12198",
+      "category": "AI",
+      "filterTags": [
+        "llama.cpp",
+        "ggml-org",
+        "Qwen3.8-Flash-Next-GGUF",
+        "MacBook",
+        "M5 Max"
+      ],
+      "publishedAt": "2026-11-08T02:09:08+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "ciflow-torchtitan-203764-update",
+      "title": "ciflow/torchtitan/203764: Update",
+      "dek": "[ghstack-poisoned]",
+      "aiSummary": "The provided text indicates an update to the ciflow/torchtitan repository, specifically referencing item 203764. The description notes that the change is ghstack-poisoned, which typically implies a conflict or issue with the git stack tooling.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Ftorchtitan%2F203764",
+      "category": "Open Source",
+      "filterTags": [
+        "ciflow",
+        "torchtitan",
+        "ghstack"
+      ],
+      "publishedAt": "2026-11-08T01:57:58+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "b12197",
+      "title": "b12197",
+      "dek": "hexagon: support for automatic loading of libhtp without legacy env vars ( #31781 ) \n \n \n hexagon: use absolute skel path \n \n \n hexagon: support non-ascii dir and long path in skel-abs path \n \n \n hex-libdir: add support for FASTRPC_MANAGE_DSP_LIBRARY_PATH and GGML_HEXAGON_LIBHTP_",
+      "aiSummary": "The update introduces support for automatically loading libhtp in the Hexagon architecture without relying on legacy environment variables. It also implements the use of absolute skeleton paths, adds support for non-ASCII directories and long paths, and includes new support for FASTRPC_MANAGE_DSP_LIBRARY_PATH and GGML_HEXAGON_LIBHTP_ variables.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12197",
+      "category": "Hardware",
+      "filterTags": [
+        "Hexagon",
+        "libhtp",
+        "FASTRPC",
+        "GGML"
+      ],
+      "publishedAt": "2026-11-08T01:49:14+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "System Software"
+        }
+      ]
+    },
+    {
+      "slug": "b12196",
+      "title": "b12196",
+      "dek": "sycl: exact rounding in CPY to Q4_1, Q5_1 and Q8_0 ( #31465 ) \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/64960076 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silicon (arm64, KleidiAI enabled)  DISAB",
+      "aiSummary": "This update introduces exact rounding capabilities for the CPY operation targeting Q4_1, Q5_1, and Q8_0 data types within the SYCL backend. The release is associated with the llama.cpp project and includes support for macOS Apple Silicon architectures.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12196",
+      "category": "AI",
+      "filterTags": [
+        "llama.cpp",
+        "SYCL",
+        "Q4_1",
+        "Q5_1",
+        "Q8_0",
+        "CPY",
+        "macOS",
+        "Apple Silicon"
+      ],
+      "publishedAt": "2026-11-08T01:32:39+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "syncing-apple-music-across-your-devices-is-easier-than-you-think",
+      "title": "Syncing Apple Music across your devices is easier than you think",
+      "dek": "One perk of subscribing to Apple Music is having your collection synced across all your devices - and all it takes is a simple toggle. Here's how.",
+      "aiSummary": "Subscribers to Apple Music can synchronize their music collection across all their devices by enabling a simple toggle. This feature ensures that your library remains consistent regardless of which device you are using.",
+      "articleUrl": "https://www.engadget.com/2307469/how-to-sync-apple-music-across-devices/",
+      "category": "Consumer Tech",
+      "filterTags": [
+        "Apple Music",
+        "Apple"
+      ],
+      "publishedAt": "2026-11-08T01:30:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Tech"
+        },
+        {
+          "name": "Music"
+        }
+      ]
+    },
+    {
+      "slug": "ai-agents-stole-190k-gaming-credentials-for-under-400-in-model-costs",
+      "title": "AI agents stole 190k gaming credentials for under $400 in model costs",
+      "dek": "AI bots stole 190,000 gaming passwords for less than $400 in AI model expenses.",
+      "aiSummary": "AI agents stole 190,000 gaming credentials for under $400 in model costs. The incident highlights how cheaply AI can be used to harvest sensitive data.",
+      "articleUrl": "https://research.checkpoint.com/2026/hacking-on-autopilot-inside-artex-cybercrime-campaigns/",
+      "category": "AI",
+      "filterTags": [
+        "AI agents",
+        "Gaming credentials",
+        "Model costs"
+      ],
+      "publishedAt": "2026-11-08T01:24:19+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Gaming"
+        }
+      ]
+    },
+    {
+      "slug": "samsung-one-ui-9-5-beta-may-be-coming-soon-here-s-how-to-sign-up-for-the-program",
+      "title": "Samsung One UI 9.5 beta may be coming soon: Here's how to sign up for the program",
+      "dek": "Samsung appears to be preparing the One UI 9.5 beta program ahead of an expected 2027 launch. Here's what to do if you want to test Samsung's latest OS.",
+      "aiSummary": "Samsung is reportedly preparing to launch the One UI 9.5 beta program in anticipation of a 2027 release. The article provides instructions for users who wish to sign up and test the upcoming operating system.",
+      "articleUrl": "https://www.engadget.com/2307479/samsung-one-ui-9-5-beta-program-how-to-sign-up/",
+      "category": "Mobile",
+      "filterTags": [
+        "Samsung",
+        "One UI 9.5",
+        "Beta Program"
+      ],
+      "publishedAt": "2026-11-08T01:00:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Mobile"
+        },
+        {
+          "name": "Software"
+        }
+      ]
+    },
+    {
+      "slug": "how-do-spam-callers-get-your-number-in-the-first-place",
+      "title": "How do spam callers get your number in the first place?",
+      "dek": "Ever wonder how a total stranger ended up with your phone number? The answer starts earlier than you think, and a few small habits can keep it from spreading.",
+      "aiSummary": "The article explains how spam callers acquire phone numbers, often from data that is shared earlier than you realize. It highlights that many people unknowingly expose their numbers through online forms, social media, or data breaches. The piece offers simple habits to reduce the risk of your number being shared.",
+      "articleUrl": "https://www.engadget.com/2307324/spam-callers-how-they-get-your-number/",
+      "category": "Privacy",
+      "filterTags": [],
+      "publishedAt": "2026-11-08T00:45:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Privacy"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Telecommunications"
+        }
+      ]
+    },
+    {
+      "slug": "can-the-zelda-remake-capture-the-magic-of-the-original",
+      "title": "Can the Zelda remake capture the magic of the original?",
+      "dek": "Nintendo has released its remake of what is considered one of the best games ever made - the BBC's Tom Gerken gives his verdict.",
+      "aiSummary": "Nintendo has released a remake of a game widely regarded as one of the best ever made. BBC journalist Tom Gerken provides his assessment of whether the new version successfully captures the essence of the original title.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss",
+      "category": "Gaming",
+      "filterTags": [
+        "Nintendo",
+        "Zelda",
+        "BBC",
+        "Tom Gerken"
+      ],
+      "publishedAt": "2026-11-08T00:37:45+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "Entertainment"
+        }
+      ]
+    },
+    {
+      "slug": "v1-14-0-dev21",
+      "title": "v1.14.0.dev21",
+      "dek": "Langflow nightly v1.14.0.dev21",
+      "aiSummary": "Langflow has released a nightly build, version 1.14.0.dev21. This indicates ongoing development and updates to the platform. The release is part of the continuous development cycle.",
+      "articleUrl": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev21",
+      "category": "AI",
+      "filterTags": [
+        "Langflow"
+      ],
+      "publishedAt": "2026-11-08T00:27:28+00:00",
+      "publisher": {
+        "name": "langflow-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langflow-ai/langflow",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "datasette-3046-don-t-serve-link-rel-next-http-headers-to-firefox-for-html-pages",
+      "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+      "dek": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages \nI was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an  HTTP prefetch  to the next page of rows in that table. \n This was happen",
+      "aiSummary": "The article reports that Firefox prefetches the next page of rows on a Datasette table page because of link: rel=next HTTP headers. The author observed this behavior in the Firefox network panel and notes that the prefetch is triggered for HTML pages. The issue is identified as Datasette #3046.",
+      "articleUrl": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
+      "category": "Web Development",
+      "filterTags": [
+        "Datasette",
+        "Firefox",
+        "HTTP headers",
+        "link: rel=next"
+      ],
+      "publishedAt": "2026-11-07T23:57:46+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Web Development"
+        },
+        {
+          "name": "Browser"
+        },
+        {
+          "name": "HTTP"
+        }
+      ]
+    },
+    {
+      "slug": "1-108-3-lts",
+      "title": "1.108.3 (LTS)",
+      "dek": "Tip The  lts  image tag always points to the latest LTS release. Pull  ghcr.io/berriai/litellm:lts  to stay on the newest LTS patch \n \n Verify this release \n cosign verify \\\n  --key https://raw.githubusercontent.com/BerriAI/litellm/e82a3c646908ba0a6ee0beddc4310d7a6cac4065/cosign.",
+      "aiSummary": "The LTS image tag for litellm always points to the newest LTS version. Users can pull the image from ghcr.io/berriai/litellm:lts to get the latest patch. The release can be verified using cosign with the provided key.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.108.3",
+      "category": "Open Source",
+      "filterTags": [
+        "litellm",
+        "ghcr.io",
+        "BerriAI",
+        "cosign"
+      ],
+      "publishedAt": "2026-11-07T22:48:05+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Containerization"
+        }
+      ]
+    },
+    {
+      "slug": "after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers",
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "dek": "On Equity, we unpacked what the midterms mean for the tech industry.",
+      "aiSummary": "The article discusses the implications of the midterm elections for the technology sector. It specifically highlights the challenging environment currently facing Elon Musk and the data center industry.",
+      "articleUrl": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "category": "Technology",
+      "filterTags": [
+        "Elon Musk",
+        "data centers",
+        "midterms"
+      ],
+      "publishedAt": "2026-11-07T22:07:22+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Politics"
+        }
+      ]
+    },
+    {
+      "slug": "megaspeed-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo",
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "dek": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+      "aiSummary": "A US intelligence memo indicates that China's Ministry of State Security recruited a female technology executive from Megaspeed to conduct espionage on Nvidia's CEO. The report was reportedly circulated earlier this year.",
+      "articleUrl": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "category": "Cybersecurity",
+      "filterTags": [
+        "Megaspeed",
+        "Nvidia",
+        "China Ministry of State Security"
+      ],
+      "publishedAt": "2026-11-07T21:17:08+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "Geopolitics"
+        },
+        {
+          "name": "Corporate Espionage"
+        }
+      ]
+    }
+  ]
+}
