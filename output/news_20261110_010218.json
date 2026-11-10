@@ -1,0 +1,1714 @@
+{
+  "news": [
+    {
+      "slug": "ciflow-trunk-204141-update-update",
+      "title": "ciflow/trunk/204141: [UPDATE] Update",
+      "dek": "[ghstack-poisoned]",
+      "aiSummary": "The provided text indicates a specific update commit identified as ciflow/trunk/204141. The description notes that the content is ghstack-poisoned, suggesting a technical issue with the stack trace or data integrity.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Ftrunk%2F204141",
+      "category": "DevOps",
+      "filterTags": [
+        "ciflow",
+        "ghstack"
+      ],
+      "publishedAt": "2026-11-10T00:54:25+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "ciflow-trunk-204140-update-update",
+      "title": "ciflow/trunk/204140: [UPDATE] Update",
+      "dek": "[ghstack-poisoned]",
+      "aiSummary": "The provided text indicates an update to the ciflow/trunk/204140 branch. The description notes that the content is ghstack-poisoned, suggesting a specific state or error in the code submission process.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Ftrunk%2F204140",
+      "category": "DevOps",
+      "filterTags": [
+        "ciflow",
+        "ghstack"
+      ],
+      "publishedAt": "2026-11-10T00:54:25+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "ciflow-trunk-204128-update-update",
+      "title": "ciflow/trunk/204128: [UPDATE] Update",
+      "dek": "[ghstack-poisoned]",
+      "aiSummary": "The provided text indicates an update to the ciflow/trunk/204128 branch. The description notes that the content is ghstack-poisoned, suggesting a technical issue with the data source.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/ciflow%2Ftrunk%2F204128",
+      "category": "DevOps",
+      "filterTags": [
+        "ciflow",
+        "ghstack"
+      ],
+      "publishedAt": "2026-11-10T00:54:25+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "b12239",
+      "title": "b12239",
+      "dek": "server : use common_chat_input in realtime api ( #31978 ) \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/65600616 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silicon (arm64, KleidiAI enabled)  DISABLED ",
+      "aiSummary": "This release updates the server to utilize the common_chat_input feature within the real-time API, as detailed in pull request #31978. The build is available for macOS and iOS on Apple Silicon arm64 architecture, with KleidiAI support currently disabled.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12239",
+      "category": "AI",
+      "filterTags": [
+        "llama.cpp",
+        "realtime api",
+        "common_chat_input",
+        "Apple Silicon",
+        "KleidiAI"
+      ],
+      "publishedAt": "2026-11-10T00:52:44+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "why-is-ai-slop-so-frustrating-to-read",
+      "title": "Why is AI slop so frustrating to read?",
+      "dek": "What makes AI-generated content so annoying to read?",
+      "aiSummary": "The provided text does not contain an article body, only a title. Therefore, no factual summary can be generated based on the content.",
+      "articleUrl": "https://twitter.com/zhizdev/status/2119874095269707977",
+      "category": "AI",
+      "filterTags": [
+        "AI"
+      ],
+      "publishedAt": "2026-11-10T00:52:01+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Content Quality"
+        }
+      ]
+    },
+    {
+      "slug": "trump-says-fbi-is-looking-into-nvidia-s-jensen-huang",
+      "title": "Trump says FBI is ‘looking into’ Nvidia’s Jensen Huang",
+      "dek": "US company has been rocked by allegations its chief executive had an affair with a Chinese spy",
+      "aiSummary": "Donald Trump announced that the FBI is investigating Nvidia CEO Jensen Huang. The company has faced scrutiny following allegations that Huang had an affair with a Chinese spy.",
+      "articleUrl": "https://www.ft.com/content/cbabf2da-2079-4b69-88e3-0ba84cf8d6fd?syn-25a6b1a6=1",
+      "category": "Technology",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "FBI",
+        "Donald Trump"
+      ],
+      "publishedAt": "2026-11-10T00:35:56+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Geopolitics"
+        },
+        {
+          "name": "Corporate Governance"
+        }
+      ]
+    },
+    {
+      "slug": "trump-says-fbi-investigating-nvidia-boss-s-affair-with-alleged-chinese-spy",
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "dek": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+      "aiSummary": "Donald Trump announced that the FBI is investigating an alleged affair between Nvidia CEO Jensen Huang and a suspected Chinese spy. The president disclosed that he spoke with Huang on Monday to discuss the matter.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "category": "Geopolitics",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "FBI",
+        "China"
+      ],
+      "publishedAt": "2026-11-10T00:34:53+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Geopolitics"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "National Security"
+        }
+      ]
+    },
+    {
+      "slug": "how-to-turn-on-personal-results-on-your-google-home",
+      "title": "How to turn on personal results on your Google Home",
+      "dek": "Every member of the family can have their own assistant with personal results on Google Home. Find out how to set this feature up.",
+      "aiSummary": "Google Home allows every family member to have their own assistant experience with personalized results. The article explains the steps required to set up this feature for individual users.",
+      "articleUrl": "https://www.engadget.com/2307753/how-to-turn-on-personal-results-google-home/",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Google Home",
+        "Personal Results"
+      ],
+      "publishedAt": "2026-11-10T00:30:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Smart Home"
+        }
+      ]
+    },
+    {
+      "slug": "david-ellison-says-ai-could-be-the-biggest-creative-unlock-in-modern-history",
+      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+      "dek": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at producti",
+      "aiSummary": "During Paramount Skydance's earnings call, CEO David Ellison stated that AI is likely to have a greater impact on the film industry than CGI. He described the technology as a major creative unlock, suggesting it will fundamentally change production processes.",
+      "articleUrl": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+      "category": "Entertainment",
+      "filterTags": [
+        "Paramount Skydance",
+        "David Ellison",
+        "AI",
+        "CGI"
+      ],
+      "publishedAt": "2026-11-10T00:28:49+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Entertainment"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "b12238",
+      "title": "b12238",
+      "dek": "server: add oai-compat /v1/audio/speech endpoint ( #31763 ) \n \n \n server: add oai-compat /v1/audio/speech endpoint \n \n \n add e2e pytest \n \n \n server: share the s16 rounding, type speech form fields \n \n \n The WAV writer of the audio helper truncates while pcm_f32_to_s16 \nrounds, s",
+      "aiSummary": "The server has been updated to include an OpenAI-compatible /v1/audio/speech endpoint. The changes also involve adding end-to-end pytest coverage and standardizing the s16 rounding and speech form fields between the WAV writer and PCM conversion functions.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12238",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "pytest",
+        "WAV",
+        "PCM"
+      ],
+      "publishedAt": "2026-11-10T00:27:42+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Backend Development"
+        }
+      ]
+    },
+    {
+      "slug": "v1-14-0-dev23",
+      "title": "v1.14.0.dev23",
+      "dek": "Langflow nightly v1.14.0.dev23",
+      "aiSummary": "Langflow has released a nightly development build identified as v1.14.0.dev23. This update represents the current state of the software's ongoing development cycle.",
+      "articleUrl": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev23",
+      "category": "Open Source",
+      "filterTags": [
+        "Langflow"
+      ],
+      "publishedAt": "2026-11-10T00:24:07+00:00",
+      "publisher": {
+        "name": "langflow-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langflow-ai/langflow",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "how-skills-and-agents-work-in-aws-quick",
+      "title": "How skills and agents work in AWS Quick",
+      "dek": "Repeatable tasks like status updates, release notes, and ticket creation can be encoded in AWS Quick through agents and skills. This post covers how agents, skills, and your data fit together in AWS Quick, how to build and share skills for your team, and how the official catalog ",
+      "aiSummary": "AWS Quick allows users to encode repeatable tasks such as status updates and ticket creation using agents and skills. The article details how these components interact with user data, how to build and share skills within a team, and the role of the official catalog.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/how-skills-and-agents-work-in-aws-quick/",
+      "category": "Cloud Computing",
+      "filterTags": [
+        "AWS Quick",
+        "agents",
+        "skills"
+      ],
+      "publishedAt": "2026-11-10T00:21:34+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Automation"
+        }
+      ]
+    },
+    {
+      "slug": "jensen-huang-s-troubles-leave-the-ai-industry-reeling",
+      "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
+      "dek": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
+      "aiSummary": "Nvidia CEO Jensen Huang, who holds substantial influence over the AI industry through his company's chips and financial resources, faces potential risks to his position due to an alleged extramarital affair with a suspected Chinese spy. This personal controversy is currently causing turmoil within the broader AI industry.",
+      "articleUrl": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
+      "category": "AI",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "AI",
+        "Chips"
+      ],
+      "publishedAt": "2026-11-10T00:18:19+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Corporate Governance"
+        },
+        {
+          "name": "Geopolitics"
+        }
+      ]
+    },
+    {
+      "slug": "the-safety-reason-tsa-might-ask-you-to-turn-on-your-phone",
+      "title": "The safety reason TSA might ask you to turn on your phone",
+      "dek": "While traveling through the airport, TSA may ask you to power up your phone. Border agents can conduct a more thorough search as well.",
+      "aiSummary": "When traveling, TSA may request that passengers turn on their phones. This allows border agents to perform a more detailed search.",
+      "articleUrl": "https://www.engadget.com/2307751/why-tsa-ask-turn-on-phone-safety-reason/",
+      "category": "Security",
+      "filterTags": [
+        "TSA",
+        "border agents"
+      ],
+      "publishedAt": "2026-11-10T00:00:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Travel"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-intervened-in-us-megaspeed-chip-smuggling-probe",
+      "title": "Nvidia Intervened in US Megaspeed Chip Smuggling Probe",
+      "dek": "Nvidia's general counsel intervened in a US government probe of suspected smuggling of AI chips by Megaspeed International. Bloomberg's Lynn Doan and Annabelle Droulers explain what we know. (Source: Bloomberg)",
+      "aiSummary": "Nvidia's general counsel has intervened in a US government probe regarding the suspected smuggling of AI chips by Megaspeed International. Bloomberg reporters Lynn Doan and Annabelle Droulers provide details on the current status of the investigation.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-11-09/nvidia-intervened-in-us-megaspeed-chip-smuggling-probe-video",
+      "category": "Semiconductors",
+      "filterTags": [
+        "Nvidia",
+        "Megaspeed International",
+        "AI chips",
+        "Bloomberg"
+      ],
+      "publishedAt": "2026-11-09T23:59:14+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Regulation"
+        },
+        {
+          "name": "Geopolitics"
+        }
+      ]
+    },
+    {
+      "slug": "llm-anthropic-0-31",
+      "title": "llm-anthropic 0.31",
+      "dek": "Release:   llm-anthropic 0.31 \n Anthropic  released Fable 5.2 and Mythos 5.2  today. I've added them to  llm-anthropic , so you can now run prompts through Fable 5.2 like this: \n uv tool install llm\nllm install llm-anthropic\nllm keys set anthropic\n# paste key here\nllm -m claude-f",
+      "aiSummary": "The llm-anthropic library version 0.31 has been released, adding support for Anthropic’s new models Fable 5.2 and Mythos 5.2. Users can install the library with uv, set their Anthropic key, and run prompts through the new models using the llm CLI. This update enables direct access to the latest Claude models via the command line.",
+      "articleUrl": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
+      "category": "AI",
+      "filterTags": [
+        "llm-anthropic",
+        "Anthropic",
+        "Fable 5.2",
+        "Mythos 5.2",
+        "uv",
+        "llm CLI"
+      ],
+      "publishedAt": "2026-11-09T23:58:46+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "locating-the-source-of-a-mysterious-beep-with-claude",
+      "title": "Locating the source of a mysterious beep with Claude",
+      "dek": "Our house has a box room, full of boxes that we still haven't unpacked from our last move. A couple of weeks ago something in that room started  intermittently beeping . The beeps were far enough apart that standing in the room and trying to determine the source of the noise was ",
+      "aiSummary": "The homeowner has a box room full of unpacked boxes. A few weeks ago, an intermittent beep began in the room. The beeps were spaced far enough apart that standing in the room and trying to determine the source was difficult.",
+      "articleUrl": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+      "category": "Home Improvement",
+      "filterTags": [
+        "Claude"
+      ],
+      "publishedAt": "2026-11-09T23:57:21+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Home Improvement"
+        },
+        {
+          "name": "Audio"
+        },
+        {
+          "name": "DIY"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-s-trump-ties-draw-scrutiny-after-reports-huang-was-targeted-by-chinese-intelligence",
+      "title": "Nvidia’s Trump ties draw scrutiny after reports Huang was targeted by Chinese intelligence",
+      "dek": "Nvidia CEO Jensen Huang's extramarital affair with an alleged Chinese spy comes as the company is already about to face heightened scrutiny.",
+      "aiSummary": "Nvidia CEO Jensen Huang is facing increased scrutiny following reports that he was targeted by Chinese intelligence. These allegations coincide with reports of an extramarital affair between Huang and an alleged Chinese spy, occurring at a time when the company is already under heightened examination.",
+      "articleUrl": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-china-spy-trump-lobbying.html",
+      "category": "Technology",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Chinese intelligence"
+      ],
+      "publishedAt": "2026-11-09T23:54:21+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Geopolitics"
+        },
+        {
+          "name": "Corporate Governance"
+        }
+      ]
+    },
+    {
+      "slug": "what-could-china-get-from-jensen-huang",
+      "title": "What could China get from Jensen Huang?",
+      "dek": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range ",
+      "aiSummary": "Nvidia’s chips form the foundation of advanced AI technology in the United States, with demand consistently outpacing supply. The company has also been a significant investor across various sectors. The article examines what China could benefit from by engaging with Jensen Huang.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Nvidia",
+        "AI",
+        "chips",
+        "Jensen Huang"
+      ],
+      "publishedAt": "2026-11-09T23:51:58+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Technology Investment"
+        }
+      ]
+    },
+    {
+      "slug": "here-s-what-trump-said-he-knew-about-jensen-huang",
+      "title": "Here’s what Trump said he knew about Jensen Huang",
+      "dek": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"​​unfaithful\" to his wife, and the company has opened ",
+      "aiSummary": "During a White House press briefing, President Trump answered questions about his knowledge of Nvidia CEO Jensen Huang’s alleged affair with a Chinese spy. Huang recently admitted to being unfaithful to his wife, and Nvidia has opened investigations into the matter.",
+      "articleUrl": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+      "category": "Politics",
+      "filterTags": [
+        "Trump",
+        "Nvidia",
+        "Jensen Huang",
+        "Chinese spy"
+      ],
+      "publishedAt": "2026-11-09T23:47:46+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "b12237",
+      "title": "b12237",
+      "dek": "mtmd: support gemma 4 input audio stream ( #31965 ) \n \n \n mtmd: support gemma 4 input audio stream \n \n \n use 480ms step \n \n \n server: enable realtime embeddings only for audio generation \n \n \n The realtime slot forced embeddings on, which marks every row of a \nbatch as an output.",
+      "aiSummary": "The update introduces support for Gemma 4 input audio streams using a 480ms step. Additionally, it modifies the server to enable realtime embeddings exclusively for audio generation, preventing the realtime slot from forcing embeddings on all batch rows.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12237",
+      "category": "AI",
+      "filterTags": [
+        "mtmd",
+        "Gemma 4",
+        "audio stream",
+        "realtime embeddings"
+      ],
+      "publishedAt": "2026-11-09T23:47:33+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "v0-40-16",
+      "title": "v0.40.16",
+      "dek": "Ripple Preview \n Ripple Preview  from Ricursive Intelligence is a 65B dense model built for agentic coding. \n ollama run ripple-preview \n What's Changed \n \n Qwen3.8 Flash Next uses about 27 GiB less memory on Apple silicon \n ollama launch claude  always routes Claude Code to the ",
+      "aiSummary": "Ricursive Intelligence has released Ripple Preview, a 65‑billion‑parameter dense model designed for agentic coding, which can be run via the ollama command line. The update also notes that Qwen3.8 Flash Next now uses roughly 27 GiB less memory on Apple silicon, and that launching Claude through ollama always routes Claude Code to a specific endpoint.",
+      "articleUrl": "https://github.com/ollama/ollama/releases/tag/v0.40.16",
+      "category": "AI",
+      "filterTags": [
+        "Ricursive Intelligence",
+        "Ripple Preview",
+        "ollama",
+        "Qwen3.8 Flash Next",
+        "Apple silicon",
+        "Claude"
+      ],
+      "publishedAt": "2026-11-09T23:45:36+00:00",
+      "publisher": {
+        "name": "ollama",
+        "domain": "github.com",
+        "website": "https://github.com/ollama/ollama",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "the-new-york-times-doesn-t-understand-ai-s-role-in-suppressing-wages",
+      "title": "The New York Times Doesn't Understand AI's Role in Suppressing Wages",
+      "dek": "The New York Times fails to grasp how artificial intelligence impacts worker pay.",
+      "aiSummary": "The provided text contains only the headline and does not include the article body. Therefore, no factual summary can be generated based on the available content.",
+      "articleUrl": "https://gizmodo.com/the-new-york-times-doesnt-understand-ais-role-in-suppressing-wages-2000836392",
+      "category": "Media",
+      "filterTags": [
+        "New York Times",
+        "AI"
+      ],
+      "publishedAt": "2026-11-09T23:44:04+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Media"
+        },
+        {
+          "name": "Labor Economics"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-ceo-jensen-huang-s-affair-with-alleged-spy-raises-succession-concerns",
+      "title": "Nvidia CEO Jensen Huang's Affair With Alleged Spy Raises Succession Concerns",
+      "dek": "The board is probing whether its CEO was targeted by a foreign agent and facing the risk of a future without its singular leader.",
+      "aiSummary": "Nvidia's board is investigating whether CEO Jensen Huang was targeted by a foreign agent. The inquiry has raised concerns about the company's succession plan and the possibility of a future without a single leader.",
+      "articleUrl": "https://www.bloomberg.com/news/features/2026-11-09/nvidia-ceo-jensen-huang-s-affair-with-alleged-spy-raises-succession-concerns",
+      "category": "Corporate Governance",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "foreign agent"
+      ],
+      "publishedAt": "2026-11-09T23:41:26+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Corporate Governance"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Leadership"
+        }
+      ]
+    },
+    {
+      "slug": "a-teen-used-her-school-chromebook-and-google-ai-mode-to-plan-her-suicide",
+      "title": "A teen used her school Chromebook and Google AI Mode to plan her suicide",
+      "dek": "A young student utilized a school-issued laptop and Google's AI feature to make plans to end her life.",
+      "aiSummary": "A teenager used a Chromebook provided by her school to access Google's AI Mode. She utilized this tool to plan her suicide.",
+      "articleUrl": "https://mashable.com/tech/google-gemini-chromebook-lawsuit-teen-planned-suicide",
+      "category": "AI",
+      "filterTags": [
+        "Google",
+        "Chromebook",
+        "AI Mode"
+      ],
+      "publishedAt": "2026-11-09T23:40:49+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Education"
+        },
+        {
+          "name": "Mental Health"
+        }
+      ]
+    },
+    {
+      "slug": "silicon-valley-and-trump-rally-behind-nvidia-ceo-after-his-affair-with-alleged-chinese-spy",
+      "title": "Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy",
+      "dek": "Elon Musk and other finance moguls defend Jensen Huang after he admitted to the affair, as Trump says FBI ‘is looking into it’  Nvidia’s board needs to do some succession planning – sharpish Donald Trump ,  Elon Musk  and prominent finance moguls have expressed their support for ",
+      "aiSummary": "Elon Musk and other finance leaders defended Nvidia CEO Jensen Huang after he admitted to an affair with a suspected Chinese contact. President Trump said the FBI is investigating the matter, and the Nvidia board is urged to plan for succession.",
+      "articleUrl": "https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk",
+      "category": "Technology",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Elon Musk",
+        "Donald Trump",
+        "FBI",
+        "Chinese contact"
+      ],
+      "publishedAt": "2026-11-09T23:30:37+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "jim-cramer-says-anthropic-s-ipo-could-make-or-break-the-ai-trade-here-s-why",
+      "title": "Jim Cramer says Anthropic's IPO could make or break the AI trade. Here's why",
+      "dek": "Anthropic's initial public offering could be a crucial test of investor confidence in the AI trade, CNBC's Jim Cramer said.",
+      "aiSummary": "CNBC's Jim Cramer stated that Anthropic's initial public offering serves as a critical test for investor confidence in the broader AI market. He suggested that the outcome of this IPO could significantly impact the trajectory of the AI trade.",
+      "articleUrl": "https://www.cnbc.com/2026/11/09/anthropic-ipo-ai-trade-jim-cramer.html",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "IPO",
+        "Jim Cramer",
+        "CNBC"
+      ],
+      "publishedAt": "2026-11-09T23:30:15+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "why-you-probably-shouldn-t-buy-gadgets-with-micro-usb-ports",
+      "title": "Why you probably shouldn't buy gadgets with micro USB ports",
+      "dek": "USB-C has largely taken over where micro USB used to reign, but you'll still spot (and should skip using) some devices using the older connector.",
+      "aiSummary": "USB-C has largely replaced micro USB, but some devices still use the older connector. It is advisable to avoid gadgets with micro USB ports.",
+      "articleUrl": "https://www.engadget.com/2307748/why-avoid-buying-micro-usb-gadgets/",
+      "category": "Hardware",
+      "filterTags": [
+        "USB-C",
+        "micro USB"
+      ],
+      "publishedAt": "2026-11-09T23:30:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Connectivity"
+        }
+      ]
+    },
+    {
+      "slug": "jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago",
+      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+      "dek": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+      "aiSummary": "According to Wired, Jensen Huang hired a PR firm with experience handling high-profile sex scandals shortly after a New York Times report in October 2025 detailed business dealings between him and Alice Huang. The engagement reportedly took place a year ago.",
+      "articleUrl": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+      "category": "Corporate Governance",
+      "filterTags": [
+        "Jensen Huang",
+        "PR firm",
+        "New York Times",
+        "Wired",
+        "Alice Huang"
+      ],
+      "publishedAt": "2026-11-09T23:28:37+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Corporate Governance"
+        },
+        {
+          "name": "Media"
+        },
+        {
+          "name": "Public Relations"
+        }
+      ]
+    },
+    {
+      "slug": "china-chipmakers-to-debut-in-hk-in-test-of-tech-stock-demand",
+      "title": "China Chipmakers to Debut in HK in Test of Tech Stock Demand",
+      "dek": "Chip suppliers Suzhou Denglin Technology Co. and Jiangsu Xinde Semiconductor Technology Co. are set to begin trading in Hong Kong on Tuesday after raising a combined $301 million in their initial public offerings, entering the market at a time of extreme volatility especially for",
+      "aiSummary": "Suzhou Denglin Technology Co. and Jiangsu Xinde Semiconductor Technology Co. will start trading in Hong Kong on Tuesday. They raised a combined $301 million in their IPOs. The listings come amid extreme market volatility.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-09/china-chipmakers-to-debut-in-hk-in-test-of-tech-stock-demand",
+      "category": "Finance",
+      "filterTags": [
+        "Suzhou Denglin Technology",
+        "Jiangsu Xinde Semiconductor",
+        "Hong Kong",
+        "IPO"
+      ],
+      "publishedAt": "2026-11-09T23:25:31+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "1-108-4-lts",
+      "title": "1.108.4 (LTS)",
+      "dek": "Tip The  lts  image tag always points to the latest LTS release. Pull  ghcr.io/berriai/litellm:lts  to stay on the newest LTS patch \n \n Verify this release \n cosign verify \\\n  --key https://raw.githubusercontent.com/BerriAI/litellm/e82a3c646908ba0a6ee0beddc4310d7a6cac4065/cosign.",
+      "aiSummary": "The LTS image tag always points to the newest LTS patch, so users can pull ghcr.io/berriai/litellm:lts to stay up to date. The release can be verified with cosign using a key hosted on the BerriAI GitHub repository.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.108.4",
+      "category": "Open Source",
+      "filterTags": [
+        "litellm",
+        "ghcr.io",
+        "BerriAI",
+        "cosign"
+      ],
+      "publishedAt": "2026-11-09T23:23:50+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Containerization"
+        }
+      ]
+    },
+    {
+      "slug": "meta-s-muse-ai-now-has-an-apple-watch-app-which-you-shouldn-t-install",
+      "title": "Meta's Muse AI now has an Apple Watch app, which you shouldn't install",
+      "dek": "Meta's AI agent has made its way to the  Apple Watch , but all potential benefits are outweighed by the inherent risk associated with the tool, not to mention the privacy implications. Muse AI is available on the Apple Watch, but don't bother with it. Following its expansion to t",
+      "aiSummary": "Meta has released its Muse AI agent for the Apple Watch, but the tool is not recommended for use. The inherent risks and privacy implications associated with the AI outweigh any potential benefits.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/09/metas-muse-ai-now-has-an-apple-watch-app-which-you-shouldnt-install?utm_source=rss",
+      "category": "AI",
+      "filterTags": [
+        "Meta",
+        "Muse AI",
+        "Apple Watch"
+      ],
+      "publishedAt": "2026-11-09T23:03:38+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Privacy"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "jensen-huang-affair-puts-nvidia-s-future-at-risk-with-no-clear-successor-to-the-renowned-ceo",
+      "title": "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned CEO",
+      "dek": "Jensen Huang is practically synonymous with Nvidia, the chipmaker he co-founded in 1993 and turned into one of the most valuable companies on the planet.",
+      "aiSummary": "Jensen Huang, co-founder of Nvidia, has become synonymous with the company. He founded it in 1993 and grew it into one of the world's most valuable firms. The article highlights concerns about Nvidia's future due to the lack of a clear successor.",
+      "articleUrl": "https://www.cnbc.com/2026/11/09/jensen-huang-affair-nvidia-succession.html",
+      "category": "Hardware",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang"
+      ],
+      "publishedAt": "2026-11-09T22:56:39+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Business"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "a-short-seller-flagged-nvidia-ceo-s-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal",
+      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "dek": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+      "aiSummary": "Culper Research raised concerns about Nvidia CEO Jensen Huang's close relationship with a Chinese executive six months prior to the recent spy scandal. The short seller had previously flagged these ties as unusual before the issue became public.",
+      "articleUrl": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+      "category": "Corporate Governance",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Culper Research"
+      ],
+      "publishedAt": "2026-11-09T22:46:09+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Corporate Governance"
+        },
+        {
+          "name": "Geopolitics"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "gradio-7-0-0-dev-0",
+      "title": "gradio@7.0.0-dev.0",
+      "dek": "Features \n \n #13585   8888208  - Keep sessions (outputs, gr.State, running jobs) across refreshes, restarts and replicas.  Thanks  @dawoodkhan82 ! \n #14029   85357b1  - Wait until a prerendered page is shown before resuming its session.  Thanks  @hysts ! \n #14002   dd82f43  - Rem",
+      "aiSummary": "The 7.0.0-dev.0 release of Gradio adds several new features. It allows sessions—including outputs, gr.State, and running jobs—to persist across page refreshes, restarts, and replica deployments. It also introduces a wait mechanism that pauses session resumption until a prerendered page is fully displayed.",
+      "articleUrl": "https://github.com/gradio-app/gradio/releases/tag/gradio%407.0.0-dev.0",
+      "category": "Open Source",
+      "filterTags": [
+        "Gradio",
+        "gr.State"
+      ],
+      "publishedAt": "2026-11-09T22:28:56+00:00",
+      "publisher": {
+        "name": "gradio-app",
+        "domain": "github.com",
+        "website": "https://github.com/gradio-app/gradio",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Web Development"
+        }
+      ]
+    },
+    {
+      "slug": "gradio-uploadbutton-0-11-2-dev-0",
+      "title": "@gradio/uploadbutton@0.11.2-dev.0",
+      "dek": "Dependency updates \n \n @gradio/button@0.8.5-dev.0 \n @gradio/upload@0.19.2-dev.0 \n @gradio/client@2.8.0-dev.0",
+      "aiSummary": "The update includes new versions of several Gradio components: the button, upload, and client libraries. These updates bring the dependencies to their respective dev releases.",
+      "articleUrl": "https://github.com/gradio-app/gradio/releases/tag/%40gradio%2Fuploadbutton%400.11.2-dev.0",
+      "category": "Open Source",
+      "filterTags": [
+        "Gradio",
+        "uploadbutton",
+        "button",
+        "upload",
+        "client"
+      ],
+      "publishedAt": "2026-11-09T22:28:53+00:00",
+      "publisher": {
+        "name": "gradio-app",
+        "domain": "github.com",
+        "website": "https://github.com/gradio-app/gradio",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Web Development"
+        }
+      ]
+    },
+    {
+      "slug": "gradio-video-0-24-0-dev-0",
+      "title": "@gradio/video@0.24.0-dev.0",
+      "dek": "Features \n \n #13926   db0658d  - Mirror the webcam only for front-facing cameras by default.  Thanks  @hysts ! \n \n Dependency updates \n \n @gradio/upload@0.19.2-dev.0 \n @gradio/client@2.8.0-dev.0 \n @gradio/image@0.29.0-dev.0",
+      "aiSummary": "The Gradio video package has released version 0.24.0-dev.0, which includes a feature to mirror the webcam feed only for front-facing cameras by default. This update also incorporates dependency updates for the Gradio upload, client, and image packages.",
+      "articleUrl": "https://github.com/gradio-app/gradio/releases/tag/%40gradio%2Fvideo%400.24.0-dev.0",
+      "category": "AI",
+      "filterTags": [
+        "Gradio",
+        "webcam",
+        "video",
+        "frontend"
+      ],
+      "publishedAt": "2026-11-09T22:28:50+00:00",
+      "publisher": {
+        "name": "gradio-app",
+        "domain": "github.com",
+        "website": "https://github.com/gradio-app/gradio",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "the-race-is-on-to-sue-nvidia",
+      "title": "The race is on to sue Nvidia",
+      "dek": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
+      "aiSummary": "Nvidia's stock fell over 4% after its board began investigating CEO Jensen Huang's ties to a suspected Chinese spy. A securities law expert warns that the company's earlier claim that everything was normal could lead to costly legal issues.",
+      "articleUrl": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "category": "Finance",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Chinese spy",
+        "securities law"
+      ],
+      "publishedAt": "2026-11-09T22:23:42+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "action-packed-apple-pay-ad-drops-directed-by-edgar-wright",
+      "title": "Action-packed Apple Pay ad drops, directed by Edgar Wright",
+      "dek": "Edgar Wright is known for directing films like \"Baby Driver\" and \"Shaun of the Dead\" with his signature fast cuts and rhythmic action. His latest gig showcases the power of Apple Pay when a hero defeats his enemies thanks to the speed and security of his payment method. It's a pl",
+      "aiSummary": "Director Edgar Wright, known for films like 'Baby Driver' and 'Shaun of the Dead', has released a new Apple Pay advertisement. The commercial features fast-paced action where a protagonist defeats enemies using the speed and security of the payment service.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/09/an-action-packed-apple-pay-ad-has-dropped-it-is-directed-by-edgar-wright?utm_source=rss",
+      "category": "Marketing",
+      "filterTags": [
+        "Apple Pay",
+        "Edgar Wright",
+        "Baby Driver",
+        "Shaun of the Dead"
+      ],
+      "publishedAt": "2026-11-09T21:49:59+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Marketing"
+        },
+        {
+          "name": "Entertainment"
+        },
+        {
+          "name": "Fintech"
+        }
+      ]
+    },
+    {
+      "slug": "5-2-0",
+      "title": "5.2.0",
+      "dek": "Dataset Features \n \n Fast streaming decode for image/audio/video/etc. folders datasets by  @lhoestq  in  #8791 \n feat(mesh): accept .gltf in the 3D Mesh feature and the meshfolder builder by  @li-lizhe  in  #8958 \n \n Other improvements and bug fixes \n \n Bump doc-builder workflow ",
+      "aiSummary": "Version 5.2.0 introduces faster streaming decoding for image, audio, video, and other folder datasets, and adds support for .gltf files in the 3D Mesh feature and meshfolder builder. The release also includes various improvements, bug fixes, and an updated doc-builder workflow.",
+      "articleUrl": "https://github.com/huggingface/datasets/releases/tag/5.2.0",
+      "category": "Software Development",
+      "filterTags": [
+        "Dataset",
+        "Streaming Decode",
+        "3D Mesh",
+        "GLTF",
+        "Doc-Builder"
+      ],
+      "publishedAt": "2026-11-09T21:40:43+00:00",
+      "publisher": {
+        "name": "huggingface",
+        "domain": "github.com",
+        "website": "https://github.com/huggingface/datasets",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Data Processing"
+        },
+        {
+          "name": "3D Graphics"
+        },
+        {
+          "name": "Documentation"
+        }
+      ]
+    },
+    {
+      "slug": "langchain-fireworks-1-7-3",
+      "title": "langchain-fireworks==1.7.3",
+      "dek": "Changes since langchain-fireworks==1.7.2 \n release(fireworks): 1.7.3 ( #41773 ) \nfix(fireworks): default  max_tokens  from model profiles ( #41772 ) \nchore(model-profiles): refresh model profile data ( #41762 ) \nchore(model-profiles): refresh model profile data ( #41745 )",
+      "aiSummary": "The langchain-fireworks library has released version 1.7.3, which includes a fix to default max_tokens from model profiles. The update also involves refreshing model profile data.",
+      "articleUrl": "https://github.com/langchain-ai/langchain/releases/tag/langchain-fireworks%3D%3D1.7.3",
+      "category": "AI",
+      "filterTags": [
+        "langchain-fireworks",
+        "fireworks",
+        "model-profiles"
+      ],
+      "publishedAt": "2026-11-09T20:54:21+00:00",
+      "publisher": {
+        "name": "langchain-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langchain-ai/langchain",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "never-share-your-password-again-the-oauth-2-0-solution",
+      "title": "Never Share Your Password Again — The OAuth 2.0 Solution",
+      "dek": "Stop sharing your password by using the OAuth 2.0 method.",
+      "aiSummary": "The article discusses the OAuth 2.0 protocol as a secure alternative to sharing passwords. It explains how this solution allows users to grant access to services without revealing their credentials.",
+      "articleUrl": "https://stackoverflow.blog/2026/11/09/never-share-your-password-again-the-oauth-2-0-solution/",
+      "category": "Security",
+      "filterTags": [
+        "OAuth 2.0",
+        "Password Security",
+        "Authentication"
+      ],
+      "publishedAt": "2026-11-09T20:50:38+00:00",
+      "publisher": {
+        "name": "Stack Overflow Blog",
+        "domain": "stackoverflow.blog",
+        "website": "https://stackoverflow.blog",
+        "logoUrl": "https://stackoverflow.blog/apple-touch-icon.png",
+        "faviconUrl": "https://stackoverflow.blog/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Web Development"
+        }
+      ]
+    },
+    {
+      "slug": "unauthorized-bluetooth-pairing-imessage-snooping-patched-in-ios-27-2-1",
+      "title": "Unauthorized Bluetooth pairing & iMessage snooping patched in iOS 27.2.1",
+      "dek": "Apple's  iOS 27.2.1  update brings key security fixes that stop attackers from accessing your iMessage group chats and pairing with your iPhone via Bluetooth. iOS 27.2.1 includes multiple Bluetooth and iMessage fixes. On Monday, two weeks after  the arrival  of iOS 27.2, Apple  d",
+      "aiSummary": "Apple released iOS 27.2.1, which includes security fixes that stop attackers from accessing iMessage group chats and pairing with iPhones via Bluetooth. The update adds multiple Bluetooth and iMessage fixes and was released two weeks after iOS 27.2.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/09/unauthorized-bluetooth-pairing-imessage-snooping-patched-in-ios-2721?utm_source=rss",
+      "category": "Security",
+      "filterTags": [
+        "Apple",
+        "iOS",
+        "Bluetooth",
+        "iMessage"
+      ],
+      "publishedAt": "2026-11-09T20:41:45+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Mobile"
+        },
+        {
+          "name": "Operating Systems"
+        }
+      ]
+    },
+    {
+      "slug": "claude-fable-5-2-review-fast-creative-and-finally-not-annoying",
+      "title": "Claude Fable 5.2 review: fast, creative, and finally not annoying",
+      "dek": "Watch now (25 mins) | 🎙️ My first-look at Fable 5.2: what it built for me, where it fell down, and whether it belongs in your daily AI stack",
+      "aiSummary": "The article presents a first-look review of Claude Fable 5.2, detailing what the model built for the reviewer and identifying its limitations. It concludes by assessing whether the tool is suitable for inclusion in a daily AI workflow.",
+      "articleUrl": "https://www.lennysnewsletter.com/p/claude-fable-52-review-fast-creative",
+      "category": "AI",
+      "filterTags": [
+        "Claude",
+        "Fable 5.2",
+        "AI"
+      ],
+      "publishedAt": "2026-11-09T20:37:49+00:00",
+      "publisher": {
+        "name": "Lenny's Newsletter",
+        "domain": "lennysnewsletter.com",
+        "website": "https://www.lennysnewsletter.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=lennysnewsletter.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=lennysnewsletter.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Productivity"
+        }
+      ]
+    },
+    {
+      "slug": "exploring-the-world-s-languages-with-language-explorer",
+      "title": "Exploring the world's languages with Language Explorer",
+      "dek": "Natural Language Processing",
+      "aiSummary": "The article focuses on Natural Language Processing. It discusses the application of NLP techniques.",
+      "articleUrl": "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Natural Language Processing"
+      ],
+      "publishedAt": "2026-11-09T20:29:39+00:00",
+      "publisher": {
+        "name": "Google Research",
+        "domain": "research.google",
+        "website": "https://research.google/",
+        "logoUrl": "https://www.gstatic.com/images/branding/googleg_gradient/1x/googleg_gradient_standard_20dp.png",
+        "faviconUrl": "https://www.gstatic.com/images/branding/googleg_gradient/1x/googleg_gradient_standard_20dp.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Natural Language Processing"
+        }
+      ]
+    },
+    {
+      "slug": "jensen-huang-s-image-has-been-shattered-could-he-be-pushed-out-at-nvidia",
+      "title": "Jensen Huang’s image has been shattered. Could he be pushed out at Nvidia?",
+      "dek": "Huang built Nvidia as a family business but after the co-founder had an affair with an alleged Chinese spy, its board faces a difficult decision For more than 30 years, Jensen Huang has been the seemingly unshakable public face of Nvidia. He co-founded the company as a young engi",
+      "aiSummary": "Jensen Huang's public image has been damaged following reports that a co-founder had an affair with an alleged Chinese spy. This scandal presents Nvidia's board with a difficult decision regarding Huang's future leadership of the company, which he has headed for over 30 years.",
+      "articleUrl": "https://www.theguardian.com/technology/2026/nov/09/jensen-huang-image-nvidia",
+      "category": "Corporate Governance",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang"
+      ],
+      "publishedAt": "2026-11-09T20:27:07+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Corporate Governance"
+        },
+        {
+          "name": "Technology Leadership"
+        }
+      ]
+    },
+    {
+      "slug": "single-shot-and-agentic-retrieval-with-amazon-bedrock-managed-knowledge-base",
+      "title": "Single-shot and agentic retrieval with Amazon Bedrock Managed Knowledge Base",
+      "dek": "Amazon Bedrock Managed Knowledge Base now supports single-shot RAG and retrieval-only requests through AgenticRetrieveStream, alongside agentic retrieval. This post explains how the maxAgentIteration parameter matches retrieval effort to each request, using an illustrative intern",
+      "aiSummary": "Amazon Bedrock Managed Knowledge Base has expanded its capabilities to include single-shot RAG and retrieval-only requests. These new features are accessible via AgenticRetrieveStream, complementing its existing agentic retrieval. The article will detail how the maxAgentIteration parameter is used to align retrieval effort with specific request needs.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/single-shot-and-agentic-retrieval-with-amazon-bedrock-managed-knowledge-base/",
+      "category": "AI",
+      "filterTags": [
+        "Amazon Bedrock",
+        "Managed Knowledge Base",
+        "RAG",
+        "AgenticRetrieveStream",
+        "maxAgentIteration"
+      ],
+      "publishedAt": "2026-11-09T20:13:18+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Services"
+        },
+        {
+          "name": "Information Retrieval"
+        }
+      ]
+    },
+    {
+      "slug": "introducing-claude-fable-5-2-on-aws",
+      "title": "Introducing Claude Fable 5.2 on AWS",
+      "dek": "Claude Fable 5.2 and Claude Mythos 5.2 are now available on Amazon Bedrock and Claude Platform on AWS. Learn what's new in both models, why Fable 5.2 matters for your technical workloads, and how to get started building with it on Amazon Bedrock.",
+      "aiSummary": "Claude Fable 5.2 and Claude Mythos 5.2 have been released on Amazon Bedrock and the Claude Platform on AWS. The update highlights new features in both models, with a specific focus on the utility of Fable 5.2 for technical workloads and instructions for developers to begin building with it.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws/",
+      "category": "AI",
+      "filterTags": [
+        "Claude Fable 5.2",
+        "Claude Mythos 5.2",
+        "Amazon Bedrock",
+        "AWS",
+        "Claude Platform"
+      ],
+      "publishedAt": "2026-11-09T20:04:37+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Computing"
+        }
+      ]
+    },
+    {
+      "slug": "the-ai-poster-boy-the-chinese-spy-and-trump-how-an-affair-may-have-harmed-us-security",
+      "title": "The AI poster boy, the ‘Chinese spy’ and Trump: how an affair may have harmed US security",
+      "dek": "Jensen Huang’s close relationship with president means Nvidia CEO’s affair with woman alleged to be working for Beijing is under intense scrutiny A hand on the back, a kiss on the cheek; the  footage of Alice Huang’s interaction  with Jensen Huang in a Taipei venue last year does",
+      "aiSummary": "Nvidia CEO Jensen Huang is under scrutiny after an alleged affair with a woman who may be working for Beijing. Footage from a Taipei venue shows the pair interacting, raising concerns about potential security risks. The situation has attracted attention from U.S. security officials.",
+      "articleUrl": "https://www.theguardian.com/technology/2026/nov/09/nvidia-affair-huang-trump-national-security",
+      "category": "Security",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Beijing",
+        "Taipei"
+      ],
+      "publishedAt": "2026-11-09T20:01:05+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Politics"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-shares-tumble-over-investigation-into-huang-s-affair-with-alleged-chinese-spy",
+      "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+      "dek": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
+      "aiSummary": "Nvidia's share price experienced a significant decline, resulting in the loss of hundreds of billions of dollars in company value. This drop was triggered by an investigation into an alleged affair between CEO Jensen Huang and a suspected Chinese spy.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+      "category": "Technology",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Chinese spy"
+      ],
+      "publishedAt": "2026-11-09T19:58:01+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Corporate Governance"
+        },
+        {
+          "name": "Geopolitics"
+        }
+      ]
+    }
+  ]
+}
