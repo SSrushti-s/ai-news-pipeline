@@ -1,0 +1,1750 @@
+{
+  "news": [
+    {
+      "slug": "anthropic-heads-for-1-3-trillion-valuation-in-major-stock-market-listing",
+      "title": "Anthropic heads for $1.3 trillion valuation in major stock market listing",
+      "dek": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
+      "aiSummary": "Anthropic, the developer of the Claude chatbot, is moving forward with a major stock market listing. The company plans to offer its shares to investors at a price range of $70 to $78.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "Claude",
+        "IPO",
+        "Stock Market"
+      ],
+      "publishedAt": "2026-11-10T13:45:36+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "china-panel-chair-moolenaar-demands-answers-on-nvidia-ceo-s-alleged-affair-with-a-chinese-spy",
+      "title": "China panel chair Moolenaar demands answers on Nvidia CEO's alleged affair with a Chinese spy",
+      "dek": "Rep. John Moolenaar, R-Mich., is the chairman of the Select Committee on China and told CNBC he expects answers about Jensen Huang's relationship.",
+      "aiSummary": "Rep. John Moolenaar, the chairman of the Select Committee on China, stated that he expects answers regarding an alleged affair between Nvidia CEO Jensen Huang and a Chinese spy. Moolenaar made these comments to CNBC, indicating that the committee is seeking clarification on the nature of this relationship.",
+      "articleUrl": "https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html",
+      "category": "Geopolitics",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "John Moolenaar",
+        "Select Committee on China",
+        "CNBC"
+      ],
+      "publishedAt": "2026-11-10T13:41:57+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Geopolitics"
+        },
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Government Oversight"
+        }
+      ]
+    },
+    {
+      "slug": "sydney-researchers-uncover-a-hidden-limit-to-ai-predictability",
+      "title": "Sydney researchers uncover a hidden limit to AI predictability",
+      "dek": "Scientists in Sydney have found a secret boundary to how predictable AI can be.",
+      "aiSummary": "Researchers in Sydney have identified a hidden limit to the predictability of artificial intelligence systems. This discovery suggests that there are inherent constraints on how accurately AI behavior can be forecasted.",
+      "articleUrl": "https://www.sydney.edu.au/news-opinion/news/2026/11/06/sydney-researchers-uncover-a-hidden-limit-to-ai-predictability.html",
+      "category": "AI",
+      "filterTags": [
+        "Sydney",
+        "AI",
+        "Predictability"
+      ],
+      "publishedAt": "2026-11-10T13:34:54+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Research"
+        }
+      ]
+    },
+    {
+      "slug": "show-hn-pvewarden-let-an-ai-agent-patch-proxmox-vms-without-giving-it-a-shell",
+      "title": "Show HN: pvewarden – let an AI agent patch Proxmox VMs without giving it a shell",
+      "dek": "A tool allows AI agents to fix Proxmox virtual machines without providing them direct shell access.",
+      "aiSummary": "pvewarden is a tool that enables AI agents to apply patches to Proxmox virtual machines. It achieves this by restricting the agent's capabilities, preventing it from having direct shell access to the system.",
+      "articleUrl": "https://github.com/matousfiser/pvewarden",
+      "category": "Virtualization",
+      "filterTags": [
+        "pvewarden",
+        "Proxmox",
+        "AI Agent",
+        "VM"
+      ],
+      "publishedAt": "2026-11-10T13:33:23+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Virtualization"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "DevOps"
+        }
+      ]
+    },
+    {
+      "slug": "show-hn-teamonly-free-hosting-for-ai-built-apps-behind-your-company-login",
+      "title": "Show HN: TeamOnly, free hosting for AI-built apps behind your company login",
+      "dek": "A new platform offers free hosting for AI-created applications that require company authentication.",
+      "aiSummary": "TeamOnly is a service that provides free hosting for applications built with AI. It features integration with company login systems to secure access to these apps.",
+      "articleUrl": "https://teamonly.dev/",
+      "category": "AI",
+      "filterTags": [
+        "TeamOnly",
+        "AI",
+        "Hosting",
+        "SSO"
+      ],
+      "publishedAt": "2026-11-10T13:32:11+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Developer Tools"
+        },
+        {
+          "name": "Enterprise Software"
+        }
+      ]
+    },
+    {
+      "slug": "amazon-s-ring-unveils-250-flying-security-camera-after-delays",
+      "title": "Amazon’s Ring Unveils $250 Flying Security Camera After Delays",
+      "dek": "The brand’s entry into robotics also includes a rebranded version of Amazon’s unsuccessful Astro rover.",
+      "aiSummary": "Amazon's Ring division has launched a flying security camera priced at $250, a product that faced development delays. This release marks the brand's entry into robotics and is accompanied by a rebranded version of Amazon's previously unsuccessful Astro rover.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-10/amazon-s-ring-unveils-250-flying-security-camera-after-delays",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Amazon",
+        "Ring",
+        "Astro",
+        "Robotics",
+        "Security Cameras"
+      ],
+      "publishedAt": "2026-11-10T13:30:05+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Robotics"
+        },
+        {
+          "name": "Smart Home"
+        }
+      ]
+    },
+    {
+      "slug": "amazon-s-ring-unveils-flying-drone-and-robot-to-patrol-homes-and-businesses",
+      "title": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses",
+      "dek": "Amazon's $250 Ring Drone Cam flies from room to room to investigate suspicious activity, and can capture footage at night.",
+      "aiSummary": "Amazon's Ring division has launched a $250 drone camera that autonomously moves between rooms to investigate suspicious activity. The device is capable of capturing footage during nighttime hours.",
+      "articleUrl": "https://www.cnbc.com/2026/11/10/amazons-ring-unveils-flying-drone-robot-to-patrol-homes-businesses.html",
+      "category": "Hardware",
+      "filterTags": [
+        "Amazon",
+        "Ring",
+        "Drone",
+        "Robot",
+        "Security"
+      ],
+      "publishedAt": "2026-11-10T13:30:01+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "how-to-validate-llm-output-in-a-duckdb-and-dbt-pipeline",
+      "title": "How to Validate LLM Output in a DuckDB and dbt Pipeline",
+      "dek": "A Gemini Flash-Lite step pulls skills, seniority, and Nigeria eligibility from 18 RemoteOK postings, with Python checks and dbt tests guarding every answer. \n The post  How to Validate LLM Output in a DuckDB and dbt Pipeline  appeared first on  Towards Data Science .",
+      "aiSummary": "The article describes a workflow where Gemini Flash-Lite extracts skills, seniority, and Nigeria eligibility from 18 RemoteOK job postings. It utilizes Python checks and dbt tests to validate and guard the accuracy of the LLM's output within a DuckDB pipeline.",
+      "articleUrl": "https://towardsdatascience.com/how-to-validate-llm-output-in-a-duckdb-and-dbt-pipeline/",
+      "category": "Data Engineering",
+      "filterTags": [
+        "DuckDB",
+        "dbt",
+        "Gemini Flash-Lite",
+        "Python",
+        "RemoteOK",
+        "LLM"
+      ],
+      "publishedAt": "2026-11-10T13:30:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Data Engineering"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "MLOps"
+        }
+      ]
+    },
+    {
+      "slug": "hands-on-with-ring-s-new-ai-drone-camera-for-your-home",
+      "title": "Hands-on with Ring’s new AI drone camera for your home",
+      "dek": "Ring is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie Siminoff said at a launch event in New York City this week. If it does actually ship, it will arrive almost six years a",
+      "aiSummary": "Ring is set to release its indoor drone camera, the Ring Drone Cam, on January 27, 2027, at a price of $249.99. Founder Jamie Siminoff announced the launch at an event in New York City, noting that the product will arrive nearly six years after initial promises.",
+      "articleUrl": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Ring",
+        "Drone Cam",
+        "Jamie Siminoff"
+      ],
+      "publishedAt": "2026-11-10T13:30:00+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Smart Home"
+        }
+      ]
+    },
+    {
+      "slug": "ring-s-new-drone-patrols-your-home-to-keep-an-eye-on-things-even-upstairs",
+      "title": "Ring’s new drone patrols your home to keep an eye on things – even upstairs",
+      "dek": "Alongside the Ring Drone Cam, Ring introduced the Rover Cam for businesses. It investigates disturbances and streams 4K footage.",
+      "aiSummary": "Ring has introduced the Ring Drone Cam, a device designed to patrol homes and monitor areas such as upstairs rooms. The company also unveiled the Rover Cam for commercial use, which investigates disturbances and provides 4K video streaming.",
+      "articleUrl": "https://www.zdnet.com/home-and-office/ring-drone-cam-rover-cam-security-robots/",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Ring",
+        "Drone Cam",
+        "Rover Cam",
+        "4K"
+      ],
+      "publishedAt": "2026-11-10T13:30:00+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Home Security"
+        }
+      ]
+    },
+    {
+      "slug": "jensen-huang-s-affair-with-alleged-chinese-spy-further-complicates-nvidia-s-china-problem",
+      "title": "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia’s China problem",
+      "dek": "The allegations against Jensen Huang have brought new attention to the Nvidia CEO's potential influence over U.S. policy on chip sales to China.",
+      "aiSummary": "Allegations that Nvidia CEO Jensen Huang is linked to a Chinese individual have drawn attention to his possible influence on U.S. policy regarding chip exports to China. The claims raise concerns about Nvidia's operations and its relationship with the Chinese market.",
+      "articleUrl": "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
+      "category": "Technology",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "China",
+        "U.S. policy",
+        "chip sales"
+      ],
+      "publishedAt": "2026-11-10T13:24:05+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Geopolitics"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-targets-1-4-trillion-valuation-in-ipo",
+      "title": "Anthropic Targets $1.4 Trillion Valuation in IPO",
+      "dek": "Anthropic is seeking a fully diluted valuation of about $1.4 trillion in its initial public offering. The Claude chatbot maker is looking to make history as the first frontier artificial intelligence lab to go public, seeking to raise as much as $90.4 billion in the IPO and a pri",
+      "aiSummary": "Anthropic is pursuing an initial public offering with a fully diluted valuation of approximately $1.4 trillion. The AI lab aims to raise up to $90.4 billion, which would make it the first frontier artificial intelligence company to go public.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-11-10/anthropic-targets-1-4-trillion-valuation-in-ipo-video",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "Claude",
+        "IPO",
+        "AI"
+      ],
+      "publishedAt": "2026-11-10T13:20:53+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "what-does-floating-mean-on-your-anker-smart-chargers",
+      "title": "What does 'Floating' mean on your Anker smart chargers?",
+      "dek": "For thermal protection, Anker smart chargers display the temperature status on their tiny screens. Discover what the mysterious \"Floating\" status means.",
+      "aiSummary": "Anker smart chargers use small screens to display temperature status for thermal protection. The 'Floating' status is one of the indicators shown on these devices to communicate specific thermal conditions.",
+      "articleUrl": "https://www.engadget.com/2307757/anker-smart-chargers-floating-meaning/",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Anker",
+        "Smart Chargers",
+        "Thermal Protection"
+      ],
+      "publishedAt": "2026-11-10T13:15:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "b12246",
+      "title": "b12246",
+      "dek": "vulkan: cap scalar flash attention at 8 rows for large heads on Qualcomm ( #30829 ) \n With head sizes above 128 and KV >= 1024, scalar flash attention uses \n16 rows per workgroup. On the Qualcomm Adreno driver this variant \nspills registers to scratch memory (264 bytes per invoca",
+      "aiSummary": "The Vulkan driver on Qualcomm caps scalar flash attention to 8 rows for large heads. For head sizes over 128 and KV size at least 1024, scalar flash attention uses 16 rows per workgroup, causing register spills to scratch memory (264 bytes per invocation).",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12246",
+      "category": "Graphics",
+      "filterTags": [
+        "Vulkan",
+        "Qualcomm",
+        "Adreno",
+        "scalar flash attention"
+      ],
+      "publishedAt": "2026-11-10T13:14:30+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Graphics"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-targets-valuation-of-up-to-1-4tn-in-ipo",
+      "title": "Anthropic targets valuation of up to $1.4tn in IPO",
+      "dek": "The Claude maker plans to raise as much as $64bn in highly anticipated listing",
+      "aiSummary": "Anthropic, the company behind the Claude AI model, is preparing for an initial public offering that could value it at up to $1.4 trillion. The IPO is expected to raise up to $64 billion, making it one of the largest tech listings in history.",
+      "articleUrl": "https://www.ft.com/content/5654e210-4be3-4550-b975-129c9a2e7fe5?syn-25a6b1a6=1",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Anthropic",
+        "Claude",
+        "IPO"
+      ],
+      "publishedAt": "2026-11-10T13:07:48+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Capital Markets"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-s-board-has-a-history-of-letting-jensen-huang-get-his-way",
+      "title": "Nvidia’s Board Has a History of Letting Jensen Huang Get His Way",
+      "dek": "Governance experts question whether the board, which is investigating Mr. Huang’s conduct, has been too deferential as he has turned Nvidia into a global giant.",
+      "aiSummary": "Governance experts are questioning whether Nvidia's board has been overly deferential to CEO Jensen Huang, who has transformed the company into a global giant. This scrutiny comes as the board investigates Mr. Huang's conduct.",
+      "articleUrl": "https://www.nytimes.com/2026/11/10/technology/jensen-huang-nvidia-board.html",
+      "category": "Technology",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Corporate Governance"
+      ],
+      "publishedAt": "2026-11-10T13:07:03+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Corporate Governance"
+        }
+      ]
+    },
+    {
+      "slug": "how-ai-security-failures-are-endangering-your-supply-chain-and-what-you-can-do",
+      "title": "How AI security failures are endangering your supply chain – and what you can do",
+      "dek": "New research provides a stark look at the AI supply chain and the risks it brings to businesses.",
+      "aiSummary": "Recent research highlights how AI security issues can threaten supply chains. The study outlines specific risks businesses face and offers guidance on how to mitigate them.",
+      "articleUrl": "https://www.zdnet.com/tech/ai-security-failures-supply-chain-risks-black-kite-research/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AI",
+        "Supply Chain",
+        "Security"
+      ],
+      "publishedAt": "2026-11-10T13:03:52+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Supply Chain Management"
+        },
+        {
+          "name": "Cybersecurity"
+        }
+      ]
+    },
+    {
+      "slug": "spacex-s-first-attempt-to-catch-both-starship-stages-takes-place-november-13",
+      "title": "SpaceX's first attempt to catch both Starship stages takes place November 13",
+      "dek": "Starship's Flight 15 is scheduled for November 13, pending regulatory approval.",
+      "aiSummary": "Starship's Flight 15 is scheduled for November 13, pending regulatory approval. The flight will take place if regulators give the green light.",
+      "articleUrl": "https://www.engadget.com/2311878/spacex-first-attempt-to-catch-both-starship-stages-november-13/",
+      "category": "Aerospace",
+      "filterTags": [
+        "SpaceX",
+        "Starship"
+      ],
+      "publishedAt": "2026-11-10T13:03:18+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Aerospace"
+        },
+        {
+          "name": "Space Exploration"
+        }
+      ]
+    },
+    {
+      "slug": "apple-maps-will-likely-integrate-walking-time-after-parking-to-travel-estimates",
+      "title": "Apple Maps will likely integrate walking time after parking to travel estimates",
+      "dek": "A feature to help drivers that incorporates incorporating walking time between a parking space and your destination as part of travel time estimates may pop up soon in  Apple Maps . Route-planning with Apple Maps in CarPlay Apple Maps is useful when it comes to planning routes, a",
+      "aiSummary": "Apple Maps is expected to introduce a feature that includes the walking time from a parking space to the final destination in its travel time estimates. This update aims to assist drivers by providing a more accurate total duration for their trips.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/10/apple-maps-will-likely-integrate-walking-time-after-parking-to-travel-estimates?utm_source=rss",
+      "category": "Mobile Technology",
+      "filterTags": [
+        "Apple Maps",
+        "CarPlay",
+        "Apple"
+      ],
+      "publishedAt": "2026-11-10T13:03:13+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Mobile Technology"
+        },
+        {
+          "name": "Navigation"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-targets-valuation-of-up-to-1-4-trillion-for-blockbuster-i-p-o",
+      "title": "Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.",
+      "dek": "The A.I. company’s pricing would make it one of the biggest ever public listings. It comes at a volatile moment amid fears that the A.I. boom may not be sustainable.",
+      "aiSummary": "Anthropic is targeting a valuation of up to $1.4 trillion for its upcoming initial public offering, which would rank among the largest public listings in history. This move occurs during a period of market uncertainty, with concerns that the current artificial intelligence boom may not be sustainable.",
+      "articleUrl": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "I.P.O.",
+        "A.I."
+      ],
+      "publishedAt": "2026-11-10T13:02:55+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "without-storyboards-i-feel-like-i-m-in-grand-central-station-in-my-underwear-film-s-fightback-against-ai",
+      "title": "‘Without storyboards, I feel like I’m in Grand Central station in my underwear’: film’s fightback against AI",
+      "dek": "As Hollywood begins to adopt the technology, the professionals in most direct jeopardy are the illustrators mapping out directors’ first visions. They sketch out what could be lost A film industry dominated by AI is a dystopian prospect: stories and dialogue generated by large la",
+      "aiSummary": "Hollywood is starting to use AI, putting illustrators who create storyboards at risk. These artists map out directors' initial visions, and their work could be lost if AI takes over. The industry fears a dystopian future where AI-generated stories and dialogue replace human creativity.",
+      "articleUrl": "https://www.theguardian.com/film/2026/nov/10/storyboard-artists-ai",
+      "category": "Entertainment",
+      "filterTags": [
+        "AI"
+      ],
+      "publishedAt": "2026-11-10T13:00:24+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Entertainment"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Creative Industries"
+        }
+      ]
+    },
+    {
+      "slug": "cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns",
+      "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+      "dek": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable to developers worldwide.",
+      "aiSummary": "Irene Solaiman, an executive at Hugging Face, cautions that increasing cyberattacks on open AI platforms may lead to stricter security measures. These restrictions could reduce the openness that benefits developers worldwide.",
+      "articleUrl": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Hugging Face",
+        "OpenAI"
+      ],
+      "publishedAt": "2026-11-10T13:00:00+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "steelseries-rival-pro-review-rock-solid-connectivity-speed-and-a-nifty-battery-system",
+      "title": "SteelSeries Rival Pro review: Rock solid connectivity, speed and a nifty battery system",
+      "dek": "Who knew UWB connectivity on a mouse could be so useful?",
+      "aiSummary": "The SteelSeries Rival Pro mouse is praised for its robust connectivity, speed, and innovative battery system. The review highlights the unexpected utility of Ultra-Wideband (UWB) technology in a gaming mouse.",
+      "articleUrl": "https://www.engadget.com/2311251/steelseries-rival-pro-review/",
+      "category": "Hardware",
+      "filterTags": [
+        "SteelSeries",
+        "Rival Pro",
+        "UWB",
+        "Gaming Mouse"
+      ],
+      "publishedAt": "2026-11-10T13:00:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Gaming"
+        }
+      ]
+    },
+    {
+      "slug": "etch-free-gan-hydrogen-plasma-passivation-for-hemts-monolithic-ics-and-schottky-diodes",
+      "title": "Etch-Free GaN: Hydrogen Plasma Passivation for HEMTs, Monolithic ICs, and Schottky Diodes",
+      "dek": "Hydrogen plasma passivates p-GaN without etching, improving HEMT stability, monolithic e/d-mode integration, and Schottky diode breakdown. \n The post  Etch-Free GaN: Hydrogen Plasma Passivation for HEMTs, Monolithic ICs, and Schottky Diodes   appeared first on  Power Electronics ",
+      "aiSummary": "Hydrogen plasma can passivate p‑GaN without the need for etching. This technique enhances the stability of high‑electron‑mobility transistors, supports monolithic integration of electronic and digital modes, and improves the breakdown performance of Schottky diodes.",
+      "articleUrl": "https://www.powerelectronicsnews.com/etch-free-gan-hydrogen-plasma-passivation-for-hemts-monolithic-ics-and-schottky-diodes/",
+      "category": "Semiconductors",
+      "filterTags": [
+        "Hydrogen plasma",
+        "p-GaN",
+        "HEMT",
+        "Monolithic IC",
+        "Schottky diode"
+      ],
+      "publishedAt": "2026-11-10T13:00:00+00:00",
+      "publisher": {
+        "name": "Power Electronics News",
+        "domain": "powerelectronicsnews.com",
+        "website": "https://www.powerelectronicsnews.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Power Electronics"
+        },
+        {
+          "name": "Materials Science"
+        }
+      ]
+    },
+    {
+      "slug": "alibaba-s-chip-design-unit-t-head-files-for-hong-kong-listing",
+      "title": "Alibaba’s Chip Design Unit T-Head Files for Hong Kong Listing",
+      "dek": "Alibaba Group Holding Ltd.’s in-house chip design unit T-Head has filed for a Hong Kong listing, moving ahead with a proposed spin-off of a business that supplies data-center processors in China.",
+      "aiSummary": "Alibaba Group's in-house chip design unit, T-Head, has filed for a listing in Hong Kong. This move facilitates the proposed spin-off of the business, which provides data-center processors within China.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-10/alibaba-s-chip-design-unit-t-head-files-for-hong-kong-listing",
+      "category": "Semiconductors",
+      "filterTags": [
+        "Alibaba",
+        "T-Head",
+        "Hong Kong",
+        "Chip Design",
+        "Data Center"
+      ],
+      "publishedAt": "2026-11-10T12:51:26+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Corporate Finance"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "can-you-still-trust-proton",
+      "title": "Can you still trust Proton?",
+      "dek": "The Swiss software company has built its reputation on a commitment to privacy. Did its CEO just destroy the trust of its customer base?",
+      "aiSummary": "Proton, a Swiss software firm known for its privacy focus, has faced questions about its trustworthiness after recent actions by its CEO. The company's reputation, built on privacy commitments, may have been undermined, raising concerns among its customers.",
+      "articleUrl": "https://www.zdnet.com/tech/can-you-still-trust-proton/",
+      "category": "Privacy",
+      "filterTags": [
+        "Proton",
+        "privacy"
+      ],
+      "publishedAt": "2026-11-10T12:17:11+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Privacy"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "ukraine-s-fiber-optic-drones-get-squeezed-by-ai-data-center-demand",
+      "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+      "dek": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
+      "aiSummary": "Ukraine is facing competition from both Russia and data centers in securing optical fiber supplies from China. This competition impacts Ukraine's ability to acquire necessary materials.",
+      "articleUrl": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
+      "category": "AI",
+      "filterTags": [
+        "fiber-optic drones",
+        "AI data center",
+        "optical fiber",
+        "Ukraine",
+        "Russia",
+        "China"
+      ],
+      "publishedAt": "2026-11-10T12:15:32+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Defense"
+        },
+        {
+          "name": "Supply Chain"
+        },
+        {
+          "name": "Geopolitics"
+        }
+      ]
+    },
+    {
+      "slug": "how-steve-jobs-saved-apple-with-the-online-apple-store",
+      "title": "How Steve Jobs saved Apple with the online Apple Store",
+      "dek": "Alongside the return of Steve Jobs, Apple's first online store played a crucial role in the company's survival and resurgence. It officially opened for business on November 10, 1997 and has been online ever since — except when Apple takes it offline to promote the launch of new p",
+      "aiSummary": "Apple's first online store, which opened on November 10, 1997, was a key factor in the company's survival and resurgence alongside Steve Jobs's return. The store has remained operational continuously since its launch, with the only exceptions being brief outages to promote new product releases.",
+      "articleUrl": "https://appleinsider.com/articles/19/11/10/how-steve-jobs-saved-apple-with-the-online-apple-store?utm_source=rss",
+      "category": "Technology",
+      "filterTags": [
+        "Apple",
+        "Steve Jobs",
+        "E-commerce",
+        "Apple Store"
+      ],
+      "publishedAt": "2026-11-10T12:12:26+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Business"
+        },
+        {
+          "name": "E-commerce"
+        }
+      ]
+    },
+    {
+      "slug": "amazon-slashes-official-apple-iphone-cases-to-as-low-as-11",
+      "title": "Amazon slashes official Apple iPhone cases to as low as $11",
+      "dek": "Official Apple iPhone cases are up to 78% off at Amazon today with early Black Friday deals. Get an official Apple iPhone case for as low as $11.   Continue Reading on AppleInsider  |  Discuss on our Forums",
+      "aiSummary": "Amazon is offering early Black Friday discounts on official Apple iPhone cases, with prices reduced by up to 78%. The deals allow customers to purchase these cases for as low as $11.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/10/amazon-slashes-official-apple-iphone-cases-to-as-low-as-11?utm_source=rss",
+      "category": "E-commerce",
+      "filterTags": [
+        "Amazon",
+        "Apple",
+        "iPhone",
+        "Black Friday"
+      ],
+      "publishedAt": "2026-11-10T12:10:21+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "E-commerce"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "introducing-alphaproof-code-a-breakthrough-in-verifying-complex-software-at-depth",
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "dek": "AlphaProof Code agents wrote three  million lines of proofs in Lean to verify Signal’s core encryption.",
+      "aiSummary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption. This demonstrates the tool’s ability to deeply verify complex software.",
+      "articleUrl": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "category": "Software Verification",
+      "filterTags": [
+        "AlphaProof Code",
+        "Lean",
+        "Signal"
+      ],
+      "publishedAt": "2026-11-10T12:02:28+00:00",
+      "publisher": {
+        "name": "Google DeepMind",
+        "domain": "deepmind.google",
+        "website": "https://deepmind.google/",
+        "logoUrl": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/icons/google_deepmind_2x_96dp.png",
+        "faviconUrl": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/icons/google_deepmind_2x_96dp.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Verification"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "copilot-caught-8-of-8-diff-bugs-with-rules-0-of-2-outside-the-diff",
+      "title": "Copilot Caught 8 of 8 Diff Bugs With Rules, 0 of 2 Outside the Diff",
+      "dek": "A guard on negative enrollment days looked correct while the function it called overbilled a customer 11 days, and an invariant test would have caught it. \n The post  Copilot Caught 8 of 8 Diff Bugs With Rules, 0 of 2 Outside the Diff  appeared first on  Towards Data Science .",
+      "aiSummary": "The article describes a situation where a guard checking for negative enrollment days seemed correct, yet the function it called overbilled a customer by 11 days. An invariant test could have caught this error.",
+      "articleUrl": "https://towardsdatascience.com/copilot-caught-8-of-8-diff-bugs-with-rules-0-of-2-outside-the-diff/",
+      "category": "AI",
+      "filterTags": [
+        "Copilot"
+      ],
+      "publishedAt": "2026-11-10T12:00:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Testing"
+        }
+      ]
+    },
+    {
+      "slug": "helping-caregivers-use-ai-in-everyday-life",
+      "title": "Helping caregivers use AI in everyday life",
+      "dek": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+      "aiSummary": "OpenAI Academy is launching free, hands-on workshops in five U.S. cities to teach caregivers how to use ChatGPT. The program aims to help these individuals develop practical AI skills for their daily lives.",
+      "articleUrl": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "ChatGPT",
+        "OpenAI Academy"
+      ],
+      "publishedAt": "2026-11-10T12:00:00+00:00",
+      "publisher": {
+        "name": "OpenAI",
+        "domain": "openai.com",
+        "website": "https://openai.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Education"
+        }
+      ]
+    },
+    {
+      "slug": "n8n-1-123-93",
+      "title": "n8n@1.123.93",
+      "dek": "1.123.93  (2026-11-09) \n Bug Fixes \n \n core:  Limit resume attempts for waiting and queued executions ( #42864 ) ( 106a957 )",
+      "aiSummary": "The 1.123.93 update of n8n, released on November 9, 2026, includes bug fixes. It addresses the core issue of limiting resume attempts for waiting and queued executions, as referenced by issue #42864.",
+      "articleUrl": "https://github.com/n8n-io/n8n/releases/tag/n8n%401.123.93",
+      "category": "Open Source",
+      "filterTags": [
+        "n8n",
+        "resume attempts",
+        "queued executions"
+      ],
+      "publishedAt": "2026-11-10T11:36:53+00:00",
+      "publisher": {
+        "name": "n8n-io",
+        "domain": "github.com",
+        "website": "https://github.com/n8n-io/n8n",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Automation"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "chatgpt-s-teen-mode-could-deprive-teenagers-of-a-fundamental-need-robin-kirman",
+      "title": "ChatGPT’s Teen Mode could deprive teenagers of a fundamental need | Robin Kirman",
+      "dek": "What young students stand to lose is more than cognitive skill: it’s a reliable sense of their own minds In August, OpenAI launched Teen Mode – a version of ChatGPT in which every user under 18 will automatically be enrolled – a year after  a lawsuit alleged  that ChatGPT had con",
+      "aiSummary": "OpenAI introduced Teen Mode in August, which automatically enrolls all users under 18 into a restricted version of ChatGPT. This feature was launched a year after a lawsuit alleged that ChatGPT had caused harm, and critics argue it may deprive teenagers of a reliable sense of their own minds.",
+      "articleUrl": "https://www.theguardian.com/commentisfree/2026/nov/10/chatgpt-teen-mode-cognitive-skills",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "ChatGPT",
+        "Teen Mode"
+      ],
+      "publishedAt": "2026-11-10T11:00:50+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Education"
+        },
+        {
+          "name": "Ethics"
+        }
+      ]
+    },
+    {
+      "slug": "the-jensen-huang-affair",
+      "title": "The Jensen Huang Affair",
+      "dek": "Nvidia’s C.E.O., Jensen Huang, admitted to having an affair with a suspected Chinese corporate spy. Everything that means for him and the A.I. industry, and what happens next.",
+      "aiSummary": "Nvidia CEO Jensen Huang has admitted to an affair with a suspected Chinese corporate spy. The revelation could affect his reputation and the AI industry. The article examines possible consequences and next steps.",
+      "articleUrl": "https://www.nytimes.com/2026/11/10/podcasts/hardfork-jensen-huang-spy-affair.html",
+      "category": "Technology",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Chinese corporate spy"
+      ],
+      "publishedAt": "2026-11-10T11:00:17+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "what-are-diffusion-language-models-and-why-are-they-different-from-gpt",
+      "title": "What Are Diffusion Language Models, and Why Are They Different From GPT?",
+      "dek": "Then you train the neural network to reverse this process, commonly using a mean squared error objective.",
+      "aiSummary": "Diffusion language models are trained by reversing a noise-adding process, typically using a mean squared error objective. This approach distinguishes them from the architecture used in GPT.",
+      "articleUrl": "https://machinelearningmastery.com/what-are-diffusion-language-models-and-why-are-they-different-from-gpt/",
+      "category": "AI",
+      "filterTags": [
+        "Diffusion Language Models",
+        "GPT",
+        "Mean Squared Error",
+        "Neural Networks"
+      ],
+      "publishedAt": "2026-11-10T11:00:00+00:00",
+      "publisher": {
+        "name": "Jason Brownlee",
+        "domain": "machinelearningmastery.com",
+        "website": "https://machinelearningmastery.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=machinelearningmastery.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=machinelearningmastery.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers",
+      "title": "Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers",
+      "dek": "The “abliterators” are flooding the internet with AI models that never say no, making it easier for people to improve their cyberdefenses—or build a bomb.",
+      "aiSummary": "A group called 'abliterators' is releasing AI models that lack refusal mechanisms, allowing users to bypass corporate guardrails. These unrestricted models can help strengthen cyber defenses but also pose risks for malicious use, such as bomb design.",
+      "articleUrl": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "abliterators",
+        "AI models",
+        "chatbots"
+      ],
+      "publishedAt": "2026-11-10T11:00:00+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are",
+      "title": "The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are",
+      "dek": "The risk of nuclear catastrophe is real, as is the fallout of the China–US domination game (hi there, spies). But no need to panic about Skynet.",
+      "aiSummary": "The article argues that the current AI safety debate is misfocused, with experts identifying nuclear catastrophe and the strategic rivalry between China and the US as the primary threats. It suggests that while these geopolitical and security risks are significant, there is no need to fear science fiction-style autonomous AI scenarios.",
+      "articleUrl": "https://www.wired.com/story/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/",
+      "category": "AI",
+      "filterTags": [
+        "AI Safety",
+        "Nuclear",
+        "China",
+        "US",
+        "Geopolitics"
+      ],
+      "publishedAt": "2026-11-10T11:00:00+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Geopolitics"
+        }
+      ]
+    },
+    {
+      "slug": "softbank-slumps-to-7bn-loss-on-us-data-centre-writedown",
+      "title": "SoftBank slumps to $7bn loss on US data centre writedown",
+      "dek": "AI-focused Japanese group blames first quarterly loss in nearly two years on ‘evolving requirements’ in US projects",
+      "aiSummary": "SoftBank, an AI-focused Japanese conglomerate, recorded its first quarterly loss in almost two years, reporting a $7 billion hit from a write-down of its US data center. The company attributes the loss to evolving requirements in its US projects.",
+      "articleUrl": "https://www.ft.com/content/5ceed157-0016-4822-a272-8b607911da5e?syn-25a6b1a6=1",
+      "category": "Finance",
+      "filterTags": [
+        "SoftBank",
+        "US data centre",
+        "AI"
+      ],
+      "publishedAt": "2026-11-10T10:55:57+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "gitlab-and-the-evolution-of-devsecops",
+      "title": "GitLab and the Evolution of DevSecOps",
+      "dek": "AI coding agents can already reach well beyond the code in front of them. Through connections to tools like Slack, Jira, and Sentry, an agent can pull in issues, discussions, and production signals from across an organization. However, that context is scattered across many separa",
+      "aiSummary": "AI coding agents can access organizational context beyond code by connecting to tools like Slack, Jira, and Sentry. However, this information is currently scattered across separate systems.",
+      "articleUrl": "https://softwareengineeringdaily.com/podcasts/gitlab-and-the-evolution-of-devsecops/",
+      "category": "DevSecOps",
+      "filterTags": [
+        "GitLab",
+        "AI coding agents",
+        "Slack",
+        "Jira",
+        "Sentry"
+      ],
+      "publishedAt": "2026-11-10T10:00:00+00:00",
+      "publisher": {
+        "name": "Software Engineering Daily",
+        "domain": "softwareengineeringdaily.com",
+        "website": "https://softwareengineeringdaily.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=softwareengineeringdaily.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=softwareengineeringdaily.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "DevSecOps"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "n8n-3-2-0",
+      "title": "n8n@3.2.0",
+      "dek": "3.2.0  (2026-11-10) \n Bug Fixes \n \n ai-builder:  Return the raw body when fetch-url reads JSON, XML, CSV or YAML ( #42949 ) ( 6640010 ) \n Align workflow history header dividers ( #43167 ) ( 73698d6 ) \n Community package supportedNodesApiVersion v3 compatibility ( 246e5fd ) \n Comp",
+      "aiSummary": "The n8n 3.2.0 release, dated November 10, 2026, includes several bug fixes. Notable changes include updating the ai-builder to return raw bodies for JSON, XML, CSV, or YAML data, aligning workflow history header dividers, and ensuring community package compatibility with supportedNodesApiVersion v3.",
+      "articleUrl": "https://github.com/n8n-io/n8n/releases/tag/n8n%403.2.0",
+      "category": "Open Source",
+      "filterTags": [
+        "n8n",
+        "ai-builder",
+        "JSON",
+        "XML",
+        "CSV",
+        "YAML"
+      ],
+      "publishedAt": "2026-11-10T09:32:27+00:00",
+      "publisher": {
+        "name": "n8n-io",
+        "domain": "github.com",
+        "website": "https://github.com/n8n-io/n8n",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Automation"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "faisal-islam-what-the-boss-of-us-tech-giant-nvidia-told-me-about-china-and-national-security",
+      "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
+      "dek": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
+      "aiSummary": "Nvidia CEO Jensen Huang is under investigation for an alleged affair with a Chinese spy. According to the interview, he is considered more influential for the future world order than other tech leaders.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
+      "category": "Technology",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "China",
+        "National Security",
+        "Chinese spy"
+      ],
+      "publishedAt": "2026-11-10T09:23:55+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Geopolitics"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1794316836-compute-multinomial-internals-in-float-for-half-and-bfloat16-204161",
+      "title": "viable/strict/1794316836: Compute multinomial internals in float for half and bfloat16 (#204161)",
+      "dek": "Human Note \n Found while doing the PR below, i think it is better - its slower but its better. I could be convinced no \n Agent Notes \n Stacked on  #204153 . \n Half and bfloat16 inputs did their sampling arithmetic in the input dtype, which breaks two \npaths: \n \n Without replaceme",
+      "aiSummary": "The pull request updates the multinomial implementation to perform internal calculations in float precision for half and bfloat16 inputs. This change fixes issues where sampling arithmetic was done in the input dtype, breaking two execution paths. Although the new approach is slower, it provides more accurate results.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1794316836",
+      "category": "Machine Learning",
+      "filterTags": [
+        "half",
+        "bfloat16",
+        "multinomial",
+        "float"
+      ],
+      "publishedAt": "2026-11-10T09:09:13+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Numerical Computing"
+        }
+      ]
+    },
+    {
+      "slug": "closing-the-ai-guidance-gap-in-education",
+      "title": "Closing the AI guidance gap in education",
+      "dek": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+      "aiSummary": "ThinkYoung has released new research alongside lessons from OpenAI's EMEA education partnerships. These resources focus on supporting teachers, improving AI literacy, and fostering independent learning among students.",
+      "articleUrl": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "category": "AI",
+      "filterTags": [
+        "ThinkYoung",
+        "OpenAI",
+        "AI literacy",
+        "Education"
+      ],
+      "publishedAt": "2026-11-10T09:00:00+00:00",
+      "publisher": {
+        "name": "OpenAI",
+        "domain": "openai.com",
+        "website": "https://openai.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Education"
+        }
+      ]
+    },
+    {
+      "slug": "n8n-2-48-0",
+      "title": "n8n@2.48.0",
+      "dek": "2.48.0  (2026-11-10) \n Bug Fixes \n \n ai-builder:  Return the raw body when fetch-url reads JSON, XML, CSV or YAML ( #42949 ) ( 6640010 ) \n Align workflow history header dividers ( #43167 ) ( 73698d6 ) \n Compression Node:  Preserve custom gzip file names ( #42063 ) ( a196d7d ) \n c",
+      "aiSummary": "The 2.48.0 update fixes several bugs: ai-builder now returns the raw body when fetch-url reads JSON, XML, CSV or YAML; workflow history header dividers are aligned; and the Compression Node preserves custom gzip file names.",
+      "articleUrl": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.48.0",
+      "category": "Software Development",
+      "filterTags": [
+        "n8n",
+        "ai-builder",
+        "fetch-url",
+        "JSON",
+        "XML",
+        "CSV",
+        "YAML",
+        "gzip"
+      ],
+      "publishedAt": "2026-11-10T08:47:28+00:00",
+      "publisher": {
+        "name": "n8n-io",
+        "domain": "github.com",
+        "website": "https://github.com/n8n-io/n8n",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Automation"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "customer-support-is-the-gnarliest-ai-problem",
+      "title": "Customer support is the gnarliest AI problem",
+      "dek": "Ryan chats with Ahmad Al-Dahle, CTO at Airbnb, about deploying multi-party AI agents to tackle the uniquely gnarly problem of customer support, how a moving target of rigorous evaluations helps engineers balance latency against accuracy, and the ways in which AI coding tools dema",
+      "aiSummary": "Airbnb CTO Ahmad Al-Dahle discusses the deployment of multi-party AI agents to handle the complex demands of customer support. He explains how rigorous, evolving evaluations allow engineers to balance system latency against accuracy, while also addressing the implications of AI coding tools.",
+      "articleUrl": "https://stackoverflow.blog/2026/11/10/customer-support-is-the-gnarliest-ai-problem/",
+      "category": "AI",
+      "filterTags": [
+        "Airbnb",
+        "AI agents",
+        "Customer Support",
+        "Latency",
+        "Accuracy"
+      ],
+      "publishedAt": "2026-11-10T08:40:00+00:00",
+      "publisher": {
+        "name": "Stack Overflow Blog",
+        "domain": "stackoverflow.blog",
+        "website": "https://stackoverflow.blog",
+        "logoUrl": "https://stackoverflow.blog/apple-touch-icon.png",
+        "faviconUrl": "https://stackoverflow.blog/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Customer Experience"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1794314990-dcp-skip-fqn-to-index-mapping-entries-with-no-saved-tensor-202990",
+      "title": "viable/strict/1794314990: [DCP] Skip fqn_to_index_mapping entries with no saved tensor (#202990)",
+      "dek": "Linked issue or supporting maintainer \n Supported by  @ivy-zhou  in  pytorch/torchtitan#5582 (comment) \n BC-breaking? \n No \n Summary (human written only) \n In DCP Hugging Face consolidation (_consolidate_safetensors_files), mapping entries for tensors that were never saved receiv",
+      "aiSummary": "This pull request modifies the DCP Hugging Face consolidation function to skip fully qualified name to index mapping entries for tensors that were never saved. The change is supported by Ivy Zhou and is not considered a breaking change.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1794314990",
+      "category": "Machine Learning",
+      "filterTags": [
+        "PyTorch",
+        "DCP",
+        "Hugging Face",
+        "Safetensors",
+        "TorchTitan"
+      ],
+      "publishedAt": "2026-11-10T08:39:45+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1794313517-rocm-add-opt-in-ck-sdpa-build-for-gfx11-rdna3-rdna3-5-203095",
+      "title": "viable/strict/1794313517: [ROCm] Add opt-in CK SDPA build for gfx11 (RDNA3, RDNA3.5) (#203095)",
+      "dek": "Linked issue or supporting maintainer \n Fixes  #203094 \n BC-breaking? \n No \n Summary (human written only) \n Add gfx1100, gfx1101 and gfx1102 (RDNA3) and gfx1150 and gfx1151 (RDNA3.5) to the CK SDPA architectures behind a new USE_ROCM_CK_SDPA_GFX11 option. \nCK SDPA has shown impro",
+      "aiSummary": "The ROCm project introduces an optional CK SDPA build for RDNA3 and RDNA3.5 GPUs, adding support for gfx1100, gfx1101, gfx1102, gfx1150, and gfx1151. This change is enabled via the USE_ROCM_CK_SDPA_GFX11 option and resolves issue #203094. The update is not backward‑compatible breaking.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1794313517",
+      "category": "Hardware",
+      "filterTags": [
+        "ROCm",
+        "CK SDPA",
+        "RDNA3",
+        "RDNA3.5",
+        "gfx1100",
+        "gfx1101",
+        "gfx1102",
+        "gfx1150",
+        "gfx1151",
+        "USE_ROCM_CK_SDPA_GFX11"
+      ],
+      "publishedAt": "2026-11-10T08:31:46+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Software"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "v3-0-6-fix-3-0-fix-added-field-load-hints-on-3-0-55306",
+      "title": "v3.0.6: fix: [3.0] Fix added-field load hints on 3.0 (#55306)",
+      "dek": "Adding fields to a loaded collection can leave legacy QueryCoord load \nmetadata and QueryNode preload hints on the old schema. Storage V3 then \nfetches the added fields lazily during queries even when sync warmup is \nconfigured. \n Add each new field according to its schema defaul",
+      "aiSummary": "The update fixes a bug in Milvus 3.0 where adding fields to a loaded collection left outdated load metadata and preload hints on the old schema. This caused Storage V3 to fetch new fields lazily during queries, even when synchronous warmup was configured. The fix ensures each new field is added according to its schema definition.",
+      "articleUrl": "https://github.com/milvus-io/milvus/releases/tag/v3.0.6",
+      "category": "Database",
+      "filterTags": [
+        "Milvus",
+        "Storage V3",
+        "QueryCoord",
+        "QueryNode"
+      ],
+      "publishedAt": "2026-11-10T08:14:02+00:00",
+      "publisher": {
+        "name": "milvus-io",
+        "domain": "github.com",
+        "website": "https://github.com/milvus-io/milvus",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Database"
+        },
+        {
+          "name": "Data Management"
+        }
+      ]
+    },
+    {
+      "slug": "pkg-v3-0-6-fix-3-0-fix-added-field-load-hints-on-3-0-55306",
+      "title": "pkg/v3.0.6: fix: [3.0] Fix added-field load hints on 3.0 (#55306)",
+      "dek": "Adding fields to a loaded collection can leave legacy QueryCoord load \nmetadata and QueryNode preload hints on the old schema. Storage V3 then \nfetches the added fields lazily during queries even when sync warmup is \nconfigured. \n Add each new field according to its schema defaul",
+      "aiSummary": "Adding new fields to a loaded collection can leave old load metadata and preload hints, causing Storage V3 to lazily fetch the new fields during queries even when sync warmup is enabled. The patch ensures each new field is added according to its schema default, removing the stale hints.",
+      "articleUrl": "https://github.com/milvus-io/milvus/releases/tag/pkg%2Fv3.0.6",
+      "category": "Database",
+      "filterTags": [
+        "QueryCoord",
+        "QueryNode",
+        "Storage V3",
+        "schema default"
+      ],
+      "publishedAt": "2026-11-10T08:14:02+00:00",
+      "publisher": {
+        "name": "milvus-io",
+        "domain": "github.com",
+        "website": "https://github.com/milvus-io/milvus",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Database"
+        },
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Data Management"
+        }
+      ]
+    }
+  ]
+}
