@@ -1,0 +1,1733 @@
+{
+  "news": [
+    {
+      "slug": "coreweave-beats-on-revenue-and-lifts-guidance-easing-ai-slowdown-concerns",
+      "title": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
+      "dek": "CoreWeave's stock has been hammered heading into the neocloud's Q3 earnings report.",
+      "aiSummary": "CoreWeave reported Q3 earnings that surpassed revenue expectations and included an upward revision to its guidance. This performance helped alleviate market concerns regarding a potential slowdown in the AI sector, which had previously weighed on the company's stock.",
+      "articleUrl": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
+      "category": "AI",
+      "filterTags": [
+        "CoreWeave",
+        "AI",
+        "Q3 earnings"
+      ],
+      "publishedAt": "2026-11-10T22:35:21+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "the-agent-evaluation-playbook-built-in-deepeval-and-autoeval-on-amazon-bedrock-agentcore-evaluations",
+      "title": "The agent evaluation playbook: Built-in, DeepEval, and AutoEval on Amazon Bedrock AgentCore Evaluations",
+      "dek": "When you deploy an agent, whether it is working is really several questions: did it finish the task, stay on topic, leak data, or skip steps? This post shows how to evaluate agents on Amazon Bedrock AgentCore with built-in, DeepEval, and AutoEval evaluators, and how to match each",
+      "aiSummary": "This article explains how to assess the performance of deployed agents on Amazon Bedrock AgentCore by checking for task completion, topic adherence, and data security. It demonstrates the use of built-in, DeepEval, and AutoEval evaluators to help developers match the right testing tool to their specific needs.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/the-agent-evaluation-playbook-built-in-deepeval-and-autoeval-on-agentcore/",
+      "category": "AI",
+      "filterTags": [
+        "Amazon Bedrock",
+        "AgentCore",
+        "DeepEval",
+        "AutoEval",
+        "Agent Evaluation"
+      ],
+      "publishedAt": "2026-11-10T22:35:03+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "MLOps"
+        }
+      ]
+    },
+    {
+      "slug": "ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot",
+      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "dek": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
+      "aiSummary": "Amazon has announced the upcoming release of mobile Ring Robotics devices, which include an AI-powered security drone and a robot. These roaming units are scheduled to debut in late 2026 and early 2027.",
+      "articleUrl": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Amazon",
+        "Ring",
+        "AI",
+        "Robotics",
+        "Drones"
+      ],
+      "publishedAt": "2026-11-10T22:35:01+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "openai-third-quarter-revenue-soars-nearly-50-to-10-billion",
+      "title": "OpenAI Third-Quarter Revenue Soars Nearly 50% to $10 Billion",
+      "dek": "OpenAI’s quarterly revenue hit $10 billion for the first time in the three months ending in September, according to a person familiar with the matter, driven by strong demand for its latest artificial intelligence software.",
+      "aiSummary": "OpenAI achieved $10 billion in revenue for the first time during the three-month period ending in September. This significant financial growth was driven by high demand for the company's latest artificial intelligence software.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-10/openai-third-quarter-revenue-soars-nearly-50-to-10-billion",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "Artificial Intelligence"
+      ],
+      "publishedAt": "2026-11-10T22:33:06+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "why-nvidia-and-jensen-huang-matter-so-much-to-markets",
+      "title": "Why Nvidia and Jensen Huang Matter So Much to Markets",
+      "dek": "It’s not often that a revelation about a relationship erases a trillion dollars of value from the stock market. But that’s what’s happened in the wake of media reports that a woman suspected of being an asset for Chinese intelligence had grown close to Nvidia Corp. Chief Executiv",
+      "aiSummary": "Reports that a woman suspected of being a Chinese intelligence asset had grown close to Nvidia CEO Jensen Huang caused a significant drop in the company's stock value. The incident resulted in the erasure of approximately one trillion dollars in market capitalization.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-10/why-nvidia-and-jensen-huang-matter-so-much-to-markets",
+      "category": "Technology",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Chinese Intelligence",
+        "Stock Market"
+      ],
+      "publishedAt": "2026-11-10T22:32:28+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Geopolitics"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "v0-40-17",
+      "title": "v0.40.17",
+      "dek": "What's Changed \n \n Improve ChatGPT CLI restore and graceful restart by  @hoyyeva  in  #19583 \n cmd/launch: use thinking metadata for OpenCode settings by  @hoyyeva  in  #19409 \n llm: use mmap for Vulkan integrated GPUs by  @dhiltgen  in  #19640 \n rpreslar4765/Ollama by  @rpreslar",
+      "aiSummary": "The v0.40.17 update introduces improvements to the ChatGPT CLI, including better restore and graceful restart capabilities. It also updates the launch command to utilize thinking metadata for OpenCode settings and optimizes LLM performance for Vulkan integrated GPUs by using memory mapping.",
+      "articleUrl": "https://github.com/ollama/ollama/releases/tag/v0.40.17-rc0",
+      "category": "AI",
+      "filterTags": [
+        "ChatGPT CLI",
+        "OpenCode",
+        "Vulkan",
+        "mmap",
+        "Ollama"
+      ],
+      "publishedAt": "2026-11-10T22:25:00+00:00",
+      "publisher": {
+        "name": "ollama",
+        "domain": "github.com",
+        "website": "https://github.com/ollama/ollama",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Developer Tools"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "b12259",
+      "title": "b12259",
+      "dek": "mtmd: add kimi K3.1 vision ( #31980 ) \n \n \n mtmd: support kimi k3.1 vision \n \n \n fix preproc (both k2.5 and k3.1) and projector mlp \n \n \n small renaming \n \n \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/66024758 \n \n ma",
+      "aiSummary": "The update introduces support for the Kimi K3.1 vision model within the mtmd framework. It also includes fixes for preprocessing and the projector MLP for both K2.5 and K3.1 models, along with minor renaming changes.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12259",
+      "category": "AI",
+      "filterTags": [
+        "llama.cpp",
+        "mtmd",
+        "Kimi K3.1",
+        "vision"
+      ],
+      "publishedAt": "2026-11-10T22:16:04+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "show-hn-sketchup-compatible-modeler-with-ai-capabilities",
+      "title": "Show HN: SketchUp compatible modeler with AI capabilities",
+      "dek": "A 3D modeling tool that works with SketchUp and includes AI features is being shared.",
+      "aiSummary": "The author is presenting a 3D modeler that is compatible with SketchUp and features AI capabilities. The specific technical details or implementation methods are not provided in the text.",
+      "articleUrl": "https://pushform.io/",
+      "category": "Software",
+      "filterTags": [
+        "SketchUp",
+        "AI",
+        "3D Modeling"
+      ],
+      "publishedAt": "2026-11-10T22:09:53+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "stifel-ceo-on-anthropic-integrating-ai-and-fed-policy",
+      "title": "Stifel CEO on Anthropic, Integrating AI and Fed Policy",
+      "dek": "Stifel CEO and Chairman Ron Kruszewski discusses the firm’s new partnership with Anthropic, announced at Stifel’s 2026 Blueprint Conference in Las Vegas. The tools are intended to help advisers organize work, improve productivity and communicate with clients, not replace human ju",
+      "aiSummary": "Stifel CEO Ron Kruszewski discussed the firm's new partnership with Anthropic at the 2026 Blueprint Conference in Las Vegas. The AI tools are designed to assist advisers in organizing work, boosting productivity, and enhancing client communication rather than replacing human judgment.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-11-10/stifel-ceo-on-anthropic-integrating-ai-and-fed-policy-video",
+      "category": "Finance",
+      "filterTags": [
+        "Stifel",
+        "Anthropic",
+        "Ron Kruszewski",
+        "AI",
+        "Federal Reserve"
+      ],
+      "publishedAt": "2026-11-10T22:08:48+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Corporate Strategy"
+        }
+      ]
+    },
+    {
+      "slug": "meta-warns-some-of-its-ai-glasses-may-get-too-warm-if-they-get-wet",
+      "title": "Meta warns some of its AI glasses may get 'too warm' if they get wet",
+      "dek": "A software update will tell users if they're affected and direct them to Meta's customer support for a full replacement.",
+      "aiSummary": "Meta has issued a warning that some of its AI glasses may become excessively warm if they get wet. A software update will notify affected users and guide them to customer support to receive a full replacement.",
+      "articleUrl": "https://www.engadget.com/2312864/meta-warns-some-of-its-ai-glasses-may-get-too-warm-if-they-get-wet/",
+      "category": "Hardware",
+      "filterTags": [
+        "Meta",
+        "AI glasses",
+        "software update"
+      ],
+      "publishedAt": "2026-11-10T22:05:37+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-s-giant-ipo-will-tie-it-closer-to-nvidia",
+      "title": "Anthropic’s Giant IPO Will Tie It Closer to Nvidia",
+      "dek": "Nvidia planned to invest $10 billion in Anthropic alongside its initial public offering, the largest of the new financial commitments from several giants to the A.I. company.",
+      "aiSummary": "Nvidia intends to invest $10 billion in Anthropic as part of its initial public offering. This represents the largest of several new financial commitments made by major companies to the A.I. firm.",
+      "articleUrl": "https://www.nytimes.com/2026/11/10/business/anthropic-ipo-nvidia.html",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "Nvidia",
+        "IPO"
+      ],
+      "publishedAt": "2026-11-10T22:03:38+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "the-humans-are-coming-for-ai-s-jobs",
+      "title": "The humans are coming for AI's jobs",
+      "dek": "Humans are set to take over jobs currently done by AI.",
+      "aiSummary": "",
+      "articleUrl": "https://www.youtube.com/watch?v=EMSQtqUIlXY",
+      "category": "AI",
+      "filterTags": [],
+      "publishedAt": "2026-11-10T22:02:53+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Employment"
+        }
+      ]
+    },
+    {
+      "slug": "albanese-s-love-affair-with-music-is-on-the-rocks-over-ai-can-he-write-a-different-tune-peter-lewis",
+      "title": "Albanese’s love affair with music is on the rocks over AI. Can he write a different tune? | Peter Lewis",
+      "dek": "The prime minister is trying to untangle the copyright knot. But this is about much more than intellectual property Get our  breaking news email ,  free app  or  daily news podcast If Anthony Albanese has a spiritual home it would be somewhere between the old Sando and the Enmore",
+      "aiSummary": "Prime Minister Anthony Albanese is grappling with a copyright dispute involving AI, raising concerns beyond simple intellectual property matters. The controversy touches on his personal connection to music venues such as the old Sando and Enmore, highlighting his deep ties to the music scene.",
+      "articleUrl": "https://www.theguardian.com/commentisfree/2026/nov/11/albaneses-love-affair-with-music-is-on-the-rocks-over-ai-can-he-write-a-different-tune",
+      "category": "Politics",
+      "filterTags": [
+        "AI",
+        "copyright",
+        "Anthony Albanese",
+        "Sando",
+        "Enmore"
+      ],
+      "publishedAt": "2026-11-10T22:00:20+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Music"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Intellectual Property"
+        }
+      ]
+    },
+    {
+      "slug": "the-disney-app-on-meta-quest-now-includes-3d-movies",
+      "title": "The Disney+ app on Meta Quest now includes 3D movies",
+      "dek": "Meta is starting to sell 3D films too.",
+      "aiSummary": "The Disney+ application for Meta Quest headsets has been updated to include 3D movies. This development marks the beginning of Meta selling 3D film content through its platform.",
+      "articleUrl": "https://www.engadget.com/2312296/the-disney-app-on-meta-quest-now-includes-3d-movies/",
+      "category": "Entertainment",
+      "filterTags": [
+        "Disney+",
+        "Meta Quest",
+        "3D movies"
+      ],
+      "publishedAt": "2026-11-10T22:00:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Entertainment"
+        },
+        {
+          "name": "Virtual Reality"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-hires-major-new-york-law-firm-to-investigate-jensen-huang-affair",
+      "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
+      "dek": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
+      "aiSummary": "Nvidia engaged a prominent New York law firm to probe an affair involving its CEO, Jensen Huang. The probe was triggered by allegations that the woman was a suspected Chinese spy.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+      "category": "Technology",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "New York law firm",
+        "China spy"
+      ],
+      "publishedAt": "2026-11-10T21:59:54+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "b12257",
+      "title": "b12257",
+      "dek": "CUDA: move graph and concurrent stream state out of common.cuh ( #32001 ) \n ggml_cuda_graph, ggml_cuda_concurrent_event and ggml_cuda_stream_context \nare only used by ggml-cuda.cu, but keeping them in common.cuh meant any \nchange to them rebuilt every CUDA translation unit. Move ",
+      "aiSummary": "The update relocates ggml_cuda_graph, ggml_cuda_concurrent_event, and ggml_cuda_stream_context from common.cuh to ggml-cuda.cu. This change is intended to prevent unnecessary rebuilding of all CUDA translation units when these specific components are modified.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12257",
+      "category": "Open Source",
+      "filterTags": [
+        "CUDA",
+        "ggml",
+        "C++"
+      ],
+      "publishedAt": "2026-11-10T21:58:27+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "amazon-and-google-will-see-big-paydays-from-anthropic-ipo",
+      "title": "Amazon and Google Will See Big Paydays from Anthropic IPO",
+      "dek": "Amazon and Google are the largest investors in the A.I. start-up, and their shares could gain hundreds of billions of dollars in value.",
+      "aiSummary": "Amazon and Google are the biggest investors in Anthropic, the AI startup. Their shares could increase in value by hundreds of billions of dollars after the IPO.",
+      "articleUrl": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-google-amazon.html",
+      "category": "AI",
+      "filterTags": [
+        "Amazon",
+        "Google",
+        "Anthropic"
+      ],
+      "publishedAt": "2026-11-10T21:54:37+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Investing"
+        }
+      ]
+    },
+    {
+      "slug": "v0-45-0",
+      "title": "v0.45.0",
+      "dek": "What's Changed \n \n Bump comfyui-frontend-package to 1.58.5 by  @comfy-pr-bot  in  #17442 \n Add better error for when pixel_space VAE wrongly selected. by  @comfyanonymous  in  #17518 \n Make SeedVR2 VAE slice length adaptive to free memory by  @kijai  in  #17508 \n [Partner Nodes] ",
+      "aiSummary": "Version 0.45.0 includes several updates: the comfyui-frontend-package was bumped to 1.58.5, an improved error message was added for incorrect pixel_space VAE selection, and the SeedVR2 VAE slice length now adapts to available memory. Additionally, partner nodes were introduced.",
+      "articleUrl": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.45.0",
+      "category": "Software Updates",
+      "filterTags": [
+        "comfyui-frontend-package",
+        "pixel_space VAE",
+        "SeedVR2 VAE",
+        "Partner Nodes"
+      ],
+      "publishedAt": "2026-11-10T21:42:42+00:00",
+      "publisher": {
+        "name": "comfyanonymous",
+        "domain": "github.com",
+        "website": "https://github.com/comfyanonymous/ComfyUI",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Updates"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "uk-government-ai-strategy-not-tied-to-us-models-that-currently-dominate",
+      "title": "UK government AI strategy not tied to US models that currently dominate",
+      "dek": "Britain is drafting an AI roadmap that steers clear of leading U.S. systems.",
+      "aiSummary": "The UK is developing an AI strategy that does not rely on U.S. models that currently dominate the field. The plan aims to build domestic AI capabilities and reduce dependence on foreign frameworks.",
+      "articleUrl": "https://www.computerweekly.com/news/366654593/UK-government-AI-strategy-not-tied-to-US-models-that-currently-dominate",
+      "category": "AI",
+      "filterTags": [],
+      "publishedAt": "2026-11-10T21:38:41+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Policy"
+        }
+      ]
+    },
+    {
+      "slug": "firstft-anthropic-raises-valuation-target-to-1-4tn",
+      "title": "FirstFT: Anthropic raises valuation target to $1.4tn",
+      "dek": "Also in today’s newsletter: US commerce department delays efforts to blacklist company linked to alleged Chinese spy and SoftBank slumps to $7bn loss",
+      "aiSummary": "Anthropic has raised its valuation target to $1.4 trillion. Additionally, the US Commerce Department has delayed efforts to blacklist a company linked to an alleged Chinese spy, while SoftBank reported a loss of $7 billion.",
+      "articleUrl": "https://www.ft.com/content/cb451a27-481d-4106-b40f-4a83e3e361fd?syn-25a6b1a6=1",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "SoftBank",
+        "US Commerce Department"
+      ],
+      "publishedAt": "2026-11-10T21:38:37+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Corporate Finance"
+        },
+        {
+          "name": "Geopolitics"
+        }
+      ]
+    },
+    {
+      "slug": "v0-45-1",
+      "title": "v0.45.1",
+      "dek": "ComfyUI v0.45.1",
+      "aiSummary": "ComfyUI has released version 0.45.1. The provided text contains only the version number and project name without additional details on specific changes or features.",
+      "articleUrl": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.45.1",
+      "category": "Open Source",
+      "filterTags": [
+        "ComfyUI"
+      ],
+      "publishedAt": "2026-11-10T21:31:02+00:00",
+      "publisher": {
+        "name": "comfyanonymous",
+        "domain": "github.com",
+        "website": "https://github.com/comfyanonymous/ComfyUI",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi",
+      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+      "dek": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+      "aiSummary": "A researcher discovered that about 35,000 Grok Build applications were publicly accessible, exposing sensitive information. The leak included data belonging to SpaceXSI among other confidential details.",
+      "articleUrl": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "category": "Security",
+      "filterTags": [
+        "Grok Build",
+        "SpaceXSI"
+      ],
+      "publishedAt": "2026-11-10T21:12:59+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "who-is-alice-huang-the-woman-in-the-middle-of-nvidia-s-spy-scandal",
+      "title": "Who Is Alice Huang, the Woman in the Middle of Nvidia’s Spy Scandal?",
+      "dek": "Alice Huang, who U.S. intelligence determined is a Chinese asset, emerged from the high-flying world of Shanghai finance to work with tech titans and obtain essential A.I. chips.",
+      "aiSummary": "U.S. intelligence has identified Alice Huang as a Chinese asset who transitioned from Shanghai finance to collaborate with major tech companies. Her primary objective was to secure access to essential artificial intelligence chips.",
+      "articleUrl": "https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html",
+      "category": "Geopolitics",
+      "filterTags": [
+        "Nvidia",
+        "Alice Huang",
+        "AI chips",
+        "U.S. intelligence"
+      ],
+      "publishedAt": "2026-11-10T21:12:39+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Geopolitics"
+        },
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "National Security"
+        }
+      ]
+    },
+    {
+      "slug": "openai-acquires-odessia-travel-startup-created-by-sonder-founder",
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "dek": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+      "aiSummary": "OpenAI has acquired Odessia, a travel startup founded by Sonder founder Francis Davidson. The company has not yet announced its future plans for the travel sector. Francis Davidson is a prominent figure in the travel industry.",
+      "articleUrl": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "OpenAI",
+        "Odessia",
+        "Sonder",
+        "Francis Davidson"
+      ],
+      "publishedAt": "2026-11-10T21:08:52+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Travel"
+        },
+        {
+          "name": "Startups"
+        }
+      ]
+    },
+    {
+      "slug": "new-windows-11-update-fixes-file-explorer-menu-mess-and-patches-an-exploited-flaw",
+      "title": "New Windows 11 update fixes File Explorer menu mess – and patches an exploited flaw",
+      "dek": "With the November Patch Tuesday rollout, you can finally customize your right-click menu in Windows 11. It fixes 1,094 security flaws, too.",
+      "aiSummary": "The November Patch Tuesday update for Windows 11 allows users to customize the File Explorer right-click menu, resolving previous usability issues. Additionally, the update patches 1,094 security flaws, including one that has already been exploited.",
+      "articleUrl": "https://www.zdnet.com/tech/november-windows-11-update-customizable-right-click-menu/",
+      "category": "Operating Systems",
+      "filterTags": [
+        "Windows 11",
+        "File Explorer",
+        "Patch Tuesday",
+        "Security Patch"
+      ],
+      "publishedAt": "2026-11-10T21:00:31+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Operating Systems"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "what-is-the-dead-internet-theory-and-should-humanity-be-worried",
+      "title": "What is the 'Dead Internet Theory' and should humanity be worried?",
+      "dek": "As AI-generated content takes over the internet, will human beings still be able to connect online with other humans in a meaningful way?",
+      "aiSummary": "The article discusses the Dead Internet Theory, which suggests that much of online content is now generated by AI rather than real people. It examines how this shift could affect genuine human interaction and whether society should be concerned about losing authentic connections.",
+      "articleUrl": "https://www.engadget.com/2307790/what-is-dead-internet-theory/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AI-generated content",
+        "Dead Internet Theory",
+        "AI"
+      ],
+      "publishedAt": "2026-11-10T21:00:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Internet"
+        },
+        {
+          "name": "Social Media"
+        }
+      ]
+    },
+    {
+      "slug": "openai-anthropic-face-new-oversight-as-new-york-s-ai-safety-law-takes-effect",
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "dek": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+      "aiSummary": "New York is set to enforce its AI safety law, which will require major developers such as OpenAI and Anthropic to register and disclose their safety practices. The law also mandates reporting of critical incidents, with fines for non‑compliance.",
+      "articleUrl": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "OpenAI",
+        "Anthropic",
+        "AI safety law"
+      ],
+      "publishedAt": "2026-11-10T20:52:13+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Regulation"
+        },
+        {
+          "name": "Policy"
+        }
+      ]
+    },
+    {
+      "slug": "new-airpods-firmware-has-been-released-by-apple",
+      "title": "New AirPods firmware has been released by Apple",
+      "dek": "If you've got a set of AirPods with the H2 chip, it has an update to firmware version 9B47. That means the AirPods 4, AirPods 5, AirPods Pro 2, AirPods Pro 3, and AirPods Max 2 are able to be updated. There is no manual process for updating AirPods. Connecting them to power and l",
+      "aiSummary": "Apple has released firmware version 9B47 for AirPods equipped with the H2 chip. This update is available for the AirPods 4, AirPods 5, AirPods Pro 2, AirPods Pro 3, and AirPods Max 2, and it installs automatically when the devices are connected to power.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/10/new-airpods-firmware-has-been-released-by-apple?utm_source=rss",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Apple",
+        "AirPods",
+        "H2 chip",
+        "firmware"
+      ],
+      "publishedAt": "2026-11-10T20:40:54+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "need-more-ai-in-creator-studio-apple-may-charge-you-for-it",
+      "title": "Need more AI in Creator Studio? Apple may charge you for it",
+      "dek": "With its new $50 AI usage packes, Apple is the latest company to introduce paid model for AI access.",
+      "aiSummary": "Apple has become the latest company to implement a paid model for accessing artificial intelligence. The company is introducing new $50 AI usage packs for its services.",
+      "articleUrl": "https://www.zdnet.com/innovation/ai-creator-studio-apple-usage-packs-fee/",
+      "category": "AI",
+      "filterTags": [
+        "Apple",
+        "AI",
+        "Creator Studio"
+      ],
+      "publishedAt": "2026-11-10T20:38:54+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Monetization"
+        },
+        {
+          "name": "Software"
+        }
+      ]
+    },
+    {
+      "slug": "what-happens-to-mathematics-when-ai-becomes-an-oracle",
+      "title": "What happens to mathematics when AI becomes an oracle?",
+      "dek": "Mathematician Steven Strogatz discusses his new book,  Big Math: The Hidden Codes That Run Our World .",
+      "aiSummary": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World. The discussion explores the implications of AI serving as an oracle for mathematical inquiry.",
+      "articleUrl": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
+      "category": "Mathematics",
+      "filterTags": [
+        "Steven Strogatz",
+        "Big Math",
+        "AI"
+      ],
+      "publishedAt": "2026-11-10T20:30:01+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Mathematics"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "tech-life",
+      "title": "Tech Life",
+      "dek": "We investigate internet-connected device flaws worldwide, plus US election tech fallout.",
+      "aiSummary": "The article investigates flaws in internet-connected devices worldwide and explores how technology affected the U.S. election. It highlights security weaknesses and the broader implications for election integrity.",
+      "articleUrl": "https://www.bbc.co.uk/sounds/play/w3ct8jyv?at_medium=RSS&at_campaign=rss",
+      "category": "Security",
+      "filterTags": [
+        "Internet of Things",
+        "Device Security",
+        "Election Technology"
+      ],
+      "publishedAt": "2026-11-10T20:30:00+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Politics"
+        }
+      ]
+    },
+    {
+      "slug": "v1-104-9",
+      "title": "v1.104.9",
+      "dek": "Verify Docker Image Signature \n All LiteLLM Docker images are signed with  cosign . This release is signed with the key introduced in  commit  e82a3c6 . \n Verify using the pinned commit hash (recommended): \n A commit hash is cryptographically immutable, so this is the strongest w",
+      "aiSummary": "LiteLLM has released version 1.104.9, which includes Docker images signed using cosign. The release is signed with a specific key introduced in commit e82a3c6, and users are advised to verify the signature using the pinned commit hash for the strongest security assurance.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.104.9",
+      "category": "Security",
+      "filterTags": [
+        "LiteLLM",
+        "Docker",
+        "cosign"
+      ],
+      "publishedAt": "2026-11-10T20:29:03+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "DevOps"
+        }
+      ]
+    },
+    {
+      "slug": "apple-s-harbor-app-will-make-running-local-ai-across-multiple-macs-trivial",
+      "title": "Apple's 'Harbor' app will make running local AI across multiple Macs trivial",
+      "dek": "An app presently called \"Harbor\" will help turn multiple  Macs  into a private AI inference server, keeping data local while also making the process of creating an AI server much easier. The Mac Studio is great for AI work The Mac has become a very useful tool for AI research, bu",
+      "aiSummary": "Apple's Harbor turns a collection of Macs into a private AI inference server, keeping data on the devices and simplifying server setup. It allows users to run local AI models across multiple machines without sending data to the cloud. The Mac Studio, in particular, is highlighted as a powerful platform for AI research.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/10/apples-harbor-app-will-make-running-local-ai-across-multiple-macs-trivial?utm_source=rss",
+      "category": "AI",
+      "filterTags": [
+        "Apple",
+        "Harbor",
+        "Mac Studio",
+        "AI inference server",
+        "local AI"
+      ],
+      "publishedAt": "2026-11-10T20:27:25+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Software"
+        }
+      ]
+    },
+    {
+      "slug": "v1-103-11",
+      "title": "v1.103.11",
+      "dek": "Verify Docker Image Signature \n All LiteLLM Docker images are signed with  cosign . This release is signed with the key introduced in  commit  e82a3c6 . \n Verify using the pinned commit hash (recommended): \n A commit hash is cryptographically immutable, so this is the strongest w",
+      "aiSummary": "LiteLLM has released version 1.103.11, which includes Docker images signed using cosign. The release is signed with a specific key introduced in commit e82a3c6, and users are advised to verify the signature using the pinned commit hash for the strongest security assurance.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.103.11",
+      "category": "DevOps",
+      "filterTags": [
+        "LiteLLM",
+        "Docker",
+        "cosign",
+        "e82a3c6"
+      ],
+      "publishedAt": "2026-11-10T20:24:40+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "llm-gemini-0-36",
+      "title": "llm-gemini 0.36",
+      "dek": "Release:   llm-gemini 0.36 \n Gemini 4 Carbon was announced  two weeks ago  for \"a subset of cyber defenders\", but today it's  available to everyone else . \n This is Google's best ever Gemini, priced at $2/million input and $10/million output at launch (that's GPT-6.1 Sol / Claude",
+      "aiSummary": "Gemini 4 Carbon, initially released to a subset of cyber defenders, is now available to the general public. This model is described as Google's best Gemini to date, with pricing set at $2 per million input and $10 per million output at its launch.",
+      "articleUrl": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
+      "category": "AI",
+      "filterTags": [
+        "llm-gemini",
+        "Gemini 4 Carbon",
+        "Google",
+        "GPT-6.1 Sol",
+        "Claude"
+      ],
+      "publishedAt": "2026-11-10T20:09:44+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Release"
+        },
+        {
+          "name": "Large Language Models"
+        },
+        {
+          "name": "Pricing"
+        }
+      ]
+    },
+    {
+      "slug": "new-labrinth-song-from-macbook-pro-livestream-coming-to-apple-music",
+      "title": "New Labrinth song from MacBook Pro livestream coming to Apple Music",
+      "dek": "The song Labrinth created during Apple's livestreamed  MacBook Pro  recording session is coming to Apple Music, giving listeners their first chance to hear the finished result of the nearly four-hour experiment. Labrinth The track  is also scheduled for release on other streaming",
+      "aiSummary": "The song Labrinth created during Apple's livestreamed MacBook Pro recording session is set to release on Apple Music. This release offers listeners the first opportunity to hear the final product of the nearly four-hour experimental session, with the track also scheduled for distribution on other streaming platforms.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/10/new-labrinth-song-from-macbook-pro-livestream-coming-to-apple-music?utm_source=rss",
+      "category": "Music",
+      "filterTags": [
+        "Labrinth",
+        "Apple Music",
+        "MacBook Pro",
+        "Apple"
+      ],
+      "publishedAt": "2026-11-10T20:07:28+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Music"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "designing-for-agents-zeno-rocha-resend",
+      "title": "Designing for Agents — Zeno Rocha, Resend",
+      "dek": "Where does answer engine optimization (AEO) end and agent experience begin? Inside Resend, from the docs that help Claude Code pick an email API to the tools it uses to send.",
+      "aiSummary": "The article explores the line between answer engine optimization (AEO) and agent experience at Resend. It describes how Resend’s documentation helps Claude Code choose an email API and outlines the tools Resend uses to send emails. The focus is on designing for agents within the email service.",
+      "articleUrl": "https://latent.space/p/resend/",
+      "category": "AI",
+      "filterTags": [
+        "Resend",
+        "Claude Code",
+        "email API",
+        "AEO"
+      ],
+      "publishedAt": "2026-11-10T20:05:17+00:00",
+      "publisher": {
+        "name": "Latent Space",
+        "domain": "latent.space",
+        "website": "https://www.latent.space/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Email Services"
+        },
+        {
+          "name": "Product Design"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-hires-law-firm-wachtell-lipton-to-lead-jensen-huang-affair-probe",
+      "title": "Nvidia hires law firm Wachtell Lipton to lead Jensen Huang affair probe",
+      "dek": "On Sunday, Huang admitted to having an affair with a woman who has been connected to Chinese intelligence by reports in The New York Times and Financial Times.",
+      "aiSummary": "Nvidia has hired law firm Wachtell Lipton to lead a probe into Jensen Huang's affair. Huang admitted on Sunday that he had an affair with a woman linked to Chinese intelligence, according to reports from The New York Times and Financial Times.",
+      "articleUrl": "https://www.cnbc.com/2026/11/10/nvidia-wachtell-lipton-huang-affair.html",
+      "category": "Technology",
+      "filterTags": [
+        "Nvidia",
+        "Wachtell Lipton",
+        "New York Times",
+        "Financial Times"
+      ],
+      "publishedAt": "2026-11-10T20:01:18+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Corporate Governance"
+        },
+        {
+          "name": "Legal"
+        }
+      ]
+    },
+    {
+      "slug": "us-regulator-postpones-wall-street-push-to-trade-ai-computing-futures",
+      "title": "US regulator postpones Wall Street push to trade AI computing futures",
+      "dek": "The Commodity Futures Trading Commission raises concerns over price manipulation as exchanges race to create new asset class",
+      "aiSummary": "The Commodity Futures Trading Commission has postponed the launch of AI computing futures on Wall Street. This decision follows concerns raised by the regulator regarding the potential for price manipulation as exchanges compete to establish this new asset class.",
+      "articleUrl": "https://www.ft.com/content/269b0245-44c4-4e34-94df-202bef642539?syn-25a6b1a6=1",
+      "category": "Finance",
+      "filterTags": [
+        "CFTC",
+        "AI computing",
+        "futures",
+        "Wall Street"
+      ],
+      "publishedAt": "2026-11-10T19:58:11+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Regulation"
+        }
+      ]
+    },
+    {
+      "slug": "all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo",
+      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "dek": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
+      "aiSummary": "Each of Anthropic's seven co-founders intends to sell an identical number of shares during the company's IPO. At the midpoint of the proposed price range, this transaction would yield approximately $250 million in cash for each founder while ensuring the group retains control of the company.",
+      "articleUrl": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "IPO"
+      ],
+      "publishedAt": "2026-11-10T19:57:52+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "op-ed-in-nvidia-ceo-jensen-huang-s-alleged-china-spy-scandal-there-s-plenty-of-blame-to-go-around",
+      "title": "Op-ed: In Nvidia CEO Jensen Huang's alleged China spy scandal, there's plenty of blame to go around",
+      "dek": "In the AI era, our economic competitiveness, military capabilities, and intelligence edge can be taken down by one man. We aren't prepared. Congress must act.",
+      "aiSummary": "The op‑ed warns that a single individual, such as Nvidia CEO Jensen Huang, could undermine the United States’ economic, military, and intelligence advantages in the AI age. It argues the country is unprepared for such a threat and calls for congressional action.",
+      "articleUrl": "https://www.cnbc.com/2026/11/10/nvidia-ceo-jensen-huang-china-spy-scandal.html",
+      "category": "AI",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "China",
+        "AI"
+      ],
+      "publishedAt": "2026-11-10T19:40:41+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Politics"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-hires-former-us-prosecutor-at-wachtell-to-lead-jensen-huang-probe",
+      "title": "Nvidia hires former US prosecutor at Wachtell to lead Jensen Huang probe",
+      "dek": "Former acting head of US attorney’s office for Southern District of New York tapped for investigation of CEO’s affair with alleged Chinese spy",
+      "aiSummary": "Nvidia has appointed the former acting head of the US attorney’s office for the Southern District of New York. This individual will oversee an investigation into CEO Jensen Huang's alleged affair with a Chinese spy.",
+      "articleUrl": "https://www.ft.com/content/8d59bf02-960e-4eb1-b5dc-55397e31cea5?syn-25a6b1a6=1",
+      "category": "Legal",
+      "filterTags": [
+        "Nvidia",
+        "Wachtell",
+        "Jensen Huang"
+      ],
+      "publishedAt": "2026-11-10T19:24:52+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Corporate Governance"
+        },
+        {
+          "name": "Investigations"
+        },
+        {
+          "name": "National Security"
+        }
+      ]
+    },
+    {
+      "slug": "b12255",
+      "title": "b12255",
+      "dek": "model : stop renaming the recurrent cache tensors in plamo2 ( #31984 ) \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/65957268 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silicon (arm64, KleidiAI enable",
+      "aiSummary": "This release, identified as b12255, includes a fix that stops the renaming of recurrent cache tensors in the plamo2 model. The update is available for macOS and iOS devices with Apple Silicon architecture.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12255",
+      "category": "AI",
+      "filterTags": [
+        "llama.cpp",
+        "plamo2",
+        "macOS",
+        "iOS",
+        "Apple Silicon",
+        "KleidiAI"
+      ],
+      "publishedAt": "2026-11-10T19:16:00+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "the-us-is-winning-the-ai-race-jensen-huang-could-have-blown-it",
+      "title": "The US is winning the AI race. Jensen Huang could have blown it",
+      "dek": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He ",
+      "aiSummary": "Jensen Huang, the CEO of Nvidia, is a frequent target of espionage due to his control over critical AI technology and his high-profile status. The article suggests that despite these risks, the US is currently winning the AI race, though Huang's actions could have jeopardized this advantage.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+      "category": "AI",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "AI",
+        "Espionage"
+      ],
+      "publishedAt": "2026-11-10T19:04:05+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Geopolitics"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "naiveai-promises-2-100-tokens-per-second-how-well-does-it-code",
+      "title": "NaiveAI Promises 2,100 Tokens per Second. How Well Does It Code?",
+      "dek": "NaiveAI could potentially top Artificial Analysis’s speed rankings. Our hands-on test suggests its coding quality holds up against DeepSeek.",
+      "aiSummary": "NaiveAI claims to process 2,100 tokens per second, potentially surpassing Artificial Analysis in speed. In our hands‑on test, its code quality was comparable to DeepSeek.",
+      "articleUrl": "https://latent.space/p/naiveai/",
+      "category": "AI",
+      "filterTags": [
+        "NaiveAI",
+        "Artificial Analysis",
+        "DeepSeek",
+        "tokens per second"
+      ],
+      "publishedAt": "2026-11-10T18:56:32+00:00",
+      "publisher": {
+        "name": "Latent Space",
+        "domain": "latent.space",
+        "website": "https://www.latent.space/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Performance"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "langchain-1-4-10",
+      "title": "langchain==1.4.10",
+      "dek": "Changes since langchain==1.4.9 \n release(langchain): 1.4.10 ( #41778 ) \nfix(langchain): keep middleware-internal model calls off the  messages  stream ( #41579 ) \nchore(deps): patch newer-python security lock resolutions ( #41585 ) \nfix(langchain): omit trace inputs from  ModelRe",
+      "aiSummary": "The release notes for LangChain 1.4.10 include a new release, a fix that keeps middleware‑internal model calls off the messages stream, a dependency patch addressing newer‑Python security lock resolutions, and a fix to omit trace inputs from ModelRe…",
+      "articleUrl": "https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D1.4.10",
+      "category": "Open Source",
+      "filterTags": [
+        "langchain",
+        "Python"
+      ],
+      "publishedAt": "2026-11-10T18:37:33+00:00",
+      "publisher": {
+        "name": "langchain-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langchain-ai/langchain",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "autonomous-treasury-agents-how-trovata-built-an-ai-native-solution-on-amazon-bedrock-and-agentcore",
+      "title": "Autonomous treasury agents: How Trovata built an AI-native solution on Amazon Bedrock and AgentCore",
+      "dek": "Learn how Trovata built autonomous treasury agents on Amazon Bedrock and Amazon Bedrock AgentCore, using an RBAC-secured architecture for bank-branded AI deployment and agentic workflows that move corporate treasury from manual operations to real-time decision-making at enterpris",
+      "aiSummary": "Trovata developed autonomous treasury agents using Amazon Bedrock and Amazon Bedrock AgentCore to transform corporate treasury operations. The solution employs an RBAC-secured architecture for bank-branded AI deployment, enabling a shift from manual processes to real-time decision-making through agentic workflows.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/autonomous-treasury-agents-how-trovata-built-an-ai-native-solution-on-amazon-bedrock-and-agentcore/",
+      "category": "AI",
+      "filterTags": [
+        "Trovata",
+        "Amazon Bedrock",
+        "Amazon Bedrock AgentCore",
+        "RBAC",
+        "Agentic Workflows"
+      ],
+      "publishedAt": "2026-11-10T18:11:08+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "FinTech"
+        },
+        {
+          "name": "Cloud Computing"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1794349297",
+      "title": "viable/strict/1794349297",
+      "dek": "[dynamo] Add missing DICT_CONTAINS guard to KeyError path in d[key] (…",
+      "aiSummary": "The commit adds a missing DICT_CONTAINS guard to the KeyError path in d[key] within the Dynamo code. This change ensures that dictionary lookups are properly guarded, preventing potential KeyError exceptions. It improves error handling in the Dynamo library.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1794349297",
+      "category": "Software Development",
+      "filterTags": [
+        "dynamo",
+        "DICT_CONTAINS"
+      ],
+      "publishedAt": "2026-11-10T18:01:34+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Programming"
+        },
+        {
+          "name": "Error Handling"
+        }
+      ]
+    },
+    {
+      "slug": "git-security-vulnerabilities-announced",
+      "title": "Git security vulnerabilities announced",
+      "dek": "Git is releasing updates addressing six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. Here is what users need to know. \n The post  Git security vulnerabilities announced  appeared first on  The GitHub Blog .",
+      "aiSummary": "Git is releasing updates to address six security vulnerabilities that impact recursive clones, reference handling, merges, binary patches, and imports. The announcement provides users with necessary information regarding these security fixes.",
+      "articleUrl": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
+      "category": "Security",
+      "filterTags": [
+        "Git",
+        "Security",
+        "GitHub"
+      ],
+      "publishedAt": "2026-11-10T18:00:00+00:00",
+      "publisher": {
+        "name": "GitHub Blog",
+        "domain": "github.blog",
+        "website": "https://github.blog",
+        "logoUrl": "https://github.blog/wp-content/uploads/2019/01/cropped-github-favicon-512.png?fit=180%2C180",
+        "faviconUrl": "https://github.githubassets.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "chatgpt-is-getting-verified-ai-business-agents",
+      "title": "ChatGPT is getting verified AI ‘Business Agents’",
+      "dek": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-foc",
+      "aiSummary": "ChatGPT is introducing verified \"Business Agents\" that will represent brands to assist users with tasks like comparison shopping. This new feature will first be available to eligible e-commerce and online service businesses located in the US.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+      "category": "AI",
+      "filterTags": [
+        "ChatGPT",
+        "AI",
+        "Business Agents",
+        "e-commerce"
+      ],
+      "publishedAt": "2026-11-10T18:00:00+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Business"
+        },
+        {
+          "name": "E-commerce"
+        },
+        {
+          "name": "Software"
+        }
+      ]
+    }
+  ]
+}
