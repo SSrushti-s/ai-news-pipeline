@@ -1,0 +1,1204 @@
+{
+  "news": [
+    {
+      "slug": "gilbert-tobin-rethinks-the-business-of-law-with-ai",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "dek": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "aiSummary": "Gilbert + Tobin is reevaluating its business model by integrating artificial intelligence into legal practice. This strategic shift is led by Sam Nickless, the firm's Partner and Chief Executive Officer.",
+      "articleUrl": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "category": "Legal",
+      "filterTags": [
+        "Gilbert + Tobin",
+        "AI",
+        "Legal Tech"
+      ],
+      "publishedAt": "2026-11-12T00:00:00+00:00",
+      "publisher": {
+        "name": "OpenAI",
+        "domain": "openai.com",
+        "website": "https://openai.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "b12282",
+      "title": "b12282",
+      "dek": "chat : fix Muse Spark ignoring response_format json_schema ( #32017 ) \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/66115272 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silicon (arm64, KleidiAI enabled",
+      "aiSummary": "This release for llama.cpp addresses a bug where the Muse Spark model ignored the response_format json_schema parameter. The fix is associated with pull request #32017 and is available for macOS and iOS devices running on Apple Silicon.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12282",
+      "category": "AI",
+      "filterTags": [
+        "llama.cpp",
+        "Muse Spark",
+        "json_schema",
+        "Apple Silicon",
+        "KleidiAI"
+      ],
+      "publishedAt": "2026-11-11T03:35:11+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "v1-106-8",
+      "title": "v1.106.8",
+      "dek": "Verify Docker Image Signature \n All LiteLLM Docker images are signed with  cosign . This release is signed with the key introduced in  commit  e82a3c6 . \n Verify using the pinned commit hash (recommended): \n A commit hash is cryptographically immutable, so this is the strongest w",
+      "aiSummary": "LiteLLM has released version 1.106.8, which includes Docker images signed using cosign. The release is signed with a specific key introduced in commit e82a3c6, and users are advised to verify the signature using the pinned commit hash for the strongest security assurance.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.106.8",
+      "category": "DevOps",
+      "filterTags": [
+        "LiteLLM",
+        "Docker",
+        "cosign",
+        "e82a3c6"
+      ],
+      "publishedAt": "2026-11-11T03:23:36+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "apple-support-community-forums-are-shutting-down",
+      "title": "Apple Support Community Forums are shutting down",
+      "dek": "As of Tuesday, new forum posts cannot be made to Apple's Support Community Forums and the entire website will be closed on November 20. Apple did not provide a reason for the closure. The likely reason for closing the forums is due to the emergence of communities like Reddit and ",
+      "aiSummary": "Apple has stopped accepting new posts on its Support Community Forums and will shut down the entire website on November 20. The company did not provide a specific reason for the closure, though it is likely due to the rise of alternative community platforms like Reddit.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/11/apple-support-community-forums-are-shutting-down?utm_source=rss",
+      "category": "Consumer Tech",
+      "filterTags": [
+        "Apple",
+        "Reddit"
+      ],
+      "publishedAt": "2026-11-11T03:17:13+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Tech"
+        },
+        {
+          "name": "Corporate Strategy"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-9942f806193d57b7659de920e28c5d7327952511",
+      "title": "trunk/9942f806193d57b7659de920e28c5d7327952511",
+      "dek": "[inductor] Preserve  ctas_per_cga  across config round trips ( #203285 …",
+      "aiSummary": "This update addresses an issue in the inductor component where the ctas_per_cga parameter was not preserved during configuration round trips. The fix ensures that this specific setting remains intact across save and load operations.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F9942f806193d57b7659de920e28c5d7327952511",
+      "category": "Compiler Infrastructure",
+      "filterTags": [
+        "inductor",
+        "ctas_per_cga",
+        "config"
+      ],
+      "publishedAt": "2026-11-11T03:14:58+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Compiler Infrastructure"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "b12277",
+      "title": "b12277",
+      "dek": "mtmd: fix string format, rename to mtmd_format ( #32040 ) \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/66110290 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silicon (arm64, KleidiAI enabled)  DISABLED ",
+      "aiSummary": "This release for llama.cpp addresses a bug in the mtmd component by fixing the string format and renaming the function to mtmd_format. The update is available for macOS and iOS on Apple Silicon, with specific support for KleidiAI noted as disabled in this build.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12277",
+      "category": "AI",
+      "filterTags": [
+        "llama.cpp",
+        "mtmd",
+        "mtmd_format",
+        "Apple Silicon",
+        "KleidiAI"
+      ],
+      "publishedAt": "2026-11-11T03:14:37+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "controlling-your-ai-agents-from-a-game-handheld",
+      "title": "Controlling your AI agents from a game handheld",
+      "dek": "You can manage your AI agents using a portable gaming device.",
+      "aiSummary": "The article discusses the capability of controlling AI agents through a game handheld device. It highlights the integration of AI management with portable gaming hardware.",
+      "articleUrl": "https://blog.codepipes.com/llms/ai-agents-handheld.html",
+      "category": "AI",
+      "filterTags": [
+        "AI agents",
+        "game handheld"
+      ],
+      "publishedAt": "2026-11-11T03:11:30+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-d193558b4731ac9934c430f56c9345eed9992a6a",
+      "title": "trunk/d193558b4731ac9934c430f56c9345eed9992a6a",
+      "dek": "[targets2buck][caffe2] Move the dirsynced caffe2/serialize, caffe2/pe…",
+      "aiSummary": "The commit updates the Caffe2 component by moving the 'serialize' and 'pe' directories to a new location. This change is part of a broader effort to reorganize the codebase structure for targets2buck.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2Fd193558b4731ac9934c430f56c9345eed9992a6a",
+      "category": "Open Source",
+      "filterTags": [
+        "Caffe2",
+        "targets2buck",
+        "dirsynced"
+      ],
+      "publishedAt": "2026-11-11T03:07:08+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "how-ai-helps-recyclers-turn-mixed-waste-into-reusable-material",
+      "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
+      "dek": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
+      "aiSummary": "Vision AI and robotics are being used to identify and separate valuable materials from conveyor belts of mixed waste, including used clothing and bottles. This technology helps divert thousands of tons of materials from landfills by recovering reusable items.",
+      "articleUrl": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
+      "category": "AI",
+      "filterTags": [
+        "Vision AI",
+        "Robotics",
+        "Recycling"
+      ],
+      "publishedAt": "2026-11-11T03:00:20+00:00",
+      "publisher": {
+        "name": "NVIDIA",
+        "domain": "nvidia.com",
+        "website": "https://blogs.nvidia.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Sustainability"
+        },
+        {
+          "name": "Automation"
+        }
+      ]
+    },
+    {
+      "slug": "b12274",
+      "title": "b12274",
+      "dek": "llama : Add FP8 KV-cache support ( #28392 ) \n \n \n Add FP8 KV-cache support \n \n \n Add tests for scaled, FP8 KV-cache to test-backend-ops \n \n \n Fix get_*_scale mapping and dequnatize FP8 also before rope shift \n \n \n Normalizes cache-scale names independently of projection layout. \n",
+      "aiSummary": "The update introduces FP8 KV-cache support for the llama model, including new tests for scaled FP8 KV-cache in test-backend-ops. It also fixes get_*_scale mapping and dequantization of FP8 before rope shift, while normalizing cache-scale names independently of projection layout.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12274",
+      "category": "AI",
+      "filterTags": [
+        "llama",
+        "FP8",
+        "KV-cache",
+        "test-backend-ops",
+        "rope"
+      ],
+      "publishedAt": "2026-11-11T02:57:08+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Performance Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "show-hn-daily-gpu-rental-prices-across-aws-azure-runpod-and-vast-ai",
+      "title": "Show HN: Daily GPU Rental Prices Across AWS, Azure, RunPod and Vast.ai",
+      "dek": "A tool displays the cost of renting GPUs on AWS, Azure, RunPod, and Vast.ai every day.",
+      "aiSummary": "The article introduces a tool that tracks and displays daily GPU rental prices across major cloud providers, including AWS, Azure, RunPod, and Vast.ai. It allows users to compare costs across these platforms on a daily basis.",
+      "articleUrl": "https://taipeiledger.com/gpu/",
+      "category": "Cloud Computing",
+      "filterTags": [
+        "AWS",
+        "Azure",
+        "RunPod",
+        "Vast.ai",
+        "GPU"
+      ],
+      "publishedAt": "2026-11-11T02:50:01+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "v0-45-2",
+      "title": "v0.45.2",
+      "dek": "ComfyUI v0.45.2",
+      "aiSummary": "ComfyUI has released version 0.45.2. The article announces this new version.",
+      "articleUrl": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.45.2",
+      "category": "Software",
+      "filterTags": [
+        "ComfyUI"
+      ],
+      "publishedAt": "2026-11-11T02:25:54+00:00",
+      "publisher": {
+        "name": "comfyanonymous",
+        "domain": "github.com",
+        "website": "https://github.com/comfyanonymous/ComfyUI",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-56eb8da70b259e4357936ee7bf4745ccf484d0d2",
+      "title": "trunk/56eb8da70b259e4357936ee7bf4745ccf484d0d2",
+      "dek": "[inductor] Keep remove_noop_ops from collapsing two outputs into one …",
+      "aiSummary": "The change in the inductor component prevents the remove_noop_ops optimization from merging two separate outputs into a single output. This fix addresses a bug where the optimization incorrectly collapsed outputs, potentially affecting program correctness.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F56eb8da70b259e4357936ee7bf4745ccf484d0d2",
+      "category": "Machine Learning",
+      "filterTags": [
+        "inductor",
+        "remove_noop_ops"
+      ],
+      "publishedAt": "2026-11-11T02:21:27+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Compiler"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "ask-hn-why-doesn-t-ramp-ai-index-include-openrouter-or-other-aggregators",
+      "title": "Ask HN: Why doesn't Ramp AI Index include OpenRouter or other aggregators?",
+      "dek": "Question on Hacker News: Why is OpenRouter and other aggregators not part of the Ramp AI Index?",
+      "aiSummary": "",
+      "articleUrl": "https://news.ycombinator.com/item?id=50449024",
+      "category": "AI",
+      "filterTags": [
+        "OpenRouter",
+        "Ramp AI Index"
+      ],
+      "publishedAt": "2026-11-11T02:12:47+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-opens-australian-retail-ipo-offering-as-ai-scrutiny-intensifies",
+      "title": "Anthropic opens Australian retail IPO offering as AI scrutiny intensifies",
+      "dek": "Anthropic opened its Australia retail IPO offering on Wednesday, allowing individual investors to apply for shares ahead of its planned IPO.",
+      "aiSummary": "Anthropic launched its retail IPO offering in Australia on Wednesday, enabling individual investors to apply for shares before the company's planned initial public offering. This move occurs as scrutiny of the AI sector intensifies.",
+      "articleUrl": "https://www.cnbc.com/2026/11/11/anthopic-australian-retail-ipo-offering-.html",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "IPO",
+        "Retail Investing",
+        "Australia"
+      ],
+      "publishedAt": "2026-11-11T01:52:56+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "sph-media-is-latest-singapore-firm-impacted-by-data-breach-cna",
+      "title": "SPH Media is Latest Singapore Firm Impacted by Data Breach: CNA",
+      "dek": "Singapore publisher SPH Media was hit by a cyber-attack, local media reported, just days after hackers accessed tens of thousands of flight bookings at national carrier Singapore Airlines Ltd.",
+      "aiSummary": "SPH Media, a Singapore-based publisher, suffered a cyber-attack. The incident occurred shortly after hackers accessed many flight bookings at Singapore Airlines.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-11/sph-media-is-latest-singapore-firm-impacted-by-data-breach-cna",
+      "category": "Cybersecurity",
+      "filterTags": [
+        "SPH Media",
+        "Singapore Airlines"
+      ],
+      "publishedAt": "2026-11-11T01:47:31+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "Media"
+        },
+        {
+          "name": "Aviation"
+        }
+      ]
+    },
+    {
+      "slug": "cohere-s-gomez-on-25b-valuation-growth",
+      "title": "Cohere's Gomez on $25B Valuation, Growth",
+      "dek": "Aidan Gomez, co-founder and CEO of Canadian AI Startup Cohere, discusses the company's growth strategy following its latest funding round, which valued the company at $25 billion. He shares his outlook for the business amid surging interest in AI investments and growing investor ",
+      "aiSummary": "Aidan Gomez, co-founder and CEO of Cohere, discusses the company's growth strategy after a funding round that valued the Canadian AI startup at $25 billion. He shares his business outlook in the context of increasing interest in AI investments and rising investor demand.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-11-11/cohere-s-gomez-on-25b-valuation-growth-video",
+      "category": "AI",
+      "filterTags": [
+        "Cohere",
+        "Aidan Gomez",
+        "AI"
+      ],
+      "publishedAt": "2026-11-11T01:47:23+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Venture Capital"
+        }
+      ]
+    },
+    {
+      "slug": "otter-ai-ceo-on-growth-strategy-multi-language-push",
+      "title": "Otter.ai CEO on Growth Strategy, Multi-language push",
+      "dek": "Sam Liang, CEO of AI transcription and note-taking company Otter.ai, discusses the company's multilingual offerings and expansion into international markets, as well as its capital allocation strategies for growth.\nHe speaks with Avril Hong on \"Bloomberg: The Asia Trade\". (Source",
+      "aiSummary": "Sam Liang, CEO of Otter.ai, explained how the company is adding multilingual features and entering new international markets. He also outlined the firm’s approach to allocating capital for growth. The interview was conducted by Avril Hong on Bloomberg’s Asia Trade program.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-11-11/otter-ai-ceo-on-growth-strategy-multi-language-push-video",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Otter.ai",
+        "AI transcription",
+        "note-taking",
+        "multilingual",
+        "capital allocation",
+        "Bloomberg"
+      ],
+      "publishedAt": "2026-11-11T01:46:02+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Business Strategy"
+        },
+        {
+          "name": "International Expansion"
+        }
+      ]
+    },
+    {
+      "slug": "introducing-kimi-k3-1-pro-on-amazon-bedrock",
+      "title": "Introducing Kimi K3.1 Pro on Amazon Bedrock",
+      "dek": "Kimi K3.1 Pro from Moonshot AI is now available on Amazon Bedrock. Learn how to get started through the OpenAI-compatible Chat Completions, Responses, and Converse APIs, optimize inference with explicit prompt caching, and use the model as a coding assistant in OpenCode.",
+      "aiSummary": "Moonshot AI has made its Kimi K3.1 Pro model available on the Amazon Bedrock platform. Users can access the model through OpenAI-compatible APIs, including Chat Completions, Responses, and Converse, while optimizing performance with explicit prompt caching. The model is also supported as a coding assistant within the OpenCode environment.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-1-pro-on-amazon-bedrock/",
+      "category": "AI",
+      "filterTags": [
+        "Kimi K3.1 Pro",
+        "Moonshot AI",
+        "Amazon Bedrock",
+        "OpenAI-compatible API",
+        "OpenCode",
+        "Prompt Caching"
+      ],
+      "publishedAt": "2026-11-11T01:07:19+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "what-is-the-average-lifespan-of-recordable-blu-ray-discs",
+      "title": "What is the average lifespan of recordable Blu-ray discs?",
+      "dek": "How long they will last depends on a few factors.",
+      "aiSummary": "The lifespan of recordable Blu‑ray discs varies based on several factors. Factors such as storage conditions, disc quality, and usage patterns influence how long the data remains readable.",
+      "articleUrl": "https://www.engadget.com/2307784/average-lifespan-recordable-blu-ray-discs/",
+      "category": "Hardware",
+      "filterTags": [
+        "Blu‑ray",
+        "recordable discs",
+        "data storage"
+      ],
+      "publishedAt": "2026-11-11T01:00:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Data Storage"
+        }
+      ]
+    },
+    {
+      "slug": "v1-109-0",
+      "title": "v1.109.0",
+      "dek": "Verify Docker Image Signature \n All LiteLLM Docker images are signed with  cosign . This release is signed with the key introduced in  commit  e82a3c6 . \n Verify using the pinned commit hash (recommended): \n A commit hash is cryptographically immutable, so this is the strongest w",
+      "aiSummary": "The v1.109.0 release of LiteLLM includes Docker images signed with cosign. The signing key was introduced in commit e82a3c6, and users are advised to verify the signature using the pinned commit hash for maximum security.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.109.0",
+      "category": "Security",
+      "filterTags": [
+        "LiteLLM",
+        "cosign",
+        "Docker",
+        "commit hash"
+      ],
+      "publishedAt": "2026-11-11T00:56:51+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Containerization"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "why-your-roku-might-be-plugged-into-the-wrong-hdmi-port",
+      "title": "Why your Roku might be plugged into the wrong HDMI port",
+      "dek": "A Roku isn't as sensitive to the chosen HDMI port as a game console or sound bar, but you should still choose the right one for the job.",
+      "aiSummary": "Roku devices don't rely heavily on the HDMI port selection like game consoles or soundbars do. However, selecting the appropriate HDMI port is still important for optimal performance.",
+      "articleUrl": "https://www.engadget.com/2307791/why-roku-plugged-into-wrong-hdmi-port/",
+      "category": "Hardware",
+      "filterTags": [
+        "Roku",
+        "HDMI"
+      ],
+      "publishedAt": "2026-11-11T00:30:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Video Streaming"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-bankers-prepare-to-increase-ipo-valuation-to-1-5tn-or-more",
+      "title": "Anthropic bankers prepare to increase IPO valuation to $1.5tn or more",
+      "dek": "Claude maker’s listing price expected to rise after strong demand from investors",
+      "aiSummary": "Bankers at Anthropic are preparing to increase the company's IPO valuation to $1.5 trillion or more. This expected rise in listing price follows strong demand from investors for the maker of Claude.",
+      "articleUrl": "https://www.ft.com/content/68bcba57-0575-44ee-80f4-2e5ea23a431e?syn-25a6b1a6=1",
+      "category": "Finance",
+      "filterTags": [
+        "Anthropic",
+        "IPO",
+        "Claude"
+      ],
+      "publishedAt": "2026-11-11T00:27:38+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "icloud-mail-calendar-contacts-photos-were-experiencing-outages",
+      "title": "iCloud Mail, Calendar, Contacts, & Photos were experiencing outages",
+      "dek": "Some users may have had trouble accessing  iCloud  features as an outage affected syncing and other services for Mail, Calendar, Contacts, Photos, and Game Center on Tuesday night. Outages affect Apple services Apple's services rely on servers operated around the world by third-p",
+      "aiSummary": "An outage on Tuesday night caused problems for iCloud users, affecting Mail, Calendar, Contacts, Photos, and Game Center. The outage disrupted syncing and other services. Apple’s services rely on servers worldwide operated by third parties.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/11/icloud-mail-calendar-contacts-photos-are-experiencing-outages?utm_source=rss",
+      "category": "Cloud Computing",
+      "filterTags": [
+        "iCloud",
+        "Apple",
+        "Game Center",
+        "Mail",
+        "Calendar",
+        "Contacts",
+        "Photos"
+      ],
+      "publishedAt": "2026-11-11T00:22:54+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Mobile"
+        },
+        {
+          "name": "Software"
+        }
+      ]
+    },
+    {
+      "slug": "robot-vessels-take-on-the-dangerous-work-of-mine-hunting",
+      "title": "Robot vessels take on the dangerous work of mine hunting",
+      "dek": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
+      "aiSummary": "In the Gulf conflict, the United States sees a chance to evaluate its autonomous mine‑hunting vessels. These robot ships are being deployed to conduct dangerous mine‑clearing operations.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
+      "category": "Defense",
+      "filterTags": [
+        "autonomous mine-hunting systems",
+        "robot vessels"
+      ],
+      "publishedAt": "2026-11-11T00:19:13+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Defense"
+        },
+        {
+          "name": "Autonomous Systems"
+        },
+        {
+          "name": "Maritime Security"
+        }
+      ]
+    },
+    {
+      "slug": "v1-110-0-rc-1",
+      "title": "v1.110.0-rc.1",
+      "dek": "Verify Docker Image Signature \n All LiteLLM Docker images are signed with  cosign . This release is signed with the key introduced in  commit  e82a3c6 . \n Verify using the pinned commit hash (recommended): \n A commit hash is cryptographically immutable, so this is the strongest w",
+      "aiSummary": "LiteLLM has released version 1.110.0-rc.1, which includes Docker images signed using cosign. The release is signed with a key introduced in commit e82a3c6, and users are advised to verify the signature using the pinned commit hash for the strongest security assurance.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.110.0-rc.1",
+      "category": "DevOps",
+      "filterTags": [
+        "LiteLLM",
+        "Docker",
+        "cosign"
+      ],
+      "publishedAt": "2026-11-11T00:06:06+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "ifixit-teardown-shows-how-apple-s-glowing-proled-macbook-logo-works",
+      "title": "iFixit teardown shows how Apple's glowing PROLED MacBook logo works",
+      "dek": "The new laptop goes the extra mile to recreate the iconic feature.",
+      "aiSummary": "iFixit performed a teardown of the new MacBook to show how the illuminated emblem is constructed. The laptop includes a glowing emblem that recreates the iconic feature. The teardown demonstrates the extra effort Apple put into this design.",
+      "articleUrl": "https://www.engadget.com/2312969/ifixit-teardown-shows-how-apples-glowing-proled-macbook-logo-works/",
+      "category": "Hardware",
+      "filterTags": [
+        "Apple",
+        "iFixit",
+        "PROLED",
+        "MacBook"
+      ],
+      "publishedAt": "2026-11-11T00:03:54+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Design"
+        }
+      ]
+    },
+    {
+      "slug": "coreweave-plans-multibillion-dollar-chip-backed-debt-deal",
+      "title": "CoreWeave plans multibillion-dollar chip-backed debt deal",
+      "dek": "AI infrastructure group turns to asset-backed debt and customer pre-payments for financing",
+      "aiSummary": "CoreWeave is planning a multibillion‑dollar debt deal that will be backed by its chip assets. The company is also looking to secure financing through customer pre‑payments. This strategy aims to support its AI infrastructure expansion.",
+      "articleUrl": "https://www.ft.com/content/fa5c5bdc-c2b0-4fab-8951-0526a4608773?syn-25a6b1a6=1",
+      "category": "Finance",
+      "filterTags": [
+        "CoreWeave",
+        "AI infrastructure",
+        "chip-backed debt",
+        "asset-backed debt",
+        "customer pre-payments"
+      ],
+      "publishedAt": "2026-11-11T00:01:29+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "embrace-paper-exams-to-combat-ai-cheating-warns-uk-universities-regulator",
+      "title": "Embrace paper exams to combat AI cheating, warns UK universities regulator",
+      "dek": "Office for Students says technology poses ‘generational risk’ to sector’s integrity and reputation",
+      "aiSummary": "The UK's Office for Students has warned that artificial intelligence poses a significant threat to the integrity and reputation of the higher education sector. To mitigate this 'generational risk,' the regulator is urging universities to return to traditional paper-based examinations.",
+      "articleUrl": "https://www.ft.com/content/2ada6998-26d2-4aab-89ad-11a50f0eb65a?syn-25a6b1a6=1",
+      "category": "Education",
+      "filterTags": [
+        "Office for Students",
+        "AI",
+        "Higher Education",
+        "Exams"
+      ],
+      "publishedAt": "2026-11-11T00:01:09+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Education"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Policy"
+        }
+      ]
+    },
+    {
+      "slug": "jim-cramer-says-anthropic-s-explosive-growth-could-justify-a-record-breaking-ipo",
+      "title": "Jim Cramer says Anthropic's explosive growth could justify a record-breaking IPO",
+      "dek": "\"The fact that this deal is on is bullish for tech and the AI trade,\" CNBC's Jim Cramer said Tuesday.",
+      "aiSummary": "Jim Cramer said that the Anthropic IPO being on is bullish for the tech and AI markets. He made the comment on Tuesday during a CNBC interview.",
+      "articleUrl": "https://www.cnbc.com/2026/11/10/anthropic-ipo-revenue-growth-cramer.html",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "Jim Cramer",
+        "CNBC",
+        "AI"
+      ],
+      "publishedAt": "2026-11-10T23:46:35+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Tech"
+        }
+      ]
+    },
+    {
+      "slug": "proled-macbook-pro-teardown-shows-how-the-glowing-apple-logo-works",
+      "title": "PROLED MacBook Pro teardown shows how the glowing Apple logo works",
+      "dek": "While the PROLED  MacBook Pro  is more repairable, the returning glowing Apple logo isn't something you'll want to mess with. Apple's PROLED MacBook Pro brings back the glowing Apple logo, with a new twist. Image Credit: iFixit. In  October 2026 , Apple finally brought a touchscr",
+      "aiSummary": "iFixit's teardown of the PROLED MacBook Pro demonstrates how the device's glowing Apple logo functions. While the laptop is noted to be more repairable, the article warns that the logo component is delicate and not recommended for user modification.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/10/proled-macbook-pro-teardown-shows-how-the-glowing-apple-logo-works?utm_source=rss",
+      "category": "Hardware",
+      "filterTags": [
+        "PROLED MacBook Pro",
+        "Apple",
+        "iFixit",
+        "Teardown"
+      ],
+      "publishedAt": "2026-11-10T23:42:17+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "jim-cramer-wall-street-is-focusing-too-much-on-what-could-go-wrong-instead-of-right",
+      "title": "Jim Cramer: Wall Street is focusing too much on what could go wrong instead of right",
+      "dek": "Investors shouldn't let mounting market risks overshadow the potential for a rebound, CNBC's Jim Cramer said Tuesday.",
+      "aiSummary": "Jim Cramer cautioned investors not to let rising market risks cloud the possibility of a rebound. He urged a more balanced view, focusing on opportunities rather than potential pitfalls.",
+      "articleUrl": "https://www.cnbc.com/2026/11/10/cramer-stocks-inflation-nvidia-anthropic.html",
+      "category": "Finance",
+      "filterTags": [
+        "CNBC",
+        "Jim Cramer"
+      ],
+      "publishedAt": "2026-11-10T23:41:43+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Investing"
+        }
+      ]
+    },
+    {
+      "slug": "build-a-daily-dependency-watcher-with-langgraph-and-amazon-bedrock-agentcore-web-search",
+      "title": "Build a daily dependency watcher with LangGraph and Amazon Bedrock AgentCore web search",
+      "dek": "The Web Search API in Amazon Bedrock AgentCore gives agents current, cited web results signed with the AWS credentials they already use. In this post, build a daily dependency watcher as a LangGraph graph that researches package ecosystems in parallel, keeps its rules in code, an",
+      "aiSummary": "The article describes how to build a daily dependency watcher using a LangGraph graph and the Amazon Bedrock AgentCore Web Search API. This setup allows agents to retrieve current, cited web results using existing AWS credentials to research package ecosystems in parallel while keeping rules defined in code.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-daily-dependency-watcher-with-langgraph-and-amazon-bedrock-agentcore-web-search/",
+      "category": "AI",
+      "filterTags": [
+        "LangGraph",
+        "Amazon Bedrock",
+        "AgentCore",
+        "Web Search API",
+        "AWS"
+      ],
+      "publishedAt": "2026-11-10T23:34:05+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "DevOps"
+        }
+      ]
+    },
+    {
+      "slug": "meta-fair-releases-e-means-an-algorithm-beating-k-means-in-10x-fewer-epochs",
+      "title": "Meta FAIR Releases e-means: An Algorithm Beating k-means in 10x Fewer Epochs",
+      "dek": "Meta FAIR’s e-means is a mini-batch k-means replacement shipped in FAISS 1.16.0. It reaches Lloyd’s 25-epoch loss in 1.4 to 2.6 epochs, with 10-45x GPU speedups and no extra hyperparameters. \n The post  Meta FAIR Releases e-means: An Algorithm Beating k-means in 10x Fewer Epochs ",
+      "aiSummary": "Meta FAIR has introduced e-means, a new mini-batch k-means replacement, which is now available in FAISS 1.16.0. This algorithm achieves the same loss as Lloyd's k-means in significantly fewer epochs, specifically 1.4 to 2.6 epochs compared to 25. It also offers substantial GPU speedups of 10-45x without requiring additional hyperparameters.",
+      "articleUrl": "https://www.marktechpost.com/2026/11/10/meta-fair-e-means-k-means-faiss/",
+      "category": "AI",
+      "filterTags": [
+        "Meta FAIR",
+        "e-means",
+        "k-means",
+        "FAISS",
+        "GPU"
+      ],
+      "publishedAt": "2026-11-10T23:20:19+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Algorithms"
+        },
+        {
+          "name": "Performance"
+        }
+      ]
+    },
+    {
+      "slug": "lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents",
+      "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
+      "dek": "Microsoft researchers have discovered “Lazarus,” a backdoor technique that can reprogram dormant neurons in an AI model, causing an otherwise normal AI agent to execute malicious commands when a hidden trigger appears. The threat is especially serious for AI agents with tool or t",
+      "aiSummary": "Microsoft researchers identified a backdoor technique called 'Lazarus' that reprograms dormant neurons within AI models. This vulnerability enables an AI agent to execute malicious commands when a specific hidden trigger is detected, posing a significant risk to agents equipped with tool access.",
+      "articleUrl": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
+      "category": "AI",
+      "filterTags": [
+        "Microsoft",
+        "Lazarus",
+        "AI Agents",
+        "Backdoor",
+        "Neurons"
+      ],
+      "publishedAt": "2026-11-10T20:52:56+00:00",
+      "publisher": {
+        "name": "Microsoft Research",
+        "domain": "microsoft.com",
+        "website": "https://www.microsoft.com/en-us/research/",
+        "logoUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2024/07/About-page-promo_1066x600.jpg",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    }
+  ]
+}
