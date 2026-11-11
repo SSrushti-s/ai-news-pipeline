@@ -1,0 +1,1759 @@
+{
+  "news": [
+    {
+      "slug": "b12284",
+      "title": "b12284",
+      "dek": "CUDA: Add OCP FP8 support ( #28413 ) \n \n \n Initial CUDA WIP version \n \n \n Use fp8 intrinsics \n \n \n Do W8A16 for FP8 in GEMV case \n \n \n (base) osimons@ub-osimons:~/lcpp_fp8.git$ ./build-x64-linux-gcc-reldbg/bin/llama-bench -m /mnt/share/gguf/nvidia/Qwen3.6-27B-NVFP4/Qwen3.6-27B-NV",
+      "aiSummary": "The update adds OCP FP8 support to CUDA, using fp8 intrinsics and implementing W8A16 for FP8 in the GEMV case. The changes are in a work‑in‑progress CUDA version and were tested by running llama‑bench on the Qwen3.6‑27B model with NVIDIA FP4 support.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12284",
+      "category": "Hardware",
+      "filterTags": [
+        "CUDA",
+        "FP8",
+        "OCP",
+        "GEMV",
+        "llama-bench",
+        "Qwen3.6-27B",
+        "NVIDIA",
+        "intrinsics"
+      ],
+      "publishedAt": "2026-11-11T13:14:41+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "iphone-duo-photography-overview-great-cameras-that-suffer-in-extreme-low-light",
+      "title": "iPhone Duo photography overview: Great cameras that suffer in extreme low light",
+      "dek": "If you're holding off on an  iPhone Duo  solely because of camera concerns, you probably don't need to, but you will miss the advantages offered by pro iPhones. iPhone Duo has a capable camera system I've spent the past few weeks thinking hard about my place as a photographer and",
+      "aiSummary": "The iPhone Duo features a capable camera system, though it performs poorly in extreme low-light scenarios. While the device addresses common camera concerns, it lacks the specific advantages found in pro-tier iPhones.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/11/iphone-duo-photography-overview-great-cameras-that-suffer-in-extreme-low-light?utm_source=rss",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "iPhone Duo",
+        "Apple",
+        "Photography",
+        "Low Light"
+      ],
+      "publishedAt": "2026-11-11T13:05:17+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Mobile Technology"
+        }
+      ]
+    },
+    {
+      "slug": "show-hn-komrad-an-ai-agent-that-does-not-work-for-you",
+      "title": "Show HN: Komrad – an AI agent that does NOT work for you",
+      "dek": "Komrad is an AI agent designed to operate independently rather than serving as a tool for users.",
+      "aiSummary": "The article introduces Komrad, an AI agent presented on Hacker News. Unlike traditional assistants, this agent is characterized by its lack of direct service to the user, implying an autonomous or peer-like operational model.",
+      "articleUrl": "https://komr.ad/",
+      "category": "AI",
+      "filterTags": [
+        "Komrad",
+        "AI Agent",
+        "Hacker News"
+      ],
+      "publishedAt": "2026-11-11T13:04:14+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "claude-code-obsidian-my-family-s-ai-brain-scott-farrar",
+      "title": "Claude Code + Obsidian: My family’s AI brain | Scott Farrar",
+      "dek": "Watch now (34 mins) | 🎙️ Scott Farrar walks through the Claude Code and Obsidian system he built to track appliances, chase insurance quotes, and keep household projects moving",
+      "aiSummary": "Scott Farrar demonstrates a system combining Claude Code and Obsidian to serve as a central hub for his family's operations. He uses this setup to track appliance maintenance, manage insurance quotes, and coordinate various household projects.",
+      "articleUrl": "https://www.lennysnewsletter.com/p/claude-code-obsidian-my-familys-ai",
+      "category": "AI",
+      "filterTags": [
+        "Claude Code",
+        "Obsidian",
+        "Scott Farrar"
+      ],
+      "publishedAt": "2026-11-11T13:04:09+00:00",
+      "publisher": {
+        "name": "Lenny's Newsletter",
+        "domain": "lennysnewsletter.com",
+        "website": "https://www.lennysnewsletter.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=lennysnewsletter.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=lennysnewsletter.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Productivity"
+        },
+        {
+          "name": "Personal Knowledge Management"
+        }
+      ]
+    },
+    {
+      "slug": "take-two-ceo-zelnick-ai-wont-kill-gaming-jobs",
+      "title": "Take-Two CEO Zelnick: AI Wont Kill Gaming Jobs",
+      "dek": "Take-Two Interactive Chairman & CEO Strauss Zelnick says artificial intelligence will transform the video game industry, but he doesn't believe It will lead to fewer jobs. He says technology ultimately needs to serve one goal: make great entertainment. Zelnick sits down with Davi",
+      "aiSummary": "Take-Two Interactive CEO Strauss Zelnick believes artificial intelligence will transform the video game industry but will not reduce employment. He stresses that technology should focus on creating great entertainment. He discussed these views in an interview with Davi.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-11-11/take-two-ceo-zelnick-ai-wont-kill-gaming-jobs-video",
+      "category": "Gaming",
+      "filterTags": [
+        "Take-Two Interactive",
+        "AI",
+        "video games"
+      ],
+      "publishedAt": "2026-11-11T13:00:55+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Entertainment"
+        }
+      ]
+    },
+    {
+      "slug": "modernizing-nethack-s-c-engine-with-net-maui-avalonia-and-a-31-tool-ai-advisor",
+      "title": "Modernizing NetHack's C engine with .NET MAUI, Avalonia and a 31-tool AI advisor",
+      "dek": "Updating NetHack's C engine using .NET MAUI, Avalonia, and a 31-tool AI helper.",
+      "aiSummary": "No article text available. Unable to summarize.",
+      "articleUrl": "https://wiki.gnollhack.com/Guides/GnollHack,_Gnoll_Overseer,_and_GnollBench_for_Software_Engineers",
+      "category": "Gaming",
+      "filterTags": [
+        "NetHack",
+        ".NET MAUI",
+        "Avalonia",
+        "AI advisor"
+      ],
+      "publishedAt": "2026-11-11T13:00:47+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Artificial Intelligence"
+        }
+      ]
+    },
+    {
+      "slug": "take-two-s-zelnick-traded-movies-for-grand-theft-auto-games",
+      "title": "Take-Two’s Zelnick Traded Movies for ‘Grand Theft Auto’ Games",
+      "dek": "Take-Two Interactive Chairman & CEO Strauss Zelnick reflects on his career in entertainment, from becoming president of 20th Century Fox to leaving the movie and television business for the emerging video game industry. He also discusses how he helped transform Take-Two into one ",
+      "aiSummary": "Take-Two Interactive CEO Strauss Zelnick discusses his career transition from leading 20th Century Fox to the video game sector. He reflects on how he helped transform Take-Two into a major player in the industry.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-11-11/take-two-s-zelnick-traded-movies-for-grand-theft-auto-games",
+      "category": "Entertainment",
+      "filterTags": [
+        "Take-Two Interactive",
+        "Strauss Zelnick",
+        "20th Century Fox",
+        "Grand Theft Auto"
+      ],
+      "publishedAt": "2026-11-11T13:00:07+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Entertainment"
+        },
+        {
+          "name": "Video Games"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "grand-theft-auto-vi-is-latest-big-swing-for-take-two-ceo-s-video-game-empire",
+      "title": "‘Grand Theft Auto VI’ Is Latest Big Swing for Take-Two CEO’s Video Game Empire",
+      "dek": "Take-Two Interactive Software Inc. Chief Executive Officer Strauss Zelnick wanted to run a Hollywood studio when he was a kid.",
+      "aiSummary": "Take-Two Interactive Software CEO Strauss Zelnick is positioning Grand Theft Auto VI as a significant strategic initiative for his company. Zelnick has long harbored ambitions to run a Hollywood studio, which influences his approach to building the video game empire.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-11/-grand-theft-auto-vi-is-latest-big-swing-for-take-two-ceo-s-video-game-empire",
+      "category": "Gaming",
+      "filterTags": [
+        "Take-Two Interactive",
+        "Strauss Zelnick",
+        "Grand Theft Auto VI"
+      ],
+      "publishedAt": "2026-11-11T13:00:00+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "Entertainment"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "microsoft-s-automatic-super-resolution-is-now-officially-out-for-the-rog-xbox-ally-x",
+      "title": "Microsoft's Automatic Super Resolution is now officially out for the ROG Xbox Ally X",
+      "dek": "Microsoft's upscaling tech for video games is now officially available for select Xbox Ally machines, as well as some other Copilot+ PCs.",
+      "aiSummary": "Microsoft's Automatic Super Resolution technology is now officially available on select Xbox Ally machines, including the ROG Xbox Ally X. It is also available on some Copilot+ PCs.",
+      "articleUrl": "https://www.engadget.com/2313202/microsoft-automatic-super-resolution-comes-to-rog-xbox-ally-x/",
+      "category": "Gaming",
+      "filterTags": [
+        "Microsoft",
+        "Automatic Super Resolution",
+        "Xbox Ally",
+        "ROG",
+        "Copilot+"
+      ],
+      "publishedAt": "2026-11-11T12:59:44+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Software"
+        }
+      ]
+    },
+    {
+      "slug": "show-hn-outlier-ai-without-the-data-center-private-and-offline-on-your-mac",
+      "title": "Show HN: Outlier, AI without the data center, private and offline on your Mac",
+      "dek": "A new tool lets you run AI privately and offline on your Mac without needing a data center.",
+      "aiSummary": "Outlier is a tool that enables users to run AI models locally on their Mac. It operates privately and offline, eliminating the need for external data centers.",
+      "articleUrl": "https://outlier.host/",
+      "category": "AI",
+      "filterTags": [
+        "Outlier",
+        "Mac",
+        "AI",
+        "Offline",
+        "Local AI"
+      ],
+      "publishedAt": "2026-11-11T12:54:09+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Privacy"
+        }
+      ]
+    },
+    {
+      "slug": "a-grok-vibe-coding-agent-leaked-sensitive-spacexsi-data",
+      "title": "A Grok vibe-coding agent leaked sensitive SpaceXSI data",
+      "dek": "A flaw in SpaceXSI's Grok Build vibe-coding agent allowed sensitive data to leak from thousands of users including... SpaceXSI.",
+      "aiSummary": "A security flaw in SpaceXSI's Grok Build vibe-coding agent resulted in the leakage of sensitive data. The breach affected thousands of users, including SpaceXSI itself.",
+      "articleUrl": "https://www.engadget.com/2313187/grok-build-leaked-sensitive-spacexsi-data/",
+      "category": "Security",
+      "filterTags": [
+        "SpaceXSI",
+        "Grok Build",
+        "vibe-coding"
+      ],
+      "publishedAt": "2026-11-11T12:35:10+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "can-an-ai-agent-inherit-its-team-s-hard-won-lessons-a-hands-on-look-at-tencentdb-agent-memory",
+      "title": "Can an AI Agent Inherit Its Team’s Hard-Won Lessons? A Hands-On Look at TencentDB Agent Memory",
+      "dek": "Picture a Monday. Your AI coding agent fixes a payment bug and learns three things the hard way. On Tuesday, a new session starts for a similar bug. The agent has no idea about Monday. It reads an old runbook and makes the same mistake again. A bigger context window does not fix ",
+      "aiSummary": "The article explores the challenge of AI coding agents failing to retain lessons from previous sessions, such as fixing a payment bug, which leads to repeated errors. It introduces TencentDB Agent Memory as a solution to this issue, noting that simply increasing the context window is insufficient to solve the problem of knowledge retention across sessions.",
+      "articleUrl": "https://www.analyticsvidhya.com/blog/2026/11/ai-agent-team-memory-tencentdb/",
+      "category": "AI",
+      "filterTags": [
+        "TencentDB",
+        "AI Agent",
+        "Agent Memory",
+        "Coding Agent"
+      ],
+      "publishedAt": "2026-11-11T12:24:34+00:00",
+      "publisher": {
+        "name": "Analytics Vidhya",
+        "domain": "analyticsvidhya.com",
+        "website": "https://www.analyticsvidhya.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=analyticsvidhya.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=analyticsvidhya.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Database"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "thai-politicians-question-apple-over-iphone-spyware-alerts",
+      "title": "Thai politicians question Apple over iPhone spyware alerts",
+      "dek": "Following Apple's issuing of spyware alerts to politicians'  iPhones  in the country, officials in Thailand have met with the company as they aim to strengthen security. Malware illustration — image credit: AppleInsider These spyware alerts were sent on October 29, 2026, at aroun",
+      "aiSummary": "Thai politicians have met with Apple to discuss spyware alerts that were sent to their iPhones on October 29, 2026. The officials aim to strengthen security measures in response to these notifications.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/11/thai-politicians-question-apple-over-iphone-spyware-alerts?utm_source=rss",
+      "category": "Security",
+      "filterTags": [
+        "Apple",
+        "iPhone",
+        "spyware",
+        "Thailand"
+      ],
+      "publishedAt": "2026-11-11T12:24:09+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Politics"
+        }
+      ]
+    },
+    {
+      "slug": "ai-datacentres-plan-on-site-power-stations-on-huge-scale-despite-climate-risks-research-reveals",
+      "title": "AI datacentres plan on-site power stations on huge scale despite climate risks, research reveals",
+      "dek": "181GW of gas-fired capacity proposed for sites in US and Europe because of delays in connecting to national grids, says report Developers of AI datacentres plan to build on-site climate-destroying gas power stations on a huge scale to meet their energy demands, research reveals. ",
+      "aiSummary": "Research indicates that developers of AI data centers are proposing 181GW of gas-fired power capacity for sites in the US and Europe. This move is driven by delays in connecting to national grids, raising significant climate risks due to the reliance on fossil fuels.",
+      "articleUrl": "https://www.theguardian.com/world/2026/nov/11/ai-datacentres-on-site-gas-fired-power-stations",
+      "category": "Energy",
+      "filterTags": [
+        "AI datacentres",
+        "gas-fired power",
+        "US",
+        "Europe",
+        "national grids"
+      ],
+      "publishedAt": "2026-11-11T12:00:48+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Energy"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Climate"
+        }
+      ]
+    },
+    {
+      "slug": "a-jev-of-all-trades-build-and-train-a-jev-style-decision-model-from-scratch",
+      "title": "A Jev of All Trades: Build and Train a Jev-style Decision Model From Scratch",
+      "dek": "Trained on six PathMNIST tissues with a small KEEP adapter, it handled added labels without retraining, though a linear classifier hit 88% on familiar ones. \n The post  A Jev of All Trades: Build and Train a Jev-style Decision Model From Scratch  appeared first on  Towards Data S",
+      "aiSummary": "The article describes building a Jev-style decision model using a small KEEP adapter trained on six PathMNIST tissue types. This approach allows the model to handle new labels without retraining, while a linear classifier achieved 88% accuracy on familiar data.",
+      "articleUrl": "https://towardsdatascience.com/a-jev-of-all-trades-build-and-train-a-jev-style-decision-model-from-scratch/",
+      "category": "Machine Learning",
+      "filterTags": [
+        "PathMNIST",
+        "KEEP adapter",
+        "linear classifier",
+        "Towards Data Science"
+      ],
+      "publishedAt": "2026-11-11T12:00:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Computer Vision"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "2027-chevrolet-bolt-review-rip-to-the-goat-of-low-cost-electric-motoring",
+      "title": "2027 Chevrolet Bolt Review: RIP to the GOAT of low-cost electric motoring",
+      "dek": "Like a budget-minded phoenix, the Bolt is back - but not for long.",
+      "aiSummary": "The Chevrolet Bolt is making a comeback as a budget-friendly electric vehicle, described as a phoenix rising from the ashes. However, the article notes that this revival will not last long, marking the end of an era for low-cost electric motoring.",
+      "articleUrl": "https://www.engadget.com/2312913/2027-chevrolet-bolt-review/",
+      "category": "Automotive",
+      "filterTags": [
+        "Chevrolet",
+        "Bolt",
+        "Electric Vehicle"
+      ],
+      "publishedAt": "2026-11-11T12:00:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Automotive"
+        },
+        {
+          "name": "Electric Vehicles"
+        }
+      ]
+    },
+    {
+      "slug": "coreweave-provides-silver-lining-for-neoclouds-as-nvidia-storm-swirls",
+      "title": "CoreWeave provides silver lining for neoclouds as Nvidia storm swirls",
+      "dek": "Huang's close ties to the White House are in the firing line",
+      "aiSummary": "CoreWeave is seen as providing a positive perspective for neoclouds amidst the ongoing controversy involving Nvidia. The situation is complicated by the scrutiny of Nvidia CEO Jensen Huang's close relationships with the White House.",
+      "articleUrl": "https://www.cnbc.com/2026/11/11/coreweave-provides-silver-lining-for-neoclouds-as-nvidia-storm-swirls.html",
+      "category": "Cloud Computing",
+      "filterTags": [
+        "CoreWeave",
+        "Nvidia",
+        "Jensen Huang",
+        "White House",
+        "neoclouds"
+      ],
+      "publishedAt": "2026-11-11T11:56:11+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Geopolitics"
+        }
+      ]
+    },
+    {
+      "slug": "new-indian-mega-library-rocked-by-scandal-over-ai-generated-books",
+      "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
+      "dek": "The Tamil Nadu government has ordered an internal audit of library collections across the state.",
+      "aiSummary": "The Tamil Nadu government has ordered an internal audit of library collections across the state. The audit will review the collections for compliance and accuracy.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
+      "category": "Government",
+      "filterTags": [
+        "Tamil Nadu"
+      ],
+      "publishedAt": "2026-11-11T11:33:24+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Government"
+        },
+        {
+          "name": "Libraries"
+        }
+      ]
+    },
+    {
+      "slug": "sandboxing-ai-agent-code-execution-in-python-containers-microvms-and-beyond",
+      "title": "Sandboxing AI Agent Code Execution in Python: Containers, MicroVMs and Beyond",
+      "dek": "You need Python 3.",
+      "aiSummary": "The article discusses methods for sandboxing code execution for AI agents in Python. It covers the use of containers and micro virtual machines (MicroVMs) as isolation techniques.",
+      "articleUrl": "https://machinelearningmastery.com/sandboxing-ai-agent-code-execution-in-python-containers-microvms-and-beyond/",
+      "category": "AI",
+      "filterTags": [
+        "Python",
+        "AI Agents",
+        "Containers",
+        "MicroVMs",
+        "Sandboxing"
+      ],
+      "publishedAt": "2026-11-11T11:00:27+00:00",
+      "publisher": {
+        "name": "Jason Brownlee",
+        "domain": "machinelearningmastery.com",
+        "website": "https://machinelearningmastery.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=machinelearningmastery.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=machinelearningmastery.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "DevOps"
+        }
+      ]
+    },
+    {
+      "slug": "fear-factor-sets-in-as-investors-question-ai-energy-start-ups",
+      "title": "‘Fear factor’ sets in as investors question AI energy start-ups",
+      "dek": "Shares continue to slide while companies hoping to power data centres spend heavily",
+      "aiSummary": "Shares of AI energy start-ups are falling as investors grow cautious. Companies that aim to power data centers are investing heavily in energy solutions.",
+      "articleUrl": "https://www.ft.com/content/1bf39007-d0c1-441c-8a87-906c5284bd1a?syn-25a6b1a6=1",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AI",
+        "Energy",
+        "Data Centers"
+      ],
+      "publishedAt": "2026-11-11T11:00:06+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Energy"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "no-employees-and-prototypes-within-days-ai-supercharges-start-ups",
+      "title": "No employees and prototypes within days: AI supercharges start-ups",
+      "dek": "Founders can now use AI agents to handle almost any role, from marketing to building labs",
+      "aiSummary": "The article explains how AI agents enable startup founders to perform a wide range of tasks without hiring employees. These agents can manage marketing, product development, and even build laboratory setups, allowing companies to launch prototypes quickly.",
+      "articleUrl": "https://www.ft.com/content/d338594b-ca66-418a-9884-8f562a175fed",
+      "category": "AI",
+      "filterTags": [
+        "AI agents",
+        "startups",
+        "marketing",
+        "labs"
+      ],
+      "publishedAt": "2026-11-11T11:00:06+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Startups"
+        },
+        {
+          "name": "Product Development"
+        }
+      ]
+    },
+    {
+      "slug": "a-13-year-old-asked-ai-about-suicide-on-her-school-laptop-it-didn-t-get-flagged-for-weeks",
+      "title": "A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks",
+      "dek": "The young girl’s parents allege that she used Gemini via her school Chromebook to plan her suicide, but the school’s monitoring systems didn’t know until it was almost too late.",
+      "aiSummary": "Parents claim their 13-year-old daughter used Google's Gemini on a school-issued Chromebook to plan her suicide. The school's monitoring systems failed to flag the concerning activity for weeks, leaving the situation undetected until it was nearly too late.",
+      "articleUrl": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/",
+      "category": "AI",
+      "filterTags": [
+        "Gemini",
+        "Chromebook",
+        "AI Safety",
+        "Student Monitoring"
+      ],
+      "publishedAt": "2026-11-11T11:00:00+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Education"
+        },
+        {
+          "name": "Safety"
+        }
+      ]
+    },
+    {
+      "slug": "nexperia-adds-gan-and-sic-devices-for-high-efficiency-power-conversion",
+      "title": "Nexperia Adds GaN and SiC Devices for High-Efficiency Power Conversion",
+      "dek": "The new GaN FETs and 750 V SiC MOSFETs extend Nexperia's power portfolio for AI, EV charging, renewable energy and industrial systems. \n The post  Nexperia Adds GaN and SiC Devices for High-Efficiency Power Conversion  appeared first on  Power Electronics News .",
+      "aiSummary": "Nexperia has released new gallium nitride (GaN) field‑effect transistors and 750‑volt silicon carbide (SiC) MOSFETs, expanding its power device lineup. These components are aimed at improving efficiency in applications such as artificial intelligence, electric‑vehicle charging, renewable‑energy systems, and industrial equipment.",
+      "articleUrl": "https://www.powerelectronicsnews.com/nexperia-adds-gan-and-sic-devices-for-high-efficiency-power-conversion/",
+      "category": "Semiconductors",
+      "filterTags": [
+        "Nexperia",
+        "GaN",
+        "SiC",
+        "FET",
+        "MOSFET",
+        "AI",
+        "EV charging",
+        "renewable energy",
+        "industrial systems"
+      ],
+      "publishedAt": "2026-11-11T11:00:00+00:00",
+      "publisher": {
+        "name": "Power Electronics News",
+        "domain": "powerelectronicsnews.com",
+        "website": "https://www.powerelectronicsnews.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Power Electronics"
+        },
+        {
+          "name": "Renewable Energy"
+        },
+        {
+          "name": "Electric Vehicles"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-shares-rebound-5-as-huang-faces-scrutiny-ahead-of-earnings",
+      "title": "Nvidia shares rebound 5% as Huang faces scrutiny ahead of earnings",
+      "dek": "Investors are assessing whether CEO Jensen Huang's affair will have spillover effects on Nvidia's business.",
+      "aiSummary": "Investors are assessing whether CEO Jensen Huang's affair will have spillover effects on Nvidia's business. Nvidia shares rose 5% amid the scrutiny ahead of earnings. Analysts are watching the upcoming earnings release.",
+      "articleUrl": "https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html",
+      "category": "Finance",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang"
+      ],
+      "publishedAt": "2026-11-11T10:56:10+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Corporate Governance"
+        }
+      ]
+    },
+    {
+      "slug": "helsing-unveils-european-rival-to-palantir-military-targeting-system",
+      "title": "Helsing unveils European rival to Palantir military targeting system",
+      "dek": "German group’s Clarity platform comes as governments search for homegrown alternatives to US defence technology",
+      "aiSummary": "The German defense group Helsing has introduced its Clarity platform as a European competitor to Palantir's military targeting systems. This launch occurs as governments seek domestic alternatives to US defense technology.",
+      "articleUrl": "https://www.ft.com/content/2316e892-a7c2-42b6-8c21-7003e05f2b5c?syn-25a6b1a6=1",
+      "category": "Defense",
+      "filterTags": [
+        "Helsing",
+        "Palantir",
+        "Clarity",
+        "Defense Technology"
+      ],
+      "publishedAt": "2026-11-11T10:30:05+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Defense"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Geopolitics"
+        }
+      ]
+    },
+    {
+      "slug": "coreweave-stock-pops-11-after-outlook-raise-eases-ai-slowdown-concerns",
+      "title": "CoreWeave stock pops 11% after outlook raise eases AI slowdown concerns",
+      "dek": "Neoclouds such as CoreWeave, Nebius and IREN have come under scrutiny this month as investors assessed the sustainability of the AI trade.",
+      "aiSummary": "CoreWeave's stock rose 11% after the company raised its outlook, which helped ease concerns about a slowdown in AI demand. Investors have been scrutinizing neoclouds like CoreWeave, Nebius, and IREN as they evaluate the sustainability of the AI market.",
+      "articleUrl": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "CoreWeave",
+        "Nebius",
+        "IREN",
+        "AI"
+      ],
+      "publishedAt": "2026-11-11T10:11:37+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Financial Markets"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "why-is-it-so-hard-to-teach-a-i-agents-to-behave-researchers-have-a-theory",
+      "title": "Why Is It So Hard to Teach A.I. Agents to Behave? Researchers Have a Theory.",
+      "dek": "The makers of A.I. want to build systems that follow human direction, without resisting or deceiving their operators.",
+      "aiSummary": "Researchers are investigating why AI agents struggle to follow human instructions. They propose a theory to explain the difficulty. The goal is to create AI that obeys commands without resisting or lying.",
+      "articleUrl": "https://www.nytimes.com/2026/11/11/magazine/ai-behavior-incorrigible.html",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AI",
+        "Artificial Intelligence"
+      ],
+      "publishedAt": "2026-11-11T10:01:51+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Human-Computer Interaction"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate",
+      "title": "[AINews] Mercor $750m Series D at $20B valuation, $3B run rate",
+      "dek": "November 10, 2026 — Google GA's Gemini 4 Carbon.",
+      "aiSummary": "Mercor has closed a $750 million Series D funding round, achieving a valuation of $20 billion. The company is currently operating at a $3 billion annual run rate.",
+      "articleUrl": "https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate/",
+      "category": "Venture Capital",
+      "filterTags": [
+        "Mercor",
+        "Series D"
+      ],
+      "publishedAt": "2026-11-11T09:34:28+00:00",
+      "publisher": {
+        "name": "Latent Space",
+        "domain": "latent.space",
+        "website": "https://www.latent.space/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Venture Capital"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "n8n-1-123-94",
+      "title": "n8n@1.123.94",
+      "dek": "1.123.94  (2026-11-11) \n Bug Fixes \n \n core:  Keep retry backoff when a trigger fails right after reactivation ( #43178 ) ( 4be543b )",
+      "aiSummary": "n8n released version 1.123.94 on November 11, 2026. This update includes a core bug fix that ensures retry backoff is maintained when a trigger fails immediately after reactivation.",
+      "articleUrl": "https://github.com/n8n-io/n8n/releases/tag/n8n%401.123.94",
+      "category": "Open Source",
+      "filterTags": [
+        "n8n",
+        "core",
+        "bug fix"
+      ],
+      "publishedAt": "2026-11-11T09:13:35+00:00",
+      "publisher": {
+        "name": "n8n-io",
+        "domain": "github.com",
+        "website": "https://github.com/n8n-io/n8n",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Workflow Automation"
+        }
+      ]
+    },
+    {
+      "slug": "n8n-2-47-4",
+      "title": "n8n@2.47.4",
+      "dek": "2.47.4  (2026-11-11) \n Bug Fixes \n \n core:  Keep expression transfers working after built-in replacements ( #43360 ) ( b110abb ) \n core:  Keep observational memory running after a user stops a HITL card ( #43225 ) ( 353a342 ) \n core:  Match bare node references across expression ",
+      "aiSummary": "n8n version 2.47.4 includes several bug fixes. The update ensures expression transfers remain functional after built‑in replacements, keeps observational memory active when a user stops a HITL card, and improves matching of bare node references in expressions.",
+      "articleUrl": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.47.4",
+      "category": "Open Source",
+      "filterTags": [
+        "n8n"
+      ],
+      "publishedAt": "2026-11-11T08:43:33+00:00",
+      "publisher": {
+        "name": "n8n-io",
+        "domain": "github.com",
+        "website": "https://github.com/n8n-io/n8n",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Workflow Automation"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "n8n-2-48-1",
+      "title": "n8n@2.48.1",
+      "dek": "2.48.1  (2026-11-11) \n Bug Fixes \n \n core:  Keep expression transfers working after built-in replacements ( #43359 ) ( 8b3d3db ) \n core:  Match bare node references across expression engines ( #43357 ) ( 7afa69d ) \n Edit Image Node:  Register font once instead of on every text op",
+      "aiSummary": "The 2.48.1 update for n8n includes several bug fixes. It restores expression transfer functionality after built‑in replacements, ensures bare node references are correctly matched across expression engines, and optimizes the Edit Image Node by registering fonts only once per operation.",
+      "articleUrl": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.48.1",
+      "category": "Open Source",
+      "filterTags": [
+        "n8n",
+        "Edit Image Node",
+        "expression engine"
+      ],
+      "publishedAt": "2026-11-11T08:43:32+00:00",
+      "publisher": {
+        "name": "n8n-io",
+        "domain": "github.com",
+        "website": "https://github.com/n8n-io/n8n",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Automation"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "chatgpt-plus-for-veterans-and-servicemembers",
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "dek": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "aiSummary": "Over 20,000 veterans and transitioning service members have taken advantage of a free one‑year subscription to ChatGPT Plus. The program helps them use the AI tool to prepare for civilian careers.",
+      "articleUrl": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "category": "AI",
+      "filterTags": [
+        "ChatGPT Plus"
+      ],
+      "publishedAt": "2026-11-11T08:00:00+00:00",
+      "publisher": {
+        "name": "OpenAI",
+        "domain": "openai.com",
+        "website": "https://openai.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Veterans Affairs"
+        },
+        {
+          "name": "Career Development"
+        }
+      ]
+    },
+    {
+      "slug": "mbzuai-s-ifm-releases-pan-2-an-open-29b-world-model-for-physical-ai",
+      "title": "MBZUAI’s IFM Releases PAN 2, an Open 29B World Model for Physical AI",
+      "dek": "The Institute of Foundation Models at MBZUAI released PAN 2, an Apache 2.0 world model that couples an LLM planner with a 29B diffusion transformer to simulate up to 20 seconds of action outcomes as video. \n The post  MBZUAI’s IFM Releases PAN 2, an Open 29B World Model for Physi",
+      "aiSummary": "The Institute of Foundation Models at MBZUAI has released PAN 2, an open-source world model licensed under Apache 2.0. The system integrates an LLM planner with a 29B diffusion transformer to simulate action outcomes as video for up to 20 seconds.",
+      "articleUrl": "https://www.marktechpost.com/2026/11/10/ifm-pan-2-open-world-model/",
+      "category": "AI",
+      "filterTags": [
+        "MBZUAI",
+        "PAN 2",
+        "Diffusion Transformer",
+        "LLM",
+        "Apache 2.0"
+      ],
+      "publishedAt": "2026-11-11T07:38:57+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Robotics"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-s-crisis-has-corporate-governance-experts-reaching-for-the-popcorn",
+      "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+      "dek": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+      "aiSummary": "Corporate governance experts are observing Nvidia's crisis, noting that the situation is unprecedented. They expressed that no similar scenario has been witnessed before.",
+      "articleUrl": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+      "category": "Technology",
+      "filterTags": [
+        "Nvidia",
+        "Corporate Governance"
+      ],
+      "publishedAt": "2026-11-11T07:30:51+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Corporate Governance"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1794399971",
+      "title": "viable/strict/1794399971",
+      "dek": "[Testcase Refactoring] Migrate test_dependencies.py to use \"cpu\" devi…",
+      "aiSummary": "The article covers a refactoring of the test_dependencies.py file to switch its device usage to CPU. This change is part of a broader effort to improve test case consistency. The update likely simplifies device configuration for tests.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1794399971",
+      "category": "Testing",
+      "filterTags": [
+        "test_dependencies.py",
+        "CPU",
+        "refactoring",
+        "Python"
+      ],
+      "publishedAt": "2026-11-11T07:13:48+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Testing"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "ai-has-made-it-close-to-impossible-to-assess-university-coursework-regulator-says",
+      "title": "AI has made it ‘close to impossible’ to assess university coursework, regulator says",
+      "dek": "Office for Students says institutions in England should return to traditional exams and in-person presentations  Universities should go back to traditional exams and in-person presentations to grade students after lecturers complained that AI has made it “close to impossible” to ",
+      "aiSummary": "The Office for Students has advised universities in England to revert to traditional exams and in-person presentations for grading. This recommendation follows complaints from lecturers that AI tools have made it close to impossible to accurately assess coursework.",
+      "articleUrl": "https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator",
+      "category": "Education",
+      "filterTags": [
+        "Office for Students",
+        "AI",
+        "University",
+        "Assessment"
+      ],
+      "publishedAt": "2026-11-11T07:00:33+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Education"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "b12283",
+      "title": "b12283",
+      "dek": "sycl : fixed sycl CLAMP to actually support strided view ( #31784 ) \n Modify  ggml_sycl_op_clamp  to use the unary helper function \n ggml_sycl_detail::ggml_sycl_op_unary  to handle non-contigous or \nstrided views. The fix uses a pattern that matches other stride-safe \nunary ops, ",
+      "aiSummary": "The SYCL CLAMP operation has been updated to handle strided views. The change replaces ggml_sycl_op_clamp with a call to the unary helper function ggml_sycl_detail::ggml_sycl_op_unary, aligning it with other stride‑safe unary operations.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12283",
+      "category": "Software Development",
+      "filterTags": [
+        "SYCL",
+        "ggml",
+        "CLAMP",
+        "strided view",
+        "unary ops"
+      ],
+      "publishedAt": "2026-11-11T06:21:55+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "v1-14-0-dev24",
+      "title": "v1.14.0.dev24",
+      "dek": "Langflow nightly v1.14.0.dev24",
+      "aiSummary": "Langflow has released a new nightly build, version v1.14.0.dev24. This update is part of the project's ongoing development cycle.",
+      "articleUrl": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev24",
+      "category": "AI",
+      "filterTags": [
+        "Langflow"
+      ],
+      "publishedAt": "2026-11-11T06:00:50+00:00",
+      "publisher": {
+        "name": "langflow-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langflow-ai/langflow",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1794390644",
+      "title": "viable/strict/1794390644",
+      "dek": "[targets2buck][c10] Move the dirsynced c10 TARGETS files to BUCK, bui…",
+      "aiSummary": "The text indicates a change to move directory-synced c10 TARGETS files to BUCK. This action is associated with the targets2buck project and involves build configuration updates.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1794390644",
+      "category": "Build Systems",
+      "filterTags": [
+        "c10",
+        "BUCK",
+        "targets2buck"
+      ],
+      "publishedAt": "2026-11-11T05:42:51+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Build Systems"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "australians-are-not-streaming-australian-music-why-the-hell-not-first-dog-on-the-moon",
+      "title": "Australians are not streaming Australian music. Why the hell not?! | First Dog on the Moon",
+      "dek": "Is it because a) live music is just too hard (expensive) to do and b) AI streaming algorithms are eating our brains? Probably Sign up here to get an email  whenever First Dog cartoons are published Get all your needs met at the First Dog shop  if what you need is First Dog mercha",
+      "aiSummary": "The article questions why Australians aren't streaming Australian music, suggesting that live music may be too costly and that AI-driven streaming algorithms might be influencing listeners. It also includes a call to sign up for emails about First Dog cartoons and promotes the First Dog shop and merchandise.",
+      "articleUrl": "https://www.theguardian.com/commentisfree/picture/2026/nov/11/australians-are-not-streaming-australian-music-why-the-hell-not",
+      "category": "Music",
+      "filterTags": [
+        "AI",
+        "First Dog",
+        "streaming algorithms"
+      ],
+      "publishedAt": "2026-11-11T05:34:40+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Music"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Marketing"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1794387038",
+      "title": "viable/strict/1794387038",
+      "dek": "[targets2buck][caffe2] Move the dirsynced caffe2/caffe2 TARGETS file …",
+      "aiSummary": "The text describes a change to the Caffe2 build system involving the movement of a directory-synchronized TARGETS file. It is associated with the 'targets2buck' process, indicating a migration or update to the Buck build tool.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1794387038",
+      "category": "Build Systems",
+      "filterTags": [
+        "Caffe2",
+        "Buck",
+        "targets2buck",
+        "TARGETS"
+      ],
+      "publishedAt": "2026-11-11T05:09:15+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Build Systems"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "botpsy-on-device-personal-assistant-with-a-sub-billion-parameter-agentic-language-model",
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "dek": "BotPsy is a personal assistant that runs on the device using a small language model.",
+      "aiSummary": "BotPsy is a personal assistant that operates entirely on the device, powered by a language model with fewer than one billion parameters. The model is agentic, meaning it can act autonomously within the device’s environment. Its lightweight design makes it suitable for mobile or embedded applications.",
+      "articleUrl": "https://huggingface.co/blog/qvac/botpsy",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "BotPsy",
+        "On-Device",
+        "Personal Assistant",
+        "Sub-Billion-Parameter",
+        "Agentic Language Model"
+      ],
+      "publishedAt": "2026-11-11T05:01:16+00:00",
+      "publisher": {
+        "name": "Hugging Face",
+        "domain": "huggingface.co",
+        "website": "https://huggingface.co/",
+        "logoUrl": "https://huggingface.co/front/thumbnails/v2-2.png",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Mobile"
+        }
+      ]
+    },
+    {
+      "slug": "auditable-human-agent-teams-for-autonomous-x-ray-experimentation",
+      "title": "Auditable Human-Agent Teams for Autonomous X-ray Experimentation",
+      "dek": "arXiv:2611.12933v1 Announce Type: new \nAbstract: Closed-loop autonomous experimentation can accelerate scientific discovery, but implementation effort limits accessibility. Agentic systems may lower this barrier, although sustained operation on physical instruments remains largel",
+      "aiSummary": "The paper introduces a framework for closed-loop autonomous experimentation using agentic systems to accelerate scientific discovery. It addresses the high implementation costs of traditional automation by leveraging AI agents to operate physical instruments, specifically focusing on X-ray experimentation.",
+      "articleUrl": "https://arxiv.org/abs/2611.12933",
+      "category": "AI",
+      "filterTags": [
+        "Agentic Systems",
+        "Autonomous Experimentation",
+        "X-ray",
+        "Closed-loop",
+        "arXiv"
+      ],
+      "publishedAt": "2026-11-11T05:00:00+00:00",
+      "publisher": {
+        "name": "arXiv cs.AI",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.AI",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Scientific Computing"
+        },
+        {
+          "name": "Automation"
+        }
+      ]
+    },
+    {
+      "slug": "earthrecord-from-pixels-to-land-change-with-multimodal-agents-over-four-decades-of-satellite-imagery",
+      "title": "EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery",
+      "dek": "arXiv:2611.12934v1 Announce Type: new \nAbstract: While multimodal agents now carry out complex data analysis with tools, their ability to turn decades of satellite imagery into reliable land-change analysis, crucial for Earth observation science, remains unmeasured. Existing benc",
+      "aiSummary": "The paper presents EarthRecord, a system that applies multimodal agents to analyze satellite imagery spanning forty years for land-change detection. It notes that while multimodal agents can perform complex data analysis, their ability to produce reliable land-change metrics from long-term imagery has not yet been measured. The study underscores the need for new benchmarks to evaluate this capability.",
+      "articleUrl": "https://arxiv.org/abs/2611.12934",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Multimodal Agents",
+        "Satellite Imagery",
+        "Land-Change Analysis",
+        "Earth Observation"
+      ],
+      "publishedAt": "2026-11-11T05:00:00+00:00",
+      "publisher": {
+        "name": "arXiv cs.AI",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.AI",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Earth Observation"
+        },
+        {
+          "name": "Remote Sensing"
+        }
+      ]
+    },
+    {
+      "slug": "train-on-prefill-monitor-at-decode-using-sparse-autoencoders-for-topic-monitoring",
+      "title": "Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring",
+      "dek": "arXiv:2611.12935v1 Announce Type: new \nAbstract: Topic monitoring is the task of labelling the topic of each token in a model's response during generation. Activation-based monitors that run at generation time have so far been trained to detect harmful content and are limited to ",
+      "aiSummary": "The paper introduces a method for topic monitoring that labels the topic of each token during model generation. It utilizes sparse autoencoders trained on prefill data to monitor activations at decode time, addressing limitations in previous activation-based monitors that were restricted to detecting harmful content.",
+      "articleUrl": "https://arxiv.org/abs/2611.12935",
+      "category": "AI",
+      "filterTags": [
+        "sparse autoencoders",
+        "topic monitoring",
+        "prefill",
+        "decode",
+        "arXiv"
+      ],
+      "publishedAt": "2026-11-11T05:00:00+00:00",
+      "publisher": {
+        "name": "arXiv cs.AI",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.AI",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Interpretability"
+        }
+      ]
+    },
+    {
+      "slug": "cluster-weighted-modeling-for-count-data-with-excess-zeros-and-mixed-type-covariates",
+      "title": "Cluster-weighted modeling for count data with excess zeros and mixed-type covariates",
+      "dek": "arXiv:2611.13021v1 Announce Type: new \nAbstract: Count data may exhibit excess zeros, within-group overdispersion, and heterogeneous relationships between the response and its covariates. Conventional zero-inflated regression models typically impose a single count-regression stru",
+      "aiSummary": "Count data frequently exhibits challenges like an abundance of zero observations, varying dispersion within groups, and diverse relationships between the response and its covariates. Standard zero-inflated regression models often apply a singular count-regression structure, which might not fully address these complex characteristics.",
+      "articleUrl": "https://arxiv.org/abs/2611.13021",
+      "category": "Statistics",
+      "filterTags": [
+        "Cluster-weighted modeling",
+        "Count data",
+        "Zero-inflated regression models"
+      ],
+      "publishedAt": "2026-11-11T05:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Statistics"
+        },
+        {
+          "name": "Data Modeling"
+        },
+        {
+          "name": "Quantitative Analysis"
+        }
+      ]
+    },
+    {
+      "slug": "spectral-domain-information-geometry-of-stationary-covariance-models-gaussian-and-elliptical-extensions",
+      "title": "Spectral-Domain Information Geometry of Stationary Covariance Models: Gaussian and Elliptical Extensions",
+      "dek": "arXiv:2611.13037v1 Announce Type: new \nAbstract: This paper develops an information-geometric framework for stationary covariance structures. We begin with the infinite-dimensional setting, where stationary covariance structures can be characterized without finite-window boundary",
+      "aiSummary": "The paper establishes an information-geometric framework for analyzing stationary covariance structures, starting with the infinite-dimensional setting. It characterizes these structures without relying on finite-window boundary conditions and extends the analysis to Gaussian and elliptical models.",
+      "articleUrl": "https://arxiv.org/abs/2611.13037",
+      "category": "Mathematics",
+      "filterTags": [
+        "Information Geometry",
+        "Stationary Covariance",
+        "Gaussian Models",
+        "Elliptical Models",
+        "arXiv"
+      ],
+      "publishedAt": "2026-11-11T05:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Mathematics"
+        },
+        {
+          "name": "Statistics"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "causal-learning-with-invalid-instruments-for-high-dimensional-imaging-responses",
+      "title": "Causal Learning with Invalid Instruments for High-dimensional Imaging Responses",
+      "dek": "arXiv:2611.13187v1 Announce Type: new \nAbstract: Large-scale neuroimaging studies provide high-dimensional imaging phenotypes for understanding brain-related diseases and their causal relations with biological risk factors. While instrumental variable (IV) methods can address unm",
+      "aiSummary": "The paper introduces methods for causal learning in neuroimaging data when some instrumental variables are invalid, focusing on high‑dimensional imaging phenotypes from large‑scale studies to understand brain diseases and their links to biological risk factors, and discusses how instrumental variable techniques can address unobserved confounding in this setting.",
+      "articleUrl": "https://arxiv.org/abs/2611.13187",
+      "category": "Neuroscience",
+      "filterTags": [
+        "neuroimaging",
+        "instrumental variable",
+        "causal inference",
+        "high-dimensional imaging"
+      ],
+      "publishedAt": "2026-11-11T05:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Neuroscience"
+        },
+        {
+          "name": "Statistics"
+        },
+        {
+          "name": "Data Science"
+        }
+      ]
+    },
+    {
+      "slug": "ai-engineer-code-summit-openai-on-new-ways-of-working-with-codex",
+      "title": "AI Engineer Code Summit: OpenAI on New Ways of Working With Codex",
+      "dek": "On the first day of AIE Code Summit, OpenAI showed how developers can steer Codex by voice, hand off work to the cloud, and make use of dots.",
+      "aiSummary": "At the first day of the AIE Code Summit, OpenAI presented new capabilities for developers using Codex. The demonstration highlighted how users can control the tool via voice commands, transfer tasks to the cloud, and utilize a feature referred to as dots.",
+      "articleUrl": "https://latent.space/p/codex-work/",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "Codex",
+        "AIE Code Summit"
+      ],
+      "publishedAt": "2026-11-11T04:49:48+00:00",
+      "publisher": {
+        "name": "Latent Space",
+        "domain": "latent.space",
+        "website": "https://www.latent.space/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "fish-audio-releases-live-3-a-full-duplex-voice-model-that-reacts-in-186-ms",
+      "title": "Fish Audio Releases Live 3, a Full-Duplex Voice Model That Reacts in 186 ms",
+      "dek": "Fish Audio released Live 3, a full-duplex voice model for voice agents. It listens while it speaks, separates “mm-hmm” from real interruptions, and can react in as little as 186 ms. English only at launch \n The post  Fish Audio Releases Live 3, a Full-Duplex Voice Model That Reac",
+      "aiSummary": "Fish Audio has launched Live 3, a full‑duplex voice model that can listen while speaking and distinguish filler sounds from real interruptions. The model can respond in as little as 186 ms and is initially available only in English.",
+      "articleUrl": "https://www.marktechpost.com/2026/11/10/fish-audio-live-3-full-duplex-voice-model/",
+      "category": "AI",
+      "filterTags": [
+        "Fish Audio",
+        "Live 3",
+        "full-duplex voice model",
+        "voice agents",
+        "186 ms"
+      ],
+      "publishedAt": "2026-11-11T04:43:53+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Speech Recognition"
+        },
+        {
+          "name": "Voice Technology"
+        }
+      ]
+    }
+  ]
+}
