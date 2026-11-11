@@ -1,0 +1,1740 @@
+{
+  "news": [
+    {
+      "slug": "the-unfolding-jensen-huang-scandal-a-timeline",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "dek": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "aiSummary": "The article presents a timeline of the ongoing scandal involving Jensen Huang. It notes that the situation may have significant implications for national security, particularly in the context of the competition between the U.S. and China to build advanced AI infrastructure.",
+      "articleUrl": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "category": "AI",
+      "filterTags": [
+        "Jensen Huang",
+        "AI infrastructure",
+        "National Security",
+        "U.S.",
+        "China"
+      ],
+      "publishedAt": "2026-11-11T23:50:00+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Geopolitics"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "show-hn-i-built-a-ai-acne-coach-that-helps-find-root-cause-of-your-acne",
+      "title": "Show HN: I built a AI acne coach that helps find root cause of your acne",
+      "dek": "I created an AI tool that coaches you on acne by identifying its root causes.",
+      "aiSummary": "The author built an AI acne coach that helps users identify the root cause of their acne. They shared the project on Show HN. The tool uses AI to analyze user data and suggest possible causes.",
+      "articleUrl": "https://acneally.vercel.app",
+      "category": "Health",
+      "filterTags": [
+        "AI",
+        "Show HN",
+        "acne"
+      ],
+      "publishedAt": "2026-11-11T23:49:11+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Health"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "jensen-huang-said-to-have-had-relationship-with-nvidia-executive-who-reports-to-him",
+      "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+      "dek": "Mr. Huang, Nvidia’s chief executive, is already facing scrutiny over an affair with a Chinese businesswoman who U.S. intelligence determined was a Chinese spy.",
+      "aiSummary": "Nvidia CEO Jensen Huang is reportedly in a relationship with an executive who reports directly to him. This development adds to existing scrutiny regarding his previous affair with a Chinese businesswoman identified by U.S. intelligence as a spy.",
+      "articleUrl": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+      "category": "Corporate Governance",
+      "filterTags": [
+        "Jensen Huang",
+        "Nvidia"
+      ],
+      "publishedAt": "2026-11-11T23:44:33+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Corporate Governance"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "agentic-ai-for-military-cyberoperations-west-point-press-pdf",
+      "title": "Agentic AI for Military Cyberoperations (West Point Press) [pdf]",
+      "dek": "A book from West Point Press explores the use of autonomous AI in military cyber operations.",
+      "aiSummary": "The provided text consists only of a title indicating a publication by West Point Press. It suggests the content is a PDF document focused on the application of agentic AI within the context of military cyberoperations.",
+      "articleUrl": "https://cyberdefensereview.army.mil/Portals/6/Documents/2026-vol11-iss3/CDR_V11_N3_Full_Issue.pdf",
+      "category": "Defense",
+      "filterTags": [
+        "Agentic AI",
+        "Military",
+        "Cyberoperations",
+        "West Point Press"
+      ],
+      "publishedAt": "2026-11-11T23:36:07+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Defense"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cybersecurity"
+        }
+      ]
+    },
+    {
+      "slug": "openai-codex-on-amazon-bedrock",
+      "title": "OpenAI Codex on Amazon Bedrock",
+      "dek": "A practical guide for enterprises rolling out OpenAI Codex to developers on AWS, with Amazon Bedrock as the model backend, covering the access, governance, and cost decisions that platform, security, and finance teams need to align on.",
+      "aiSummary": "This guide details how enterprises can deploy OpenAI Codex to developers using Amazon Bedrock as the model backend on AWS. It addresses the specific access, governance, and cost considerations required for alignment among platform, security, and finance teams.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock/",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "Codex",
+        "Amazon Bedrock",
+        "AWS"
+      ],
+      "publishedAt": "2026-11-11T23:35:47+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Enterprise Software"
+        }
+      ]
+    },
+    {
+      "slug": "semantic-diffing-of-formal-policies-with-anti-unification",
+      "title": "Semantic diffing of formal policies with anti-unification",
+      "dek": "A textual diff of two formal policies flags every cosmetic change and hides the one that alters behavior. This post shows how to compute a symbolic, deterministic semantic diff with an open-source anti-unification engine, so reviewers see only the genuine disagreements between tw",
+      "aiSummary": "Textual diffs of formal policies often highlight cosmetic changes while obscuring behavioral alterations. This article demonstrates how to use an open-source anti-unification engine to compute a deterministic semantic diff that reveals only genuine disagreements between policies.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/semantic-diffing-of-formal-policies-with-anti-unification/",
+      "category": "Software Engineering",
+      "filterTags": [
+        "anti-unification",
+        "semantic diffing",
+        "formal policies",
+        "open-source"
+      ],
+      "publishedAt": "2026-11-11T23:33:03+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Formal Methods"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-s-board-is-meeting-to-discuss-jensen-huang-s-future",
+      "title": "Nvidia’s Board Is Meeting to Discuss Jensen Huang’s Future",
+      "dek": "Mr. Huang has been under scrutiny for an affair with a woman said to be a Chinese spy, as well as a relationship with an executive at his A.I. chip company.",
+      "aiSummary": "Nvidia's board is holding a meeting to discuss the future of CEO Jensen Huang. This decision comes amid scrutiny regarding his personal relationships, including an alleged affair with a Chinese spy and a relationship with a company executive.",
+      "articleUrl": "https://www.nytimes.com/2026/11/11/technology/nvidia-jensen-huang.html",
+      "category": "Corporate Governance",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang"
+      ],
+      "publishedAt": "2026-11-11T23:32:14+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Corporate Governance"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "detecting-and-recovering-from-silent-data-corruption-on-amazon-sagemaker-hyperpod",
+      "title": "Detecting and recovering from silent data corruption on Amazon SageMaker HyperPod",
+      "dek": "Silent data corruption is a GPU fault that returns wrong but plausible numbers with no error, quietly poisoning distributed training. This post adds three checks to a PyTorch DDP loop to detect it, localize the faulty node on Amazon SageMaker HyperPod, and hand the node to automa",
+      "aiSummary": "Silent data corruption is a GPU fault that produces incorrect results without raising errors, which can compromise distributed training. This article describes adding three checks to a PyTorch DDP loop to detect these issues, identify the faulty node on Amazon SageMaker HyperPod, and enable automated recovery.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/detecting-and-recovering-from-silent-data-corruption-on-amazon-sagemaker-hyperpod/",
+      "category": "Cloud Computing",
+      "filterTags": [
+        "Amazon SageMaker HyperPod",
+        "PyTorch",
+        "DDP",
+        "GPU",
+        "Silent Data Corruption"
+      ],
+      "publishedAt": "2026-11-11T23:30:03+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "composing-data-pipelines-in-an-ai-native-workflow",
+      "title": "Composing data pipelines in an AI-native workflow",
+      "dek": "Building data pipelines using AI-focused methods",
+      "aiSummary": "The provided text does not contain an article body to summarize. Only the title 'Composing data pipelines in an AI-native workflow' is available, with no additional factual details or description provided.",
+      "articleUrl": "https://www.fivetran.com/blog/composing-data-pipelines-in-an-ai-native-workflow",
+      "category": "Data Engineering",
+      "filterTags": [
+        "Data Pipelines",
+        "AI-native"
+      ],
+      "publishedAt": "2026-11-11T23:29:56+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Data Engineering"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-board-meets-on-huang-s-fate-after-affair-with-alleged-spy",
+      "title": "Nvidia Board Meets on Huang’s Fate After Affair With Alleged Spy",
+      "dek": "Nvidia Corp.’s board is meeting to discuss the fate of Chief Executive Officer Jensen Huang, who admitted to having an affair with a woman that US officials reportedly believe to be a Chinese spy, according to a person with knowledge of the matter.",
+      "aiSummary": "Nvidia's board is convening to discuss the future of CEO Jensen Huang after he admitted to an affair with a woman suspected by U.S. officials to be a Chinese spy. The meeting follows reports from a source with knowledge of the situation.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-11/nvidia-board-meets-on-huang-s-fate-after-affair-with-alleged-spy",
+      "category": "Corporate Governance",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Chinese spy",
+        "US officials"
+      ],
+      "publishedAt": "2026-11-11T23:28:56+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Corporate Governance"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-s-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang",
+      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "dek": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+      "aiSummary": "Nvidia's stock price declined following reports that the company's board of directors is preparing to oust founder and CEO Jensen Huang. The potential decision to remove the executive, who has led the company for 33 years, could be made as early as Wednesday evening.",
+      "articleUrl": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+      "category": "Technology",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Stock Market"
+      ],
+      "publishedAt": "2026-11-11T23:28:45+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Corporate Governance"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-prepares-to-oust-jensen-huang-wsj-reports-stock-sinks",
+      "title": "Nvidia prepares to oust Jensen Huang, WSJ reports — stock sinks",
+      "dek": "The report comes days after Huang admitted to an affair with a woman who is believed by U.S. intelligence of being a Chinese spy.",
+      "aiSummary": "The Wall Street Journal reported that Nvidia is preparing to oust CEO Jensen Huang. The story follows Huang's admission of an affair with a woman whom U.S. intelligence believes to be a Chinese spy.",
+      "articleUrl": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html",
+      "category": "Technology",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Wall Street Journal",
+        "U.S. intelligence",
+        "Chinese spy"
+      ],
+      "publishedAt": "2026-11-11T23:28:11+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec",
+      "title": "Jensen Huang accused of having another affair — with a Nvidia exec",
+      "dek": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+      "aiSummary": "Jensen Huang, Nvidia's CEO, has faced criticism after admitting to an affair with a woman alleged to be a Chinese intelligence agent. He is now accused of a second affair with a subordinate at Nvidia.",
+      "articleUrl": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+      "category": "Technology",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang"
+      ],
+      "publishedAt": "2026-11-11T23:17:05+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Corporate Governance"
+        }
+      ]
+    },
+    {
+      "slug": "we-are-probably-overbuilding-data-centers-gary-marcus",
+      "title": "We Are Probably Overbuilding Data Centers: Gary Marcus",
+      "dek": "Gary Marcus argues that investors should avoid Anthropic’s IPO because its financial outlook depends on rapid, sustained growth. He speaks with Romaine Bostick and Vonnie Quinn on The Close. (Source: Bloomberg)",
+      "aiSummary": "Gary Marcus argues that investors should avoid participating in Anthropic's IPO due to the company's reliance on rapid, sustained growth for its financial outlook. He discusses these views with Romaine Bostick and Vonnie Quinn on The Close.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-11-11/we-are-probably-overbuilding-data-centers-gary-marcus-video",
+      "category": "AI",
+      "filterTags": [
+        "Gary Marcus",
+        "Anthropic",
+        "IPO",
+        "Bloomberg",
+        "Data Centers"
+      ],
+      "publishedAt": "2026-11-11T23:05:40+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "hosin-amicro-set-to-trade-in-hong-kong-as-ipos-gather-pace",
+      "title": "Hosin, Amicro Set to Trade in Hong Kong as IPOs Gather Pace",
+      "dek": "Chinese memory product maker Hosin Electronics Co. and robotics technology platform Amicro Technology Co. are set to begin trading on Thursday in Hong Kong in a test of investor appetite for technology stocks in the region ahead of Anthropic PBC’s blockbuster US listing.",
+      "aiSummary": "Hosin Electronics Co. and Amicro Technology Co. will begin trading on the Hong Kong stock market on Thursday. This move serves as a test of investor interest in regional technology stocks ahead of the upcoming US listing by Anthropic PBC.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-11/hosin-amicro-set-to-trade-in-hong-kong-as-ipos-gather-pace",
+      "category": "Finance",
+      "filterTags": [
+        "Hosin Electronics",
+        "Amicro Technology",
+        "Anthropic PBC",
+        "IPO",
+        "Hong Kong Stock Exchange"
+      ],
+      "publishedAt": "2026-11-11T23:00:00+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Capital Markets"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-ceo-jensen-huang-expected-to-be-ousted",
+      "title": "Nvidia CEO Jensen Huang expected to be ousted",
+      "dek": "After a second extramarital affair was uncovered, Nvidia's board is reportedly preparing to oust CEO Jensen Huang. Details of when and who might replace him aren't available. Nvidia's CEO could be ousted Even as Apple faces  increased scrutiny  around its approach to AI, there ar",
+      "aiSummary": "Nvidia's board is reportedly preparing to remove CEO Jensen Huang following the discovery of a second extramarital affair. Specific details regarding the timing of his departure and his potential replacement have not been disclosed.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/11/nvidia-ceo-jensen-huang-expected-to-be-ousted?utm_source=rss",
+      "category": "Corporate Governance",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang"
+      ],
+      "publishedAt": "2026-11-11T22:52:29+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Corporate Governance"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "jensen-huang-affair-in-d-c-resignation-calls-and-moves-to-tighten-nvidia-china-exports",
+      "title": "Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports",
+      "dek": "Huang was notably opposed to strict export controls on AI chips to China, which ruffled feathers with congressional China hawks.",
+      "aiSummary": "Jensen Huang's opposition to strict export controls on AI chips for China has angered congressional hawks, leading to calls for his resignation. Consequently, there are moves to tighten regulations on Nvidia's exports to the country.",
+      "articleUrl": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html",
+      "category": "Semiconductors",
+      "filterTags": [
+        "Jensen Huang",
+        "Nvidia",
+        "AI chips",
+        "Export controls",
+        "China"
+      ],
+      "publishedAt": "2026-11-11T22:46:29+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Geopolitics"
+        },
+        {
+          "name": "Regulation"
+        }
+      ]
+    },
+    {
+      "slug": "new-york-is-forcing-t-mobile-to-stop-putting-data-caps-on-low-income-home-internet-plans",
+      "title": "New York is forcing T-Mobile to stop putting data caps on low-income home internet plans",
+      "dek": "The company was throttling speeds for plans offered under the Affordable Broadband Act.",
+      "aiSummary": "T-Mobile was throttling speeds for low-income home internet plans under the Affordable Broadband Act. New York has ordered the carrier to stop imposing data caps on those plans.",
+      "articleUrl": "https://www.engadget.com/2314341/new-york-is-forcing-t-mobile-to-stop-putting-data-caps-on-low-income-home-internet-plans/",
+      "category": "Telecommunications",
+      "filterTags": [
+        "T-Mobile",
+        "Affordable Broadband Act",
+        "New York"
+      ],
+      "publishedAt": "2026-11-11T22:46:07+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Telecommunications"
+        },
+        {
+          "name": "Regulation"
+        },
+        {
+          "name": "Consumer Protection"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-is-reportedly-preparing-to-fire-jensen-huang",
+      "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+      "dek": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second al",
+      "aiSummary": "Nvidia's board is reportedly preparing to dismiss CEO Jensen Huang after a New York Times report alleged a second extramarital affair. This comes just days after Huang admitted to a separate affair with a woman alleged to be a Chinese spy, according to the Wall Street Journal. The board's decision is being considered amid these controversies.",
+      "articleUrl": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+      "category": "Technology",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "New York Times",
+        "Wall Street Journal"
+      ],
+      "publishedAt": "2026-11-11T22:44:36+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Media"
+        },
+        {
+          "name": "Corporate Governance"
+        }
+      ]
+    },
+    {
+      "slug": "apple-employee-charged-with-murder-following-fatal-accident-near-apple-park",
+      "title": "Apple employee charged with murder following fatal accident near Apple Park",
+      "dek": "After an accident near the Apple Park Visitor Center, which resulted in the death of a toddler, an Apple employee was arrested and subsequently charged with murder. An accident occurred near the Apple Park Visitor Center on Friday. On Friday, Apple employee Eric Chen Su reportedl",
+      "aiSummary": "An Apple employee named Eric Chen Su was arrested and charged with murder following a fatal accident near the Apple Park Visitor Center. The incident, which occurred on Friday, resulted in the death of a toddler.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/11/apple-employee-charged-with-murder-following-fatal-accident-near-apple-park?utm_source=rss",
+      "category": "Corporate News",
+      "filterTags": [
+        "Apple",
+        "Apple Park"
+      ],
+      "publishedAt": "2026-11-11T22:23:19+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Corporate News"
+        },
+        {
+          "name": "Legal"
+        }
+      ]
+    },
+    {
+      "slug": "1-15-40",
+      "title": "1.15.40",
+      "dek": "What's Changed \n Features \n \n Remove chromadb from the embedding function layer. \n Add exact historical state lookup by row id. \n Wire jsonl into rag data type discovery. \n Scaffold standalone agents as JSON by default. \n Add backend record lifecycle and pagination tests. \n \n Bug",
+      "aiSummary": "The release includes removal of chromadb from the embedding function layer, new exact historical state lookup by row ID, integration of jsonl into rag data type discovery, scaffolding of standalone agents as JSON by default, and added backend record lifecycle and pagination tests. Bug fixes were also included.",
+      "articleUrl": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.40",
+      "category": "Software Development",
+      "filterTags": [
+        "chromadb",
+        "jsonl",
+        "rag"
+      ],
+      "publishedAt": "2026-11-11T22:19:53+00:00",
+      "publisher": {
+        "name": "crewAIInc",
+        "domain": "github.com",
+        "website": "https://github.com/crewAIInc/crewAI",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Data Management"
+        },
+        {
+          "name": "Testing"
+        }
+      ]
+    },
+    {
+      "slug": "gemini-decisions-api",
+      "title": "Gemini Decisions API",
+      "dek": "Gemini Decisions API \nGoogle join  Jev  and  OpenAI  in the decision model category with \"Gemini Decision 1\". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev's term \"Noul\" for a ",
+      "aiSummary": "Google has added Gemini Decision 1 to the decision model category, joining Jev and OpenAI. The API supports the same three question types—yes/no, choice, and rubric-scoring—as Jev, and even reuses Jev's term \"Noul\". This makes the new model nearly identical to Jev in functionality.",
+      "articleUrl": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+      "category": "AI",
+      "filterTags": [
+        "Gemini Decision 1",
+        "Google",
+        "OpenAI",
+        "Jev",
+        "decision model"
+      ],
+      "publishedAt": "2026-11-11T22:03:25+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Cloud Computing"
+        }
+      ]
+    },
+    {
+      "slug": "powerup-panel-discussion-the-gate-driver-problem-extracting-the-most-out-of-wbg",
+      "title": "PowerUP: Panel Discussion: The Gate Driver Problem – Extracting the Most Out of WBG",
+      "dek": "This session is moderated by Aalyia Shaukat, Editor-in-Chief of Power Electronics News. Gate driver design is one of the most consequential bottlenecks in extracting WBG... \n The post  PowerUP: Panel Discussion: The Gate Driver Problem – Extracting the Most Out of WBG  appeared f",
+      "aiSummary": "A panel discussion moderated by Aalyia Shaukat, Editor-in-Chief of Power Electronics News, addresses the gate driver problem as a key bottleneck in optimizing wide bandgap (WBG) technology. The session focuses on strategies for extracting the maximum potential from WBG devices.",
+      "articleUrl": "https://www.powerelectronicsnews.com/powerup-panel-discussion-the-gate-driver-problem-extracting-the-most-out-of-wbg/",
+      "category": "Power Electronics",
+      "filterTags": [
+        "Gate Driver",
+        "WBG",
+        "Power Electronics News",
+        "Aalyia Shaukat"
+      ],
+      "publishedAt": "2026-11-11T21:55:58+00:00",
+      "publisher": {
+        "name": "Power Electronics News",
+        "domain": "powerelectronicsnews.com",
+        "website": "https://www.powerelectronicsnews.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Power Electronics"
+        },
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "united-won-t-let-your-ai-agent-book-your-flight",
+      "title": "United won’t let your AI agent book your flight",
+      "dek": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from ot",
+      "aiSummary": "United Airlines has announced it will not permit personal AI assistants to book tickets on its flights, citing privacy and regulatory concerns. The company reports it has not yet seen many customers attempting to use AI agents for booking. The Wall Street Journal notes this stance aligns with observations from other sources.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "category": "Air Travel",
+      "filterTags": [
+        "United Airlines",
+        "AI assistants",
+        "AI agents"
+      ],
+      "publishedAt": "2026-11-11T21:54:21+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Air Travel"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Privacy & Security"
+        }
+      ]
+    },
+    {
+      "slug": "google-launches-gemini-decisions-api-with-gemini-decision-1-at-0-10-m-tokens",
+      "title": "Google Launches Gemini Decisions API With Gemini Decision 1 at $0.10/M Tokens",
+      "dek": "Google launched the Gemini Decisions API, powered by Gemini Decision 1. It returns calibrated probabilities for up to 1,000 yes/no, choice and rubric questions over text, images, audio, video and PDFs, at $0.10 per 1M input tokens. \n The post  Google Launches Gemini Decisions API",
+      "aiSummary": "Google has released the Gemini Decisions API, which uses Gemini Decision 1 to provide calibrated probability scores for up to 1,000 yes/no, choice, and rubric questions across various media types including text, images, audio, video, and PDFs. The service is priced at $0.10 per million input tokens.",
+      "articleUrl": "https://www.marktechpost.com/2026/11/11/google-gemini-decisions-api-gemini-decision-1/",
+      "category": "AI",
+      "filterTags": [
+        "Google",
+        "Gemini Decisions API",
+        "Gemini Decision 1"
+      ],
+      "publishedAt": "2026-11-11T21:21:42+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud"
+        },
+        {
+          "name": "API"
+        }
+      ]
+    },
+    {
+      "slug": "aws-emulator",
+      "title": "aws-emulator",
+      "dek": "aws-emulator \nFinally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so. \n It's written in Rust by a huge swarm of agents - 29,684 commits in the first three weeks of the project.",
+      "aiSummary": "AWS has introduced an official emulator that allows developers to run tests against a local clone of various AWS services without requiring paid API keys. The tool is written in Rust and was developed with the assistance of a large number of AI agents, resulting in 29,684 commits within the first three weeks of the project.",
+      "articleUrl": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
+      "category": "Cloud Computing",
+      "filterTags": [
+        "AWS",
+        "Rust",
+        "aws-emulator",
+        "AI agents"
+      ],
+      "publishedAt": "2026-11-11T21:18:30+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Developer Tools"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "set-polls-emoji-effects-with-the-latest-apple-invites-update",
+      "title": "Set polls & emoji effects with the latest Apple Invites update",
+      "dek": "Apple Invites users now have the ability to poll guests on potential activities, food options, or whatever is needed. Plus, there's a new emoji effect that causes the icons to float across an invite to match an event theme. The latest update is out now in the App Store. https://a",
+      "aiSummary": "Apple Invites added new features that let hosts poll guests about activities or food options and include emoji effects that make icons float across the invite. The update is available in the App Store.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/11/set-polls-emoji-effects-with-the-latest-apple-invites-update?utm_source=rss",
+      "category": "Mobile Apps",
+      "filterTags": [
+        "Apple",
+        "Apple Invites",
+        "emoji",
+        "polls"
+      ],
+      "publishedAt": "2026-11-11T21:17:52+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Mobile Apps"
+        },
+        {
+          "name": "User Experience"
+        },
+        {
+          "name": "Productivity"
+        }
+      ]
+    },
+    {
+      "slug": "us-tech-stocks-rally-as-ai-trade-revives",
+      "title": "US tech stocks rally as AI trade revives",
+      "dek": "Nasdaq erases last week’s losses as CoreWeave results and prospect of higher Anthropic IPO valuation boost sentiment",
+      "aiSummary": "The Nasdaq index recovered from previous declines, driven by positive sentiment surrounding CoreWeave's earnings and the potential for a higher valuation in Anthropic's upcoming IPO. This resurgence in the AI sector has broadly boosted investor confidence in US tech stocks.",
+      "articleUrl": "https://www.ft.com/content/639de881-6017-454f-abfa-cfb191d1e7cd?syn-25a6b1a6=1",
+      "category": "AI",
+      "filterTags": [
+        "Nasdaq",
+        "CoreWeave",
+        "Anthropic",
+        "IPO"
+      ],
+      "publishedAt": "2026-11-11T21:04:17+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Markets"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "powerup-gan-at-the-tipping-point-why-gallium-nitride-is-the-semiconductor-of-the-ai-era",
+      "title": "PowerUp: GaN at the Tipping Point: Why Gallium Nitride is the Semiconductor of the AI era",
+      "dek": "This Keynote is presented by Johannes Schoiswohl, Business Line Head GaN Systems, Infineon GaN has moved well beyond its early adopter phase. From AI data... \n The post  PowerUp: GaN at the Tipping Point: Why Gallium Nitride is the Semiconductor of the AI era  appeared first on  ",
+      "aiSummary": "Johannes Schoiswohl, Business Line Head of GaN Systems at Infineon, delivered a keynote on the growing importance of gallium nitride (GaN) in AI applications. He explained that GaN has moved beyond its early adopter phase and is now a key semiconductor for AI workloads. The talk highlighted the performance and efficiency advantages of GaN for AI data processing.",
+      "articleUrl": "https://www.powerelectronicsnews.com/powerup-gan-at-the-tipping-point-why-gallium-nitride-is-the-semiconductor-of-the-ai-era/",
+      "category": "Semiconductors",
+      "filterTags": [
+        "GaN",
+        "Gallium Nitride",
+        "Infineon",
+        "AI"
+      ],
+      "publishedAt": "2026-11-11T20:55:57+00:00",
+      "publisher": {
+        "name": "Power Electronics News",
+        "domain": "powerelectronicsnews.com",
+        "website": "https://www.powerelectronicsnews.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "google-deepmind-releases-alphagenome-2-for-cell-type-specific-variant-effects",
+      "title": "Google DeepMind Releases AlphaGenome 2 for Cell-Type-Specific Variant Effects",
+      "dek": "Google DeepMind released AlphaGenome 2, a conditional DNA sequence model that predicts regulatory activity and variant effects per cell type. It is available via the AlphaGenome API for non-commercial research. \n The post  Google DeepMind Releases AlphaGenome 2 for Cell-Type-Spec",
+      "aiSummary": "Google DeepMind has introduced AlphaGenome 2, a conditional DNA sequence model. This model is designed to predict regulatory activity and the impact of genetic variants on a per-cell-type basis. It is currently accessible for non-commercial research through the AlphaGenome API.",
+      "articleUrl": "https://www.marktechpost.com/2026/11/11/google-deepmind-alphagenome-2-cell-type-variant-effects/",
+      "category": "AI",
+      "filterTags": [
+        "Google DeepMind",
+        "AlphaGenome 2",
+        "AlphaGenome API",
+        "DNA",
+        "Genomics"
+      ],
+      "publishedAt": "2026-11-11T20:51:56+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Genomics"
+        },
+        {
+          "name": "Biotechnology"
+        }
+      ]
+    },
+    {
+      "slug": "court-rules-that-sexual-harassment-case-against-spacex-can-proceed",
+      "title": "Court Rules That Sexual Harassment Case Against SpaceX Can Proceed",
+      "dek": "The company had argued that the case, involving eight former workers, must be resolved before an arbitrator.",
+      "aiSummary": "SpaceX argued that the sexual harassment case involving eight former employees should be settled through arbitration. A court rejected that argument, allowing the lawsuit to proceed.",
+      "articleUrl": "https://www.nytimes.com/2026/11/11/business/sexual-harassment-spacex-elon-musk.html",
+      "category": "Legal",
+      "filterTags": [
+        "SpaceX",
+        "arbitration"
+      ],
+      "publishedAt": "2026-11-11T20:51:49+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Space Industry"
+        },
+        {
+          "name": "Employment Law"
+        }
+      ]
+    },
+    {
+      "slug": "powerup-enabling-a-paradigm-shift-in-how-the-world-creates-stores-converts-and-uses-energy",
+      "title": "PowerUP: Enabling a Paradigm Shift in How the World Creates, Stores, Converts and Uses Energy",
+      "dek": "This Event Session is presented by Dr. Adam Barkley, Chief Technology Officer, SiC Devices, Wolfspeed. This keynote is an invitation to take a fresh look... \n The post  PowerUP: Enabling a Paradigm Shift in How the World Creates, Stores, Converts and Uses Energy  appeared first o",
+      "aiSummary": "Dr. Adam Barkley, Chief Technology Officer of SiC Devices at Wolfspeed, presents a keynote titled PowerUP. The session invites the audience to reconsider the methods used for creating, storing, converting, and utilizing energy.",
+      "articleUrl": "https://www.powerelectronicsnews.com/powerup-enabling-a-paradigm-shift-in-how-the-world-creates-stores-converts-and-uses-energy/",
+      "category": "Energy",
+      "filterTags": [
+        "Wolfspeed",
+        "SiC Devices",
+        "Energy"
+      ],
+      "publishedAt": "2026-11-11T20:43:56+00:00",
+      "publisher": {
+        "name": "Power Electronics News",
+        "domain": "powerelectronicsnews.com",
+        "website": "https://www.powerelectronicsnews.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Energy"
+        },
+        {
+          "name": "Semiconductors"
+        }
+      ]
+    },
+    {
+      "slug": "this-tiny-box-gives-your-older-tech-smart-home-superpowers-and-it-s-only-69",
+      "title": "This tiny box gives your older tech smart home superpowers – and it’s only $69",
+      "dek": "Home Assistant gets new equipment to battle planned obsolescence and abandoned cloud services.",
+      "aiSummary": "Home Assistant has released a new piece of hardware priced at $69 that enables older devices to function within a smart home ecosystem. This equipment is designed to help users avoid planned obsolescence and reliance on abandoned cloud services.",
+      "articleUrl": "https://www.zdnet.com/home-and-office/home-assistant-connect-aux-2-hardware-older-tech-smart/",
+      "category": "Smart Home",
+      "filterTags": [
+        "Home Assistant",
+        "Smart Home",
+        "Planned Obsolescence"
+      ],
+      "publishedAt": "2026-11-11T20:30:00+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Smart Home"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "b12292",
+      "title": "b12292",
+      "dek": "webgpu: add PAD_REFLECT_1D support ( #31877 ) \n \n \n webgpu : add PAD_REFLECT_1D support \n \n \n webgpu: remove redundant PAD_REFLECT_1D contiguity check \n \n \n tests: simplify PAD_REFLECT_1D setup \n \n \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-o",
+      "aiSummary": "The provided text details a series of commits related to the WebGPU backend, specifically adding support for PAD_REFLECT_1D. The changes include removing a redundant contiguity check and simplifying the test setup for this feature.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12292",
+      "category": "Machine Learning",
+      "filterTags": [
+        "WebGPU",
+        "PAD_REFLECT_1D",
+        "llama.app",
+        "ggml"
+      ],
+      "publishedAt": "2026-11-11T20:19:56+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Graphics"
+        }
+      ]
+    },
+    {
+      "slug": "united-is-restricting-ai-agents-from-booking-flights",
+      "title": "United is restricting AI agents from booking flights",
+      "dek": "The airline believes AI poses security risks and may violate DOT and FAA rules.",
+      "aiSummary": "United Airlines has decided to restrict AI agents from booking flights because it believes they pose security risks and could violate Department of Transportation and Federal Aviation Administration rules. The airline's decision reflects concerns about compliance with aviation safety regulations.",
+      "articleUrl": "https://www.engadget.com/2314121/united-is-restricting-ai-agents-from-booking-flights/",
+      "category": "Aviation",
+      "filterTags": [
+        "United Airlines",
+        "AI",
+        "DOT",
+        "FAA"
+      ],
+      "publishedAt": "2026-11-11T20:09:44+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Aviation"
+        },
+        {
+          "name": "Regulation"
+        },
+        {
+          "name": "Artificial Intelligence"
+        }
+      ]
+    },
+    {
+      "slug": "last-call-for-enrollment-build-production-grade-ai-systems",
+      "title": "LAST CALL FOR ENROLLMENT: Build Production Grade AI Systems",
+      "dek": "Enrollment closes in 24 hours for Build Production Grade AI Systems. We kick off tomorrow, November 12, at 5pm PT.",
+      "aiSummary": "Enrollment for the 'Build Production Grade AI Systems' course will close within 24 hours. The program is scheduled to commence tomorrow, November 12, at 5 PM Pacific Time.",
+      "articleUrl": "https://blog.bytebytego.com/p/last-call-for-enrollment-build-production",
+      "category": "AI",
+      "filterTags": [
+        "AI Systems",
+        "Production Grade"
+      ],
+      "publishedAt": "2026-11-11T19:58:17+00:00",
+      "publisher": {
+        "name": "ByteByteGo",
+        "domain": "bytebytego.com",
+        "website": "https://bytebytego.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bytebytego.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bytebytego.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Education"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "b12291",
+      "title": "b12291",
+      "dek": "vulkan: allow dequantized KV optimization with CM2 ( #31526 ) \n \n additional FA test cases \n \n Assisted-by: Codex \n \n vulkan: allow dequantized KV optimization with CM2 \n \n Enable the KV dequantization optimization with coopmat2, guarded by a heuristic \nbased on query tokens*GQA ",
+      "aiSummary": "The Vulkan project added support for dequantized KV optimization using the coopmat2 (CM2) feature, with a heuristic that limits the optimization based on the product of query tokens and GQA. Additional FA test cases were added. The change was assisted by Codex.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12291",
+      "category": "Graphics",
+      "filterTags": [
+        "Vulkan",
+        "KV dequantization",
+        "coopmat2",
+        "CM2",
+        "GQA",
+        "FA",
+        "Codex"
+      ],
+      "publishedAt": "2026-11-11T19:57:03+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Graphics"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "i-saw-the-future-of-robotics-in-a-virtual-duck-that-chases-my-cat",
+      "title": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
+      "dek": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.",
+      "aiSummary": "An OpenAI model was used to teach a Microduck robot to waddle and function as a small cat butler. This experience demonstrated the emerging capabilities of robotics in a domestic setting.",
+      "articleUrl": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "Microduck",
+        "Robotics"
+      ],
+      "publishedAt": "2026-11-11T19:55:54+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Robotics"
+        }
+      ]
+    },
+    {
+      "slug": "google-brings-the-gemini-app-to-apple-carplay",
+      "title": "Google brings the Gemini app to Apple CarPlay",
+      "dek": "The chatbot was already available through the Google Maps app.",
+      "aiSummary": "Google has integrated its Gemini chatbot into Apple CarPlay. This feature was previously available to users through the Google Maps application.",
+      "articleUrl": "https://www.engadget.com/2314093/google-brings-the-gemini-app-to-apple-carplay/",
+      "category": "AI",
+      "filterTags": [
+        "Google",
+        "Gemini",
+        "Apple CarPlay",
+        "Google Maps"
+      ],
+      "publishedAt": "2026-11-11T19:54:55+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Automotive"
+        },
+        {
+          "name": "Mobile"
+        }
+      ]
+    },
+    {
+      "slug": "using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching",
+      "title": "Using wearables to enable cardiovascular-kidney-metabolic (CKM) risk profiling for personalized coaching",
+      "dek": "Health & Bioscience",
+      "aiSummary": "The article discusses the application of wearable technology to create cardiovascular-kidney-metabolic (CKM) risk profiles. These profiles are intended to support personalized coaching strategies for health management.",
+      "articleUrl": "https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching/",
+      "category": "Health Tech",
+      "filterTags": [
+        "wearables",
+        "CKM",
+        "cardiovascular",
+        "kidney",
+        "metabolic",
+        "personalized coaching"
+      ],
+      "publishedAt": "2026-11-11T19:54:00+00:00",
+      "publisher": {
+        "name": "Google Research",
+        "domain": "research.google",
+        "website": "https://research.google/",
+        "logoUrl": "https://www.gstatic.com/images/branding/googleg_gradient/1x/googleg_gradient_standard_20dp.png",
+        "faviconUrl": "https://www.gstatic.com/images/branding/googleg_gradient/1x/googleg_gradient_standard_20dp.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Health Tech"
+        },
+        {
+          "name": "Bioscience"
+        },
+        {
+          "name": "Preventive Care"
+        }
+      ]
+    },
+    {
+      "slug": "google-fi-now-switches-between-the-best-mobile-networks-automatically-how-it-works",
+      "title": "Google Fi now switches between the best mobile networks automatically – how it works",
+      "dek": "Pixel users also get a bonus Wi-Fi upgrade. Here’s what to know.",
+      "aiSummary": "Google Fi has implemented a new feature that allows it to automatically switch between mobile networks to ensure optimal performance. This update also includes an additional Wi-Fi upgrade specifically for Pixel device users.",
+      "articleUrl": "https://www.zdnet.com/home-and-office/google-fi-super-network-pixel/",
+      "category": "Telecommunications",
+      "filterTags": [
+        "Google Fi",
+        "Pixel",
+        "Wi-Fi",
+        "Mobile Networks"
+      ],
+      "publishedAt": "2026-11-11T19:41:41+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Telecommunications"
+        },
+        {
+          "name": "Mobile Technology"
+        },
+        {
+          "name": "Google Services"
+        }
+      ]
+    },
+    {
+      "slug": "v0-34-0rc1",
+      "title": "v0.34.0rc1",
+      "dek": "[Bugfix][Spec Decode][XPU] greedy_argmax: treat NaN as -inf on the to…",
+      "aiSummary": "The v0.34.0rc1 release includes a bug fix for the greedy_argmax function, ensuring that NaN values are treated as negative infinity during decoding on XPU. It also addresses spec decode improvements.",
+      "articleUrl": "https://github.com/vllm-project/vllm/releases/tag/v0.34.0rc1",
+      "category": "AI",
+      "filterTags": [
+        "XPU",
+        "greedy_argmax",
+        "NaN",
+        "Spec Decode"
+      ],
+      "publishedAt": "2026-11-11T19:37:13+00:00",
+      "publisher": {
+        "name": "vllm-project",
+        "domain": "github.com",
+        "website": "https://github.com/vllm-project/vllm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "b12290",
+      "title": "b12290",
+      "dek": "vulkan: allocate the device fault vendor binary buffer ( #32008 ) \n \n \n vulkan : allocate the device fault vendor binary buffer \n \n \n vulkan : drop the redundant vector include \n \n \n \n Co-authored-by: figkcoci-debug  307500910+figkcoci-debug@users.noreply.github.com \n \n Website: ",
+      "aiSummary": "The commit allocates a device fault vendor binary buffer for Vulkan and removes a redundant vector include. The change was co-authored by figkcoci-debug.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12290",
+      "category": "Graphics",
+      "filterTags": [
+        "Vulkan",
+        "C++",
+        "GitHub"
+      ],
+      "publishedAt": "2026-11-11T19:36:38+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Graphics"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1794439264",
+      "title": "viable/strict/1794439264",
+      "dek": "[Feature Refactoring]Parameterize device type checks in cpp_wrapper_m…",
+      "aiSummary": "This article describes a feature refactoring task. The refactoring involves parameterizing device type checks. This work is being carried out within the cpp_wrapper module.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1794439264",
+      "category": "Software Development",
+      "filterTags": [
+        "cpp_wrapper",
+        "Refactoring",
+        "Device Type Checks"
+      ],
+      "publishedAt": "2026-11-11T19:06:16+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Refactoring"
+        }
+      ]
+    },
+    {
+      "slug": "meta-head-of-infrastructure-will-leave-and-be-succeeded-by-former-aws-cloud-exec",
+      "title": "Meta head of infrastructure will leave and be succeeded by former AWS cloud exec",
+      "dek": "Meta's head of infrastructure and co-head of engineering Santosh Janardhan will leave in 2027, with former AWS senior vice president David Brown taking over.",
+      "aiSummary": "Meta's head of infrastructure and co-head of engineering, Santosh Janardhan, is set to depart in 2027. The role will be filled by former AWS senior vice president David Brown.",
+      "articleUrl": "https://www.cnbc.com/2026/11/11/meta-infrastructure-departure-aws-cloud.html",
+      "category": "Corporate Leadership",
+      "filterTags": [
+        "Meta",
+        "AWS"
+      ],
+      "publishedAt": "2026-11-11T18:57:38+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Corporate Leadership"
+        },
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "coreweave-wants-to-sit-with-the-credit-market-grown-ups",
+      "title": "CoreWeave wants to sit with the credit-market grown-ups",
+      "dek": "The cloud computing group has benefited from a hitherto forgiving junk bond market",
+      "aiSummary": "The cloud computing company CoreWeave aims to establish itself as a serious participant in the credit market. It has previously benefited from a lenient junk bond environment.",
+      "articleUrl": "https://www.ft.com/content/16d4593e-b9ce-4eab-90af-9835c79eb9f2?syn-25a6b1a6=1",
+      "category": "Finance",
+      "filterTags": [
+        "CoreWeave",
+        "Junk Bond",
+        "Cloud Computing"
+      ],
+      "publishedAt": "2026-11-11T18:57:00+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Cloud Computing"
+        }
+      ]
+    },
+    {
+      "slug": "browse-tools-simonwillison-net-by-tag",
+      "title": "Browse tools.simonwillison.net by tag",
+      "dek": "Browse tools.simonwillison.net by tag \nI've been wanting a better way to browse my  collection of vibe-coded tools  (244 and counting) for a while. I had a few Fable 5.2 credits left over before my weekly reset so I set it to work using  tree-sitter  to analyze the code for JavaS",
+      "aiSummary": "The author wants a better way to browse their collection of 244 vibe‑coded tools. They used the remaining Fable 5.2 credits to run tree‑sitter, a code‑analysis tool, on the Java code of the tools to enable tag‑based browsing.",
+      "articleUrl": "https://simonwillison.net/2026/Nov/11/tools-tags/",
+      "category": "Software Development",
+      "filterTags": [
+        "tree-sitter",
+        "Fable",
+        "Java"
+      ],
+      "publishedAt": "2026-11-11T18:42:50+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Code Analysis"
+        },
+        {
+          "name": "Programming Tools"
+        }
+      ]
+    },
+    {
+      "slug": "viable-strict-1794437411",
+      "title": "viable/strict/1794437411",
+      "dek": "[Testcase Refactoring] Make _test_compiler_bisector_run_helper.py dev…",
+      "aiSummary": "The provided text indicates a task to refactor the file _test_compiler_bisector_run_helper.py. The specific details of the refactoring are cut off in the snippet.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1794437411",
+      "category": "Software Engineering",
+      "filterTags": [
+        "_test_compiler_bisector_run_helper.py",
+        "Testcase Refactoring"
+      ],
+      "publishedAt": "2026-11-11T18:40:08+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Testing"
+        }
+      ]
+    },
+    {
+      "slug": "taiwan-s-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai",
+      "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+      "dek": "Latest example of the AI boom’s circular financing comes as AI trade wobbles.",
+      "aiSummary": "TSMC, a major chipmaker in Taiwan, is set to invest $1 billion in AI companies Anthropic and OpenAI. This move is described as a recent instance of circular financing within the AI sector, occurring at a time when AI trade is experiencing instability.",
+      "articleUrl": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+      "category": "AI",
+      "filterTags": [
+        "TSMC",
+        "Anthropic",
+        "OpenAI",
+        "AI",
+        "circular financing"
+      ],
+      "publishedAt": "2026-11-11T18:16:40+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Investment"
+        }
+      ]
+    },
+    {
+      "slug": "oura-ring-users-may-get-in-app-access-to-real-doctors-soon-what-we-know",
+      "title": "Oura Ring users may get in-app access to real doctors soon – what we know",
+      "dek": "Oura’s acquisition of Counsel Health could signal a new dawn for digital care.",
+      "aiSummary": "Oura has acquired Counsel Health, a move that could allow Oura Ring users to access real doctors through the application. This acquisition suggests a significant shift toward integrating direct digital healthcare services into the wearable ecosystem.",
+      "articleUrl": "https://www.zdnet.com/tech/oura-ring-users-may-get-in-app-access-to-real-doctors-soon-what-we-know/",
+      "category": "Health Tech",
+      "filterTags": [
+        "Oura",
+        "Counsel Health",
+        "Wearables",
+        "Digital Health"
+      ],
+      "publishedAt": "2026-11-11T17:45:55+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Health Tech"
+        },
+        {
+          "name": "Wearables"
+        },
+        {
+          "name": "Telemedicine"
+        }
+      ]
+    }
+  ]
+}
