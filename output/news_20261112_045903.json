@@ -1,0 +1,966 @@
+{
+  "news": [
+    {
+      "slug": "trunk-90b0a84206bef03b59a6693b3e8e8460a7002f3d",
+      "title": "trunk/90b0a84206bef03b59a6693b3e8e8460a7002f3d",
+      "dek": "[dynamo] Support bytearray item and slice assignment and deletion ( #2 …",
+      "aiSummary": "The provided text indicates a commit or pull request titled 'Support bytearray item and slice assignment and deletion'. This change is associated with the Dynamo project and is identified by the hash 90b0a84206bef03b59a6693b3e8e8460a7002f3d.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F90b0a84206bef03b59a6693b3e8e8460a7002f3d",
+      "category": "Software Development",
+      "filterTags": [
+        "Dynamo",
+        "bytearray",
+        "slice assignment",
+        "deletion"
+      ],
+      "publishedAt": "2026-11-12T04:40:11+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Programming Languages"
+        }
+      ]
+    },
+    {
+      "slug": "b12308",
+      "title": "b12308",
+      "dek": "ci: move test models to ggml-org-dev ( #32096 ) \n \n \n ci: move test models to ggml-org-dev \n \n \n fix test spec \n \n \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/66540743 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n",
+      "aiSummary": "A recent commit for llama.cpp moves test models to the ggml-org-dev repository and fixes the test specification. The update is associated with the llama.app website and supports macOS Apple Silicon (arm64).",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12308",
+      "category": "Open Source",
+      "filterTags": [
+        "llama.cpp",
+        "ggml-org-dev",
+        "CI",
+        "macOS",
+        "arm64"
+      ],
+      "publishedAt": "2026-11-12T04:35:45+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "show-hn-nova-buddy-ai-a-friendly-free-ai-assistant-for-everyday-jobs",
+      "title": "Show HN: Nova Buddy AI – a friendly free AI assistant for everyday jobs",
+      "dek": "A new free AI helper for daily tasks is being shared on Hacker News.",
+      "aiSummary": "The post introduces Nova Buddy AI, described as a friendly and free artificial intelligence assistant. It is designed to help users with everyday jobs and is being showcased on the Hacker News platform.",
+      "articleUrl": "https://novabuddyai.com",
+      "category": "AI",
+      "filterTags": [
+        "Nova Buddy AI",
+        "AI Assistant",
+        "Hacker News"
+      ],
+      "publishedAt": "2026-11-12T04:22:30+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Productivity"
+        }
+      ]
+    },
+    {
+      "slug": "learning-about-markets-from-models-evidence-from-an-ai-hiring-platform",
+      "title": "Learning about Markets from Models: Evidence from an AI Hiring Platform",
+      "dek": "How an AI hiring platform provides insights into market dynamics.",
+      "aiSummary": "The article presents evidence from an AI hiring platform to analyze market behaviors. It explores how data from this specific application can be used to understand broader economic or labor market trends.",
+      "articleUrl": "https://arxiv.org/abs/2611.01226",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Hiring Platform",
+        "Market Analysis"
+      ],
+      "publishedAt": "2026-11-12T04:20:33+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Economics"
+        },
+        {
+          "name": "Labor Market"
+        }
+      ]
+    },
+    {
+      "slug": "b12307",
+      "title": "b12307",
+      "dek": "metal : prevent out-of-bounds reads in SOLVE_TRI kernel ( #32103 ) \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/66535500 \n \n macOS/iOS: \n \n macOS Apple Silicon (arm64) \n macOS Apple Silicon (arm64, KleidiAI enabled)  ",
+      "aiSummary": "This update addresses a security vulnerability in the metal backend by preventing out-of-bounds reads within the SOLVE_TRI kernel. The fix is associated with pull request #32103 in the llama.cpp repository.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12307",
+      "category": "AI",
+      "filterTags": [
+        "llama.cpp",
+        "metal",
+        "SOLVE_TRI",
+        "KleidiAI",
+        "Apple Silicon"
+      ],
+      "publishedAt": "2026-11-12T04:13:33+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-32cc51f92f110f80e738843ca00af086183b86b8",
+      "title": "trunk/32cc51f92f110f80e738843ca00af086183b86b8",
+      "dek": "[Testcase Refactoring] Add proper hw_classification to test_ops ( #195 …",
+      "aiSummary": "The commit refactors test cases by adding proper hardware classification to test operations. This change is associated with pull request #195.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F32cc51f92f110f80e738843ca00af086183b86b8",
+      "category": "Software Engineering",
+      "filterTags": [
+        "test_ops",
+        "hw_classification",
+        "refactoring"
+      ],
+      "publishedAt": "2026-11-12T04:02:01+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Testing"
+        }
+      ]
+    },
+    {
+      "slug": "what-it-takes-to-operate-a-saas-when-ai-agents-write-all-the-code",
+      "title": "What it takes to operate a SaaS when AI agents write all the code",
+      "dek": "Running a SaaS when AI writes all the code requires certain steps.",
+      "aiSummary": "The article examines what is required to run a SaaS when AI agents write all the code. It looks at operational, technical, and business challenges.",
+      "articleUrl": "https://docspring.com/blog/posts/operating-a-saas-when-ai-agents-write-all-the-code/",
+      "category": "AI",
+      "filterTags": [],
+      "publishedAt": "2026-11-12T04:00:41+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "SaaS"
+        }
+      ]
+    },
+    {
+      "slug": "channel-flipping-alternative-plex-clients-for-tvos-ios-macos",
+      "title": "Channel flipping: Alternative Plex clients for tvOS, iOS, macOS",
+      "dek": "If you have a Plex server, you don't have to be tied to using a Plex client with it. Try these alternatives to improve your content viewing experience. Plex logo For anyone wanting to have a NAS or a home server that they can stream their collection of movies and TV shows from wh",
+      "aiSummary": "The article explains that users with a Plex server can use alternative Plex clients on tvOS, iOS, and macOS instead of the official app. It lists options that may offer a better viewing experience when streaming from a NAS or home server. These alternatives allow users to customize how they access their media library.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/12/channel-flipping-alternative-plex-clients-for-tvos-ios-macos?utm_source=rss",
+      "category": "Media Streaming",
+      "filterTags": [
+        "Plex",
+        "tvOS",
+        "iOS",
+        "macOS",
+        "NAS"
+      ],
+      "publishedAt": "2026-11-12T03:55:57+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Media Streaming"
+        },
+        {
+          "name": "Software"
+        },
+        {
+          "name": "Apple"
+        }
+      ]
+    },
+    {
+      "slug": "what-to-know-about-nvidia-s-investigation-of-ceo-jensen-huang",
+      "title": "What to Know About Nvidia’s Investigation of CEO Jensen Huang",
+      "dek": "Nvidia’s board is weighing the future of Jensen Huang, the company’s chief executive, admitted to an affair with a woman who U.S. intelligence says was spying for China.",
+      "aiSummary": "Nvidia's board of directors is currently evaluating the future of CEO Jensen Huang. This decision follows Huang's admission of an affair with a woman whom U.S. intelligence agencies identified as a spy for China.",
+      "articleUrl": "https://www.nytimes.com/article/nvidia-investigation-jensen-huang.html",
+      "category": "Corporate Governance",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "U.S. intelligence",
+        "China"
+      ],
+      "publishedAt": "2026-11-12T03:55:11+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Corporate Governance"
+        },
+        {
+          "name": "Geopolitics"
+        },
+        {
+          "name": "Semiconductors"
+        }
+      ]
+    },
+    {
+      "slug": "b12306",
+      "title": "b12306",
+      "dek": "vulkan: support batched tensor copy API ( #31418 ) \n \n \n vulkan: support batched tensor copy API \n \n \n allocate staging buffer only for copies that actually need it \n \n \n \n Website: \n \n https://llama.app \n \n Attestations: \n \n https://github.com/ggml-org/llama.cpp/attestations/665",
+      "aiSummary": "The llama.cpp project has introduced support for a batched tensor copy API in its Vulkan backend. This update optimizes performance by allocating staging buffers only for copies that require them.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12306",
+      "category": "AI",
+      "filterTags": [
+        "llama.cpp",
+        "Vulkan",
+        "C++",
+        "GPU"
+      ],
+      "publishedAt": "2026-11-12T03:50:19+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "trunk-56f2ee83798269aa1a2406eb8e6c187c37bb3ef1",
+      "title": "trunk/56f2ee83798269aa1a2406eb8e6c187c37bb3ef1",
+      "dek": "[Inductor] Filter unsupported transposed FP32 Blackwell configs ( #196 …",
+      "aiSummary": "The Inductor module now filters out unsupported transposed FP32 configurations for the Blackwell architecture, addressing issue #196 and improving compatibility. This change ensures that only supported configurations are used during compilation.",
+      "articleUrl": "https://github.com/pytorch/pytorch/releases/tag/trunk%2F56f2ee83798269aa1a2406eb8e6c187c37bb3ef1",
+      "category": "Machine Learning",
+      "filterTags": [
+        "Inductor",
+        "FP32",
+        "Blackwell"
+      ],
+      "publishedAt": "2026-11-12T03:49:06+00:00",
+      "publisher": {
+        "name": "pytorch",
+        "domain": "github.com",
+        "website": "https://github.com/pytorch/pytorch",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "another-data-center-halts-in-australia-as-public-backlash-rises",
+      "title": "Another Data Center Halts in Australia as Public Backlash Rises",
+      "dek": "A vast data center project near Adelaide has been suspended following community opposition, at least the third Australian development to be waylaid in recent weeks as public opposition grows.",
+      "aiSummary": "A large data center near Adelaide was suspended after community opposition. It is the third Australian data center project halted in recent weeks amid rising public backlash.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-12/another-data-center-halts-in-australia-as-public-backlash-rises",
+      "category": "Infrastructure",
+      "filterTags": [
+        "Data Center",
+        "Adelaide",
+        "Australia"
+      ],
+      "publishedAt": "2026-11-12T03:32:24+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "Public Policy"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "what-could-come-next-after-huang-s-ouster",
+      "title": "What Could Come Next After Huang’s Ouster?",
+      "dek": "Industry leaders, analysts and decision makers discuss how Nvidia CEO Jensen Huang’s replacement by a new leader could impact markets as well as how it might affect the global economy. (Source: Bloomberg)",
+      "aiSummary": "Industry leaders and analysts are debating the implications of Jensen Huang being replaced as Nvidia's CEO. They are assessing how this leadership change could influence financial markets and the broader global economy.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-11-12/what-could-come-next-after-huang-s-ouster-video",
+      "category": "Technology",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Bloomberg"
+      ],
+      "publishedAt": "2026-11-12T03:29:05+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Business"
+        },
+        {
+          "name": "Economy"
+        }
+      ]
+    },
+    {
+      "slug": "elon-musk-says-it-would-be-an-honor-to-hire-nvidia-s-jensen-huang",
+      "title": "Elon Musk says it would be an 'honor' to hire Nvidia's Jensen Huang",
+      "dek": "The post on X comes amid reports that Nvidia's board is preparing to oust Huang.",
+      "aiSummary": "Elon Musk posted on X that it would be an honor to hire Nvidia's Jensen Huang. This statement was made while reports circulated that Nvidia's board of directors is preparing to remove Huang from his position.",
+      "articleUrl": "https://www.cnbc.com/2026/11/12/elon-musk-jensen-huang-nvidia-tesla.html",
+      "category": "Technology",
+      "filterTags": [
+        "Elon Musk",
+        "Nvidia",
+        "Jensen Huang",
+        "X"
+      ],
+      "publishedAt": "2026-11-12T03:25:05+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Corporate Governance"
+        }
+      ]
+    },
+    {
+      "slug": "will-nvidia-replace-jensen-huang-as-ceo-what-s-next-for-ai-markets-live-q-a",
+      "title": "Will Nvidia Replace Jensen Huang as CEO? What’s Next for AI, Markets?: Live Q&A",
+      "dek": "Bloomberg reporters answer your questions on Nov. 12 at 12 p.m. HKT / Nov. 11 at 11 p.m. ET.",
+      "aiSummary": "Bloomberg will host a live Q&A session where reporters answer audience questions about Nvidia's potential CEO succession and future developments in AI and markets. The event is scheduled for November 12 at 12 p.m. Hong Kong time and November 11 at 11 p.m. Eastern Time.",
+      "articleUrl": "https://www.bloomberg.com/sessions/2026-11-11/live-q-amp-a-will-jensen-huang-be-replaced-as-ceo-what-s-next-for-nvidia",
+      "category": "Technology",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "AI",
+        "Markets",
+        "Bloomberg"
+      ],
+      "publishedAt": "2026-11-12T03:13:16+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors",
+      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "dek": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+      "aiSummary": "Nvidia has no succession plan and its CEO is facing criticism. The article presents a shortlist of potential replacements.",
+      "articleUrl": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+      "category": "Technology",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang"
+      ],
+      "publishedAt": "2026-11-12T03:13:10+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Business"
+        },
+        {
+          "name": "Corporate Governance"
+        }
+      ]
+    },
+    {
+      "slug": "what-we-know-so-far-about-nvidia-partner-megaspeed-s-asia-footprint",
+      "title": "What we know so far about Nvidia partner Megaspeed’s Asia footprint",
+      "dek": "Megaspeed is at the center of a U.S. probe over its role in sending billions of restricted Nvidia chips to China, and its executive's alleged affair with Jensen Huang.",
+      "aiSummary": "Megaspeed is currently under investigation by U.S. authorities for its alleged role in transferring billions of dollars' worth of restricted Nvidia chips to China. The probe also involves allegations of a personal affair between a Megaspeed executive and Nvidia CEO Jensen Huang.",
+      "articleUrl": "https://www.cnbc.com/2026/11/12/nvidia-megaspeed-alice-huang-jensen-.html",
+      "category": "Semiconductors",
+      "filterTags": [
+        "Nvidia",
+        "Megaspeed",
+        "Jensen Huang",
+        "China",
+        "Semiconductors"
+      ],
+      "publishedAt": "2026-11-12T03:02:03+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Geopolitics"
+        },
+        {
+          "name": "Corporate Governance"
+        }
+      ]
+    },
+    {
+      "slug": "the-alleged-spy-who-loved-me-the-nvidia-scandal-podcast",
+      "title": "The (alleged) spy who loved me: the Nvidia scandal - podcast",
+      "dek": "Global technology editor  Dan Milmo  on the scandal rocking the world of AI: US intelligence believes the lover of Nvidia’s chief executive, Jensen Huang, is a Chinese spy Nvidia is one of the biggest companies in the world. Its chief executive, Jensen Huang, is worth around $150",
+      "aiSummary": "Global technology editor Dan Milmo discusses a scandal in the AI sector where US intelligence agencies believe the partner of Nvidia CEO Jensen Huang is a Chinese spy. The report highlights the significant impact of this allegation on Nvidia, one of the world's largest technology companies.",
+      "articleUrl": "https://www.theguardian.com/news/audio/2026/nov/12/the-alleged-spy-who-loved-me-the-nvidia-scandal-podcast",
+      "category": "AI",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "US Intelligence",
+        "China",
+        "AI"
+      ],
+      "publishedAt": "2026-11-12T03:00:07+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Geopolitics"
+        },
+        {
+          "name": "Corporate Governance"
+        }
+      ]
+    },
+    {
+      "slug": "a-detailed-explanation-of-apple-s-secure-exclaves-has-been-shared",
+      "title": "A detailed explanation of Apple's Secure Exclaves has been shared",
+      "dek": "If you're curious about Secure Exclaves, Apple's latest security and privacy toolset behind features like Siri Recaps, there is a new document that goes into detail. Long story short, they are what allow video and audio information to be analyzed without actually recording or sav",
+      "aiSummary": "Apple has published a new document that explains Secure Enclaves, a security and privacy feature used in Siri Recaps. The technology allows video and audio data to be analyzed without recording or storing it.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/12/a-detailed-explanation-of-apples-secure-exclaves-has-been-shared?utm_source=rss",
+      "category": "Security",
+      "filterTags": [
+        "Apple",
+        "Secure Enclaves",
+        "Siri Recaps"
+      ],
+      "publishedAt": "2026-11-12T02:58:10+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Privacy"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "v1-110-0-rc-2",
+      "title": "v1.110.0-rc.2",
+      "dek": "Verify Docker Image Signature \n All LiteLLM Docker images are signed with  cosign . This release is signed with the key introduced in  commit  e82a3c6 . \n Verify using the pinned commit hash (recommended): \n A commit hash is cryptographically immutable, so this is the strongest w",
+      "aiSummary": "LiteLLM has released version 1.110.0-rc.2, which includes signed Docker images using cosign. The release is signed with a key introduced in commit e82a3c6, and users are advised to verify the image signature using the pinned commit hash for the strongest security assurance.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.110.0-rc.2",
+      "category": "DevOps",
+      "filterTags": [
+        "LiteLLM",
+        "Docker",
+        "cosign"
+      ],
+      "publishedAt": "2026-11-12T02:53:14+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "v1-14-0-dev25",
+      "title": "v1.14.0.dev25",
+      "dek": "Langflow nightly v1.14.0.dev25",
+      "aiSummary": "Langflow has released a nightly build version 1.14.0.dev25. This update is part of the project's development cycle.",
+      "articleUrl": "https://github.com/langflow-ai/langflow/releases/tag/v1.14.0.dev25",
+      "category": "Software Development",
+      "filterTags": [
+        "Langflow"
+      ],
+      "publishedAt": "2026-11-12T02:11:35+00:00",
+      "publisher": {
+        "name": "langflow-ai",
+        "domain": "github.com",
+        "website": "https://github.com/langflow-ai/langflow",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "v1-109-1",
+      "title": "v1.109.1",
+      "dek": "Verify Docker Image Signature \n All LiteLLM Docker images are signed with  cosign . This release is signed with the key introduced in  commit  e82a3c6 . \n Verify using the pinned commit hash (recommended): \n A commit hash is cryptographically immutable, so this is the strongest w",
+      "aiSummary": "LiteLLM has released version 1.109.1, which includes Docker images signed using cosign. The release is signed with a specific key introduced in commit e82a3c6, and users are advised to verify the signature using the pinned commit hash for the strongest security assurance.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.109.1",
+      "category": "DevOps",
+      "filterTags": [
+        "LiteLLM",
+        "Docker",
+        "cosign"
+      ],
+      "publishedAt": "2026-11-12T02:07:01+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai",
+      "title": "Build autonomous AI agents with Amazon Bedrock and Spring AI",
+      "dek": "Learn how Java developers can build production-ready autonomous AI agents using Amazon Bedrock and Spring AI. This post walks through tool calling, conversation memory, resilience patterns, and multi-agent orchestration, then deploys the agent to AWS with Amazon Bedrock AgentCore",
+      "aiSummary": "Java developers can build production-ready autonomous AI agents with Amazon Bedrock and Spring AI. The post covers tool calling, conversation memory, resilience patterns, and multi-agent orchestration, and shows how to deploy the agent to AWS using Amazon Bedrock AgentCore.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai/",
+      "category": "AI",
+      "filterTags": [
+        "Amazon Bedrock",
+        "Spring AI",
+        "Java",
+        "AWS",
+        "Amazon Bedrock AgentCore"
+      ],
+      "publishedAt": "2026-11-12T01:18:23+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Cloud Computing"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-board-to-decide-jensen-huang-s-fate-after-revelation-of-affair-with-subordinate",
+      "title": "Nvidia board to decide Jensen Huang’s fate after revelation of affair with subordinate",
+      "dek": "Head of US chip giant comes under mounting pressure days after claims he had affair with alleged Chinese spy",
+      "aiSummary": "Nvidia CEO Jensen Huang is under growing pressure after claims that he had an affair with a subordinate who is alleged to be a Chinese spy. The board is set to determine his future. The controversy has heightened scrutiny on the company.",
+      "articleUrl": "https://www.ft.com/content/d3838274-a055-4d5d-a1ff-48f2979a08f0?syn-25a6b1a6=1",
+      "category": "Hardware",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Chinese spy"
+      ],
+      "publishedAt": "2026-11-12T01:13:24+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Corporate Governance"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "v1-108-6",
+      "title": "v1.108.6",
+      "dek": "Verify Docker Image Signature \n All LiteLLM Docker images are signed with  cosign . This release is signed with the key introduced in  commit  e82a3c6 . \n Verify using the pinned commit hash (recommended): \n A commit hash is cryptographically immutable, so this is the strongest w",
+      "aiSummary": "The v1.108.6 release of LiteLLM includes Docker images signed with cosign, using a key from commit e82a3c6. Users are advised to verify the images with the pinned commit hash for maximum security.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.108.6",
+      "category": "Security",
+      "filterTags": [
+        "LiteLLM",
+        "cosign",
+        "Docker"
+      ],
+      "publishedAt": "2026-11-12T01:12:23+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Containerization"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "can-markets-find-the-ai-cash",
+      "title": "Can markets find the AI cash?",
+      "dek": "With stock and debt markets showing the strain, financing the next phase of America’s AI boom will not be easy",
+      "aiSummary": "Stock and debt markets are currently under significant pressure, making it difficult to secure funding for the next stage of the US AI boom. The article suggests that financing this expansion will be challenging due to these market strains.",
+      "articleUrl": "https://www.ft.com/content/324ba152-0805-485b-94d5-d16bc904a98f?syn-25a6b1a6=1",
+      "category": "Finance",
+      "filterTags": [
+        "AI",
+        "Stock Markets",
+        "Debt Markets",
+        "Financing"
+      ],
+      "publishedAt": "2026-11-12T01:00:02+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Economy"
+        }
+      ]
+    },
+    {
+      "slug": "facial-recognition-errors-put-ethnic-minorities-at-risk-of-wrongful-arrest-police-watchdog-warns",
+      "title": "Facial recognition errors put ethnic minorities at risk of wrongful arrest, police watchdog warns",
+      "dek": "Inspectors find some officers acted on potential matches from retrospective searches without making enough checks Police officers risk arresting innocent people, especially from ethnic minorities, if they treat inaccurate facial recognition data as evidence, an official report ha",
+      "aiSummary": "Inspectors discovered that some officers acted on potential matches from retrospective facial‑recognition searches without conducting adequate checks. The report warns that using inaccurate facial‑recognition data as evidence could lead to wrongful arrests, particularly of ethnic minorities.",
+      "articleUrl": "https://www.theguardian.com/technology/2026/nov/12/facial-recognition-errors-put-ethnic-minorities-at-risk-of-wrongful-arrest-police-watchdog-warns",
+      "category": "Security",
+      "filterTags": [
+        "Facial Recognition",
+        "Retrospective Search"
+      ],
+      "publishedAt": "2026-11-12T00:01:03+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Law Enforcement"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "jim-cramer-says-investors-need-to-pay-attention-to-coreweave-here-s-why",
+      "title": "Jim Cramer says investors need to pay attention to CoreWeave. Here's why",
+      "dek": "Cramer said he's becoming less skeptical of CoreWeave after strong earnings and reassuring comments from its CEO.",
+      "aiSummary": "Jim Cramer has reportedly grown less skeptical of CoreWeave. This change in sentiment follows the company's strong earnings performance and reassuring statements from its CEO.",
+      "articleUrl": "https://www.cnbc.com/2026/11/11/jim-cramer-coreweave-earnings-ceo-interview.html",
+      "category": "Investing",
+      "filterTags": [
+        "CoreWeave"
+      ],
+      "publishedAt": "2026-11-11T23:41:46+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Investing"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    }
+  ]
+}
