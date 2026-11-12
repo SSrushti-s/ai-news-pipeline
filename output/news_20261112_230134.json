@@ -1,0 +1,1720 @@
+{
+  "news": [
+    {
+      "slug": "7-people-nvidia-could-consider-for-its-next-c-e-o",
+      "title": "7 People Nvidia Could Consider For Its Next C.E.O.",
+      "dek": "President Trump suggested Tim Cook, Apple’s former C.E.O., to replace Jensen Huang at Nvidia. Here are others with experience in chips or A.I.",
+      "aiSummary": "President Trump suggested Tim Cook as a potential successor to Jensen Huang at Nvidia. The article lists seven other individuals with experience in chips or artificial intelligence who could also be considered for the role.",
+      "articleUrl": "https://www.nytimes.com/2026/11/12/technology/jensen-huang-nvidia-successor.html",
+      "category": "Technology",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Tim Cook",
+        "Apple",
+        "AI",
+        "Chips"
+      ],
+      "publishedAt": "2026-11-12T22:56:01+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Corporate Leadership"
+        },
+        {
+          "name": "Semiconductors"
+        }
+      ]
+    },
+    {
+      "slug": "build-once-run-on-any-agent-a-practical-guide-to-agent-skills",
+      "title": "Build once, run on any agent: A practical guide to agent skills",
+      "dek": "Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them. \n The post  Build once, run on any agent: A practical guide to agent skills  appeared first on  The GitH",
+      "aiSummary": "Agent skills allow teams to capture repeatable engineering tasks in reviewable files that can be reused across different environments. While the skills themselves are portable, specific tools, project context, and permissions remain tied to the host system executing them.",
+      "articleUrl": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
+      "category": "AI",
+      "filterTags": [
+        "agent skills",
+        "GitHub",
+        "engineering"
+      ],
+      "publishedAt": "2026-11-12T22:54:52+00:00",
+      "publisher": {
+        "name": "GitHub Blog",
+        "domain": "github.blog",
+        "website": "https://github.blog",
+        "logoUrl": "https://github.blog/wp-content/uploads/2019/01/cropped-github-favicon-512.png?fit=180%2C180",
+        "faviconUrl": "https://github.githubassets.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-scandal-unleashes-a-flood-of-ai-generated-memes",
+      "title": "Nvidia Scandal Unleashes a Flood of AI-Generated Memes",
+      "dek": "The revelations surrounding Jensen Huang, who resigned from Nvidia over extramarital affairs, inspired social media posts using the very technology his company helped develop.",
+      "aiSummary": "Jensen Huang has resigned from Nvidia following revelations about extramarital affairs. This event has inspired social media users to create a large volume of memes using the AI technology that Nvidia helped develop.",
+      "articleUrl": "https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html",
+      "category": "AI",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "AI",
+        "Memes"
+      ],
+      "publishedAt": "2026-11-12T22:54:19+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Corporate Governance"
+        },
+        {
+          "name": "Social Media"
+        }
+      ]
+    },
+    {
+      "slug": "cerebras-surges-17-after-beating-on-quarterly-revenue-and-announcing-microsoft-deal",
+      "title": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
+      "dek": "Cerebras announced a new deal with Microsoft after partnering with major cloud providers Amazon and Oracle.",
+      "aiSummary": "Cerebras shares rose 17% after the company reported quarterly revenue that exceeded expectations. The stock surge followed the announcement of a new deal with Microsoft, adding to Cerebras's existing partnerships with Amazon and Oracle.",
+      "articleUrl": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
+      "category": "AI",
+      "filterTags": [
+        "Cerebras",
+        "Microsoft",
+        "Amazon",
+        "Oracle"
+      ],
+      "publishedAt": "2026-11-12T22:48:26+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Cloud Computing"
+        }
+      ]
+    },
+    {
+      "slug": "show-hn-bugsy-ai-automation-which-runs-my-company",
+      "title": "Show HN: Bugsy – AI automation which runs my company",
+      "dek": "Bugsy is an AI tool that automatically manages business operations.",
+      "aiSummary": "The author introduces Bugsy, an AI automation system designed to run their company. The project is shared on Hacker News as a demonstration of using artificial intelligence to handle business tasks.",
+      "articleUrl": "https://skavish.github.io/bugsy-map/",
+      "category": "AI",
+      "filterTags": [
+        "Bugsy",
+        "AI",
+        "Automation"
+      ],
+      "publishedAt": "2026-11-12T22:47:41+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Productivity"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "alice-huang-tied-to-nvidia-s-biggest-chinese-competitor",
+      "title": "Alice Huang tied to Nvidia’s biggest Chinese competitor",
+      "dek": "The woman with whom Jensen Huang reportedly had a relationship also owned stakes in companies that provided computing power to Huawei, a key Nvidia competitor.",
+      "aiSummary": "Alice Huang, who is reportedly in a relationship with Nvidia CEO Jensen Huang, owned stakes in companies that provided computing power to Huawei. Huawei is identified as a key competitor to Nvidia in the market.",
+      "articleUrl": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
+      "category": "Semiconductors",
+      "filterTags": [
+        "Nvidia",
+        "Huawei",
+        "Jensen Huang",
+        "Alice Huang"
+      ],
+      "publishedAt": "2026-11-12T22:47:28+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Corporate Governance"
+        }
+      ]
+    },
+    {
+      "slug": "ai-can-help-you-appeal-health-insurance-denials",
+      "title": "AI Can Help You Appeal Health Insurance Denials",
+      "dek": "Artificial intelligence can assist individuals in challenging rejected health insurance claims.",
+      "aiSummary": "The provided text contains only a title and no descriptive body content. Therefore, no factual details regarding the specific mechanisms, companies, or outcomes of using AI for insurance appeals can be extracted.",
+      "articleUrl": "https://time.com/article/2026/11/12/how-ai-can-help-you-appeal-health-insurance-denials/",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Health Insurance"
+      ],
+      "publishedAt": "2026-11-12T22:45:01+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Healthcare"
+        }
+      ]
+    },
+    {
+      "slug": "liquid-ai-releases-liquidcodec-a-74m-parameter-streaming-audio-codec",
+      "title": "Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec",
+      "dek": "Liquid AI released LiquidCodec, a ~74M-parameter streaming audio codec that powers LFM3-Audio-2B and LFM3-Omni-2B. It runs at 12.5 Hz with 12 codebooks and encodes about 361x faster than real time on a single CPU thread. \n The post  Liquid AI Releases LiquidCodec, a 74M-Parameter",
+      "aiSummary": "Liquid AI has released LiquidCodec, a 74M-parameter streaming audio codec designed to power the LFM3-Audio-2B and LFM3-Omni-2B models. The system operates at 12.5 Hz using 12 codebooks and achieves encoding speeds approximately 361 times faster than real time on a single CPU thread.",
+      "articleUrl": "https://www.marktechpost.com/2026/11/12/liquid-ai-liquidcodec-streaming-audio-codec/",
+      "category": "AI",
+      "filterTags": [
+        "Liquid AI",
+        "LiquidCodec",
+        "LFM3-Audio-2B",
+        "LFM3-Omni-2B",
+        "Audio Codec"
+      ],
+      "publishedAt": "2026-11-12T22:43:26+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Audio Processing"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "democrats-launch-nvidia-investigation-write-scathing-letter-on-huang-s-scheme-with-trump",
+      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "dek": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+      "aiSummary": "Congress has launched a second inquiry into Nvidia's sales to China and its ties to former President Trump. The probe follows earlier concerns about a possible spy affair involving the company. Democrats have also sent a scathing letter alleging a scheme between CEO Jensen Huang and Trump.",
+      "articleUrl": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+      "category": "Politics",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Trump"
+      ],
+      "publishedAt": "2026-11-12T22:42:51+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "silicon-valley-is-still-defending-jensen-huang",
+      "title": "Silicon Valley Is Still Defending Jensen Huang",
+      "dek": "Nvidia employees and tech insiders never thought the chip king would lose his job. Despite his sudden resignation, many of them are still in denial.",
+      "aiSummary": "Nvidia employees and tech insiders are struggling to accept the sudden resignation of CEO Jensen Huang, whom they never expected to lose his position. Despite the news, many in Silicon Valley remain in denial about the leadership change.",
+      "articleUrl": "https://www.wired.com/story/silicon-valley-is-still-defending-jensen-huang/",
+      "category": "Technology",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Silicon Valley"
+      ],
+      "publishedAt": "2026-11-12T22:29:43+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Corporate Leadership"
+        }
+      ]
+    },
+    {
+      "slug": "faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace",
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "dek": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+      "aiSummary": "The Federal Aviation Administration has expanded the use of an AI tool to manage air traffic congestion across the entire US airspace. While airlines have praised the new system, the air traffic controllers' union was not involved in the process.",
+      "articleUrl": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "category": "Aviation",
+      "filterTags": [
+        "FAA",
+        "AI",
+        "Air Traffic Control"
+      ],
+      "publishedAt": "2026-11-12T22:28:47+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Aviation"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "b12329",
+      "title": "b12329",
+      "dek": "CUDA: Optimize prefil via fuse of w_s scale in epilogue MMQ for nvfp4 checkpoints ( #26048 ) \n \n \n ggml-cuda: Apply NVFP4 weight scale in MMQ write-back \n \n \n ggml-cuda: Fuse mul_mat(_id) + scale into MMQ \n \n \n ggml-cuda: Tests for the fused scale \n \n \n ggml-cuda: reuse existing ",
+      "aiSummary": "This update optimizes the prefill process for NVFP4 checkpoints by fusing weight scaling operations into the matrix multiplication epilogue. The changes are implemented in the ggml-cuda backend to apply NVFP4 weight scales during write-back and include tests for the fused scaling logic.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12329",
+      "category": "AI",
+      "filterTags": [
+        "CUDA",
+        "ggml-cuda",
+        "NVFP4",
+        "MMQ"
+      ],
+      "publishedAt": "2026-11-12T22:26:10+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Performance"
+        }
+      ]
+    },
+    {
+      "slug": "widespread-microsoft-outage-takes-down-outlook-and-other-365-services",
+      "title": "Widespread Microsoft outage takes down Outlook and other 365 services",
+      "dek": "A Microsoft outage on Thursday affected users of services like Outlook, Teams and 365.",
+      "aiSummary": "A widespread outage occurred on Thursday, impacting Microsoft users. The disruption affected key services including Outlook, Teams, and Microsoft 365.",
+      "articleUrl": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+      "category": "Cloud Computing",
+      "filterTags": [
+        "Microsoft",
+        "Outlook",
+        "Teams",
+        "365"
+      ],
+      "publishedAt": "2026-11-12T22:24:12+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Enterprise Software"
+        }
+      ]
+    },
+    {
+      "slug": "muse-can-now-place-calls-to-u-s-businesses-if-you-pay",
+      "title": "Muse can now place calls to U.S. businesses — if you pay",
+      "dek": "Muse's AI can now place outbound calls to US businesses — but it's not free.",
+      "aiSummary": "Muse's AI platform now offers outbound calling to U.S. businesses. The service requires payment, as it is not free.",
+      "articleUrl": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Muse",
+        "AI"
+      ],
+      "publishedAt": "2026-11-12T22:22:28+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Telecommunications"
+        },
+        {
+          "name": "Business Services"
+        }
+      ]
+    },
+    {
+      "slug": "outlook-teams-and-more-microsoft-programs-disrupted-by-outage",
+      "title": "Outlook, Teams and More Microsoft Programs Disrupted by Outage",
+      "dek": "The company said that some of its servers were unexpectedly unavailable, straining the remaining infrastructure, and that it was working to bring users back online.",
+      "aiSummary": "Microsoft reported that some servers were unexpectedly unavailable, causing strain on remaining infrastructure. The company is working to restore service and bring users back online.",
+      "articleUrl": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
+      "category": "Enterprise Software",
+      "filterTags": [
+        "Microsoft",
+        "Outlook",
+        "Teams"
+      ],
+      "publishedAt": "2026-11-12T22:21:48+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Enterprise Software"
+        },
+        {
+          "name": "IT Operations"
+        },
+        {
+          "name": "Cloud Services"
+        }
+      ]
+    },
+    {
+      "slug": "jensen-huang-is-out-will-nvidia-s-rivals-cash-in",
+      "title": "Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?",
+      "dek": "In a special episode of “Uncanny Valley,” we break down Jensen Huang’s resignation from Nvidia, what comes next for the company, and where the AI industry goes from here.",
+      "aiSummary": "A special episode of 'Uncanny Valley' analyzes the implications of Jensen Huang's resignation from Nvidia. The discussion covers the company's future leadership and the broader trajectory of the AI industry.",
+      "articleUrl": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in/",
+      "category": "AI",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "AI",
+        "Uncanny Valley"
+      ],
+      "publishedAt": "2026-11-12T22:14:41+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Corporate Leadership"
+        },
+        {
+          "name": "Technology Industry"
+        }
+      ]
+    },
+    {
+      "slug": "inception-ai-winding-down-their-mercury-api-service",
+      "title": "Inception.ai winding down their Mercury API service",
+      "dek": "Inception.ai is shutting down its Mercury API service.",
+      "aiSummary": "",
+      "articleUrl": "https://news.ycombinator.com/item?id=50475057",
+      "category": "Software",
+      "filterTags": [
+        "Inception.ai",
+        "Mercury API"
+      ],
+      "publishedAt": "2026-11-12T22:10:51+00:00",
+      "publisher": {
+        "name": "Hacker News",
+        "domain": "news.ycombinator.com",
+        "website": "https://news.ycombinator.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software"
+        },
+        {
+          "name": "API"
+        },
+        {
+          "name": "Tech Companies"
+        }
+      ]
+    },
+    {
+      "slug": "deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron",
+      "title": "Deploy frontier AI models on AWS Trainium with SGLang-Neuron",
+      "dek": "SGLang-Neuron is now publicly available through an AWS Deep Learning Container. With SGLang-Neuron, you can serve models and generate reinforcement learning rollouts with SGLang on AWS Trainium using the same SGLang interface you already know, all running on native PyTorch.",
+      "aiSummary": "SGLang-Neuron has been released as a public AWS Deep Learning Container. It lets users serve models and produce reinforcement learning rollouts on AWS Trainium using the familiar SGLang interface, all powered by native PyTorch.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron/",
+      "category": "AI",
+      "filterTags": [
+        "SGLang-Neuron",
+        "AWS Deep Learning Container",
+        "AWS Trainium",
+        "SGLang",
+        "PyTorch"
+      ],
+      "publishedAt": "2026-11-12T22:03:34+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "why-gta-6-took-13-years-and-1-billion-to-make",
+      "title": "Why GTA 6 Took 13 Years and $1 Billion to Make",
+      "dek": "Grand Theft Auto VI is expected to be one of the biggest entertainment releases in history, and potentially one of the most expensive. Why is there so much riding on the game? (Source: Bloomberg)",
+      "aiSummary": "Grand Theft Auto VI is anticipated to be a major entertainment release and could be one of the most costly games ever made. The article explores the reasons behind the high expectations and the significant investment in the title.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-11-12/why-gta-6-took-13-years-and-1-billion-to-make",
+      "category": "Gaming",
+      "filterTags": [
+        "Grand Theft Auto VI",
+        "Bloomberg"
+      ],
+      "publishedAt": "2026-11-12T22:01:01+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "Entertainment"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "what-jensen-huang-s-exit-means-for-nvidia",
+      "title": "What Jensen Huang’s Exit Means for Nvidia",
+      "dek": "Jensen Huang resigned as Nvidia’s CEO after reports of marital infidelity including an affair with a woman the US reportedly suspects is a Chinese spy. His sudden exit leaves the AI giant with an interim CEO while throwing the broader AI market into uncertainty. (Source: Bloomber",
+      "aiSummary": "Jensen Huang has resigned as Nvidia's CEO following reports of marital infidelity involving a woman suspected by the US to be a Chinese spy. This sudden departure has left the AI company with an interim CEO and introduced uncertainty into the broader AI market.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-11-12/what-jensen-huang-s-exit-means-for-nvidia-video",
+      "category": "AI",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "AI",
+        "Bloomberg"
+      ],
+      "publishedAt": "2026-11-12T21:56:30+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Corporate Governance"
+        },
+        {
+          "name": "Geopolitics"
+        }
+      ]
+    },
+    {
+      "slug": "google-s-new-gemini-model-is-better-at-understanding-complicated-questions",
+      "title": "Google’s new Gemini model is better at understanding complicated questions",
+      "dek": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It",
+      "aiSummary": "Google's Gemini 4 Hydrogen model offers improved answers to complex queries, handling multi-part questions, difficult typos, and specific requests. It can decompose questions and respond to each component separately.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "category": "AI",
+      "filterTags": [
+        "Google",
+        "Gemini",
+        "Gemini 4 Hydrogen"
+      ],
+      "publishedAt": "2026-11-12T21:55:32+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "huang-ousted-by-nvidia-board-as-ceo-closing-bell",
+      "title": "Huang Ousted By Nvidia Board As CEO | Closing Bell",
+      "dek": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Jess Menton, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
+      "aiSummary": "The segment covers the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with hosts Romaine Bostick, Jess Menton, Carol Massar, and Tim Stenovec. It is part of Bloomberg's comprehensive cross‑platform coverage of the market close.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-11-12/huang-ousted-by-nvidia-board-as-ceo-closing-bell-video",
+      "category": "Finance",
+      "filterTags": [
+        "Bloomberg"
+      ],
+      "publishedAt": "2026-11-12T21:49:45+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Media"
+        }
+      ]
+    },
+    {
+      "slug": "how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore",
+      "title": "How Natera designed an agentic AI system for lab ops with Amazon Bedrock AgentCore",
+      "dek": "Natera built SWARM, an agentic AI system on Amazon Bedrock AgentCore that captures institutional lab-operations knowledge and deploys it at scale. This post walks through the full architecture, from knowledge base construction to deployment and evaluation, delivering about 130x f",
+      "aiSummary": "Natera developed SWARM, an agentic AI system built on Amazon Bedrock AgentCore, to capture and scale institutional knowledge for lab operations. The article details the system's architecture, covering knowledge base construction, deployment, and evaluation, which resulted in a 130x improvement in efficiency.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore/",
+      "category": "AI",
+      "filterTags": [
+        "Natera",
+        "Amazon Bedrock AgentCore",
+        "SWARM",
+        "Agentic AI"
+      ],
+      "publishedAt": "2026-11-12T21:47:07+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Healthcare"
+        },
+        {
+          "name": "Cloud Computing"
+        }
+      ]
+    },
+    {
+      "slug": "copilotkit-releases-openbot-1-0-an-mit-licensed-self-hostable-ai-coworker-with-built-in-governance",
+      "title": "CopilotKit Releases OpenBot 1.0: An MIT-Licensed, Self-Hostable AI Coworker With Built-In Governance",
+      "dek": "CopilotKit released OpenBot 1.0, an MIT-licensed, self-hostable AI coworker workspace. Companies bring their own agents, models and infrastructure, while every Bot action passes a policy check and lands in an audit trail. \n The post  CopilotKit Releases OpenBot 1.0: An MIT-Licens",
+      "aiSummary": "CopilotKit has released OpenBot 1.0, an MIT-licensed, self-hostable AI coworker workspace. The platform allows companies to use their own agents, models, and infrastructure. Each bot action is subject to a policy check and recorded in an audit trail.",
+      "articleUrl": "https://www.marktechpost.com/2026/11/12/copilotkit-openbot-1-0-open-source-ai-coworker/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "CopilotKit",
+        "OpenBot",
+        "MIT license",
+        "self-hosted AI",
+        "policy check",
+        "audit trail"
+      ],
+      "publishedAt": "2026-11-12T21:45:36+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Enterprise Software"
+        },
+        {
+          "name": "Governance"
+        }
+      ]
+    },
+    {
+      "slug": "the-unfolding-jensen-huang-scandal-a-timeline",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "dek": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "aiSummary": "Jensen Huang resigned from Nvidia after an affair. The resignation may affect national security amid the U.S.-China competition for advanced AI infrastructure.",
+      "articleUrl": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "category": "Technology",
+      "filterTags": [
+        "Jensen Huang",
+        "Nvidia",
+        "U.S.",
+        "China",
+        "AI"
+      ],
+      "publishedAt": "2026-11-12T21:35:00+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "microsoft-research-focus-edition-98",
+      "title": "Microsoft Research Focus – Edition #98",
+      "dek": "What's new in research at Microsoft? Host Anson Ho explores the latest, including AI-powered universal translation, a breakthrough in a 31-year-old mathematics challenge, and advances making AI coding agents faster and more efficient.  \n The post  Microsoft Research Focus – Editi",
+      "aiSummary": "The episode covers recent Microsoft research developments. Anson Ho discusses AI‑powered universal translation, a solution to a 31‑year‑old math problem, and improvements that speed up AI coding agents.",
+      "articleUrl": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Microsoft",
+        "AI",
+        "universal translation",
+        "AI coding agents",
+        "mathematics challenge"
+      ],
+      "publishedAt": "2026-11-12T21:31:57+00:00",
+      "publisher": {
+        "name": "Microsoft Research",
+        "domain": "microsoft.com",
+        "website": "https://www.microsoft.com/en-us/research/",
+        "logoUrl": "https://www.microsoft.com/en-us/research/wp-content/uploads/2024/07/About-page-promo_1066x600.jpg",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Research"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "b12328",
+      "title": "b12328",
+      "dek": "ggml-backend : prefetch only inputs computed by earlier splits ( #32100 ) \n \n ggml-backend : prefetch only inputs computed by earlier splits \n \n The copy callback of a split runs after the prefetch and can write tensors that a later split reads, e.g. the MoE cache uploads missed ",
+      "aiSummary": "The ggml-backend has been updated to prefetch only inputs that were computed by earlier splits. However, the copy callback of a split runs after prefetch and can write tensors that a later split reads, such as the MoE cache uploads that were missed.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12328",
+      "category": "Machine Learning",
+      "filterTags": [
+        "ggml-backend",
+        "prefetch",
+        "MoE cache",
+        "tensor",
+        "splits"
+      ],
+      "publishedAt": "2026-11-12T21:24:43+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Performance Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "b12327",
+      "title": "b12327",
+      "dek": "ggml : dispatch SpacemiT Q4_1 32x256 through the HP kernel ( #31929 ) \n The 32x256 pack already keeps a separate uint8 zero point. Complete the M1 path and use the same HP kernel as Q4_0. \n Assisted-by: Codex \n Signed-off-by: gitGurugu  2049447146@qq.com \nSigned-off-by: Wang Yang",
+      "aiSummary": "The commit updates the ggml library to dispatch SpacemiT Q4_1 32x256 operations through the HP kernel. This change completes the M1 path by utilizing the same kernel as Q4_0, leveraging the existing separate uint8 zero point in the 32x256 pack.",
+      "articleUrl": "https://github.com/ggml-org/llama.cpp/releases/tag/b12327",
+      "category": "Hardware",
+      "filterTags": [
+        "ggml",
+        "SpacemiT",
+        "Q4_1",
+        "HP kernel",
+        "Codex"
+      ],
+      "publishedAt": "2026-11-12T21:03:27+00:00",
+      "publisher": {
+        "name": "ggerganov",
+        "domain": "github.com",
+        "website": "https://github.com/ggerganov/llama.cpp",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "v0-45-3",
+      "title": "v0.45.3",
+      "dek": "ComfyUI v0.45.3",
+      "aiSummary": "ComfyUI has released version 0.45.3. The provided text contains only the version number and project name without additional details regarding specific changes or features.",
+      "articleUrl": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.45.3",
+      "category": "AI",
+      "filterTags": [
+        "ComfyUI"
+      ],
+      "publishedAt": "2026-11-12T20:58:31+00:00",
+      "publisher": {
+        "name": "comfyanonymous",
+        "domain": "github.com",
+        "website": "https://github.com/comfyanonymous/ComfyUI",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "apple-tv-on-board-for-new-brad-pitt-film-connector",
+      "title": "Apple TV on board for new Brad Pitt film 'Connector'",
+      "dek": "Apple TV  and Brad Pitt are set to team up once again, this time to tell the story of a working-class hero. Brad Pitt returns to Apple TV in new film 'Connector' Set in 1970s New York, \"Connector\" revolves around a legendary ironworker who takes on forces greater than himself. Th",
+      "aiSummary": "Apple TV and Brad Pitt are collaborating on a new film called 'Connector'. The movie, set in 1970s New York, follows a legendary ironworker who confronts larger forces. Pitt is returning to Apple TV for this project.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/12/apple-tv-on-board-for-new-brad-pitt-film-connector?utm_source=rss",
+      "category": "Entertainment",
+      "filterTags": [
+        "Apple TV",
+        "Brad Pitt",
+        "Connector"
+      ],
+      "publishedAt": "2026-11-12T20:52:35+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Entertainment"
+        },
+        {
+          "name": "Film"
+        },
+        {
+          "name": "Television"
+        }
+      ]
+    },
+    {
+      "slug": "four-amazon-bedrock-inference-choices-that-affect-cost",
+      "title": "Four Amazon Bedrock inference choices that affect cost",
+      "dek": "Your Amazon Bedrock inference bill can keep climbing even after you tune prompts and application logic. Four request-level choices (cache duration, service tier, reasoning effort, and maxTokens) change how many tokens the service processes and the rate applied. We show how we tes",
+      "aiSummary": "Amazon Bedrock inference costs can continue to rise even after optimizing prompts and application logic. Four specific request-level choices—cache duration, service tier, reasoning effort, and maxTokens—determine the number of tokens processed and the applicable rates.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/four-amazon-bedrock-inference-choices-that-affect-cost/",
+      "category": "Cloud Computing",
+      "filterTags": [
+        "Amazon Bedrock",
+        "inference",
+        "cache duration",
+        "service tier",
+        "reasoning effort",
+        "maxTokens"
+      ],
+      "publishedAt": "2026-11-12T20:51:55+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cost Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "1-108-7-lts",
+      "title": "1.108.7 (LTS)",
+      "dek": "Tip The  lts  image tag always points to the latest LTS release. Pull  ghcr.io/berriai/litellm:lts  to stay on the newest LTS patch \n \n Verify this release \n cosign verify \\\n  --key https://raw.githubusercontent.com/BerriAI/litellm/e82a3c646908ba0a6ee0beddc4310d7a6cac4065/cosign.",
+      "aiSummary": "The LTS image tag always points to the newest LTS patch, so users can pull the image from ghcr.io/berriai/litellm:lts to stay up to date. The release can be verified with cosign using the provided key URL. This ensures the integrity of the LTS release.",
+      "articleUrl": "https://github.com/BerriAI/litellm/releases/tag/v1.108.7",
+      "category": "Open Source",
+      "filterTags": [
+        "litellm",
+        "BerriAI",
+        "cosign",
+        "ghcr.io"
+      ],
+      "publishedAt": "2026-11-12T20:40:45+00:00",
+      "publisher": {
+        "name": "BerriAI",
+        "domain": "github.com",
+        "website": "https://github.com/BerriAI/litellm",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Containerization"
+        }
+      ]
+    },
+    {
+      "slug": "jensen-huang-didn-t-name-his-own-replacement-as-one-of-tech-s-most-powerful-women",
+      "title": "Jensen Huang Didn’t Name His Own Replacement as One of Tech’s Most Powerful Women",
+      "dek": "A recent WIRED investigation explored the complicated definition of “power” for women in the industry. Jensen Huang’s answers now appear to show his blind spots.",
+      "aiSummary": "A recent WIRED investigation examined the intricate concept of \"power\" as it pertains to women in the technology industry. Jensen Huang's responses to questions on this subject reportedly highlighted his areas of unawareness.",
+      "articleUrl": "https://www.wired.com/story/jensen-huang-colette-kress-replacement-powerful-women-in-tech/",
+      "category": "Leadership",
+      "filterTags": [
+        "Jensen Huang",
+        "WIRED"
+      ],
+      "publishedAt": "2026-11-12T20:35:11+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Leadership"
+        },
+        {
+          "name": "Diversity"
+        },
+        {
+          "name": "Technology Industry"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-privately-confirmed-it-could-track-chips-to-fight-smuggling-even-as-industry-publicly-questioned-feasibility",
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "dek": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group cla",
+      "aiSummary": "Nvidia representatives informed Illinois Representative Bill Foster that implementing the anti-smuggling measures required by the Chip Security Act is technically feasible. This private confirmation stands in contrast to public statements from industry groups that have questioned the practicality of such tracking systems.",
+      "articleUrl": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "category": "Semiconductors",
+      "filterTags": [
+        "Nvidia",
+        "Chip Security Act",
+        "Bill Foster",
+        "MIT Technology Review"
+      ],
+      "publishedAt": "2026-11-12T20:16:24+00:00",
+      "publisher": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "website": "https://www.technologyreview.com/",
+        "logoUrl": "https://www.technologyreview.com/static/media/favicon.1cfcdb44759a0f93ddf5feb5405dd4cc.ico",
+        "faviconUrl": "https://www.technologyreview.com/static/media/favicon.1cfcdb44759a0f93ddf5feb5405dd4cc.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Regulation"
+        },
+        {
+          "name": "Supply Chain"
+        }
+      ]
+    },
+    {
+      "slug": "how-amplitude-ships-product-improvements-in-1-2-days-with-openai",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "dek": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "aiSummary": "Amplitude relies on OpenAI models to power its product agent Wave. Wave determines which features to develop, assists teams in deploying changes using coding agents, and tracks the resulting impact.",
+      "articleUrl": "https://openai.com/index/amplitude",
+      "category": "AI",
+      "filterTags": [
+        "Amplitude",
+        "OpenAI",
+        "Wave",
+        "coding agents"
+      ],
+      "publishedAt": "2026-11-12T20:00:00+00:00",
+      "publisher": {
+        "name": "OpenAI",
+        "domain": "openai.com",
+        "website": "https://openai.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Product Management"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "ars-live-what-drone-attacks-on-data-centers-mean-for-modern-life-in-the-cloud",
+      "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
+      "dek": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
+      "aiSummary": "Ars Technica is hosting a livestream discussion on November 17 at 1 pm Eastern Time. The event focuses on the implications of drone attacks on data centers for modern life in the cloud.",
+      "articleUrl": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+      "category": "Infrastructure",
+      "filterTags": [
+        "Ars Technica",
+        "Data Centers",
+        "Drones",
+        "Cloud"
+      ],
+      "publishedAt": "2026-11-12T19:59:59+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Cloud Computing"
+        }
+      ]
+    },
+    {
+      "slug": "several-microsoft-services-appear-to-be-down-what-we-know",
+      "title": "Several Microsoft services appear to be down – what we know",
+      "dek": "Reports of the outage are beginning to drop as Microsoft restarts affected servers.",
+      "aiSummary": "Reports of a Microsoft outage are decreasing as the company restarts affected servers. The outage involved several Microsoft services, and Microsoft is working to restore them.",
+      "articleUrl": "https://www.zdnet.com/business/microsoft-outage-outlook-teams-copilot/",
+      "category": "Cloud Computing",
+      "filterTags": [
+        "Microsoft"
+      ],
+      "publishedAt": "2026-11-12T19:45:52+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "IT Operations"
+        }
+      ]
+    },
+    {
+      "slug": "no-ai-agents-did-not-discover-a-previously-unknown-maya-site",
+      "title": "No, AI agents did not discover a previously unknown Maya site",
+      "dek": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered and was published in an academic journal last year. The incide",
+      "aiSummary": "Google researcher Pietro Miotti claimed to have discovered an unmapped Maya site in Mexico using AI agents. However, the site had actually been identified and published in an academic journal the previous year.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+      "category": "AI",
+      "filterTags": [
+        "Google",
+        "Pietro Miotti",
+        "AI agents",
+        "Maya site"
+      ],
+      "publishedAt": "2026-11-12T19:42:40+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Archaeology"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "gradio-6-32-0",
+      "title": "gradio@6.32.0",
+      "dek": "Features \n \n #14050   fda8037  - Use the visitor's own HF token for run history buckets.  Thanks  @dawoodkhan82 ! \n #14034   1028366  - Allow Pillow 13 on 6.x and keep 32-bit integer PNG output working.  Thanks  @abidlabs ! \n #14042   2f8693a  - Add GitHub-installed CLI extension",
+      "aiSummary": "This update for Gradio introduces several new features. Users can now utilize their own Hugging Face token for run history buckets, and Pillow 13 is supported on 6.x while maintaining 32-bit integer PNG output. Additionally, a GitHub-installed CLI extension has been added.",
+      "articleUrl": "https://github.com/gradio-app/gradio/releases/tag/gradio%406.32.0",
+      "category": "Software Development",
+      "filterTags": [
+        "Gradio",
+        "Hugging Face",
+        "Pillow",
+        "PNG",
+        "GitHub",
+        "CLI"
+      ],
+      "publishedAt": "2026-11-12T19:31:56+00:00",
+      "publisher": {
+        "name": "gradio-app",
+        "domain": "github.com",
+        "website": "https://github.com/gradio-app/gradio",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Release Notes"
+        },
+        {
+          "name": "Developer Tools"
+        },
+        {
+          "name": "Image Processing"
+        }
+      ]
+    },
+    {
+      "slug": "gradio-model3d-0-20-0",
+      "title": "@gradio/model3d@0.20.0",
+      "dek": "Features \n \n #14057   ab27f92  - workflow: add 3d model node support.  Thanks  @hannahblair ! \n \n Dependency updates \n \n @gradio/client@2.8.0",
+      "aiSummary": "Version 0.20.0 of the Gradio model3d package adds support for 3D model nodes in workflows, thanks to contributor Hannah Blair. It also updates the dependency to @gradio/client 2.8.0.",
+      "articleUrl": "https://github.com/gradio-app/gradio/releases/tag/%40gradio%2Fmodel3d%400.20.0",
+      "category": "Open Source",
+      "filterTags": [
+        "gradio",
+        "model3d",
+        "gradio/client"
+      ],
+      "publishedAt": "2026-11-12T19:31:53+00:00",
+      "publisher": {
+        "name": "gradio-app",
+        "domain": "github.com",
+        "website": "https://github.com/gradio-app/gradio",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Web Development"
+        }
+      ]
+    },
+    {
+      "slug": "gradio-workflowcanvas-0-15-0",
+      "title": "@gradio/workflowcanvas@0.15.0",
+      "dek": "Features \n \n #14050   fda8037  - Use the visitor's own HF token for run history buckets.  Thanks  @dawoodkhan82 ! \n #14017   ebccfcf  - workflows: handle depth estimation.  Thanks  @hannahblair ! \n #13972   d702b19  - workflow: add masked setting on textboxes.  Thanks  @hannahbla",
+      "aiSummary": "The latest release of @gradio/workflowcanvas includes updates to use the visitor's Hugging Face token for run history buckets. It also adds handling for depth estimation in workflows and introduces a masked setting for textboxes.",
+      "articleUrl": "https://github.com/gradio-app/gradio/releases/tag/%40gradio%2Fworkflowcanvas%400.15.0",
+      "category": "AI",
+      "filterTags": [
+        "Gradio",
+        "workflowcanvas",
+        "Hugging Face",
+        "HF token"
+      ],
+      "publishedAt": "2026-11-12T19:31:50+00:00",
+      "publisher": {
+        "name": "gradio-app",
+        "domain": "github.com",
+        "website": "https://github.com/gradio-app/gradio",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "who-is-collette-kress-nvidia-s-interim-ceo",
+      "title": "Who is Collette Kress, NVIDIA's interim CEO?",
+      "dek": "Kress spent 25 years in various finance roles before joining NVIDIA in 2013",
+      "aiSummary": "Collette Kress is serving as NVIDIA's interim CEO. She has a background of 25 years in finance roles and joined the company in 2013.",
+      "articleUrl": "https://www.engadget.com/2315274/who-is-collette-kress-nvidia-ceo/",
+      "category": "Corporate Leadership",
+      "filterTags": [
+        "NVIDIA",
+        "Collette Kress"
+      ],
+      "publishedAt": "2026-11-12T19:26:47+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Corporate Leadership"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "v3-50-0",
+      "title": "v3.50.0",
+      "dek": "3.50.0  (2026-11-12) \n Features \n \n api:  expose reasoning input transformations on responses ( #4268 ) ( 734f75b ) \n \n Chores \n \n deps:  bump astral-sh/setup-uv from 10.3.0 to 10.3.3 ( #4261 ) ( 0ebd006 ) \n \n Documentation \n \n simplify review handoff instructions ( #4266 ) ( 141",
+      "aiSummary": "The 3.50.0 release adds an API feature that exposes reasoning input transformations on responses, updates the astral-sh/setup-uv dependency to 10.3.3, and simplifies review handoff instructions. These changes improve API functionality, keep dependencies current, and streamline documentation for reviewers.",
+      "articleUrl": "https://github.com/openai/openai-python/releases/tag/v3.50.0",
+      "category": "Software Development",
+      "filterTags": [
+        "api",
+        "astral-sh/setup-uv",
+        "uv"
+      ],
+      "publishedAt": "2026-11-12T19:26:07+00:00",
+      "publisher": {
+        "name": "openai",
+        "domain": "github.com",
+        "website": "https://github.com/openai/openai-python",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Documentation"
+        }
+      ]
+    },
+    {
+      "slug": "google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash",
+      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+      "dek": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
+      "aiSummary": "Google has launched Gemini 4 Hydrogen, which serves as the replacement for the 3.8 Flash model. Unlike previous releases such as Carbon and Argon, this new version is not undergoing a slow, security-focused rollout.",
+      "articleUrl": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+      "category": "AI",
+      "filterTags": [
+        "Google",
+        "Gemini 4 Hydrogen",
+        "3.8 Flash",
+        "Carbon",
+        "Argon"
+      ],
+      "publishedAt": "2026-11-12T19:23:03+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "multiple-microsoft-365-services-are-experiencing-an-outage",
+      "title": "Multiple Microsoft 365 services are experiencing an outage",
+      "dek": "Outlook and Teams are among the platforms impacted by \"elevated load\" issues.",
+      "aiSummary": "",
+      "articleUrl": "https://www.engadget.com/2315259/multiple-microsoft-365-services-are-experiencing-an-outage/",
+      "category": "Technology",
+      "filterTags": [
+        "Microsoft"
+      ],
+      "publishedAt": "2026-11-12T19:17:32+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": []
+    },
+    {
+      "slug": "the-dreamer-is-just-the-first-of-apple-s-heartstring-pullers-for-christmas",
+      "title": "'The Dreamer' is just the first of Apple's heartstring-pullers for Christmas",
+      "dek": "Watch the new Apple Holiday Film about a gift that helps a child rediscover his creativity, with the help of a MacBook Neo. Just in time for the holidays!   Continue Reading on AppleInsider  |  Discuss on our Forums",
+      "aiSummary": "Apple has released a new holiday film titled 'The Dreamer,' which features a child using a MacBook Neo to rediscover his creativity. The article describes this video as the first in a series of emotionally resonant advertisements intended for the Christmas season.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/12/the-dreamer-is-just-the-first-of-apples-heartstring-pullers-for-christmas?utm_source=rss",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Apple",
+        "MacBook Neo",
+        "Holiday Film"
+      ],
+      "publishedAt": "2026-11-12T19:16:12+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Marketing"
+        }
+      ]
+    },
+    {
+      "slug": "llmon-an-llm-native-markup-language-now-in-granite-4-1-3b-and-8b",
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "dek": "LLMON, a markup language designed for large language models, is now available in versions 3B and 8B of Granite 4.1.",
+      "aiSummary": "",
+      "articleUrl": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "category": "Artificial Intelligence",
+      "filterTags": [],
+      "publishedAt": "2026-11-12T19:07:35+00:00",
+      "publisher": {
+        "name": "Hugging Face",
+        "domain": "huggingface.co",
+        "website": "https://huggingface.co/",
+        "logoUrl": "https://huggingface.co/front/thumbnails/v2-2.png",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": []
+    },
+    {
+      "slug": "kid-cue-is-the-iphone-duo-s-secret-weapon",
+      "title": "Kid Cue is the iPhone Duo's secret weapon",
+      "dek": "While some knock the  iPhone Duo  for perceived camera deficiencies, the Kid Cue feature might just be a big enough hit to make it worthwhile picking up for parents of kids young and old alike. Kid Cue makes it easier to get the attention of your subject Like many, my choice of i",
+      "aiSummary": "Despite criticism regarding the iPhone Duo's camera quality, the Kid Cue feature is highlighted as a significant benefit for parents. This tool helps users more easily capture the attention of children, potentially making the device a worthwhile purchase for families.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/12/kid-cue-is-the-iphone-duos-secret-weapon?utm_source=rss",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "iPhone Duo",
+        "Kid Cue",
+        "Apple"
+      ],
+      "publishedAt": "2026-11-12T18:55:02+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Mobile Devices"
+        }
+      ]
+    },
+    {
+      "slug": "the-pulse-what-can-we-learn-from-the-railway-hack",
+      "title": "The Pulse: What can we learn from the Railway hack?",
+      "dek": "Also: native mobile and frontend jobs are disappearing, how trust helps an “AI-native” engineering team to succeed, Carta starts selling a coding harness, and more",
+      "aiSummary": "The article highlights a trend of disappearing native mobile and frontend job roles. It also discusses how fostering trust is crucial for the success of an AI-native engineering team. Additionally, the piece notes that Carta has launched sales of a new coding harness.",
+      "articleUrl": "https://newsletter.pragmaticengineer.com/p/the-pulse-what-can-we-learn-from-114",
+      "category": "Cybersecurity",
+      "filterTags": [
+        "Railway",
+        "native mobile",
+        "frontend",
+        "AI-native",
+        "Carta",
+        "coding harness"
+      ],
+      "publishedAt": "2026-11-12T18:53:19+00:00",
+      "publisher": {
+        "name": "Pragmatic Engineer",
+        "domain": "newsletter.pragmaticengineer.com",
+        "website": "https://newsletter.pragmaticengineer.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=newsletter.pragmaticengineer.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=newsletter.pragmaticengineer.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "Career Trends"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "jensen-huang-was-a-busted-flush-at-nvidia-he-had-to-go-nils-pratley",
+      "title": "Jensen Huang was a busted flush at Nvidia – he had to go | Nils Pratley",
+      "dek": "CEO was viewed as ‘irreplaceable’, but recklessness of affair with a woman regarded by US officials as a Chinese spy made him a political liability Half the tech world made up its mind before the facts could be assessed properly.  Jensen Huang  was “irreplaceable”, said the choru",
+      "aiSummary": "Nvidia CEO Jensen Huang was considered irreplaceable, yet his alleged affair with a woman deemed a Chinese spy by U.S. officials turned him into a political liability, prompting his departure. The tech community had already decided against him before all facts were known.",
+      "articleUrl": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/12/jensen-huang-was-a-busted-flush-at-nvidia-he-had-to-go",
+      "category": "Technology",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Chinese spy"
+      ],
+      "publishedAt": "2026-11-12T18:46:48+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Corporate Governance"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    }
+  ]
+}
