@@ -491,15 +491,15 @@
       website: https://www.reddit.com/r/MachineLearning/
     confidence: verified
     note: From your existing source list.
-  - name: Hacker News AI
-    feed_url: https://hnrss.org/newest?q=AI
-    category: Artificial Intelligence
-    publisher:
-      name: Hacker News
-      domain: news.ycombinator.com
-      website: https://news.ycombinator.com/
-    confidence: verified
-    note: From your existing source list.
+  # - name: Hacker News AI
+  #   feed_url: https://hnrss.org/newest?q=AI
+  #   category: Artificial Intelligence
+  #   publisher:
+  #     name: Hacker News
+  #     domain: news.ycombinator.com
+  #     website: https://news.ycombinator.com/
+  #   confidence: verified
+  #   note: From your existing source list.
   # - name: Hacker News Machine Learning
   #   feed_url: https://hnrss.org/newest?q=machine+learning
   #   category: Machine Learning
@@ -1562,447 +1562,447 @@
       name: Reddit
       domain: reddit.com
       website: https://www.reddit.com/r/OpenAIDev/
-  - name: 'GitHub Releases: pytorch/pytorch'
-    feed_url: https://github.com/pytorch/pytorch/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: pytorch
-      domain: github.com
-      website: https://github.com/pytorch/pytorch
-  - name: 'GitHub Releases: tensorflow/tensorflow'
-    feed_url: https://github.com/tensorflow/tensorflow/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: tensorflow
-      domain: github.com
-      website: https://github.com/tensorflow/tensorflow
-  - name: 'GitHub Releases: keras-team/keras'
-    feed_url: https://github.com/keras-team/keras/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: keras-team
-      domain: github.com
-      website: https://github.com/keras-team/keras
-  - name: 'GitHub Releases: huggingface/transformers'
-    feed_url: https://github.com/huggingface/transformers/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: huggingface
-      domain: github.com
-      website: https://github.com/huggingface/transformers
-  - name: 'GitHub Releases: huggingface/datasets'
-    feed_url: https://github.com/huggingface/datasets/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: huggingface
-      domain: github.com
-      website: https://github.com/huggingface/datasets
-  - name: 'GitHub Releases: huggingface/diffusers'
-    feed_url: https://github.com/huggingface/diffusers/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: huggingface
-      domain: github.com
-      website: https://github.com/huggingface/diffusers
-  - name: 'GitHub Releases: langchain-ai/langchain'
-    feed_url: https://github.com/langchain-ai/langchain/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: langchain-ai
-      domain: github.com
-      website: https://github.com/langchain-ai/langchain
-  - name: 'GitHub Releases: run-llama/llama_index'
-    feed_url: https://github.com/run-llama/llama_index/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: run-llama
-      domain: github.com
-      website: https://github.com/run-llama/llama_index
-  - name: 'GitHub Releases: ollama/ollama'
-    feed_url: https://github.com/ollama/ollama/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: ollama
-      domain: github.com
-      website: https://github.com/ollama/ollama
-  - name: 'GitHub Releases: vllm-project/vllm'
-    feed_url: https://github.com/vllm-project/vllm/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: vllm-project
-      domain: github.com
-      website: https://github.com/vllm-project/vllm
-  - name: 'GitHub Releases: ggerganov/llama.cpp'
-    feed_url: https://github.com/ggerganov/llama.cpp/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: ggerganov
-      domain: github.com
-      website: https://github.com/ggerganov/llama.cpp
-  - name: 'GitHub Releases: ggerganov/whisper.cpp'
-    feed_url: https://github.com/ggerganov/whisper.cpp/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: ggerganov
-      domain: github.com
-      website: https://github.com/ggerganov/whisper.cpp
-  - name: 'GitHub Releases: comfyanonymous/ComfyUI'
-    feed_url: https://github.com/comfyanonymous/ComfyUI/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: comfyanonymous
-      domain: github.com
-      website: https://github.com/comfyanonymous/ComfyUI
-  - name: 'GitHub Releases: AUTOMATIC1111/stable-diffusion-webui'
-    feed_url: https://github.com/AUTOMATIC1111/stable-diffusion-webui/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: AUTOMATIC1111
-      domain: github.com
-      website: https://github.com/AUTOMATIC1111/stable-diffusion-webui
-  - name: 'GitHub Releases: openai/openai-python'
-    feed_url: https://github.com/openai/openai-python/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: openai
-      domain: github.com
-      website: https://github.com/openai/openai-python
-  - name: 'GitHub Releases: openai/whisper'
-    feed_url: https://github.com/openai/whisper/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: openai
-      domain: github.com
-      website: https://github.com/openai/whisper
-  - name: 'GitHub Releases: google/jax'
-    feed_url: https://github.com/google/jax/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: google
-      domain: github.com
-      website: https://github.com/google/jax
-  - name: 'GitHub Releases: google-deepmind/alphafold'
-    feed_url: https://github.com/google-deepmind/alphafold/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: google-deepmind
-      domain: github.com
-      website: https://github.com/google-deepmind/alphafold
-  - name: 'GitHub Releases: microsoft/DeepSpeed'
-    feed_url: https://github.com/microsoft/DeepSpeed/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: microsoft
-      domain: github.com
-      website: https://github.com/microsoft/DeepSpeed
-  - name: 'GitHub Releases: microsoft/autogen'
-    feed_url: https://github.com/microsoft/autogen/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: microsoft
-      domain: github.com
-      website: https://github.com/microsoft/autogen
-  - name: 'GitHub Releases: jina-ai/jina'
-    feed_url: https://github.com/jina-ai/jina/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: jina-ai
-      domain: github.com
-      website: https://github.com/jina-ai/jina
-  - name: 'GitHub Releases: milvus-io/milvus'
-    feed_url: https://github.com/milvus-io/milvus/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: milvus-io
-      domain: github.com
-      website: https://github.com/milvus-io/milvus
-  - name: 'GitHub Releases: chroma-core/chroma'
-    feed_url: https://github.com/chroma-core/chroma/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: chroma-core
-      domain: github.com
-      website: https://github.com/chroma-core/chroma
-  - name: 'GitHub Releases: qdrant/qdrant'
-    feed_url: https://github.com/qdrant/qdrant/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: qdrant
-      domain: github.com
-      website: https://github.com/qdrant/qdrant
-  - name: 'GitHub Releases: scikit-learn/scikit-learn'
-    feed_url: https://github.com/scikit-learn/scikit-learn/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: scikit-learn
-      domain: github.com
-      website: https://github.com/scikit-learn/scikit-learn
-  - name: 'GitHub Releases: numpy/numpy'
-    feed_url: https://github.com/numpy/numpy/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: numpy
-      domain: github.com
-      website: https://github.com/numpy/numpy
-  - name: 'GitHub Releases: pandas-dev/pandas'
-    feed_url: https://github.com/pandas-dev/pandas/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: pandas-dev
-      domain: github.com
-      website: https://github.com/pandas-dev/pandas
-  - name: 'GitHub Releases: ray-project/ray'
-    feed_url: https://github.com/ray-project/ray/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: ray-project
-      domain: github.com
-      website: https://github.com/ray-project/ray
-  - name: 'GitHub Releases: mlflow/mlflow'
-    feed_url: https://github.com/mlflow/mlflow/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: mlflow
-      domain: github.com
-      website: https://github.com/mlflow/mlflow
-  - name: 'GitHub Releases: gradio-app/gradio'
-    feed_url: https://github.com/gradio-app/gradio/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: gradio-app
-      domain: github.com
-      website: https://github.com/gradio-app/gradio
-  - name: 'GitHub Releases: microsoft/onnxruntime'
-    feed_url: https://github.com/microsoft/onnxruntime/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: microsoft
-      domain: github.com
-      website: https://github.com/microsoft/onnxruntime
-  - name: 'GitHub Releases: fastai/fastai'
-    feed_url: https://github.com/fastai/fastai/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: fastai
-      domain: github.com
-      website: https://github.com/fastai/fastai
-  - name: 'GitHub Releases: PaddlePaddle/Paddle'
-    feed_url: https://github.com/PaddlePaddle/Paddle/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: PaddlePaddle
-      domain: github.com
-      website: https://github.com/PaddlePaddle/Paddle
-  - name: 'GitHub Releases: google/flax'
-    feed_url: https://github.com/google/flax/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: google
-      domain: github.com
-      website: https://github.com/google/flax
-  - name: 'GitHub Releases: google-deepmind/acme'
-    feed_url: https://github.com/google-deepmind/acme/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: google-deepmind
-      domain: github.com
-      website: https://github.com/google-deepmind/acme
-  - name: 'GitHub Releases: facebookresearch/detectron2'
-    feed_url: https://github.com/facebookresearch/detectron2/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: facebookresearch
-      domain: github.com
-      website: https://github.com/facebookresearch/detectron2
-  - name: 'GitHub Releases: facebookresearch/fairseq'
-    feed_url: https://github.com/facebookresearch/fairseq/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: facebookresearch
-      domain: github.com
-      website: https://github.com/facebookresearch/fairseq
-  - name: 'GitHub Releases: NVIDIA/NeMo'
-    feed_url: https://github.com/NVIDIA/NeMo/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: NVIDIA
-      domain: github.com
-      website: https://github.com/NVIDIA/NeMo
-  - name: 'GitHub Releases: stanford-crfm/helm'
-    feed_url: https://github.com/stanford-crfm/helm/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: stanford-crfm
-      domain: github.com
-      website: https://github.com/stanford-crfm/helm
-  - name: 'GitHub Releases: EleutherAI/gpt-neox'
-    feed_url: https://github.com/EleutherAI/gpt-neox/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: EleutherAI
-      domain: github.com
-      website: https://github.com/EleutherAI/gpt-neox
-  - name: 'GitHub Releases: lm-sys/FastChat'
-    feed_url: https://github.com/lm-sys/FastChat/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: lm-sys
-      domain: github.com
-      website: https://github.com/lm-sys/FastChat
-  - name: 'GitHub Releases: guidance-ai/guidance'
-    feed_url: https://github.com/guidance-ai/guidance/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: guidance-ai
-      domain: github.com
-      website: https://github.com/guidance-ai/guidance
-  - name: 'GitHub Releases: BerriAI/litellm'
-    feed_url: https://github.com/BerriAI/litellm/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: BerriAI
-      domain: github.com
-      website: https://github.com/BerriAI/litellm
-  - name: 'GitHub Releases: microsoft/semantic-kernel'
-    feed_url: https://github.com/microsoft/semantic-kernel/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: microsoft
-      domain: github.com
-      website: https://github.com/microsoft/semantic-kernel
-  - name: 'GitHub Releases: langflow-ai/langflow'
-    feed_url: https://github.com/langflow-ai/langflow/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: langflow-ai
-      domain: github.com
-      website: https://github.com/langflow-ai/langflow
-  - name: 'GitHub Releases: crewAIInc/crewAI'
-    feed_url: https://github.com/crewAIInc/crewAI/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: crewAIInc
-      domain: github.com
-      website: https://github.com/crewAIInc/crewAI
-  - name: 'GitHub Releases: n8n-io/n8n'
-    feed_url: https://github.com/n8n-io/n8n/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: n8n-io
-      domain: github.com
-      website: https://github.com/n8n-io/n8n
-  - name: 'GitHub Releases: Significant-Gravitas/AutoGPT'
-    feed_url: https://github.com/Significant-Gravitas/AutoGPT/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: Significant-Gravitas
-      domain: github.com
-      website: https://github.com/Significant-Gravitas/AutoGPT
-  - name: 'GitHub Releases: geekan/MetaGPT'
-    feed_url: https://github.com/geekan/MetaGPT/releases.atom
-    category: AI Engineering
-    confidence: platform-guaranteed
-    note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
-    publisher:
-      name: geekan
-      domain: github.com
-      website: https://github.com/geekan/MetaGPT
+  # - name: 'GitHub Releases: pytorch/pytorch'
+  #   feed_url: https://github.com/pytorch/pytorch/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: pytorch
+  #     domain: github.com
+  #     website: https://github.com/pytorch/pytorch
+  # - name: 'GitHub Releases: tensorflow/tensorflow'
+  #   feed_url: https://github.com/tensorflow/tensorflow/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: tensorflow
+  #     domain: github.com
+  #     website: https://github.com/tensorflow/tensorflow
+  # - name: 'GitHub Releases: keras-team/keras'
+  #   feed_url: https://github.com/keras-team/keras/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: keras-team
+  #     domain: github.com
+  #     website: https://github.com/keras-team/keras
+  # - name: 'GitHub Releases: huggingface/transformers'
+  #   feed_url: https://github.com/huggingface/transformers/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: huggingface
+  #     domain: github.com
+  #     website: https://github.com/huggingface/transformers
+  # - name: 'GitHub Releases: huggingface/datasets'
+  #   feed_url: https://github.com/huggingface/datasets/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: huggingface
+  #     domain: github.com
+  #     website: https://github.com/huggingface/datasets
+  # - name: 'GitHub Releases: huggingface/diffusers'
+  #   feed_url: https://github.com/huggingface/diffusers/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: huggingface
+  #     domain: github.com
+  #     website: https://github.com/huggingface/diffusers
+  # - name: 'GitHub Releases: langchain-ai/langchain'
+  #   feed_url: https://github.com/langchain-ai/langchain/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: langchain-ai
+  #     domain: github.com
+  #     website: https://github.com/langchain-ai/langchain
+  # - name: 'GitHub Releases: run-llama/llama_index'
+  #   feed_url: https://github.com/run-llama/llama_index/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: run-llama
+  #     domain: github.com
+  #     website: https://github.com/run-llama/llama_index
+  # - name: 'GitHub Releases: ollama/ollama'
+  #   feed_url: https://github.com/ollama/ollama/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: ollama
+  #     domain: github.com
+  #     website: https://github.com/ollama/ollama
+  # - name: 'GitHub Releases: vllm-project/vllm'
+  #   feed_url: https://github.com/vllm-project/vllm/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: vllm-project
+  #     domain: github.com
+  #     website: https://github.com/vllm-project/vllm
+  # - name: 'GitHub Releases: ggerganov/llama.cpp'
+  #   feed_url: https://github.com/ggerganov/llama.cpp/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: ggerganov
+  #     domain: github.com
+  #     website: https://github.com/ggerganov/llama.cpp
+  # - name: 'GitHub Releases: ggerganov/whisper.cpp'
+  #   feed_url: https://github.com/ggerganov/whisper.cpp/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: ggerganov
+  #     domain: github.com
+  #     website: https://github.com/ggerganov/whisper.cpp
+  # - name: 'GitHub Releases: comfyanonymous/ComfyUI'
+  #   feed_url: https://github.com/comfyanonymous/ComfyUI/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: comfyanonymous
+  #     domain: github.com
+  #     website: https://github.com/comfyanonymous/ComfyUI
+  # - name: 'GitHub Releases: AUTOMATIC1111/stable-diffusion-webui'
+  #   feed_url: https://github.com/AUTOMATIC1111/stable-diffusion-webui/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: AUTOMATIC1111
+  #     domain: github.com
+  #     website: https://github.com/AUTOMATIC1111/stable-diffusion-webui
+  # - name: 'GitHub Releases: openai/openai-python'
+  #   feed_url: https://github.com/openai/openai-python/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: openai
+  #     domain: github.com
+  #     website: https://github.com/openai/openai-python
+  # - name: 'GitHub Releases: openai/whisper'
+  #   feed_url: https://github.com/openai/whisper/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: openai
+  #     domain: github.com
+  #     website: https://github.com/openai/whisper
+  # - name: 'GitHub Releases: google/jax'
+  #   feed_url: https://github.com/google/jax/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: google
+  #     domain: github.com
+  #     website: https://github.com/google/jax
+  # - name: 'GitHub Releases: google-deepmind/alphafold'
+  #   feed_url: https://github.com/google-deepmind/alphafold/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: google-deepmind
+  #     domain: github.com
+  #     website: https://github.com/google-deepmind/alphafold
+  # - name: 'GitHub Releases: microsoft/DeepSpeed'
+  #   feed_url: https://github.com/microsoft/DeepSpeed/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: microsoft
+  #     domain: github.com
+  #     website: https://github.com/microsoft/DeepSpeed
+  # - name: 'GitHub Releases: microsoft/autogen'
+  #   feed_url: https://github.com/microsoft/autogen/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: microsoft
+  #     domain: github.com
+  #     website: https://github.com/microsoft/autogen
+  # - name: 'GitHub Releases: jina-ai/jina'
+  #   feed_url: https://github.com/jina-ai/jina/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: jina-ai
+  #     domain: github.com
+  #     website: https://github.com/jina-ai/jina
+  # - name: 'GitHub Releases: milvus-io/milvus'
+  #   feed_url: https://github.com/milvus-io/milvus/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: milvus-io
+  #     domain: github.com
+  #     website: https://github.com/milvus-io/milvus
+  # - name: 'GitHub Releases: chroma-core/chroma'
+  #   feed_url: https://github.com/chroma-core/chroma/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: chroma-core
+  #     domain: github.com
+  #     website: https://github.com/chroma-core/chroma
+  # - name: 'GitHub Releases: qdrant/qdrant'
+  #   feed_url: https://github.com/qdrant/qdrant/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: qdrant
+  #     domain: github.com
+  #     website: https://github.com/qdrant/qdrant
+  # - name: 'GitHub Releases: scikit-learn/scikit-learn'
+  #   feed_url: https://github.com/scikit-learn/scikit-learn/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: scikit-learn
+  #     domain: github.com
+  #     website: https://github.com/scikit-learn/scikit-learn
+  # - name: 'GitHub Releases: numpy/numpy'
+  #   feed_url: https://github.com/numpy/numpy/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: numpy
+  #     domain: github.com
+  #     website: https://github.com/numpy/numpy
+  # - name: 'GitHub Releases: pandas-dev/pandas'
+  #   feed_url: https://github.com/pandas-dev/pandas/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: pandas-dev
+  #     domain: github.com
+  #     website: https://github.com/pandas-dev/pandas
+  # - name: 'GitHub Releases: ray-project/ray'
+  #   feed_url: https://github.com/ray-project/ray/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: ray-project
+  #     domain: github.com
+  #     website: https://github.com/ray-project/ray
+  # - name: 'GitHub Releases: mlflow/mlflow'
+  #   feed_url: https://github.com/mlflow/mlflow/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: mlflow
+  #     domain: github.com
+  #     website: https://github.com/mlflow/mlflow
+  # - name: 'GitHub Releases: gradio-app/gradio'
+  #   feed_url: https://github.com/gradio-app/gradio/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: gradio-app
+  #     domain: github.com
+  #     website: https://github.com/gradio-app/gradio
+  # - name: 'GitHub Releases: microsoft/onnxruntime'
+  #   feed_url: https://github.com/microsoft/onnxruntime/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: microsoft
+  #     domain: github.com
+  #     website: https://github.com/microsoft/onnxruntime
+  # - name: 'GitHub Releases: fastai/fastai'
+  #   feed_url: https://github.com/fastai/fastai/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: fastai
+  #     domain: github.com
+  #     website: https://github.com/fastai/fastai
+  # - name: 'GitHub Releases: PaddlePaddle/Paddle'
+  #   feed_url: https://github.com/PaddlePaddle/Paddle/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: PaddlePaddle
+  #     domain: github.com
+  #     website: https://github.com/PaddlePaddle/Paddle
+  # - name: 'GitHub Releases: google/flax'
+  #   feed_url: https://github.com/google/flax/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: google
+  #     domain: github.com
+  #     website: https://github.com/google/flax
+  # - name: 'GitHub Releases: google-deepmind/acme'
+  #   feed_url: https://github.com/google-deepmind/acme/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: google-deepmind
+  #     domain: github.com
+  #     website: https://github.com/google-deepmind/acme
+  # - name: 'GitHub Releases: facebookresearch/detectron2'
+  #   feed_url: https://github.com/facebookresearch/detectron2/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: facebookresearch
+  #     domain: github.com
+  #     website: https://github.com/facebookresearch/detectron2
+  # - name: 'GitHub Releases: facebookresearch/fairseq'
+  #   feed_url: https://github.com/facebookresearch/fairseq/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: facebookresearch
+  #     domain: github.com
+  #     website: https://github.com/facebookresearch/fairseq
+  # - name: 'GitHub Releases: NVIDIA/NeMo'
+  #   feed_url: https://github.com/NVIDIA/NeMo/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: NVIDIA
+  #     domain: github.com
+  #     website: https://github.com/NVIDIA/NeMo
+  # - name: 'GitHub Releases: stanford-crfm/helm'
+  #   feed_url: https://github.com/stanford-crfm/helm/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: stanford-crfm
+  #     domain: github.com
+  #     website: https://github.com/stanford-crfm/helm
+  # - name: 'GitHub Releases: EleutherAI/gpt-neox'
+  #   feed_url: https://github.com/EleutherAI/gpt-neox/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: EleutherAI
+  #     domain: github.com
+  #     website: https://github.com/EleutherAI/gpt-neox
+  # - name: 'GitHub Releases: lm-sys/FastChat'
+  #   feed_url: https://github.com/lm-sys/FastChat/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: lm-sys
+  #     domain: github.com
+  #     website: https://github.com/lm-sys/FastChat
+  # - name: 'GitHub Releases: guidance-ai/guidance'
+  #   feed_url: https://github.com/guidance-ai/guidance/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: guidance-ai
+  #     domain: github.com
+  #     website: https://github.com/guidance-ai/guidance
+  # - name: 'GitHub Releases: BerriAI/litellm'
+  #   feed_url: https://github.com/BerriAI/litellm/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: BerriAI
+  #     domain: github.com
+  #     website: https://github.com/BerriAI/litellm
+  # - name: 'GitHub Releases: microsoft/semantic-kernel'
+  #   feed_url: https://github.com/microsoft/semantic-kernel/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: microsoft
+  #     domain: github.com
+  #     website: https://github.com/microsoft/semantic-kernel
+  # - name: 'GitHub Releases: langflow-ai/langflow'
+  #   feed_url: https://github.com/langflow-ai/langflow/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: langflow-ai
+  #     domain: github.com
+  #     website: https://github.com/langflow-ai/langflow
+  # - name: 'GitHub Releases: crewAIInc/crewAI'
+  #   feed_url: https://github.com/crewAIInc/crewAI/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: crewAIInc
+  #     domain: github.com
+  #     website: https://github.com/crewAIInc/crewAI
+  # - name: 'GitHub Releases: n8n-io/n8n'
+  #   feed_url: https://github.com/n8n-io/n8n/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: n8n-io
+  #     domain: github.com
+  #     website: https://github.com/n8n-io/n8n
+  # - name: 'GitHub Releases: Significant-Gravitas/AutoGPT'
+  #   feed_url: https://github.com/Significant-Gravitas/AutoGPT/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: Significant-Gravitas
+  #     domain: github.com
+  #     website: https://github.com/Significant-Gravitas/AutoGPT
+  # - name: 'GitHub Releases: geekan/MetaGPT'
+  #   feed_url: https://github.com/geekan/MetaGPT/releases.atom
+  #   category: AI Engineering
+  #   confidence: platform-guaranteed
+  #   note: GitHub auto-generates an Atom feed of releases for every public repo (<repo>/releases.atom).
+  #   publisher:
+  #     name: geekan
+  #     domain: github.com
+  #     website: https://github.com/geekan/MetaGPT
   - name: Google DeepMind Blog (basic)
     feed_url: https://deepmind.google/blog/feed/basic/
     category: Artificial Intelligence
