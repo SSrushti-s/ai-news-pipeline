@@ -1,0 +1,1538 @@
+{
+  "news": [
+    {
+      "slug": "what-we-know-about-the-global-microsoft-outage",
+      "title": "What we know about the global Microsoft outage",
+      "dek": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+      "aiSummary": "Microsoft confirmed that the global outage was not due to a cyber‑security incident. The company has been working to resolve the problem, but progress has been limited so far.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "category": "Technology",
+      "filterTags": [
+        "Microsoft"
+      ],
+      "publishedAt": "2026-11-13T13:34:53+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "neocloud-nscale-reveals-5-5-billion-debt-and-closer-nvidia-ties-ahead-of-ipo",
+      "title": "Neocloud Nscale Reveals $5.5 Billion Debt and Closer Nvidia Ties Ahead of IPO",
+      "dek": "Data center developer Nscale needs more cash, has significantly increased its debt and is more reliant on Nvidia Corp. than previously disclosed, it said in a regulatory filing ahead of its planned initial public offering.",
+      "aiSummary": "Data center developer Nscale has disclosed a significant increase in debt to $5.5 billion and a deeper reliance on Nvidia Corp. in a regulatory filing. These disclosures were made ahead of the company's planned initial public offering as it seeks additional capital.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-13/neocloud-nscale-reveals-5-5-billion-debt-and-closer-nvidia-ties-ahead-of-ipo",
+      "category": "Data Centers",
+      "filterTags": [
+        "Nscale",
+        "Nvidia",
+        "IPO",
+        "Debt"
+      ],
+      "publishedAt": "2026-11-13T13:30:31+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Data Centers"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "elon-musk-s-spacex-starship-why-the-rocket-is-critical-to-its-future",
+      "title": "Elon Musk’s SpaceX Starship: Why the Rocket Is Critical to Its Future",
+      "dek": "For the full experience visit: SpaceX’s Future Hinges on Starship. Can It Deliver?",
+      "aiSummary": "The article examines the critical role of the Starship rocket in determining the future trajectory of SpaceX. It explores whether the vehicle can successfully deliver on its promises to secure the company's long-term viability.",
+      "articleUrl": "https://www.bloomberg.com/graphics/2026-spacex-starship-rocket-future/",
+      "category": "Aerospace",
+      "filterTags": [
+        "SpaceX",
+        "Starship"
+      ],
+      "publishedAt": "2026-11-13T13:30:23+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Aerospace"
+        },
+        {
+          "name": "Space Exploration"
+        }
+      ]
+    },
+    {
+      "slug": "what-ai-agents-speed-up-in-phd-research-and-what-they-can-t",
+      "title": "What AI Agents Speed Up in PhD Research, and What They Can't",
+      "dek": "A PhD student in ML and ecology on why faster code, experiments, and drafts don't fix data with a backstory, and three predictions for how labs will change. \n The post  What AI Agents Speed Up in PhD Research, and What They Can't  appeared first on  Towards Data Science .",
+      "aiSummary": "A PhD student in machine learning and ecology explains that while AI agents accelerate coding, experiments, and drafting, they cannot resolve issues with data that has a complex backstory. The author also offers three predictions regarding how research labs will evolve.",
+      "articleUrl": "https://towardsdatascience.com/what-ai-agents-speed-up-in-phd-research-and-what-they-cant/",
+      "category": "AI",
+      "filterTags": [
+        "AI Agents",
+        "PhD Research",
+        "Machine Learning",
+        "Ecology",
+        "Towards Data Science"
+      ],
+      "publishedAt": "2026-11-13T13:30:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Academia"
+        },
+        {
+          "name": "Research"
+        }
+      ]
+    },
+    {
+      "slug": "courts-spies-and-mps-how-the-microsoft-outage-has-been-felt-around-the-world",
+      "title": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
+      "dek": "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world.",
+      "aiSummary": "The recent Microsoft outage has caused disruptions across various sectors worldwide. Its effects have been felt by city governments in the United States, as well as spy agencies in Australia and members of parliament.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro?at_medium=RSS&at_campaign=rss",
+      "category": "Technology",
+      "filterTags": [
+        "Microsoft"
+      ],
+      "publishedAt": "2026-11-13T13:19:51+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Government"
+        }
+      ]
+    },
+    {
+      "slug": "gemini-4-hydrogen-hands-on-review",
+      "title": "Gemini 4 Hydrogen: Hands-On Review",
+      "dek": "Google has introduced Gemini 4 Hydrogen, its latest AI model designed for faster execution, coding, and agentic workflows. Released on November 12, 2026, the model is rolling out across Google Search, the Gemini app, and developer tools. Alongside it, Google introduced Antigravit",
+      "aiSummary": "Google has released Gemini 4 Hydrogen, a new AI model optimized for faster execution, coding, and agentic workflows. The model, launched on November 12, 2026, is being integrated into Google Search, the Gemini app, and developer tools, alongside the introduction of Antigravit.",
+      "articleUrl": "https://www.analyticsvidhya.com/blog/2026/11/gemini-4-hydrogen-review/",
+      "category": "AI",
+      "filterTags": [
+        "Google",
+        "Gemini 4 Hydrogen",
+        "AI",
+        "Agentic Workflows",
+        "Coding"
+      ],
+      "publishedAt": "2026-11-13T13:17:14+00:00",
+      "publisher": {
+        "name": "Analytics Vidhya",
+        "domain": "analyticsvidhya.com",
+        "website": "https://www.analyticsvidhya.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=analyticsvidhya.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=analyticsvidhya.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-stock-inches-higher-as-investors-continue-to-weigh-jensen-huang-s-departure",
+      "title": "Nvidia stock inches higher as investors continue to weigh Jensen Huang’s departure",
+      "dek": "Jensen Huang resigned as CEO of Nvidia on Thursday after coming under scrutiny for two extramarital affairs.",
+      "aiSummary": "Jensen Huang stepped down as Nvidia's CEO on Thursday. The resignation followed scrutiny over two extramarital affairs. Investors are reacting to his departure, causing the stock to inch higher.",
+      "articleUrl": "https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html",
+      "category": "Technology",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang"
+      ],
+      "publishedAt": "2026-11-13T13:13:51+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Corporate Governance"
+        }
+      ]
+    },
+    {
+      "slug": "first-apple-home-collection-devices-can-now-be-ordered",
+      "title": "First Apple Home Collection devices can now be ordered",
+      "dek": "Apple has opened pre-orders for three of its new smart home accessories, the LG-branded cameras that are due to ship in December. The Apple Home Collection is set to roll out December 2026 Just as the first of the new  HomeView  and updated  Apple TV 4K  start to  arrive for buye",
+      "aiSummary": "Apple has opened pre-orders for three new smart home accessories, including LG-branded cameras, which are scheduled to ship in December. The broader Apple Home Collection is set to roll out in December 2026, coinciding with the arrival of the first HomeView and updated Apple TV 4K units for buyers.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/13/first-apple-home-collection-devices-can-now-be-ordered?utm_source=rss",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Apple",
+        "LG",
+        "Apple TV 4K",
+        "HomeView"
+      ],
+      "publishedAt": "2026-11-13T13:10:25+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Smart Home"
+        }
+      ]
+    },
+    {
+      "slug": "proled-macbook-pros-apple-s-place-in-the-ai-race-on-the-appleinsider-podcast",
+      "title": "PROLED MacBook Pros & Apple's place in the AI race on the AppleInsider Podcast",
+      "dek": "Initial reviews and reactions around the PROLED  MacBook Pros , iMac, and iPad mini are in, plus there is plenty more to discuss around living with the iPhone Duo. Your hosts cover these topics plus more on Apple AI on the AppleInsider Podcast. MacBook Pro now has a touchscreen, ",
+      "aiSummary": "The AppleInsider Podcast reviews initial reactions to the PROLED MacBook Pros, iMac, and iPad mini, while also discussing the iPhone Duo. The hosts analyze Apple's standing in the AI race and note that the new MacBook Pro features a touchscreen.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/13/proled-macbook-pros-apples-place-in-the-ai-race-on-the-appleinsider-podcast?utm_source=rss",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Apple",
+        "MacBook Pro",
+        "PROLED",
+        "iMac",
+        "iPad mini",
+        "iPhone Duo",
+        "AI"
+      ],
+      "publishedAt": "2026-11-13T13:02:49+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "how-ai-is-helping-care-teams-get-patients-the-right-care-sooner",
+      "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+      "dek": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients.  Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital",
+      "aiSummary": "AI is being used in pediatric research and smart hospitals to reduce routine tasks, freeing up care teams to spend more time with patients. Health systems and startups are deploying AI to match patients to clinical trials and to support radiologists. These applications aim to improve efficiency and patient outcomes across healthcare settings.",
+      "articleUrl": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
+      "category": "Healthcare",
+      "filterTags": [
+        "AI",
+        "clinical trials",
+        "radiology"
+      ],
+      "publishedAt": "2026-11-13T13:00:42+00:00",
+      "publisher": {
+        "name": "NVIDIA",
+        "domain": "nvidia.com",
+        "website": "https://blogs.nvidia.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Healthcare"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Medical Research"
+        }
+      ]
+    },
+    {
+      "slug": "the-datacenter-industry-is-using-propaganda-to-fight-opposition-samuel-woolley-dean-jackson-and-maia-woluchem",
+      "title": "The datacenter industry is using propaganda to fight opposition | Samuel Woolley, Dean Jackson and Maia Woluchem",
+      "dek": "Big tech has used misdirection, disinformation and jargon to obscure the harm the facilities can cause to communities “Antifa”. “Commies”. “Chinese bots”. Everyone from tech leaders to the president has called datacenter resistance a “ documented psyop ” and a “ Chinese PR thing ",
+      "aiSummary": "The article argues that big tech and political figures are using misdirection, disinformation, and jargon to obscure the negative impacts of datacenters on communities. Resistance to these facilities has been dismissed by industry leaders and the president as a coordinated psychological operation or foreign propaganda effort.",
+      "articleUrl": "https://www.theguardian.com/commentisfree/2026/nov/13/datacenter-industry-propaganda",
+      "category": "Technology",
+      "filterTags": [
+        "Big Tech",
+        "Datacenters",
+        "Disinformation",
+        "Samuel Woolley",
+        "Dean Jackson",
+        "Maia Woluchem"
+      ],
+      "publishedAt": "2026-11-13T13:00:18+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Media"
+        }
+      ]
+    },
+    {
+      "slug": "surface-laptop-ultra-review-the-most-powerful-surface-yet-but-it-still-lags-behind-apple",
+      "title": "Surface Laptop Ultra review: The most powerful Surface yet, but it still lags behind Apple",
+      "dek": "Microsoft's latest Surface is a beautiful flagship device for NVIDIA's RTX Spark.",
+      "aiSummary": "Microsoft's latest Surface Laptop Ultra is a flagship device featuring NVIDIA's RTX Spark GPU. It is described as a beautiful design.",
+      "articleUrl": "https://www.engadget.com/2314873/surface-laptop-ultra-review/",
+      "category": "Hardware",
+      "filterTags": [
+        "Microsoft",
+        "Surface",
+        "NVIDIA",
+        "RTX Spark"
+      ],
+      "publishedAt": "2026-11-13T13:00:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Graphics"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "e-peas-introduces-pmics-for-energy-harvesting-and-5-v-charging",
+      "title": "e-peas Introduces PMICs for Energy Harvesting and 5-V Charging",
+      "dek": "The tree pin-compatible e-peas PMICs let manufacturers develop energy-harvesting and 5 V-charging products from a common PCB design. \n The post  e-peas Introduces PMICs for Energy Harvesting and 5-V Charging  appeared first on  Power Electronics News .",
+      "aiSummary": "e-peas has introduced a series of power management integrated circuits (PMICs) designed for energy harvesting and 5-volt charging applications. These three-pin compatible components allow manufacturers to create products using a common PCB design.",
+      "articleUrl": "https://www.powerelectronicsnews.com/e-peas-introduces-pmics-for-energy-harvesting-and-5-v-charging/",
+      "category": "Hardware",
+      "filterTags": [
+        "e-peas",
+        "PMIC",
+        "Energy Harvesting",
+        "Power Electronics"
+      ],
+      "publishedAt": "2026-11-13T13:00:00+00:00",
+      "publisher": {
+        "name": "Power Electronics News",
+        "domain": "powerelectronicsnews.com",
+        "website": "https://www.powerelectronicsnews.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Power Management"
+        }
+      ]
+    },
+    {
+      "slug": "bloomberg-details-web-of-chinese-ai-companies-with-smuggled-nvidia-chips-linked-to-alice-huang",
+      "title": "Bloomberg details web of Chinese AI companies with smuggled NVIDIA chips linked to Alice Huang",
+      "dek": "Bloomberg found evidence of a network of Chinese companies smuggling NVIDIA chips with Alice Huang at the center.",
+      "aiSummary": "Bloomberg has uncovered evidence of a network of Chinese companies engaged in the smuggling of NVIDIA chips. The report identifies Alice Huang as the central figure linking these entities in the illicit trade.",
+      "articleUrl": "https://www.engadget.com/2315710/bloomberg-details-web-of-chinese-ai-companies-with-smuggled-nvidia-chips-linked-to-alice-huang/",
+      "category": "AI",
+      "filterTags": [
+        "Bloomberg",
+        "NVIDIA",
+        "Alice Huang",
+        "Chinese AI companies"
+      ],
+      "publishedAt": "2026-11-13T12:58:10+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Geopolitics"
+        }
+      ]
+    },
+    {
+      "slug": "israel-s-vcs-see-opportunity-for-challengers-in-nvidia-s-turmoil",
+      "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+      "dek": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+      "aiSummary": "Many in Israel's startup ecosystem are concerned about the impact of a key figure's departure from Nvidia, given the company's dominant position in AI and its significance to the local industry. Despite these worries, Israeli venture capitalists view the turmoil as an opportunity for challengers to emerge.",
+      "articleUrl": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+      "category": "AI",
+      "filterTags": [
+        "Nvidia",
+        "AI",
+        "Israel",
+        "Venture Capital"
+      ],
+      "publishedAt": "2026-11-13T12:52:19+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Venture Capital"
+        },
+        {
+          "name": "Semiconductors"
+        }
+      ]
+    },
+    {
+      "slug": "i-interviewed-huang-at-peak-jensenmania-three-weeks-later-nvidia-is-grappling-with-a-world-without-him",
+      "title": "I interviewed Huang at peak ‘Jensenmania.’ Three weeks later, Nvidia is grappling with a world without him",
+      "dek": "CNBC's Arjun Kharpal, who interviewed Huang just a few weeks ago at GTC Berlin, unpacks how everything came crashing down for the popular CEO.",
+      "aiSummary": "CNBC journalist Arjun Kharpal interviewed Nvidia CEO Jensen Huang at GTC Berlin. He later explains how the company has fallen into trouble after Huang's departure.",
+      "articleUrl": "https://www.cnbc.com/2026/11/13/tech-download-jensen-huang-nvidia-departure-jensenmania.html",
+      "category": "Technology",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "GTC"
+      ],
+      "publishedAt": "2026-11-13T12:46:12+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Business"
+        },
+        {
+          "name": "Leadership"
+        }
+      ]
+    },
+    {
+      "slug": "apple-alphabet-and-uber-survived-major-founder-transitions-nvidia-will-be-a-harder-test",
+      "title": "Apple, Alphabet and Uber survived major founder transitions. Nvidia will be a harder test",
+      "dek": "Like Apple, Nvidia now faces its own transition away from a founder-led company. But experts say Jensen Huang’s central role could make replacing him difficult.",
+      "aiSummary": "Apple, Alphabet, and Uber have successfully navigated significant founder transitions. Nvidia is now moving away from founder leadership, but experts warn that Jensen Huang’s central role could make it difficult to replace him.",
+      "articleUrl": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-founder-ceo-transition.html",
+      "category": "Technology",
+      "filterTags": [
+        "Apple",
+        "Alphabet",
+        "Uber",
+        "Nvidia",
+        "Jensen Huang"
+      ],
+      "publishedAt": "2026-11-13T12:44:20+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Leadership"
+        },
+        {
+          "name": "Business Strategy"
+        }
+      ]
+    },
+    {
+      "slug": "gps-police-and-pharmacies-among-uk-services-affected-by-microsoft-outage",
+      "title": "GPs, police and pharmacies among UK services affected by Microsoft outage",
+      "dek": "Major airports and intelligence services are unaffected while the government is assessing the impact on its services.",
+      "aiSummary": "A Microsoft outage has impacted various UK services, including general practices, police, and pharmacies. Major airports and intelligence services remain unaffected, while the government is currently assessing the broader impact on its operations.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss",
+      "category": "IT Infrastructure",
+      "filterTags": [
+        "Microsoft",
+        "UK",
+        "Outage"
+      ],
+      "publishedAt": "2026-11-13T12:43:27+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "IT Infrastructure"
+        },
+        {
+          "name": "Public Sector"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-s-biggest-risk-is-product-pace-windsor",
+      "title": "Nvidia’s Biggest Risk Is Product Pace: Windsor",
+      "dek": "Radio Free Mobile founder Richard Windsor says the immediate damage to Nvidia is reputational, with its products, contracts and financial outlook still intact. He says the critical test for Jensen Huang’s successor will be maintaining the rapid product-development cycle that unde",
+      "aiSummary": "Richard Windsor, founder of Radio Free Mobile, says Nvidia's immediate damage is reputational, while its products, contracts and financial outlook remain intact. He argues that the biggest risk for Nvidia is the pace of product development, and that the new CEO will be judged on maintaining this rapid cycle.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-11-13/nvidia-s-biggest-risk-is-product-pace-windsor",
+      "category": "Semiconductors",
+      "filterTags": [
+        "Nvidia",
+        "Radio Free Mobile",
+        "Jensen Huang"
+      ],
+      "publishedAt": "2026-11-13T12:41:23+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Business Strategy"
+        },
+        {
+          "name": "Leadership"
+        }
+      ]
+    },
+    {
+      "slug": "cooling-for-high-performance-modules-hydrogen-plasma-passivation-for-gan-hemts-why-application-fit-matters-more-than-tec",
+      "title": "Cooling for High-Performance Modules, Hydrogen Plasma Passivation for GaN HEMTs, Why Application Fit Matters More than Technology: Power Electronics Week Insights",
+      "dek": "Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on Cooling for High-Performance Modules, Hydrogen Plasma Passivation for GaN HEMTs, and Why Application Fit Matters More than Technology! \n The post  Cooling for High-Performance Modules",
+      "aiSummary": "This roundup highlights recent developments in power electronics, focusing on cooling solutions for high-performance modules and hydrogen plasma passivation for GaN HEMTs. It also emphasizes the importance of prioritizing application fit over specific technology choices.",
+      "articleUrl": "https://www.powerelectronicsnews.com/cooling-for-high-performance-modules-hydrogen-plasma-passivation-for-gan-hemts-why-application-fit-matters-more-than-technology-power-electronics-week-insights/",
+      "category": "Power Electronics",
+      "filterTags": [
+        "GaN HEMTs",
+        "Power Electronics",
+        "Hydrogen Plasma Passivation",
+        "Module Cooling"
+      ],
+      "publishedAt": "2026-11-13T12:36:27+00:00",
+      "publisher": {
+        "name": "Power Electronics News",
+        "domain": "powerelectronicsnews.com",
+        "website": "https://www.powerelectronicsnews.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Power Electronics"
+        },
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "jensen-huang-didn-t-show-confidence-in-his-successor-report-says",
+      "title": "Jensen Huang didn’t show confidence in his successor, report says",
+      "dek": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
+      "aiSummary": "During a summer meeting, Jensen Huang referred to his successor, Kress, as a \"deer in the headlights\", indicating uncertainty about his readiness. The report suggests Huang was hesitant about Kress's ability to take over.",
+      "articleUrl": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+      "category": "Corporate Leadership",
+      "filterTags": [
+        "Jensen Huang",
+        "Kress"
+      ],
+      "publishedAt": "2026-11-13T12:28:23+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Corporate Leadership"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "give-your-child-more-freedom-with-the-right-iphone-and-ipad-guardrails",
+      "title": "Give your child more freedom with the right iPhone and iPad guardrails",
+      "dek": "Apple's iOS 27 parental controls help you manage your child's apps, contacts, and screen time. Here's how to get started. How to set up iOS 27 parental controls on iPhone and iPad Technology, including  iPhone  and iPad, gives children opportunities to learn, create, and connect ",
+      "aiSummary": "Apple's iOS 27 introduces parental controls that allow users to manage their children's app usage, contacts, and screen time on iPhone and iPad. These features are designed to balance the opportunities for learning and connection with necessary digital boundaries.",
+      "articleUrl": "https://appleinsider.com/inside/ios-27/tips/give-your-child-more-freedom-with-the-right-iphone-and-ipad-guardrails?utm_source=rss",
+      "category": "Consumer Tech",
+      "filterTags": [
+        "Apple",
+        "iOS 27",
+        "iPhone",
+        "iPad",
+        "Parental Controls"
+      ],
+      "publishedAt": "2026-11-13T12:22:03+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Tech"
+        },
+        {
+          "name": "Parenting"
+        },
+        {
+          "name": "Mobile"
+        }
+      ]
+    },
+    {
+      "slug": "how-to-check-local-llm-output-with-ollama-gemma-4-and-nimble",
+      "title": "How to Check Local LLM Output with Ollama, Gemma 4, and Nimble",
+      "dek": "Gemma 4 E2B drafts the replies, Bespoke Labs' Nimble 9B picks accept, revise, or human review, and only flagged questions get a focused retry. \n The post  How to Check Local LLM Output with Ollama, Gemma 4, and Nimble  appeared first on  Towards Data Science .",
+      "aiSummary": "Gemma 4 E2B generates draft responses. Bespoke Labs' Nimble 9B then selects whether to accept, revise, or send the reply for human review. Only questions flagged by Nimble trigger a focused retry.",
+      "articleUrl": "https://towardsdatascience.com/how-to-check-local-llm-output-with-ollama-gemma-4-and-nimble/",
+      "category": "AI",
+      "filterTags": [
+        "Ollama",
+        "Gemma 4",
+        "Nimble",
+        "Bespoke Labs"
+      ],
+      "publishedAt": "2026-11-13T12:00:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "let-s-talk-about-jensen-huang-s-many-affairs",
+      "title": "Let’s talk about Jensen Huang’s many affairs!",
+      "dek": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approachi",
+      "aiSummary": "The piece highlights uncertainty about Nvidia’s current situation and mentions Jensen Huang’s numerous new relationships. The author admits they lack answers and expresses concern about the developments.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+      "category": "Technology",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Nilay"
+      ],
+      "publishedAt": "2026-11-13T12:00:00+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Business"
+        },
+        {
+          "name": "Corporate Culture"
+        }
+      ]
+    },
+    {
+      "slug": "this-startup-is-betting-on-ai-microdramas-to-get-more-black-stories-in-hollywood",
+      "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
+      "dek": "Mansa says its AI microdramas can serve as proofs of concept for what Black audiences want. Critics say the studio is selling out.",
+      "aiSummary": "The startup Mansa is developing AI microdramas intended to act as proofs of concept for content that resonates with Black audiences. While the company aims to increase representation in Hollywood, critics argue that the studio is compromising its values by adopting this approach.",
+      "articleUrl": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/",
+      "category": "AI",
+      "filterTags": [
+        "Mansa",
+        "AI",
+        "Hollywood"
+      ],
+      "publishedAt": "2026-11-13T11:45:00+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Entertainment"
+        }
+      ]
+    },
+    {
+      "slug": "the-complete-guide-to-llm-evaluation",
+      "title": "The Complete Guide to LLM Evaluation",
+      "dek": "In this article, you will learn how to evaluate LLM applications systematically, from choosing scorers and designing reliable LLM judges to evaluating RAG systems and...",
+      "aiSummary": "The article explains systematic methods for evaluating large language model applications. It covers selecting appropriate scorers, building reliable LLM judges, and assessing Retrieval-Augmented Generation (RAG) systems.",
+      "articleUrl": "https://machinelearningmastery.com/the-complete-guide-to-llm-evaluation/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "LLM",
+        "scorers",
+        "LLM judges",
+        "RAG systems"
+      ],
+      "publishedAt": "2026-11-13T11:00:00+00:00",
+      "publisher": {
+        "name": "Jason Brownlee",
+        "domain": "machinelearningmastery.com",
+        "website": "https://machinelearningmastery.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=machinelearningmastery.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=machinelearningmastery.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Natural Language Processing"
+        }
+      ]
+    },
+    {
+      "slug": "whoop-humans-is-a-social-network-designed-for-fitness-enthusiasts",
+      "title": "Whoop Humans is a social network designed for fitness enthusiasts",
+      "dek": "Whoop, a company that makes screenless fitness trackers, has launched its own social network.",
+      "aiSummary": "Whoop, a company known for producing screenless fitness trackers, has launched a dedicated social network. The platform is specifically designed to serve the community of fitness enthusiasts.",
+      "articleUrl": "https://www.engadget.com/2315689/whoop-humans-is-a-social-network-designed-for-fitness-enthusiasts/",
+      "category": "Health Tech",
+      "filterTags": [
+        "Whoop",
+        "fitness trackers",
+        "social network"
+      ],
+      "publishedAt": "2026-11-13T10:39:44+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Health Tech"
+        },
+        {
+          "name": "Social Media"
+        }
+      ]
+    },
+    {
+      "slug": "google-releases-tpu-sync-open-source-kv-cache-transfer-for-tpus",
+      "title": "Google Releases TPU Sync: Open-Source KV Cache Transfer for TPUs",
+      "dek": "Google released TPU Sync, an open-source C++ library that moves KV caches and weights across TPU HBM, host DRAM, storage and network. Google reports over 90% lower KV transfer latency on 235B to 480B MoE models. \n The post  Google Releases TPU Sync: Open-Source KV Cache Transfer ",
+      "aiSummary": "Google has released TPU Sync, an open-source C++ library that transfers key‑value caches and model weights between TPU high‑bandwidth memory, host DRAM, storage, and the network. The company claims the tool reduces KV transfer latency by more than 90% on models ranging from 235 billion to 480 billion parameters.",
+      "articleUrl": "https://www.marktechpost.com/2026/11/13/google-tpu-sync-kv-cache-transfer-library/",
+      "category": "Hardware",
+      "filterTags": [
+        "Google",
+        "TPU",
+        "C++",
+        "KV Cache",
+        "MoE",
+        "HBM",
+        "DRAM"
+      ],
+      "publishedAt": "2026-11-13T10:32:26+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-lost-its-founding-c-e-o-can-it-keep-its-momentum",
+      "title": "Nvidia Lost Its Founding C.E.O. Can It Keep Its Momentum?",
+      "dek": "Throughout the years, tech giants have had mixed records after losing visionary founders who propelled their success. Successors with tech expertise helps.",
+      "aiSummary": "The article discusses how tech giants have mixed outcomes after losing their visionary founders. It notes that successors with technical expertise can help maintain momentum.",
+      "articleUrl": "https://www.nytimes.com/2026/11/13/technology/nvidia-lost-its-founding-ceo-can-it-keep-its-momentum.html",
+      "category": "Business",
+      "filterTags": [
+        "Nvidia"
+      ],
+      "publishedAt": "2026-11-13T10:04:17+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Business"
+        },
+        {
+          "name": "Leadership"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "how-fat-are-ai-trading-bots-fingers",
+      "title": "How fat are AI trading bots’ fingers?",
+      "dek": "Sizing up the risks",
+      "aiSummary": "The article examines how AI trading bots can make large, potentially risky trades. It evaluates the risks these bots pose to markets.",
+      "articleUrl": "https://www.ft.com/content/b2286012-26ec-4440-834e-580288f20ad0",
+      "category": "Finance",
+      "filterTags": [
+        "AI trading bots",
+        "trading bots"
+      ],
+      "publishedAt": "2026-11-13T09:59:01+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Risk Management"
+        }
+      ]
+    },
+    {
+      "slug": "google-releases-gemini-4-hydrogen-2-5x-faster-than-gemini-3-8-flash",
+      "title": "Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash",
+      "dek": "Google released Gemini 4 Hydrogen, a fast agentic model with a 1M-token window, 4 thinking levels and $1.50/$7.50 pricing. Google reports a 51 Artificial Analysis score and 57% on Terminal-Bench 4.1. \n The post  Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash",
+      "aiSummary": "Google has released Gemini 4 Hydrogen, an agentic model featuring a 1M-token context window and four thinking levels. The model is priced at $1.50 per million input tokens and $7.50 per million output tokens, with reported performance scores of 51 on Artificial Analysis and 57% on Terminal-Bench 4.1.",
+      "articleUrl": "https://www.marktechpost.com/2026/11/13/google-gemini-4-hydrogen/",
+      "category": "AI",
+      "filterTags": [
+        "Google",
+        "Gemini 4 Hydrogen",
+        "Gemini 3.8 Flash",
+        "Agentic AI"
+      ],
+      "publishedAt": "2026-11-13T09:45:48+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-scandal-howard-lutnick-under-pressure-over-alleged-lack-of-action",
+      "title": "Nvidia scandal: Howard Lutnick under pressure over alleged lack of action",
+      "dek": "US commerce secretary faces sack as warnings emerge about alleged Chinese spy’s ties to Jensen Huang and delays in adding Megaspeed to trade blacklist Analysis: Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached? One of Donald Trump’s top lieutena",
+      "aiSummary": "Howard Lutnick, the U.S. Commerce Secretary, is under scrutiny after warnings surfaced that a suspected Chinese spy had ties to Nvidia CEO Jensen Huang. The allegations also involve delays in listing the company Megaspeed on the trade blacklist. The situation has raised concerns about potential security breaches at Nvidia.",
+      "articleUrl": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
+      "category": "Security",
+      "filterTags": [
+        "Nvidia",
+        "Megaspeed",
+        "Jensen Huang",
+        "US Commerce Department"
+      ],
+      "publishedAt": "2026-11-13T09:41:22+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Government"
+        }
+      ]
+    },
+    {
+      "slug": "chinese-ai-sell-off-deepens-over-fears-of-tougher-nvidia-chip-restrictions",
+      "title": "Chinese AI sell-off deepens over fears of tougher Nvidia chip restrictions",
+      "dek": "Ousted chief executive Jensen Huang had supported keeping sales open to China",
+      "aiSummary": "The article notes that former Nvidia CEO Jensen Huang had supported keeping sales open to China. This context is tied to a broader sell‑off in Chinese AI stocks driven by fears of tighter Nvidia chip restrictions.",
+      "articleUrl": "https://www.ft.com/content/0d4e93e4-895e-4ae0-a01b-833a3ed440a8?syn-25a6b1a6=1",
+      "category": "AI",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "China"
+      ],
+      "publishedAt": "2026-11-13T09:07:28+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Geopolitics"
+        }
+      ]
+    },
+    {
+      "slug": "ainews-jensen-huang-resigns-after-33-years-leading-nvidia",
+      "title": "[AINews] Jensen Huang resigns after 33 years leading NVIDIA",
+      "dek": "November 12, 2026 — Colette Kress takes over as interim CEO. What happens to open source/American AI leadership?",
+      "aiSummary": "Jensen Huang has resigned from his position leading NVIDIA after 33 years of service. Colette Kress has been appointed as the interim CEO to take over leadership responsibilities.",
+      "articleUrl": "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/",
+      "category": "AI",
+      "filterTags": [
+        "NVIDIA",
+        "Jensen Huang",
+        "Colette Kress"
+      ],
+      "publishedAt": "2026-11-13T09:04:13+00:00",
+      "publisher": {
+        "name": "Latent Space",
+        "domain": "latent.space",
+        "website": "https://www.latent.space/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Corporate Leadership"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "agentic-search-doesn-t-find-pages-it-assembles-answers",
+      "title": "Agentic search doesn't find pages, it assembles answers",
+      "dek": "Ryan sits down with Jeff Wang, co-founder at EXA, to talk about the huge scale required to support trillions of agentic searches, the technical complexities of building custom embeddings and performant vector databases from scratch, and the need to dedupe the massive amounts of r",
+      "aiSummary": "In a conversation with Jeff Wang, co‑founder of EXA, Ryan discusses the enormous scale needed to support trillions of agentic searches, the challenges of creating custom embeddings and high‑performance vector databases from scratch, and the importance of deduplicating large volumes of data.",
+      "articleUrl": "https://stackoverflow.blog/2026/11/13/agentic-doesn-t-find-pages-it-assembles-answers/",
+      "category": "AI",
+      "filterTags": [
+        "EXA",
+        "embeddings",
+        "vector databases",
+        "agentic search"
+      ],
+      "publishedAt": "2026-11-13T08:40:00+00:00",
+      "publisher": {
+        "name": "Stack Overflow Blog",
+        "domain": "stackoverflow.blog",
+        "website": "https://stackoverflow.blog",
+        "logoUrl": "https://stackoverflow.blog/apple-touch-icon.png",
+        "faviconUrl": "https://stackoverflow.blog/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Search"
+        },
+        {
+          "name": "Data Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "ai-agents-shouldn-t-have-to-pretend-to-be-us",
+      "title": "AI agents shouldn’t have to pretend to be us",
+      "dek": "Service providers from banks to online platforms need to offer a standard channel of access on fair terms",
+      "aiSummary": "Service providers, including banks and online platforms, are urged to establish a standard access channel for AI agents. This approach ensures that these agents can operate on fair terms without needing to simulate human identity.",
+      "articleUrl": "https://www.ft.com/content/069cdc48-e17a-430b-818c-93894768706f?syn-25a6b1a6=1",
+      "category": "AI",
+      "filterTags": [
+        "AI agents",
+        "Service providers",
+        "Banks",
+        "Online platforms"
+      ],
+      "publishedAt": "2026-11-13T07:12:26+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Business Strategy"
+        },
+        {
+          "name": "Regulation"
+        }
+      ]
+    },
+    {
+      "slug": "have-we-finally-found-a-valid-use-case-for-ai-meet-pino-the-autonomous-virtual-kiwi-first-dog-on-the-moon",
+      "title": "Have we finally found a valid use case for AI? Meet Pino the autonomous virtual kiwi | First Dog on the Moon",
+      "dek": "Pino noodles about making his own AI decisions. He has decided independently that he is into trains and cats. Aren’t we all Sign up here to get an email  whenever First Dog cartoons are published Get all your needs met at the First Dog shop  if what you need is First Dog merchand",
+      "aiSummary": "Pino, an autonomous virtual kiwi, makes its own AI-driven decisions. It has independently developed interests in trains and cats. The article is published by 'First Dog on the Moon', which also offers related cartoons and merchandise.",
+      "articleUrl": "https://www.theguardian.com/commentisfree/picture/2026/nov/13/have-we-finally-found-a-valid-use-case-for-ai-meet-pino-the-autonomous-virtual-kiwi",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Pino",
+        "Virtual Kiwi",
+        "First Dog on the Moon"
+      ],
+      "publishedAt": "2026-11-13T05:35:13+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Digital Content"
+        },
+        {
+          "name": "Entertainment"
+        }
+      ]
+    },
+    {
+      "slug": "zugwise-domain-aware-game-reconstruction-for-digitizing-handwritten-chess-scoresheets",
+      "title": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets",
+      "dek": "arXiv:2611.14544v1 Announce Type: new \nAbstract: Digitizing handwritten chess scoresheets has been studied as a handwriting-recognition problem: read the move in each box and check that it is legal. This framing misses the errors that matter most. A misread that yields an illegal",
+      "aiSummary": "The paper introduces Zugwise, a method for digitizing handwritten chess scoresheets that goes beyond standard handwriting recognition. By incorporating domain-aware game reconstruction, the system addresses critical errors that simple legality checks might miss.",
+      "articleUrl": "https://arxiv.org/abs/2611.14544",
+      "category": "AI",
+      "filterTags": [
+        "Zugwise",
+        "Chess",
+        "Handwriting Recognition",
+        "arXiv"
+      ],
+      "publishedAt": "2026-11-13T05:00:00+00:00",
+      "publisher": {
+        "name": "arXiv cs.AI",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.AI",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Computer Vision"
+        },
+        {
+          "name": "Data Digitization"
+        }
+      ]
+    },
+    {
+      "slug": "cleaning-an-agent-s-history-hurts-when-the-world-still-holds-the-error",
+      "title": "Cleaning an Agent's History Hurts When the World Still Holds the Error",
+      "dek": "arXiv:2611.14654v1 Announce Type: new \nAbstract: Tool-using language-model agents accumulate histories of their own mistakes, and a system that compacts, repairs or hands off such a history decides what it says about those mistakes while their effects stay in the world. Prior wor",
+      "aiSummary": "A new study examines how tool-using language model agents accumulate histories of mistakes. It highlights that systems which compact or repair these histories face a challenge when the effects of past errors persist in the external world.",
+      "articleUrl": "https://arxiv.org/abs/2611.14654",
+      "category": "AI",
+      "filterTags": [
+        "language-model agents",
+        "arXiv",
+        "tool-using agents"
+      ],
+      "publishedAt": "2026-11-13T05:00:00+00:00",
+      "publisher": {
+        "name": "arXiv cs.AI",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.AI",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Research"
+        }
+      ]
+    },
+    {
+      "slug": "together-compiler-continual-compilation-for-ai-inference",
+      "title": "Together Compiler: Continual Compilation for AI Inference",
+      "dek": "arXiv:2611.14681v1 Announce Type: new \nAbstract: Today's AI workloads are rapidly changing: new models are released more often, model architectures are increasingly diverse, and traffic distributions change frequently. The challenge we face at Together AI is continual optimizatio",
+      "aiSummary": "The paper discusses the need for continual optimization of AI inference workloads as models and traffic patterns change rapidly. Together AI proposes a compiler that can adapt to new models, diverse architectures, and shifting traffic distributions to maintain performance. This approach addresses the challenge of keeping inference efficient amid evolving workloads.",
+      "articleUrl": "https://arxiv.org/abs/2611.14681",
+      "category": "AI",
+      "filterTags": [
+        "Together AI",
+        "compiler",
+        "AI inference",
+        "continual compilation"
+      ],
+      "publishedAt": "2026-11-13T05:00:00+00:00",
+      "publisher": {
+        "name": "arXiv cs.AI",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.AI",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Compiler Technology"
+        }
+      ]
+    },
+    {
+      "slug": "ai-ambition-artcraft-cloned-photoshop-and-now-wants-to-rebuild-everything",
+      "title": "AI Ambition: ArtCraft Cloned Photoshop and Now Wants to \"Rebuild Everything\"",
+      "dek": "ArtCraft used AI to rewrite Photoshop as open source software. For CEO Brandon Thomas, the vision is even bigger: to take back the internet!",
+      "aiSummary": "ArtCraft has used AI to create an open-source version of Photoshop. CEO Brandon Thomas says the company plans to expand beyond software and aims to 'take back the internet'.",
+      "articleUrl": "https://latent.space/p/artcraft/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "ArtCraft",
+        "Photoshop",
+        "AI",
+        "Open Source"
+      ],
+      "publishedAt": "2026-11-13T04:17:25+00:00",
+      "publisher": {
+        "name": "Latent Space",
+        "domain": "latent.space",
+        "website": "https://www.latent.space/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "jensen-huang-resigns-spacex-tesla-merger-progress-state-of-slop",
+      "title": "Jensen Huang resigns 💼, SpaceX Tesla merger progress 🤝, state of slop 👨‍💻",
+      "dek": "Jensen Huang steps down, and talks about combining SpaceX and Tesla are moving forward.",
+      "aiSummary": "The article reports that Jensen Huang has resigned from his position. It also notes that progress is being made on a merger between SpaceX and Tesla, while discussing the current state of 'slop' in the tech industry.",
+      "articleUrl": "https://tldr.tech/tech/2026-11-13",
+      "category": "Business",
+      "filterTags": [
+        "Jensen Huang",
+        "SpaceX",
+        "Tesla",
+        "slop"
+      ],
+      "publishedAt": "2026-11-13T00:00:00+00:00",
+      "publisher": {
+        "name": "TLDR",
+        "domain": "tldr.tech",
+        "website": "https://tldr.tech/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=tldr.tech&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=tldr.tech&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Business"
+        },
+        {
+          "name": "Space"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "attention-android-power-users-this-app-unlocks-30-features-you-won-t-find-in-settings",
+      "title": "Attention, Android power users: This app unlocks 30+ features you won’t find in Settings",
+      "dek": "Is Android Settings not delivering enough power? The Essentials app features 30+ mods and tweaks – but you won’t find it in the Play Store",
+      "aiSummary": "The Essentials app offers more than 30 modifications and tweaks for Android users who find the standard settings insufficient. This application, which enhances device capabilities, is not available through the Google Play Store.",
+      "articleUrl": "https://www.zdnet.com/tech/essentials-android-app-power-user-settings/",
+      "category": "Mobile",
+      "filterTags": [
+        "Android",
+        "Essentials app",
+        "Play Store"
+      ],
+      "publishedAt": "2026-11-12T18:15:00+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Mobile"
+        },
+        {
+          "name": "Software"
+        },
+        {
+          "name": "Utilities"
+        }
+      ]
+    },
+    {
+      "slug": "opening-the-datasets-behind-our-ai-weather-models",
+      "title": "Opening the datasets behind our AI weather models",
+      "dek": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+      "aiSummary": "The article introduces the foundational datasets used to train AI weather models. It specifically highlights precipitation data and geostationary satellite imagery as key components for observing the planet.",
+      "articleUrl": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+      "category": "AI",
+      "filterTags": [
+        "AI weather models",
+        "precipitation datasets",
+        "geostationary satellite"
+      ],
+      "publishedAt": "2026-11-10T11:13:04+00:00",
+      "publisher": {
+        "name": "Google DeepMind",
+        "domain": "deepmind.google",
+        "website": "https://deepmind.google/",
+        "logoUrl": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/icons/google_deepmind_2x_96dp.png",
+        "faviconUrl": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/icons/google_deepmind_2x_96dp.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Climate Science"
+        },
+        {
+          "name": "Data Science"
+        }
+      ]
+    }
+  ]
+}
