@@ -1,0 +1,1735 @@
+{
+  "news": [
+    {
+      "slug": "how-the-jensen-huang-scandal-created-a-headache-for-business-friendly-singapore",
+      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+      "dek": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
+      "aiSummary": "The scandal involving Jensen Huang has drawn attention to Singapore's role as a major hub for the chip industry. It has also highlighted concerns regarding the location's potential involvement in alleged illicit trade.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+      "category": "Semiconductors",
+      "filterTags": [
+        "Jensen Huang",
+        "Singapore",
+        "Chip Industry"
+      ],
+      "publishedAt": "2026-11-13T23:00:31+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Geopolitics"
+        },
+        {
+          "name": "Trade"
+        }
+      ]
+    },
+    {
+      "slug": "some-international-physical-copies-of-gta-vi-can-allegedly-be-redeemed-without-opening-the-box",
+      "title": "Some international physical copies of GTA VI can allegedly be redeemed without opening the box",
+      "dek": "The box was already for decoration, and now maybe more so.",
+      "aiSummary": "Allegations indicate that some international physical copies of Grand Theft Auto VI can be redeemed without opening the packaging. This development further diminishes the practical necessity of the physical box, which was already primarily for decorative purposes.",
+      "articleUrl": "https://www.engadget.com/2316687/some-physical-copies-of-gta-vi-can-allegedly-be-redeemed-without-opening-the-box/",
+      "category": "Gaming",
+      "filterTags": [
+        "GTA VI",
+        "Rockstar Games",
+        "Physical Media"
+      ],
+      "publishedAt": "2026-11-13T22:50:13+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "Entertainment"
+        }
+      ]
+    },
+    {
+      "slug": "jensen-huang-s-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "dek": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "aiSummary": "Venture capitalists and founders state that Jensen Huang's departure from Nvidia will create a significant gap in AI startup funding. They anticipate that without his leadership, investment checks will become smaller and company valuations will decrease.",
+      "articleUrl": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "category": "AI",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "AI startups",
+        "Venture Capital"
+      ],
+      "publishedAt": "2026-11-13T22:43:00+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Venture Capital"
+        },
+        {
+          "name": "Technology Leadership"
+        }
+      ]
+    },
+    {
+      "slug": "microsoft-s-global-outage-and-fixes-what-we-know",
+      "title": "Microsoft’s Global Outage and Fixes: What We Know",
+      "dek": "The company described “encouraging” progress on efforts to overcome a second day of disruptions to its email, messaging and other services.",
+      "aiSummary": "Microsoft has reported \"encouraging\" progress in addressing a second day of disruptions affecting its email, messaging, and other services. The company is actively working to overcome the global outage that has impacted various platforms.",
+      "articleUrl": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
+      "category": "Cloud Computing",
+      "filterTags": [
+        "Microsoft",
+        "Outage",
+        "Email",
+        "Messaging"
+      ],
+      "publishedAt": "2026-11-13T22:30:39+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "IT Operations"
+        }
+      ]
+    },
+    {
+      "slug": "route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard",
+      "title": "Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard",
+      "dek": "Coding agents work in tasks, and the number that matters is cost per solved task, not price per token. In this post, you use the AWS CDK to deploy LiteLLM with the NVIDIA NeMo Switchyard routing plugin on Amazon Bedrock, then measure cost per solved task for a routed model group ",
+      "aiSummary": "This post demonstrates how to deploy LiteLLM with the NVIDIA NeMo Switchyard routing plugin on Amazon Bedrock using AWS CDK. It focuses on measuring the cost per solved task for a routed model group, emphasizing that task efficiency is more important than token price for coding agents.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/",
+      "category": "AI",
+      "filterTags": [
+        "Amazon Bedrock",
+        "NVIDIA NeMo Switchyard",
+        "LiteLLM",
+        "AWS CDK",
+        "Coding Agents"
+      ],
+      "publishedAt": "2026-11-13T22:30:12+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Infrastructure"
+        },
+        {
+          "name": "Cost Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-is-done-with-jensen-huang-the-fallout-in-washington-is-just-beginning",
+      "title": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
+      "dek": "The Republican-led Congress wants to see Jensen Huang in Washington before Democrats take control in January.",
+      "aiSummary": "The Republican-led Congress is seeking to meet with Jensen Huang in Washington before Democrats assume control in January. This move follows Nvidia's decision to end its association with Huang, triggering early political fallout.",
+      "articleUrl": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html",
+      "category": "Politics",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Congress",
+        "Washington"
+      ],
+      "publishedAt": "2026-11-13T22:28:19+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "match-group-keeping-ai-out-of-dating",
+      "title": "Match Group Keeping AI Out of Dating",
+      "dek": "Match Group is embracing artificial intelligence across its business, but CEO Spencer Rascoff says AI agents won't be allowed to date for users on Tinder, Hinge and its other apps. Rascoff says Match wants its platforms to remain a “human-only zone,” even as the company uses AI t",
+      "aiSummary": "Match Group is integrating artificial intelligence into its business operations, but CEO Spencer Rascoff has stated that AI agents will not be permitted to date on platforms like Tinder and Hinge. The company aims to keep its services a 'human-only zone' despite the broader adoption of AI tools.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-11-13/match-group-keeping-ai-out-of-dating-video",
+      "category": "AI",
+      "filterTags": [
+        "Match Group",
+        "Tinder",
+        "Hinge",
+        "AI agents",
+        "Spencer Rascoff"
+      ],
+      "publishedAt": "2026-11-13T22:20:58+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Consumer Tech"
+        },
+        {
+          "name": "Social Media"
+        }
+      ]
+    },
+    {
+      "slug": "architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime",
+      "title": "Architecture patterns for fast session startup on Amazon Bedrock AgentCore runtime",
+      "dek": "Amazon Bedrock AgentCore runtime V2 snapshots your initialized environment and restores it for each new session, so session start no longer grows with image size. This post explains how V2 starts a session, how to measure session start time, and four patterns to keep work off the",
+      "aiSummary": "Amazon Bedrock AgentCore runtime V2 uses environment snapshots to ensure session startup time remains constant regardless of image size. The article details the V2 session start process, methods for measuring startup latency, and four architectural patterns designed to minimize initialization overhead.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime/",
+      "category": "Cloud Computing",
+      "filterTags": [
+        "Amazon Bedrock",
+        "AgentCore",
+        "Runtime V2",
+        "Session Startup",
+        "Architecture Patterns"
+      ],
+      "publishedAt": "2026-11-13T22:02:39+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "AI Infrastructure"
+        },
+        {
+          "name": "Performance Optimization"
+        }
+      ]
+    },
+    {
+      "slug": "fbi-said-to-probe-whether-software-update-caused-mass-faa-outage",
+      "title": "FBI Said to Probe Whether Software Update Caused Mass FAA Outage",
+      "dek": "The Federal Bureau of Investigation doesn’t believe the communication issue affecting air traffic control was due to a cyberattack or criminality, said a person familiar with the matter. One area of inquiry is whether the outage was caused by a software update, the person said.",
+      "aiSummary": "The FBI says the FAA outage was not caused by a cyberattack. They are looking into whether a software update caused the communication issue.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-13/fbi-said-to-probe-whether-software-update-caused-mass-faa-outage",
+      "category": "Security",
+      "filterTags": [
+        "FBI",
+        "FAA",
+        "software update"
+      ],
+      "publishedAt": "2026-11-13T22:01:21+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Aviation"
+        },
+        {
+          "name": "Government"
+        }
+      ]
+    },
+    {
+      "slug": "openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures",
+      "title": "OpenFold3 on Amazon SageMaker JumpStart: Predict biomolecular structures",
+      "dek": "Deploy OpenFold3-preview from Amazon SageMaker JumpStart to predict 3D structures of proteins, DNA, RNA, and ligand complexes in your own AWS account. The post covers asynchronous inference, multi-GPU parallelism, bringing your own MSAs for accuracy and privacy, and scaling to ze",
+      "aiSummary": "Users can deploy the OpenFold3-preview model via Amazon SageMaker JumpStart to predict the 3D structures of proteins, DNA, RNA, and ligand complexes within their own AWS accounts. The solution supports asynchronous inference, multi-GPU parallelism, and the use of custom multiple sequence alignments (MSAs) to enhance accuracy and privacy.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures/",
+      "category": "Bioinformatics",
+      "filterTags": [
+        "OpenFold3",
+        "Amazon SageMaker",
+        "JumpStart",
+        "AWS",
+        "Multi-GPU"
+      ],
+      "publishedAt": "2026-11-13T21:53:40+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Bioinformatics"
+        },
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-crisis-spurs-scrutiny-of-agency-that-oversees-chip-curbs",
+      "title": "Nvidia Crisis Spurs Scrutiny of Agency That Oversees Chip Curbs",
+      "dek": "The Trump administration official who runs US export control programs was looking for marquee names for his agency’s upcoming annual conference and threw an unusual option into the mix: Nvidia Corp. Chief Executive Officer Jensen Huang.",
+      "aiSummary": "The official in the Trump administration who manages US export control programs is seeking prominent speakers for his agency's annual conference. He has considered inviting Nvidia CEO Jensen Huang, a move that highlights the agency's focus on the chipmaker amidst current scrutiny.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-13/nvidia-crisis-spurs-scrutiny-of-agency-that-oversees-chip-curbs",
+      "category": "Semiconductors",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Export Control",
+        "Trump Administration"
+      ],
+      "publishedAt": "2026-11-13T21:45:38+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Government Policy"
+        },
+        {
+          "name": "Trade Regulation"
+        }
+      ]
+    },
+    {
+      "slug": "electronica-2026-infineon-s-adam-white-on-800-vdc-dresden-and-300-mm-wide-bandgap",
+      "title": "Electronica 2026: Infineon’s Adam White on 800 VDC, Dresden, and 300-mm Wide Bandgap",
+      "dek": "Infineon’s Adam White on 800 VDC progress, DC protection hurdles, Dresden’s ramp, and 300-mm GaN and SiC. \n The post  Electronica 2026: Infineon’s Adam White on 800 VDC, Dresden, and 300-mm Wide Bandgap  appeared first on  Power Electronics News .",
+      "aiSummary": "Infineon’s Adam White talked about progress on 800 VDC systems, the challenges of DC protection, the ramp‑up in Dresden, and the use of 300‑mm GaN and SiC wafers.",
+      "articleUrl": "https://www.powerelectronicsnews.com/electronica-2026-infineons-adam-white-on-800-vdc-dresden-and-300-mm-wide-bandgap/",
+      "category": "Power Electronics",
+      "filterTags": [
+        "Infineon",
+        "800 VDC",
+        "DC protection",
+        "Dresden",
+        "300-mm GaN",
+        "SiC",
+        "wide bandgap"
+      ],
+      "publishedAt": "2026-11-13T21:42:41+00:00",
+      "publisher": {
+        "name": "Power Electronics News",
+        "domain": "powerelectronicsnews.com",
+        "website": "https://www.powerelectronicsnews.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Power Electronics"
+        },
+        {
+          "name": "Semiconductor Manufacturing"
+        },
+        {
+          "name": "Wide Bandgap Technology"
+        }
+      ]
+    },
+    {
+      "slug": "what-the-choice-between-chuck-schumer-and-chris-van-hollen-for-senate-leader-is-all-about-bernie-sanders",
+      "title": "What the choice between Chuck Schumer and Chris Van Hollen for Senate leader is all about | Bernie Sanders",
+      "dek": "This is not a personality contest. This is a debate about the future of the Democratic party The election for Democratic Senate leader between Chuck Schumer and Chris Van Hollen must be understood for what it is. This is not a personality contest. This is a debate about the futur",
+      "aiSummary": "Bernie Sanders argues that the upcoming election for Democratic Senate leader between Chuck Schumer and Chris Van Hollen should not be viewed as a personality contest. Instead, he characterizes the choice as a fundamental debate regarding the future direction of the Democratic party.",
+      "articleUrl": "https://www.theguardian.com/commentisfree/2026/nov/13/chuck-schumer-chris-van-hollen-senate-leader",
+      "category": "Politics",
+      "filterTags": [
+        "Chuck Schumer",
+        "Chris Van Hollen",
+        "Bernie Sanders",
+        "Democratic Party"
+      ],
+      "publishedAt": "2026-11-13T21:28:45+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "US Government"
+        }
+      ]
+    },
+    {
+      "slug": "faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace",
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "dek": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+      "aiSummary": "The Federal Aviation Administration has expanded the use of an AI tool to manage air traffic congestion across the entire United States airspace. While airlines have praised the new system, the air traffic controllers' union was not involved in the process.",
+      "articleUrl": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "category": "Aviation",
+      "filterTags": [
+        "FAA",
+        "AI",
+        "Air Traffic Control"
+      ],
+      "publishedAt": "2026-11-13T21:20:47+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Aviation"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Transportation"
+        }
+      ]
+    },
+    {
+      "slug": "microsoft-outage-stark-reminder-of-how-much-we-rely-on-tech",
+      "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
+      "dek": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
+      "aiSummary": "Microsoft apologized for a recent outage. The company said the outage was caused by a technical failure.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
+      "category": "Technology",
+      "filterTags": [
+        "Microsoft"
+      ],
+      "publishedAt": "2026-11-13T21:15:41+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Reliability"
+        }
+      ]
+    },
+    {
+      "slug": "microsoft-deeply-sorry-for-global-outage-after-almost-24-hours-of-disruption",
+      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+      "dek": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+      "aiSummary": "Microsoft issued a statement expressing deep regret for a global outage that lasted almost 24 hours. The incident highlighted the world's heavy dependence on a few major technology providers, according to experts.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "category": "Technology",
+      "filterTags": [
+        "Microsoft"
+      ],
+      "publishedAt": "2026-11-13T21:14:22+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "Reliability"
+        }
+      ]
+    },
+    {
+      "slug": "advancing-science-engineering-with-antigravity-s-teamwork",
+      "title": "Advancing science & engineering with Antigravity’s /teamwork",
+      "dek": "Education Innovation",
+      "aiSummary": "The article highlights the use of Antigravity's /teamwork tool to advance work in science and engineering. It is categorized under education and innovation.",
+      "articleUrl": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+      "category": "Education",
+      "filterTags": [
+        "Antigravity",
+        "/teamwork"
+      ],
+      "publishedAt": "2026-11-13T20:47:18+00:00",
+      "publisher": {
+        "name": "Google Research",
+        "domain": "research.google",
+        "website": "https://research.google/",
+        "logoUrl": "https://www.gstatic.com/images/branding/googleg_gradient/1x/googleg_gradient_standard_20dp.png",
+        "faviconUrl": "https://www.gstatic.com/images/branding/googleg_gradient/1x/googleg_gradient_standard_20dp.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Education"
+        },
+        {
+          "name": "Innovation"
+        },
+        {
+          "name": "Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "chatgpt-wallet-lets-openai-s-dots-agents-make-purchases-for-you",
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "dek": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Ch",
+      "aiSummary": "OpenAI has introduced a wallet for its Dots AI agents, following the earlier launch of the agents platform. The ChatGPT Wallet is available today to ChatGPT Pro subscribers in the United States who are 18 or older, have a U.S. billing address, and use an eligible U.S.-issued American Express card. The feature enables the agents to make purchases on the user’s behalf.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "OpenAI",
+        "ChatGPT",
+        "Dots",
+        "ChatGPT Wallet",
+        "American Express"
+      ],
+      "publishedAt": "2026-11-13T20:45:10+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Payments"
+        },
+        {
+          "name": "Software"
+        }
+      ]
+    },
+    {
+      "slug": "amazon-revives-deal-with-troubled-data-centre-venture-backed-by-rick-perry",
+      "title": "Amazon revives deal with troubled data centre venture backed by Rick Perry",
+      "dek": "Tech giant agrees to be Fermi’s anchor tenant after failed talks and boardroom turmoil sent data centre group’s shares south",
+      "aiSummary": "Amazon has agreed to become the anchor tenant for Fermi, a data center venture backed by Rick Perry. This deal follows a period of failed negotiations and internal board conflicts that previously caused the company's stock price to decline.",
+      "articleUrl": "https://www.ft.com/content/692fbfe8-da52-42c0-b436-9c4aff21fbdb?syn-25a6b1a6=1",
+      "category": "Technology",
+      "filterTags": [
+        "Amazon",
+        "Fermi",
+        "Rick Perry",
+        "Data Centers"
+      ],
+      "publishedAt": "2026-11-13T20:40:40+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "epic-wants-apple-punished-for-following-letter-but-not-spirit-of-the-ruling",
+      "title": "Epic wants Apple punished for following letter but not spirit of the ruling",
+      "dek": "By any measure, Apple is precisely complying with the ruling that the Epic vs. Apple judge put down about App Store steering and fees.  In a filing  to the US Supreme Court, Epic wants Apple punished for not following the spirit of the ruling, though. The next chapter of the saga",
+      "aiSummary": "Apple is fully complying with the judge's ruling on App Store steering and fees. Epic has filed a petition with the Supreme Court seeking punishment for Apple, arguing that Apple is following the letter but not the spirit of the decision. The case continues to evolve.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/13/epic-wants-apple-punished-for-following-letter-but-not-spirit-of-the-ruling?utm_source=rss",
+      "category": "Legal",
+      "filterTags": [
+        "Epic",
+        "Apple",
+        "US Supreme Court",
+        "App Store"
+      ],
+      "publishedAt": "2026-11-13T20:34:19+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "App Store"
+        },
+        {
+          "name": "Antitrust"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-hasn-t-selected-search-firm-for-permanent-huang-replacement-board-tells-cnbc",
+      "title": "Nvidia hasn’t selected search firm for permanent Huang replacement, board tells CNBC",
+      "dek": "Speculation has swirled around who Nvidia's board will select to permanently succeed CEO Jensen Huang.",
+      "aiSummary": "Nvidia's board has not yet chosen a search firm to find a permanent replacement for CEO Jensen Huang. The board told CNBC that the search process is still pending. Speculation continues about potential successors.",
+      "articleUrl": "https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html",
+      "category": "Business",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang"
+      ],
+      "publishedAt": "2026-11-13T20:21:46+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Business"
+        },
+        {
+          "name": "Corporate Governance"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "cftc-chair-selig-tells-cnbc-crypto-industry-is-embracing-agency-rules-as-legislation-hopes-fade",
+      "title": "CFTC Chair Selig tells CNBC crypto industry is embracing agency rules as legislation hopes fade",
+      "dek": "The top U.S. commodities regulator in October announced proposed crypto rules to assert its jurisdiction over the asset class.",
+      "aiSummary": "CFTC Chair Selig stated that the crypto industry is adopting the agency's proposed rules as hopes for specific legislation have diminished. The regulator had previously announced these proposed rules in October to establish its jurisdiction over digital assets.",
+      "articleUrl": "https://www.cnbc.com/2026/11/13/cftc-chair-selig-crypto-industry-opting-into-agencys-crypto-rules-.html",
+      "category": "Regulation",
+      "filterTags": [
+        "CFTC",
+        "crypto",
+        "CNBC",
+        "Selig"
+      ],
+      "publishedAt": "2026-11-13T20:07:30+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Regulation"
+        },
+        {
+          "name": "Crypto"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "after-more-than-10-years-worth-of-folding-the-iphone-duo-still-works",
+      "title": "After more than 10 years worth of folding, the iPhone Duo still works",
+      "dek": "As it turns out, you can damage your  iPhone Duo  by opening and closing it too much, at least theoretically. Don't worry, you don't have that much time on your hands. CNET's Fold-a-Phone rig | Image credit: CNET Three weeks ago,  CNET  put the iPhone Duo on it's custom testing r",
+      "aiSummary": "CNET tested the iPhone Duo with a custom folding rig, showing that excessive opening and closing could theoretically damage the device. Despite more than ten years of folding, the phone still functions. The test demonstrates the phone’s durability under extreme use.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/13/after-more-than-10-years-worth-of-folding-the-iphone-duo-still-works?utm_source=rss",
+      "category": "Hardware",
+      "filterTags": [
+        "iPhone Duo",
+        "CNET",
+        "Fold-a-Phone rig"
+      ],
+      "publishedAt": "2026-11-13T19:43:44+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Mobile Devices"
+        },
+        {
+          "name": "Testing"
+        }
+      ]
+    },
+    {
+      "slug": "siri-ai-has-arrived-on-2021-and-newer-apple-tv-4k-models",
+      "title": "Siri AI has arrived on 2021 and newer Apple TV 4K models",
+      "dek": "Apple has released tvOS 26.2.1, and has updated an article on its support site listing the requirements for Siri AI on the set-top box. Apple TV 4K According to  Apple, Siri AI will be available via tvOS 27.2.1 on  Apple TV 4K  from the second generation onward. It also requires ",
+      "aiSummary": "Apple released tvOS 26.2.1 and updated its support site with the requirements for Siri AI on the set‑top box. The feature will be available via tvOS 27.2.1 on Apple TV 4K models from the second generation onward, and it also requires additional conditions. The update confirms that newer Apple TV 4K units can now use Siri AI.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/13/siri-ai-is-coming-to-apple-tv-4k-including-models-from-2021?utm_source=rss",
+      "category": "AI",
+      "filterTags": [
+        "Apple",
+        "tvOS",
+        "Siri AI",
+        "Apple TV 4K"
+      ],
+      "publishedAt": "2026-11-13T19:42:49+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Software"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-s-amodei-not-super-fussed-about-market-turmoil-ahead-of-ipo",
+      "title": "Anthropic’s Amodei ‘not super fussed’ about market turmoil ahead of IPO",
+      "dek": "AI lab’s chief executive brushes off tech stock turbulence less than a week before  planned $1.5tn listing",
+      "aiSummary": "Anthropic's chief executive, Dario Amodei, dismissed concerns about recent tech stock volatility less than a week before the company's planned $1.5 trillion initial public offering. He indicated that the market turmoil is not a significant concern for the AI lab as it prepares for its listing.",
+      "articleUrl": "https://www.ft.com/content/4b7b83d7-7fea-4ce2-bfe3-4f2cf75b1d82?syn-25a6b1a6=1",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "Dario Amodei",
+        "IPO",
+        "AI"
+      ],
+      "publishedAt": "2026-11-13T19:41:26+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Corporate Strategy"
+        }
+      ]
+    },
+    {
+      "slug": "ai-agent-startup-langchain-hits-3b-valuation",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "dek": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+      "aiSummary": "LangChain has announced it now has 7,000 customers for its LangSmith agent management tool, which is model- and platform-agnostic. The company has reached a $3 billion valuation.",
+      "articleUrl": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "LangChain",
+        "LangSmith"
+      ],
+      "publishedAt": "2026-11-13T19:37:57+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Software"
+        },
+        {
+          "name": "Venture Capital"
+        }
+      ]
+    },
+    {
+      "slug": "why-the-nvidia-scandal-is-far-from-over-the-latest",
+      "title": "Why the Nvidia scandal is far from over - The Latest",
+      "dek": "Jensen Huang’s resignation from the AI chipmaker Nvidia has sent shockwaves through the global economy. Huang resigned after reported affairs with an Nvidia executive and a woman alleged to be a Chinese spy. The fallout is not over yet, with criticism mounting over the apparent l",
+      "aiSummary": "Jensen Huang resigned from Nvidia amid allegations of affairs with an executive and a woman suspected of being a Chinese spy, causing global economic shock. The scandal continues as criticism grows over the situation.",
+      "articleUrl": "https://www.theguardian.com/news/video/2026/nov/13/why-the-nvidia-scandal-is-far-from-over-the-latest",
+      "category": "Technology",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang"
+      ],
+      "publishedAt": "2026-11-13T19:20:53+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Business"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "google-now-lets-people-connect-gemini-to-their-bank-accounts",
+      "title": "Google now lets people connect Gemini to their bank accounts",
+      "dek": "This is for spending analysis and not for making purchases.",
+      "aiSummary": "Google has introduced a feature allowing users to connect their bank accounts to Gemini. This integration is designed specifically for analyzing spending habits and does not support making purchases.",
+      "articleUrl": "https://www.engadget.com/2316384/google-now-lets-people-connect-gemini-to-their-bank-accounts/",
+      "category": "AI",
+      "filterTags": [
+        "Google",
+        "Gemini",
+        "Banking",
+        "Spending Analysis"
+      ],
+      "publishedAt": "2026-11-13T19:15:32+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Fintech"
+        }
+      ]
+    },
+    {
+      "slug": "microsoft-365-crawls-back-to-life-after-a-24-hour-outage",
+      "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
+      "dek": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash.",
+      "aiSummary": "Microsoft reported that a faulty update, not a cyberattack or AI, caused its servers worldwide to crash, leading to a 24‑hour outage. The company has since restored services.",
+      "articleUrl": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
+      "category": "Cloud Computing",
+      "filterTags": [
+        "Microsoft",
+        "Microsoft 365",
+        "update",
+        "servers"
+      ],
+      "publishedAt": "2026-11-13T19:08:57+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "IT Operations"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "why-the-nvidia-scandal-is-far-from-over-the-latest",
+      "title": "Why the Nvidia scandal is far from over – The Latest",
+      "dek": "Jensen Huang’s resignation from the AI chipmaker Nvidia has sent shockwaves through the global economy. Huang resigned after reported affairs with an Nvidia executive and a woman alleged to be a Chinese spy. The fallout is not over yet, with criticism mounting over the apparent l",
+      "aiSummary": "Jensen Huang resigned from Nvidia after allegations of affairs with an executive and a woman alleged to be a Chinese spy. The scandal has caused significant disruption in the global economy, and criticism continues to grow as the fallout unfolds.",
+      "articleUrl": "https://www.theguardian.com/news/audio/2026/nov/13/why-the-nvidia-scandal-is-far-from-over-the-latest",
+      "category": "Hardware",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "AI chipmaker",
+        "Chinese spy"
+      ],
+      "publishedAt": "2026-11-13T19:01:38+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Corporate Governance"
+        }
+      ]
+    },
+    {
+      "slug": "disney-s-3d-movies-shine-on-meta-s-quest-3-it-s-just-a-shame-it-took-so-long",
+      "title": "Disney's 3D movies shine on Meta's Quest 3, it's just a shame it took so long",
+      "dek": "Finally, you can watch Avatar in 3D HFR at home.",
+      "aiSummary": "Disney's 3D movies are now available on Meta's Quest 3 headset, allowing users to view titles like Avatar in 3D High Frame Rate at home. The article notes that while the visual quality is impressive, it is unfortunate that this feature took a long time to be implemented.",
+      "articleUrl": "https://www.engadget.com/2316342/meta-quest-3-disney-plus-3d-movies-hands-on/",
+      "category": "Entertainment",
+      "filterTags": [
+        "Disney",
+        "Meta",
+        "Quest 3",
+        "3D movies",
+        "Avatar",
+        "HFR"
+      ],
+      "publishedAt": "2026-11-13T19:00:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Entertainment"
+        },
+        {
+          "name": "Virtual Reality"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "wall-street-braces-for-anthropic-s-spending",
+      "title": "Wall Street Braces for Anthropic’s Spending",
+      "dek": "The company’s financial picture may get murky as it deals with employee stock compensation and the growing costs of artificial intelligence.",
+      "aiSummary": "Anthropic's financial outlook could become unclear due to rising AI costs and employee stock compensation. Investors are concerned about the company's spending.",
+      "articleUrl": "https://www.nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html",
+      "category": "Finance",
+      "filterTags": [
+        "Anthropic",
+        "Artificial Intelligence",
+        "Employee Stock Compensation"
+      ],
+      "publishedAt": "2026-11-13T18:52:43+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Corporate Finance"
+        }
+      ]
+    },
+    {
+      "slug": "export-banned-nvidia-chips-are-behind-china-s-most-powerful-ai-models-uh-oh-jensen",
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "dek": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+      "aiSummary": "Recent research indicates that China's most advanced AI models were trained using Nvidia chips that are subject to export bans. This finding highlights a significant compliance issue regarding the use of restricted hardware in developing high-performance artificial intelligence systems.",
+      "articleUrl": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "category": "AI",
+      "filterTags": [
+        "Nvidia",
+        "AI models",
+        "Export bans",
+        "Jensen"
+      ],
+      "publishedAt": "2026-11-13T18:40:30+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Geopolitics"
+        }
+      ]
+    },
+    {
+      "slug": "build-a-robot-pick-and-place-simulation-with-simready-assets",
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "dek": "This guide demonstrates how to create a virtual robot system for picking up and placing items, using pre-made digital assets.",
+      "aiSummary": "The article details the construction of a robot pick-and-place simulation. It specifically emphasizes the integration of SimReady assets for this purpose.",
+      "articleUrl": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "category": "Robotics",
+      "filterTags": [
+        "Robotics",
+        "Simulation",
+        "Pick-and-Place",
+        "SimReady Assets"
+      ],
+      "publishedAt": "2026-11-13T18:00:39+00:00",
+      "publisher": {
+        "name": "Hugging Face",
+        "domain": "huggingface.co",
+        "website": "https://huggingface.co/",
+        "logoUrl": "https://huggingface.co/front/thumbnails/v2-2.png",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Robotics"
+        },
+        {
+          "name": "Simulation"
+        },
+        {
+          "name": "Digital Assets"
+        }
+      ]
+    },
+    {
+      "slug": "three-tremors-have-shaken-ai",
+      "title": "Three tremors have shaken AI",
+      "dek": "Jensen Huang’s exit from Nvidia leaves a trail of unanswered questions",
+      "aiSummary": "Jensen Huang has departed from Nvidia, an event that has left a trail of unanswered questions. This departure is described as one of three significant tremors that have shaken the AI industry.",
+      "articleUrl": "https://www.ft.com/content/8f50369d-725b-40ac-a72a-306e25f9e76f?syn-25a6b1a6=1",
+      "category": "AI",
+      "filterTags": [
+        "Jensen Huang",
+        "Nvidia",
+        "AI"
+      ],
+      "publishedAt": "2026-11-13T17:55:51+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Corporate Leadership"
+        }
+      ]
+    },
+    {
+      "slug": "your-coding-agent-shouldn-t-grade-its-own-homework",
+      "title": "Your coding agent shouldn't grade its own homework",
+      "dek": "AI coding agents can now write design docs, mock up frontends, and implement entire projects end to end. But can they be trusted to verify that their own code actually works?",
+      "aiSummary": "AI coding agents can now produce design documents, front‑end mockups, and complete project implementations. The article questions whether these agents can reliably assess the correctness of their own code.",
+      "articleUrl": "https://stackoverflow.blog/2026/11/13/your-coding-agent-shouldn-t-grade-its-own-homework/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AI coding agents",
+        "design docs",
+        "frontend mockups",
+        "end-to-end development"
+      ],
+      "publishedAt": "2026-11-13T17:27:39+00:00",
+      "publisher": {
+        "name": "Stack Overflow Blog",
+        "domain": "stackoverflow.blog",
+        "website": "https://stackoverflow.blog",
+        "logoUrl": "https://stackoverflow.blog/apple-touch-icon.png",
+        "faviconUrl": "https://stackoverflow.blog/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "openai-board-member-worries-an-ai-takeover-of-society-could-be-months-away",
+      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+      "dek": "Researcher traces a path from AI reward hacking to potential human extinction.",
+      "aiSummary": "An OpenAI board member expressed concern that an AI takeover of society might occur within months. The researcher outlined a potential pathway from AI reward hacking to human extinction.",
+      "articleUrl": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "AI",
+        "reward hacking"
+      ],
+      "publishedAt": "2026-11-13T17:25:45+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Safety"
+        }
+      ]
+    },
+    {
+      "slug": "best-ai-video-generation-models-in-2026-elo-price-per-second-open-weights",
+      "title": "Best AI Video Generation Models in 2026: Elo, Price per Second, Open Weights",
+      "dek": "The AI video leaderboard looks very different from 12 months ago. Native audio is now table stakes. Clips run 15–30 seconds. And an open-weights model sits in the top 3. This ranking (as of Nov 13, 2026) uses one quality signal: blind human-preference Elo from the Artificial Anal",
+      "aiSummary": "The AI video leaderboard has shifted significantly over the past year. Native audio is now a standard feature, and clips typically run 15–30 seconds. An open‑weights model currently ranks in the top three, with the leaderboard based on blind human‑preference Elo scores.",
+      "articleUrl": "https://www.marktechpost.com/2026/11/13/best-ai-video-generation-models-2026/",
+      "category": "AI",
+      "filterTags": [
+        "Elo",
+        "open-weights",
+        "human-preference",
+        "native audio"
+      ],
+      "publishedAt": "2026-11-13T17:23:51+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Video"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "free-live-masterclass-building-ai-agents-that-work-in-the-real-world",
+      "title": "Free Live Masterclass: Building AI Agents That Work in the Real World",
+      "dek": "An agent needs context to make decisions, tools to take action, guardrails to stay within bounds, and checks to verify the results.",
+      "aiSummary": "The article describes a free live masterclass focused on constructing AI agents for real-world applications. It outlines the essential components required for these agents, including context for decision-making, tools for action, guardrails for boundaries, and verification checks.",
+      "articleUrl": "https://blog.bytebytego.com/p/free-live-masterclass-building-ai",
+      "category": "AI",
+      "filterTags": [
+        "AI Agents",
+        "Masterclass"
+      ],
+      "publishedAt": "2026-11-13T17:04:49+00:00",
+      "publisher": {
+        "name": "ByteByteGo",
+        "domain": "bytebytego.com",
+        "website": "https://bytebytego.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bytebytego.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bytebytego.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Education"
+        }
+      ]
+    },
+    {
+      "slug": "xybench-helping-with-the-problem-behind-the-question",
+      "title": "XYBench: Helping with the problem behind the question",
+      "dek": "XYBench helps solve the underlying issue behind a question",
+      "aiSummary": "",
+      "articleUrl": "https://huggingface.co/blog/allenai/xybench",
+      "category": "Artificial Intelligence",
+      "filterTags": [],
+      "publishedAt": "2026-11-13T17:02:35+00:00",
+      "publisher": {
+        "name": "Hugging Face",
+        "domain": "huggingface.co",
+        "website": "https://huggingface.co/",
+        "logoUrl": "https://huggingface.co/front/thumbnails/v2-2.png",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": []
+    },
+    {
+      "slug": "ai-now-statement-on-the-bipartisan-american-affordability-and-jobs-act-baaja-to-us-congress",
+      "title": "AI Now Statement on the Bipartisan American Affordability and Jobs Act (BAAJA) to US Congress",
+      "dek": "The AI Now Institute has released a statement outlining concerns with the Bipartisan American Affordability and Jobs Act (BAAJA), which serves as a backdoor bailout of the AI industry. The statement’s key points are as follows: Last week, voters across the country made their posi",
+      "aiSummary": "The AI Now Institute released a statement to US Congress outlining concerns regarding the Bipartisan American Affordability and Jobs Act (BAAJA). The organization characterizes the legislation as a backdoor bailout for the AI industry.",
+      "articleUrl": "https://ainowinstitute.org/news/announcement/ai-now-statement-on-the-bipartisan-american-affordability-and-jobs-act-baaja-to-us-congress",
+      "category": "AI",
+      "filterTags": [
+        "AI Now Institute",
+        "BAAJA",
+        "US Congress"
+      ],
+      "publishedAt": "2026-11-13T16:57:45+00:00",
+      "publisher": {
+        "name": "AI Now Institute",
+        "domain": "ainowinstitute.org",
+        "website": "https://ainowinstitute.org/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ainowinstitute.org&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ainowinstitute.org&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Policy"
+        }
+      ]
+    },
+    {
+      "slug": "jensen-huang-s-resignation-from-nvidia-worries-the-a-i-start-up-world",
+      "title": "Jensen Huang’s Resignation From Nvidia Worries the A.I. Start-Up World",
+      "dek": "Mr. Huang championed start-ups, with Nvidia holding $48 billion worth of stakes in 229 private companies, including OpenAI and Anthropic, at the end of July.",
+      "aiSummary": "Jensen Huang's resignation from Nvidia is a source of worry for the AI start-up community. He was a significant supporter of these companies, and Nvidia holds substantial stakes, valued at $48 billion, in 229 private firms, including OpenAI and Anthropic.",
+      "articleUrl": "https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html",
+      "category": "AI",
+      "filterTags": [
+        "Nvidia",
+        "OpenAI",
+        "Anthropic",
+        "Jensen Huang"
+      ],
+      "publishedAt": "2026-11-13T16:36:28+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Venture Capital"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "keyword-search-tied-an-8b-embedding-model-at-picking-agent-tools",
+      "title": "Keyword Search Tied an 8B Embedding Model at Picking Agent Tools",
+      "dek": "On 200 ToolRet questions and up to 3,794 tools, BM25 ran about 40x faster than BGE-large on just a CPU, and full tool docs made it the best setup tested. \n The post  Keyword Search Tied an 8B Embedding Model at Picking Agent Tools  appeared first on  Towards Data Science .",
+      "aiSummary": "A study found that BM25 keyword search performed comparably to an 8B parameter embedding model for selecting agent tools, while running approximately 40 times faster on CPU hardware. The research indicates that using full tool documentation with BM25 resulted in the best performance among the tested configurations.",
+      "articleUrl": "https://towardsdatascience.com/keyword-search-tied-an-8b-embedding-model-at-picking-agent-tools/",
+      "category": "AI",
+      "filterTags": [
+        "BM25",
+        "BGE-large",
+        "ToolRet",
+        "Embedding Model",
+        "Towards Data Science"
+      ],
+      "publishedAt": "2026-11-13T16:30:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Search"
+        },
+        {
+          "name": "Performance"
+        }
+      ]
+    },
+    {
+      "slug": "perplexity-releases-decider-v1-3-open-weight-decision-models-add-locate",
+      "title": "Perplexity Releases Decider v1.3: Open-Weight Decision Models Add Locate",
+      "dek": "Perplexity Decider v1.3 and Flash v1.3 are open-weight decision models that return probabilities, not text. Version 1.3 adds Locate for span extraction and reports 91.6% mean accuracy on 63 query-classification tasks. \n The post  Perplexity Releases Decider v1.3: Open-Weight Deci",
+      "aiSummary": "Perplexity released Decider v1.3 and Flash v1.3, open-weight models that output probabilities instead of text. The new version introduces a Locate feature for span extraction and achieves a 91.6% mean accuracy across 63 query‑classification tasks.",
+      "articleUrl": "https://www.marktechpost.com/2026/11/13/perplexity-decider-v1-3-open-weight-decision-models-locate/",
+      "category": "AI",
+      "filterTags": [
+        "Perplexity",
+        "Decider",
+        "Flash",
+        "Locate"
+      ],
+      "publishedAt": "2026-11-13T16:10:02+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "jensen-huang-and-the-end-of-the-founder-fairy-tale",
+      "title": "Jensen Huang and the End of the Founder Fairy Tale",
+      "dek": "The former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals.",
+      "aiSummary": "The article discusses how former tech CEO Jensen Huang is deeply invested in the power of storytelling. However, despite this obsession with narrative, he has failed to use it to resolve or escape from his sex scandals.",
+      "articleUrl": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
+      "category": "Business",
+      "filterTags": [
+        "Jensen Huang",
+        "Storytelling",
+        "PR",
+        "Scandal"
+      ],
+      "publishedAt": "2026-11-13T16:00:00+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Business"
+        },
+        {
+          "name": "Media"
+        },
+        {
+          "name": "Leadership"
+        }
+      ]
+    },
+    {
+      "slug": "how-jev-makes-decisions-about-images-with-4-python-examples",
+      "title": "How Jev Makes Decisions About Images, With 4 Python Examples",
+      "dek": "Practical code for classifying fabric against reference photos, scoring product sharpness, cropping shipping labels, and spotting subtle car damage. \n The post  How Jev Makes Decisions About Images, With 4 Python Examples  appeared first on  Towards Data Science .",
+      "aiSummary": "The article provides practical Python code examples for various image processing tasks. These examples cover classifying fabric against reference photos, scoring product sharpness, cropping shipping labels, and identifying subtle car damage.",
+      "articleUrl": "https://towardsdatascience.com/how-jev-makes-decisions-about-images-with-4-python-examples/",
+      "category": "Data Science",
+      "filterTags": [
+        "Python"
+      ],
+      "publishedAt": "2026-11-13T15:00:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Data Science"
+        },
+        {
+          "name": "Computer Vision"
+        },
+        {
+          "name": "Programming"
+        }
+      ]
+    },
+    {
+      "slug": "introducing-chatgpt-wallet",
+      "title": "Introducing ChatGPT Wallet",
+      "dek": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "aiSummary": "ChatGPT has launched a wallet that lets agents in ChatGPT Work, Codex, and dots make purchases. The wallet requires user approval and uses existing card protections.",
+      "articleUrl": "https://openai.com/index/introducing-chatgpt-wallet",
+      "category": "AI",
+      "filterTags": [
+        "ChatGPT",
+        "ChatGPT Work",
+        "Codex"
+      ],
+      "publishedAt": "2026-11-13T15:00:00+00:00",
+      "publisher": {
+        "name": "OpenAI",
+        "domain": "openai.com",
+        "website": "https://openai.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Payments"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "st-expands-ganspin-family-with-100v-gan-drivers",
+      "title": "ST Expands GANSPIN Family with 100V GaN Drivers",
+      "dek": "The new integrated GaN motor drivers deliver high power density, advanced protection and efficient operation for robotics and industrial systems. \n The post  ST Expands GANSPIN Family with 100V GaN Drivers  appeared first on  Power Electronics News .",
+      "aiSummary": "ST has expanded its GANSPIN family by introducing new integrated GaN motor drivers rated at 100V. These components are designed to provide high power density, advanced protection features, and efficient operation for use in robotics and industrial systems.",
+      "articleUrl": "https://www.powerelectronicsnews.com/st-expands-ganspin-family-with-100v-gan-drivers/",
+      "category": "Power Electronics",
+      "filterTags": [
+        "ST",
+        "GANSPIN",
+        "GaN",
+        "Motor Drivers",
+        "Robotics",
+        "Industrial Systems"
+      ],
+      "publishedAt": "2026-11-13T15:00:00+00:00",
+      "publisher": {
+        "name": "Power Electronics News",
+        "domain": "powerelectronicsnews.com",
+        "website": "https://www.powerelectronicsnews.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Power Electronics"
+        },
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Industrial Automation"
+        }
+      ]
+    },
+    {
+      "slug": "what-8217-s-really-at-stake-in-the-jensen-huang-saga",
+      "title": "What&#8217;s really at stake in the Jensen Huang saga",
+      "dek": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, a",
+      "aiSummary": "Nvidia CEO Jensen Huang stepped down on Thursday, marking a key moment in the ongoing saga. The resignation may set the stage for a larger narrative involving Nvidia's operations in China. Analysts expect further developments in the coming weeks and months.",
+      "articleUrl": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+      "category": "Technology",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "AI",
+        "China"
+      ],
+      "publishedAt": "2026-11-13T14:47:16+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Business"
+        },
+        {
+          "name": "Geopolitics"
+        }
+      ]
+    },
+    {
+      "slug": "llama-cpp-v1-0-0-a-stronger-foundation-for-the-local-ai-ecosystem",
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "dek": "llama.cpp releases version 1.0.0 to improve the base for running AI locally.",
+      "aiSummary": "The provided text does not contain an article body, only the title indicating that llama.cpp has reached version 1.0.0. This release is described as establishing a stronger foundation for the local AI ecosystem.",
+      "articleUrl": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "category": "AI",
+      "filterTags": [
+        "llama.cpp",
+        "local AI"
+      ],
+      "publishedAt": "2026-11-13T14:05:22+00:00",
+      "publisher": {
+        "name": "Hugging Face",
+        "domain": "huggingface.co",
+        "website": "https://huggingface.co/",
+        "logoUrl": "https://huggingface.co/front/thumbnails/v2-2.png",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    }
+  ]
+}
