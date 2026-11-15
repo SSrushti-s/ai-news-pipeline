@@ -1,0 +1,602 @@
+{
+  "news": [
+    {
+      "slug": "computing-effective-dimension-for-quantum-ml-models-in-pytorch",
+      "title": "Computing Effective Dimension for Quantum ML Models in PyTorch",
+      "dek": "Local and global variants, Fisher estimation, epsilon-ball sampling, and log-space stability, with PennyLane code and a time-series experiment. \n The post  Computing Effective Dimension for Quantum ML Models in PyTorch  appeared first on  Towards Data Science .",
+      "aiSummary": "The article details methods for computing the effective dimension of quantum machine learning models within PyTorch, covering local and global variants, Fisher estimation, and epsilon-ball sampling. It includes PennyLane code examples and a time-series experiment to demonstrate log-space stability.",
+      "articleUrl": "https://towardsdatascience.com/computing-effective-dimension-for-quantum-ml-models-in-pytorch/",
+      "category": "Quantum Computing",
+      "filterTags": [
+        "PyTorch",
+        "PennyLane",
+        "Quantum ML",
+        "Fisher estimation"
+      ],
+      "publishedAt": "2026-11-15T13:00:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Quantum Computing"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "crime-blotter-truck-driver-pleads-guilty-to-theft-of-iphones-ipads",
+      "title": "Crime blotter: Truck driver pleads guilty to theft of iPhones, iPads",
+      "dek": "An accused thief jumped into a lake after an  AirTag  found his location; the man accused in a sex sting is not Apple's head of PR; and an assault at a U.K. Apple Store, all in this week's Apple Crime Blotter. The Apple Store at Bluewater  The latest in an occasional  AppleInside",
+      "aiSummary": "A truck driver has pleaded guilty to the theft of iPhones and iPads. This incident is part of a weekly roundup that also covers a suspect fleeing into a lake after being located by an AirTag, a clarification regarding Apple's PR head, and an assault at a U.K. Apple Store.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/15/crime-blotter-truck-driver-pleads-guilty-to-theft-of-iphones-ipads?utm_source=rss",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Apple",
+        "iPhone",
+        "iPad",
+        "AirTag",
+        "Apple Store"
+      ],
+      "publishedAt": "2026-11-15T12:28:20+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Legal"
+        }
+      ]
+    },
+    {
+      "slug": "understanding-positional-embeddings-in-modern-llms",
+      "title": "Understanding Positional Embeddings in Modern LLMs",
+      "dek": "The Methods Behind How LLMs Represent Token Positions",
+      "aiSummary": "The article explores the techniques used by large language models to represent the position of tokens. It details the methods behind how these models maintain awareness of word order within a sequence.",
+      "articleUrl": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "category": "AI",
+      "filterTags": [
+        "LLMs",
+        "Positional Embeddings",
+        "Tokenization"
+      ],
+      "publishedAt": "2026-11-15T12:10:37+00:00",
+      "publisher": {
+        "name": "Sebastian Raschka",
+        "domain": "sebastianraschka.com",
+        "website": "https://magazine.sebastianraschka.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=sebastianraschka.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=sebastianraschka.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-s-ipo-lands-as-the-embattled-ai-trade-looks-for-a-much-needed-bright-spot",
+      "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
+      "dek": "Anthropic's IPO has outsized importance in the tech industry, which is heavily invested in the AI lab and is desperate for some positive momentum.",
+      "aiSummary": "Anthropic's Initial Public Offering is viewed as a significant event for the technology industry. The AI lab has attracted heavy investment from the tech sector, which is currently seeking positive momentum amid market challenges.",
+      "articleUrl": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "IPO",
+        "AI"
+      ],
+      "publishedAt": "2026-11-15T12:00:01+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "ai-djs-completely-kill-my-groove",
+      "title": "AI DJs Completely Kill My Groove",
+      "dek": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
+      "aiSummary": "YouTube Music and Spotify are introducing synthetic AI hosts to curate user playlists. The article argues that these automated presenters negatively impact the listening atmosphere through awkward conversation and inaccurate song trivia.",
+      "articleUrl": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
+      "category": "AI",
+      "filterTags": [
+        "YouTube Music",
+        "Spotify",
+        "AI DJs",
+        "Music Streaming"
+      ],
+      "publishedAt": "2026-11-15T12:00:00+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Entertainment"
+        },
+        {
+          "name": "Music"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-s-ipo-is-the-next-big-test-for-ai",
+      "title": "Anthropic’s IPO is the next big test for AI",
+      "dek": "Even the most powerful frontier labs must bend to the power of public equity",
+      "aiSummary": "Anthropic's upcoming Initial Public Offering (IPO) is viewed as a significant test for the AI sector. The article suggests that even leading frontier AI labs must adapt to the pressures and requirements of the public equity market.",
+      "articleUrl": "https://www.ft.com/content/bc8ac781-9837-46de-b7ed-958886ba43af?syn-25a6b1a6=1",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "IPO",
+        "Frontier Labs",
+        "Public Equity"
+      ],
+      "publishedAt": "2026-11-15T11:40:44+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Business Strategy"
+        }
+      ]
+    },
+    {
+      "slug": "this-ai-tamagotchi-turns-everyday-objects-into-needy-virtual-pets",
+      "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
+      "dek": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
+      "aiSummary": "A student at Carnegie Mellon has developed small E Ink gadgets known as OATs that transform everyday objects like houseplants and dumbbells into expressive virtual pets. These devices are designed to encourage users to adopt better habits by giving these inanimate objects needy personalities.",
+      "articleUrl": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+      "category": "AI",
+      "filterTags": [
+        "Carnegie Mellon",
+        "E Ink",
+        "OATs",
+        "AI"
+      ],
+      "publishedAt": "2026-11-15T11:00:00+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Consumer Tech"
+        }
+      ]
+    },
+    {
+      "slug": "wingtech-to-challenge-dutch-court-s-nexperia-interim-order",
+      "title": "Wingtech to Challenge Dutch Court’s Nexperia Interim Order",
+      "dek": "Wingtech Technology Co. said it opposes a Dutch court’s latest interim order in the dispute over Nexperia and plans to appeal, arguing the ruling lacks a factual basis and contains fundamental legal flaws, according to a stock exchange filing on Sunday.",
+      "aiSummary": "Wingtech Technology Co. has announced its opposition to a Dutch court's interim order in the ongoing dispute over Nexperia. The company intends to appeal the decision, claiming it is factually unfounded and legally flawed, as disclosed in a stock exchange filing.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-15/wingtech-to-challenge-dutch-court-s-nexperia-interim-order",
+      "category": "Legal",
+      "filterTags": [
+        "Wingtech",
+        "Nexperia",
+        "Dutch Court",
+        "Legal Dispute"
+      ],
+      "publishedAt": "2026-11-15T10:24:55+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Corporate Governance"
+        },
+        {
+          "name": "Semiconductors"
+        }
+      ]
+    },
+    {
+      "slug": "bland-launches-tofu-1-a-full-duplex-speech-to-speech-model-for-calls",
+      "title": "Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls",
+      "dek": "Bland has released Tofu-1, a full-duplex speech-to-speech model for noisy, high-stakes phone calls. It is in enterprise research preview, with no published benchmarks, size or pricing yet. \n The post  Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls  appeared",
+      "aiSummary": "Bland has released Tofu-1, a full-duplex speech-to-speech model specifically designed for handling noisy and high-stakes phone calls. The product is currently in an enterprise research preview phase, with no public information available regarding its benchmarks, model size, or pricing.",
+      "articleUrl": "https://www.marktechpost.com/2026/11/15/bland-tofu-1-full-duplex-speech-to-speech-model/",
+      "category": "AI",
+      "filterTags": [
+        "Bland",
+        "Tofu-1",
+        "Speech-to-Speech",
+        "Full-Duplex"
+      ],
+      "publishedAt": "2026-11-15T10:06:21+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Voice Technology"
+        },
+        {
+          "name": "Enterprise Software"
+        }
+      ]
+    },
+    {
+      "slug": "china-s-yoozoo-gets-214-million-flash-memory-components-order",
+      "title": "China’s Yoozoo Gets $214 Million Flash-Memory Components Order",
+      "dek": "Chinese game developer Yoozoo Interactive Co. said one of its units received a 1.43 billion yuan ($214 million) order for flash-memory components, though it expects little impact on revenue or its financial data.",
+      "aiSummary": "Yoozoo Interactive Co., a Chinese game developer, announced that one of its units secured a 1.43 billion yuan (about $214 million) order for flash‑memory components. The company said the deal would have minimal effect on its revenue or financial results.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-15/china-s-yoozoo-gets-214-million-flash-memory-components-order",
+      "category": "Gaming",
+      "filterTags": [
+        "Yoozoo Interactive",
+        "flash memory"
+      ],
+      "publishedAt": "2026-11-15T09:42:26+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "firmus-plans-to-raise-3-billion-after-ipo-collapse-afr-says",
+      "title": "Firmus Plans to Raise $3 Billion After IPO Collapse, AFR Says",
+      "dek": "Firmus Grid Ltd. is planning a $3 billion private fundraising effort that will include new equity and debt issuance, as well as locking in pre-payments from customers including its backer Nvidia Corp. and Meta Platforms Inc., the Australian Financial Review reported.",
+      "aiSummary": "Firmus Grid Ltd. is organizing a $3 billion private capital raise comprising new equity, debt, and customer pre-payments. The funding round involves support from backers Nvidia Corp. and Meta Platforms Inc., according to a report by the Australian Financial Review.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-15/firmus-plans-to-raise-3-billion-after-ipo-collapse-afr-says",
+      "category": "Finance",
+      "filterTags": [
+        "Firmus Grid",
+        "Nvidia",
+        "Meta Platforms",
+        "IPO",
+        "Private Equity"
+      ],
+      "publishedAt": "2026-11-15T09:40:54+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Energy"
+        }
+      ]
+    },
+    {
+      "slug": "160-questions-only-one-wrong-top-scorer-in-south-korea-tax-exam-admits-ai-cheating",
+      "title": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
+      "dek": "Fears for national college entrance exam next week as test taker admits sending photos of questions to AI tool The marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true. On Sunday, sceptics were ⁠proven ",
+      "aiSummary": "The top scorer on South Korea's national exam for tax accountants admitted to cheating by sending photos of the questions to an AI tool. This admission has raised concerns about the integrity of the upcoming national college entrance exam.",
+      "articleUrl": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
+      "category": "Education",
+      "filterTags": [
+        "South Korea",
+        "AI",
+        "Tax Exam",
+        "Cheating"
+      ],
+      "publishedAt": "2026-11-15T08:56:11+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Education"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Ethics"
+        }
+      ]
+    },
+    {
+      "slug": "megaspeed-says-alice-huang-left-in-2025-as-it-launches-internal-probe-into-reports-about-its-business",
+      "title": "Megaspeed says Alice Huang left in 2025 as it launches internal probe into reports about its business",
+      "dek": "The Singapore-based cloud computing company has faced heightened scrutiny since reports linked Nvidia's Jensen Huang to former Megaspeed executive Alice Huang.",
+      "aiSummary": "Megaspeed announced that former executive Alice Huang departed in 2025 and is conducting an internal investigation into business-related reports. The company, based in Singapore, has come under increased scrutiny after reports connected Nvidia CEO Jensen Huang to Huang. The probe aims to address the allegations and clarify the company's operations.",
+      "articleUrl": "https://www.cnbc.com/2026/11/15/megaspeed-alice-huang-probe-nvidia-scandal.html",
+      "category": "Cloud Computing",
+      "filterTags": [
+        "Megaspeed",
+        "Nvidia",
+        "Alice Huang",
+        "Jensen Huang"
+      ],
+      "publishedAt": "2026-11-15T08:34:46+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Corporate Governance"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "apple-watch-series-12-falls-to-329-with-early-black-friday-deals",
+      "title": "Apple Watch Series 12 falls to $329 with early Black Friday deals",
+      "dek": "Amazon is delivering the lowest price on record for the new Apple Watch Series 12 thanks to a $70 discount. Grab an Apple Watch Series 12 from just $329 - Image credit: Apple Pick up the 42mm Apple Watch Series 12 (GPS)  for $329.99  when you opt for the Light Gold Aluminum Case ",
+      "aiSummary": "Amazon is offering the Apple Watch Series 12 at a record low price of $329.99, reflecting a $70 discount. This deal applies to the 42mm GPS model with a Light Gold Aluminum Case as part of early Black Friday promotions.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/15/apple-watch-series-12-falls-to-329-with-early-black-friday-deals?utm_source=rss",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Apple Watch Series 12",
+        "Amazon",
+        "Black Friday"
+      ],
+      "publishedAt": "2026-11-15T07:17:24+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Retail"
+        }
+      ]
+    },
+    {
+      "slug": "jensen-huang-lost-his-mind-how-ai-s-smartest-man-fell-for-the-world-s-oldest-trick",
+      "title": "‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick",
+      "dek": "Jensen Huang’s affair with a suspected spy is Silicon Valley’s worst nightmare come true The resignation this week of Nvidia’s founder and CEO Jensen Huang is one of the most astonishing corporate scandals in memory, featuring allegations of international espionage and extramarit",
+      "aiSummary": "Nvidia CEO Jensen Huang resigned after allegations that he had an affair with a suspected spy. The scandal is described as Silicon Valley's worst nightmare, involving international espionage and personal misconduct.",
+      "articleUrl": "https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare",
+      "category": "AI",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "AI",
+        "international espionage"
+      ],
+      "publishedAt": "2026-11-15T06:00:06+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Corporate Governance"
+        }
+      ]
+    },
+    {
+      "slug": "when-human-judgment-is-not-all-it-s-cracked-up-to-be",
+      "title": "When human judgment is not all it’s cracked up to be",
+      "dek": "The quality that sets us apart from machines has been absent during implosion by former Nvidia boss Jensen Huang",
+      "aiSummary": "The article notes that the human quality that differentiates us from machines was missing during the collapse involving former Nvidia CEO Jensen Huang. It suggests that this absence undermines the perceived advantage of human judgment.",
+      "articleUrl": "https://www.ft.com/content/f8dffb89-99e3-4e9d-ac62-4eb59da4f007?syn-25a6b1a6=1",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang"
+      ],
+      "publishedAt": "2026-11-15T05:00:04+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Business"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "samsung-conquered-ai-chips-now-it-wants-to-build-data-centres",
+      "title": "Samsung conquered AI chips. Now it wants to build data centres",
+      "dek": "South Korean conglomerate hopes to replicate success with semiconductors across its sprawling portfolio of businesses",
+      "aiSummary": "Samsung, after achieving success with AI chips, plans to expand its semiconductor expertise into data center construction. The company hopes to leverage its broad business portfolio to replicate this success across other sectors. This move signals a strategic push into infrastructure services.",
+      "articleUrl": "https://www.ft.com/content/ee5b23b3-89b3-41f7-9158-56c1586759c2?syn-25a6b1a6=1",
+      "category": "Semiconductors",
+      "filterTags": [
+        "Samsung",
+        "AI chips",
+        "data centers",
+        "semiconductors"
+      ],
+      "publishedAt": "2026-11-15T05:00:04+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Data Centers"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    }
+  ]
+}
