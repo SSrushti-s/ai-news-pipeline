@@ -1,0 +1,1025 @@
+{
+  "news": [
+    {
+      "slug": "inside-google-s-ai-race-with-ruth-porat",
+      "title": "Inside Google's AI Race with Ruth Porat",
+      "dek": "Ruth Porat sits down with Francine Lacqua to discuss her role helping steer Wall Street bailouts to guiding Alphabet’s AI investments as Google faces a new era of search.  (Source: Bloomberg)",
+      "aiSummary": "Ruth Porat discusses her shift from managing Wall Street bailouts to guiding Alphabet’s AI investments, emphasizing how AI is reshaping Google’s search strategy. She explains the company’s new era of search and the role AI plays in it.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-11-19/alphabet-s-ruth-porat-on-the-ai-investment-frenzy-video",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Google",
+        "Alphabet",
+        "AI",
+        "search"
+      ],
+      "publishedAt": "2026-11-19T05:02:02+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Business Strategy"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns",
+      "title": "Datacentres to create 70% more carbon emissions by 2030, IEA report warns",
+      "dek": "Global energy watchdog forecasts huge rise as US and China turn to fossil fuels to power AI growth agendas   The world’s datacentres will create 70% more carbon emissions within the next four years as the US and China turn to fossil fuels to power their AI growth agendas, accordi",
+      "aiSummary": "The International Energy Agency forecasts that global data centers will generate 70% more carbon emissions by 2030. This significant rise is attributed to the United States and China relying on fossil fuels to support their expanding artificial intelligence initiatives.",
+      "articleUrl": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns",
+      "category": "Energy",
+      "filterTags": [
+        "IEA",
+        "Datacentres",
+        "AI",
+        "Fossil Fuels",
+        "Carbon Emissions"
+      ],
+      "publishedAt": "2026-11-19T05:00:18+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Energy"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Climate Change"
+        }
+      ]
+    },
+    {
+      "slug": "human-ai-mutualism-is-unstable-under-capability-asymmetry",
+      "title": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
+      "dek": "arXiv:2611.23322v1 Announce Type: new \nAbstract: One hope for a good human future alongside advanced AI rests on enduring mutualism: humans and AI will need each other, so the relationship will stay good for both. We argue that this hope fails as AI capability grows. Bargaining g",
+      "aiSummary": "The paper argues that the expectation of a lasting mutualistic relationship between humans and AI collapses as AI capabilities grow. It claims that bargaining dynamics become unstable under capability asymmetry. The authors suggest that this asymmetry undermines the hope for a good human future alongside advanced AI.",
+      "articleUrl": "https://arxiv.org/abs/2611.23322",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "AI",
+        "Human-AI",
+        "ArXiv"
+      ],
+      "publishedAt": "2026-11-19T05:00:00+00:00",
+      "publisher": {
+        "name": "arXiv cs.AI",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.AI",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Ethics"
+        },
+        {
+          "name": "Human-Computer Interaction"
+        }
+      ]
+    },
+    {
+      "slug": "training-language-models-for-introspective-oversight",
+      "title": "Training Language Models for Introspective Oversight",
+      "dek": "arXiv:2611.23365v1 Announce Type: new \nAbstract: Language models increasingly exhibit behaviors that are difficult to detect in transcripts, such as reward hacking, deception, and sycophancy. Asking the assistant follow-up questions about its actions is unreliable, since models a",
+      "aiSummary": "The paper highlights that language models increasingly show hard-to-detect behaviors such as reward hacking, deception, and sycophancy. It points out that asking the model follow‑up questions about its actions is unreliable.",
+      "articleUrl": "https://arxiv.org/abs/2611.23365",
+      "category": "AI",
+      "filterTags": [
+        "Language Models",
+        "Reward Hacking",
+        "Deception",
+        "Sycophancy"
+      ],
+      "publishedAt": "2026-11-19T05:00:00+00:00",
+      "publisher": {
+        "name": "arXiv cs.AI",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.AI",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "AI Safety"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "where-the-tokens-go-heat-entropy-and-error-in-agentic-coding",
+      "title": "Where the Tokens Go: Heat, Entropy and Error in Agentic Coding",
+      "dek": "arXiv:2611.23375v1 Announce Type: new \nAbstract: Coding agents are billed by the token, yet software engineering says nothing about what a token actually buys. Here we introduce a theory of software thermodynamics. The theory draws analogues from classical and stochastic thermody",
+      "aiSummary": "The article introduces a theory of software thermodynamics to analyze the performance of coding agents, which are typically billed by token. It draws analogies from classical and stochastic thermodynamics to address the gap between token costs and actual software engineering value.",
+      "articleUrl": "https://arxiv.org/abs/2611.23375",
+      "category": "AI",
+      "filterTags": [
+        "Coding agents",
+        "Software thermodynamics",
+        "arXiv"
+      ],
+      "publishedAt": "2026-11-19T05:00:00+00:00",
+      "publisher": {
+        "name": "arXiv cs.AI",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.AI",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Theoretical Computer Science"
+        }
+      ]
+    },
+    {
+      "slug": "a-differential-theory-of-quality-resource-trade-offs-for-ai-model-selection-the-multiresource-frontier-and-its-minimax-p",
+      "title": "A Differential Theory of Quality-Resource Trade-offs for AI Model Selection: The Multiresource Frontier and Its Minimax Price",
+      "dek": "arXiv:2611.23324v1 Announce Type: new \nAbstract: Comparing AI models across resource budgets yields quality-resource frontiers relating error to latency, parameter count, training compute, and energy. Offset power laws summarize such frontiers, but their fitted parameters reveal ",
+      "aiSummary": "The paper introduces a differential theory for analyzing quality-resource trade-offs in AI model selection, focusing on the multiresource frontier and its minimax price. It examines how offset power laws summarize frontiers relating error to metrics like latency, parameter count, training compute, and energy.",
+      "articleUrl": "https://arxiv.org/abs/2611.23324",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "arXiv",
+        "Power Laws",
+        "Model Selection"
+      ],
+      "publishedAt": "2026-11-19T05:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Research"
+        }
+      ]
+    },
+    {
+      "slug": "minimax-estimation-for-simultaneous-deconvolution-model-in-random-design-using-wavelets",
+      "title": "Minimax estimation for simultaneous deconvolution model in random design using wavelets",
+      "dek": "arXiv:2611.23439v1 Announce Type: new \nAbstract: Simultaneous deconvolution model is investigated when the design points are random and follow bounded densities and errors are either $i.i.d.$ or long-memory dependent. We propose wavelet hard-thresholding estimators, and show that",
+      "aiSummary": "The paper studies a simultaneous deconvolution model where design points are random and drawn from bounded densities, and errors may be i.i.d. or exhibit long‑memory dependence. The authors propose wavelet hard‑thresholding estimators and show that these achieve minimax optimal performance.",
+      "articleUrl": "https://arxiv.org/abs/2611.23439",
+      "category": "Statistics",
+      "filterTags": [
+        "wavelet",
+        "hard-thresholding",
+        "simultaneous deconvolution",
+        "random design",
+        "i.i.d.",
+        "long-memory",
+        "minimax estimation"
+      ],
+      "publishedAt": "2026-11-19T05:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Statistics"
+        },
+        {
+          "name": "Signal Processing"
+        },
+        {
+          "name": "Mathematics"
+        }
+      ]
+    },
+    {
+      "slug": "wasserstein-target-diagram-for-model-evaluation",
+      "title": "Wasserstein Target Diagram for Model Evaluation",
+      "dek": "arXiv:2611.23459v1 Announce Type: new \nAbstract: The target diagram is often used in geosciences, which provides a visualization tool for model evaluation and shows the temporal or spatial matching of data. However, its construction requires paired data of equal sample sizes, lim",
+      "aiSummary": "The target diagram is a visualization tool commonly used in geosciences to assess model performance by showing temporal or spatial data alignment. It requires paired data of equal sample sizes, which can limit its use.",
+      "articleUrl": "https://arxiv.org/abs/2611.23459",
+      "category": "Geoscience",
+      "filterTags": [
+        "Wasserstein",
+        "target diagram",
+        "geosciences",
+        "model evaluation"
+      ],
+      "publishedAt": "2026-11-19T05:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Geoscience"
+        },
+        {
+          "name": "Data Visualization"
+        },
+        {
+          "name": "Statistical Methods"
+        }
+      ]
+    },
+    {
+      "slug": "lenovo-sales-beat-estimates-due-to-solid-ai-hardware-demand",
+      "title": "Lenovo Sales Beat Estimates Due to Solid AI Hardware Demand",
+      "dek": "Lenovo Group Ltd. reported better-than-expected quarterly revenue thanks to strong demand for artificial intelligence servers.",
+      "aiSummary": "Lenovo Group Ltd. posted quarterly revenue that surpassed forecasts. The company credited the robust performance to high demand for artificial intelligence servers.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-19/lenovo-sales-beat-estimate-due-to-solid-ai-hardware-demand",
+      "category": "Hardware",
+      "filterTags": [
+        "Lenovo",
+        "AI servers",
+        "Artificial Intelligence"
+      ],
+      "publishedAt": "2026-11-19T04:29:27+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Business Performance"
+        }
+      ]
+    },
+    {
+      "slug": "how-nvidia-chips-ended-up-within-reach-of-china-s-military",
+      "title": "How Nvidia Chips Ended Up Within Reach of China’s Military",
+      "dek": "Alibaba, the Chinese internet giant behind the company at the center of the Nvidia spy saga, has used its A.I. computing technology to aid a lab with links to China’s military.",
+      "aiSummary": "Alibaba, a major Chinese internet company, has employed its AI computing technology to support a laboratory connected to China's military. This involvement ties the company to the Nvidia spy saga.",
+      "articleUrl": "https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Alibaba",
+        "Nvidia",
+        "AI computing technology",
+        "China's military"
+      ],
+      "publishedAt": "2026-11-19T04:13:05+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Geopolitics"
+        },
+        {
+          "name": "Cybersecurity"
+        }
+      ]
+    },
+    {
+      "slug": "india-startup-sells-deepseek-access-while-pursuing-sovereign-ai",
+      "title": "India Startup Sells DeepSeek Access While Pursuing Sovereign AI",
+      "dek": "Indian startup Sarvam has begun selling access to DeepSeek and other Chinese AI models, triggering an online backlash over its role as one of the main proponents of the country’s AI independence.",
+      "aiSummary": "Indian startup Sarvam has started selling access to DeepSeek and other Chinese AI models. This move has sparked online criticism, as Sarvam is a key advocate for India's AI independence and sovereign AI initiatives.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-19/india-startup-sells-deepseek-access-while-pursuing-sovereign-ai",
+      "category": "AI",
+      "filterTags": [
+        "Sarvam",
+        "DeepSeek",
+        "Sovereign AI",
+        "India"
+      ],
+      "publishedAt": "2026-11-19T04:09:41+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Geopolitics"
+        },
+        {
+          "name": "Startups"
+        }
+      ]
+    },
+    {
+      "slug": "how-to-use-notproton-to-unlock-windows-game-compatibility-in-steam-for-mac",
+      "title": "How to use NotProton to unlock Windows game compatibility in Steam for Mac",
+      "dek": "NotProton lets Mac owners install and play Windows games through the native Steam client without installing Windows. Here's how to set it up and what worked on our  M3 MacBook Air . Running Windows games on Mac Steam for Mac normally won't let you install Windows-only games, but ",
+      "aiSummary": "NotProton enables Mac users to install and play Windows-only games through the native Steam client without needing a Windows installation. The article walks through the setup process and reports successful results on an M3 MacBook Air. Normally, Steam on Mac cannot install Windows-only titles, but NotProton bypasses this limitation.",
+      "articleUrl": "https://appleinsider.com/inside/macos/tips/how-to-use-notproton-to-unlock-windows-game-compatibility-in-steam-for-mac?utm_source=rss",
+      "category": "Gaming",
+      "filterTags": [
+        "NotProton",
+        "Steam",
+        "Mac",
+        "M3 MacBook Air"
+      ],
+      "publishedAt": "2026-11-19T04:01:29+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "Software Compatibility"
+        },
+        {
+          "name": "Mac OS"
+        }
+      ]
+    },
+    {
+      "slug": "gta-flu-has-schools-and-jobs-bracing-for-sick-days",
+      "title": "‘GTA Flu’ Has Schools and Jobs Bracing for Sick Days",
+      "dek": "The highly anticipated release of Grand Theft Auto VI is expected to prompt a wave of students and employees to stay home on Thursday.",
+      "aiSummary": "The upcoming release of Grand Theft Auto VI is anticipated to lead to a significant number of students and employees staying home on Thursday. Schools and workplaces are preparing for a surge in sick days due to the highly anticipated game launch.",
+      "articleUrl": "https://www.nytimes.com/2026/11/18/us/gta-6-sick-work-school.html",
+      "category": "Gaming",
+      "filterTags": [
+        "Grand Theft Auto VI",
+        "GTA"
+      ],
+      "publishedAt": "2026-11-19T03:54:30+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "Entertainment"
+        }
+      ]
+    },
+    {
+      "slug": "nutrient-data-extraction-api-json-matching-your-schema-with-per-field-citations-and-confidence",
+      "title": "Nutrient Data Extraction API: JSON Matching Your Schema With Per-Field Citations and Confidence",
+      "dek": "Nutrient Data Extraction API parses PDFs, scans and Office files into JSON matching your schema. Fields carry page, region and match-label citations, and Studio lets teams test before writing code. \n The post  Nutrient Data Extraction API: JSON Matching Your Schema With Per-Field",
+      "aiSummary": "The Nutrient Data Extraction API converts PDFs, scanned documents, and Office files into JSON that follows a user-defined schema. Each field includes citations indicating its page, region, and match label, and a Studio interface allows teams to test the output before coding.",
+      "articleUrl": "https://www.marktechpost.com/2026/11/18/nutrient-data-extraction-api-citations-confidence/",
+      "category": "Data Integration",
+      "filterTags": [
+        "Nutrient Data Extraction API",
+        "JSON",
+        "Studio",
+        "PDF",
+        "Office"
+      ],
+      "publishedAt": "2026-11-19T03:23:50+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Data Integration"
+        },
+        {
+          "name": "API"
+        },
+        {
+          "name": "Document Processing"
+        }
+      ]
+    },
+    {
+      "slug": "elon-musk-says-record-spending-on-us-midterms-was-pretty-foolish",
+      "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+      "dek": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+      "aiSummary": "Elon Musk criticized the record spending on US midterm elections, calling it foolish. He also clarified that he is not part of the MAGA movement, distancing himself from Trump-linked politics.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+      "category": "Politics",
+      "filterTags": [
+        "Elon Musk",
+        "MAGA",
+        "Trump",
+        "US midterms"
+      ],
+      "publishedAt": "2026-11-19T02:59:06+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "musk-says-jensen-huang-is-irreplaceable-regrets-midterm-spending",
+      "title": "Musk says Jensen Huang is irreplaceable, regrets midterm spending",
+      "dek": "Elon Musk spoke about Jensen Huang, his U.S. midterms spending and overlaps between SpaceX and Tesla at the Dealbook Summit.",
+      "aiSummary": "At the Dealbook Summit, Elon Musk described NVIDIA CEO Jensen Huang as irreplaceable. He also expressed regret regarding his financial contributions to U.S. midterm elections and discussed operational overlaps between SpaceX and Tesla.",
+      "articleUrl": "https://www.cnbc.com/2026/11/19/elon-musk-jensen-huang-midterms.html",
+      "category": "Technology",
+      "filterTags": [
+        "Elon Musk",
+        "Jensen Huang",
+        "NVIDIA",
+        "SpaceX",
+        "Tesla",
+        "Dealbook Summit"
+      ],
+      "publishedAt": "2026-11-19T02:49:35+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Business"
+        },
+        {
+          "name": "Politics"
+        }
+      ]
+    },
+    {
+      "slug": "owning-an-apple-home-bye-bye-switchbot",
+      "title": "Owning an Apple Home: Bye bye SwitchBot",
+      "dek": "After months of living with various SwitchBot products, namely the Lock Vision Pro and garage door opener, I've finally given up and ripped all SwitchBot products from my  Apple Home . Here's why. SwitchBot is no longer working for me In July, I wrote a story for the \"Owning an A",
+      "aiSummary": "The author had been using SwitchBot products—specifically the Lock Vision Pro and a garage door opener—within their Apple Home ecosystem for several months. After the devices stopped functioning properly, they chose to uninstall all SwitchBot devices from the system. They also wrote a story detailing their experience and reasons for the decision.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/19/owning-an-apple-home-bye-bye-switchbot?utm_source=rss",
+      "category": "Smart Home",
+      "filterTags": [
+        "SwitchBot",
+        "Apple Home",
+        "Lock Vision Pro",
+        "garage door opener"
+      ],
+      "publishedAt": "2026-11-19T01:06:21+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Smart Home"
+        },
+        {
+          "name": "IoT"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "intel-signs-first-external-customer-for-advanced-18a-chips",
+      "title": "Intel signs first external customer for advanced 18A chips",
+      "dek": "Intel CEO Lip-Bu Tan said Wednesday that the company signed its first outside customer for its 18A chips.",
+      "aiSummary": "Intel CEO Lip-Bu Tan announced on Wednesday that the company has signed its first external customer for its advanced 18A chips. This marks a significant milestone for Intel's foundry business as it seeks to attract outside clients.",
+      "articleUrl": "https://www.cnbc.com/2026/11/18/intel-first-18a-foundry-customer.html",
+      "category": "Semiconductors",
+      "filterTags": [
+        "Intel",
+        "18A",
+        "Lip-Bu Tan"
+      ],
+      "publishedAt": "2026-11-19T01:05:25+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "elon-musk-plays-down-g-o-p-support-after-midterm-loss",
+      "title": "Elon Musk Plays Down G.O.P. Support After Midterm Loss",
+      "dek": "The C.E.O. of SpaceX, who spent millions to back Republican candidates, sought to portray himself as a political moderate.",
+      "aiSummary": "SpaceX CEO Elon Musk attempted to present himself as a political moderate after the Republican Party lost the midterm elections. This move comes after he spent millions of dollars supporting Republican candidates.",
+      "articleUrl": "https://www.nytimes.com/2026/11/18/business/dealbook/elon-musk-midterms.html",
+      "category": "Politics",
+      "filterTags": [
+        "Elon Musk",
+        "SpaceX",
+        "Republican Party",
+        "Midterm Elections"
+      ],
+      "publishedAt": "2026-11-19T00:58:47+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit",
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "dek": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
+      "aiSummary": "Microsoft CEO Satya Nadella stated that the company offered buyouts to 60,000 employees in October to encourage voluntary departures instead of conducting another large-scale layoff. He attributed this decision to the impact of AI, though the specific reasoning differs from common expectations.",
+      "articleUrl": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "category": "Corporate Strategy",
+      "filterTags": [
+        "Microsoft",
+        "Satya Nadella",
+        "AI"
+      ],
+      "publishedAt": "2026-11-19T00:42:56+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Corporate Strategy"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Workforce Management"
+        }
+      ]
+    },
+    {
+      "slug": "full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization",
+      "title": "Full Fine-Tuning (FFT) on SageMaker AI Serverless Model Customization",
+      "dek": "Amazon SageMaker AI Serverless Model Customization now supports Full Fine-Tuning (FFT). This post explores when FFT outperforms LoRA across key benchmarks, examines the spectral properties of model weight matrices behind the quality gap, shares practical hyperparameter tuning gui",
+      "aiSummary": "Amazon SageMaker AI Serverless Model Customization has introduced support for Full Fine-Tuning (FFT). The article analyzes scenarios where FFT surpasses LoRA in performance and investigates the spectral properties of model weight matrices that contribute to this quality difference.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization/",
+      "category": "Machine Learning",
+      "filterTags": [
+        "Amazon SageMaker",
+        "Full Fine-Tuning",
+        "LoRA",
+        "Model Customization"
+      ],
+      "publishedAt": "2026-11-19T00:15:58+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Cloud Computing"
+        }
+      ]
+    },
+    {
+      "slug": "city-firms-told-to-tighten-cyber-defences-as-ai-exposes-vulnerabilities",
+      "title": "City firms told to tighten cyber defences as AI exposes vulnerabilities",
+      "dek": "Regulators publish new directions after surge in hacking attempts and $6bn theft from crypto exchange Binance",
+      "aiSummary": "Regulators have issued new guidance for city firms to improve their cyber defenses. The move follows a rise in hacking attempts and a $6 billion theft from the crypto exchange Binance.",
+      "articleUrl": "https://www.ft.com/content/7cd81085-95d0-4511-b640-300a2c8791ff?syn-25a6b1a6=1",
+      "category": "Cybersecurity",
+      "filterTags": [
+        "AI",
+        "Binance"
+      ],
+      "publishedAt": "2026-11-19T00:01:06+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Regulation"
+        }
+      ]
+    },
+    {
+      "slug": "exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips",
+      "title": "Exa boosts embedding throughput by 50% to index billions of documents on AWS AI chips",
+      "dek": "Exa's neural search engine is backed by an in-house vector database, so the unit economics of embedding tens of billions of web documents drive the business. This post shares how Exa optimized embedding inference on AWS Neuron hardware (Inferentia2 and Trainium2) with custom NKI ",
+      "aiSummary": "Exa has improved the throughput of its embedding inference by 50% to efficiently index billions of documents. This optimization was achieved by leveraging AWS Neuron hardware, specifically Inferentia2 and Trainium2 chips, using custom NKI code.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips/",
+      "category": "AI Infrastructure",
+      "filterTags": [
+        "Exa",
+        "AWS",
+        "Neuron",
+        "Inferentia2",
+        "Trainium2",
+        "NKI",
+        "Vector Database"
+      ],
+      "publishedAt": "2026-11-18T23:58:22+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI Infrastructure"
+        },
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Search Technology"
+        }
+      ]
+    },
+    {
+      "slug": "four-maryland-high-school-students-sue-after-ai-mistakes-doritos-bag-for-gun",
+      "title": "Four Maryland high school students sue after AI mistakes Doritos bag for gun",
+      "dek": "Football players say they are ‘traumatized’ after being handcuffed and detained by police while waiting for rides home Four current and former students at a Maryland high school have filed a  lawsuit  a year after  armed police detained them , prompted by an AI alert that mistook",
+      "aiSummary": "Four current and former students at a Maryland high school have filed a lawsuit following an incident where armed police detained them. The students claim they were traumatized after being handcuffed and held while waiting for rides home, an action triggered by an AI alert that mistakenly identified a bag of Doritos as a firearm.",
+      "articleUrl": "https://www.theguardian.com/us-news/2026/nov/18/maryland-baltimore-county-doritos-gun-ai-lawsuit",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Maryland",
+        "Doritos",
+        "Lawsuit"
+      ],
+      "publishedAt": "2026-11-18T23:53:51+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Public Safety"
+        }
+      ]
+    },
+    {
+      "slug": "jim-cramer-says-nvidia-has-a-new-problem-and-it-has-nothing-to-do-with-earnings",
+      "title": "Jim Cramer says Nvidia has a new problem — and it has nothing to do with earnings",
+      "dek": "CNBC's Jim Cramer warned that Anthropic's highly anticipated IPO presents another headwind for Nvidia.",
+      "aiSummary": "CNBC's Jim Cramer warned that the upcoming initial public offering of Anthropic creates a new headwind for Nvidia. He noted that this development is distinct from the company's earnings performance.",
+      "articleUrl": "https://www.cnbc.com/2026/11/18/nvidia-cramer-anthropic-ipo-ceo.html",
+      "category": "Technology",
+      "filterTags": [
+        "Nvidia",
+        "Anthropic",
+        "IPO",
+        "Jim Cramer",
+        "CNBC"
+      ],
+      "publishedAt": "2026-11-18T23:46:32+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable",
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "dek": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+      "aiSummary": "Microsoft CEO Satya Nadella stated that a significant portion of critical infrastructure is 'unpatchable,' highlighting a major security vulnerability in the face of rising AI cyberattack risks. While addressing the recent Outlook outage, Nadella emphasized that AI presents both opportunities and new challenges for securing the connected world.",
+      "articleUrl": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "category": "AI",
+      "filterTags": [
+        "Microsoft",
+        "Satya Nadella",
+        "AI",
+        "Cybersecurity",
+        "Outlook"
+      ],
+      "publishedAt": "2026-11-18T23:45:00+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Enterprise Software"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-raises-81bn-in-record-ipo",
+      "title": "Anthropic raises $81bn in record IPO",
+      "dek": "AI giant’s enlarged deal will surpass SpaceX to become world’s biggest public listing",
+      "aiSummary": "AI company Anthropic has raised $81 billion in a record-breaking IPO. This enlarged deal is set to surpass SpaceX, making it the largest public listing in the world.",
+      "articleUrl": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "SpaceX",
+        "IPO"
+      ],
+      "publishedAt": "2026-11-18T22:04:50+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "datasette-arrows-0-1a0",
+      "title": "datasette-arrows 0.1a0",
+      "dek": "Release:   datasette-arrows 0.1a0 \n Datasette 1.0a43  added the ability for plugins to implement streaming export formats. Datasette core supports streaming CSV and TSV - you can export millions of lines of data from a table without needing to load it all into memory, because tho",
+      "aiSummary": "The datasette-arrows 0.1a0 release introduces support for streaming export formats in Datasette 1.0a43. This feature allows plugins to export large datasets, such as millions of lines, without loading all data into memory, complementing the core support for streaming CSV and TSV.",
+      "articleUrl": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
+      "category": "Open Source",
+      "filterTags": [
+        "datasette-arrows",
+        "Datasette",
+        "streaming export",
+        "CSV",
+        "TSV"
+      ],
+      "publishedAt": "2026-11-18T17:09:59+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Data Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "how-sumitomo-life-s-leaders-helped-teams-adopt-chatgpt-enterprise",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "dek": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "aiSummary": "Sumitomo Life is using ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. The company's executives used the tool early, which helped encourage wider adoption among teams.",
+      "articleUrl": "https://openai.com/business/customer-stories/sumitomo-life",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Sumitomo Life",
+        "ChatGPT Enterprise"
+      ],
+      "publishedAt": "2026-11-18T08:00:00+00:00",
+      "publisher": {
+        "name": "OpenAI",
+        "domain": "openai.com",
+        "website": "https://openai.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Enterprise Software"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    }
+  ]
+}
