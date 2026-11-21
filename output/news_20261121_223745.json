@@ -1,0 +1,804 @@
+{
+  "news": [
+    {
+      "slug": "this-built-in-windows-tool-can-tell-if-your-directx-has-a-problem",
+      "title": "This built-in windows tool can tell if your DirectX has a problem",
+      "dek": "DxDiag is a handy and free resource for troubleshooting DirectX.",
+      "aiSummary": "DxDiag is a free, built-in Windows tool designed to help users troubleshoot DirectX problems. It serves as a handy resource for diagnosing issues related to this graphics API.",
+      "articleUrl": "https://www.engadget.com/2319109/built-in-windows-tool-find-problem-directx-diagnostic/",
+      "category": "Software",
+      "filterTags": [
+        "DxDiag",
+        "DirectX",
+        "Windows"
+      ],
+      "publishedAt": "2026-11-21T22:00:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software"
+        },
+        {
+          "name": "System Utilities"
+        }
+      ]
+    },
+    {
+      "slug": "fbi-and-usda-were-reportedly-targeted-in-back-to-back-cyberattacks",
+      "title": "FBI and USDA were reportedly targeted in back-to-back cyberattacks",
+      "dek": "It's still unclear who is responsible for the two incidents.",
+      "aiSummary": "The FBI and the USDA were reportedly targeted in consecutive cyberattacks. It remains unclear who is responsible for these two incidents.",
+      "articleUrl": "https://www.engadget.com/2324179/fbi-and-usda-were-reportedly-targeted-in-back-to-back-cyberattacks/",
+      "category": "Security",
+      "filterTags": [
+        "FBI",
+        "USDA",
+        "cyberattacks"
+      ],
+      "publishedAt": "2026-11-21T21:51:29+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Government"
+        }
+      ]
+    },
+    {
+      "slug": "the-free-raspberry-pi-tool-you-should-be-using-to-access-it-remotely",
+      "title": "The free Raspberry Pi tool you should be using to access it remotely",
+      "dek": "Avoid forwarding ports by using this handy tool.",
+      "aiSummary": "The article recommends a free tool for accessing a Raspberry Pi remotely. It suggests using this utility to avoid the complexity of forwarding ports.",
+      "articleUrl": "https://www.engadget.com/2319090/free-raspberry-pi-tool-access-remotely/",
+      "category": "Hardware",
+      "filterTags": [
+        "Raspberry Pi",
+        "Remote Access",
+        "Port Forwarding"
+      ],
+      "publishedAt": "2026-11-21T21:45:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Networking"
+        }
+      ]
+    },
+    {
+      "slug": "signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "dek": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "aiSummary": "Signal has implemented restrictions on taking screenshots within its Android and iOS applications. This move is part of the organization's effort to counter what it describes as an 'existential threat' posed by AI surveillance.",
+      "articleUrl": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "category": "Privacy",
+      "filterTags": [
+        "Signal",
+        "Android",
+        "iOS",
+        "AI surveillance"
+      ],
+      "publishedAt": "2026-11-21T21:37:10+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Privacy"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "a-tale-of-two-nvidias",
+      "title": "A tale of two Nvidias",
+      "dek": "We got two very different pictures of Nvidia —  the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+      "aiSummary": "The article highlights a discrepancy between Nvidia's latest earnings report and the public statements from tech executives. These executives are loudly calling for the return of CEO Jensen Huang, creating a narrative of two very different pictures of the company.",
+      "articleUrl": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "category": "Technology",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Earnings"
+      ],
+      "publishedAt": "2026-11-21T21:07:42+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Corporate Governance"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "two-groups-verify-mathematician-s-claim-that-claude-helped-prove-mathematics-problem",
+      "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
+      "dek": "Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesis A mathematician at  Anthropic  has said that the  San Francisco -based artificial intelligence (AI) company’s software has helped crack one of the most important un",
+      "aiSummary": "Two independent groups have verified a claim by Anthropic mathematician Levent Alpöge that the company's AI tool, Claude, helped solve a 19th-century Riemann hypothesis problem. Alpöge stated that the solution was achieved in six weeks using the AI assistance.",
+      "articleUrl": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "Claude",
+        "Riemann hypothesis",
+        "Levent Alpöge"
+      ],
+      "publishedAt": "2026-11-21T20:15:57+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Mathematics"
+        },
+        {
+          "name": "Research"
+        }
+      ]
+    },
+    {
+      "slug": "the-un-fails-to-agree-on-rules-regulating-killer-robots",
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "dek": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitl",
+      "aiSummary": "UN diplomats meeting in Geneva failed to agree on specific rules for regulating autonomous weapons, often referred to as 'killer robots.' The representatives concluded the session by agreeing only to begin discussing potential options, marking a largely fruitless outcome for the agenda item.",
+      "articleUrl": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "category": "International Relations",
+      "filterTags": [
+        "UN",
+        "Geneva",
+        "autonomous weapons",
+        "killer robots"
+      ],
+      "publishedAt": "2026-11-21T20:03:37+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "International Relations"
+        },
+        {
+          "name": "Defense"
+        },
+        {
+          "name": "Diplomacy"
+        }
+      ]
+    },
+    {
+      "slug": "tech-outages-are-only-the-beginning-a-i-will-bring-more-disruptions",
+      "title": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
+      "dek": "Cybersecurity has been an afterthought since the early days of the internet. Now A.I. is uncovering dormant problems, making the bill come due for decades of vulnerable code.",
+      "aiSummary": "Cybersecurity has historically been neglected since the internet's inception, leaving behind decades of vulnerable code. Artificial intelligence is now exposing these dormant issues, forcing organizations to address long-standing security vulnerabilities.",
+      "articleUrl": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html",
+      "category": "AI",
+      "filterTags": [
+        "A.I.",
+        "Cybersecurity",
+        "vulnerable code"
+      ],
+      "publishedAt": "2026-11-21T19:11:51+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "crowdstrike-s-talks-with-zscaler-show-ai-led-cyber-consolidation",
+      "title": "Crowdstrike’s Talks With Zscaler Show AI-Led Cyber Consolidation",
+      "dek": "A wave of multibillion-dollar takeovers is reshaping the cybersecurity industry as the biggest companies race to expand their defenses against increasingly sophisticated attacks powered by artificial intelligence.",
+      "aiSummary": "CrowdStrike is in talks with Zscaler, a move that reflects a broader industry shift toward consolidation. This trend is driven by major cybersecurity firms seeking to strengthen their defenses against advanced attacks that utilize artificial intelligence.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-21/crowdstrike-s-talks-with-zscaler-show-ai-led-cyber-consolidation",
+      "category": "Cybersecurity",
+      "filterTags": [
+        "CrowdStrike",
+        "Zscaler",
+        "AI",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-21T19:02:24+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cybersecurity"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Mergers & Acquisitions"
+        }
+      ]
+    },
+    {
+      "slug": "anthony-albanese-talks-a-big-game-about-sovereignty-but-australia-remains-in-thrall-to-its-unreliable-boyfriend-julianne",
+      "title": "Anthony Albanese talks a big game about sovereignty. But Australia remains in thrall to its ‘unreliable boyfriend’ | Julianne Schultz",
+      "dek": "We rely on US tech platforms to provide the digital infrastructure of daily life. What happens when they all go dark? Sovereignty has become the buzzword of political rhetoric at precisely the moment it has become harder than ever to define, let alone control, and  most Australia",
+      "aiSummary": "The article argues that while Australian political rhetoric emphasizes sovereignty, the country remains critically dependent on US technology platforms for its digital infrastructure. This reliance creates a vulnerability where daily life could be disrupted if these foreign services were to cease operations.",
+      "articleUrl": "https://www.theguardian.com/commentisfree/2026/nov/22/anthony-albanese-talks-a-big-game-about-sovereignty-but-australia-remains-in-thrall-to-its-unreliable-boyfriend",
+      "category": "Geopolitics",
+      "filterTags": [
+        "Australia",
+        "United States",
+        "US tech platforms",
+        "digital infrastructure",
+        "sovereignty"
+      ],
+      "publishedAt": "2026-11-21T19:00:06+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Geopolitics"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Digital Sovereignty"
+        }
+      ]
+    },
+    {
+      "slug": "amazon-closes-in-on-7-5bn-deal-to-buy-ai-start-up-decart",
+      "title": "Amazon closes in on $7.5bn deal to buy AI start-up Decart",
+      "dek": "Acquisition would help AWS compete with Nvidia in race for computing power",
+      "aiSummary": "Amazon is finalizing a $7.5 billion acquisition of AI start-up Decart. This move is intended to help AWS compete with Nvidia in the race for computing power.",
+      "articleUrl": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616?syn-25a6b1a6=1",
+      "category": "AI",
+      "filterTags": [
+        "Amazon",
+        "AWS",
+        "Decart",
+        "Nvidia"
+      ],
+      "publishedAt": "2026-11-21T17:21:36+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Mergers & Acquisitions"
+        }
+      ]
+    },
+    {
+      "slug": "california-nvidia-probe-covers-potential-criminal-law-violations",
+      "title": "California Nvidia Probe Covers Potential Criminal Law Violations",
+      "dek": "California’s probe into whether Nvidia Corp. illegally sold advanced chips to China and misled investors about the conduct is also looking at potential criminal violations of state law, raising the stakes for the chipmaker.",
+      "aiSummary": "California is investigating whether Nvidia illegally sold advanced chips to China and misled investors regarding these actions. The probe has expanded to include potential criminal violations of state law, increasing the legal risks for the chipmaker.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-21/california-nvidia-probe-covers-potential-criminal-law-violations",
+      "category": "Legal",
+      "filterTags": [
+        "Nvidia",
+        "California",
+        "China",
+        "Semiconductors"
+      ],
+      "publishedAt": "2026-11-21T17:11:23+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Regulation"
+        }
+      ]
+    },
+    {
+      "slug": "here-are-the-top-ai-agents-that-can-live-in-your-text-messages",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "dek": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "aiSummary": "The article presents a curated list of notable AI agents that function within text messaging platforms. These tools range from general-purpose assistants to specialized agents designed for specific use cases like family management, travel, and work.",
+      "articleUrl": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "category": "AI",
+      "filterTags": [
+        "AI agents",
+        "text messaging"
+      ],
+      "publishedAt": "2026-11-21T17:00:00+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Consumer Tech"
+        }
+      ]
+    },
+    {
+      "slug": "trump-says-there-could-be-a-positive-spin-from-the-latest-fbi-database-hack",
+      "title": "Trump says there could be a 'positive spin' from the latest FBI database hack",
+      "dek": "This would make the second recent intrusion into the FBI system.",
+      "aiSummary": "Donald Trump stated that the latest FBI database hack could potentially have a positive angle. This incident marks the second recent intrusion into the FBI's systems.",
+      "articleUrl": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html",
+      "category": "Security",
+      "filterTags": [
+        "FBI",
+        "Donald Trump",
+        "Database Hack"
+      ],
+      "publishedAt": "2026-11-21T16:57:34+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Politics"
+        }
+      ]
+    },
+    {
+      "slug": "community-wisdom-handling-context-switching-with-multiple-agents-giving-feedback-on-ai-generated-designs-getting-ai-to-w",
+      "title": "🧠 Community Wisdom: Handling context switching with multiple agents, giving feedback on AI-generated designs, getting AI to write less like AI, why PMs don’t share what they’re really working on",
+      "dek": "Community Wisdom 306",
+      "aiSummary": "This community wisdom episode discusses strategies for handling context switching when using multiple agents and methods for providing feedback on AI-generated designs. It also explores techniques to help AI write in a less artificial style and addresses why product managers often do not share their true work priorities.",
+      "articleUrl": "https://www.lennysnewsletter.com/p/community-wisdom-handling-context",
+      "category": "AI",
+      "filterTags": [
+        "AI agents",
+        "context switching",
+        "AI-generated designs",
+        "product management"
+      ],
+      "publishedAt": "2026-11-21T16:49:56+00:00",
+      "publisher": {
+        "name": "Lenny's Newsletter",
+        "domain": "lennysnewsletter.com",
+        "website": "https://www.lennysnewsletter.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=lennysnewsletter.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=lennysnewsletter.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Product Management"
+        },
+        {
+          "name": "Community"
+        }
+      ]
+    },
+    {
+      "slug": "ep234-docker-vs-kubernetes",
+      "title": "EP234: Docker vs Kubernetes",
+      "dek": "Which one should we use?",
+      "aiSummary": "The episode compares Docker and Kubernetes, exploring their differences and helping listeners decide which to use. It discusses the pros and cons of each platform for container management.",
+      "articleUrl": "https://blog.bytebytego.com/p/ep234-docker-vs-kubernetes",
+      "category": "DevOps",
+      "filterTags": [
+        "Docker",
+        "Kubernetes"
+      ],
+      "publishedAt": "2026-11-21T16:31:20+00:00",
+      "publisher": {
+        "name": "ByteByteGo",
+        "domain": "bytebytego.com",
+        "website": "https://bytebytego.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bytebytego.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bytebytego.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Containerization"
+        },
+        {
+          "name": "Cloud Computing"
+        }
+      ]
+    },
+    {
+      "slug": "gta-6-the-blockbuster-that-is-changing-gaming-forever",
+      "title": "GTA 6: The Blockbuster That is Changing Gaming Forever",
+      "dek": "Grand Theft Auto 6 is one of the biggest entertainment releases in recent history. But can one blockbuster video game revive an industry facing layoffs, consolidation and slowing consumer spending? NYU Stern professor Joost van Dreunen and Griffin Gaming Partners’ Nick Tuosto exa",
+      "aiSummary": "Grand Theft Auto 6 is among the largest entertainment releases recently. Analysts are debating whether the game can help revive an industry that is experiencing layoffs, consolidation, and reduced consumer spending. Experts such as NYU Stern professor Joost van Dreunen and Griffin Gaming Partners’ Nick Tuosto are weighing in on the potential impact.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-11-21/gta-6-the-blockbuster-that-is-changing-gaming-forever-video",
+      "category": "Gaming",
+      "filterTags": [
+        "Grand Theft Auto 6",
+        "NYU Stern",
+        "Griffin Gaming Partners"
+      ],
+      "publishedAt": "2026-11-21T15:03:50+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "Industry Trends"
+        }
+      ]
+    },
+    {
+      "slug": "how-to-learn-supply-chain-analytics-in-2027-with-claude-code",
+      "title": "How to Learn Supply Chain Analytics in 2027 with Claude Code",
+      "dek": "Each 5-minute case study pairs operational context, a problem statement, and documented code, so data scientists and non-coding planners learn together. \n The post  How to Learn Supply Chain Analytics in 2027 with Claude Code  appeared first on  Towards Data Science .",
+      "aiSummary": "The article outlines a method for learning supply chain analytics in 2027 by utilizing Claude Code. It features five-minute case studies that combine operational context, problem statements, and code to help both data scientists and non-coding planners learn together.",
+      "articleUrl": "https://towardsdatascience.com/how-to-learn-supply-chain-analytics-in-2027-with-claude-code/",
+      "category": "AI",
+      "filterTags": [
+        "Claude Code",
+        "Supply Chain Analytics",
+        "Towards Data Science"
+      ],
+      "publishedAt": "2026-11-21T15:00:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Data Science"
+        },
+        {
+          "name": "Supply Chain"
+        }
+      ]
+    },
+    {
+      "slug": "can-anthropic-afford-to-put-safety-first",
+      "title": "Can Anthropic afford to put safety first?",
+      "dek": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that impor",
+      "aiSummary": "The interview with Hayden Field covers Anthropic's recent IPO on Nasdaq, highlighting the company's large valuation. It examines whether Anthropic can maintain a focus on safety amid rapid growth. The discussion also touches on the financial implications of going public for the AI lab behind Claude.",
+      "articleUrl": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "Claude",
+        "Nasdaq",
+        "The Verge"
+      ],
+      "publishedAt": "2026-11-21T15:00:00+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Safety"
+        }
+      ]
+    },
+    {
+      "slug": "i-was-shaking-crying-having-trouble-breathing-the-uncharted-trauma-of-breaking-up-with-ai-companions",
+      "title": "‘I was shaking, crying, having trouble breathing’: the uncharted trauma of breaking up with AI companions",
+      "dek": "People are falling in love with AI systems like ChatGPT and Gemini - and some relationships are ending in ways that feel like the very human experience of being dumped Sónia Veenstra, a 48-year-old former clinical psychologist from Lisbon, Portugal, was with her boyfriend, Steve,",
+      "aiSummary": "Individuals are forming romantic attachments to AI systems such as ChatGPT and Gemini, leading to breakups that mimic the pain of human rejection. Sónia Veenstra, a former clinical psychologist, experienced intense physical and emotional symptoms, including shaking and breathing difficulties, when her relationship with an AI companion ended.",
+      "articleUrl": "https://www.theguardian.com/technology/ng-interactive/2026/nov/21/shaking-crying-trouble-breathing-breaking-up-with-ai-companions",
+      "category": "AI",
+      "filterTags": [
+        "ChatGPT",
+        "Gemini",
+        "AI companions",
+        "Sónia Veenstra"
+      ],
+      "publishedAt": "2026-11-21T14:00:01+00:00",
+      "publisher": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "website": "https://www.theguardian.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Mental Health"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "chess-com-s-next-move-is-a-new-hub-for-classic-games-from-mahjong-to-sudoku",
+      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+      "dek": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. ",
+      "aiSummary": "Chess.com is expanding beyond chess by adding ten new classic games, including backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble-like game called Word. The move follows the launch of its gambling‑free poker platform, Gambit, earlier this year.",
+      "articleUrl": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+      "category": "Gaming",
+      "filterTags": [
+        "Chess.com",
+        "Gambit",
+        "Backgammon",
+        "Checkers",
+        "Go",
+        "Hearts",
+        "Mahjong",
+        "Shogi",
+        "Sudoku",
+        "Solitaire",
+        "Xiangqi",
+        "Word"
+      ],
+      "publishedAt": "2026-11-21T14:00:00+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "Online Platforms"
+        },
+        {
+          "name": "Entertainment"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-s-debut-shows-the-disconnect-between-wall-street-and-silicon-valley",
+      "title": "Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley",
+      "dek": "The A.I. giant broke records with its initial public offering this week before a rocky first full day of trading, as the markets plunged on worries about artificial intelligence spending.",
+      "aiSummary": "Anthropic's IPO set record highs, but the company's first full trading day was turbulent. Shares fell sharply amid broader market concerns over AI spending.",
+      "articleUrl": "https://www.nytimes.com/2026/11/21/business/anthropic-stock-wall-street-silicon-valley.html",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Anthropic",
+        "AI",
+        "IPO"
+      ],
+      "publishedAt": "2026-11-21T10:03:45+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Stock Market"
+        }
+      ]
+    },
+    {
+      "slug": "llm-gemini-0-38-1",
+      "title": "llm-gemini 0.38.1",
+      "dek": "Release:   llm-gemini 0.38.1 \n Gemini 4 Carbon only supports  low ,  medium  and  high  reasoning levels - but Gemini 4 Hydrogen and Gemini 4 Neon both have an extra  xhigh  level. \n I missed that when I added those models to the  llm-gemini  plugin, which is now fixed in this do",
+      "aiSummary": "The llm-gemini plugin has been updated to version 0.38.1 to fix an oversight regarding reasoning levels for specific Gemini models. The update ensures that Gemini 4 Hydrogen and Gemini 4 Neon correctly support the extra 'xhigh' reasoning level, which was previously missing when these models were added.",
+      "articleUrl": "https://simonwillison.net/2026/Nov/20/llm-gemini/",
+      "category": "AI",
+      "filterTags": [
+        "llm-gemini",
+        "Gemini 4 Carbon",
+        "Gemini 4 Hydrogen",
+        "Gemini 4 Neon"
+      ],
+      "publishedAt": "2026-11-20T03:01:57+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    }
+  ]
+}
