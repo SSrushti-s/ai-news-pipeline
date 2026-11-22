@@ -1,0 +1,520 @@
+{
+  "news": [
+    {
+      "slug": "china-objects-to-us-curbs-on-telecoms-access-to-phone-numbers",
+      "title": "China Objects to US Curbs on Telecoms’ Access to Phone Numbers",
+      "dek": "China urged the US to withdraw a measure barring its three largest telecoms from directly obtaining US phone numbers, saying the action violates principles of nondiscrimination and fair competition.",
+      "aiSummary": "China has asked the United States to revoke a regulation that prevents its three largest telecommunications providers from directly acquiring US phone numbers. The Chinese government argues that this measure breaches the principles of nondiscrimination and fair competition.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-22/china-objects-to-us-curbs-on-telecoms-access-to-phone-numbers",
+      "category": "Telecommunications",
+      "filterTags": [
+        "China",
+        "US",
+        "Telecoms",
+        "Phone Numbers"
+      ],
+      "publishedAt": "2026-11-22T02:44:26+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Telecommunications"
+        },
+        {
+          "name": "International Trade"
+        },
+        {
+          "name": "Regulation"
+        }
+      ]
+    },
+    {
+      "slug": "australia-spy-chief-warns-of-data-center-ai-risks-age-reports",
+      "title": "Australia Spy Chief Warns of Data Center, AI Risks, Age Reports",
+      "dek": "Australia’s spy chief said that data centers and artificial intelligence risk exposing the nation to foreign interference and malicious state actors, according to an interview in The Age Sunday.",
+      "aiSummary": "Australia's spy chief warned in an interview with The Age Sunday that data centers and artificial intelligence pose risks of foreign interference and attacks by malicious state actors. The comments highlight concerns about national security vulnerabilities associated with these emerging technologies.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-22/australia-spy-chief-warns-of-data-center-ai-risks-age-reports",
+      "category": "National Security",
+      "filterTags": [
+        "Australia",
+        "AI",
+        "Data Centers",
+        "The Age"
+      ],
+      "publishedAt": "2026-11-22T02:37:31+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "National Security"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Cybersecurity"
+        }
+      ]
+    },
+    {
+      "slug": "meta-ads-is-now-available-in-aws-quick",
+      "title": "Meta ads is now available in AWS Quick",
+      "dek": "AWS Quick now has a Meta ads AI connector. Meta advertisers can use natural language in Quick to create, manage, and analyze campaigns while staying connected to the Meta ad management network, and combine Meta ad data with first- and third-party sources to build dashboards, docu",
+      "aiSummary": "AWS Quick has introduced an AI connector for Meta ads, allowing advertisers to create, manage, and analyze campaigns using natural language. This integration enables users to combine Meta ad data with first- and third-party sources to build dashboards and documents while remaining connected to the Meta ad management network.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/",
+      "category": "Cloud Computing",
+      "filterTags": [
+        "Meta",
+        "AWS Quick",
+        "AI connector",
+        "advertising"
+      ],
+      "publishedAt": "2026-11-22T01:59:13+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "Advertising"
+        },
+        {
+          "name": "Artificial Intelligence"
+        }
+      ]
+    },
+    {
+      "slug": "a-team-of-researchers-from-columbia-and-certik-introduce-tensorlean-for-formal-verification-of-gpu-kernels",
+      "title": "A Team of Researchers from Columbia and CertiK Introduce TensorLean for Formal Verification of GPU Kernels",
+      "dek": "TensorLean, from Columbia University and CertiK, formally verifies production GPU kernels at the PTX level using Lean. It checked 149 kernel instances, proved 83 correct, and found 38 bugs in FlashAttention, DeepGEMM and more. \n The post  A Team of Researchers from Columbia and C",
+      "aiSummary": "Researchers from Columbia University and CertiK have introduced TensorLean, a tool that uses Lean to formally verify production GPU kernels at the PTX level. In testing, the system checked 149 kernel instances, proving 83 correct and identifying 38 bugs in frameworks such as FlashAttention and DeepGEMM.",
+      "articleUrl": "https://www.marktechpost.com/2026/11/21/columbia-certik-tensorlean-formal-verification-gpu-kernels/",
+      "category": "AI",
+      "filterTags": [
+        "TensorLean",
+        "Columbia University",
+        "CertiK",
+        "Lean",
+        "PTX",
+        "FlashAttention",
+        "DeepGEMM"
+      ],
+      "publishedAt": "2026-11-22T01:51:43+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Formal Verification"
+        }
+      ]
+    },
+    {
+      "slug": "attention-pixel-9-and-10-owners-is-it-actually-worth-upgrading-to-the-pixel-11",
+      "title": "Attention Pixel 9 and 10 owners: is it actually worth upgrading to the Pixel 11?",
+      "dek": "New doesn't always mean better, especially in this economy. Here's what you need to know before deciding if the new Google Pixel 11 is the worth your money.",
+      "aiSummary": "The article advises Pixel 9 and 10 owners to carefully evaluate whether upgrading to the Pixel 11 is financially justified. It suggests that newer models are not always superior and highlights the need to consider economic factors before making a purchase decision.",
+      "articleUrl": "https://www.engadget.com/2319300/pixel-11-is-it-worth-upgrading-from-9-10/",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Google",
+        "Pixel 9",
+        "Pixel 10",
+        "Pixel 11"
+      ],
+      "publishedAt": "2026-11-22T01:00:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Mobile Devices"
+        }
+      ]
+    },
+    {
+      "slug": "samsung-vs-lg-oled-tvs-what-s-the-difference-between-them",
+      "title": "Samsung vs. LG OLED TVs: What's the difference between them?",
+      "dek": "It's not simple to say that one is better than the other.",
+      "aiSummary": "The article states that it's not simple to say that one is better than the other. Thus, the comparison between Samsung and LG OLED TVs remains inconclusive.",
+      "articleUrl": "https://www.engadget.com/2310887/samsung-vs-lg-oled-tv-difference-between/",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Samsung",
+        "LG",
+        "OLED TV"
+      ],
+      "publishedAt": "2026-11-22T01:00:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Display Technology"
+        }
+      ]
+    },
+    {
+      "slug": "this-is-what-can-happen-if-too-many-devices-are-sharing-your-home-network",
+      "title": "This is what can happen if too many devices are sharing your home network",
+      "dek": "If you play your numbers right, you may be able to avoid internet connectivity issues at home without shelling out more money.",
+      "aiSummary": "The article discusses the negative impacts on home internet connectivity caused by an excessive number of connected devices. It suggests that users can potentially avoid these issues without incurring additional costs by managing their network usage effectively.",
+      "articleUrl": "https://www.engadget.com/2319295/what-can-happen-too-many-devices-on-home-network/",
+      "category": "Consumer Tech",
+      "filterTags": [
+        "Home Network",
+        "Connectivity",
+        "Device Management"
+      ],
+      "publishedAt": "2026-11-22T00:45:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Tech"
+        },
+        {
+          "name": "Networking"
+        }
+      ]
+    },
+    {
+      "slug": "muru",
+      "title": "Muru",
+      "dek": "Muru \nGraham Dumpleton started  mod_wsgi  20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. \n Muru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI and WSGI Python ap",
+      "aiSummary": "Graham Dumpleton, the creator of mod_wsgi, has developed Muru, a new AI-assisted server written in Rust. The tool is designed to provide optimal infrastructure for serving ASGI and WSGI Python applications in production environments.",
+      "articleUrl": "https://simonwillison.net/2026/Nov/21/muru/",
+      "category": "Web Infrastructure",
+      "filterTags": [
+        "Muru",
+        "Rust",
+        "Python",
+        "ASGI",
+        "WSGI",
+        "mod_wsgi",
+        "Graham Dumpleton"
+      ],
+      "publishedAt": "2026-11-21T23:56:28+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Web Infrastructure"
+        },
+        {
+          "name": "Programming Languages"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "current-stack",
+      "title": "Current Stack",
+      "dek": "21 November 2026 Current Tech Stack, 21 November 2026/images/current-stack/2026-11-21-card.webp/images/current-stack/2026-11-21-card.webp Software: Claude Codehttps://claude.com/product/claude-code · LifeOShttps://ourlifeos.ai/ · Rexhttps://www.superlogical.com/rex · UL Vimhttps:",
+      "aiSummary": "The article outlines a current technology stack as of November 21, 2026. It lists specific software tools including Claude Code, LifeOS, Rex, and UL Vim.",
+      "articleUrl": "https://danielmiessler.com/blog/current-stack?utm_source=rss&utm_medium=feed&utm_campaign=website",
+      "category": "Software",
+      "filterTags": [
+        "Claude Code",
+        "LifeOS",
+        "Rex",
+        "UL Vim",
+        "Superlogical"
+      ],
+      "publishedAt": "2026-11-21T23:40:00+00:00",
+      "publisher": {
+        "name": "Daniel Miessler",
+        "domain": "danielmiessler.com",
+        "website": "https://danielmiessler.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=danielmiessler.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=danielmiessler.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Software"
+        },
+        {
+          "name": "Productivity"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "gpt-6-2-astra-and-sol-the-system-card",
+      "title": "GPT-6.2 Astra and Sol: The System Card",
+      "dek": "We have to stop meeting like this.",
+      "aiSummary": "The provided text does not contain factual information about GPT-6.2 Astra and Sol. It consists solely of the phrase 'We have to stop meeting like this.'",
+      "articleUrl": "https://thezvi.substack.com/p/gpt-62-astra-and-sol-the-system-card",
+      "category": "AI",
+      "filterTags": [
+        "GPT-6.2",
+        "Astra",
+        "Sol"
+      ],
+      "publishedAt": "2026-11-21T15:11:35+00:00",
+      "publisher": {
+        "name": "Zvi Mowshowitz",
+        "domain": "substack.com",
+        "website": "https://thezvi.substack.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=substack.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=substack.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "last-week-in-ai-348-ipo-correction-new-gpts-and-geminis-nvidia-s-fate",
+      "title": "Last Week in AI #348 - IPO->Correction, new GPTs and Geminis, Nvidia’s Fate",
+      "dek": "Anthropic's $81B IPO, AI stocks enter a correction, Huang resigns from Nvidia, Trump and Xi agree on military AI",
+      "aiSummary": "Anthropic announced an $81 billion IPO, while AI shares fell into a correction. Nvidia CEO Jensen Huang stepped down, and U.S. President Trump and Chinese leader Xi Jinping reached an agreement on military AI.",
+      "articleUrl": "https://lastweekin.ai/p/last-week-in-ai-348-ipo-correction",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "Nvidia",
+        "GPT",
+        "Gemini",
+        "IPO",
+        "AI"
+      ],
+      "publishedAt": "2026-11-21T08:41:43+00:00",
+      "publisher": {
+        "name": "Last Week in AI",
+        "domain": "substack.com",
+        "website": "https://lastweekinai.substack.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=substack.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=substack.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Geopolitics"
+        }
+      ]
+    },
+    {
+      "slug": "on-dwarkesh-patel-s-november-2026-podcast-with-paul-christiano",
+      "title": "On Dwarkesh Patel’s November 2026 Podcast With Paul Christiano",
+      "dek": "Paul Christiano has a message for us: There is meaningful risk of AI taking over within even the next 6-12 months.",
+      "aiSummary": "In a November 2026 podcast episode with Dwarkesh Patel, Paul Christiano warns that there is a significant risk of AI taking over within the next six to twelve months. Christiano conveys this urgent message regarding the rapid timeline for potential AI control.",
+      "articleUrl": "https://thezvi.substack.com/p/on-dwarkesh-patels-november-2026",
+      "category": "AI",
+      "filterTags": [
+        "Dwarkesh Patel",
+        "Paul Christiano",
+        "AI"
+      ],
+      "publishedAt": "2026-11-20T15:24:40+00:00",
+      "publisher": {
+        "name": "Zvi Mowshowitz",
+        "domain": "substack.com",
+        "website": "https://thezvi.substack.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=substack.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=substack.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Safety"
+        }
+      ]
+    },
+    {
+      "slug": "ai-195-opening-bell",
+      "title": "AI #195: Opening Bell",
+      "dek": "Happy Zvi finally takes a real vacation day.",
+      "aiSummary": "The article announces that Zvi is finally taking a real vacation day. This update is part of the AI #195: Opening Bell series.",
+      "articleUrl": "https://thezvi.substack.com/p/ai-195-opening-bell",
+      "category": "AI",
+      "filterTags": [
+        "Zvi",
+        "AI #195"
+      ],
+      "publishedAt": "2026-11-19T11:56:26+00:00",
+      "publisher": {
+        "name": "Zvi Mowshowitz",
+        "domain": "substack.com",
+        "website": "https://thezvi.substack.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=substack.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=substack.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Personal Updates"
+        }
+      ]
+    },
+    {
+      "slug": "inspiring-foss-project-crosspoint-reader-has-lessons-about-tech-communities-and-llms",
+      "title": "Inspiring FOSS project Crosspoint Reader has lessons about tech, communities, and LLMs",
+      "dek": "Cheap tiny e-readers and the perils of LLM-generated drive-by pull requests – plus much more",
+      "aiSummary": "The article discusses the Crosspoint Reader, an open-source project for inexpensive e‑readers, and highlights the risks associated with LLM‑generated pull requests. It also covers other related topics.",
+      "articleUrl": "https://www.theregister.com/software/2026/11/17/inspiring-foss-project-crosspoint-reader-has-lessons-about-tech-communities-and-llms/5310424",
+      "category": "Open Source",
+      "filterTags": [
+        "Crosspoint Reader",
+        "LLM",
+        "e-reader"
+      ],
+      "publishedAt": "2026-11-17T17:45:00+00:00",
+      "publisher": {
+        "name": "The Register",
+        "domain": "theregister.com",
+        "website": "https://www.theregister.com/software/ai_ml/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=theregister.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=theregister.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Artificial Intelligence"
+        }
+      ]
+    },
+    {
+      "slug": "import-ai-481-ai-sub-contractors-a-wet-lab-for-ai-and-subterfuge-during-development",
+      "title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
+      "dek": "Plus: CucumberVision!",
+      "aiSummary": "The article highlights topics from Import AI episode 481, including the role of AI sub-contractors and the use of wet labs for AI research. It also addresses issues of subterfuge during the development process and mentions CucumberVision.",
+      "articleUrl": "https://importai.substack.com/p/import-ai-481-ai-sub-contractors",
+      "category": "AI",
+      "filterTags": [
+        "Import AI",
+        "CucumberVision"
+      ],
+      "publishedAt": "2026-11-16T14:01:15+00:00",
+      "publisher": {
+        "name": "Import AI",
+        "domain": "importai.substack.com",
+        "website": "https://importai.substack.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=importai.substack.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=importai.substack.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Research"
+        }
+      ]
+    }
+  ]
+}
