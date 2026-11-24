@@ -1,0 +1,1731 @@
+{
+  "news": [
+    {
+      "slug": "agent-swarms-need-more-than-a-message-board",
+      "title": "Agent swarms need more than a message board",
+      "dek": "Agent swarms are really distributed systems problems in disguise.",
+      "aiSummary": "The article argues that agent swarms are fundamentally distributed systems problems. It suggests that these systems require more complex infrastructure than just a basic message board to function effectively.",
+      "articleUrl": "https://stackoverflow.blog/2026/11/24/agent-swarms-need-more-than-a-message-board/",
+      "category": "AI",
+      "filterTags": [
+        "Agent swarms",
+        "Distributed systems"
+      ],
+      "publishedAt": "2026-11-24T08:40:00+00:00",
+      "publisher": {
+        "name": "Stack Overflow Blog",
+        "domain": "stackoverflow.blog",
+        "website": "https://stackoverflow.blog",
+        "logoUrl": "https://stackoverflow.blog/apple-touch-icon.png",
+        "faviconUrl": "https://stackoverflow.blog/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Systems Architecture"
+        }
+      ]
+    },
+    {
+      "slug": "asian-nvidia-related-stocks-jump-after-huang-s-return-with-taiwan-s-near-price-limits",
+      "title": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits",
+      "dek": "Investors piled back into the tech market, following the reinstatement of Nvidia CEO Jensen Huang by its board.",
+      "aiSummary": "Investors returned to the technology sector following the board's decision to reinstate Nvidia CEO Jensen Huang. This move triggered a significant rise in Asian stocks related to Nvidia, with some Taiwan-based shares approaching their daily price limits.",
+      "articleUrl": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
+      "category": "Technology",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Taiwan"
+      ],
+      "publishedAt": "2026-11-24T07:27:15+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Markets"
+        }
+      ]
+    },
+    {
+      "slug": "six-key-questions-raised-by-jensen-huang-s-return-to-nvidia",
+      "title": "Six key questions raised by Jensen Huang's return to Nvidia",
+      "dek": "As Jensen Huang returns to Nvidia, questions remained around the board's reversal, Trump's involvement and the tech giant's future.",
+      "aiSummary": "Jensen Huang is returning to Nvidia, a move that has sparked significant questions. Key uncertainties remain regarding the board of directors' decision to reverse course, the role of Donald Trump, and the company's future direction.",
+      "articleUrl": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
+      "category": "Corporate Governance",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Donald Trump"
+      ],
+      "publishedAt": "2026-11-24T07:12:33+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Corporate Governance"
+        },
+        {
+          "name": "Technology Leadership"
+        }
+      ]
+    },
+    {
+      "slug": "japan-s-fujitsu-woos-demand-for-alternatives-to-us-china-chips",
+      "title": "Japan’s Fujitsu Woos Demand for Alternatives to US, China Chips",
+      "dek": "Initial demand for Fujitsu Ltd.’s new Monaka server chips is exceeding expectations, fueled by clients seeking alternatives to US and Chinese suppliers, according to the company’s chief technology officer.",
+      "aiSummary": "Fujitsu reports that initial demand for its new Monaka server chips has surpassed expectations. This surge is driven by clients seeking alternatives to semiconductor suppliers from the United States and China.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-24/japan-s-fujitsu-woos-demand-for-alternatives-to-us-china-chips",
+      "category": "Hardware",
+      "filterTags": [
+        "Fujitsu",
+        "Monaka",
+        "server chips",
+        "semiconductors"
+      ],
+      "publishedAt": "2026-11-24T07:06:22+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Supply Chain"
+        },
+        {
+          "name": "Semiconductors"
+        }
+      ]
+    },
+    {
+      "slug": "jensen-huang-is-too-big-to-fire-putting-nvidia-s-governance-in-focus-analysts",
+      "title": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
+      "dek": "Jensen Huang’s return has underscored Nvidia’s deep reliance on its founder, putting the company's board oversight and corporate governance under scrutiny.",
+      "aiSummary": "Analysts argue that Jensen Huang's return highlights Nvidia's heavy reliance on its founder, which has intensified scrutiny of the company's board oversight. This situation has placed the firm's corporate governance practices under close examination.",
+      "articleUrl": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html",
+      "category": "Technology",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Corporate Governance"
+      ],
+      "publishedAt": "2026-11-24T06:31:56+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Corporate Governance"
+        }
+      ]
+    },
+    {
+      "slug": "tech-stocks-surge-on-jensen-huang-s-return",
+      "title": "Tech stocks surge on Jensen Huang’s return",
+      "dek": "Asian markets follow Wall Street higher after Nvidia chief’s reinstatement",
+      "aiSummary": "Asian stock markets rose in tandem with Wall Street following the reinstatement of Nvidia's chief executive, Jensen Huang. This development triggered a significant surge in technology stocks across both regions.",
+      "articleUrl": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1",
+      "category": "Markets",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Tech stocks",
+        "Wall Street",
+        "Asian markets"
+      ],
+      "publishedAt": "2026-11-24T06:30:34+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Markets"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "the-jensen-put",
+      "title": "The Jensen put",
+      "dek": "Plus, Capex or die trying",
+      "aiSummary": "The article discusses the concept of 'The Jensen put,' likely referring to market confidence or financial backing associated with Jensen Huang. It also highlights the critical importance of capital expenditure (Capex) for survival or success in the current business landscape.",
+      "articleUrl": "https://www.ft.com/content/74408261-9cb4-41ae-8d4f-3a1a9ce72930?syn-25a6b1a6=1",
+      "category": "Finance",
+      "filterTags": [
+        "Jensen Huang",
+        "Capex"
+      ],
+      "publishedAt": "2026-11-24T06:30:04+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "worldremit-founder-takes-aim-at-global-migrant-banking-market",
+      "title": "WorldRemit Founder Takes Aim at Global Migrant Banking Market",
+      "dek": "WorldRemit Group Ltd. founder Ismail Ahmed, who helped build one of the world’s biggest digital money-transfer businesses, is starting a new fintech aimed at giving migrants a broader suite of financial services as the amount they send home approaches $1 trillion a year.",
+      "aiSummary": "Ismail Ahmed, the founder of WorldRemit Group Ltd., is launching a new fintech company designed to provide migrants with a wider range of financial services. This initiative targets the global migrant banking market, which is significant as remittances from migrants are approaching $1 trillion annually.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-24/worldremit-founder-takes-aim-at-global-migrant-banking-market",
+      "category": "Fintech",
+      "filterTags": [
+        "WorldRemit",
+        "Ismail Ahmed",
+        "Fintech",
+        "Remittances"
+      ],
+      "publishedAt": "2026-11-24T06:21:08+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Fintech"
+        },
+        {
+          "name": "Global Finance"
+        }
+      ]
+    },
+    {
+      "slug": "us-blacklists-megaspeed-after-nvidia-spying-scandal",
+      "title": "US Blacklists Megaspeed After Nvidia Spying Scandal",
+      "dek": "The Trump administration has put Megaspeed International on a US trade blacklist that bars it from buying advanced AI chips, targeting a Singapore-based firm at the heart of the scandal that briefly cost Jensen Huang his job at Nvidia. (Source: Bloomberg)",
+      "aiSummary": "The Trump administration has added Megaspeed International to a US trade blacklist, prohibiting the Singapore-based company from acquiring advanced AI chips. This action targets a firm central to a recent scandal that temporarily threatened Nvidia CEO Jensen Huang's position.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-11-24/us-blacklists-megaspeed-after-nvidia-spying-scandal-video",
+      "category": "Semiconductors",
+      "filterTags": [
+        "Megaspeed International",
+        "Nvidia",
+        "Jensen Huang",
+        "AI chips",
+        "US trade blacklist"
+      ],
+      "publishedAt": "2026-11-24T06:21:06+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Geopolitics"
+        },
+        {
+          "name": "Corporate Governance"
+        }
+      ]
+    },
+    {
+      "slug": "apple-confirms-ted-lasso-will-return-for-season-5",
+      "title": "Apple confirms Ted Lasso will return for Season 5",
+      "dek": "Ted Lasso, which everyone thought was ending with Season 3, has just been renewed for a fifth season.",
+      "aiSummary": "The television series Ted Lasso has been renewed for a fifth season by Apple. This development comes after many viewers believed the show would conclude with its third season.",
+      "articleUrl": "https://www.engadget.com/2326238/apple-confirms-ted-lasso-will-return-for-season-5/",
+      "category": "Entertainment",
+      "filterTags": [
+        "Apple",
+        "Ted Lasso"
+      ],
+      "publishedAt": "2026-11-24T06:00:08+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Entertainment"
+        },
+        {
+          "name": "Streaming"
+        }
+      ]
+    },
+    {
+      "slug": "german-industrial-giants-launch-trading-house-for-rare-earths",
+      "title": "German industrial giants launch trading house for rare earths",
+      "dek": "Also in this newsletter: Europe’s underused playing card on AI",
+      "aiSummary": "German industrial giants have established a trading house dedicated to rare earths. The newsletter also highlights Europe's underutilized strategic advantage in the artificial intelligence sector.",
+      "articleUrl": "https://www.ft.com/content/bfcb8ee8-97cc-4ef0-8234-3a8da0d3a814?syn-25a6b1a6=1",
+      "category": "Supply Chain",
+      "filterTags": [
+        "rare earths",
+        "Germany",
+        "AI",
+        "Europe"
+      ],
+      "publishedAt": "2026-11-24T06:00:05+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Supply Chain"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Geopolitics"
+        }
+      ]
+    },
+    {
+      "slug": "trump-administration-imposes-sanctions-on-megaspeed-singaporean-firm-at-center-of-nvidia-scandal",
+      "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
+      "dek": "The administration added Megaspeed to the entity list, a trade blacklist, after weeks of sparring among top officials on the decision.",
+      "aiSummary": "The Trump administration has added Megaspeed, a Singaporean firm central to the Nvidia scandal, to the entity list trade blacklist. This decision follows weeks of internal debate among senior officials regarding the imposition of these sanctions.",
+      "articleUrl": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
+      "category": "Trade Policy",
+      "filterTags": [
+        "Megaspeed",
+        "Nvidia",
+        "Entity List",
+        "Trump Administration"
+      ],
+      "publishedAt": "2026-11-24T05:39:23+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Trade Policy"
+        },
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Geopolitics"
+        }
+      ]
+    },
+    {
+      "slug": "black-friday-deals-bring-thunderbolt-5-docks-for-mac-down-to-232-74",
+      "title": "Black Friday deals bring Thunderbolt 5 docks for Mac down to $232.74",
+      "dek": "Make your Mac even more useful by adding more ports, thanks to these  Black Friday  deals on Thunderbolt docks. Snag yourself a brand new Thunderbolt dock with these Black Friday deals Apple's desktop Macs generally have more ports than its MacBooks. Add a display, external stora",
+      "aiSummary": "Black Friday promotions have reduced the price of Thunderbolt 5 docks for Mac to $232.74. These deals allow users to expand the connectivity of their Macs by adding more ports, such as for displays and external storage.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/24/black-friday-deals-bring-thunderbolt-5-docks-for-mac-down-to-23274?utm_source=rss",
+      "category": "Hardware",
+      "filterTags": [
+        "Thunderbolt 5",
+        "Mac",
+        "Apple",
+        "Black Friday"
+      ],
+      "publishedAt": "2026-11-24T05:26:26+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Consumer Electronics"
+        }
+      ]
+    },
+    {
+      "slug": "introducing-the-amazon-bedrock-trusted-access-api-with-anthropic-s-enterprise-frontier-safeguards-and-enterprise-data-co",
+      "title": "Introducing the Amazon Bedrock Trusted Access API with Anthropic’s Enterprise Frontier Safeguards and Enterprise Data Controls",
+      "dek": "Amazon Bedrock now offers a trusted access program API: one place to discover, request, and enroll in model provider programs. The first two offerings, in public preview, are Anthropic's Enterprise Frontier Safeguards (EFS) and Enterprise Data Controls (EDC), which give you contr",
+      "aiSummary": "Amazon Bedrock has introduced a Trusted Access API that allows users to discover, request, and enroll in model provider programs from a single interface. The initial offerings in public preview are Anthropic's Enterprise Frontier Safeguards and Enterprise Data Controls, which provide specific enterprise-level security and data management capabilities.",
+      "articleUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/",
+      "category": "Cloud Computing",
+      "filterTags": [
+        "Amazon Bedrock",
+        "Anthropic",
+        "API",
+        "Enterprise Frontier Safeguards",
+        "Enterprise Data Controls"
+      ],
+      "publishedAt": "2026-11-24T05:01:14+00:00",
+      "publisher": {
+        "name": "Amazon Web Services",
+        "domain": "aws.amazon.com",
+        "website": "https://aws.amazon.com/",
+        "logoUrl": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "faviconUrl": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Cloud Computing"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "datasette-charts-0-2a0",
+      "title": "datasette-charts 0.2a0",
+      "dek": "Release:   datasette-charts 0.2a0 \n I introduced this new charting plugin for Datasette  yesterday . Today it's gained integration with  Datasette Agent , so now you can ask chat for a chart and it will create one for you using the same underlying chart suggestion and generation ",
+      "aiSummary": "The datasette-charts plugin for Datasette has been updated to version 0.2a0. This release adds integration with Datasette Agent, allowing users to request charts via chat that are generated using the plugin's underlying suggestion and generation logic.",
+      "articleUrl": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
+      "category": "Data Visualization",
+      "filterTags": [
+        "datasette-charts",
+        "Datasette",
+        "Datasette Agent"
+      ],
+      "publishedAt": "2026-11-24T04:24:29+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Data Visualization"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft",
+      "title": "[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft",
+      "dek": "November 23, 2026 — Nvidia reinstates its founder, and OpenAI publishes its internal loss curve and proposes a shared training limit.",
+      "aiSummary": "Nvidia has reinstated its founder, Jensen Huang. Additionally, OpenAI has published its internal pretraining loss curve and proposed a shared limit for model training.",
+      "articleUrl": "https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/",
+      "category": "AI",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "OpenAI",
+        "Microsoft",
+        "pretraining",
+        "loss curve"
+      ],
+      "publishedAt": "2026-11-24T04:14:16+00:00",
+      "publisher": {
+        "name": "Latent Space",
+        "domain": "latent.space",
+        "website": "https://www.latent.space/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Corporate News"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "datasette-agent-0-7a1",
+      "title": "datasette-agent 0.7a1",
+      "dek": "Release:   datasette-agent 0.7a1 \n I small improvement to  Datasette Agent : chat sessions can open an iframe side panel, and that panel can then navigate to different pages. This version improves navigation by fragment hashes, for deeper integration with other Datasette plugins ",
+      "aiSummary": "Datasette Agent version 0.7a1 introduces improvements to the iframe side panel functionality. The update enhances navigation capabilities by supporting fragment hashes, allowing for deeper integration with other Datasette plugins.",
+      "articleUrl": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
+      "category": "Open Source",
+      "filterTags": [
+        "Datasette",
+        "Datasette Agent",
+        "iframe",
+        "fragment hashes"
+      ],
+      "publishedAt": "2026-11-24T03:45:57+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Data Visualization"
+        },
+        {
+          "name": "Web Development"
+        }
+      ]
+    },
+    {
+      "slug": "wacom-movinkpad-pro-14-review-it-s-good-but-it-s-android",
+      "title": "Wacom MovinkPad Pro 14 review: It's good, but it's Android",
+      "dek": "Wacom is back with a new all-in-one tablet for artists who like to sketch and create on the go, with the newest offering in its MovinkPad line: the MovinkPad Pro 14. Wacom MovinkPad Pro 14 Wacom remains one of the leading manufacturers in graphic pen displays, producing a variety",
+      "aiSummary": "Wacom has released the MovinkPad Pro 14, an all‑in‑one tablet aimed at artists who want to sketch on the go. The device offers a solid build and pen‑display experience, but it runs on Android rather than a more traditional desktop OS. Despite the Android platform, the tablet remains a strong option for mobile creatives.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/24/wacom-movinkpad-pro-14-review-its-good-but-its-android?utm_source=rss",
+      "category": "Hardware",
+      "filterTags": [
+        "Wacom",
+        "MovinkPad Pro 14",
+        "Android",
+        "graphic pen display"
+      ],
+      "publishedAt": "2026-11-24T01:42:23+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Graphics"
+        },
+        {
+          "name": "Mobile Devices"
+        }
+      ]
+    },
+    {
+      "slug": "openai-engineer-secretly-recorded-dozens-of-meetings-prosecutors-say",
+      "title": "OpenAI Engineer Secretly Recorded Dozens of Meetings, Prosecutors Say",
+      "dek": "A court filing said the engineer captured meetings on customers, A.I. safety and a foreign government briefing. Federal prosecutors are investigating what he did with the recordings.",
+      "aiSummary": "According to a court filing, an OpenAI engineer secretly recorded numerous meetings involving customers, AI safety discussions, and a foreign government briefing. Federal prosecutors are currently investigating the engineer's actions and what he did with the recorded material.",
+      "articleUrl": "https://www.nytimes.com/2026/11/23/technology/openai-engineer-secret-recordings.html",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "Federal Prosecutors",
+        "AI Safety"
+      ],
+      "publishedAt": "2026-11-24T01:36:36+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Corporate Governance"
+        }
+      ]
+    },
+    {
+      "slug": "why-trump-put-jensen-huang-back-in-charge-at-nvidia",
+      "title": "Why Trump Put Jensen Huang Back in Charge at Nvidia",
+      "dek": "In a shocking turn, the chip-making giant reinstated its chief executive. We unpack how it happened — and what it means.",
+      "aiSummary": "Nvidia has brought back CEO Jensen Huang after a brief removal. The article explains how this decision came about and discusses its implications for the company.",
+      "articleUrl": "https://www.nytimes.com/2026/11/23/podcasts/why-trump-put-jensen-huang-back-in-charge-at-nvidia.html",
+      "category": "Technology",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Trump"
+      ],
+      "publishedAt": "2026-11-24T01:33:12+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Business"
+        },
+        {
+          "name": "Leadership"
+        }
+      ]
+    },
+    {
+      "slug": "the-three-dism-commands-you-should-know-to-fix-your-windows-system-images",
+      "title": "The three DISM commands you should know to fix your Windows system images",
+      "dek": "Check and repair damaged system files with these DISM commands.",
+      "aiSummary": "The article outlines three specific DISM commands that users should know to check and repair damaged system files within Windows system images.",
+      "articleUrl": "https://www.engadget.com/2320620/dism-commands-for-windows-system-image-repair/",
+      "category": "Operating Systems",
+      "filterTags": [
+        "DISM",
+        "Windows",
+        "System Images"
+      ],
+      "publishedAt": "2026-11-24T01:30:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Operating Systems"
+        },
+        {
+          "name": "System Administration"
+        }
+      ]
+    },
+    {
+      "slug": "the-biggest-downsides-to-using-apple-s-magic-mouse",
+      "title": "The biggest downsides to using Apple's Magic Mouse",
+      "dek": "Mac users have their reasons for ditching Apple's Magic Mouse despite its slick touch gestures. Knowing them can help you decide if it suits your desk.",
+      "aiSummary": "Mac users are abandoning the Magic Mouse for various reasons, even though it offers smooth touch gestures. The article lists the main disadvantages that might make it unsuitable for some setups. Understanding these drawbacks can help readers decide whether the device fits their workspace.",
+      "articleUrl": "https://www.engadget.com/2320296/apple-magic-mouse-biggest-downsides/",
+      "category": "Hardware",
+      "filterTags": [
+        "Apple",
+        "Magic Mouse",
+        "Mac"
+      ],
+      "publishedAt": "2026-11-24T00:30:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "User Experience"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-launches-claude-ship-for-github-pull-request-review-and-fixes",
+      "title": "Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes",
+      "dek": "Anthropic's Claude Ship bundles Code Review, PR Steward and Claude Approvals to review, fix and approve GitHub pull requests. Code Review is GA; the other 2 agents are in public beta for Team and Enterprise. \n The post  Anthropic Launches Claude Ship for GitHub Pull Request Revie",
+      "aiSummary": "Anthropic has launched Claude Ship, a suite that integrates Code Review, PR Steward, and Claude Approvals to manage GitHub pull requests. The Code Review feature is generally available, while the other two agents are in public beta for Team and Enterprise users.",
+      "articleUrl": "https://www.marktechpost.com/2026/11/23/anthropic-claude-ship-pull-request-agents/",
+      "category": "AI",
+      "filterTags": [
+        "Anthropic",
+        "Claude Ship",
+        "GitHub",
+        "Pull Request",
+        "Code Review"
+      ],
+      "publishedAt": "2026-11-24T00:02:39+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Developer Tools"
+        },
+        {
+          "name": "DevOps"
+        }
+      ]
+    },
+    {
+      "slug": "a-detailed-survey-of-machine-learning-interpretability-through-feature-interactions-and-additive-models",
+      "title": "A Detailed Survey of Machine Learning Interpretability through Feature Interactions and Additive Models",
+      "dek": "Interpretability has gained an immense amount of popularity over the past decade, mostly riding the wake of neural networks’ impact on the field of machine learning. The growth in success and application of neural networks, as well as other blackbox machine learning approaches, i",
+      "aiSummary": "The article discusses the rising importance of interpretability in machine learning, driven by the success of neural networks and other black‑box models. It examines how feature interactions and additive models can help explain these complex systems.",
+      "articleUrl": "http://jmlr.org/papers/v27/26-1976.html",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Neural Networks",
+        "Feature Interactions",
+        "Additive Models",
+        "Machine Learning"
+      ],
+      "publishedAt": "2026-11-24T00:00:00+00:00",
+      "publisher": {
+        "name": "Journal of Machine Learning Research",
+        "domain": "jmlr.org",
+        "website": "https://www.jmlr.org/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=jmlr.org&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=jmlr.org&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Explainable AI"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "on-the-identifiability-of-regime-switching-models-with-multi-lag-dependencies",
+      "title": "On the Identifiability of Regime-Switching Models with Multi-Lag Dependencies",
+      "dek": "Identifiability is central to the interpretability of deep latent variable models, ensuring parameterisations are uniquely determined by the data-generating distribution. However, it remains underexplored for deep regime-switching time series. We develop a general theoretical fra",
+      "aiSummary": "The article discusses the importance of identifiability for deep latent variable models, noting that it has not been thoroughly studied in deep regime-switching time series. The authors propose a general theoretical framework to address this gap.",
+      "articleUrl": "http://jmlr.org/papers/v27/25-2778.html",
+      "category": "Machine Learning",
+      "filterTags": [
+        "identifiability",
+        "deep latent variable models",
+        "regime-switching time series",
+        "multi-lag dependencies"
+      ],
+      "publishedAt": "2026-11-24T00:00:00+00:00",
+      "publisher": {
+        "name": "Journal of Machine Learning Research",
+        "domain": "jmlr.org",
+        "website": "https://www.jmlr.org/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=jmlr.org&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=jmlr.org&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Statistical Modeling"
+        },
+        {
+          "name": "Time Series Analysis"
+        }
+      ]
+    },
+    {
+      "slug": "extensions-of-robbins-siegmund-theorem-with-applications-in-reinforcement-learning",
+      "title": "Extensions of Robbins-Siegmund Theorem with Applications in Reinforcement Learning",
+      "dek": "The Robbins-Siegmund theorem establishes the convergence of stochastic processes that are almost supermartingales and is one of the most commonly used approaches for analyzing stochastic iterative algorithms in stochastic approximation and reinforcement learning (RL). However, it",
+      "aiSummary": "The Robbins-Siegmund theorem is a standard method for analyzing the convergence of stochastic processes in reinforcement learning and stochastic approximation. The article discusses extensions to this theorem that address its limitations in these fields.",
+      "articleUrl": "http://jmlr.org/papers/v27/25-2392.html",
+      "category": "Machine Learning",
+      "filterTags": [
+        "Robbins-Siegmund Theorem",
+        "Reinforcement Learning",
+        "Stochastic Approximation",
+        "Stochastic Processes"
+      ],
+      "publishedAt": "2026-11-24T00:00:00+00:00",
+      "publisher": {
+        "name": "Journal of Machine Learning Research",
+        "domain": "jmlr.org",
+        "website": "https://www.jmlr.org/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=jmlr.org&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=jmlr.org&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Mathematics"
+        }
+      ]
+    },
+    {
+      "slug": "glm-5-4-toward-generalized-coding-with-our-first-loop-transformer",
+      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+      "dek": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer \nGLM 5.4 is now available from Chinese AI lab Z.ai. It's their first model to use a looped transformer architecture, which they describe like this: \n \n In a standard Transformer, each layer runs once per forward p",
+      "aiSummary": "GLM 5.4, released by Chinese AI lab Z.ai, is the lab's first model that uses a looped transformer architecture. The model is aimed at generalized coding tasks. The looped transformer differs from standard transformers by running each layer multiple times per forward pass.",
+      "articleUrl": "https://simonwillison.net/2026/Nov/23/glm-54/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "GLM-5.4",
+        "Z.ai",
+        "looped transformer",
+        "Transformer"
+      ],
+      "publishedAt": "2026-11-23T23:40:49+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "us-to-blacklist-asian-ai-firm-megaspeed-after-nvidia-scandal",
+      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+      "dek": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
+      "aiSummary": "The US government intends to blacklist the Asian AI firm Megaspeed due to allegations that it diverted AI chips to China. This action follows the public revelation of a former executive's affair with Nvidia CEO Jensen Huang.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+      "category": "AI",
+      "filterTags": [
+        "Megaspeed",
+        "Nvidia",
+        "Jensen Huang",
+        "AI chips"
+      ],
+      "publishedAt": "2026-11-23T23:16:08+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Geopolitics"
+        },
+        {
+          "name": "Semiconductors"
+        }
+      ]
+    },
+    {
+      "slug": "ted-lasso-season-5-renewal-has-been-finally-been-confirmed",
+      "title": "'Ted Lasso' season 5 renewal has been finally been confirmed",
+      "dek": "While all evidence pointed to \"Ted Lasso\" returning to  Apple TV  for multiple seasons, Apple has only just confirmed that season 5 is indeed happening. 'Ted Lasso'has been renewed for a fifth season on Apple TV. Image Credit: Apple. Following  claims  that pre-production would b",
+      "aiSummary": "Apple TV confirmed that the show 'Ted Lasso' has been renewed for a fifth season, after earlier indications that it might return for multiple seasons. The announcement marks the official start of production for the new season.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/23/ted-lasso-season-5-has-been-confirmed-after-a-popular-return?utm_source=rss",
+      "category": "Entertainment",
+      "filterTags": [
+        "Apple TV",
+        "Apple"
+      ],
+      "publishedAt": "2026-11-23T22:36:51+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Entertainment"
+        },
+        {
+          "name": "Streaming"
+        },
+        {
+          "name": "Television"
+        }
+      ]
+    },
+    {
+      "slug": "trump-engineered-a-risky-comeback-for-jensen-huang",
+      "title": "Trump engineered a risky comeback for Jensen Huang",
+      "dek": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out,",
+      "aiSummary": "Nvidia's board accepted Jensen Huang's resignation as CEO following reports of an affair with an alleged Chinese spy. President Donald Trump initially appeared to accept this change but later engineered a risky comeback for Huang.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+      "category": "Technology",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Donald Trump",
+        "Stephen A. Smith"
+      ],
+      "publishedAt": "2026-11-23T22:25:12+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Corporate Governance"
+        },
+        {
+          "name": "Politics"
+        }
+      ]
+    },
+    {
+      "slug": "welcome-to-elite-impunity-jensen-huang",
+      "title": "Welcome to elite impunity, Jensen Huang",
+      "dek": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what",
+      "aiSummary": "The author congratulates Jensen Huang on his reappointment as CEO of Nvidia, a move that surprised most people except President Donald Trump and Vice President JD Vance, who were instrumental in making it happen. The author hints that those with a basic understanding of the situation are aware of the implications.",
+      "articleUrl": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+      "category": "Business",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Donald Trump",
+        "JD Vance"
+      ],
+      "publishedAt": "2026-11-23T22:09:26+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Business"
+        },
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "dek": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "aiSummary": "Anthropic has released Claude Ship, a developer tool that uses AI agents to review, fix, and approve code changes. The tool is designed to reduce bottlenecks caused by the growing volume of AI-generated code by automating routine approval tasks.",
+      "articleUrl": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Anthropic",
+        "Claude Ship",
+        "Artificial Intelligence",
+        "Software Development"
+      ],
+      "publishedAt": "2026-11-23T22:05:50+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Developer Tools"
+        }
+      ]
+    },
+    {
+      "slug": "supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "dek": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "aiSummary": "Supertake, a startup that allows users to back their market predictions without manually selecting individual stocks, has raised $20 million. The company utilizes AI agents to automatically transform these user-generated market ideas into stock portfolios.",
+      "articleUrl": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "category": "FinTech",
+      "filterTags": [
+        "Supertake",
+        "AI agents",
+        "stock portfolios",
+        "market predictions"
+      ],
+      "publishedAt": "2026-11-23T22:02:05+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "FinTech"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Investment"
+        }
+      ]
+    },
+    {
+      "slug": "elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal",
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "dek": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+      "aiSummary": "Elon Musk and others expressed joy as Jensen Huang was reinstated at Nvidia amid a scandal. Musk commented on the situation by stating, \"The mistake has been corrected.\"",
+      "articleUrl": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "category": "Technology",
+      "filterTags": [
+        "Elon Musk",
+        "Jensen Huang",
+        "Nvidia"
+      ],
+      "publishedAt": "2026-11-23T21:47:41+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Corporate News"
+        }
+      ]
+    },
+    {
+      "slug": "states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn",
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "dek": "X says every Grok output is screened, but state AGs say Grok is still making CSAM.",
+      "aiSummary": "SpaceX’s AI system Grok is under scrutiny after several state attorneys general filed lawsuits alleging it can generate child sexual abuse material and revenge porn. SpaceX says every output is screened, but the states claim the system still produces such content.",
+      "articleUrl": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "SpaceX",
+        "Grok",
+        "X",
+        "CSAM"
+      ],
+      "publishedAt": "2026-11-23T21:30:44+00:00",
+      "publisher": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "website": "https://arstechnica.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=arstechnica.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Cybersecurity"
+        }
+      ]
+    },
+    {
+      "slug": "openai-and-cisco-introduce-shirudo",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "dek": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "aiSummary": "OpenAI and Cisco have released Shirudo, an open-source runtime for Linux that helps teams protect running systems while they roll out patches. The runtime monitors and secures Linux systems during patch deployment, reducing downtime and risk.",
+      "articleUrl": "https://openai.com/index/introducing-shirudo",
+      "category": "Open Source",
+      "filterTags": [
+        "OpenAI",
+        "Cisco",
+        "Shirudo",
+        "Linux"
+      ],
+      "publishedAt": "2026-11-23T21:20:00+00:00",
+      "publisher": {
+        "name": "OpenAI",
+        "domain": "openai.com",
+        "website": "https://openai.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Operating Systems"
+        }
+      ]
+    },
+    {
+      "slug": "ai-data-centers-throw-another-wrench-into-chaotic-un-climate-talks",
+      "title": "AI data centers throw another wrench into chaotic UN climate talks",
+      "dek": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic an",
+      "aiSummary": "The clean energy revolution faces a significant challenge as power-hungry data centers surge in demand while the global economy electrifies. Delegates at the United Nations climate conference, COP31, had to address this conflict during chaotic discussions.",
+      "articleUrl": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+      "category": "Climate",
+      "filterTags": [
+        "AI",
+        "data centers",
+        "COP31",
+        "UN",
+        "clean energy"
+      ],
+      "publishedAt": "2026-11-23T21:09:37+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Climate"
+        },
+        {
+          "name": "Energy"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "claude-can-ship-code-for-you-now-how-to-try-it-if-you-dare",
+      "title": "Claude can ship code for you now – how to try it (if you dare)",
+      "dek": "Would you let a few Claude agents review and ship your code for you?",
+      "aiSummary": "Claude can review and ship code for users. The article explains how to try this new feature.",
+      "articleUrl": "https://www.zdnet.com/innovation/claude-ship-code-how-to-try/",
+      "category": "AI",
+      "filterTags": [
+        "Claude"
+      ],
+      "publishedAt": "2026-11-23T20:00:00+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "the-race-to-gallium-oxide-commercialization-what-300-mm-sic-brings-to-ai-chip-packaging-gan-sbd-with-hemt-compatible-pro",
+      "title": "The Race to Gallium Oxide Commercialization, What 300-mm SiC Brings to AI Chip Packaging, GaN SBD with HEMT-Compatible Process Flow: Power Electronics Week Insights",
+      "dek": "Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on The Race to Gallium Oxide Commercialization, What 300-mm SiC Brings to AI Chip Packaging, GaN SBD with HEMT-Compatible Process Flow! \n The post  The Race to Gallium Oxide Commercializ",
+      "aiSummary": "This roundup highlights recent developments in power electronics, focusing on the commercialization race for gallium oxide and the role of 300-mm silicon carbide in AI chip packaging. It also details a gallium nitride Schottky barrier diode process that is compatible with HEMT manufacturing flows.",
+      "articleUrl": "https://www.powerelectronicsnews.com/the-race-to-gallium-oxide-commercialization-what-300-mm-sic-brings-to-ai-chip-packaging-gan-sbd-with-hemt-compatible-process-flow-power-electronics-week-insights/",
+      "category": "Semiconductors",
+      "filterTags": [
+        "Gallium Oxide",
+        "Silicon Carbide",
+        "GaN",
+        "HEMT",
+        "AI Chip Packaging",
+        "Power Electronics"
+      ],
+      "publishedAt": "2026-11-23T19:43:41+00:00",
+      "publisher": {
+        "name": "Power Electronics News",
+        "domain": "powerelectronicsnews.com",
+        "website": "https://www.powerelectronicsnews.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=powerelectronicsnews.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "z-ai-releases-glm-5-4-a-750b-loop-transformer-that-runs-28-layers-twice",
+      "title": "Z AI Releases GLM-5.4: A 750B Loop Transformer That Runs 28 Layers Twice",
+      "dek": "Z.ai released GLM-5.4, its first Loop Transformer flagship. The 750B-scale model runs 28 GLM-5 layers twice for deeper reasoning, with API access and open weights planned after safety work. \n The post  Z AI Releases GLM-5.4: A 750B Loop Transformer That Runs 28 Layers Twice  appe",
+      "aiSummary": "Z.ai has launched its GLM-5.4 model, a 750‑billion‑parameter Loop Transformer. The model processes 28 GLM‑5 layers twice to enable deeper reasoning. API access and open weights will be available once safety work is completed.",
+      "articleUrl": "https://www.marktechpost.com/2026/11/23/zai-glm-5-4-loop-transformer/",
+      "category": "AI",
+      "filterTags": [
+        "Z.ai",
+        "GLM-5.4",
+        "Loop Transformer"
+      ],
+      "publishedAt": "2026-11-23T19:11:40+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "jensen-huang-is-back-and-so-is-nvidia-s-stock",
+      "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
+      "dek": "Jensen Huang comes back, numbers go up. Maybe the reason behind the CEO’s return is just that simple?",
+      "aiSummary": "Nvidia CEO Jensen Huang has returned to the company, coinciding with a rise in the company's stock price. The article suggests that the CEO's return may be linked to the stock's performance. It implies that the simple reason for the CEO's return could be the stock's upward movement.",
+      "articleUrl": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/",
+      "category": "Technology",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang"
+      ],
+      "publishedAt": "2026-11-23T17:52:56+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "how-to-save-your-google-nest-app-videos-before-the-january-shutdown",
+      "title": "How to save your Google Nest app videos before the January shutdown",
+      "dek": "Google is retiring the Nest app in favor of the Google Home app. Here’s how to transfer your data.",
+      "aiSummary": "Google is discontinuing the Nest app and migrating users to the Google Home app. The article provides instructions on how to transfer and save video data from the Nest app before the January shutdown.",
+      "articleUrl": "https://www.zdnet.com/home-and-office/how-to-save-your-google-nest-app-videos-switch-to-google-home/",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Google Nest",
+        "Google Home",
+        "Video Backup"
+      ],
+      "publishedAt": "2026-11-23T17:52:52+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Smart Home"
+        }
+      ]
+    },
+    {
+      "slug": "a-legendary-philosopher-isn-t-buying-anthropic-s-consciousness-argument",
+      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "dek": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. G",
+      "aiSummary": "Anthropic has identified the possibility that AI could be conscious or sentient as a risk factor for investors. The company announced this before going public last week. A legendary philosopher remains unconvinced by Anthropic's argument.",
+      "articleUrl": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Anthropic",
+        "AI",
+        "consciousness",
+        "sentient",
+        "risk factor"
+      ],
+      "publishedAt": "2026-11-23T17:36:08+00:00",
+      "publisher": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "website": "https://www.technologyreview.com/",
+        "logoUrl": "https://www.technologyreview.com/static/media/favicon.1cfcdb44759a0f93ddf5feb5405dd4cc.ico",
+        "faviconUrl": "https://www.technologyreview.com/static/media/favicon.1cfcdb44759a0f93ddf5feb5405dd4cc.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Philosophy"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "you-won-t-see-a-galaxy-watch-10-until-2028-here-s-why",
+      "title": "You won’t see a Galaxy Watch 10 until 2028 – here’s why",
+      "dek": "In an effort to cut costs, Samsung is postponing the launch of the Galaxy Watch 10, according to reports. Here’s what to know.",
+      "aiSummary": "Samsung is reportedly postponing the launch of the Galaxy Watch 10 until 2028. This decision is driven by an effort to reduce costs.",
+      "articleUrl": "https://www.zdnet.com/tech/samsung-galaxy-watch-10-biannual-release-2028/",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Samsung",
+        "Galaxy Watch 10"
+      ],
+      "publishedAt": "2026-11-23T17:25:59+00:00",
+      "publisher": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "website": "https://www.zdnet.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=zdnet.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "supercharging-transformer-residual-connections",
+      "title": "Supercharging transformer residual connections",
+      "dek": "Algorithms & Theory",
+      "aiSummary": "The article discusses methods to enhance transformer residual connections, focusing on algorithmic and theoretical aspects. It explores how modifications to residual pathways can improve model performance and stability.",
+      "articleUrl": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Transformer",
+        "Residual Connections",
+        "Algorithms",
+        "Theory"
+      ],
+      "publishedAt": "2026-11-23T17:21:12+00:00",
+      "publisher": {
+        "name": "Google Research",
+        "domain": "research.google",
+        "website": "https://research.google/",
+        "logoUrl": "https://www.gstatic.com/images/branding/googleg_gradient/1x/googleg_gradient_standard_20dp.png",
+        "faviconUrl": "https://www.gstatic.com/images/branding/googleg_gradient/1x/googleg_gradient_standard_20dp.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Algorithms"
+        }
+      ]
+    },
+    {
+      "slug": "robotrack-point-tracking-for-real-world-robotic-manipulation",
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "dek": "RoboTrack offers a method to track points for real-world robot manipulation.",
+      "aiSummary": "",
+      "articleUrl": "https://huggingface.co/blog/allenai/robotrack",
+      "category": "Robotics",
+      "filterTags": [
+        "RoboTrack",
+        "point tracking",
+        "robotic manipulation"
+      ],
+      "publishedAt": "2026-11-23T17:20:37+00:00",
+      "publisher": {
+        "name": "Hugging Face",
+        "domain": "huggingface.co",
+        "website": "https://huggingface.co/",
+        "logoUrl": "https://huggingface.co/front/thumbnails/v2-2.png",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Robotics"
+        },
+        {
+          "name": "Computer Vision"
+        }
+      ]
+    },
+    {
+      "slug": "merry-making-play-build-and-create-with-nvidia-technologies-this-holiday-season",
+      "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
+      "dek": "The elves don’t have to be the only ones busy in the workshop this holiday season. With the lights twinkling and the gift wrap out, it’s the perfect time to give someone — or yourself — a spark to take a hobby to the next level. For some, that means diving into a new game. […]",
+      "aiSummary": "NVIDIA encourages users to elevate their hobbies during the holiday season by engaging with its technologies. The company suggests that individuals can use this time to dive into new games or creative projects, positioning its tools as a way to spark interest and progression in personal interests.",
+      "articleUrl": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/",
+      "category": "Hardware",
+      "filterTags": [
+        "NVIDIA",
+        "Gaming",
+        "Creative Tools"
+      ],
+      "publishedAt": "2026-11-23T17:00:08+00:00",
+      "publisher": {
+        "name": "NVIDIA",
+        "domain": "nvidia.com",
+        "website": "https://blogs.nvidia.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nvidia.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "Creative Computing"
+        }
+      ]
+    },
+    {
+      "slug": "finding-faster-quantum-algorithms-with-agents-and-formal-verification",
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "dek": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+      "aiSummary": "Scientists are employing agent teams and formal verification techniques to enhance quantum algorithms used in fusion and chemistry. This approach aims to make the algorithms faster and more reliable.",
+      "articleUrl": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "category": "Quantum Computing",
+      "filterTags": [
+        "Quantum Computing",
+        "Formal Verification",
+        "Agent Teams",
+        "Fusion",
+        "Chemistry"
+      ],
+      "publishedAt": "2026-11-23T16:59:40+00:00",
+      "publisher": {
+        "name": "Google DeepMind",
+        "domain": "deepmind.google",
+        "website": "https://deepmind.google/",
+        "logoUrl": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/icons/google_deepmind_2x_96dp.png",
+        "faviconUrl": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/icons/google_deepmind_2x_96dp.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Quantum Computing"
+        },
+        {
+          "name": "Software Engineering"
+        },
+        {
+          "name": "Scientific Research"
+        }
+      ]
+    },
+    {
+      "slug": "connected-intelligence-for-in-house-legal",
+      "title": "Connected intelligence for in-house legal",
+      "dek": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+      "aiSummary": "OpenAI representatives Stacey Wang and Craig Bruney join Mary O’Carroll of LECG and Richard Segal of Cooley to discuss the role of AI in in-house legal. The session explores how these tools can help legal teams integrate business context, create reusable workflows, and improve the value derived from outside counsel.",
+      "articleUrl": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "category": "AI",
+      "filterTags": [
+        "OpenAI",
+        "AI",
+        "In-house Legal",
+        "LECG",
+        "Cooley"
+      ],
+      "publishedAt": "2026-11-23T08:00:00+00:00",
+      "publisher": {
+        "name": "OpenAI",
+        "domain": "openai.com",
+        "website": "https://openai.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Legal Tech"
+        },
+        {
+          "name": "Enterprise Software"
+        }
+      ]
+    },
+    {
+      "slug": "richpanel-helps-companies-automate-50-of-support-in-30-days",
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "dek": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+      "aiSummary": "Richpanel claims to automate half of support tasks in a month by using GPT-6 Astra and GPT-6.1 Sol to equip AI support agents with tools and procedures, and GPT-6 Luna for conversations.",
+      "articleUrl": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "category": "AI",
+      "filterTags": [
+        "Richpanel",
+        "GPT-6 Astra",
+        "GPT-6.1 Sol",
+        "GPT-6 Luna"
+      ],
+      "publishedAt": "2026-11-23T08:00:00+00:00",
+      "publisher": {
+        "name": "OpenAI",
+        "domain": "openai.com",
+        "website": "https://openai.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Customer Support"
+        },
+        {
+          "name": "Automation"
+        }
+      ]
+    }
+  ]
+}
