@@ -1,0 +1,1132 @@
+{
+  "news": [
+    {
+      "slug": "bytedance-researchers-open-sources-laminar-an-async-reinforcement-learning-rl-post-training-framework",
+      "title": "ByteDance Researchers Open-Sources Laminar, an Async Reinforcement Learning RL Post-Training Framework",
+      "dek": "Laminar is an open-source asynchronous RL post-training framework from HKU and ByteDance Seed researchers. It decouples rollout, training and weight sync, and lifted Qwen3-Coder-30B-A3B to 52.2% on SWE-bench Verified. \n The post  ByteDance Researchers Open-Sources Laminar, an Asy",
+      "aiSummary": "Researchers from HKU and ByteDance Seed have open-sourced Laminar, an asynchronous reinforcement learning post-training framework that separates rollout, training, and weight synchronization processes. The framework successfully improved the performance of the Qwen3-Coder-30B-A3B model, achieving a 52.2% score on the SWE-bench Verified benchmark.",
+      "articleUrl": "https://www.marktechpost.com/2026/11/24/bytedance-seed-laminar-async-rl-post-training-framework/",
+      "category": "AI",
+      "filterTags": [
+        "ByteDance",
+        "Laminar",
+        "Reinforcement Learning",
+        "Qwen3-Coder",
+        "SWE-bench"
+      ],
+      "publishedAt": "2026-11-25T05:42:05+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "malaysia-tightens-controls-amid-us-ai-chip-curbs",
+      "title": "Malaysia Tightens Controls Amid US AI Chip Curbs",
+      "dek": "Malaysia’s Second Finance Minister Amir Hamzah Azizan tells Haslinda Amin the country is tightening controls and discussing new US restrictions on advanced AI chips with Washington. (Source: Bloomberg)",
+      "aiSummary": "Malaysia's Second Finance Minister Amir Hamzah Azizan stated that the country is tightening controls and engaging in discussions with Washington regarding new US restrictions on advanced AI chips.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-11-25/malaysia-tightens-controls-amid-us-ai-chip-curbs-video",
+      "category": "Geopolitics",
+      "filterTags": [
+        "Malaysia",
+        "US",
+        "AI Chips",
+        "Amir Hamzah Azizan"
+      ],
+      "publishedAt": "2026-11-25T05:33:26+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Geopolitics"
+        },
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Trade Policy"
+        }
+      ]
+    },
+    {
+      "slug": "ai-is-not-the-cure-all-for-drug-development",
+      "title": "AI is not the cure-all for drug development",
+      "dek": "Investors need to understand how the technology fits in with the difficult and complex discovery process",
+      "aiSummary": "Investors must recognize that artificial intelligence is not a universal fix for the challenges of drug development. The technology must be understood in the context of the complex and difficult nature of the discovery process.",
+      "articleUrl": "https://www.ft.com/content/86cef5ab-ce61-4b50-8511-164aa3e5f499",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Drug Development",
+        "Investors"
+      ],
+      "publishedAt": "2026-11-25T05:00:22+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Biotechnology"
+        },
+        {
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "slug": "the-hidden-costs-of-ai-adoption",
+      "title": "The hidden costs of AI adoption",
+      "dek": "Companies are rushing to make themselves more efficient, but business school researchers have found there are drawbacks to the latest technology",
+      "aiSummary": "While companies are rapidly adopting AI to improve efficiency, business school researchers have identified significant drawbacks to this technology. The study highlights that the rush to implement these tools carries hidden costs that organizations must consider.",
+      "articleUrl": "https://www.ft.com/content/c845e6a2-76a1-488b-8cdc-89dddb9a5213",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Business Efficiency",
+        "Corporate Strategy"
+      ],
+      "publishedAt": "2026-11-25T05:00:03+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Business Strategy"
+        }
+      ]
+    },
+    {
+      "slug": "creativity-at-work-thrives-with-a-sprinkling-of-friction",
+      "title": "Creativity at work thrives with a sprinkling of friction",
+      "dek": "Inspiration often appears out of inefficient processes",
+      "aiSummary": "The article suggests that inspiration frequently emerges from inefficient processes. It argues that introducing a moderate level of friction into work routines can enhance creative output.",
+      "articleUrl": "https://www.ft.com/content/933ae91e-49b5-46dd-8a66-ff3481cb95cb",
+      "category": "Business",
+      "filterTags": [
+        "Creativity",
+        "Workplace",
+        "Productivity"
+      ],
+      "publishedAt": "2026-11-25T05:00:03+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Business"
+        },
+        {
+          "name": "Psychology"
+        }
+      ]
+    },
+    {
+      "slug": "irreducible-governance-structure-for-autonomous-agent-systems-fair-allocation-strategy-proofness-and-multi-scale-composi",
+      "title": "Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Multi-Scale Composition",
+      "dek": "arXiv:2611.31284v1 Announce Type: new \nAbstract: Autonomous agent governance is commonly framed as a problem of enforcing correct execution. However, in multi-agent systems, an equally fundamental question precedes execution: which agents are allowed to act.\n  In this paper, we s",
+      "aiSummary": "The paper addresses the governance of autonomous agent systems by focusing on determining which agents are permitted to act rather than just enforcing execution. It proposes an irreducible governance structure that ensures fair allocation and strategy-proofness while supporting multi-scale composition.",
+      "articleUrl": "https://arxiv.org/abs/2611.31284",
+      "category": "AI",
+      "filterTags": [
+        "Autonomous Agents",
+        "Multi-Agent Systems",
+        "Governance",
+        "arXiv"
+      ],
+      "publishedAt": "2026-11-25T05:00:00+00:00",
+      "publisher": {
+        "name": "arXiv cs.AI",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.AI",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Distributed Systems"
+        }
+      ]
+    },
+    {
+      "slug": "mozaic-an-audio-video-deepfake-benchmark-for-telling-what-is-fake",
+      "title": "MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake",
+      "dek": "arXiv:2611.31301v1 Announce Type: new \nAbstract: Audio-video (AV) deepfakes can fake the face, the voice, or both. Most benchmarks only ask whether a clip is real or fake, so they cannot show whether a detector relies on the picture, the voice, or encoding traces. We present MOZA",
+      "aiSummary": "MOZAIC is a new benchmark designed to evaluate audio-video deepfake detectors by distinguishing whether they rely on visual, audio, or encoding cues. Unlike existing benchmarks that only classify clips as real or fake, MOZAIC provides insights into the specific modalities used by detection models.",
+      "articleUrl": "https://arxiv.org/abs/2611.31301",
+      "category": "AI",
+      "filterTags": [
+        "MOZAIC",
+        "Deepfake",
+        "Audio-Video",
+        "Benchmark",
+        "arXiv"
+      ],
+      "publishedAt": "2026-11-25T05:00:00+00:00",
+      "publisher": {
+        "name": "arXiv cs.AI",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.AI",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Multimedia"
+        }
+      ]
+    },
+    {
+      "slug": "conservative-overlap-fuzzy-rough-sets-for-incomplete-data",
+      "title": "Conservative Overlap Fuzzy Rough Sets for Incomplete Data",
+      "dek": "arXiv:2611.31329v1 Announce Type: new \nAbstract: Attribute reduction in incomplete information systems is difficult because missing values break the equivalence-class structure of rough set theory. We propose the Conservative Overlap Fuzzy Rough Set (COFRS) model. Each object is ",
+      "aiSummary": "The article addresses the challenge of attribute reduction in incomplete information systems, where missing values disrupt the equivalence-class structure required by traditional rough set theory. To solve this, the authors propose the Conservative Overlap Fuzzy Rough Set (COFRS) model.",
+      "articleUrl": "https://arxiv.org/abs/2611.31329",
+      "category": "Data Science",
+      "filterTags": [
+        "COFRS",
+        "Fuzzy Rough Sets",
+        "Attribute Reduction",
+        "Incomplete Data"
+      ],
+      "publishedAt": "2026-11-25T05:00:00+00:00",
+      "publisher": {
+        "name": "arXiv cs.AI",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.AI",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Data Science"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Mathematics"
+        }
+      ]
+    },
+    {
+      "slug": "ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab",
+      "title": "[AINews] Gemini 4 Neon marks GDM's full return as a Frontier Lab",
+      "dek": "November 24, 2026 — Neon beats Astra and Fable on LiveBench and cuts Theo’s TS Rust benchmark runtime by 48.6%.",
+      "aiSummary": "Gemini 4 Neon outperforms Astra and Fable on the LiveBench evaluation. The model also reduces the runtime of Theo's TypeScript Rust benchmark by 48.6%.",
+      "articleUrl": "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/",
+      "category": "AI",
+      "filterTags": [
+        "Gemini 4 Neon",
+        "GDM",
+        "Astra",
+        "Fable",
+        "LiveBench",
+        "Rust",
+        "TypeScript"
+      ],
+      "publishedAt": "2026-11-25T04:29:07+00:00",
+      "publisher": {
+        "name": "Latent Space",
+        "domain": "latent.space",
+        "website": "https://www.latent.space/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Benchmarks"
+        },
+        {
+          "name": "Research"
+        }
+      ]
+    },
+    {
+      "slug": "nvidia-still-faces-key-man-risk-in-huang-professor",
+      "title": "NVidia Still Faces 'Key-Man Risk' in Huang: Professor",
+      "dek": "Jensen Huang has been known for his exacting management style at Nvidia. In his previous role as CEO, Huang had about 60 people reporting to him, far more than the average tech leader. University of Colorado Professor of Law Ann Lipton says Nvidia's lack of a succession plan for ",
+      "aiSummary": "University of Colorado Law Professor Ann Lipton argues that Nvidia faces significant 'key-man risk' due to its lack of a clear succession plan for CEO Jensen Huang. Lipton notes that Huang's exacting management style, which involved having approximately 60 direct reports, further concentrates power and dependency on a single individual.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-11-25/nvidia-still-faces-key-man-risk-in-huang-professor",
+      "category": "Corporate Governance",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Ann Lipton",
+        "University of Colorado"
+      ],
+      "publishedAt": "2026-11-25T03:53:08+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Corporate Governance"
+        },
+        {
+          "name": "Technology Leadership"
+        }
+      ]
+    },
+    {
+      "slug": "u-s-jury-convicts-huawei-in-a-criminal-trial-over-fraud-and-trade-secrets",
+      "title": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
+      "dek": "Huawei was found guilty of bank fraud, money laundering and trade secret theft conspiracy in a U.S. trial.",
+      "aiSummary": "Huawei was found guilty in a U.S. criminal trial for bank fraud, money laundering, and conspiracy to steal trade secrets. The verdict marks a significant legal outcome for the technology company in American courts.",
+      "articleUrl": "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html",
+      "category": "Legal",
+      "filterTags": [
+        "Huawei",
+        "Bank Fraud",
+        "Money Laundering",
+        "Trade Secrets"
+      ],
+      "publishedAt": "2026-11-25T02:43:33+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Corporate"
+        },
+        {
+          "name": "Cybersecurity"
+        }
+      ]
+    },
+    {
+      "slug": "huawei-found-guilty-of-us-charges-in-landmark-case",
+      "title": "Huawei Found Guilty of US Charges in Landmark Case",
+      "dek": "Huawei Technologies Co. was found guilty of multiple US criminal charges, including money laundering, a conspiracy to steal trade secrets and defrauding banks about its business in Iran and North Korea. Bloomberg's Jill Disis has more. (Source: Bloomberg)",
+      "aiSummary": "Huawei Technologies was found guilty of several US criminal charges, including money laundering and a conspiracy to steal trade secrets. The company was also convicted of defrauding banks regarding its business activities in Iran and North Korea.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-11-25/huawei-found-guilty-of-us-charges-in-landmark-case-video",
+      "category": "Legal",
+      "filterTags": [
+        "Huawei",
+        "US",
+        "Bloomberg"
+      ],
+      "publishedAt": "2026-11-25T02:38:46+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Corporate"
+        }
+      ]
+    },
+    {
+      "slug": "trump-open-to-pardoning-jensen-huang-if-needed-ny-post",
+      "title": "Trump open to pardoning Jensen Huang if needed: NY Post",
+      "dek": "Trump said he would be willing to pardon Jensen Huang if needed and argued that the Nvidia CEO should not have to invoke the Fifth Amendment before Congress.",
+      "aiSummary": "Donald Trump stated that he would be prepared to pardon Nvidia CEO Jensen Huang if the situation requires it. He argued that Huang should not be forced to invoke the Fifth Amendment during congressional proceedings.",
+      "articleUrl": "https://www.cnbc.com/2026/11/25/trump-huang-pardon-politics.html",
+      "category": "Politics",
+      "filterTags": [
+        "Trump",
+        "Jensen Huang",
+        "Nvidia",
+        "Fifth Amendment",
+        "Congress"
+      ],
+      "publishedAt": "2026-11-25T02:09:45+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Politics"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "jensen-huang-s-nvidia-return-shows-the-u-s-china-ai-race-is-about-more-than-chips",
+      "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+      "dek": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
+      "aiSummary": "Jensen Huang has returned to his role as Nvidia CEO. His comeback underscores that the U.S.-China AI competition extends beyond chip manufacturing to include the competition for skilled technology talent.",
+      "articleUrl": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Nvidia",
+        "AI",
+        "semiconductors",
+        "tech talent",
+        "U.S.-China"
+      ],
+      "publishedAt": "2026-11-25T01:13:56+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Talent"
+        },
+        {
+          "name": "Geopolitics"
+        }
+      ]
+    },
+    {
+      "slug": "change-this-roku-tv-setting-to-watch-movies-how-they-were-filmed",
+      "title": "Change this Roku TV setting to watch movies how they were filmed",
+      "dek": "Your TV's refresh rate might be set to 60fps by default, but you can change that.",
+      "aiSummary": "The article explains that Roku TVs default to a 60 frames-per-second refresh rate, which can be altered to match the original filming frame rate of movies. By adjusting the setting, viewers can watch films as intended.",
+      "articleUrl": "https://www.engadget.com/2321254/change-roku-tv-setting-watch-movies-how-filmed/",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Roku",
+        "TV",
+        "refresh rate",
+        "60fps"
+      ],
+      "publishedAt": "2026-11-25T01:00:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Video Technology"
+        }
+      ]
+    },
+    {
+      "slug": "ugreen-dxp2800-gt-review-10-gig-ethernet-nas-inexpensively",
+      "title": "Ugreen DXP2800 GT review: 10 gig ethernet NAS, inexpensively",
+      "dek": "We've seen 10 gigabit adapters that cost more than the Ugreen DXP2800 GT network-attached storage peripheral. It's not perfect for everybody, but it is an excellent blend of cost and features. Ugreen DXP2800 GT Most two-bay network drives are relatively quiet boxes in a corner or",
+      "aiSummary": "The Ugreen DXP2800 GT is a two-bay network-attached storage device that offers 10-gigabit connectivity at a price lower than many standalone 10-gigabit adapters. While it may not suit every user, the review highlights it as an excellent balance of cost and features.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/25/ugreen-dxp2800-gt-review-10-gig-ethernet-nas-inexpensively?utm_source=rss",
+      "category": "Networking",
+      "filterTags": [
+        "Ugreen",
+        "DXP2800 GT",
+        "NAS",
+        "10 Gigabit Ethernet"
+      ],
+      "publishedAt": "2026-11-25T00:54:10+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Networking"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "why-tiny-cars-are-taking-off-across-europe",
+      "title": "Why tiny cars are taking off across Europe",
+      "dek": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
+      "aiSummary": "Tiny cars, previously associated with elderly and rural populations, are now gaining traction among younger demographics across Europe. This shift indicates a change in consumer preferences for compact vehicles.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
+      "category": "Automotive",
+      "filterTags": [
+        "Europe",
+        "Automotive",
+        "Tiny Cars"
+      ],
+      "publishedAt": "2026-11-25T00:34:05+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Automotive"
+        },
+        {
+          "name": "Consumer Trends"
+        }
+      ]
+    },
+    {
+      "slug": "this-helpful-apple-watch-feature-works-seamlessly-with-apple-carplay",
+      "title": "This helpful Apple Watch feature works seamlessly with Apple CarPlay",
+      "dek": "Long drives call for every trick you can get. See how your Apple Watch and CarPlay team up to keep you on course and a little more alert behind the wheel.",
+      "aiSummary": "The article explains how a particular Apple Watch feature integrates with Apple CarPlay to help drivers stay on track during long drives. It highlights the collaboration between the watch and CarPlay to improve navigation and alertness while driving.",
+      "articleUrl": "https://www.engadget.com/2321253/haptic-navigation-helpful-apple-watch-feature-works-seamlessly-carplay/",
+      "category": "Wearables",
+      "filterTags": [
+        "Apple Watch",
+        "Apple CarPlay",
+        "Apple"
+      ],
+      "publishedAt": "2026-11-25T00:30:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Wearables"
+        },
+        {
+          "name": "Automotive"
+        },
+        {
+          "name": "Software"
+        }
+      ]
+    },
+    {
+      "slug": "yale-s-sonnenfeld-nvidia-is-a-detriment-to-us-industrial-might-not-a-champion",
+      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+      "dek": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the que",
+      "aiSummary": "Yale professor Jeffrey Sonnenfeld warns that Jensen Huang's return as Nvidia's CEO and board member, which was supported by the White House, may be a significant error. Sonnenfeld argues that this move exposes directors to substantial personal liability due to ongoing lawsuits and suggests that Nvidia is detrimental to US industrial strength.",
+      "articleUrl": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "category": "Corporate Governance",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Yale",
+        "Jeffrey Sonnenfeld",
+        "White House"
+      ],
+      "publishedAt": "2026-11-25T00:12:02+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Corporate Governance"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "US Policy"
+        }
+      ]
+    },
+    {
+      "slug": "you-don-t-have-to-look-at-your-apple-watch-to-get-the-time",
+      "title": "You don't have to look at your Apple Watch to get the time",
+      "dek": "Your Apple Watch has a way to share the time that even supports Morse Code. See which of its three modes makes sense for your daily routine.",
+      "aiSummary": "Apple Watch offers a way to share the time without needing to glance at the screen, even supporting Morse Code. The feature includes three different modes that users can choose based on their daily routine.",
+      "articleUrl": "https://www.engadget.com/2321251/apple-watch-tell-time-without-looking-haptic-feedback/",
+      "category": "Wearables",
+      "filterTags": [
+        "Apple Watch",
+        "Morse Code"
+      ],
+      "publishedAt": "2026-11-25T00:00:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Wearables"
+        },
+        {
+          "name": "User Experience"
+        },
+        {
+          "name": "Accessibility"
+        }
+      ]
+    },
+    {
+      "slug": "jensen-huang-s-return-shows-nvidia-is-too-big-to-police",
+      "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
+      "dek": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and foreign policy experts say.",
+      "aiSummary": "Experts say Nvidia's central role in the U.S. economy may outweigh concerns about CEO Jensen Huang's alleged ties to a suspected Chinese intelligence asset. The company's size and influence make it difficult to police.",
+      "articleUrl": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
+      "category": "Technology",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Chinese intelligence"
+      ],
+      "publishedAt": "2026-11-24T23:39:04+00:00",
+      "publisher": {
+        "name": "WIRED",
+        "domain": "wired.com",
+        "website": "https://www.wired.com/",
+        "logoUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "faviconUrl": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Economics"
+        }
+      ]
+    },
+    {
+      "slug": "blanche-downplays-questions-over-nvidia-as-investigators-examine-company-s-customers",
+      "title": "Blanche Downplays Questions Over Nvidia as Investigators Examine Company’s Customers",
+      "dek": "Justice Department investigators have gathered evidence of Nvidia’s high-powered computer chips being illegally diverted by other firms to China, according to people familiar with the inquiries.",
+      "aiSummary": "Justice Department investigators have collected evidence suggesting that Nvidia's high-performance computer chips were illegally diverted to China by other firms. This inquiry is taking place as Blanche downplays questions regarding the company.",
+      "articleUrl": "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html",
+      "category": "Semiconductors",
+      "filterTags": [
+        "Nvidia",
+        "Justice Department",
+        "China",
+        "computer chips"
+      ],
+      "publishedAt": "2026-11-24T23:27:37+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Regulation"
+        },
+        {
+          "name": "Geopolitics"
+        }
+      ]
+    },
+    {
+      "slug": "meet-facebook-s-your-algorithm-how-meta-turns-plain-language-preferences-into-ranking",
+      "title": "Meet Facebook’s Your Algorithm: How Meta Turns Plain-Language Preferences Into Ranking",
+      "dek": "Meta's engineering team explains how Facebook's Your Algorithm turns plain-language interests into ranking signals for Feed and Reels, using LLM validation, 4 retrieval sources, layered filtering and a fine-tuned LLM reranker. \n The post  Meet Facebook’s Your Algorithm: How Meta ",
+      "aiSummary": "Meta’s engineering team described how the Your Algorithm converts user interests expressed in plain language into ranking signals for Feed and Reels. The system uses large language model validation, four retrieval sources, layered filtering, and a fine‑tuned LLM reranker to determine content placement.",
+      "articleUrl": "https://www.marktechpost.com/2026/11/24/meta-facebook-your-algorithm-llm-recommendations/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Meta",
+        "Facebook",
+        "LLM",
+        "LLM validation",
+        "Fine-tuned LLM reranker",
+        "Retrieval sources",
+        "Layered filtering"
+      ],
+      "publishedAt": "2026-11-24T23:06:17+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Social Media"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "three-llm-inflection-points-in-twelve-months",
+      "title": "Three LLM inflection points in twelve months",
+      "dek": "I gave a keynote at the  AI Engineer Code Summit  a couple of weeks ago, constructed around the idea that there have been three significant inflection points in the abilities of LLMs and coding agents in the past twelve months. \n Here's  the video  of the talk. In this post I'm g",
+      "aiSummary": "The author presented a keynote at the AI Engineer Code Summit discussing three significant inflection points in the abilities of LLMs and coding agents over the past twelve months. A video of the talk is available, and the post serves as a written companion to the presentation.",
+      "articleUrl": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+      "category": "AI",
+      "filterTags": [
+        "LLM",
+        "coding agents",
+        "AI Engineer Code Summit"
+      ],
+      "publishedAt": "2026-11-24T23:02:07+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy",
+      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "dek": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+      "aiSummary": "Nvidia CEO Jensen Huang maintains that a succession plan would create unnecessary hierarchy. The company has spent the past two weeks testing operations without its founder, revealing how it functions in his absence.",
+      "articleUrl": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+      "category": "Hardware",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang"
+      ],
+      "publishedAt": "2026-11-24T22:27:52+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Corporate Governance"
+        },
+        {
+          "name": "Leadership"
+        }
+      ]
+    },
+    {
+      "slug": "apple-pay-vanishes-from-walmart-app-website-without-explanation",
+      "title": "Apple Pay vanishes from Walmart app & website without explanation",
+      "dek": "Walmart's love-hate relationship with  Apple Pay  continues, as the service has been removed from the Walmart iOS app, leaving it available only at in-person kiosks. Walmart has removed Apple Pay support from its website and iOS app. While Apple Pay launched in the United States ",
+      "aiSummary": "Walmart has removed Apple Pay from its iOS app and website, leaving the payment method only usable at in-person kiosks. The change reflects Walmart's ongoing mixed stance toward Apple Pay. Apple Pay was launched in the United States.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/24/apple-pay-vanishes-from-walmart-app-website-without-explanation?utm_source=rss",
+      "category": "Payments",
+      "filterTags": [
+        "Apple Pay",
+        "Walmart"
+      ],
+      "publishedAt": "2026-11-24T22:18:22+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Payments"
+        },
+        {
+          "name": "Retail"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-he-s-in-therapy",
+      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+      "dek": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+      "aiSummary": "During an all‑hands meeting, Nvidia founder Jensen Huang apologized to staff. He expressed gratitude for a second chance to lead the company.",
+      "articleUrl": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+      "category": "Business",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang"
+      ],
+      "publishedAt": "2026-11-24T21:48:27+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Business"
+        },
+        {
+          "name": "Leadership"
+        }
+      ]
+    },
+    {
+      "slug": "books",
+      "title": "Books",
+      "dek": "null",
+      "aiSummary": "The article discusses books. It covers various aspects of books.",
+      "articleUrl": "https://danielmiessler.com/blog/reading?utm_source=rss&utm_medium=feed&utm_campaign=website",
+      "category": "Literature",
+      "filterTags": [],
+      "publishedAt": "2026-11-24T21:00:00+00:00",
+      "publisher": {
+        "name": "Daniel Miessler",
+        "domain": "danielmiessler.com",
+        "website": "https://danielmiessler.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=danielmiessler.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=danielmiessler.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Literature"
+        }
+      ]
+    },
+    {
+      "slug": "idempotency-when-you-don-t-control-the-other-end",
+      "title": "Idempotency when you don't control the other end",
+      "dek": "Ensuring repeated requests have the same effect even when the other party is not under your control",
+      "aiSummary": "",
+      "articleUrl": "https://stackoverflow.blog/2026/11/24/idempotency-when-you-don-t-control-the-other-end/",
+      "category": "Developer AI",
+      "filterTags": [],
+      "publishedAt": "2026-11-24T17:01:51+00:00",
+      "publisher": {
+        "name": "Stack Overflow Blog",
+        "domain": "stackoverflow.blog",
+        "website": "https://stackoverflow.blog",
+        "logoUrl": "https://stackoverflow.blog/apple-touch-icon.png",
+        "faviconUrl": "https://stackoverflow.blog/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": []
+    },
+    {
+      "slug": "too-big-to-fire-jensen-huang-is-back-at-nvidia-questions-loom-over-ai-boom-u-s-china-relations",
+      "title": "Too Big to Fire? Jensen Huang Is Back at Nvidia; Questions Loom Over AI Boom & U.S.-China Relations",
+      "dek": "The US government is staking our economy and national security on tech companies and billionaires. AI Now's Aya Ibrahim joins Democracy Now! to discuss the broader impact of Jensen Huang's reinstatement as NVIDIA CEO. \n The post  Too Big to Fire? Jensen Huang Is Back at Nvidia; Q",
+      "aiSummary": "The US government is relying heavily on tech companies and billionaires for economic and national security purposes. Aya Ibrahim from AI Now discusses the broader implications of Jensen Huang's reinstatement as NVIDIA CEO on Democracy Now!",
+      "articleUrl": "https://ainowinstitute.org/news/press/too-big-to-fire-jensen-huang-is-back-at-nvidia-questions-loom-over-ai-boom-u-s-china-relations",
+      "category": "AI",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "AI Now",
+        "Democracy Now!",
+        "Aya Ibrahim"
+      ],
+      "publishedAt": "2026-11-24T16:48:31+00:00",
+      "publisher": {
+        "name": "AI Now Institute",
+        "domain": "ainowinstitute.org",
+        "website": "https://ainowinstitute.org/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ainowinstitute.org&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ainowinstitute.org&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Geopolitics"
+        },
+        {
+          "name": "Corporate Governance"
+        }
+      ]
+    },
+    {
+      "slug": "clay-helps-sales-teams-win-with-codex-and-chatgpt",
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "dek": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "aiSummary": "Clay integrates ChatGPT and Codex to assist its users in researching deals and converting data into go‑to‑market strategies. The system uses GPT‑6 models to perform the reasoning behind these actions.",
+      "articleUrl": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "category": "AI",
+      "filterTags": [
+        "Clay",
+        "Codex",
+        "ChatGPT",
+        "GPT-6"
+      ],
+      "publishedAt": "2026-11-24T00:00:00+00:00",
+      "publisher": {
+        "name": "OpenAI",
+        "domain": "openai.com",
+        "website": "https://openai.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Sales Enablement"
+        },
+        {
+          "name": "Software"
+        }
+      ]
+    },
+    {
+      "slug": "6-questions-about-jensen-huang-s-stunning-return-as-nvidia-ceo",
+      "title": "6 Questions About Jensen Huang’s Stunning Return as Nvidia CEO",
+      "dek": "“From the standpoint of both democracy and healthy financial markets, no one person should wield that kind of influence,” says Aya Ibrahim, Senior Fellow at the AI Now Institute. \n The post  6 Questions About Jensen Huang’s Stunning Return as Nvidia CEO  appeared first on  AI Now",
+      "aiSummary": "The article poses six questions concerning Jensen Huang's return as the CEO of Nvidia. It includes a perspective from Aya Ibrahim of the AI Now Institute, who argues that no single individual should hold such significant influence for the sake of democracy and healthy financial markets.",
+      "articleUrl": "https://ainowinstitute.org/news/press/6-questions-about-jensen-huangs-stunning-return-as-nvidia-ceo",
+      "category": "AI",
+      "filterTags": [
+        "Jensen Huang",
+        "Nvidia",
+        "AI Now Institute",
+        "Aya Ibrahim"
+      ],
+      "publishedAt": "2026-11-23T21:39:29+00:00",
+      "publisher": {
+        "name": "AI Now Institute",
+        "domain": "ainowinstitute.org",
+        "website": "https://ainowinstitute.org/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ainowinstitute.org&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ainowinstitute.org&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Corporate Governance"
+        },
+        {
+          "name": "Technology Leadership"
+        }
+      ]
+    },
+    {
+      "slug": "schumer-puts-nvidia-trump-on-notice-after-huang-reinstatement",
+      "title": "Schumer puts Nvidia, Trump on notice after Huang reinstatement",
+      "dek": "AI Now's Senior Fellow, Aya Ibrahim, highlights the risks of our economic and national security hinging on one company and, more specifically, one man.  \n The post  Schumer puts Nvidia, Trump on notice after Huang reinstatement  appeared first on  AI Now Institute .",
+      "aiSummary": "Aya Ibrahim, a senior fellow at AI Now, warns that relying on a single company and its CEO poses economic and national security risks. She cites Senator Schumer’s recent remarks that put Nvidia and President Trump on notice following the reinstatement of CEO Jensen Huang.",
+      "articleUrl": "https://ainowinstitute.org/news/press/schumer-puts-nvidia-trump-on-notice-after-huang-reinstatement",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "AI Now Institute",
+        "Trump"
+      ],
+      "publishedAt": "2026-11-23T21:35:16+00:00",
+      "publisher": {
+        "name": "AI Now Institute",
+        "domain": "ainowinstitute.org",
+        "website": "https://ainowinstitute.org/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ainowinstitute.org&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ainowinstitute.org&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "National Security"
+        },
+        {
+          "name": "Politics"
+        }
+      ]
+    }
+  ]
+}
