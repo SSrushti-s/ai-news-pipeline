@@ -1,0 +1,966 @@
+{
+  "news": [
+    {
+      "slug": "apple-to-expand-india-retail-network-with-new-store-in-hyderabad",
+      "title": "Apple to Expand India Retail Network With New Store in Hyderabad",
+      "dek": "Apple Inc. is opening a new store in the southern Indian city of Hyderabad next month, continuing a drive to expand its retail network in one of its fastest-growing overseas markets.",
+      "aiSummary": "Apple Inc. plans to open a new retail store in Hyderabad, India, next month. This expansion is part of the company's ongoing effort to increase its physical retail footprint in one of its fastest-growing international markets.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-26/apple-to-expand-india-retail-network-with-new-store-in-hyderabad",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Apple",
+        "Hyderabad",
+        "Retail"
+      ],
+      "publishedAt": "2026-11-26T05:38:03+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Retail Expansion"
+        }
+      ]
+    },
+    {
+      "slug": "beware-higher-correlation-but-nab-high-u-s-credit-yields-fund-managers-say",
+      "title": "Beware higher correlation but nab high U.S. credit yields, fund managers say",
+      "dek": "The AI boom could trigger a recession, but data centers remain an attractive investment opportunity, a hedge fund manager said.",
+      "aiSummary": "Fund managers suggest that while the AI boom may lead to a recession and higher market correlations, U.S. credit yields remain attractive. Additionally, data centers are viewed as a compelling investment opportunity despite potential economic headwinds.",
+      "articleUrl": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
+      "category": "Finance",
+      "filterTags": [
+        "AI",
+        "Data Centers",
+        "U.S. Credit",
+        "Hedge Funds"
+      ],
+      "publishedAt": "2026-11-26T05:36:01+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Investment Strategy"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "thanksgiving-mac-mini-deals-knock-up-to-500-off-m4-pro-models",
+      "title": "Thanksgiving Mac mini deals knock up to $500 off M4 Pro models",
+      "dek": "B&H's Thanksgiving deals knock up to $500 off two M4 Pro Mac mini configurations, giving shoppers a chance to pick up a powerful desktop Mac with extra unified memory or storage starting at $1,599. M5 Pro Mac mini B&H is expanding its Apple discounts with additional savings on tw",
+      "aiSummary": "B&H is offering up to $500 off two M4 Pro Mac mini configurations during its Thanksgiving sale, with prices starting at $1,599 and options for extra unified memory or storage. The promotion also includes discounts on M5 Pro Mac mini models.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/26/thanksgiving-mac-mini-deals-knock-up-to-500-off-m4-pro-models?utm_source=rss",
+      "category": "Hardware",
+      "filterTags": [
+        "B&H",
+        "Apple",
+        "Mac mini",
+        "M4 Pro",
+        "M5 Pro"
+      ],
+      "publishedAt": "2026-11-26T05:11:33+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Retail"
+        },
+        {
+          "name": "Apple"
+        }
+      ]
+    },
+    {
+      "slug": "building-on-nemotron-3-5-parse-open-data-fine-tuning-and-faster-inference",
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "dek": "Developers are using Nemotron 3.5 Parse to create custom models with open data and achieve quicker processing speeds.",
+      "aiSummary": "The article discusses the development of applications based on Nemotron 3.5 Parse. It highlights the use of open data for fine-tuning the model and notes improvements in inference speed.",
+      "articleUrl": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "category": "AI",
+      "filterTags": [
+        "Nemotron 3.5 Parse",
+        "Fine-Tuning",
+        "Inference",
+        "Open Data"
+      ],
+      "publishedAt": "2026-11-26T05:05:36+00:00",
+      "publisher": {
+        "name": "Hugging Face",
+        "domain": "huggingface.co",
+        "website": "https://huggingface.co/",
+        "logoUrl": "https://huggingface.co/front/thumbnails/v2-2.png",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "software-stocks-spared-in-tech-rout-as-ai-narrative-shifts",
+      "title": "Software stocks spared in tech rout as AI narrative shifts",
+      "dek": "Semiconductor and software shares now neck-and-neck in 2026 as investors think again about the technology’s winners and losers",
+      "aiSummary": "Software stocks avoided the recent decline in the broader tech sector as investor sentiment regarding AI winners and losers shifted. Consequently, semiconductor and software shares are now trading at similar levels in 2026.",
+      "articleUrl": "https://www.ft.com/content/90b82a64-4f58-45d7-8a6a-4c2730545b65?syn-25a6b1a6=1",
+      "category": "Technology",
+      "filterTags": [
+        "Software",
+        "Semiconductor",
+        "AI",
+        "Tech stocks"
+      ],
+      "publishedAt": "2026-11-26T05:00:29+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "context-scaling-a-new-frontier-of-ai-scaling",
+      "title": "Context Scaling: A New Frontier of AI Scaling",
+      "dek": "arXiv:2611.33160v1 Announce Type: new \nAbstract: Many failures of deployed AI arise not from weak inference but from a mismatch between the state a task depends on and the context available when the system acts. Relevant user state, repository revisions, tool traces, sensor readi",
+      "aiSummary": "The paper argues that many AI failures stem from a mismatch between the required task state and the available context, rather than weak inference. It proposes context scaling as a new frontier for improving AI performance by ensuring systems have access to relevant user state, repository revisions, and tool traces.",
+      "articleUrl": "https://arxiv.org/abs/2611.33160",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Context Scaling",
+        "arXiv"
+      ],
+      "publishedAt": "2026-11-26T05:00:00+00:00",
+      "publisher": {
+        "name": "arXiv cs.AI",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.AI",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "constraint-aware-test-time-scoring-for-llm-and-vlm-candidate-selection",
+      "title": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
+      "dek": "arXiv:2611.33161v1 Announce Type: new \nAbstract: When an LLM or VLM produces several candidate answers, picking the best one usually relies on the model's own confidence, a learned judge model, or a domain check. Each has a known weakness: an answer can be fluent but insecure, ma",
+      "aiSummary": "The paper introduces a constraint-aware test-time scoring method for selecting the best candidate answer from Large Language Models (LLMs) and Vision-Language Models (VLMs). It addresses the limitations of existing selection strategies, such as model confidence or learned judges, which may fail to identify answers that are fluent but insecure or inaccurate.",
+      "articleUrl": "https://arxiv.org/abs/2611.33161",
+      "category": "AI",
+      "filterTags": [
+        "LLM",
+        "VLM",
+        "Test-Time Scoring",
+        "Candidate Selection",
+        "arXiv"
+      ],
+      "publishedAt": "2026-11-26T05:00:00+00:00",
+      "publisher": {
+        "name": "arXiv cs.AI",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.AI",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Natural Language Processing"
+        }
+      ]
+    },
+    {
+      "slug": "autoformbench-a-lean-formalization-benchmark-for-advanced-mathematics",
+      "title": "AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics",
+      "dek": "arXiv:2611.33165v1 Announce Type: new \nAbstract: AI systems are increasingly capable of producing machine-checked Lean proofs of advanced mathematical results. Real mathematical formalization, however, is not isolated theorem proving: it requires building the definitions and inte",
+      "aiSummary": "The paper introduces AutoformBench, a benchmark designed to evaluate AI systems on the formalization of advanced mathematics using Lean. It highlights that real-world mathematical formalization involves more than just proving isolated theorems, requiring the construction of definitions and integrations.",
+      "articleUrl": "https://arxiv.org/abs/2611.33165",
+      "category": "AI",
+      "filterTags": [
+        "AutoformBench",
+        "Lean",
+        "Formal Verification",
+        "arXiv"
+      ],
+      "publishedAt": "2026-11-26T05:00:00+00:00",
+      "publisher": {
+        "name": "arXiv cs.AI",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/list/cs.AI",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Mathematics"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "karhunen-lo-e-ve-expansion-of-time-rescaled-brownian-bridge-and-inference-of-unit-distribution",
+      "title": "Karhunen-Lo\\`{e}ve Expansion of Time-Rescaled Brownian Bridge and Inference of Unit Distribution",
+      "dek": "arXiv:2611.33166v1 Announce Type: new \nAbstract: We study the Karhunen-Lo\\`{e}ve (KL) basis of the time-rescaled Brownian bridge (TRBB) with time rescales of the form $t\\mapsto\\int_0^t f^2(s)\\mathop{}\\!\\mathrm{d}s$. For testing unit distributions, we construct a new statistic bas",
+      "aiSummary": "The study investigates the Karhunen-Loève basis of the time-rescaled Brownian bridge, specifically focusing on time rescales defined by the integral of the square of a function. Based on this analysis, the authors construct a new statistic designed for testing unit distributions.",
+      "articleUrl": "https://arxiv.org/abs/2611.33166",
+      "category": "Mathematics",
+      "filterTags": [
+        "Karhunen-Loève Expansion",
+        "Brownian Bridge",
+        "Time-Rescaled Brownian Bridge",
+        "Unit Distribution",
+        "arXiv"
+      ],
+      "publishedAt": "2026-11-26T05:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Mathematics"
+        },
+        {
+          "name": "Statistics"
+        },
+        {
+          "name": "Probability Theory"
+        }
+      ]
+    },
+    {
+      "slug": "the-symmetry-budget-how-much-group-structure-should-a-network-architecture-assume",
+      "title": "The Symmetry Budget: How Much Group Structure Should a Network Architecture Assume?",
+      "dek": "arXiv:2611.33169v1 Announce Type: new \nAbstract: A network architecture is, in large part, a symmetry assumption: convolution ties weights across translations, attention ties them across permutations, and a fully connected layer ties nothing. When the data are only approximately ",
+      "aiSummary": "The paper argues that network architectures are fundamentally defined by their symmetry assumptions, such as translation invariance in convolutions or permutation invariance in attention. It explores the trade-offs involved in selecting the appropriate level of group structure when dealing with data that is only approximately symmetric.",
+      "articleUrl": "https://arxiv.org/abs/2611.33169",
+      "category": "Machine Learning",
+      "filterTags": [
+        "arXiv",
+        "Convolution",
+        "Attention",
+        "Group Structure",
+        "Network Architecture"
+      ],
+      "publishedAt": "2026-11-26T05:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Deep Learning"
+        },
+        {
+          "name": "Mathematics"
+        }
+      ]
+    },
+    {
+      "slug": "a-causal-energy-prior-for-learning-directed-acyclic-graphs",
+      "title": "A Causal Energy Prior for Learning Directed Acyclic Graphs",
+      "dek": "arXiv:2611.33225v1 Announce Type: new \nAbstract: Bayesian learning of directed acyclic graphs (DAGs) has long relied on non- or weakly informative priors, on the assumption that the information needed for an informative one is rarely available. In genetics and systems biology, an",
+      "aiSummary": "The paper introduces a causal energy prior for the Bayesian learning of directed acyclic graphs (DAGs). This approach addresses the traditional reliance on non- or weakly informative priors by leveraging specific information available in fields such as genetics and systems biology.",
+      "articleUrl": "https://arxiv.org/abs/2611.33225",
+      "category": "Machine Learning",
+      "filterTags": [
+        "Directed Acyclic Graphs",
+        "Bayesian Learning",
+        "Causal Energy Prior",
+        "Genetics",
+        "Systems Biology"
+      ],
+      "publishedAt": "2026-11-26T05:00:00+00:00",
+      "publisher": {
+        "name": "arXiv",
+        "domain": "arxiv.org",
+        "website": "https://arxiv.org/",
+        "logoUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "faviconUrl": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Machine Learning"
+        },
+        {
+          "name": "Bioinformatics"
+        },
+        {
+          "name": "Statistics"
+        }
+      ]
+    },
+    {
+      "slug": "musk-says-every-us-kid-to-get-two-spacex-shares-doubling-pledge",
+      "title": "Musk Says Every US Kid to Get Two SpaceX Shares, Doubling Pledge",
+      "dek": "Elon Musk and SpaceX will give every child in the US two shares in the space exploration company, doubling a commitment the world’s richest person made just last month.",
+      "aiSummary": "Elon Musk and SpaceX have announced a plan to distribute two shares of the company to every child in the US. This move doubles a commitment that the world's richest person made just last month.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-26/musk-says-every-us-kid-to-get-two-spacex-shares-doubling-pledge",
+      "category": "Space",
+      "filterTags": [
+        "Elon Musk",
+        "SpaceX"
+      ],
+      "publishedAt": "2026-11-26T04:52:54+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Space"
+        },
+        {
+          "name": "Business"
+        }
+      ]
+    },
+    {
+      "slug": "south-korea-s-kospi-leads-gains-as-tech-rebound-lifts-asia-markets",
+      "title": "South Korea's Kospi leads gains as tech rebound lifts Asia markets",
+      "dek": "Investors appear to have looked past a fresh set of U.S. tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners.",
+      "aiSummary": "South Korea's Kospi index rose, leading gains in Asian markets as technology stocks rebounded. The rebound helped lift other Asian markets. Investors seemed to ignore a new set of U.S. tariffs announced by the White House that target more than a dozen trading partners.",
+      "articleUrl": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+      "category": "Finance",
+      "filterTags": [
+        "Kospi",
+        "U.S. tariffs",
+        "White House"
+      ],
+      "publishedAt": "2026-11-26T04:49:03+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "International Trade"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "xpeng-says-its-humanoid-robot-will-cost-the-same-as-an-ev",
+      "title": "Xpeng Says Its Humanoid Robot Will Cost the Same as an EV",
+      "dek": "Xpeng Inc.’s humanoid robots will cost roughly the same as an electric vehicle when they go on sale to the public in the second quarter.",
+      "aiSummary": "Xpeng Inc. announced that its humanoid robots will be priced at a level comparable to electric vehicles. The company plans to begin public sales of these robots in the second quarter.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-26/xpeng-says-its-humanoid-robot-will-cost-the-same-as-an-ev",
+      "category": "Robotics",
+      "filterTags": [
+        "Xpeng",
+        "humanoid robots",
+        "EV"
+      ],
+      "publishedAt": "2026-11-26T04:30:45+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Robotics"
+        },
+        {
+          "name": "Automotive"
+        }
+      ]
+    },
+    {
+      "slug": "happy-thanksgiving-2026-from-all-of-us-at-appleinsider",
+      "title": "Happy Thanksgiving 2026 from all of us at AppleInsider!",
+      "dek": "While we're still here looking for breaking Apple news and the  best Black Friday deals  possible, this Thanksgiving we here at AppleInsider are thankful to you, for continuing to stop by for 30 years! Happy Thanksgiving We hope everyone has had safe travels to visit their loved ",
+      "aiSummary": "AppleInsider thanks its readers for 30 years of support and wishes them safe travels this Thanksgiving. The site continues to search for breaking Apple news and the best Black Friday deals. It expresses gratitude to visitors for stopping by.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/26/happy-thanksgiving-2026-from-all-of-us-at-appleinsider?utm_source=rss",
+      "category": "Technology",
+      "filterTags": [
+        "Apple",
+        "AppleInsider",
+        "Black Friday"
+      ],
+      "publishedAt": "2026-11-26T03:53:46+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Media"
+        },
+        {
+          "name": "Retail"
+        }
+      ]
+    },
+    {
+      "slug": "s-p-warns-nvidia-credit-rating-could-be-cut-over-rising-management-and-governance-risk",
+      "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
+      "dek": "S&P Global Ratings said Nvidia's credit rating could be cut by one notch as it flagged \"rising\" management and governance risk at the chipmaker.",
+      "aiSummary": "S&P Global Ratings warned that Nvidia's credit rating could be lowered by one notch. The rating agency cited increasing management and governance risks at the chipmaker as the reason.",
+      "articleUrl": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
+      "category": "Finance",
+      "filterTags": [
+        "S&P Global Ratings",
+        "Nvidia"
+      ],
+      "publishedAt": "2026-11-26T03:19:44+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "black-friday-mac-studio-price-war-drives-m5-max-desktop-down-to-2-299",
+      "title": "Black Friday Mac Studio price war drives M5 Max desktop down to $2,299",
+      "dek": "The M5 Max Mac Studio just hit $2,299 as rival retailers slash up to $300 off upgraded configurations in an aggressive  Black Friday  skirmish. Mac Studio Amazon  and  B&H  are offering $200 discounts on the standard 2026 Mac Studio, matching the lowest price in our  Price Guide ",
+      "aiSummary": "Rival retailers are engaging in a price war for the M5 Max Mac Studio, reducing the price of upgraded configurations to $2,299. Amazon and B&H are offering $200 discounts on the standard 2026 model, matching the lowest price listed in the Price Guide.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/26/black-friday-mac-studio-price-war-drives-m5-max-desktop-down-to-2299?utm_source=rss",
+      "category": "Hardware",
+      "filterTags": [
+        "Mac Studio",
+        "M5 Max",
+        "Amazon",
+        "B&H",
+        "Black Friday"
+      ],
+      "publishedAt": "2026-11-26T03:15:58+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Retail"
+        }
+      ]
+    },
+    {
+      "slug": "we-reviewed-these-10-gadgets-and-they-re-now-on-sale-for-black-friday",
+      "title": "We reviewed these 10 gadgets, and they're now on sale for Black Friday",
+      "dek": "Multiple gadgets from Engadget's Best of 2026 list are already on sale, including Samsung's flagship foldable and Apple's ultra-popular entry-level laptop.",
+      "aiSummary": "Engadget's Best of 2026 gadgets are on sale for Black Friday. Samsung's flagship foldable and Apple's entry‑level laptop are among the discounted items.",
+      "articleUrl": "https://www.engadget.com/2328876/black-friday-2026-deals-on-reviewed-gadgets/",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Samsung",
+        "Apple",
+        "Engadget"
+      ],
+      "publishedAt": "2026-11-25T23:36:46+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Retail"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "quoting-scott-aaronson",
+      "title": "Quoting Scott Aaronson",
+      "dek": "It’s now obvious that we’ll be getting, not one-off solutions to this or that complexity question, but a whole new continent of mathematical truth, one that we’d previously only glimpsed through fog. Picture van Leeuwenhoek first training a microscope on pondwater, or Galileo fir",
+      "aiSummary": "The article highlights that new developments in complexity theory will bring about a vast expansion of mathematical knowledge, moving beyond isolated solutions to a broader understanding. It likens this progress to early scientific breakthroughs, such as van Leeuwenhoek’s microscope work and Galileo’s observations. The piece reflects on Scott Aaronson’s perspective on this emerging frontier.",
+      "articleUrl": "https://simonwillison.net/2026/Nov/25/scott-aaronson/",
+      "category": "Mathematics",
+      "filterTags": [
+        "Scott Aaronson",
+        "complexity theory"
+      ],
+      "publishedAt": "2026-11-25T23:26:32+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Mathematics"
+        },
+        {
+          "name": "Computer Science"
+        },
+        {
+          "name": "Theoretical Computer Science"
+        }
+      ]
+    },
+    {
+      "slug": "s-p-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks",
+      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "dek": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+      "aiSummary": "The credit rating agency S&P is considering downgrading Nvidia's credit rating to AA-, which is the fourth-highest tier. This potential action is driven by concerns regarding the company's governance structure and 'key man' risks.",
+      "articleUrl": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "category": "Finance",
+      "filterTags": [
+        "S&P",
+        "Nvidia",
+        "Credit Rating",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-25T22:44:32+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Corporate Governance"
+        }
+      ]
+    },
+    {
+      "slug": "the-revolution-vs-the-renaissance-thariq-shihipar-openai",
+      "title": "The Revolution vs The Renaissance — Thariq Shihipar, OpenAI",
+      "dek": "AI can make software cheap enough to produce by the thousand and still give you more time to make one thing feel right. At AI Engineer CODE, Thariq Shihipar shows how those two futures can coexist. In his fighting game, he edits the size of a rock in t...",
+      "aiSummary": "AI can lower software production costs to the point of mass creation while still allowing developers more time to refine quality. At AI Engineer CODE, Shihipar demonstrates how these two futures can coexist, using a fighting game where he modifies a rock’s size to illustrate the concept.",
+      "articleUrl": "https://latent.space/p/the_revolution_vs_the_renaissance_thariq_shihipar_openai/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "OpenAI",
+        "AI Engineer CODE"
+      ],
+      "publishedAt": "2026-11-25T22:28:01+00:00",
+      "publisher": {
+        "name": "Latent Space",
+        "domain": "latent.space",
+        "website": "https://www.latent.space/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Software Development"
+        },
+        {
+          "name": "Gaming"
+        }
+      ]
+    },
+    {
+      "slug": "ainews-math-proofs-are-landing-faster-than-we-can-read-them",
+      "title": "[AINews] Math Proofs Are Landing Faster Than We Can Read Them",
+      "dek": "November 25, 2026 — From Erdős problems to new bounds for matrix multiplication and Fourier transforms.",
+      "aiSummary": "The article discusses recent advances in mathematical proofs, covering solutions to Erdős problems and new bounds for matrix multiplication and Fourier transforms. These breakthroughs demonstrate the rapid pace at which new mathematical results are being produced.",
+      "articleUrl": "https://latent.space/p/ainews-math-proofs-are-landing-faster-than-we-can-read-them/",
+      "category": "Mathematics",
+      "filterTags": [
+        "Erdős",
+        "matrix multiplication",
+        "Fourier transforms"
+      ],
+      "publishedAt": "2026-11-25T22:23:41+00:00",
+      "publisher": {
+        "name": "Latent Space",
+        "domain": "latent.space",
+        "website": "https://www.latent.space/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Mathematics"
+        },
+        {
+          "name": "Algorithms"
+        },
+        {
+          "name": "Computational Complexity"
+        }
+      ]
+    },
+    {
+      "slug": "can-you-play-gta-6-from-an-external-hard-drive-on-ps5-or-xbox-series-x-s",
+      "title": "Can you play GTA 6 from an external hard drive on PS5 or Xbox Series X/S?",
+      "dek": "With a hefty install size, GTA 6 will take up a significant chunk of your PS5 or Xbox Series X/S storage space.",
+      "aiSummary": "GTA 6 is expected to have a large installation size that will consume a significant portion of the available storage space on PS5 and Xbox Series X/S consoles. The article addresses whether the game can be played directly from an external hard drive due to these storage constraints.",
+      "articleUrl": "https://www.engadget.com/2328792/can-you-play-gta-6-from-external-hard-drive/",
+      "category": "Gaming",
+      "filterTags": [
+        "GTA 6",
+        "PS5",
+        "Xbox Series X/S",
+        "External Hard Drive"
+      ],
+      "publishedAt": "2026-11-25T22:07:07+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "google-s-patent-for-custom-ai-video-feeds-paints-a-bleak-picture-of-entertainment-s-future",
+      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+      "dek": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might a",
+      "aiSummary": "Google filed a patent last year for a system called My Channel that would generate personalized video feeds and ads using user data. The patent was rejected, but Google may still pursue the idea. The proposal raises concerns about the future of entertainment content.",
+      "articleUrl": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Google",
+        "My Channel",
+        "AI-generated videos",
+        "advertisements"
+      ],
+      "publishedAt": "2026-11-25T21:51:26+00:00",
+      "publisher": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "website": "https://www.theverge.com/",
+        "logoUrl": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+        "faviconUrl": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Entertainment"
+        },
+        {
+          "name": "Advertising"
+        }
+      ]
+    },
+    {
+      "slug": "7-gadgets-that-ll-instantly-upgrade-your-thanksgiving-feast",
+      "title": "7 gadgets that'll instantly upgrade your Thanksgiving feast",
+      "dek": "These tools will make turkey day just a little easier.",
+      "aiSummary": "The article lists seven gadgets designed to simplify Thanksgiving preparations. Each item offers a specific convenience to help make the holiday meal smoother.",
+      "articleUrl": "https://www.engadget.com/2328767/gadgets-instantly-upgrade-thanksgiving-feast/",
+      "category": "Home & Kitchen",
+      "filterTags": [
+        "gadgets",
+        "Thanksgiving",
+        "turkey day"
+      ],
+      "publishedAt": "2026-11-25T21:41:43+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Home & Kitchen"
+        },
+        {
+          "name": "Lifestyle"
+        }
+      ]
+    },
+    {
+      "slug": "a-man-in-denver-has-been-throwing-eggs-at-waymo-vehicles",
+      "title": "A Man in Denver Has Been Throwing Eggs at Waymo Vehicles",
+      "dek": "The man, who drove a Toyota Corolla from a fleet leased to Lyft drivers, used orange cones to trap the self-driving vehicles before pelting them with eggs, the police said. No charges have been filed.",
+      "aiSummary": "A man in Denver has been trapping Waymo self-driving vehicles using orange cones and throwing eggs at them. Police stated that the suspect was driving a Toyota Corolla leased to Lyft drivers, but no charges have been filed against him.",
+      "articleUrl": "https://www.nytimes.com/2026/11/25/us/waymo-denver-egg-throwing.html",
+      "category": "Autonomous Vehicles",
+      "filterTags": [
+        "Waymo",
+        "Lyft",
+        "Toyota Corolla",
+        "Denver"
+      ],
+      "publishedAt": "2026-11-25T21:36:34+00:00",
+      "publisher": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "website": "https://www.nytimes.com/section/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Autonomous Vehicles"
+        },
+        {
+          "name": "Public Safety"
+        }
+      ]
+    },
+    {
+      "slug": "datasette-charts-0-3a0",
+      "title": "datasette-charts 0.3a0",
+      "dek": "Release:   datasette-charts 0.3a0 \n I added chart annotations to  datasette-charts ! \n You can now render a chart and then annotate it with lines, shaded areas, labels, or a combination of the three. \n A chart with annotations looks like this: \n \n Here's  that same chart in Datas",
+      "aiSummary": "The latest release of datasette-charts, version 0.3a0, adds annotation features for charts, letting users insert lines, shaded areas, and labels. These annotations can be combined to enhance chart visualizations.",
+      "articleUrl": "https://simonwillison.net/2026/Nov/25/datasette-charts/",
+      "category": "Data Visualization",
+      "filterTags": [
+        "datasette-charts",
+        "Datasette",
+        "chart annotations"
+      ],
+      "publishedAt": "2026-11-25T18:16:50+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Data Visualization"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "datasette-charts-0-2a1",
+      "title": "datasette-charts 0.2a1",
+      "dek": "Release:   datasette-charts 0.2a1 \n \n Minor UI improvements: \n \n Collapsing the  suggested charts  section now leaves the chart visible. \n Following a link to a chart opens it with the suggestions collapsed for that visit. \n On table pages the panel now sits below the \"4,235 rows",
+      "aiSummary": "The datasette-charts plugin has released version 0.2a1, introducing minor UI improvements. The suggested charts section now stays visible when collapsed, and clicking a chart link opens it with suggestions collapsed for that visit. On table pages, the panel is positioned below the row count display.",
+      "articleUrl": "https://simonwillison.net/2026/Nov/24/datasette-charts-2/",
+      "category": "Open Source",
+      "filterTags": [
+        "datasette-charts",
+        "datasette"
+      ],
+      "publishedAt": "2026-11-24T06:07:19+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Data Visualization"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    }
+  ]
+}
