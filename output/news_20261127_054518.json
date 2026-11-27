@@ -1,0 +1,578 @@
+{
+  "news": [
+    {
+      "slug": "sandboxes-secure-inference-and-keeping-agents-from-going-rogue",
+      "title": "Sandboxes, secure inference, and keeping agents from going rogue",
+      "dek": "At We Are Developers, Ryan talks with Daytona CEO and cofounder Ivan Burazin about agent sandboxes and Blackbox AI CTO and cofounder Richard Risk about encrypted inference.",
+      "aiSummary": "At the We Are Developers conference, Daytona CEO Ivan Burazin discussed the implementation of agent sandboxes to prevent AI agents from acting unpredictably. Additionally, Blackbox AI CTO Richard Risk addressed the use of encrypted inference to enhance security during model execution.",
+      "articleUrl": "https://stackoverflow.blog/2026/11/27/sandboxes-secure-inference-and-rogue-agents/",
+      "category": "AI",
+      "filterTags": [
+        "Daytona",
+        "Blackbox AI",
+        "agent sandboxes",
+        "encrypted inference"
+      ],
+      "publishedAt": "2026-11-27T08:40:00+00:00",
+      "publisher": {
+        "name": "Stack Overflow Blog",
+        "domain": "stackoverflow.blog",
+        "website": "https://stackoverflow.blog",
+        "logoUrl": "https://stackoverflow.blog/apple-touch-icon.png",
+        "faviconUrl": "https://stackoverflow.blog/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Security"
+        }
+      ]
+    },
+    {
+      "slug": "black-friday-deal-zone-slashes-15-inch-m5-macbook-air-24gb-ram-to-1-399",
+      "title": "Black Friday Deal Zone slashes 15-inch M5 MacBook Air 24GB RAM to $1,399",
+      "dek": "B&H's Black Friday Deal Zone slashes $300 off Apple's current 15-inch MacBook Air with an M5 chip and upgrade to 24GB of RAM. Save $300 on M5 MacBook Air 24GB during Black Friday Deal Zone - Image credit: Apple The Black Friday Deal Zone brings the price of the upgraded 15-inch M",
+      "aiSummary": "B&H is offering a $300 discount on the 15-inch MacBook Air equipped with an M5 chip and 24GB of RAM during its Black Friday Deal Zone. The sale brings the price of this upgraded configuration down to $1,399.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/27/black-friday-deal-zone-slashes-15-inch-m5-macbook-air-24gb-ram-to-1399?utm_source=rss",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Apple",
+        "MacBook Air",
+        "M5",
+        "B&H",
+        "Black Friday"
+      ],
+      "publishedAt": "2026-11-27T05:08:36+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Retail"
+        }
+      ]
+    },
+    {
+      "slug": "singapore-talking-to-us-to-keep-ai-chip-access-deputy-pm-says",
+      "title": "Singapore Talking to US to Keep AI Chip Access, Deputy PM Says",
+      "dek": "Singapore is in talks with the US to retain access to advanced semiconductors, Deputy Prime Minister Gan Kim Yong said, after Washington tightened restrictions on chip exports to the Southeast Asian nation.",
+      "aiSummary": "Singapore is currently in discussions with the United States to ensure continued access to advanced semiconductors. These talks follow recent moves by Washington to tighten export restrictions on chips to the Southeast Asian nation.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-27/singapore-talking-to-us-to-keep-ai-chip-access-deputy-pm-says",
+      "category": "Geopolitics",
+      "filterTags": [
+        "Singapore",
+        "United States",
+        "AI Chips",
+        "Semiconductors",
+        "Export Controls"
+      ],
+      "publishedAt": "2026-11-27T05:00:51+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Geopolitics"
+        },
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Trade Policy"
+        }
+      ]
+    },
+    {
+      "slug": "do-i-need-an-ai-art-adviser",
+      "title": "Do I need an AI art adviser?",
+      "dek": "Buyers can now call on the help of chatbots and data-driven platforms — but the technology raises questions about whether taste can and should be engineered",
+      "aiSummary": "Art buyers are increasingly utilizing chatbots and data-driven platforms to assist with their purchasing decisions. However, the rise of this technology has sparked debate over whether aesthetic taste can or should be algorithmically engineered.",
+      "articleUrl": "https://www.ft.com/content/80a5266d-72e1-4f55-976f-e169b440066b",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "chatbots",
+        "data-driven platforms"
+      ],
+      "publishedAt": "2026-11-27T05:00:13+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Art Market"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "roughnecks-lose-out-to-ai-as-automation-in-the-oil-industry-gathers-pace",
+      "title": "Roughnecks lose out to AI as automation in the oil industry gathers pace",
+      "dek": "Artificial intelligence is helping to drill wells faster and replacing workers in some of the most dangerous jobs",
+      "aiSummary": "Artificial intelligence is accelerating the pace of automation in the oil industry, enabling wells to be drilled faster. This technological shift is leading to the replacement of human workers in some of the most hazardous roles.",
+      "articleUrl": "https://www.ft.com/content/da45883c-6612-4071-b363-a826c6edb085?syn-25a6b1a6=1",
+      "category": "Energy",
+      "filterTags": [
+        "Artificial Intelligence",
+        "Oil Industry",
+        "Automation"
+      ],
+      "publishedAt": "2026-11-27T05:00:04+00:00",
+      "publisher": {
+        "name": "Financial Times",
+        "domain": "ft.com",
+        "website": "https://www.ft.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=ft.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Energy"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "spacex-shares-jump-on-alternative-trading-platform-after-musk-says-he-will-expand-share-donations",
+      "title": "SpaceX shares jump on alternative trading platform after Musk says he will expand share donations",
+      "dek": "SpaceX shares jumped in overnight trading on Blue Ocean ATS after Elon Musk said on X that he would donate shares to American children every year.",
+      "aiSummary": "SpaceX shares experienced a price increase in overnight trading on the Blue Ocean ATS platform. This movement followed Elon Musk's statement on X that he intends to donate shares to American children every year.",
+      "articleUrl": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
+      "category": "Finance",
+      "filterTags": [
+        "SpaceX",
+        "Elon Musk",
+        "Blue Ocean ATS",
+        "X"
+      ],
+      "publishedAt": "2026-11-27T04:20:55+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Space"
+        },
+        {
+          "name": "Technology"
+        }
+      ]
+    },
+    {
+      "slug": "philippine-trade-deficit-hits-record-as-imports-soar-50",
+      "title": "Philippine Trade Deficit Hits Record as Imports Soar 50%",
+      "dek": "The Philippines posted a record trade deficit in October as a 50% surge in imports outpaced another sharp rise in exports.",
+      "aiSummary": "The Philippines recorded a record trade deficit in October. This was driven by a 50% surge in imports that significantly outpaced the sharp rise in exports.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-27/philippine-trade-deficit-hits-record-as-imports-soar-50",
+      "category": "Economics",
+      "filterTags": [
+        "Philippines",
+        "Trade Deficit",
+        "Imports",
+        "Exports"
+      ],
+      "publishedAt": "2026-11-27T04:01:23+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Economics"
+        },
+        {
+          "name": "International Trade"
+        }
+      ]
+    },
+    {
+      "slug": "softbank-group-s-1-trillion-retail-bond-shows-more-credit-risk",
+      "title": "SoftBank Group’s ¥1 Trillion Retail Bond Shows More Credit Risk",
+      "dek": "SoftBank Group Corp.’s rising credit risk is starting to show up in its ¥1 trillion ($6.3 billion) retail bond, which had remained relatively resilient even as its overseas bond spreads widened sharply.",
+      "aiSummary": "SoftBank Group's credit risk is becoming evident in its ¥1 trillion retail bond, which had previously remained stable. This shift occurs as the company's overseas bond spreads have widened significantly.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-27/softbank-group-s-1-trillion-retail-bond-shows-more-credit-risk",
+      "category": "Finance",
+      "filterTags": [
+        "SoftBank Group",
+        "Retail Bond",
+        "Credit Risk"
+      ],
+      "publishedAt": "2026-11-27T03:56:58+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Corporate Debt"
+        }
+      ]
+    },
+    {
+      "slug": "interface-friction-is-ai-s-most-underrated-problem",
+      "title": "Interface Friction Is AI's Most Underrated Problem",
+      "dek": "A small figure at the foot of a huge dam holds out a bowl under a thin purple trickle, while a giant faceted purple AI head rests in the reservoir behind the wall/images/ai-interface-friction.webp/images/ai-interface-friction.webp I think one of the biggest ideas in AI that we're",
+      "aiSummary": "The article argues that interface friction is one of the most significant yet underestimated challenges in the field of artificial intelligence. It uses a visual metaphor of a small figure receiving a thin trickle from a massive AI reservoir to illustrate the disparity between the power of AI and the ease of user interaction.",
+      "articleUrl": "https://danielmiessler.com/blog/ai-interface-friction?utm_source=rss&utm_medium=feed&utm_campaign=website",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "User Interface",
+        "UX"
+      ],
+      "publishedAt": "2026-11-27T03:45:00+00:00",
+      "publisher": {
+        "name": "Daniel Miessler",
+        "domain": "danielmiessler.com",
+        "website": "https://danielmiessler.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=danielmiessler.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=danielmiessler.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "User Experience"
+        }
+      ]
+    },
+    {
+      "slug": "nexos-ai-ai-adoption-platform-puts-200-models-behind-one-ai-gateway-with-budget-limits-and-governance-built-in",
+      "title": "nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in",
+      "dek": "nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in \n The post  nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in  appeared first on  MarkTechPost .",
+      "aiSummary": "The nexos.ai AI Adoption Platform provides a unified AI Gateway that integrates more than 200 models. It includes built-in features for setting budget limits and enforcing governance standards.",
+      "articleUrl": "https://www.marktechpost.com/2026/11/26/nexos-ai-ai-gateway-200-models-governance/",
+      "category": "AI",
+      "filterTags": [
+        "nexos.ai",
+        "AI Gateway",
+        "MarkTechPost"
+      ],
+      "publishedAt": "2026-11-27T03:43:35+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Enterprise Software"
+        }
+      ]
+    },
+    {
+      "slug": "best-video-color-grading-software-in-2026-includes-adobe-premiere",
+      "title": "Best video color grading software in 2026 includes Adobe Premiere",
+      "dek": "Professional color grading software can make or break the look of a video, and Adobe Premiere gives everyone from novices to seasoned professionals the tools to achieve cinematic results. Adobe Premiere offers a lot of color grading options for video Capturing the video you need ",
+      "aiSummary": "Professional color grading software is essential for achieving a high-quality video look. Adobe Premiere provides tools for both beginners and experts to create cinematic results through various color grading options.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/27/best-video-color-grading-software-in-2026-includes-adobe-premiere?utm_source=rss",
+      "category": "Video Production",
+      "filterTags": [
+        "Adobe Premiere",
+        "color grading",
+        "video editing"
+      ],
+      "publishedAt": "2026-11-27T03:35:33+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Video Production"
+        },
+        {
+          "name": "Creative Software"
+        }
+      ]
+    },
+    {
+      "slug": "tencent-open-sources-dfly2-speculative-decoding-that-reuses-the-target-s-sparse-kv-cache",
+      "title": "Tencent Open-Sources DFly2: Speculative Decoding That Reuses the Target’s Sparse KV Cache",
+      "dek": "Tencent open-sourced DFly2, a speculative decoding drafter for sparse-attention LLMs. Each draft layer reuses the target's KV cache and top-k indexer picks, adding no draft KV memory and lifting 64K serving throughput by up to 81%. \n The post  Tencent Open-Sources DFly2: Speculat",
+      "aiSummary": "Tencent has open-sourced DFly2, a speculative decoding drafter designed for sparse-attention large language models. The system reuses the target model's KV cache and top-k indexer picks, which eliminates the need for additional draft KV memory. This approach increases 64K serving throughput by up to 81%.",
+      "articleUrl": "https://www.marktechpost.com/2026/11/26/tencent-dfly2-speculative-decoding-sparse-models/",
+      "category": "AI",
+      "filterTags": [
+        "Tencent",
+        "DFly2",
+        "Speculative Decoding",
+        "KV Cache",
+        "Sparse Attention",
+        "LLM"
+      ],
+      "publishedAt": "2026-11-27T03:31:30+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Open Source"
+        },
+        {
+          "name": "Machine Learning Infrastructure"
+        }
+      ]
+    },
+    {
+      "slug": "why-is-there-a-shortage-of-wizard-elevator-mechanics",
+      "title": "Why is there a shortage of 'wizard' elevator mechanics?",
+      "dek": "The pay is good and there's lots of work, so what's behind the shortage of elevator mechanics?",
+      "aiSummary": "The article points out that elevator mechanics earn good wages and there is plenty of work available, yet a shortage persists. It explores the reasons behind this gap in the workforce.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
+      "category": "Labor Market",
+      "filterTags": [
+        "Elevator mechanics"
+      ],
+      "publishedAt": "2026-11-27T00:02:19+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Labor Market"
+        },
+        {
+          "name": "Mechanical Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "asia-made-a-big-ai-bet-on-nvidia-what-happens-now",
+      "title": "Asia made a big AI bet on Nvidia. What happens now?",
+      "dek": "Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO.",
+      "aiSummary": "Asian markets have experienced volatility following Nvidia CEO Jensen Huang's unexpected return. The move has spurred increased interest in Nvidia shares across the region.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+      "category": "Finance",
+      "filterTags": [
+        "Nvidia",
+        "Jensen Huang",
+        "AI",
+        "Asian stocks"
+      ],
+      "publishedAt": "2026-11-26T23:08:12+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "AI"
+        }
+      ]
+    },
+    {
+      "slug": "how-clay-builds-gtm-agents-jeff-barg-head-of-ai",
+      "title": "How Clay Builds GTM Agents — Jeff Barg, Head of AI",
+      "dek": "How $1,500 could qualify every company in the world, why customers hate the model selector, and how Clay is building go-to-market infrastructure for every agent",
+      "aiSummary": "Clay proposes a $1,500 solution that could qualify all companies worldwide. The company faces customer frustration with its model selector tool. Clay is developing go‑to‑market infrastructure to support agents.",
+      "articleUrl": "https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai/",
+      "category": "Artificial Intelligence",
+      "filterTags": [
+        "Clay",
+        "GTM Agents",
+        "Model Selector",
+        "Go-to-Market Infrastructure",
+        "AI"
+      ],
+      "publishedAt": "2026-11-26T23:02:48+00:00",
+      "publisher": {
+        "name": "Latent Space",
+        "domain": "latent.space",
+        "website": "https://www.latent.space/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=latent.space&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Artificial Intelligence"
+        },
+        {
+          "name": "Business Operations"
+        },
+        {
+          "name": "Customer Experience"
+        }
+      ]
+    },
+    {
+      "slug": "sakana-ai-releases-namazu-small-a-30b-model-built-on-nemotron-3-nano",
+      "title": "Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano",
+      "dek": "Sakana AI released Sakana Namazu Small, a 30B-A3B reasoning model built on NVIDIA Nemotron 3 Nano. It averages 60.1 across 25 benchmarks, ahead of the 120B Nemotron 3 Super at 56.2. \n The post  Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano  appeared first ",
+      "aiSummary": "Sakana AI has released Namazu Small, a 30B-A3B reasoning model developed on the NVIDIA Nemotron 3 Nano foundation. The model achieves an average score of 60.1 across 25 benchmarks, outperforming the larger 120B Nemotron 3 Super, which scores 56.2.",
+      "articleUrl": "https://www.marktechpost.com/2026/11/26/sakana-ai-namazu-small-30b-nemotron-3-nano/",
+      "category": "AI",
+      "filterTags": [
+        "Sakana AI",
+        "Namazu Small",
+        "NVIDIA",
+        "Nemotron 3 Nano",
+        "Nemotron 3 Super"
+      ],
+      "publishedAt": "2026-11-26T22:06:40+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "slug": "backloggd-urges-users-to-change-their-passwords-after-a-breach",
+      "title": "Backloggd urges users to change their passwords after a breach",
+      "dek": "If you use Backloggd, you might need to log in again and reset your password.",
+      "aiSummary": "Backloggd has experienced a breach, prompting the company to advise users to log in again and reset their passwords. Affected users should change their passwords to protect their accounts.",
+      "articleUrl": "https://www.engadget.com/2329256/backloggd-breach-november-2026-password-reset/",
+      "category": "Security",
+      "filterTags": [
+        "Backloggd",
+        "password"
+      ],
+      "publishedAt": "2026-11-26T21:26:47+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Authentication"
+        }
+      ]
+    }
+  ]
+}
