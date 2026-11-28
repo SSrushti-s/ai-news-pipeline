@@ -1,0 +1,582 @@
+{
+  "news": [
+    {
+      "slug": "these-settings-can-adjust-your-samsung-phone-s-display-to-your-liking",
+      "title": "These settings can adjust your Samsung phone's display to your liking",
+      "dek": "Samsung makes great displays, but Galaxy phones ship with display settings throttled. You can adjust settings to maximize performance or battery life.",
+      "aiSummary": "Samsung Galaxy phones often have display settings that are limited by default. Users can modify these configurations to either maximize performance or extend battery life.",
+      "articleUrl": "https://www.engadget.com/2326026/adjust-samsung-phone-display-settings/",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Samsung",
+        "Galaxy",
+        "Display Settings"
+      ],
+      "publishedAt": "2026-11-28T19:00:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Mobile Devices"
+        }
+      ]
+    },
+    {
+      "slug": "the-safest-way-to-eject-a-stuck-disc-from-your-ps5",
+      "title": "The safest way to eject a stuck disc from your PS5",
+      "dek": "Discs getting stuck in your PS5 is no fun, since you can't switch to another game. You can reclaim the disc by following a short process carefully.",
+      "aiSummary": "Stuck discs in a PS5 prevent users from switching games, but the issue can be resolved by carefully following a specific removal process. This method allows players to reclaim the disc and continue using their console.",
+      "articleUrl": "https://www.engadget.com/2326022/how-to-eject-stuck-disc-from-ps5/",
+      "category": "Gaming",
+      "filterTags": [
+        "PS5",
+        "PlayStation",
+        "Disc Ejection"
+      ],
+      "publishedAt": "2026-11-28T18:45:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Gaming"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "why-your-tablet-speakers-sound-muffled-and-how-to-fix-them",
+      "title": "Why your tablet speakers sound muffled (and how to fix them)",
+      "dek": "Poor sound can make watching videos on your tablet frustrating. Learn how to narrow down what's causing the problem and what you might be able to do about it.",
+      "aiSummary": "Muffled speaker output can make video playback on tablets frustrating. The article explains how to identify the specific cause of poor sound quality and outlines potential solutions to fix the issue.",
+      "articleUrl": "https://www.engadget.com/2326018/tablet-speaker-muffled-sound-fix/",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Tablet",
+        "Audio",
+        "Speakers"
+      ],
+      "publishedAt": "2026-11-28T18:30:00+00:00",
+      "publisher": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "website": "https://www.engadget.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=engadget.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "openai-s-new-countersuit-accuses-apple-of-unlawfully-pressuring-vendors",
+      "title": "OpenAI’s new countersuit accuses Apple of ‘unlawfully pressuring vendors’",
+      "dek": "After Apple sued OpenAI this summer, OpenAI has fired back with a countersuit of its own.",
+      "aiSummary": "Following Apple's lawsuit against OpenAI earlier this summer, OpenAI has filed a countersuit. The new legal action alleges that Apple unlawfully pressured vendors.",
+      "articleUrl": "https://techcrunch.com/2026/11/28/openais-new-countersuit-accuses-apple-of-unlawfully-pressuring-vendors/",
+      "category": "Legal",
+      "filterTags": [
+        "OpenAI",
+        "Apple"
+      ],
+      "publishedAt": "2026-11-28T17:46:47+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Big Tech"
+        }
+      ]
+    },
+    {
+      "slug": "code-driven-ai-illustrations-are-more-useful-than-images-from-dedicated-image-models",
+      "title": "Code-driven AI illustrations are more useful than images from dedicated image models",
+      "dek": "An interesting trend in frontier LLMs released in the second half of 2026 is that they tend to be much better at visual reasoning and creative \"design\" than their predecessors. If you ask these text-output models to create a 2D image (or a 3D model, as  discussed here previously ",
+      "aiSummary": "Frontier large language models released in late 2026 have shown significant improvements in visual reasoning and creative design capabilities. These text-output models are now more effective at generating 2D images and 3D models through code than dedicated image generation models.",
+      "articleUrl": "https://simonwillison.net/2026/Nov/28/code-driven-ai-illustrations/",
+      "category": "AI",
+      "filterTags": [
+        "LLMs",
+        "Visual Reasoning",
+        "Code Generation",
+        "2D Images",
+        "3D Models"
+      ],
+      "publishedAt": "2026-11-28T17:45:40+00:00",
+      "publisher": {
+        "name": "Simon Willison",
+        "domain": "simonwillison.net",
+        "website": "https://simonwillison.net",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=simonwillison.net&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Generative Media"
+        },
+        {
+          "name": "Software Development"
+        }
+      ]
+    },
+    {
+      "slug": "pensions-and-benefits-services-still-down-after-cyber-incident",
+      "title": "Pensions and benefits services still down after 'cyber incident'",
+      "dek": "The UK's former chief technology officer says the Department for Work and Pensions may have been hit by hackers, but the government has not confirmed that.",
+      "aiSummary": "The former UK chief technology officer suggested that the Department for Work and Pensions could have been targeted by hackers. However, the government has not confirmed any cyber attack. Services remain down.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+      "category": "Government",
+      "filterTags": [
+        "Department for Work and Pensions",
+        "cyber incident"
+      ],
+      "publishedAt": "2026-11-28T16:01:09+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Government"
+        },
+        {
+          "name": "Cybersecurity"
+        }
+      ]
+    },
+    {
+      "slug": "amazon-s-149-airpods-pro-3-deal-has-been-extended-to-cyber-monday",
+      "title": "Amazon's $149 AirPods Pro 3 deal has been extended to Cyber Monday",
+      "dek": "Amazon's best $149 AirPods Pro 3 deal has been extended to Cyber Monday, delivering a record-low price while supplies last. Get Amazon's best AirPods Pro 3 deal for Cyber Monday. If you missed out on Amazon's top Black Friday AirPods deal, don't worry, as the  $149 AirPods Pro 3 ",
+      "aiSummary": "Amazon has extended its $149 AirPods Pro 3 deal to Cyber Monday, offering a record‑low price while supplies last. The promotion, originally launched for Black Friday, remains available for customers who missed the earlier sale. The offer is limited by inventory.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/28/amazons-149-airpods-pro-3-deal-has-been-extended-to-cyber-monday?utm_source=rss",
+      "category": "Retail",
+      "filterTags": [
+        "Amazon",
+        "AirPods Pro 3"
+      ],
+      "publishedAt": "2026-11-28T14:38:58+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Retail"
+        },
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "E-commerce"
+        }
+      ]
+    },
+    {
+      "slug": "ai-data-center-boom-strains-construction-labor-across-the-u-s",
+      "title": "AI data center boom strains construction labor across the U.S.",
+      "dek": "CNBC traveled to Abilene, Texas to see how the AI data center construction boom is impacting the local economy in both positive and negative ways.",
+      "aiSummary": "CNBC visited Abilene, Texas, to examine the effects of the AI data center construction boom on the local economy. The report highlights how this surge in infrastructure development is impacting the region in both positive and negative ways.",
+      "articleUrl": "https://www.cnbc.com/2026/11/28/ai-data-center-construction-worker-shortage-texas.html",
+      "category": "AI",
+      "filterTags": [
+        "AI",
+        "Data Centers",
+        "Construction",
+        "CNBC",
+        "Abilene, Texas"
+      ],
+      "publishedAt": "2026-11-28T14:00:01+00:00",
+      "publisher": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "website": "https://www.cnbc.com/technology/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Infrastructure"
+        },
+        {
+          "name": "Economy"
+        }
+      ]
+    },
+    {
+      "slug": "sakana-ai-s-ceo-says-its-homegrown-models-are-about-more-than-japan-s-national-security",
+      "title": "Sakana AI’s CEO says its homegrown models are about more than Japan’s national security",
+      "dek": "Sakana AI aims to strengthen Japan’s industrial competitiveness with homegrown AI models.",
+      "aiSummary": "Sakana AI's CEO states that the company's homegrown models are designed to do more than just address Japan's national security needs. The organization aims to use these models to enhance Japan's overall industrial competitiveness.",
+      "articleUrl": "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/",
+      "category": "AI",
+      "filterTags": [
+        "Sakana AI",
+        "AI models",
+        "Japan"
+      ],
+      "publishedAt": "2026-11-28T14:00:00+00:00",
+      "publisher": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "website": "https://techcrunch.com/",
+        "logoUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "faviconUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Geopolitics"
+        },
+        {
+          "name": "Industry"
+        }
+      ]
+    },
+    {
+      "slug": "how-to-test-llm-state-tracking-with-a-statebench-style-deployment-log",
+      "title": "How to Test LLM State Tracking With a StateBench-Style Deployment Log",
+      "dek": "Nine promotion histories, a Python replay, and a four-variant prompt with an UNKNOWN option show whether a release assistant tracks state or just reads the last line. \n The post  How to Test LLM State Tracking With a StateBench-Style Deployment Log  appeared first on  Towards Dat",
+      "aiSummary": "The article describes a method for testing LLM state tracking using a StateBench-style deployment log containing nine promotion histories. It utilizes a Python replay and a four-variant prompt with an UNKNOWN option to determine if a release assistant tracks state or merely reads the last line.",
+      "articleUrl": "https://towardsdatascience.com/how-to-test-llm-state-tracking-with-a-statebench-style-deployment-log/",
+      "category": "AI",
+      "filterTags": [
+        "LLM",
+        "Python",
+        "StateBench",
+        "Prompt Engineering"
+      ],
+      "publishedAt": "2026-11-28T13:00:00+00:00",
+      "publisher": {
+        "name": "Medium",
+        "domain": "towardsdatascience.com",
+        "website": "https://towardsdatascience.com/",
+        "logoUrl": "https://towardsdatascience.com/apple-touch-icon.png",
+        "faviconUrl": "https://towardsdatascience.com/favicon.ico",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Software Engineering"
+        }
+      ]
+    },
+    {
+      "slug": "product-red-homepod-mini-leaks-onto-store-shelves-early",
+      "title": "Product(Red) HomePod mini leaks onto store shelves early",
+      "dek": "Apple's revival of Product(Red) has seemingly started early, with some stores putting the special-colored  HomePod mini  2 on shelves before any official announcement. An early Product(Red) HomePod mini 2 sighting - Image credit: Mark Gurman/X Apple is  bringing back Product(Red)",
+      "aiSummary": "Apple's Product(Red) HomePod mini 2 has been spotted on store shelves before an official announcement. This early appearance suggests the revival of the special-colored product line has begun prematurely.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/28/productred-homepod-mini-leaks-onto-store-shelves-early?utm_source=rss",
+      "category": "Consumer Electronics",
+      "filterTags": [
+        "Apple",
+        "HomePod mini",
+        "Product(Red)"
+      ],
+      "publishedAt": "2026-11-28T12:58:50+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Hardware"
+        }
+      ]
+    },
+    {
+      "slug": "walmart-leans-on-value-and-ai-for-holidays",
+      "title": "Walmart Leans on Value and AI for Holidays",
+      "dek": "Walmart says shoppers remain resilient but are being thoughtful about holiday spending, seeking value on everything from meals and toys to fashion and beauty. On Bloomberg This Weekend, Walmart Chief Merchandising Officer Julie Barber tells host Lisa Mateo how the retailer is usi",
+      "aiSummary": "Walmart reports that holiday shoppers are resilient but prioritizing value across categories like meals, toys, and fashion. The retailer is leveraging artificial intelligence to support this strategy, according to Chief Merchandising Officer Julie Barber.",
+      "articleUrl": "https://www.bloomberg.com/news/videos/2026-11-28/walmart-leans-on-value-and-ai-for-holidays-video",
+      "category": "Retail",
+      "filterTags": [
+        "Walmart",
+        "AI",
+        "Holiday Spending",
+        "Retail"
+      ],
+      "publishedAt": "2026-11-28T12:53:54+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Retail"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Consumer Behavior"
+        }
+      ]
+    },
+    {
+      "slug": "musk-says-google-interested-in-renting-more-compute-from-spacex",
+      "title": "Musk Says Google Interested in Renting More Compute from SpaceX",
+      "dek": "Alphabet Inc.’s Google has expressed interest in renting more computing capacity from SpaceX, Elon Musk said on social media early Saturday without elaborating.",
+      "aiSummary": "Elon Musk stated on social media that Google has shown interest in renting more computing capacity from SpaceX. He made the announcement early Saturday without providing further details.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-28/musk-says-google-interested-in-renting-more-compute-from-spacex",
+      "category": "Technology",
+      "filterTags": [
+        "SpaceX",
+        "Google",
+        "Alphabet",
+        "Compute"
+      ],
+      "publishedAt": "2026-11-28T12:41:48+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Technology"
+        },
+        {
+          "name": "Cloud Computing"
+        }
+      ]
+    },
+    {
+      "slug": "openai-counter-sues-apple-over-alleged-theft-of-trade-secrets",
+      "title": "OpenAI counter-sues Apple over alleged theft of trade secrets",
+      "dek": "The ChatGPT-maker alleges that tech giant Apple stole trade secrets through a former employee.",
+      "aiSummary": "OpenAI has initiated legal action against Apple, alleging that the tech giant misappropriated trade secrets. The complaint claims that this theft of confidential information was facilitated by a former employee.",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss",
+      "category": "Legal",
+      "filterTags": [
+        "OpenAI",
+        "Apple",
+        "trade secrets",
+        "litigation"
+      ],
+      "publishedAt": "2026-11-28T11:35:34+00:00",
+      "publisher": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "website": "https://www.bbc.com/news/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bbc.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Legal"
+        },
+        {
+          "name": "Big Tech"
+        }
+      ]
+    },
+    {
+      "slug": "ant-group-releases-lingsante-3-1-flash-an-open-weight-moe-model-with-560b-total-parameters-and-25b-activations-per-token",
+      "title": "Ant Group Releases LingSante-3.1-flash: An Open-Weight MoE Model with 560B Total Parameters and 25B Activations per Token",
+      "dek": "Ant Group's Afu team open-sourced LingSante-3.1-flash, a 560B-parameter MoE medical AI model with 25B active parameters, a 1M-token context and an MIT license. It ranks first among open models on InclusionMed. \n The post  Ant Group Releases LingSante-3.1-flash: An Open-Weight MoE",
+      "aiSummary": "Ant Group's Afu team has open-sourced LingSante-3.1-flash, a medical AI model featuring a 560B-parameter Mixture-of-Experts architecture with 25B active parameters per token. The model supports a 1M-token context window, is released under an MIT license, and currently ranks first among open models on the InclusionMed benchmark.",
+      "articleUrl": "https://www.marktechpost.com/2026/11/28/ant-group-lingsante-3-1-flash-open-source-medical-ai/",
+      "category": "AI",
+      "filterTags": [
+        "Ant Group",
+        "LingSante-3.1-flash",
+        "MoE",
+        "InclusionMed",
+        "MIT License"
+      ],
+      "publishedAt": "2026-11-28T09:45:33+00:00",
+      "publisher": {
+        "name": "MarkTechPost",
+        "domain": "marktechpost.com",
+        "website": "https://www.marktechpost.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=marktechpost.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Healthcare"
+        },
+        {
+          "name": "Open Source"
+        }
+      ]
+    },
+    {
+      "slug": "thailand-to-ban-export-of-chemicals-to-myanmar-rare-earth-mines",
+      "title": "Thailand to Ban Export of Chemicals to Myanmar Rare-Earth Mines",
+      "dek": "Thailand is set to issue a ban on Monday on exports of chemicals used in rare-earth mining in Myanmar, after elevated arsenic levels in rivers in the north raised a public health alarm.",
+      "aiSummary": "Thailand is set to ban the export of chemicals used in rare-earth mining in Myanmar starting Monday. This decision follows a public health alarm caused by elevated arsenic levels detected in rivers in the northern region.",
+      "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-28/thailand-to-ban-export-of-chemicals-to-myanmar-rare-earth-mines",
+      "category": "Environmental Policy",
+      "filterTags": [
+        "Thailand",
+        "Myanmar",
+        "Rare-Earth",
+        "Arsenic",
+        "Chemicals"
+      ],
+      "publishedAt": "2026-11-28T09:38:43+00:00",
+      "publisher": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "website": "https://www.bloomberg.com/technology",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Environmental Policy"
+        },
+        {
+          "name": "Geopolitics"
+        },
+        {
+          "name": "Public Health"
+        }
+      ]
+    },
+    {
+      "slug": "amazon-extends-its-best-black-friday-apple-deals-into-cyber-monday",
+      "title": "Amazon extends its best Black Friday Apple deals into Cyber Monday",
+      "dek": "Black Friday weekend is officially here, and with it are some of the lowest prices on record. Save up to $800 across Apple's hardware lines heading into Cyber Monday, plus grab streaming deals, monitor discounts, and more. Save up to $800 on Apple for Cyber Monday - Image credit:",
+      "aiSummary": "Amazon is offering up to $800 off on Apple hardware through Cyber Monday, along with deals on streaming services and monitors. The Black Friday weekend features record low prices across these categories.",
+      "articleUrl": "https://appleinsider.com/articles/26/11/28/amazon-extends-its-best-black-friday-apple-deals-into-cyber-monday?utm_source=rss",
+      "category": "Retail",
+      "filterTags": [
+        "Amazon",
+        "Apple",
+        "Cyber Monday",
+        "Black Friday"
+      ],
+      "publishedAt": "2026-11-28T09:04:51+00:00",
+      "publisher": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "website": "https://appleinsider.com/",
+        "logoUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=appleinsider.com&sz=128",
+        "colorHex": null,
+        "followersLabel": null,
+        "credibilityScore": 0.8
+      },
+      "topics": [
+        {
+          "name": "Retail"
+        },
+        {
+          "name": "Consumer Electronics"
+        },
+        {
+          "name": "Sales Events"
+        }
+      ]
+    }
+  ]
+}
